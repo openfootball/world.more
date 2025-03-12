@@ -1,0 +1,585 @@
+= Mexico | Liga de Expansión MX 2022/23
+
+  # Date       Fri Jun/24 2022 - Sat Jun/3 2023 (344d)
+  # Teams      20
+  # Matches    344
+
+  # Note - All times in America/Mexico_City
+
+» Apertura - 1
+  Fri Jun 24 2022
+    21.05     Mineros de Zacatecas v Celaya  1-0 (0-0)   @ Estadio Carlos Vega Villalba › Zacatecas
+  Sat Jun 25
+    21.05     Leones Negros UDG v Alebrijes de Oaxaca  0-0 (0-0)   @ Estadio Jalisco › Guadalajara
+  Sun Jun 26
+    19.05     Venados FC v Correcaminos Uat  1-3 (0-2)   @ Estadio Olímpico Carlos Iturralde Rivero › Mérida
+    21.05     Pumas Tabasco v Cancún  1-2 (1-0)   @ Estadio Olímpico de Villahermosa › Villahermosa
+  Mon Jun 27
+    17.00     Tepatitlán v Dorados  2-0 (0-0)   @ Estadio Gregorio Tepa Gómez › Tepatitlán de Morelos
+  Wed Jun 29
+    19.05     Tlaxcala v Cimarrones  2-0 (1-0)   @ Estadio Tlahuicole › Tlaxcala
+    21.05     Raya2 v Monarcas  1-0 (1-0)   @ Estadio BBVA › Guadalupe
+  Thu Jun 30
+    17.00     Tapatío v Durango  3-1 (1-1)   @ Estadio AKRON › Zapopan
+    19.00     Atlante FC v CA La Paz  3-0 (1-0)   @ Estadio Ciudad de los Deportes › D.F.
+» Apertura - 2
+  Tue Jul 5
+    19.05     Cancún v Raya2  0-1 (0-0)   @ Estadio Olímpico Andrés Quintana Roo › Cancún
+    21.05     Dorados v Cimarrones  1-2 (1-0)   @ Estadio Dorados › Culiacán
+  Wed Jul 6
+    17.00     Monarcas v Tlaxcala  2-0 (1-0)   @ Estadio Generalísimo José María Morelos y Pavón › Morelia
+    19.05     Mineros de Zacatecas v Tapatío  3-4 (1-3)   @ Estadio Carlos Vega Villalba › Zacatecas
+  Thu Jul 7
+    17.00     Durango v CA La Paz  0-0 (0-0)   @ Estadio Francisco Zarco › Durango
+    19.05     Correcaminos Uat v Atlante FC  1-2 (1-1)   @ Estadio Olímpico Ing. Marte R. Gómez › Ciudad Victoria
+  Fri Jul 8
+    17.00     Alebrijes de Oaxaca v Venados FC  0-0 (0-0)   @ Estadio Tecnológico de Oaxaca › Oaxaca
+  Sat Jul 9
+    17.00     Celaya v Pumas Tabasco  2-1 (1-0)   @ Estadio Miguel Alemán Valdés › Celaya
+  Sun Jul 10
+    21.00     Leones Negros UDG v Tepatitlán  3-0 (1-0)   @ Estadio Jalisco › Guadalajara
+» Apertura - 3
+  Tue Jul 12
+    19.05     Correcaminos Uat v Durango  5-3 (1-0)   @ Estadio Olímpico Ing. Marte R. Gómez › Ciudad Victoria
+    21.05     Cimarrones v Mineros de Zacatecas  3-0 (1-0)   @ Estadio Héroe de Nacozari › Hermosillo
+  Wed Jul 13
+    17.00     Tlaxcala v Dorados  0-2 (0-1)   @ Estadio Tlahuicole › Tlaxcala
+    19.05     Atlante FC v Cancún  2-0 (2-0)   @ Estadio Ciudad de los Deportes › D.F.
+    21.05     CA La Paz v Leones Negros UDG  2-2 (1-1)   @ Estadio Guaycura › La Paz
+  Thu Jul 14
+    17.00     Tepatitlán v Raya2  1-2 (1-1)   @ Estadio Gregorio Tepa Gómez › Tepatitlán de Morelos
+    19.05     Pumas Tabasco v Alebrijes de Oaxaca  0-2 (0-0)   @ Estadio Olímpico de Villahermosa › Villahermosa
+    21.05     Venados FC v Celaya  3-2 (2-1)   @ Estadio Olímpico Carlos Iturralde Rivero › Mérida
+  Fri Jul 15
+    17.00     Tapatío v Monarcas  2-0 (0-0)   @ Estadio AKRON › Zapopan
+» Apertura - 4
+  Tue Jul 19
+    19.05     Cancún v Tlaxcala  1-0 (1-0)   @ Estadio Olímpico Andrés Quintana Roo › Cancún
+    21.05     Dorados v CA La Paz  1-0 (1-0)   @ Estadio Dorados › Culiacán
+  Wed Jul 20
+    17.05     Mineros de Zacatecas v Tepatitlán  1-1 (1-0)   @ Estadio Carlos Vega Villalba › Zacatecas
+    19.05     Celaya v Tapatío  2-0 (1-0)   @ Estadio Miguel Alemán Valdés › Celaya
+    21.05     Raya2 v Atlante FC  0-0 (0-0)   @ Estadio BBVA › Guadalupe
+  Thu Jul 21
+    17.00     Durango v Venados FC  1-1 (1-0)   @ Estadio Francisco Zarco › Durango
+    19.00     Leones Negros UDG v Correcaminos Uat  0-0 (0-0)   @ Estadio Jalisco › Guadalajara
+  Sat Jul 23
+    17.00     Alebrijes de Oaxaca v Cimarrones  1-1 (1-0)   @ Estadio Tecnológico de Oaxaca › Oaxaca
+  Sun Jul 24
+    21.00     Monarcas v Pumas Tabasco  1-1 (0-0)   @ Estadio Generalísimo José María Morelos y Pavón › Morelia
+» Apertura - 5
+  Tue Jul 26
+    19.05     Correcaminos Uat v Alebrijes de Oaxaca  0-0 (0-0)   @ Estadio Olímpico Ing. Marte R. Gómez › Ciudad Victoria
+    21.05     CA La Paz v Celaya  0-0 (0-0)   @ Estadio Guaycura › La Paz
+  Wed Jul 27
+    17.05     Atlante FC v Dorados  3-0 (0-0)   @ Estadio Ciudad de los Deportes › D.F.
+    19.05     Pumas Tabasco v Mineros de Zacatecas  1-1 (0-1)   @ Estadio Olímpico de Villahermosa › Villahermosa
+    21.05     Cimarrones v Cancún  0-0 (0-0)   @ Estadio Héroe de Nacozari › Hermosillo
+  Thu Jul 28
+    17.00     Tlaxcala v Raya2  1-1 (1-0)   @ Estadio Tlahuicole › Tlaxcala
+    19.05     Tepatitlán v Durango  0-0 (0-0)   @ Estadio Gregorio Tepa Gómez › Tepatitlán de Morelos
+  Fri Jul 29
+    19.00     Venados FC v Monarcas  0-2 (0-1)   @ Estadio Olímpico Carlos Iturralde Rivero › Mérida
+  Mon Aug 1
+    17.00     Tapatío v Leones Negros UDG  0-2 (0-1)   @ Estadio AKRON › Zapopan
+» Apertura - 6
+  Tue Aug 2
+    19.05     Cancún v CA La Paz  2-0 (1-0)   @ Estadio Olímpico Andrés Quintana Roo › Cancún
+    21.05     Dorados v Celaya  0-1 (0-1)   @ Estadio Dorados › Culiacán
+  Wed Aug 3
+    17.05     Durango v Tlaxcala  3-0 (1-0)   @ Estadio Francisco Zarco › Durango
+    19.05     Tepatitlán v Pumas Tabasco  4-3 (3-3)   @ Estadio Gregorio Tepa Gómez › Tepatitlán de Morelos
+    21.05     Raya2 v Cimarrones  1-1 (0-1)   @ Estadio BBVA › Guadalupe
+  Thu Aug 4
+    17.00     Alebrijes de Oaxaca v Tapatío  4-0 (1-0)   @ Estadio Tecnológico de Oaxaca › Oaxaca
+    19.00     Monarcas v Correcaminos Uat  1-0 (0-0)   @ Estadio Generalísimo José María Morelos y Pavón › Morelia
+  Sat Aug 6
+    17.00     Mineros de Zacatecas v Atlante FC  1-3 (0-3)   @ Estadio Carlos Vega Villalba › Zacatecas
+  Sun Aug 7
+    21.00     Leones Negros UDG v Venados FC  4-0 (3-0)   @ Estadio Jalisco › Guadalajara
+» Apertura - 7
+  Tue Aug 9
+    19.05     Pumas Tabasco v Durango  2-1 (2-0)   @ Estadio Olímpico de Villahermosa › Villahermosa
+    21.05     CA La Paz v Tlaxcala  2-2 (1-1)   @ Estadio Guaycura › La Paz
+  Wed Aug 10
+    17.05     Celaya v Tepatitlán  1-0 (0-0)   @ Estadio Miguel Alemán Valdés › Celaya
+    19.05     Venados FC v Dorados  1-1 (0-0)   @ Estadio Olímpico Carlos Iturralde Rivero › Mérida
+    21.05     Cimarrones v Leones Negros UDG  2-1 (2-0)   @ Estadio Héroe de Nacozari › Hermosillo
+  Thu Aug 11
+    17.00     Alebrijes de Oaxaca v Mineros de Zacatecas  2-2 (2-1)   @ Estadio Tecnológico de Oaxaca › Oaxaca
+    19.05     Atlante FC v Monarcas  1-0 (0-0)   @ Estadio Ciudad de los Deportes › D.F.
+    21.00     Correcaminos Uat v Cancún  0-0 (0-0)   @ Estadio Olímpico Ing. Marte R. Gómez › Ciudad Victoria
+  Fri Aug 12
+    17.00     Tapatío v Raya2  1-1 (0-0)   @ Estadio AKRON › Zapopan
+» Apertura - 8
+  Tue Aug 16
+    19.05     Cancún v Alebrijes de Oaxaca  0-0 (0-0)   @ Estadio Olímpico Andrés Quintana Roo › Cancún
+    21.05     Raya2 v Venados FC  1-2 (1-1)   @ Estadio BBVA › Guadalupe
+  Wed Aug 17
+    17.05     Mineros de Zacatecas v CA La Paz  2-1 (1-1)   @ Estadio Carlos Vega Villalba › Zacatecas
+    19.05     Tlaxcala v Celaya  0-1 (0-1)   @ Estadio Tlahuicole › Tlaxcala
+  Thu Aug 18
+    17.00     Durango v Leones Negros UDG  1-0 (1-0)   @ Estadio Francisco Zarco › Durango
+    19.00     Pumas Tabasco v Atlante FC  1-1 (1-0)   @ Estadio Olímpico de Villahermosa › Villahermosa
+  Fri Aug 19
+    17.00     Tepatitlán v Correcaminos Uat  3-0 (1-0)   @ Estadio Gregorio Tepa Gómez › Tepatitlán de Morelos
+  Sun Aug 21
+    21.00     Monarcas v Cimarrones  2-1 (1-0)   @ Estadio Generalísimo José María Morelos y Pavón › Morelia
+» Apertura - 9
+  Tue Aug 23
+    19.05     Correcaminos Uat v Tlaxcala  0-2 (0-1)   @ Estadio Olímpico Ing. Marte R. Gómez › Ciudad Victoria
+    21.05     CA La Paz v Raya2  1-0 (0-0)   @ Estadio Guaycura › La Paz
+  Wed Aug 24
+    17.05     Leones Negros UDG v Mineros de Zacatecas  3-2 (2-2)   @ Estadio Jalisco › Guadalajara
+    19.05     Venados FC v Pumas Tabasco  2-0 (2-0)   @ Estadio Olímpico Carlos Iturralde Rivero › Mérida
+    21.05     Dorados v Durango  2-2 (0-1)   @ Estadio Dorados › Culiacán
+  Thu Aug 25
+    17.00     Celaya v Cimarrones  3-1 (2-0)   @ Estadio Miguel Alemán Valdés › Celaya
+  Fri Aug 26
+    17.00     Tapatío v Cancún  1-0 (0-0)   @ Estadio AKRON › Zapopan
+  Sat Aug 27
+    17.00     Alebrijes de Oaxaca v Monarcas  1-3 (0-1)   @ Estadio Tecnológico de Oaxaca › Oaxaca
+  Mon Aug 29
+    17.00     Atlante FC v Tepatitlán  1-1 (1-1)   @ Estadio Ciudad de los Deportes › D.F.
+» Apertura - 10
+  Tue Aug 30
+    19.05     Cancún v Venados FC  1-2 (1-2)   @ Estadio Olímpico Andrés Quintana Roo › Cancún
+    21.05     Cimarrones v CA La Paz  4-0 (1-0)   @ Estadio Héroe de Nacozari › Hermosillo
+  Wed Aug 31
+    17.05     Mineros de Zacatecas v Correcaminos Uat  1-0 (1-0)   @ Estadio Carlos Vega Villalba › Zacatecas
+    19.05     Tlaxcala v Leones Negros UDG  2-0 (1-0)   @ Estadio Tlahuicole › Tlaxcala
+    21.05     Pumas Tabasco v Tapatío  1-0 (1-0)   @ Estadio Olímpico de Villahermosa › Villahermosa
+  Thu Sep 1
+    17.00     Durango v Atlante FC  1-1 (0-1)   @ Estadio Francisco Zarco › Durango
+    19.00     Tepatitlán v Alebrijes de Oaxaca  1-1 (1-0)   @ Estadio Gregorio Tepa Gómez › Tepatitlán de Morelos
+    21.00     Raya2 v Celaya  2-3 (0-2)   @ Estadio BBVA › Guadalupe
+  Sun Sep 4
+    19.05     Monarcas v Dorados  3-0 (1-0)   @ Estadio Generalísimo José María Morelos y Pavón › Morelia
+» Apertura - 17
+  Sun Sep 4
+    21.00     Tlaxcala v Atlante FC  0-5 (0-3)   @ Estadio Tlahuicole › Tlaxcala
+» Apertura - 11
+  Tue Sep 6
+    19.05     Correcaminos Uat v Pumas Tabasco  1-0 (1-0)   @ Estadio Olímpico Ing. Marte R. Gómez › Ciudad Victoria
+  Wed Sep 7
+    17.05     Leones Negros UDG v Cancún  3-0 (1-0)   @ Estadio Jalisco › Guadalajara
+    19.05     Venados FC v Mineros de Zacatecas  0-1 (0-0)   @ Estadio Olímpico Carlos Iturralde Rivero › Mérida
+    21.05     Dorados v Raya2  2-1 (0-1)   @ Estadio Dorados › Culiacán
+  Thu Sep 8
+    17.00     Celaya v Monarcas  2-0 (1-0)   @ Estadio Miguel Alemán Valdés › Celaya
+    19.05     Atlante FC v Cimarrones  2-2 (1-1)   @ Estadio Ciudad de los Deportes › D.F.
+    21.05     CA La Paz v Tepatitlán  1-1 (0-1)   @ Estadio Guaycura › La Paz
+  Fri Sep 9
+    17.00     Tapatío v Tlaxcala  1-1 (0-1)   @ Estadio AKRON › Zapopan
+  Sat Sep 10
+    17.00     Alebrijes de Oaxaca v Durango  4-0 (2-0)   @ Estadio Tecnológico de Oaxaca › Oaxaca
+» Apertura - 12
+  Tue Sep 13
+    19.05     Cancún v Celaya  0-4 (0-2)   @ Estadio Olímpico Andrés Quintana Roo › Cancún
+    21.05     Pumas Tabasco v Leones Negros UDG  0-2 (0-1)   @ Estadio Olímpico de Villahermosa › Villahermosa
+  Wed Sep 14
+    17.05     Mineros de Zacatecas v Tlaxcala  1-1 (0-0)   @ Estadio Carlos Vega Villalba › Zacatecas
+    19.05     Alebrijes de Oaxaca v Atlante FC  2-2 (1-1)   @ Estadio Tecnológico de Oaxaca › Oaxaca
+    21.05     Cimarrones v Tapatío  1-1 (1-0)   @ Estadio Héroe de Nacozari › Hermosillo
+  Thu Sep 15
+    17.00     Durango v Raya2  3-1 (3-1)   @ Estadio Francisco Zarco › Durango
+    19.00     Tepatitlán v Venados FC  1-2 (0-0)   @ Estadio Gregorio Tepa Gómez › Tepatitlán de Morelos
+    21.00     Correcaminos Uat v Dorados  0-2 (0-0)   @ Estadio Olímpico Ing. Marte R. Gómez › Ciudad Victoria
+  Sun Sep 18
+    12.00     Monarcas v CA La Paz  4-2 (2-2)   @ Estadio Generalísimo José María Morelos y Pavón › Morelia
+» Apertura - 13
+  Tue Sep 20
+    19.05     Tlaxcala v Tepatitlán  2-1 (0-1)   @ Estadio Tlahuicole › Tlaxcala
+    21.05     Raya2 v Leones Negros UDG  0-1 (0-0)   @ Estadio BBVA › Guadalupe
+  Wed Sep 21
+    17.05     Tapatío v Correcaminos Uat  2-0 (1-0)   @ Estadio AKRON › Zapopan
+    19.05     CA La Paz v Pumas Tabasco  6-1 (1-1)   @ Estadio Guaycura › La Paz
+    21.05     Cimarrones v Durango  5-0 (0-0)   @ Estadio Héroe de Nacozari › Hermosillo
+              Dorados v Mineros de Zacatecas  4-1 (1-0)   @ Estadio Dorados › Culiacán
+  Thu Sep 22
+    17.00     Celaya v Alebrijes de Oaxaca  2-0 (0-0)   @ Estadio Miguel Alemán Valdés › Celaya
+    19.05     Atlante FC v Venados FC  1-0 (0-0)   @ Estadio Ciudad de los Deportes › D.F.
+  Fri Sep 23
+    17.00     Monarcas v Cancún  0-0 (0-0)   @ Estadio Generalísimo José María Morelos y Pavón › Morelia
+» Apertura - 14
+  Fri Sep 23
+    19.05     Correcaminos Uat v Raya2  1-1 (1-1)   @ Estadio Olímpico Ing. Marte R. Gómez › Ciudad Victoria
+  Sat Sep 24
+    17.00     Tepatitlán v Tapatío  3-2 (1-2)   @ Estadio Gregorio Tepa Gómez › Tepatitlán de Morelos
+    19.05     Pumas Tabasco v Cimarrones  0-1 (0-0)   @ Estadio Olímpico de Villahermosa › Villahermosa
+    21.05     Mineros de Zacatecas v Monarcas  2-2 (2-1)   @ Estadio Carlos Vega Villalba › Zacatecas
+  Sun Sep 25
+    17.05     Alebrijes de Oaxaca v Tlaxcala  3-0 (1-0)   @ Estadio Tecnológico de Oaxaca › Oaxaca
+    19.05     Cancún v Dorados  1-2 (1-2)   @ Estadio Olímpico Andrés Quintana Roo › Cancún
+              Leones Negros UDG v Atlante FC  2-2 (0-1)   @ Estadio Jalisco › Guadalajara
+    21.05     Venados FC v CA La Paz  3-0 (0-0)   @ Estadio Olímpico Carlos Iturralde Rivero › Mérida
+  Mon Sep 26
+    17.00     Durango v Celaya  1-1 (1-0)   @ Estadio Francisco Zarco › Durango
+» Apertura - 15
+  Tue Sep 27
+    19.05     Tlaxcala v Pumas Tabasco  1-0 (0-0)   @ Estadio Tlahuicole › Tlaxcala
+    21.05     Cimarrones v Correcaminos Uat  2-1 (0-1)   @ Estadio Héroe de Nacozari › Hermosillo
+  Wed Sep 28
+    17.05     Raya2 v Mineros de Zacatecas  0-3 (0-1)   @ Estadio BBVA › Guadalupe
+    19.05     Cancún v Durango  0-0 (0-0)   @ Estadio Olímpico Andrés Quintana Roo › Cancún
+    21.05     Dorados v Leones Negros UDG  0-2 (0-0)   @ Estadio Dorados › Culiacán
+  Thu Sep 29
+    17.00     Celaya v Atlante FC  2-1 (0-1)   @ Estadio Miguel Alemán Valdés › Celaya
+    19.05     Tapatío v Venados FC  1-0 (0-0)   @ Estadio AKRON › Zapopan
+    21.05     CA La Paz v Alebrijes de Oaxaca  2-1 (0-1)   @ Estadio Guaycura › La Paz
+  Fri Sep 30
+    17.00     Monarcas v Tepatitlán  1-1 (1-1)   @ Estadio Generalísimo José María Morelos y Pavón › Morelia
+» Apertura - 16
+  Tue Oct 4
+    19.05     Pumas Tabasco v Dorados  0-3 (0-0)   @ Estadio Olímpico de Villahermosa › Villahermosa
+    21.05     Venados FC v Tlaxcala  3-0 (0-0)   @ Estadio Olímpico Carlos Iturralde Rivero › Mérida
+  Wed Oct 5
+    17.05     Leones Negros UDG v Celaya  0-2 (0-0)   @ Estadio Jalisco › Guadalajara
+    19.05     Alebrijes de Oaxaca v Raya2  0-1 (0-0)   @ Estadio Tecnológico de Oaxaca › Oaxaca
+    21.05     Correcaminos Uat v CA La Paz  4-2 (0-0)   @ Estadio Olímpico Ing. Marte R. Gómez › Ciudad Victoria
+  Thu Oct 6
+    17.00     Durango v Monarcas  2-2 (1-1)   @ Estadio Francisco Zarco › Durango
+    19.00     Tepatitlán v Cimarrones  0-2 (0-1)   @ Estadio Gregorio Tepa Gómez › Tepatitlán de Morelos
+  Sat Oct 8
+    17.00     Mineros de Zacatecas v Cancún  4-0 (3-0)   @ Estadio Carlos Vega Villalba › Zacatecas
+  Sun Oct 9
+    16.00     Atlante FC v Tapatío  4-1 (3-0)   @ Estadio Ciudad de los Deportes › D.F.
+» Apertura - 17
+  Tue Oct 11
+    19.05     Cancún v Tepatitlán  1-2 (0-1)   @ Estadio Olímpico Andrés Quintana Roo › Cancún
+    21.05     Dorados v Alebrijes de Oaxaca  2-0 (0-0)   @ Estadio Dorados › Culiacán
+  Wed Oct 12
+    17.05     Raya2 v Pumas Tabasco  2-2 (1-1)   @ Estadio BBVA › Guadalupe
+    19.05     CA La Paz v Tapatío  3-2 (2-1)   @ Estadio Guaycura › La Paz
+    21.05     Cimarrones v Venados FC  1-1 (0-0)   @ Estadio Héroe de Nacozari › Hermosillo
+  Thu Oct 13
+    19.00     Monarcas v Leones Negros UDG  0-1 (0-0)   @ Estadio Generalísimo José María Morelos y Pavón › Morelia
+» Apertura - 8
+  Sat Oct 15
+    21.00     Dorados v Tapatío  1-1 (1-1)   @ Estadio Dorados › Culiacán
+» Apertura - 17
+  Sat Oct 15
+    17.00     Durango v Mineros de Zacatecas  4-1 (1-0)   @ Estadio Francisco Zarco › Durango
+  Sun Oct 16
+    16.00     Celaya v Correcaminos Uat  0-3 (0-3)   @ Estadio Miguel Alemán Valdés › Celaya
+» Apertura - Reclasificación
+  Wed Oct 19
+    19.00     Venados FC v Tepatitlán  4-2 (4-0)   @ Estadio Olímpico Carlos Iturralde Rivero › Mérida
+  Thu Oct 20
+    19.00     Mineros de Zacatecas v Tapatío  1-0 (0-0)   @ Estadio Carlos Vega Villalba › Zacatecas
+  Fri Oct 21
+    19.00     Monarcas v Alebrijes de Oaxaca  1-1 (1-0)   @ Estadio Generalísimo José María Morelos y Pavón › Morelia
+    21.15     Dorados v Durango  1-3 (1-1)   @ Estadio Dorados › Culiacán
+» Apertura - Quarter-finals
+  Tue Oct 25
+    19.00     Venados FC v Leones Negros UDG  2-0 (1-0)   @ Estadio Olímpico Carlos Iturralde Rivero › Mérida
+    21.05     Atlético Morelia v Cimarrones  2-0 (1-0)   @ Estadio Generalísimo José María Morelos y Pavón › Morelia
+  Wed Oct 26
+    17.00     Durango v Celaya  0-1 (0-0)   @ Estadio Francisco Zarco › Durango
+    19.05     Mineros de Zacatecas v Atlante FC  1-2 (1-2)   @ Estadio Carlos Vega Villalba › Zacatecas
+  Fri Oct 28
+    19.05     Leones Negros UDG v Venados FC  3-0 (2-0)   @ Estadio Jalisco › Guadalajara
+    21.15     Cimarrones v Monarcas  3-1 (3-1)   @ Estadio Héroe de Nacozari › Hermosillo
+  Sat Oct 29
+    18.00     Celaya v Durango  1-0 (0-0)   @ Estadio Miguel Alemán Valdés › Celaya
+    20.15     Atlante FC v Mineros de Zacatecas  2-1 (2-1)   @ Estadio Ciudad de los Deportes › D.F.
+» Apertura - Semi-finals
+  Wed Nov 2
+    19.00     Leones Negros UDG v Atlante FC  1-1 (0-1)   @ Estadio Jalisco › Guadalajara
+    21.05     Cimarrones v Celaya  0-0 (0-0)   @ Estadio Héroe de Nacozari › Hermosillo
+  Sat Nov 5
+    17.00     Celaya v Cimarrones  3-1 (1-0)   @ Estadio Miguel Alemán Valdés › Celaya
+    19.05     Atlante FC v Leones Negros UDG  1-0 (0-0)   @ Estadio Ciudad de los Deportes › D.F.
+» Apertura - Final
+  Wed Nov 9
+    20.00     Atlante FC v Celaya  0-0 (0-0)   @ Estadio Ciudad de los Deportes › D.F.
+  Sat Nov 12
+    17.00     Celaya v Atlante FC  1-3 aet (1-1, 0-1)   @ Estadio Miguel Alemán Valdés › Celaya
+» Clausura - 1
+  Wed Jan 4 2023
+    17.05     Celaya v Cancún  2-0 (0-0)   @ Estadio Miguel Alemán Valdés › Celaya
+  Wed Jan 4
+    19.05     CA La Paz v Mineros de Zacatecas  2-0 (0-0)   @ Estadio Guaycura › La Paz
+    21.05     Venados FC v Tepatitlán  1-0 (1-0)   @ Estadio Olímpico Carlos Iturralde Rivero › Mérida
+  Thu Jan 5
+    17.00     Durango v Cimarrones  0-4 (0-1)   @ Estadio Francisco Zarco › Durango
+    19.05     Atlante FC v Alebrijes de Oaxaca  4-0 (1-0)   @ Estadio Ciudad de los Deportes › D.F.
+  Fri Jan 6
+    17.00     Raya2 v Tapatío  0-0 (0-0)   @ Estadio BBVA › Guadalupe
+              Tlaxcala v Monarcas  0-0 (0-0)   @ Estadio Tlahuicole › Tlaxcala
+» Clausura - 2
+  Tue Jan 10
+    17.05     Correcaminos Uat v Venados FC  1-1 (0-1)   @ Estadio Olímpico Ing. Marte R. Gómez › Ciudad Victoria
+    19.05     Pumas Tabasco v Tlaxcala  3-0 (1-0)   @ Estadio Olímpico de Villahermosa › Villahermosa
+    21.05     Mineros de Zacatecas v Dorados  1-1 (0-0)   @ Estadio Carlos Vega Villalba › Zacatecas
+  Wed Jan 11
+    17.00     Alebrijes de Oaxaca v Celaya  0-1 (0-0)   @ Estadio Tecnológico de Oaxaca › Oaxaca
+    19.05     Cancún v Leones Negros UDG  2-2 (1-1)   @ Estadio Olímpico Andrés Quintana Roo › Cancún
+    21.05     Cimarrones v Raya2  1-2 (1-1)   @ Estadio Héroe de Nacozari › Hermosillo
+  Thu Jan 12
+    19.00     Monarcas v Durango  3-0 (0-0)   @ Estadio Generalísimo José María Morelos y Pavón › Morelia
+  Fri Jan 13
+    17.00     Tapatío v Atlante FC  4-3 (1-2)   @ Estadio AKRON › Zapopan
+  Sun Jan 15
+    12.00     Tepatitlán v CA La Paz  3-0 (1-0)   @ Estadio Gregorio Tepa Gómez › Tepatitlán de Morelos
+» Clausura - 3
+  Tue Jan 17
+    17.05     Tlaxcala v Mineros de Zacatecas  1-2 (1-0)   @ Estadio Tlahuicole › Tlaxcala
+    19.05     Celaya v Raya2  1-1 (0-0)   @ Estadio Miguel Alemán Valdés › Celaya
+    21.05     Dorados v Cancún  1-2 (1-0)   @ Estadio Dorados › Culiacán
+  Wed Jan 18
+    17.00     Durango v Tepatitlán  0-2 (0-0)   @ Estadio Francisco Zarco › Durango
+    19.05     Leones Negros UDG v Cimarrones  1-2 (0-1)   @ Estadio Jalisco › Guadalajara
+    21.05     Venados FC v Alebrijes de Oaxaca  2-1 (1-0)   @ Estadio Olímpico Carlos Iturralde Rivero › Mérida
+  Thu Jan 19
+    19.05     CA La Paz v Monarcas  3-3 (2-1)   @ Estadio Guaycura › La Paz
+    21.05     Atlante FC v Pumas Tabasco  1-1 (0-0)   @ Estadio Ciudad de los Deportes › D.F.
+  Fri Jan 20
+    17.00     Correcaminos Uat v Tapatío  1-2 (1-2)   @ Estadio Olímpico Ing. Marte R. Gómez › Ciudad Victoria
+» Clausura - 4
+  Tue Jan 24
+    17.05     Raya2 v Tlaxcala  2-0 (1-0)   @ Estadio BBVA › Guadalupe
+    21.05     Cimarrones v Atlante FC  1-0 (0-0)   @ Estadio Héroe de Nacozari › Hermosillo
+  Wed Jan 25
+    17.00     Celaya v Leones Negros UDG  1-0 (1-0)   @ Estadio Miguel Alemán Valdés › Celaya
+    19.05     Cancún v Correcaminos Uat  0-1 (0-0)   @ Estadio Olímpico Andrés Quintana Roo › Cancún
+    21.05     Alebrijes de Oaxaca v Dorados  3-0 (3-0)   @ Estadio Tecnológico de Oaxaca › Oaxaca
+  Thu Jan 26
+    19.00     Monarcas v Venados FC  1-0 (0-0)   @ Estadio Generalísimo José María Morelos y Pavón › Morelia
+  Fri Jan 27
+    17.05     Pumas Tabasco v Tepatitlán  1-1 (1-1)   @ Estadio Olímpico de Universitario › D.F.
+  Sat Jan 28
+    17.00     Mineros de Zacatecas v Durango  1-2 (1-0)   @ Estadio Carlos Vega Villalba › Zacatecas
+  Sun Jan 29
+    17.00     Tapatío v CA La Paz  2-0 (1-0)   @ Estadio AKRON › Zapopan
+» Clausura - 5
+  Tue Jan 31
+    17.05     Durango v Cancún  4-3 (3-1)   @ Estadio Francisco Zarco › Durango
+    19.05     Atlante FC v Mineros de Zacatecas  3-0 (1-0)   @ Estadio Ciudad de los Deportes › D.F.
+    21.05     Dorados v Pumas Tabasco  1-2 (0-1)   @ Estadio Dorados › Culiacán
+  Wed Feb 1
+    17.00     Tlaxcala v Alebrijes de Oaxaca  3-1 (2-0)   @ Estadio Tlahuicole › Tlaxcala
+    19.05     Venados FC v Raya2  0-1 (0-0)   @ Estadio Olímpico Carlos Iturralde Rivero › Mérida
+    21.05     CA La Paz v Cimarrones  1-2 (0-1)   @ Estadio Guaycura › La Paz
+  Thu Feb 2
+    17.00     Tepatitlán v Monarcas  2-0 (1-0)   @ Estadio Gregorio Tepa Gómez › Tepatitlán de Morelos
+    19.05     Correcaminos Uat v Leones Negros UDG  3-1 (2-0)   @ Estadio Olímpico Ing. Marte R. Gómez › Ciudad Victoria
+  Fri Feb 3
+    17.00     Tapatío v Celaya  2-2 (1-1)   @ Estadio AKRON › Zapopan
+» Clausura - 6
+  Tue Feb 7
+    17.05     Raya2 v CA La Paz  2-0 (1-0)   @ Estadio BBVA › Guadalupe
+    19.05     Cancún v Atlante FC  1-1 (0-1)   @ Estadio Olímpico Andrés Quintana Roo › Cancún
+    21.05     Leones Negros UDG v Durango  1-0 (0-0)   @ Estadio Jalisco › Guadalajara
+              Cimarrones v Tlaxcala  0-1 (0-0)   @ Estadio Héroe de Nacozari › Hermosillo
+  Wed Feb 8
+    17.00     Celaya v Dorados  4-2 (1-2)   @ Estadio Miguel Alemán Valdés › Celaya
+    19.05     Pumas Tabasco v Correcaminos Uat  2-1 (1-0)   @ Estadio Olímpico de Villahermosa › Villahermosa
+    21.05     Alebrijes de Oaxaca v Tepatitlán  0-3 (0-1)   @ Estadio Tecnológico de Oaxaca › Oaxaca
+  Thu Feb 9
+    19.05     Monarcas v Tapatío  2-0 (1-0)   @ Estadio Generalísimo José María Morelos y Pavón › Morelia
+  Fri Feb 10
+    17.00     Mineros de Zacatecas v Venados FC  2-1 (1-1)   @ Estadio Carlos Vega Villalba › Zacatecas
+» Clausura - 1
+  Mon Feb 13
+    19.00     Leones Negros UDG v Pumas Tabasco  3-3 (2-0)   @ Estadio Jalisco › Guadalajara
+» Clausura - 7
+  Tue Feb 14
+    17.05     Correcaminos Uat v Monarcas  1-1 (1-1)   @ Estadio Olímpico Ing. Marte R. Gómez › Ciudad Victoria
+    19.05     Venados FC v Cimarrones  1-0 (1-0)   @ Estadio Olímpico Carlos Iturralde Rivero › Mérida
+    21.05     Dorados v Tlaxcala  1-2 (1-0)   @ Estadio Dorados › Culiacán
+  Wed Feb 15
+    17.00     Durango v Alebrijes de Oaxaca  1-1 (0-0)   @ Estadio Francisco Zarco › Durango
+    19.05     CA La Paz v Cancún  1-0 (0-0)   @ Estadio Guaycura › La Paz
+    21.05     Atlante FC v Celaya  1-0 (0-0)   @ Estadio Ciudad de los Deportes › D.F.
+  Thu Feb 16
+    19.05     Mineros de Zacatecas v Raya2  2-3 (1-2)   @ Estadio Carlos Vega Villalba › Zacatecas
+  Fri Feb 17
+    17.00     Tapatío v Pumas Tabasco  3-1 (2-0)   @ Estadio AKRON › Zapopan
+  Sun Feb 19
+    12.00     Tepatitlán v Leones Negros UDG  1-1 (0-1)   @ Estadio Gregorio Tepa Gómez › Tepatitlán de Morelos
+» Clausura - 8
+  Tue Feb 21
+    17.05     Tlaxcala v Tapatío  1-2 (0-0)   @ Estadio Tlahuicole › Tlaxcala
+    19.05     Raya2 v Cancún  0-0 (0-0)   @ Estadio BBVA › Guadalupe
+    21.05     Cimarrones v Dorados  2-0 (1-0)   @ Estadio Héroe de Nacozari › Hermosillo
+  Wed Feb 22
+    17.00     Tepatitlán v Mineros de Zacatecas  2-2 (2-1)   @ Estadio Gregorio Tepa Gómez › Tepatitlán de Morelos
+    19.05     Venados FC v Durango  1-0 (1-0)   @ Estadio Olímpico Carlos Iturralde Rivero › Mérida
+    21.05     Pumas Tabasco v Celaya  0-1 (0-1)   @ Estadio Olímpico de Villahermosa › Villahermosa
+  Thu Feb 23
+    21.05     Leones Negros UDG v CA La Paz  3-2 (0-0)   @ Estadio Jalisco › Guadalajara
+  Fri Feb 24
+    17.00     Alebrijes de Oaxaca v Correcaminos Uat  4-0 (0-0)   @ Estadio Tecnológico de Oaxaca › Oaxaca
+  Sun Feb 26
+    17.00     Monarcas v Atlante FC  0-1 (0-0)   @ Estadio Generalísimo José María Morelos y Pavón › Morelia
+» Clausura - 9
+  Tue Feb 28
+    17.05     Mineros de Zacatecas v Leones Negros UDG  2-1 (1-0)   @ Estadio Carlos Vega Villalba › Zacatecas
+    19.05     CA La Paz v Durango  2-1 (1-0)   @ Estadio Guaycura › La Paz
+    21.05     Pumas Tabasco v Venados FC  1-1 (0-1)   @ Estadio Olímpico de Villahermosa › Villahermosa
+  Wed Mar 1
+    17.00     Correcaminos Uat v Cimarrones  0-0 (0-0)   @ Estadio Olímpico Ing. Marte R. Gómez › Ciudad Victoria
+    19.05     Cancún v Monarcas  1-0 (0-0)   @ Estadio Olímpico Andrés Quintana Roo › Cancún
+    21.05     Dorados v Tepatitlán  2-1 (0-1)   @ Estadio Dorados › Culiacán
+  Thu Mar 2
+    19.00     Atlante FC v Raya2  2-1 (0-1)   @ Estadio Ciudad de los Deportes › D.F.
+    21.05     Tapatío v Alebrijes de Oaxaca  1-1 (0-0)   @ Estadio AKRON › Zapopan
+  Fri Mar 3
+    17.00     Celaya v Tlaxcala  1-1 (1-0)   @ Estadio Miguel Alemán Valdés › Celaya
+» Clausura - 10
+  Tue Mar 7
+    17.05     Durango v Dorados  3-0 (2-0)   @ Estadio Francisco Zarco › Durango
+    19.05     CA La Paz v Correcaminos Uat  4-1 (1-0)   @ Estadio Guaycura › La Paz
+    21.05     Monarcas v Mineros de Zacatecas  1-2 (0-2)   @ Estadio Generalísimo José María Morelos y Pavón › Morelia
+  Wed Mar 8
+    17.00     Tlaxcala v Cancún  1-0 (0-0)   @ Estadio Tlahuicole › Tlaxcala
+    19.05     Venados FC v Atlante FC  1-1 (0-0)   @ Estadio Olímpico Carlos Iturralde Rivero › Mérida
+    21.05     Raya2 v Alebrijes de Oaxaca  1-1 (0-1)   @ Estadio BBVA › Guadalupe
+  Thu Mar 9
+    19.00     Tepatitlán v Celaya  1-2 (0-1)   @ Estadio Gregorio Tepa Gómez › Tepatitlán de Morelos
+    21.05     Cimarrones v Pumas Tabasco  0-0 (0-0)   @ Estadio Héroe de Nacozari › Hermosillo
+  Sun Mar 12
+    17.00     Leones Negros UDG v Tapatío  1-3 (1-1)   @ Estadio Jalisco › Guadalajara
+» Clausura - 11
+  Tue Mar 14
+    17.05     Tlaxcala v Venados FC  1-1 (1-0)   @ Estadio Tlahuicole › Tlaxcala
+    19.05     Pumas Tabasco v CA La Paz  1-1 (0-1)   @ Estadio Olímpico de Villahermosa › Villahermosa
+    21.05     Correcaminos Uat v Tepatitlán  2-1 (0-1)   @ Estadio Olímpico Ing. Marte R. Gómez › Ciudad Victoria
+  Wed Mar 15
+    17.00     Alebrijes de Oaxaca v Leones Negros UDG  2-2 (0-0)   @ Estadio Tecnológico de Oaxaca › Oaxaca
+    19.05     Monarcas v Raya2  1-0 (0-0)   @ Estadio Generalísimo José María Morelos y Pavón › Morelia
+    21.05     Dorados v Atlante FC  0-0 (0-0)   @ Estadio Dorados › Culiacán
+  Thu Mar 16
+    19.05     Cancún v Mineros de Zacatecas  3-2 (1-0)   @ Estadio Olímpico Andrés Quintana Roo › Cancún
+    21.05     Tapatío v Cimarrones  1-0 (1-0)   @ Estadio AKRON › Zapopan
+  Sun Mar 19
+    17.00     Celaya v Durango  2-1 (0-1)   @ Estadio Miguel Alemán Valdés › Celaya
+» Clausura - 12
+  Tue Mar 21
+    17.05     Tepatitlán v Cancún  1-0 (0-0)   @ Estadio Gregorio Tepa Gómez › Tepatitlán de Morelos
+    19.05     Mineros de Zacatecas v Alebrijes de Oaxaca  3-6 (2-3)   @ Estadio Carlos Vega Villalba › Zacatecas
+    21.05     CA La Paz v Dorados  1-1 (0-0)   @ Estadio Guaycura › La Paz
+              Cimarrones v Celaya  1-1 (0-0)   @ Estadio Héroe de Nacozari › Hermosillo
+  Wed Mar 22
+    17.00     Durango v Pumas Tabasco  1-1 (0-0)   @ Estadio Francisco Zarco › Durango
+    19.05     Raya2 v Correcaminos Uat  0-4 (0-3)   @ Estadio BBVA › Guadalupe
+    21.05     Venados FC v Tapatío  0-0 (0-0)   @ Estadio Olímpico Carlos Iturralde Rivero › Mérida
+  Thu Mar 23
+    17.00     Atlante FC v Tlaxcala  0-2 (0-0)   @ Estadio Ciudad de los Deportes › D.F.
+    19.05     Leones Negros UDG v Monarcas  0-1 (0-0)   @ Estadio Jalisco › Guadalajara
+» Clausura - 13
+  Fri Mar 24
+    17.05     Alebrijes de Oaxaca v CA La Paz  1-2 (1-2)   @ Estadio Tecnológico de Oaxaca › Oaxaca
+    19.05     Cancún v Cimarrones  1-2 (0-1)   @ Estadio Olímpico Andrés Quintana Roo › Cancún
+  Sat Mar 25
+    16.00     Celaya v Venados FC  2-1 (0-1)   @ Estadio Miguel Alemán Valdés › Celaya
+    19.05     Correcaminos Uat v Mineros de Zacatecas  1-0 (1-0)   @ Estadio Olímpico Ing. Marte R. Gómez › Ciudad Victoria
+    21.05     Pumas Tabasco v Raya2  1-3 (0-2)   @ Estadio Olímpico de Villahermosa › Villahermosa
+  Sun Mar 26
+    12.00     Atlante FC v Leones Negros UDG  0-0 (0-0)   @ Estadio Ciudad de los Deportes › D.F.
+    17.00     Tapatío v Tepatitlán  0-2 (0-2)   @ Estadio AKRON › Zapopan
+    19.05     Dorados v Monarcas  0-1 (0-0)   @ Estadio Dorados › Culiacán
+    21.05     Tlaxcala v Durango  1-2 (0-1)   @ Estadio Tlahuicole › Tlaxcala
+» Clausura - 14
+  Tue Mar 28
+    17.05     Mineros de Zacatecas v Pumas Tabasco  0-2 (0-2)   @ Estadio Carlos Vega Villalba › Zacatecas
+    19.05     CA La Paz v Venados FC  3-2 (1-0)   @ Estadio Guaycura › La Paz
+    21.05     Cimarrones v Alebrijes de Oaxaca  0-1 (0-0)   @ Estadio Héroe de Nacozari › Hermosillo
+  Wed Mar 29
+    17.00     Durango v Correcaminos Uat  1-0 (1-0)   @ Estadio Francisco Zarco › Durango
+    19.05     Cancún v Tapatío  1-0 (0-0)   @ Estadio Olímpico Andrés Quintana Roo › Cancún
+    21.05     Raya2 v Dorados  1-2 (0-0)   @ Estadio BBVA › Guadalupe
+  Thu Mar 30
+    21.05     Tepatitlán v Atlante FC  0-0 (0-0)   @ Estadio Gregorio Tepa Gómez › Tepatitlán de Morelos
+  Fri Mar 31
+    17.00     Leones Negros UDG v Tlaxcala  3-0 (1-0)   @ Estadio Jalisco › Guadalajara
+  Sun Apr 2
+    21.05     Monarcas v Celaya  3-2 (1-1)   @ Estadio Generalísimo José María Morelos y Pavón › Morelia
+» Clausura - 15
+  Tue Apr 4
+    17.05     Tlaxcala v CA La Paz  1-0 (1-0)   @ Estadio Tlahuicole › Tlaxcala
+    19.05     Venados FC v Leones Negros UDG  1-1 (0-1)   @ Estadio Olímpico Carlos Iturralde Rivero › Mérida
+    21.05     Raya2 v Durango  1-1 (1-1)   @ Estadio BBVA › Guadalupe
+  Wed Apr 5
+    17.00     Celaya v Mineros de Zacatecas  2-1 (0-0)   @ Estadio Miguel Alemán Valdés › Celaya
+    19.05     Pumas Tabasco v Monarcas  1-0 (0-0)   @ Estadio Olímpico de Villahermosa › Villahermosa
+    21.05     Cimarrones v Tepatitlán  0-0 (0-0)   @ Estadio Héroe de Nacozari › Hermosillo
+  Thu Apr 6
+    19.05     Tapatío v Dorados  4-0 (2-0)   @ Estadio AKRON › Zapopan
+    21.05     Atlante FC v Correcaminos Uat  2-1 (0-1)   @ Estadio Ciudad de los Deportes › D.F.
+  Fri Apr 7
+    17.00     Alebrijes de Oaxaca v Cancún  1-0 (1-0)   @ Estadio Tecnológico de Oaxaca › Oaxaca
+» Clausura - 16
+  Tue Apr 11
+    17.05     Mineros de Zacatecas v Cimarrones  0-2 (0-0)   @ Estadio Carlos Vega Villalba › Zacatecas
+    19.05     Cancún v Pumas Tabasco  4-1 (2-0)   @ Estadio Olímpico Andrés Quintana Roo › Cancún
+    21.05     Dorados v Venados FC  0-5 (0-2)   @ Estadio Dorados › Culiacán
+  Wed Apr 12
+    17.00     Durango v Tapatío  2-5 (2-1)   @ Estadio Francisco Zarco › Durango
+    19.05     CA La Paz v Atlante FC  1-2 (0-1)   @ Estadio Guaycura › La Paz
+    21.05     Correcaminos Uat v Celaya  0-1 (0-0)   @ Estadio Olímpico Ing. Marte R. Gómez › Ciudad Victoria
+  Thu Apr 13
+    17.00     Leones Negros UDG v Raya2  4-0 (0-0)   @ Estadio Jalisco › Guadalajara
+    19.05     Monarcas v Alebrijes de Oaxaca  2-1 (0-0)   @ Estadio Generalísimo José María Morelos y Pavón › Morelia
+  Fri Apr 14
+    17.00     Tepatitlán v Tlaxcala  0-0 (0-0)   @ Estadio Gregorio Tepa Gómez › Tepatitlán de Morelos
+» Clausura - 1
+  Sun Apr 16
+    21.05     Dorados v Correcaminos Uat  0-1 (0-0)   @ Estadio Dorados › Culiacán
+» Clausura - 17
+  Tue Apr 18
+    17.05     Alebrijes de Oaxaca v Pumas Tabasco  1-0 (0-0)   @ Estadio Tecnológico de Oaxaca › Oaxaca
+    19.05     Venados FC v Cancún  1-1 (0-0)   @ Estadio Olímpico Carlos Iturralde Rivero › Mérida
+    21.05     Cimarrones v Monarcas  0-1 (0-0)   @ Estadio Héroe de Nacozari › Hermosillo
+  Wed Apr 19
+    17.00     Tapatío v Mineros de Zacatecas  1-2 (0-1)   @ Estadio AKRON › Zapopan
+    19.05     Celaya v CA La Paz  4-2 (2-2)   @ Estadio Miguel Alemán Valdés › Celaya
+    21.05     Raya2 v Tepatitlán  1-1 (0-1)   @ Estadio BBVA › Guadalupe
+  Thu Apr 20
+    18.00     Leones Negros UDG v Dorados  2-0 (1-0)   @ Estadio Jalisco › Guadalajara
+  Fri Apr 21
+    17.00     Tlaxcala v Correcaminos Uat  0-0 (0-0)   @ Estadio Tlahuicole › Tlaxcala
+  Sun Apr 23
+    17.00     Atlante FC v Durango  1-0 (1-0)   @ Estadio Ciudad de los Deportes › D.F.
+» Clausura - Reclasificacion
+  Wed Apr 26
+    19.00     Raya2 v Alebrijes de Oaxaca  2-0 (2-0)   @ Estadio BBVA › Guadalupe
+    21.05     Cimarrones v Correcaminos Uat  1-0 (0-0)   @ Estadio Héroe de Nacozari › Hermosillo
+  Thu Apr 27
+    19.00     Tlaxcala v Venados FC  2-0 (1-0)   @ Estadio Tlahuicole › Tlaxcala
+    21.05     Tepatitlán v Leones Negros UDG  0-1 (0-1)   @ Estadio Gregorio Tepa Gómez › Tepatitlán de Morelos
+» Clausura - Quarter-finals
+  Tue May 2
+    19.00     Leones Negros UDG v Celaya  0-3 (0-1)   @ Estadio Jalisco › Guadalajara
+  Wed May 3
+    19.00     Raya2 v Atlante FC  1-1 (0-1)   @ Estadio BBVA › Guadalupe
+    21.05     Tlaxcala v Tapatío  2-2 (0-1)   @ Estadio Tlahuicole › Tlaxcala
+  Thu May 4
+    21.05     Cimarrones v Monarcas  1-1 (0-1)   @ Estadio Héroe de Nacozari › Hermosillo
+  Fri May 5
+    19.05     Celaya v Leones Negros UDG  1-0 (0-0)   @ Estadio Miguel Alemán Valdés › Celaya
+  Sat May 6
+    12.00     Atlante FC v Raya2  1-0 (0-0)   @ Estadio Ciudad de los Deportes › D.F.
+    17.00     Tapatío v Tlaxcala  1-1 (0-0)   @ Estadio Jalisco › Guadalajara
+  Sun May 7
+    17.00     Monarcas v Cimarrones  1-0 (1-0)   @ Estadio Generalísimo José María Morelos y Pavón › Morelia
+» Clausura - Semi-finals
+  Wed May 10
+    17.00     Atlante FC v Tapatío  0-0 (0-0)   @ Estadio Ciudad de los Deportes › D.F.
+  Thu May 11
+    17.00     Monarcas v Celaya  1-1 (1-0)   @ Estadio Generalísimo José María Morelos y Pavón › Morelia
+  Sat May 13
+    17.00     Tapatío v Atlante FC  1-0 (1-0)   @ Estadio Jalisco › Guadalajara
+  Sun May 14
+    17.00     Celaya v Monarcas  1-3 (1-0)   @ Estadio Miguel Alemán Valdés › Celaya
+» Clausura - Final
+  Wed May 17
+    19.00     Monarcas v Tapatío  1-2 (0-2)   @ Estadio Generalísimo José María Morelos y Pavón › Morelia
+  Sat May 20
+    21.05     Tapatío v Monarcas  2-2 aet (1-2, 0-1)   @ Estadio AKRON › Zapopan
+» Championship - Final
+  Sat May 27
+    19.00     Tapatío v Atlante FC  3-1 (2-1)   @ Estadio Jalisco › Guadalajara
+  Sat Jun 3
+    19.00     Atlante FC v Tapatío  1-0 (0-0)   @ Estadio Ciudad de los Deportes › D.F.

@@ -1,0 +1,489 @@
+= Portugal | Primeira Liga 2022/23
+
+  # Date       Fri Aug/5 2022 - Sun Jun/11 2023 (310d)
+  # Teams      19
+  # Matches    308
+
+  # Note - All times in Europe/Lisbon
+
+» Regular Season - 1
+  Fri Aug 5 2022
+    20.15     Benfica v Arouca  4-0 (3-0)   @ Estádio do Sport Lisboa e Benfica › Lisboa
+  Sat Aug 6
+    15.30     Rio Ave v Vizela  0-1 (0-0)   @ Estádio do Rio Ave Futebol Clube › Vila do Conde
+    18.00     Estoril v Famalicao  2-0 (2-0)   @ Estádio António Coimbra da Mota › Estoril
+    20.30     FC Porto v Maritimo  5-1 (3-0)   @ Estádio Do Dragão › Porto
+  Sun Aug 7
+    15.30     Santa Clara v Casa Pia  0-0 (0-0)   @ Estádio de São Miguel › Ponta Delgada, Ilha de São Miguel, Açores
+    18.00     SC Braga v Sporting CP  3-3 (2-2)   @ Estádio Municipal de Braga › Braga
+    20.30     Chaves v Guimaraes  0-1 (0-1)   @ Estádio Municipal Eng. Manuel Branco Teixeira › Chaves
+              Portimonense v Boavista  0-1 (0-1)   @ Estádio Municipal de Portimão › Portimão
+  Mon Aug 8
+    20.15     GIL Vicente v Pacos Ferreira  1-0 (0-0)   @ Estádio Cidade de Barcelos › Barcelos
+» Regular Season - 2
+  Fri Aug 12
+    20.15     Famalicao v SC Braga  0-3 (0-2)   @ Estádio Municipal 22 de Junho › Vila Nova de Famalicão
+  Sat Aug 13
+    18.00     Casa Pia v Benfica  0-1 (0-0)   @ Estádio Dr. Magalhães Pessoa › Leiria
+    20.30     Sporting CP v Rio Ave  3-0 (1-0)   @ Estádio José Alvalade › Lisboa
+  Sun Aug 14
+    15.30     Boavista v Santa Clara  2-1 (0-1)   @ Estádio do Bessa Século XXI › Porto
+    18.00     Vizela v FC Porto  0-1 (0-0)   @ Estádio Do Vizela › Caldas de Vizela
+    20.30     Guimaraes v Estoril  1-0 (1-0)   @ Estádio Dom Afonso Henriques › Guimarães
+  Mon Aug 15
+    15.30     Maritimo v Chaves  1-2 (1-0)   @ Estádio dos Barreiros › Ilha da Madeira
+    18.00     Arouca v GIL Vicente  1-0 (1-0)   @ Estádio Municipal de Arouca › Arouca
+    20.30     Pacos Ferreira v Portimonense  0-3 (0-1)   @ Estádio da Capital do Móvel › Paços de Ferreira
+» Regular Season - 3
+  Fri Aug 19
+    20.15     Estoril v Rio Ave  2-2 (1-0)   @ Estádio António Coimbra da Mota › Estoril
+  Sat Aug 20
+    15.30     Santa Clara v Arouca  1-2 (0-0)   @ Estádio de São Miguel › Ponta Delgada, Ilha de São Miguel, Açores
+    18.00     Chaves v Vizela  1-1 (1-1)   @ Estádio Municipal Eng. Manuel Branco Teixeira › Chaves
+    20.30     FC Porto v Sporting CP  3-0 (1-0)   @ Estádio Do Dragão › Porto
+  Sun Aug 21
+    15.30     Casa Pia v Boavista  2-0 (0-0)   @ Estádio Nacional › Jamor, Oeiras
+    18.00     SC Braga v Maritimo  5-0 (2-0)   @ Estádio Municipal de Braga › Braga
+    20.30     Portimonense v Guimaraes  2-1 (0-0)   @ Estádio Municipal de Portimão › Portimão
+  Mon Aug 22
+    20.15     GIL Vicente v Famalicao  0-0 (0-0)   @ Estádio Cidade de Barcelos › Barcelos
+» Regular Season - 4
+  Fri Aug 26
+    20.15     Pacos Ferreira v Estoril  0-3 (0-2)   @ Estádio da Capital do Móvel › Paços de Ferreira
+  Sat Aug 27
+    15.30     Maritimo v Portimonense  0-1 (0-1)   @ Estádio dos Barreiros › Ilha da Madeira
+    18.00     Boavista v Benfica  0-3 (0-1)   @ Estádio do Bessa Século XXI › Porto
+    20.30     Sporting CP v Chaves  0-2 (0-0)   @ Estádio José Alvalade › Lisboa
+  Sun Aug 28
+    15.30     Famalicao v Santa Clara  1-0 (1-0)   @ Estádio Municipal 22 de Junho › Vila Nova de Famalicão
+    18.00     Arouca v SC Braga  0-6 (0-4)   @ Estádio Municipal de Arouca › Arouca
+    20.30     Rio Ave v FC Porto  3-1 (3-0)   @ Estádio do Rio Ave Futebol Clube › Vila do Conde
+  Mon Aug 29
+    19.00     Guimaraes v Casa Pia  0-1 (0-1)   @ Estádio Dom Afonso Henriques › Guimarães
+    21.15     Vizela v GIL Vicente  2-2 (2-2)   @ Estádio Do Vizela › Caldas de Vizela
+» Regular Season - 3
+  Tue Aug 30
+    20.15     Benfica v Pacos Ferreira  3-2 (2-1)   @ Estádio do Sport Lisboa e Benfica › Lisboa
+» Regular Season - 5
+  Fri Sep 2
+    19.00     Benfica v Vizela  2-1 (0-1)   @ Estádio do Sport Lisboa e Benfica › Lisboa
+    21.15     Estoril v Sporting CP  0-2 (0-2)   @ Estádio António Coimbra da Mota › Estoril
+  Sat Sep 3
+    15.30     SC Braga v Guimaraes  1-0 (0-0)   @ Estádio Municipal de Braga › Braga
+    20.30     GIL Vicente v FC Porto  0-2 (0-2)   @ Estádio Cidade de Barcelos › Barcelos
+  Sun Sep 4
+    15.30     Casa Pia v Arouca  0-0 (0-0)   @ Estádio Nacional › Jamor, Oeiras
+    18.00     Santa Clara v Maritimo  2-1 (0-1)   @ Estádio de São Miguel › Ponta Delgada, Ilha de São Miguel, Açores
+    20.30     Portimonense v Famalicao  1-0 (0-0)   @ Estádio Municipal de Portimão › Portimão
+  Mon Sep 5
+    19.00     Boavista v Pacos Ferreira  1-0 (0-0)   @ Estádio do Bessa Século XXI › Porto
+    21.15     Chaves v Rio Ave  1-1 (1-0)   @ Estádio Municipal Eng. Manuel Branco Teixeira › Chaves
+» Regular Season - 6
+  Fri Sep 9
+    20.15     Guimaraes v Santa Clara  1-0 (0-0)   @ Estádio Dom Afonso Henriques › Guimarães
+  Sat Sep 10
+    15.30     Famalicao v Benfica  0-1 (0-0)   @ Estádio Municipal 22 de Junho › Vila Nova de Famalicão
+    18.00     Sporting CP v Portimonense  4-0 (2-0)   @ Estádio José Alvalade › Lisboa
+    20.30     FC Porto v Chaves  3-0 (1-0)   @ Estádio Do Dragão › Porto
+  Sun Sep 11
+    15.30     Pacos Ferreira v Casa Pia  2-3 (1-0)   @ Estádio da Capital do Móvel › Paços de Ferreira
+    18.00     Arouca v Boavista  1-2 (1-1)   @ Estádio Municipal de Arouca › Arouca
+              Maritimo v GIL Vicente  1-2 (1-0)   @ Estádio dos Barreiros › Ilha da Madeira
+    20.30     Rio Ave v SC Braga  2-3 (0-2)   @ Estádio do Rio Ave Futebol Clube › Vila do Conde
+  Mon Sep 12
+    20.15     Vizela v Estoril  0-1 (0-1)   @ Estádio Do Vizela › Caldas de Vizela
+» Regular Season - 7
+  Fri Sep 16
+    20.15     Portimonense v Chaves  1-0 (1-0)   @ Estádio Municipal de Portimão › Portimão
+  Sat Sep 17
+    15.30     GIL Vicente v Rio Ave  2-2 (0-1)   @ Estádio Cidade de Barcelos › Barcelos
+              Santa Clara v Pacos Ferreira  1-1 (1-0)   @ Estádio de São Miguel › Ponta Delgada, Ilha de São Miguel, Açores
+    18.00     Estoril v FC Porto  1-1 (1-0)   @ Estádio António Coimbra da Mota › Estoril
+    20.30     Boavista v Sporting CP  2-1 (1-0)   @ Estádio do Bessa Século XXI › Porto
+  Sun Sep 18
+    15.30     Arouca v Guimaraes  2-2 (1-0)   @ Estádio Municipal de Arouca › Arouca
+    18.00     Casa Pia v Famalicao  1-0 (0-0)   @ Estádio Nacional › Jamor, Oeiras
+              Benfica v Maritimo  5-0 (1-0)   @ Estádio do Sport Lisboa e Benfica › Lisboa
+    20.30     SC Braga v Vizela  2-0 (0-0)   @ Estádio Municipal de Braga › Braga
+» Regular Season - 8
+  Fri Sep 30
+    19.00     Sporting CP v GIL Vicente  3-1 (2-0)   @ Estádio José Alvalade › Lisboa
+    21.15     FC Porto v SC Braga  4-1 (2-0)   @ Estádio Do Dragão › Porto
+  Sat Oct 1
+    15.30     Vizela v Portimonense  1-0 (1-0)   @ Estádio Do Vizela › Caldas de Vizela
+    18.00     Chaves v Estoril  1-1 (1-0)   @ Estádio Municipal Eng. Manuel Branco Teixeira › Chaves
+    20.30     Guimaraes v Benfica  0-0 (0-0)   @ Estádio Dom Afonso Henriques › Guimarães
+  Sun Oct 2
+    15.30     Rio Ave v Santa Clara  1-0 (1-0)   @ Estádio do Rio Ave Futebol Clube › Vila do Conde
+    18.00     Pacos Ferreira v Arouca  1-1 (0-0)   @ Estádio da Capital do Móvel › Paços de Ferreira
+    20.30     Famalicao v Boavista  4-0 (2-0)   @ Estádio Municipal 22 de Junho › Vila Nova de Famalicão
+  Mon Oct 3
+    20.15     Maritimo v Casa Pia  1-2 (1-1)   @ Estádio dos Barreiros › Ilha da Madeira
+» Regular Season - 9
+  Fri Oct 7
+    20.15     GIL Vicente v Estoril  0-1 (0-0)   @ Estádio Cidade de Barcelos › Barcelos
+  Sat Oct 8
+    15.30     Santa Clara v Sporting CP  1-2 (0-1)   @ Estádio de São Miguel › Ponta Delgada, Ilha de São Miguel, Açores
+    18.00     Portimonense v FC Porto  0-2 (0-1)   @ Estádio Municipal de Portimão › Portimão
+              Benfica v Rio Ave  4-2 (3-1)   @ Estádio do Sport Lisboa e Benfica › Lisboa
+    20.30     Pacos Ferreira v Guimaraes  0-1 (0-1)   @ Estádio da Capital do Móvel › Paços de Ferreira
+  Sun Oct 9
+    15.30     Boavista v Maritimo  1-1 (1-0)   @ Estádio do Bessa Século XXI › Porto
+    18.00     Casa Pia v Vizela  0-1 (0-0)   @ Estádio Nacional › Jamor, Oeiras
+    20.30     SC Braga v Chaves  0-1 (0-1)   @ Estádio Municipal de Braga › Braga
+  Mon Oct 10
+    20.15     Arouca v Famalicao  4-1 (1-1)   @ Estádio Municipal de Arouca › Arouca
+» Regular Season - 10
+  Fri Oct 21
+    20.15     FC Porto v Benfica  0-1 (0-0)   @ Estádio Do Dragão › Porto
+  Sat Oct 22
+    15.30     Famalicao v Pacos Ferreira  2-1 (1-1)   @ Estádio Municipal 22 de Junho › Vila Nova de Famalicão
+    18.00     Estoril v SC Braga  0-2 (0-2)   @ Estádio António Coimbra da Mota › Estoril
+    20.30     Sporting CP v Casa Pia  3-1 (0-1)   @ Estádio José Alvalade › Lisboa
+  Sun Oct 23
+    15.30     Maritimo v Arouca  1-1 (1-1)   @ Estádio dos Barreiros › Ilha da Madeira
+              Vizela v Santa Clara  0-1 (0-0)   @ Estádio Do Vizela › Caldas de Vizela
+    18.00     Chaves v GIL Vicente  3-1 (0-1)   @ Estádio Municipal Eng. Manuel Branco Teixeira › Chaves
+    20.30     Guimaraes v Boavista  3-2 (1-1)   @ Estádio Dom Afonso Henriques › Guimarães
+  Mon Oct 24
+    20.15     Rio Ave v Portimonense  1-0 (1-0)   @ Estádio do Rio Ave Futebol Clube › Vila do Conde
+» Regular Season - 11
+  Fri Oct 28
+    20.15     Pacos Ferreira v Maritimo  0-1 (0-1)   @ Estádio da Capital do Móvel › Paços de Ferreira
+  Sat Oct 29
+    15.30     Santa Clara v FC Porto  1-1 (0-1)   @ Estádio de São Miguel › Ponta Delgada, Ilha de São Miguel, Açores
+    18.00     Benfica v Chaves  5-0 (3-0)   @ Estádio do Sport Lisboa e Benfica › Lisboa
+    20.30     Arouca v Sporting CP  1-0 (0-0)   @ Estádio Municipal de Arouca › Arouca
+  Sun Oct 30
+    15.30     Boavista v Vizela  2-2 (1-2)   @ Estádio do Bessa Século XXI › Porto
+              Portimonense v Estoril  1-1 (0-1)   @ Estádio Municipal de Portimão › Portimão
+    18.00     Casa Pia v Rio Ave  1-0 (0-0)   @ Estádio Nacional › Jamor, Oeiras
+    20.30     GIL Vicente v SC Braga  0-1 (0-0)   @ Estádio Cidade de Barcelos › Barcelos
+  Mon Oct 31
+    20.15     Guimaraes v Famalicao  3-2 (1-0)   @ Estádio Dom Afonso Henriques › Guimarães
+» Regular Season - 12
+  Fri Nov 4
+    20.15     GIL Vicente v Portimonense  1-2 (1-1)   @ Estádio Cidade de Barcelos › Barcelos
+  Sat Nov 5
+    15.30     Vizela v Arouca  0-1 (0-1)   @ Estádio Do Vizela › Caldas de Vizela
+    18.00     FC Porto v Pacos Ferreira  4-0 (3-0)   @ Estádio Do Dragão › Porto
+    20.30     Sporting CP v Guimaraes  3-0 (2-0)   @ Estádio José Alvalade › Lisboa
+  Sun Nov 6
+    15.30     Rio Ave v Boavista  1-0 (0-0)   @ Estádio do Rio Ave Futebol Clube › Vila do Conde
+    18.00     SC Braga v Casa Pia  0-1 (0-1)   @ Estádio Municipal de Braga › Braga
+              Maritimo v Famalicao  0-0 (0-0)   @ Estádio dos Barreiros › Ilha da Madeira
+    20.30     Estoril v Benfica  1-5 (0-3)   @ Estádio António Coimbra da Mota › Estoril
+  Mon Nov 7
+    20.15     Chaves v Santa Clara  0-0 (0-0)   @ Estádio Municipal Eng. Manuel Branco Teixeira › Chaves
+» Regular Season - 13
+  Sat Nov 12
+    18.00     Arouca v Rio Ave  0-1 (0-0)   @ Estádio Municipal de Arouca › Arouca
+    20.30     Boavista v FC Porto  1-4 (0-1)   @ Estádio do Bessa Século XXI › Porto
+  Sun Nov 13
+    15.30     Pacos Ferreira v Vizela  0-2 (0-0)   @ Estádio da Capital do Móvel › Paços de Ferreira
+              Guimaraes v Maritimo  1-0 (0-0)   @ Estádio Dom Afonso Henriques › Guimarães
+    18.00     Portimonense v SC Braga  1-2 (1-0)   @ Estádio Municipal de Portimão › Portimão
+              Casa Pia v Chaves  1-2 (1-0)   @ Estádio Nacional › Jamor, Oeiras
+              Benfica v GIL Vicente  3-1 (2-1)   @ Estádio do Sport Lisboa e Benfica › Lisboa
+    20.30     Famalicao v Sporting CP  1-2 (0-2)   @ Estádio Municipal 22 de Junho › Vila Nova de Famalicão
+  Mon Nov 14
+    20.15     Santa Clara v Estoril  3-1 (2-1)   @ Estádio de São Miguel › Ponta Delgada, Ilha de São Miguel, Açores
+» Regular Season - 14
+  Fri Dec 23
+    20.15     Rio Ave v Maritimo  1-1 (1-1)   @ Estádio do Rio Ave Futebol Clube › Vila do Conde
+  Wed Dec 28
+    19.00     Portimonense v Casa Pia  1-2 (1-1)   @ Estádio Municipal de Portimão › Portimão
+    21.15     FC Porto v Arouca  5-1 (3-0)   @ Estádio Do Dragão › Porto
+  Thu Dec 29
+    17.00     GIL Vicente v Santa Clara  1-0 (1-0)   @ Estádio Cidade de Barcelos › Barcelos
+    21.15     Sporting CP v Pacos Ferreira  3-0 (3-0)   @ Estádio José Alvalade › Lisboa
+  Fri Dec 30
+    17.00     Chaves v Famalicao  0-2 (0-1)   @ Estádio Municipal Eng. Manuel Branco Teixeira › Chaves
+    19.00     Vizela v Guimaraes  3-0 (1-0)   @ Estádio Do Vizela › Caldas de Vizela
+    21.15     SC Braga v Benfica  3-0 (2-0)   @ Estádio Municipal de Braga › Braga
+» Regular Season - 15
+  Thu Jan 5 2023
+    20.15     Santa Clara v SC Braga  0-4 (0-2)   @ Estádio de São Miguel › Ponta Delgada, Ilha de São Miguel, Açores
+  Fri Jan 6
+    19.00     Benfica v Portimonense  1-0 (1-0)   @ Estádio do Sport Lisboa e Benfica › Lisboa
+    21.15     Famalicao v Vizela  2-1 (1-0)   @ Estádio Municipal 22 de Junho › Vila Nova de Famalicão
+  Sat Jan 7
+    15.30     Arouca v Estoril  2-0 (1-0)   @ Estádio Municipal de Arouca › Arouca
+    18.00     Guimaraes v Rio Ave  0-0 (0-0)   @ Estádio Dom Afonso Henriques › Guimarães
+    20.30     Casa Pia v FC Porto  0-0 (0-0)   @ Estádio Nacional › Jamor, Oeiras
+  Sun Jan 8
+    15.30     Pacos Ferreira v Chaves  1-1 (0-0)   @ Estádio da Capital do Móvel › Paços de Ferreira
+    18.00     Maritimo v Sporting CP  1-0 (0-0)   @ Estádio dos Barreiros › Ilha da Madeira
+    20.30     Boavista v GIL Vicente  1-0 (1-0)   @ Estádio do Bessa Século XXI › Porto
+» Regular Season - 16
+  Fri Jan 13
+    20.15     Portimonense v Santa Clara  0-0 (0-0)   @ Estádio Municipal de Portimão › Portimão
+  Sat Jan 14
+    15.30     Vizela v Maritimo  3-0 (2-0)   @ Estádio Do Vizela › Caldas de Vizela
+    18.00     Rio Ave v Pacos Ferreira  0-1 (0-1)   @ Estádio do Rio Ave Futebol Clube › Vila do Conde
+    20.30     SC Braga v Boavista  1-0 (0-0)   @ Estádio Municipal de Braga › Braga
+  Sun Jan 15
+    15.30     Chaves v Arouca  1-1 (1-0)   @ Estádio Municipal Eng. Manuel Branco Teixeira › Chaves
+    18.00     Benfica v Sporting CP  2-2 (1-1)   @ Estádio do Sport Lisboa e Benfica › Lisboa
+    20.30     FC Porto v Famalicao  4-1 (3-0)   @ Estádio Do Dragão › Porto
+  Mon Jan 16
+    19.00     Estoril v Casa Pia  2-0 (1-0)   @ Estádio António Coimbra da Mota › Estoril
+    21.15     GIL Vicente v Guimaraes  2-1 (1-1)   @ Estádio Cidade de Barcelos › Barcelos
+» Regular Season - 17
+  Fri Jan 20
+    19.00     Arouca v Portimonense  4-0 (2-0)   @ Estádio Municipal de Arouca › Arouca
+    21.15     Sporting CP v Vizela  2-1 (0-0)   @ Estádio José Alvalade › Lisboa
+  Sat Jan 21
+    15.30     Pacos Ferreira v SC Braga  1-2 (0-0)   @ Estádio da Capital do Móvel › Paços de Ferreira
+    18.00     Santa Clara v Benfica  0-3 (0-2)   @ Estádio de São Miguel › Ponta Delgada, Ilha de São Miguel, Açores
+    20.30     Guimaraes v FC Porto  0-1 (0-1)   @ Estádio Dom Afonso Henriques › Guimarães
+  Sun Jan 22
+    15.30     Maritimo v Estoril  1-0 (1-0)   @ Estádio dos Barreiros › Ilha da Madeira
+    18.00     Casa Pia v GIL Vicente  1-3 (0-0)   @ Estádio Nacional › Jamor, Oeiras
+    20.30     Famalicao v Rio Ave  0-0 (0-0)   @ Estádio Municipal 22 de Junho › Vila Nova de Famalicão
+  Mon Jan 23
+    20.15     Boavista v Chaves  1-1 (1-0)   @ Estádio do Bessa Século XXI › Porto
+» Regular Season - 20
+  Thu Jan 26
+    20.15     Pacos Ferreira v Benfica  0-2 (0-2)   @ Estádio da Capital do Móvel › Paços de Ferreira
+» Regular Season - 18
+  Sun Jan 29
+    15.30     Vizela v Rio Ave  3-1 (0-1)   @ Estádio Do Vizela › Caldas de Vizela
+              Casa Pia v Santa Clara  2-1 (0-0)   @ Estádio Nacional › Jamor, Oeiras
+    18.00     Boavista v Portimonense  4-2 (0-0)   @ Estádio do Bessa Século XXI › Porto
+    20.30     Famalicao v Estoril  1-0 (0-0)   @ Estádio Municipal 22 de Junho › Vila Nova de Famalicão
+  Mon Jan 30
+    20.15     Guimaraes v Chaves  2-1 (1-0)   @ Estádio Dom Afonso Henriques › Guimarães
+  Tue Jan 31
+    19.00     Pacos Ferreira v GIL Vicente  2-1 (1-0)   @ Estádio da Capital do Móvel › Paços de Ferreira
+    21.15     Arouca v Benfica  0-3 (0-1)   @ Estádio Municipal de Arouca › Arouca
+  Wed Feb 1
+    19.00     Maritimo v FC Porto  0-2 (0-0)   @ Estádio dos Barreiros › Ilha da Madeira
+    21.15     Sporting CP v SC Braga  5-0 (1-0)   @ Estádio José Alvalade › Lisboa
+» Regular Season - 19
+  Sat Feb 4
+    15.30     Santa Clara v Boavista  2-2 (0-1)   @ Estádio de São Miguel › Ponta Delgada, Ilha de São Miguel, Açores
+    18.00     Benfica v Casa Pia  3-0 (2-0)   @ Estádio do Sport Lisboa e Benfica › Lisboa
+    20.30     Estoril v Guimaraes  0-1 (0-1)   @ Estádio António Coimbra da Mota › Estoril
+  Sun Feb 5
+    15.30     Chaves v Maritimo  2-1 (2-1)   @ Estádio Municipal Eng. Manuel Branco Teixeira › Chaves
+              SC Braga v Famalicao  4-1 (1-0)   @ Estádio Municipal de Braga › Braga
+    18.00     FC Porto v Vizela  2-0 (1-0)   @ Estádio Do Dragão › Porto
+    20.30     GIL Vicente v Arouca  1-1 (1-1)   @ Estádio Cidade de Barcelos › Barcelos
+  Mon Feb 6
+    19.00     Portimonense v Pacos Ferreira  1-0 (0-0)   @ Estádio Municipal de Portimão › Portimão
+    21.15     Rio Ave v Sporting CP  0-1 (0-0)   @ Estádio do Rio Ave Futebol Clube › Vila do Conde
+» Regular Season - 14
+  Thu Feb 9
+    18.00     Estoril v Boavista  2-1 (0-1)   @ Estádio António Coimbra da Mota › Estoril
+» Regular Season - 20
+  Fri Feb 10
+    20.15     Vizela v Chaves  0-0 (0-0)   @ Estádio Do Vizela › Caldas de Vizela
+  Sat Feb 11
+    18.00     Arouca v Santa Clara  1-0 (0-0)   @ Estádio Municipal de Arouca › Arouca
+    20.30     Guimaraes v Portimonense  1-0 (1-0)   @ Estádio Dom Afonso Henriques › Guimarães
+  Sun Feb 12
+    15.30     Famalicao v GIL Vicente  0-1 (0-0)   @ Estádio Municipal 22 de Junho › Vila Nova de Famalicão
+    18.00     Sporting CP v FC Porto  1-2 (0-0)   @ Estádio José Alvalade › Lisboa
+    20.30     Maritimo v SC Braga  1-2 (1-2)   @ Estádio dos Barreiros › Ilha da Madeira
+  Mon Feb 13
+    19.00     Rio Ave v Estoril  2-0 (0-0)   @ Estádio do Rio Ave Futebol Clube › Vila do Conde
+    21.15     Boavista v Casa Pia  0-0 (0-0)   @ Estádio do Bessa Século XXI › Porto
+» Regular Season - 21
+  Fri Feb 17
+    20.15     GIL Vicente v Vizela  1-1 (0-0)   @ Estádio Cidade de Barcelos › Barcelos
+  Sat Feb 18
+    18.00     Estoril v Pacos Ferreira  1-3 (0-2)   @ Estádio António Coimbra da Mota › Estoril
+              Portimonense v Maritimo  2-1 (0-1)   @ Estádio Municipal de Portimão › Portimão
+    20.30     FC Porto v Rio Ave  1-0 (1-0)   @ Estádio Do Dragão › Porto
+  Sun Feb 19
+    15.30     Santa Clara v Famalicao  1-3 (0-0)   @ Estádio de São Miguel › Ponta Delgada, Ilha de São Miguel, Açores
+    18.00     SC Braga v Arouca  2-0 (1-0)   @ Estádio Municipal de Braga › Braga
+    20.30     Casa Pia v Guimaraes  0-0 (0-0)   @ Estádio Nacional › Jamor, Oeiras
+  Mon Feb 20
+    19.00     Chaves v Sporting CP  2-3 (1-1)   @ Estádio Municipal Eng. Manuel Branco Teixeira › Chaves
+    21.15     Benfica v Boavista  3-1 (0-0)   @ Estádio do Sport Lisboa e Benfica › Lisboa
+» Regular Season - 22
+  Fri Feb 24
+    20.15     Famalicao v Portimonense  1-0 (0-0)   @ Estádio Municipal 22 de Junho › Vila Nova de Famalicão
+  Sat Feb 25
+    15.30     Arouca v Casa Pia  2-0 (0-0)   @ Estádio Municipal de Arouca › Arouca
+    18.00     Maritimo v Santa Clara  3-1 (0-1)   @ Estádio dos Barreiros › Ilha da Madeira
+    20.30     Vizela v Benfica  0-2 (0-1)   @ Estádio Do Vizela › Caldas de Vizela
+  Sun Feb 26
+    15.30     Rio Ave v Chaves  1-0 (0-0)   @ Estádio do Rio Ave Futebol Clube › Vila do Conde
+    18.00     Pacos Ferreira v Boavista  1-3 (0-1)   @ Estádio da Capital do Móvel › Paços de Ferreira
+    20.30     FC Porto v GIL Vicente  1-2 (1-2)   @ Estádio Do Dragão › Porto
+  Mon Feb 27
+    19.00     Sporting CP v Estoril  2-0 (1-0)   @ Estádio José Alvalade › Lisboa
+    21.15     Guimaraes v SC Braga  2-1 (2-0)   @ Estádio Dom Afonso Henriques › Guimarães
+» Regular Season - 23
+  Fri Mar 3
+    19.00     Boavista v Arouca  0-0 (0-0)   @ Estádio do Bessa Século XXI › Porto
+    21.15     Benfica v Famalicao  2-0 (1-0)   @ Estádio do Sport Lisboa e Benfica › Lisboa
+  Sat Mar 4
+    15.30     Estoril v Vizela  0-3 (0-2)   @ Estádio António Coimbra da Mota › Estoril
+    18.00     Portimonense v Sporting CP  0-1 (0-0)   @ Estádio Municipal de Portimão › Portimão
+    20.30     Chaves v FC Porto  1-3 (0-2)   @ Estádio Municipal Eng. Manuel Branco Teixeira › Chaves
+  Sun Mar 5
+    15.30     GIL Vicente v Maritimo  2-0 (1-0)   @ Estádio Cidade de Barcelos › Barcelos
+    18.00     Santa Clara v Guimaraes  1-3 (0-3)   @ Estádio de São Miguel › Ponta Delgada, Ilha de São Miguel, Açores
+    20.30     SC Braga v Rio Ave  2-0 (1-0)   @ Estádio Municipal de Braga › Braga
+  Mon Mar 6
+    20.15     Casa Pia v Pacos Ferreira  2-1 (0-1)   @ Estádio Nacional › Jamor, Oeiras
+» Regular Season - 24
+  Fri Mar 10
+    20.15     FC Porto v Estoril  3-2 (2-1)   @ Estádio Do Dragão › Porto
+  Sat Mar 11
+    15.30     Pacos Ferreira v Santa Clara  1-0 (0-0)   @ Estádio da Capital do Móvel › Paços de Ferreira
+              Chaves v Portimonense  2-0 (1-0)   @ Estádio Municipal Eng. Manuel Branco Teixeira › Chaves
+    18.00     Guimaraes v Arouca  0-2 (0-0)   @ Estádio Dom Afonso Henriques › Guimarães
+    20.30     Vizela v SC Braga  0-4 (0-1)   @ Estádio Do Vizela › Caldas de Vizela
+  Sun Mar 12
+    15.30     Rio Ave v GIL Vicente  2-1 (2-0)   @ Estádio do Rio Ave Futebol Clube › Vila do Conde
+    18.00     Maritimo v Benfica  0-3 (0-1)   @ Estádio dos Barreiros › Ilha da Madeira
+    20.30     Sporting CP v Boavista  3-0 (2-0)   @ Estádio José Alvalade › Lisboa
+  Mon Mar 13
+    20.15     Famalicao v Casa Pia  1-0 (1-0)   @ Estádio Municipal 22 de Junho › Vila Nova de Famalicão
+» Regular Season - 25
+  Fri Mar 17
+    20.15     Santa Clara v Rio Ave  0-2 (0-0)   @ Estádio de São Miguel › Ponta Delgada, Ilha de São Miguel, Açores
+  Sat Mar 18
+    15.30     Portimonense v Vizela  0-1 (0-0)   @ Estádio Municipal de Portimão › Portimão
+    18.00     Arouca v Pacos Ferreira  1-1 (0-0)   @ Estádio Municipal de Arouca › Arouca
+              Benfica v Guimaraes  5-1 (3-0)   @ Estádio do Sport Lisboa e Benfica › Lisboa
+    20.30     Estoril v Chaves  0-2 (0-1)   @ Estádio António Coimbra da Mota › Estoril
+  Sun Mar 19
+    15.30     Casa Pia v Maritimo  2-0 (1-0)   @ Estádio Nacional › Jamor, Oeiras
+    18.00     SC Braga v FC Porto  0-0 (0-0)   @ Estádio Municipal de Braga › Braga
+    20.30     Boavista v Famalicao  1-2 (0-0)   @ Estádio do Bessa Século XXI › Porto
+» Regular Season - 26
+  Fri Mar 31
+    20.15     Estoril v GIL Vicente  1-0 (1-0)   @ Estádio António Coimbra da Mota › Estoril
+  Sat Apr 1
+    15.30     Vizela v Casa Pia  3-1 (1-1)   @ Estádio Do Vizela › Caldas de Vizela
+    18.00     Guimaraes v Pacos Ferreira  0-0 (0-0)   @ Estádio Dom Afonso Henriques › Guimarães
+    20.30     Sporting CP v Santa Clara  3-0 (2-0)   @ Estádio José Alvalade › Lisboa
+  Sun Apr 2
+    15.30     Chaves v SC Braga  1-2 (1-1)   @ Estádio Municipal Eng. Manuel Branco Teixeira › Chaves
+              Maritimo v Boavista  4-2 (2-0)   @ Estádio dos Barreiros › Ilha da Madeira
+    18.00     Rio Ave v Benfica  0-1 (0-0)   @ Estádio do Rio Ave Futebol Clube › Vila do Conde
+    20.30     FC Porto v Portimonense  1-0 (1-0)   @ Estádio Do Dragão › Porto
+  Mon Apr 3
+    20.15     Famalicao v Arouca  0-1 (0-0)   @ Estádio Municipal 22 de Junho › Vila Nova de Famalicão
+» Regular Season - 25
+  Wed Apr 5
+    20.15     GIL Vicente v Sporting CP  0-0 (0-0)   @ Estádio Cidade de Barcelos › Barcelos
+» Regular Season - 27
+  Fri Apr 7
+    15.30     Santa Clara v Vizela  0-1 (0-1)   @ Estádio de São Miguel › Ponta Delgada, Ilha de São Miguel, Açores
+    18.00     Benfica v FC Porto  1-2 (1-1)   @ Estádio do Sport Lisboa e Benfica › Lisboa
+    20.30     Boavista v Guimaraes  2-1 (1-0)   @ Estádio do Bessa Século XXI › Porto
+  Sat Apr 8
+    15.30     Arouca v Maritimo  1-0 (1-0)   @ Estádio Municipal de Arouca › Arouca
+    18.00     Pacos Ferreira v Famalicao  1-3 (1-1)   @ Estádio da Capital do Móvel › Paços de Ferreira
+              Portimonense v Rio Ave  2-2 (0-1)   @ Estádio Municipal de Portimão › Portimão
+    20.30     SC Braga v Estoril  4-1 (1-0)   @ Estádio Municipal de Braga › Braga
+  Sun Apr 9
+    18.00     Casa Pia v Sporting CP  3-4 (2-2)   @ Estádio Nacional › Jamor, Oeiras
+  Mon Apr 10
+    20.15     GIL Vicente v Chaves  0-0 (0-0)   @ Estádio Cidade de Barcelos › Barcelos
+» Regular Season - 28
+  Fri Apr 14
+    20.15     Famalicao v Guimaraes  2-1 (1-0)   @ Estádio Municipal 22 de Junho › Vila Nova de Famalicão
+  Sat Apr 15
+    15.30     Estoril v Portimonense  0-1 (0-0)   @ Estádio António Coimbra da Mota › Estoril
+              Maritimo v Pacos Ferreira  3-1 (2-0)   @ Estádio dos Barreiros › Ilha da Madeira
+    18.00     Chaves v Benfica  1-0 (0-0)   @ Estádio Municipal Eng. Manuel Branco Teixeira › Chaves
+    20.30     FC Porto v Santa Clara  2-1 (1-0)   @ Estádio Do Dragão › Porto
+  Sun Apr 16
+    15.30     Rio Ave v Casa Pia  1-1 (0-1)   @ Estádio do Rio Ave Futebol Clube › Vila do Conde
+    18.00     SC Braga v GIL Vicente  1-0 (1-0)   @ Estádio Municipal de Braga › Braga
+    20.30     Sporting CP v Arouca  1-1 (0-1)   @ Estádio José Alvalade › Lisboa
+  Mon Apr 17
+    20.15     Vizela v Boavista  1-1 (0-0)   @ Estádio Do Vizela › Caldas de Vizela
+» Regular Season - 29
+  Fri Apr 21
+    20.15     Casa Pia v SC Braga  0-1 (0-0)   @ Estádio Nacional › Jamor, Oeiras
+  Sat Apr 22
+    15.30     Famalicao v Maritimo  3-2 (0-2)   @ Estádio Municipal 22 de Junho › Vila Nova de Famalicão
+    18.00     Boavista v Rio Ave  3-2 (3-1)   @ Estádio do Bessa Século XXI › Porto
+    20.30     Pacos Ferreira v FC Porto  0-2 (0-0)   @ Estádio da Capital do Móvel › Paços de Ferreira
+  Sun Apr 23
+    15.30     Portimonense v GIL Vicente  1-0 (0-0)   @ Estádio Municipal de Portimão › Portimão
+    18.00     Santa Clara v Chaves  1-1 (0-0)   @ Estádio de São Miguel › Ponta Delgada, Ilha de São Miguel, Açores
+              Benfica v Estoril  1-0 (1-0)   @ Estádio do Sport Lisboa e Benfica › Lisboa
+    20.30     Arouca v Vizela  1-0 (1-0)   @ Estádio Municipal de Arouca › Arouca
+  Mon Apr 24
+    20.15     Guimaraes v Sporting CP  0-2 (0-0)   @ Estádio Dom Afonso Henriques › Guimarães
+» Regular Season - 30
+  Fri Apr 28
+    20.15     Rio Ave v Arouca  1-0 (0-0)   @ Estádio do Rio Ave Futebol Clube › Vila do Conde
+  Sat Apr 29
+    15.30     SC Braga v Portimonense  4-1 (3-1)   @ Estádio Municipal de Braga › Braga
+              Maritimo v Guimaraes  1-2 (0-1)   @ Estádio dos Barreiros › Ilha da Madeira
+    18.00     Vizela v Pacos Ferreira  1-2 (0-2)   @ Estádio Do Vizela › Caldas de Vizela
+              Chaves v Casa Pia  1-0 (1-0)   @ Estádio Municipal Eng. Manuel Branco Teixeira › Chaves
+    20.30     GIL Vicente v Benfica  0-2 (0-0)   @ Estádio Cidade de Barcelos › Barcelos
+  Sun Apr 30
+    15.30     Estoril v Santa Clara  3-0 (2-0)   @ Estádio António Coimbra da Mota › Estoril
+    18.00     FC Porto v Boavista  1-0 (0-0)   @ Estádio Do Dragão › Porto
+    20.30     Sporting CP v Famalicao  2-1 (1-0)   @ Estádio José Alvalade › Lisboa
+» Regular Season - 31
+  Fri May 5
+    20.15     Casa Pia v Portimonense  1-1 (0-0)   @ Estádio Nacional › Jamor, Oeiras
+  Sat May 6
+    15.30     Santa Clara v GIL Vicente  3-2 (2-0)   @ Estádio de São Miguel › Ponta Delgada, Ilha de São Miguel, Açores
+    18.00     Boavista v Estoril  1-0 (0-0)   @ Estádio do Bessa Século XXI › Porto
+    20.30     Benfica v SC Braga  1-0 (0-0)   @ Estádio do Sport Lisboa e Benfica › Lisboa
+  Sun May 7
+    15.30     Maritimo v Rio Ave  2-2 (1-2)   @ Estádio dos Barreiros › Ilha da Madeira
+    18.00     Guimaraes v Vizela  3-0 (2-0)   @ Estádio Dom Afonso Henriques › Guimarães
+    20.30     Pacos Ferreira v Sporting CP  0-4 (0-2)   @ Estádio da Capital do Móvel › Paços de Ferreira
+  Mon May 8
+    19.00     Famalicao v Chaves  1-2 (0-0)   @ Estádio Municipal 22 de Junho › Vila Nova de Famalicão
+    21.15     Arouca v FC Porto  0-1 (0-1)   @ Estádio Municipal de Arouca › Arouca
+» Regular Season - 32
+  Fri May 12
+    20.15     GIL Vicente v Boavista  3-1 (1-0)   @ Estádio Cidade de Barcelos › Barcelos
+  Sat May 13
+    15.30     Chaves v Pacos Ferreira  2-0 (0-0)   @ Estádio Municipal Eng. Manuel Branco Teixeira › Chaves
+              Vizela v Famalicao  0-0 (0-0)   @ Estádio Do Vizela › Caldas de Vizela
+    18.00     Portimonense v Benfica  1-5 (1-3)   @ Estádio Municipal de Portimão › Portimão
+    20.30     Sporting CP v Maritimo  2-1 (0-1)   @ Estádio José Alvalade › Lisboa
+  Sun May 14
+    15.30     Rio Ave v Guimaraes  0-1 (0-0)   @ Estádio do Rio Ave Futebol Clube › Vila do Conde
+    18.00     SC Braga v Santa Clara  5-3 (3-1)   @ Estádio Municipal de Braga › Braga
+    20.30     FC Porto v Casa Pia  2-1 (0-1)   @ Estádio Do Dragão › Porto
+  Mon May 15
+    20.15     Estoril v Arouca  2-0 (0-0)   @ Estádio António Coimbra da Mota › Estoril
+» Regular Season - 33
+  Fri May 19
+    20.15     Maritimo v Vizela  1-0 (0-0)   @ Estádio dos Barreiros › Ilha da Madeira
+  Sat May 20
+    15.30     Santa Clara v Portimonense  1-0 (1-0)   @ Estádio de São Miguel › Ponta Delgada, Ilha de São Miguel, Açores
+              Arouca v Chaves  1-0 (0-0)   @ Estádio Municipal de Arouca › Arouca
+    18.00     Boavista v SC Braga  1-1 (0-0)   @ Estádio do Bessa Século XXI › Porto
+    20.30     Famalicao v FC Porto  2-4 (2-2)   @ Estádio Municipal 22 de Junho › Vila Nova de Famalicão
+  Sun May 21
+    15.30     Guimaraes v GIL Vicente  1-0 (0-0)   @ Estádio Dom Afonso Henriques › Guimarães
+    18.00     Casa Pia v Estoril  2-2 (0-0)   @ Estádio Dr. Magalhães Pessoa › Leiria
+              Pacos Ferreira v Rio Ave  3-1 (1-1)   @ Estádio da Capital do Móvel › Paços de Ferreira
+    20.30     Sporting CP v Benfica  2-2 (2-0)   @ Estádio José Alvalade › Lisboa
+» Regular Season - 34
+  Fri May 26
+    19.00     Rio Ave v Famalicao  2-2 (0-2)   @ Estádio do Rio Ave Futebol Clube › Vila do Conde
+    21.15     Vizela v Sporting CP  1-2 (1-1)   @ Estádio Do Vizela › Caldas de Vizela
+  Sat May 27
+    12.45     GIL Vicente v Casa Pia  1-0 (0-0)   @ Estádio Cidade de Barcelos › Barcelos
+    15.30     Estoril v Maritimo  3-1 (1-0)   @ Estádio António Coimbra da Mota › Estoril
+              Chaves v Boavista  1-4 (0-2)   @ Estádio Municipal Eng. Manuel Branco Teixeira › Chaves
+    18.00     FC Porto v Guimaraes  3-0 (3-0)   @ Estádio Do Dragão › Porto
+              Portimonense v Arouca  0-2 (0-0)   @ Estádio Municipal de Portimão › Portimão
+              Benfica v Santa Clara  3-0 (2-0)   @ Estádio do Sport Lisboa e Benfica › Lisboa
+    20.30     SC Braga v Pacos Ferreira  3-0 (2-0)   @ Estádio Municipal de Braga › Braga
+» Relegation Round
+  Sat Jun 3
+    20.00     Estrela v Maritimo  2-1 (1-0)   @ Estádio José Gomes › Amadora
+  Sun Jun 11
+    20.15     Maritimo v Estrela  2-3 pen (2-1, 2-1, 1-1)   @ Estádio dos Barreiros › Ilha da Madeira

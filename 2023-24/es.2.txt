@@ -1,0 +1,683 @@
+= Spain | Segunda División 2023/24
+
+  # Date       Fri Aug/11 2023 - Sun Jun/23 2024 (317d)
+  # Teams      22
+  # Matches    468
+
+  # Note - All times in Europe/Madrid
+
+» Regular Season - 1
+  Fri Aug 11 2023
+    19.00     Amorebieta v Levante  1-1 (0-1)   @ Instalaciones de Lezama Campo 2 › Lezama
+  Fri Aug 11
+    21.30     Valladolid v Sporting Gijon  2-0 (1-0)   @ Estadio Municipal José Zorrilla › Valladolid
+  Sat Aug 12
+    19.00     Racing Santander v Eibar  4-0 (3-0)   @ Campos de Sport de El Sardinero › Santander
+    21.00     Zaragoza v Villarreal II  2-0 (0-0)   @ Estadio de la Romareda › Zaragoza
+    22.00     Elche v Racing Ferrol  0-1 (0-0)   @ Estadio Manuel Martínez Valero › Elche
+  Sun Aug 13
+    17.00     Burgos v Huesca  1-1 (1-1)   @ Estadio Municipal de El Plantío › Burgos
+    19.30     Albacete v Espanyol  1-1 (0-1)   @ Estadio Carlos Belmonte › Albacete
+              FC Cartagena v Eldense  0-1 (0-1)   @ Estadio Municipal Cartagonova › Cartagena
+    22.00     Leganes v FC Andorra  0-1 (0-1)   @ Estadio Municipal de Butarque › Leganés
+  Mon Aug 14
+    19.00     Mirandes v Alcorcon  4-0 (2-0)   @ Estadio Municipal de Anduva › Miranda de Ebro
+    21.30     Tenerife v Oviedo  1-0 (1-0)   @ Estadio Heliodoro Rodríguez Lopéz › Tenerife
+» Regular Season - 2
+  Fri Aug 18
+    19.00     FC Andorra v FC Cartagena  3-2 (0-0)   @ Estadi Nacional › Andorra la Vella
+    21.30     Zaragoza v Valladolid  1-0 (1-0)   @ Estadio de la Romareda › Zaragoza
+  Sat Aug 19
+    17.00     Eibar v Elche  2-1 (1-0)   @ Estadio Municipal de Ipurúa › Eibar
+    19.00     Espanyol v Racing Santander  2-0 (1-0)   @ RCDE Stadium › Cornella de Llobregat
+    19.30     Levante v Burgos  3-2 (2-1)   @ Estadio Ciudad de Valencia › Valencia
+    22.00     Alcorcon v Leganes  0-2 (0-0)   @ Estadio Santo Domingo › Alcorcón
+  Sun Aug 20
+    17.00     Oviedo v Racing Ferrol  1-1 (0-1)   @ Estadio Nuevo Carlos Tartiere › Oviedo
+    19.30     Sporting Gijon v Mirandes  3-0 (3-0)   @ Estadio Municipal El Molinón › Gijón
+    22.00     Albacete v Amorebieta  2-2 (1-2)   @ Estadio Carlos Belmonte › Albacete
+  Mon Aug 21
+    19.00     Villarreal II v Eldense  3-1 (2-1)   @ Estadio de la Cerámica › Villarreal
+    21.30     Huesca v Tenerife  0-2 (0-1)   @ Estadio El Alcoraz › Huesca
+» Regular Season - 3
+  Fri Aug 25
+    21.30     FC Cartagena v Levante  0-1 (0-1)   @ Estadio Municipal Cartagonova › Cartagena
+  Sat Aug 26
+    17.00     Burgos v Oviedo  1-0 (1-0)   @ Estadio Municipal de El Plantío › Burgos
+    19.00     Tenerife v Zaragoza  0-1 (0-0)   @ Estadio Heliodoro Rodríguez Lopéz › Tenerife
+    21.30     Elche v Villarreal II  1-0 (1-0)   @ Estadio Manuel Martínez Valero › Elche
+              Valladolid v Alcorcon  0-2 (0-1)   @ Estadio Municipal José Zorrilla › Valladolid
+  Sun Aug 27
+    17.00     Racing Ferrol v Sporting Gijon  2-0 (0-0)   @ Estadio Municipal de A Malata › Ferrol
+    19.30     Mirandes v Espanyol  0-1 (0-0)   @ Estadio Municipal de Anduva › Miranda de Ebro
+              Amorebieta v FC Andorra  3-0 (1-0)   @ Instalaciones de Lezama Campo 2 › Lezama
+    21.30     Leganes v Albacete  2-0 (1-0)   @ Estadio Municipal de Butarque › Leganés
+  Mon Aug 28
+    19.00     Eldense v Eibar  2-1 (2-0)   @ Estadio Municipal Nuevo Pepico Amat › Elda
+    21.30     Racing Santander v Huesca  0-0 (0-0)   @ Campos de Sport de El Sardinero › Santander
+» Regular Season - 4
+  Fri Sep 1
+    19.30     Alcorcon v Racing Ferrol  1-1 (0-0)   @ Estadio Santo Domingo › Alcorcón
+    21.30     Albacete v Valladolid  2-0 (1-0)   @ Estadio Carlos Belmonte › Albacete
+  Sat Sep 2
+    16.15     Sporting Gijon v Burgos  2-1 (1-0)   @ Estadio Municipal El Molinón › Gijón
+    18.30     Levante v Oviedo  1-1 (0-0)   @ Estadio Ciudad de Valencia › Valencia
+    21.00     Villarreal II v FC Cartagena  1-2 (1-0)   @ Estadio de la Cerámica › Villarreal
+              Elche v Racing Santander  1-1 (1-0)   @ Estadio Manuel Martínez Valero › Elche
+  Sun Sep 3
+    14.00     FC Andorra v Tenerife  0-1 (0-0)   @ Estadi Nacional › Andorra la Vella
+    16.15     Eibar v Leganes  0-1 (0-1)   @ Estadio Municipal de Ipurúa › Eibar
+    18.30     Zaragoza v Eldense  2-0 (1-0)   @ Estadio de la Romareda › Zaragoza
+              Espanyol v Amorebieta  3-2 (0-2)   @ RCDE Stadium › Cornella de Llobregat
+    21.00     Huesca v Mirandes  1-1 (0-0)   @ Estadio El Alcoraz › Huesca
+» Regular Season - 5
+  Fri Sep 8
+    21.00     Levante v Espanyol  1-4 (1-2)   @ Estadio Ciudad de Valencia › Valencia
+  Sat Sep 9
+    16.15     Burgos v Eibar  1-0 (0-0)   @ Estadio Municipal de El Plantío › Burgos
+    18.30     Oviedo v Sporting Gijon  0-0 (0-0)   @ Estadio Nuevo Carlos Tartiere › Oviedo
+    21.00     Tenerife v Albacete  2-0 (2-0)   @ Estadio Heliodoro Rodríguez Lopéz › Tenerife
+              Leganes v Huesca  2-0 (1-0)   @ Estadio Municipal de Butarque › Leganés
+  Sun Sep 10
+    16.15     Racing Santander v Amorebieta  1-0 (1-0)   @ Campos de Sport de El Sardinero › Santander
+              Racing Ferrol v Villarreal II  2-2 (0-1)   @ Estadio Municipal de A Malata › Ferrol
+    18.30     FC Cartagena v Zaragoza  1-3 (1-2)   @ Estadio Municipal Cartagonova › Cartagena
+              Mirandes v FC Andorra  4-3 (2-0)   @ Estadio Municipal de Anduva › Miranda de Ebro
+    21.00     Valladolid v Elche  1-1 (1-0)   @ Estadio Municipal José Zorrilla › Valladolid
+  Mon Sep 11
+    21.00     Eldense v Alcorcon  2-2 (0-0)   @ Estadio Municipal Nuevo Pepico Amat › Elda
+» Regular Season - 6
+  Fri Sep 15
+    21.30     Zaragoza v Racing Santander  1-1 (1-1)   @ Estadio de la Romareda › Zaragoza
+  Sat Sep 16
+    16.15     Huesca v Villarreal II  2-2 (0-2)   @ Estadio El Alcoraz › Huesca
+    18.30     Alcorcon v Levante  0-2 (0-1)   @ Estadio Santo Domingo › Alcorcón
+              Valladolid v FC Cartagena  1-0 (0-0)   @ Estadio Municipal José Zorrilla › Valladolid
+    21.00     Albacete v Burgos  2-1 (1-0)   @ Estadio Carlos Belmonte › Albacete
+  Sun Sep 17
+    14.00     Amorebieta v Mirandes  2-0 (2-0)   @ Instalaciones de Lezama Campo 2 › Lezama
+    16.15     Eibar v Racing Ferrol  2-0 (1-0)   @ Estadio Municipal de Ipurúa › Eibar
+    18.30     Elche v Leganes  1-0 (1-0)   @ Estadio Manuel Martínez Valero › Elche
+              Espanyol v Eldense  3-3 (0-2)   @ RCDE Stadium › Cornella de Llobregat
+    21.00     Sporting Gijon v Tenerife  2-1 (1-1)   @ Estadio Municipal El Molinón › Gijón
+  Mon Sep 18
+    21.00     FC Andorra v Oviedo  1-0 (0-0)   @ Estadi Nacional › Andorra la Vella
+» Regular Season - 7
+  Fri Sep 22
+    21.00     FC Cartagena v Eibar  1-2 (0-1)   @ Estadio Municipal Cartagonova › Cartagena
+  Sat Sep 23
+    14.00     FC Andorra v Sporting Gijon  0-0 (0-0)   @ Estadi Nacional › Andorra la Vella
+    16.15     Levante v Eldense  2-0 (1-0)   @ Estadio Ciudad de Valencia › Valencia
+    18.30     Burgos v Elche  4-0 (2-0)   @ Estadio Municipal de El Plantío › Burgos
+    21.00     Racing Santander v Albacete  2-1 (2-0)   @ Campos de Sport de El Sardinero › Santander
+              Alcorcon v Huesca  0-2 (0-2)   @ Estadio Santo Domingo › Alcorcón
+  Sun Sep 24
+    14.00     Villarreal II v Amorebieta  3-1 (1-0)   @ Estadio de la Cerámica › Villarreal
+    16.15     Oviedo v Valladolid  0-1 (0-0)   @ Estadio Nuevo Carlos Tartiere › Oviedo
+    18.30     Mirandes v Leganes  1-3 (1-1)   @ Estadio Municipal de Anduva › Miranda de Ebro
+  Mon Sep 25
+    21.00     Racing Ferrol v Zaragoza  1-0 (0-0)   @ Estadio Municipal de A Malata › Ferrol
+              Tenerife v Espanyol  1-0 (1-0)   @ Estadio Heliodoro Rodríguez Lopéz › Tenerife
+» Regular Season - 8
+  Fri Sep 29
+    21.00     Leganes v Racing Santander  2-1 (1-0)   @ Estadio Municipal de Butarque › Leganés
+  Sat Sep 30
+    16.15     Eibar v Tenerife  3-0 (0-0)   @ Estadio Municipal de Ipurúa › Eibar
+    18.30     Elche v Levante  0-0 (0-0)   @ Estadio Manuel Martínez Valero › Elche
+    21.00     Albacete v FC Andorra  3-1 (2-0)   @ Estadio Carlos Belmonte › Albacete
+              Villarreal II v Alcorcon  2-2 (1-2)   @ Estadio de la Cerámica › Villarreal
+  Sun Oct 1
+    14.00     Eldense v Oviedo  1-3 (0-3)   @ Estadio Municipal Nuevo Pepico Amat › Elda
+    18.30     Zaragoza v Mirandes  0-1 (0-0)   @ Estadio de la Romareda › Zaragoza
+              Amorebieta v FC Cartagena  0-0 (0-0)   @ Instalaciones de Lezama Campo 2 › Lezama
+              Valladolid v Burgos  3-0 (2-0)   @ Estadio Municipal José Zorrilla › Valladolid
+    21.00     Huesca v Sporting Gijon  0-1 (0-0)   @ Estadio El Alcoraz › Huesca
+  Mon Oct 2
+    21.00     Espanyol v Racing Ferrol  3-0 (1-0)   @ Stage Front Stadium › Cornella de Llobregat
+» Regular Season - 9
+  Tue Oct 3
+    19.00     Alcorcon v Albacete  1-2 (0-1)   @ Estadio Santo Domingo › Alcorcón
+              Levante v Villarreal II  1-1 (0-0)   @ Estadio Ciudad de Valencia › Valencia
+    21.30     Tenerife v Racing Santander  2-0 (0-0)   @ Estadio Heliodoro Rodríguez Lopéz › Tenerife
+  Wed Oct 4
+    19.00     Eldense v Valladolid  0-1 (0-1)   @ Estadio Municipal Nuevo Pepico Amat › Elda
+              Oviedo v Huesca  1-0 (0-0)   @ Estadio Nuevo Carlos Tartiere › Oviedo
+    21.30     Burgos v Leganes  1-0 (1-0)   @ Estadio Municipal de El Plantío › Burgos
+              Sporting Gijon v Elche  2-0 (2-0)   @ Estadio Municipal El Molinón › Gijón
+  Thu Oct 5
+    19.00     Mirandes v Eibar  1-3 (1-1)   @ Estadio Municipal de Anduva › Miranda de Ebro
+              FC Andorra v Zaragoza  0-1 (0-1)   @ Estadi Nacional › Andorra la Vella
+    21.30     Racing Ferrol v Amorebieta  1-0 (1-0)   @ Estadio Municipal de A Malata › Ferrol
+              FC Cartagena v Espanyol  0-2 (0-1)   @ Estadio Municipal Cartagonova › Cartagena
+» Regular Season - 10
+  Fri Oct 6
+    21.00     Albacete v Levante  0-2 (0-1)   @ Estadio Carlos Belmonte › Albacete
+  Sat Oct 7
+    16.15     Huesca v Eldense  0-1 (0-0)   @ Estadio El Alcoraz › Huesca
+    18.30     Racing Santander v Sporting Gijon  3-2 (1-1)   @ Campos de Sport de El Sardinero › Santander
+    21.00     Leganes v Oviedo  0-0 (0-0)   @ Estadio Municipal de Butarque › Leganés
+  Sun Oct 8
+    14.00     Amorebieta v Eibar  1-2 (1-1)   @ Instalaciones de Lezama Campo 2 › Lezama
+    16.15     Valladolid v Mirandes  3-2 (0-0)   @ Estadio Municipal José Zorrilla › Valladolid
+    18.30     Racing Ferrol v FC Cartagena  1-1 (0-1)   @ Estadio Municipal de A Malata › Ferrol
+              Tenerife v Burgos  2-1 (0-0)   @ Estadio Heliodoro Rodríguez Lopéz › Tenerife
+    21.00     Zaragoza v Alcorcon  0-2 (0-1)   @ Estadio de la Romareda › Zaragoza
+  Mon Oct 9
+    19.00     Elche v FC Andorra  2-1 (1-0)   @ Estadio Manuel Martínez Valero › Elche
+    21.00     Villarreal II v Espanyol  3-1 (2-1)   @ Estadio de la Cerámica › Villarreal
+» Regular Season - 11
+  Fri Oct 13
+    21.00     Oviedo v Albacete  3-0 (0-0)   @ Estadio Nuevo Carlos Tartiere › Oviedo
+  Sat Oct 14
+    16.15     Mirandes v Tenerife  1-1 (1-1)   @ Estadio Municipal de Anduva › Miranda de Ebro
+    18.30     FC Cartagena v Racing Santander  2-3 (2-2)   @ Estadio Municipal Cartagonova › Cartagena
+              Sporting Gijon v Zaragoza  2-2 (0-1)   @ Estadio Municipal El Molinón › Gijón
+    21.00     Espanyol v Valladolid  2-0 (2-0)   @ Stage Front Stadium › Cornella de Llobregat
+  Sun Oct 15
+    14.00     Burgos v Villarreal II  3-2 (0-0)   @ Estadio Municipal de El Plantío › Burgos
+    16.15     FC Andorra v Alcorcon  2-0 (0-0)   @ Estadi Nacional › Andorra la Vella
+              Eldense v Elche  1-1 (1-0)   @ Estadio Municipal Nuevo Pepico Amat › Elda
+    18.30     Eibar v Huesca  1-1 (0-1)   @ Estadio Municipal de Ipurúa › Eibar
+              Leganes v Amorebieta  6-0 (2-0)   @ Estadio Municipal de Butarque › Leganés
+  Mon Oct 16
+    21.00     Levante v Racing Ferrol  1-0 (0-0)   @ Estadio Ciudad de Valencia › Valencia
+» Regular Season - 12
+  Fri Oct 20
+    21.00     Espanyol v Leganes  0-1 (0-0)   @ Stage Front Stadium › Cornella de Llobregat
+  Sat Oct 21
+    16.15     Villarreal II v Mirandes  0-3 (0-1)   @ Estadio de la Cerámica › Villarreal
+              Amorebieta v Oviedo  0-0 (0-0)   @ Instalaciones de Lezama Campo 2 › Lezama
+    18.30     Tenerife v Levante  0-0 (0-0)   @ Estadio Heliodoro Rodríguez Lopéz › Tenerife
+    21.00     Zaragoza v Eibar  2-3 (2-0)   @ Estadio de la Romareda › Zaragoza
+  Sun Oct 22
+    14.00     Racing Ferrol v Eldense  1-1 (0-0)   @ Estadio Municipal de A Malata › Ferrol
+    16.15     Huesca v Elche  0-1 (0-1)   @ Estadio El Alcoraz › Huesca
+    18.30     Racing Santander v Burgos  3-0 (1-0)   @ Campos de Sport de El Sardinero › Santander
+              Albacete v Sporting Gijon  1-3 (0-1)   @ Estadio Carlos Belmonte › Albacete
+    21.00     Valladolid v FC Andorra  2-0 (2-0)   @ Estadio Municipal José Zorrilla › Valladolid
+  Mon Oct 23
+    21.00     Alcorcon v FC Cartagena  1-1 (1-0)   @ Estadio Santo Domingo › Alcorcón
+» Regular Season - 13
+  Fri Oct 27
+    21.00     Eibar v Valladolid  5-1 (2-0)   @ Estadio Municipal de Ipurúa › Eibar
+  Sat Oct 28
+    14.00     Eldense v Amorebieta  2-0 (1-0)   @ Estadio Municipal Nuevo Pepico Amat › Elda
+    18.30     FC Andorra v Levante  2-0 (0-0)   @ Estadi Nacional › Andorra la Vella
+              Sporting Gijon v Espanyol  2-0 (1-0)   @ Estadio Municipal El Molinón › Gijón
+    21.00     Elche v Tenerife  2-1 (0-0)   @ Estadio Manuel Martínez Valero › Elche
+  Sun Oct 29
+    14.00     Mirandes v FC Cartagena  2-1 (0-0)   @ Estadio Municipal de Anduva › Miranda de Ebro
+    16.15     Huesca v Albacete  0-0 (0-0)   @ Estadio El Alcoraz › Huesca
+    18.30     Leganes v Villarreal II  1-0 (0-0)   @ Estadio Municipal de Butarque › Leganés
+              Oviedo v Alcorcon  2-0 (1-0)   @ Estadio Nuevo Carlos Tartiere › Oviedo
+    21.00     Racing Santander v Racing Ferrol  1-3 (1-2)   @ Campos de Sport de El Sardinero › Santander
+  Mon Oct 30
+    21.00     Burgos v Zaragoza  1-1 (0-1)   @ Estadio Municipal de El Plantío › Burgos
+» Regular Season - 14
+  Fri Nov 3
+    21.00     Espanyol v Eibar  2-2 (1-1)   @ Stage Front Stadium › Cornella de Llobregat
+  Sat Nov 4
+    16.15     Villarreal II v Sporting Gijon  0-3 (0-1)   @ Estadio de la Cerámica › Villarreal
+    18.30     Valladolid v Tenerife  2-0 (0-0)   @ Estadio Municipal José Zorrilla › Valladolid
+              Levante v Mirandes  2-2 (1-1)   @ Estadio Ciudad de Valencia › Valencia
+    21.00     Albacete v Elche  1-1 (0-0)   @ Estadio Carlos Belmonte › Albacete
+  Sun Nov 5
+    14.00     Racing Ferrol v FC Andorra  1-0 (1-0)   @ Estadio Municipal de A Malata › Ferrol
+    16.15     Amorebieta v Huesca  0-1 (0-0)   @ Instalaciones de Lezama Campo 2 › Lezama
+    18.30     FC Cartagena v Leganes  0-3 (0-0)   @ Estadio Municipal Cartagonova › Cartagena
+              Alcorcon v Racing Santander  3-1 (1-0)   @ Estadio Santo Domingo › Alcorcón
+    21.00     Eldense v Burgos  2-0 (1-0)   @ Estadio Municipal Nuevo Pepico Amat › Elda
+  Mon Nov 6
+    21.00     Zaragoza v Oviedo  0-0 (0-0)   @ Estadio de la Romareda › Zaragoza
+» Regular Season - 15
+  Fri Nov 10
+    20.30     Leganes v Levante  2-1 (0-1)   @ Estadio Municipal de Butarque › Leganés
+  Sat Nov 11
+    16.15     Racing Santander v Valladolid  2-3 (0-1)   @ Campos de Sport de El Sardinero › Santander
+    18.30     Mirandes v Racing Ferrol  1-2 (0-2)   @ Estadio Municipal de Anduva › Miranda de Ebro
+              Elche v Zaragoza  2-0 (0-0)   @ Estadio Manuel Martínez Valero › Elche
+    21.00     Sporting Gijon v Amorebieta  1-1 (0-0)   @ Estadio Municipal El Molinón › Gijón
+  Sun Nov 12
+    14.00     Burgos v Alcorcon  4-2 (0-2)   @ Estadio Municipal de El Plantío › Burgos
+    16.15     FC Andorra v Eldense  1-3 (1-1)   @ Estadi Nacional › Andorra la Vella
+    18.30     Tenerife v Villarreal II  0-1 (0-1)   @ Estadio Heliodoro Rodríguez Lopéz › Tenerife
+              Huesca v Espanyol  1-1 (0-0)   @ Estadio El Alcoraz › Huesca
+    21.00     Eibar v Albacete  1-1 (1-0)   @ Estadio Municipal de Ipurúa › Eibar
+  Mon Nov 13
+    21.00     Oviedo v FC Cartagena  1-1 (0-1)   @ Estadio Nuevo Carlos Tartiere › Oviedo
+» Regular Season - 16
+  Fri Nov 17
+    21.00     Valladolid v Leganes  1-1 (1-0)   @ Estadio Municipal José Zorrilla › Valladolid
+  Sat Nov 18
+    16.15     Alcorcon v Sporting Gijon  0-0 (0-0)   @ Estadio Santo Domingo › Alcorcón
+    18.30     Amorebieta v Tenerife  2-0 (1-0)   @ Instalaciones de Lezama Campo 2 › Lezama
+              Zaragoza v Huesca  0-2 (0-1)   @ Estadio de la Romareda › Zaragoza
+    21.00     Espanyol v Elche  2-0 (2-0)   @ Stage Front Stadium › Cornella de Llobregat
+  Sun Nov 19
+    14.00     Racing Ferrol v Burgos  1-1 (0-0)   @ Estadio Municipal de A Malata › Ferrol
+    16.15     Eldense v Mirandes  2-2 (1-1)   @ Estadio Municipal Nuevo Pepico Amat › Elda
+              Oviedo v Eibar  2-1 (0-1)   @ Estadio Nuevo Carlos Tartiere › Oviedo
+    18.30     Villarreal II v FC Andorra  0-0 (0-0)   @ Estadio de la Cerámica › Villarreal
+              FC Cartagena v Albacete  1-1 (1-0)   @ Estadio Municipal Cartagonova › Cartagena
+  Mon Nov 20
+    21.00     Levante v Racing Santander  2-4 (2-1)   @ Estadio Ciudad de Valencia › Valencia
+» Regular Season - 17
+  Fri Nov 24
+    21.00     Huesca v Valladolid  0-1 (0-0)   @ Estadio El Alcoraz › Huesca
+  Sat Nov 25
+    16.15     Burgos v FC Andorra  0-0 (0-0)   @ Estadio Municipal de El Plantío › Burgos
+              Racing Santander v Villarreal II  2-0 (1-0)   @ Campos de Sport de El Sardinero › Santander
+    18.30     Albacete v Zaragoza  1-0 (0-0)   @ Estadio Carlos Belmonte › Albacete
+    21.00     Eibar v Levante  3-1 (1-1)   @ Estadio Municipal de Ipurúa › Eibar
+  Sun Nov 26
+    14.00     Leganes v Racing Ferrol  2-2 (2-2)   @ Estadio Municipal de Butarque › Leganés
+    16.15     Mirandes v Oviedo  2-1 (1-0)   @ Estadio Municipal de Anduva › Miranda de Ebro
+              Elche v Amorebieta  2-0 (0-0)   @ Estadio Manuel Martínez Valero › Elche
+    18.30     Tenerife v FC Cartagena  1-1 (0-1)   @ Estadio Heliodoro Rodríguez Lopéz › Tenerife
+    21.00     Espanyol v Alcorcon  2-0 (1-0)   @ Stage Front Stadium › Cornella de Llobregat
+  Mon Nov 27
+    21.00     Sporting Gijon v Eldense  2-0 (1-0)   @ Estadio Municipal El Molinón › Gijón
+» Regular Season - 18
+  Fri Dec 1
+    20.30     Oviedo v Espanyol  2-0 (1-0)   @ Estadio Nuevo Carlos Tartiere › Oviedo
+  Sat Dec 2
+    16.15     Eldense v Tenerife  0-3 (0-1)   @ Estadio Municipal Nuevo Pepico Amat › Elda
+              FC Cartagena v Sporting Gijon  1-0 (0-0)   @ Estadio Municipal Cartagonova › Cartagena
+    18.30     Zaragoza v Leganes  1-0 (1-0)   @ Estadio de la Romareda › Zaragoza
+    21.00     Levante v Valladolid  2-1 (2-1)   @ Estadio Ciudad de Valencia › Valencia
+  Sun Dec 3
+    14.00     FC Andorra v Huesca  1-0 (0-0)   @ Estadi Nacional › Andorra la Vella
+    16.15     Alcorcon v Elche  0-2 (0-1)   @ Estadio Santo Domingo › Alcorcón
+    18.30     Racing Ferrol v Albacete  5-4 (1-1)   @ Estadio Municipal de A Malata › Ferrol
+              Mirandes v Racing Santander  0-0 (0-0)   @ Estadio Municipal de Anduva › Miranda de Ebro
+    21.00     Amorebieta v Burgos  0-1 (0-1)   @ Instalaciones de Lezama Campo 2 › Lezama
+  Mon Dec 4
+    20.30     Villarreal II v Eibar  1-0 (0-0)   @ Estadio de la Cerámica › Villarreal
+» Regular Season - 19
+  Fri Dec 8
+    18.30     Albacete v Villarreal II  2-0 (0-0)   @ Estadio Carlos Belmonte › Albacete
+    21.00     Espanyol v Zaragoza  1-1 (0-0)   @ Stage Front Stadium › Cornella de Llobregat
+  Sat Dec 9
+    16.15     Valladolid v Amorebieta  2-1 (0-1)   @ Estadio Municipal José Zorrilla › Valladolid
+    18.30     Sporting Gijon v Levante  0-0 (0-0)   @ Estadio Municipal El Molinón › Gijón
+    21.00     Burgos v Mirandes  0-0 (0-0)   @ Estadio Municipal de El Plantío › Burgos
+  Sun Dec 10
+    14.00     Elche v FC Cartagena  1-2 (1-0)   @ Estadio Manuel Martínez Valero › Elche
+    16.15     Racing Santander v Oviedo  2-2 (1-2)   @ Campos de Sport de El Sardinero › Santander
+    18.30     Leganes v Eldense  1-1 (1-1)   @ Estadio Municipal de Butarque › Leganés
+              Eibar v FC Andorra  2-2 (2-1)   @ Estadio Municipal de Ipurúa › Eibar
+    21.00     Huesca v Racing Ferrol  1-0 (1-0)   @ Estadio El Alcoraz › Huesca
+  Mon Dec 11
+    21.00     Tenerife v Alcorcon  1-0 (0-0)   @ Estadio Heliodoro Rodríguez Lopéz › Tenerife
+» Regular Season - 20
+  Fri Dec 15
+    20.30     Oviedo v Elche  3-2 (1-2)   @ Estadio Nuevo Carlos Tartiere › Oviedo
+  Sat Dec 16
+    14.00     Eldense v Racing Santander  3-3 (0-2)   @ Estadio Municipal Nuevo Pepico Amat › Elda
+    16.15     FC Andorra v Espanyol  1-1 (0-0)   @ Estadi Nacional › Andorra la Vella
+    18.30     Sporting Gijon v Leganes  1-1 (0-1)   @ Estadio Municipal El Molinón › Gijón
+              FC Cartagena v Burgos  0-3 (0-1)   @ Estadio Municipal Cartagonova › Cartagena
+    21.00     Mirandes v Albacete  2-0 (1-0)   @ Estadio Municipal de Anduva › Miranda de Ebro
+  Sun Dec 17
+    14.00     Alcorcon v Eibar  1-0 (1-0)   @ Estadio Santo Domingo › Alcorcón
+    16.15     Levante v Huesca  2-1 (2-0)   @ Estadio Ciudad de Valencia › Valencia
+    18.30     Amorebieta v Zaragoza  1-1 (1-1)   @ Instalaciones de Lezama Campo 2 › Lezama
+    21.00     Racing Ferrol v Tenerife  3-1 (1-0)   @ Estadio Municipal de A Malata › Ferrol
+  Mon Dec 18
+    20.30     Villarreal II v Valladolid  1-0 (1-0)   @ Estadio de la Cerámica › Villarreal
+» Regular Season - 21
+  Tue Dec 19
+    19.00     Albacete v Eldense  1-1 (0-0)   @ Estadio Carlos Belmonte › Albacete
+              Racing Santander v FC Andorra  2-0 (1-0)   @ Campos de Sport de El Sardinero › Santander
+    21.30     Elche v Mirandes  0-0 (0-0)   @ Estadio Manuel Martínez Valero › Elche
+              Espanyol v Burgos  3-3 (1-2)   @ Stage Front Stadium › Cornella de Llobregat
+  Wed Dec 20
+    19.00     Zaragoza v Levante  2-2 (2-0)   @ Estadio de la Romareda › Zaragoza
+    21.30     Eibar v Sporting Gijon  1-1 (0-1)   @ Estadio Municipal de Ipurúa › Eibar
+              Leganes v Tenerife  1-1 (0-0)   @ Estadio Municipal de Butarque › Leganés
+  Thu Dec 21
+    19.00     Huesca v FC Cartagena  3-0 (3-0)   @ Estadio El Alcoraz › Huesca
+              Villarreal II v Oviedo  1-1 (1-0)   @ Estadio de la Cerámica › Villarreal
+    21.30     Amorebieta v Alcorcon  1-2 (1-1)   @ Instalaciones de Lezama Campo 2 › Lezama
+              Valladolid v Racing Ferrol  0-1 (0-1)   @ Estadio Municipal José Zorrilla › Valladolid
+» Regular Season - 22
+  Fri Jan 12 2024
+    20.30     Eibar v Racing Santander  2-0 (1-0)   @ Estadio Municipal de Ipurúa › Eibar
+  Sat Jan 13
+    14.00     Alcorcon v Mirandes  0-0 (0-0)   @ Estadio Santo Domingo › Alcorcón
+    16.15     Levante v Albacete  3-2 (2-0)   @ Estadio Ciudad de Valencia › Valencia
+    18.30     Oviedo v Amorebieta  1-1 (1-1)   @ Estadio Nuevo Carlos Tartiere › Oviedo
+              Tenerife v Elche  0-1 (0-1)   @ Estadio Heliodoro Rodríguez Lopéz › Tenerife
+    21.00     Burgos v Valladolid  1-0 (1-0)   @ Estadio Municipal de El Plantío › Burgos
+              Racing Ferrol v Espanyol  0-0 (0-0)   @ Estadio Municipal de A Malata › Ferrol
+  Sun Jan 14
+    14.00     FC Andorra v Leganes  2-3 (0-0)   @ Estadi Nacional › Andorra la Vella
+    16.15     FC Cartagena v Villarreal II  4-1 (0-1)   @ Estadio Municipal Cartagonova › Cartagena
+              Sporting Gijon v Huesca  0-0 (0-0)   @ Estadio Municipal El Molinón › Gijón
+  Mon Jan 15
+    20.30     Eldense v Zaragoza  1-1 (1-1)   @ Estadio Municipal Nuevo Pepico Amat › Elda
+» Regular Season - 23
+  Sat Jan 20
+    14.00     Albacete v Alcorcon  0-1 (0-0)   @ Estadio Carlos Belmonte › Albacete
+    16.15     Amorebieta v Eldense  0-2 (0-1)   @ Instalaciones de Lezama Campo 2 › Lezama
+    18.30     Tenerife v Sporting Gijon  1-2 (1-1)   @ Estadio Heliodoro Rodríguez Lopéz › Tenerife
+              Espanyol v Villarreal II  2-1 (2-1)   @ Stage Front Stadium › Cornella de Llobregat
+    20.30     Zaragoza v FC Andorra  2-0 (1-0)   @ Estadio de la Romareda › Zaragoza
+    21.00     Racing Ferrol v Oviedo  1-3 (0-0)   @ Estadio Municipal de A Malata › Ferrol
+  Sun Jan 21
+    14.00     Racing Santander v FC Cartagena  0-2 (0-1)   @ Campos de Sport de El Sardinero › Santander
+    16.15     Mirandes v Levante  1-1 (0-1)   @ Estadio Municipal de Anduva › Miranda de Ebro
+    18.30     Huesca v Eibar  2-3 (0-2)   @ Estadio El Alcoraz › Huesca
+    21.00     Elche v Valladolid  0-0 (0-0)   @ Estadio Manuel Martínez Valero › Elche
+  Mon Jan 22
+    20.30     Leganes v Burgos  2-0 (2-0)   @ Estadio Municipal de Butarque › Leganés
+» Regular Season - 24
+  Fri Jan 26
+    20.30     Eibar v Mirandes  1-0 (0-0)   @ Estadio Municipal de Ipurúa › Eibar
+  Sat Jan 27
+    16.15     FC Cartagena v Amorebieta  1-0 (0-0)   @ Estadio Municipal Cartagonova › Cartagena
+              Alcorcon v Zaragoza  0-0 (0-0)   @ Estadio Santo Domingo › Alcorcón
+    18.30     Oviedo v Leganes  1-0 (0-0)   @ Estadio Nuevo Carlos Tartiere › Oviedo
+    21.00     Levante v Tenerife  0-0 (0-0)   @ Estadio Ciudad de Valencia › Valencia
+  Sun Jan 28
+    14.00     Eldense v Espanyol  3-2 (2-2)   @ Estadio Municipal Nuevo Pepico Amat › Elda
+    16.15     Villarreal II v Huesca  1-1 (0-1)   @ Estadio de la Cerámica › Villarreal
+              FC Andorra v Elche  0-1 (0-0)   @ Estadi Nacional › Andorra la Vella
+    18.30     Burgos v Albacete  2-1 (1-1)   @ Estadio Municipal de El Plantío › Burgos
+    21.00     Sporting Gijon v Racing Ferrol  1-2 (0-0)   @ Estadio Municipal El Molinón › Gijón
+  Mon Jan 29
+    20.30     Valladolid v Racing Santander  3-1 (1-0)   @ Estadio Municipal José Zorrilla › Valladolid
+» Regular Season - 25
+  Fri Feb 2
+    20.30     Elche v Burgos  2-0 (0-0)   @ Estadio Manuel Martínez Valero › Elche
+  Sat Feb 3
+    14.00     Albacete v FC Cartagena  1-1 (1-0)   @ Estadio Carlos Belmonte › Albacete
+    16.15     Mirandes v Villarreal II  3-0 (1-0)   @ Estadio Municipal de Anduva › Miranda de Ebro
+              Huesca v Alcorcon  1-0 (0-0)   @ Estadio El Alcoraz › Huesca
+    18.30     Leganes v Valladolid  0-0 (0-0)   @ Estadio Municipal de Butarque › Leganés
+    21.00     Tenerife v FC Andorra  0-0 (0-0)   @ Estadio Heliodoro Rodríguez Lopéz › Tenerife
+  Sun Feb 4
+    14.00     Racing Ferrol v Eibar  1-1 (0-0)   @ Estadio Municipal de A Malata › Ferrol
+    16.15     Amorebieta v Racing Santander  0-1 (0-1)   @ Instalaciones de Lezama Campo 2 › Lezama
+              Oviedo v Eldense  1-1 (0-1)   @ Estadio Nuevo Carlos Tartiere › Oviedo
+    18.30     Espanyol v Levante  2-1 (1-0)   @ Stage Front Stadium › Cornella de Llobregat
+  Mon Feb 5
+    20.30     Zaragoza v Sporting Gijon  3-0 (1-0)   @ Estadio de la Romareda › Zaragoza
+» Regular Season - 26
+  Fri Feb 9
+    20.30     Levante v Leganes  0-0 (0-0)   @ Estadio Ciudad de Valencia › Valencia
+  Sat Feb 10
+    16.15     Eldense v Huesca  0-0 (0-0)   @ Estadio Municipal Nuevo Pepico Amat › Elda
+              Amorebieta v Elche  1-0 (0-0)   @ Instalaciones de Lezama Campo 2 › Lezama
+    18.30     Sporting Gijon v Oviedo  1-0 (1-0)   @ Estadio Municipal El Molinón › Gijón
+    21.00     Racing Santander v Espanyol  2-0 (2-0)   @ Campos de Sport de El Sardinero › Santander
+  Sun Feb 11
+    14.00     Villarreal II v Tenerife  1-0 (0-0)   @ Estadio de la Cerámica › Villarreal
+    16.15     FC Cartagena v Mirandes  1-0 (1-0)   @ Estadio Municipal Cartagonova › Cartagena
+              Alcorcon v FC Andorra  1-0 (1-0)   @ Estadio Santo Domingo › Alcorcón
+    18.30     Eibar v Zaragoza  1-0 (1-0)   @ Estadio Municipal de Ipurúa › Eibar
+    21.00     Burgos v Racing Ferrol  2-0 (2-0)   @ Estadio Municipal de El Plantío › Burgos
+  Mon Feb 12
+    20.30     Valladolid v Albacete  0-0 (0-0)   @ Estadio Municipal José Zorrilla › Valladolid
+» Regular Season - 27
+  Fri Feb 16
+    20.30     Zaragoza v FC Cartagena  1-2 (0-1)   @ Estadio de la Romareda › Zaragoza
+  Sat Feb 17
+    16.15     Oviedo v Burgos  5-0 (3-0)   @ Estadio Nuevo Carlos Tartiere › Oviedo
+              FC Andorra v Villarreal II  1-1 (0-0)   @ Estadi Nacional › Andorra la Vella
+    18.30     Sporting Gijon v Valladolid  1-1 (0-1)   @ Estadio Municipal El Molinón › Gijón
+    21.00     Espanyol v Mirandes  3-0 (1-0)   @ Stage Front Stadium › Cornella de Llobregat
+  Sun Feb 18
+    14.00     Albacete v Racing Santander  2-0 (0-0)   @ Estadio Carlos Belmonte › Albacete
+    16.15     Racing Ferrol v Levante  0-0 (0-0)   @ Estadio Municipal de A Malata › Ferrol
+              Leganes v Alcorcon  3-0 (1-0)   @ Estadio Municipal de Butarque › Leganés
+    18.30     Huesca v Amorebieta  0-0 (0-0)   @ Estadio El Alcoraz › Huesca
+    21.00     Elche v Eibar  0-0 (0-0)   @ Estadio Manuel Martínez Valero › Elche
+  Mon Feb 19
+    20.30     Tenerife v Eldense  1-0 (1-0)   @ Estadio Heliodoro Rodríguez Lopéz › Tenerife
+» Regular Season - 28
+  Fri Feb 23
+    20.30     Valladolid v Oviedo  3-0 (1-0)   @ Estadio Municipal José Zorrilla › Valladolid
+  Sat Feb 24
+    16.15     Racing Santander v Leganes  2-1 (1-1)   @ Campos de Sport de El Sardinero › Santander
+    18.30     Villarreal II v Zaragoza  0-0 (0-0)   @ Estadio de la Cerámica › Villarreal
+              Eibar v Espanyol  2-3 (1-0)   @ Estadio Municipal de Ipurúa › Eibar
+  Sun Feb 25
+    14.00     Eldense v Racing Ferrol  2-0 (2-0)   @ Estadio Municipal Nuevo Pepico Amat › Elda
+    16.15     Alcorcon v Tenerife  1-1 (0-0)   @ Estadio Santo Domingo › Alcorcón
+              Burgos v Sporting Gijon  1-0 (1-0)   @ Estadio Municipal de El Plantío › Burgos
+    18.30     FC Cartagena v Elche  0-1 (0-0)   @ Estadio Municipal Cartagonova › Cartagena
+    21.00     Amorebieta v Albacete  1-1 (0-1)   @ Instalaciones de Lezama Campo 2 › Lezama
+  Mon Feb 26
+    20.30     Mirandes v Huesca  0-3 (0-0)   @ Estadio Municipal de Anduva › Miranda de Ebro
+» Regular Season - 29
+  Fri Mar 1
+    20.30     Sporting Gijon v Albacete  2-1 (1-1)   @ Estadio Municipal El Molinón › Gijón
+  Sat Mar 2
+    14.00     Eldense v Villarreal II  2-0 (1-0)   @ Estadio Municipal Nuevo Pepico Amat › Elda
+    16.15     Espanyol v Huesca  0-0 (0-0)   @ Stage Front Stadium › Cornella de Llobregat
+              Racing Ferrol v Racing Santander  2-2 (1-1)   @ Estadio Municipal de A Malata › Ferrol
+    18.30     Oviedo v Levante  3-2 (0-1)   @ Estadio Nuevo Carlos Tartiere › Oviedo
+    21.00     Burgos v FC Cartagena  3-0 (1-0)   @ Estadio Municipal de El Plantío › Burgos
+  Sun Mar 3
+    14.00     FC Andorra v Valladolid  2-1 (0-1)   @ Estadi Nacional › Andorra la Vella
+    16.15     Tenerife v Mirandes  2-1 (2-0)   @ Estadio Heliodoro Rodríguez Lopéz › Tenerife
+    18.30     Zaragoza v Amorebieta  0-1 (0-0)   @ Estadio de la Romareda › Zaragoza
+    21.00     Leganes v Eibar  0-2 (0-2)   @ Estadio Municipal de Butarque › Leganés
+  Mon Mar 4
+    20.30     Elche v Alcorcon  3-0 (3-0)   @ Estadio Manuel Martínez Valero › Elche
+» Regular Season - 30
+  Fri Mar 8
+    20.30     Huesca v FC Andorra  2-0 (1-0)   @ Estadio El Alcoraz › Huesca
+  Sat Mar 9
+    16.15     Albacete v Oviedo  1-2 (0-0)   @ Estadio Carlos Belmonte › Albacete
+    18.30     Mirandes v Eldense  3-1 (1-0)   @ Estadio Municipal de Anduva › Miranda de Ebro
+              Valladolid v Zaragoza  2-0 (1-0)   @ Estadio Municipal José Zorrilla › Valladolid
+    21.00     FC Cartagena v Racing Ferrol  2-1 (1-1)   @ Estadio Municipal Cartagonova › Cartagena
+  Sun Mar 10
+    14.00     Racing Santander v Tenerife  4-2 (0-1)   @ Campos de Sport de El Sardinero › Santander
+    16.15     Villarreal II v Elche  0-1 (0-1)   @ Estadio de la Cerámica › Villarreal
+              Levante v Sporting Gijon  1-0 (0-0)   @ Estadio Ciudad de Valencia › Valencia
+    18.30     Eibar v Burgos  0-1 (0-0)   @ Estadio Municipal de Ipurúa › Eibar
+    21.00     Alcorcon v Espanyol  1-1 (0-0)   @ Estadio Santo Domingo › Alcorcón
+  Mon Mar 11
+    20.30     Amorebieta v Leganes  0-1 (0-0)   @ Instalaciones de Lezama Campo 2 › Lezama
+» Regular Season - 28
+  Wed Mar 13
+    19.00     Levante v FC Andorra  0-0 (0-0)   @ Estadio Ciudad de Valencia › Valencia
+» Regular Season - 31
+  Fri Mar 15
+    20.30     Eldense v FC Cartagena  0-0 (0-0)   @ Estadio Municipal Nuevo Pepico Amat › Elda
+  Sat Mar 16
+    14.00     Burgos v Levante  1-1 (1-0)   @ Estadio Municipal de El Plantío › Burgos
+    16.15     Eibar v Villarreal II  2-0 (1-0)   @ Estadio Municipal de Ipurúa › Eibar
+    18.30     Tenerife v Huesca  0-0 (0-0)   @ Estadio Heliodoro Rodríguez Lopéz › Tenerife
+              Oviedo v Racing Santander  1-1 (0-1)   @ Estadio Nuevo Carlos Tartiere › Oviedo
+    21.00     Sporting Gijon v Alcorcon  1-0 (1-0)   @ Estadio Municipal El Molinón › Gijón
+  Sun Mar 17
+    14.00     Leganes v Mirandes  4-0 (3-0)   @ Estadio Municipal de Butarque › Leganés
+    16.15     Racing Ferrol v Valladolid  2-0 (1-0)   @ Estadio Municipal de A Malata › Ferrol
+    18.30     Zaragoza v Espanyol  0-1 (0-1)   @ Estadio de la Romareda › Zaragoza
+              Elche v Albacete  3-2 (1-1)   @ Estadio Manuel Martínez Valero › Elche
+  Mon Mar 18
+    20.30     FC Andorra v Amorebieta  0-1 (0-0)   @ Estadi Nacional › Andorra la Vella
+» Regular Season - 32
+  Sat Mar 23
+    16.15     Alcorcon v Oviedo  1-0 (0-0)   @ Estadio Santo Domingo › Alcorcón
+    18.30     Villarreal II v Leganes  1-2 (1-0)   @ Estadio de la Cerámica › Villarreal
+              FC Cartagena v FC Andorra  1-0 (1-0)   @ Estadio Municipal Cartagonova › Cartagena
+    21.00     Espanyol v Tenerife  1-1 (0-0)   @ Stage Front Stadium › Cornella de Llobregat
+  Sun Mar 24
+    14.00     Amorebieta v Sporting Gijon  3-1 (2-1)   @ Instalaciones de Lezama Campo 2 › Lezama
+    16.15     Valladolid v Eibar  3-1 (0-1)   @ Estadio Municipal José Zorrilla › Valladolid
+              Huesca v Burgos  3-0 (1-0)   @ Estadio El Alcoraz › Huesca
+    18.30     Mirandes v Zaragoza  0-0 (0-0)   @ Estadio Municipal de Anduva › Miranda de Ebro
+              Levante v Elche  3-2 (0-1)   @ Estadio Ciudad de Valencia › Valencia
+    21.00     Racing Santander v Eldense  2-1 (1-0)   @ Campos de Sport de El Sardinero › Santander
+  Mon Mar 25
+    20.30     Albacete v Racing Ferrol  1-1 (1-0)   @ Estadio Carlos Belmonte › Albacete
+» Regular Season - 33
+  Fri Mar 29
+    20.30     Burgos v Espanyol  0-0 (0-0)   @ Estadio Municipal de El Plantío › Burgos
+  Sat Mar 30
+    14.00     Valladolid v Levante  0-0 (0-0)   @ Estadio Municipal José Zorrilla › Valladolid
+    16.15     Eibar v Eldense  5-1 (1-0)   @ Estadio Municipal de Ipurúa › Eibar
+              FC Andorra v Mirandes  1-0 (0-0)   @ Estadi Nacional › Andorra la Vella
+              Leganes v FC Cartagena  0-0 (0-0)   @ Estadio Municipal de Butarque › Leganés
+    18.30     Sporting Gijon v Racing Santander  2-3 (1-0)   @ Estadio Municipal El Molinón › Gijón
+              Albacete v Huesca  1-1 (0-0)   @ Estadio Carlos Belmonte › Albacete
+  Sun Mar 31
+    14.00     Alcorcon v Amorebieta  1-1 (1-1)   @ Estadio Santo Domingo › Alcorcón
+    16.15     Zaragoza v Tenerife  3-1 (2-1)   @ Estadio de la Romareda › Zaragoza
+              Racing Ferrol v Elche  1-0 (0-0)   @ Estadio Municipal de A Malata › Ferrol
+    18.30     Oviedo v Villarreal II  2-1 (2-1)   @ Estadio Nuevo Carlos Tartiere › Oviedo
+» Regular Season - 34
+  Fri Apr 5
+    20.30     Amorebieta v Racing Ferrol  3-1 (2-0)   @ Instalaciones de Lezama Campo 2 › Lezama
+              Elche v Oviedo  0-2 (0-1)   @ Estadio Manuel Martínez Valero › Elche
+  Sat Apr 6
+    16.15     Eldense v FC Andorra  0-2 (0-1)   @ Estadio Municipal Nuevo Pepico Amat › Elda
+    18.30     Levante v Zaragoza  2-1 (1-1)   @ Estadio Ciudad de Valencia › Valencia
+  Sun Apr 7
+    14.00     Huesca v Leganes  0-0 (0-0)   @ Estadio El Alcoraz › Huesca
+    16.15     Villarreal II v Burgos  2-1 (2-0)   @ Estadio de la Cerámica › Villarreal
+              Mirandes v Sporting Gijon  1-3 (1-1)   @ Estadio Municipal de Anduva › Miranda de Ebro
+    18.30     Tenerife v Eibar  2-1 (1-1)   @ Estadio Heliodoro Rodríguez Lopéz › Tenerife
+              Espanyol v Albacete  2-1 (1-1)   @ Stage Front Stadium › Cornella de Llobregat
+    21.00     FC Cartagena v Valladolid  0-2 (0-2)   @ Estadio Municipal Cartagonova › Cartagena
+  Mon Apr 8
+    20.30     Racing Santander v Alcorcon  0-1 (0-0)   @ Campos de Sport de El Sardinero › Santander
+» Regular Season - 35
+  Fri Apr 12
+    20.30     Leganes v Espanyol  0-0 (0-0)   @ Estadio Municipal de Butarque › Leganés
+  Sat Apr 13
+    16.15     Sporting Gijon v FC Cartagena  1-0 (1-0)   @ Estadio Municipal El Molinón › Gijón
+    18.30     Valladolid v Eldense  1-0 (0-0)   @ Estadio Municipal José Zorrilla › Valladolid
+    21.00     Levante v Amorebieta  1-2 (0-0)   @ Estadio Ciudad de Valencia › Valencia
+  Sun Apr 14
+    14.00     Oviedo v Mirandes  1-1 (1-0)   @ Estadio Nuevo Carlos Tartiere › Oviedo
+    16.15     FC Andorra v Eibar  0-2 (0-0)   @ Estadi Nacional › Andorra la Vella
+              Albacete v Tenerife  1-0 (0-0)   @ Estadio Carlos Belmonte › Albacete
+    18.30     Zaragoza v Elche  1-1 (0-0)   @ Estadio de la Romareda › Zaragoza
+              Burgos v Racing Santander  2-1 (1-1)   @ Estadio Municipal de El Plantío › Burgos
+    21.00     Racing Ferrol v Huesca  2-1 (0-1)   @ Estadio Municipal de A Malata › Ferrol
+  Mon Apr 15
+    20.30     Alcorcon v Villarreal II  1-0 (0-0)   @ Estadio Santo Domingo › Alcorcón
+» Regular Season - 36
+  Fri Apr 19
+    20.30     Tenerife v Leganes  0-0 (0-0)   @ Estadio Heliodoro Rodríguez Lopéz › Tenerife
+  Sat Apr 20
+    14.00     Amorebieta v Valladolid  0-3 (0-0)   @ Instalaciones de Lezama Campo 2 › Lezama
+    16.15     Villarreal II v Racing Ferrol  1-0 (0-0)   @ Estadio de la Cerámica › Villarreal
+              Racing Santander v Levante  0-0 (0-0)   @ Campos de Sport de El Sardinero › Santander
+    18.30     Elche v Sporting Gijon  2-1 (2-0)   @ Estadio Manuel Martínez Valero › Elche
+    21.00     Huesca v Zaragoza  1-2 (1-2)   @ Estadio El Alcoraz › Huesca
+  Sun Apr 21
+    14.00     Espanyol v FC Andorra  1-1 (0-1)   @ Stage Front Stadium › Cornella de Llobregat
+    16.15     Eldense v Albacete  0-1 (0-0)   @ Estadio Municipal Nuevo Pepico Amat › Elda
+              Eibar v Alcorcon  2-0 (1-0)   @ Estadio Municipal de Ipurúa › Eibar
+    18.30     Mirandes v Burgos  2-1 (0-0)   @ Estadio Municipal de Anduva › Miranda de Ebro
+  Mon Apr 22
+    20.30     FC Cartagena v Oviedo  2-0 (0-0)   @ Estadio Municipal Cartagonova › Cartagena
+» Regular Season - 37
+  Fri Apr 26
+    20.30     FC Andorra v Racing Santander  1-1 (1-0)   @ Estadi Nacional › Andorra la Vella
+  Sat Apr 27
+    16.15     Burgos v Amorebieta  2-2 (1-0)   @ Estadio Municipal de El Plantío › Burgos
+              Leganes v Zaragoza  1-1 (0-0)   @ Estadio Municipal de Butarque › Leganés
+    18.30     Elche v Espanyol  2-2 (1-1)   @ Estadio Manuel Martínez Valero › Elche
+  Sun Apr 28
+    14.00     Sporting Gijon v Villarreal II  0-3 (0-2)   @ Estadio Municipal El Molinón › Gijón
+    16.15     Oviedo v Tenerife  0-1 (0-1)   @ Estadio Nuevo Carlos Tartiere › Oviedo
+              Alcorcon v Eldense  0-0 (0-0)   @ Estadio Santo Domingo › Alcorcón
+    18.30     Levante v FC Cartagena  0-1 (0-0)   @ Estadio Ciudad de Valencia › Valencia
+              Valladolid v Huesca  1-0 (1-0)   @ Estadio Municipal José Zorrilla › Valladolid
+    21.00     Albacete v Eibar  2-1 (1-1)   @ Estadio Carlos Belmonte › Albacete
+  Mon Apr 29
+    20.30     Racing Ferrol v Mirandes  0-2 (0-1)   @ Estadio Municipal de A Malata › Ferrol
+» Regular Season - 38
+  Fri May 3
+    20.30     Villarreal II v Levante  0-3 (0-2)   @ Estadio de la Cerámica › Villarreal
+  Sat May 4
+    14.00     Mirandes v Valladolid  0-1 (0-1)   @ Estadio Municipal de Anduva › Miranda de Ebro
+    16.15     Huesca v Oviedo  0-2 (0-0)   @ Estadio El Alcoraz › Huesca
+    18.30     Racing Santander v Elche  3-1 (1-0)   @ Campos de Sport de El Sardinero › Santander
+    21.00     FC Cartagena v Alcorcon  1-0 (1-0)   @ Estadio Municipal Cartagonova › Cartagena
+  Sun May 5
+    14.00     Eibar v Amorebieta  5-0 (2-0)   @ Estadio Municipal de Ipurúa › Eibar
+    16.15     FC Andorra v Albacete  0-1 (0-0)   @ Estadi Nacional › Andorra la Vella
+              Espanyol v Sporting Gijon  0-0 (0-0)   @ Stage Front Stadium › Cornella de Llobregat
+    18.30     Eldense v Leganes  1-2 (1-0)   @ Estadio Municipal Nuevo Pepico Amat › Elda
+              Zaragoza v Burgos  1-3 (1-1)   @ Estadio de la Romareda › Zaragoza
+    21.00     Tenerife v Racing Ferrol  2-0 (0-0)   @ Estadio Heliodoro Rodríguez Lopéz › Tenerife
+» Regular Season - 39
+  Fri May 10
+    20.30     Burgos v Eldense  1-2 (1-2)   @ Estadio Municipal de El Plantío › Burgos
+  Sat May 11
+    14.00     Racing Santander v Mirandes  1-0 (1-0)   @ Campos de Sport de El Sardinero › Santander
+    16.15     Racing Ferrol v Alcorcon  2-1 (0-0)   @ Estadio Municipal de A Malata › Ferrol
+              Sporting Gijon v FC Andorra  5-2 (2-1)   @ Estadio Municipal El Molinón › Gijón
+    18.30     Valladolid v Espanyol  0-0 (0-0)   @ Estadio Municipal José Zorrilla › Valladolid
+    21.00     Levante v Eibar  2-2 (1-1)   @ Estadio Ciudad de Valencia › Valencia
+  Sun May 12
+    14.00     Amorebieta v Villarreal II  2-0 (0-0)   @ Instalaciones de Lezama Campo 2 › Lezama
+    16.15     Oviedo v Zaragoza  1-0 (0-0)   @ Estadio Nuevo Carlos Tartiere › Oviedo
+    18.30     FC Cartagena v Tenerife  2-0 (2-0)   @ Estadio Municipal Cartagonova › Cartagena
+              Albacete v Leganes  1-0 (1-0)   @ Estadio Carlos Belmonte › Albacete
+    21.00     Elche v Huesca  0-3 (0-2)   @ Estadio Manuel Martínez Valero › Elche
+» Regular Season - 40
+  Fri May 17
+    20.30     Mirandes v Elche  1-1 (0-0)   @ Estadio Municipal de Anduva › Miranda de Ebro
+  Sat May 18
+    14.00     FC Andorra v Burgos  1-0 (0-0)   @ Estadi Nacional › Andorra la Vella
+    16.15     Leganes v Sporting Gijon  2-1 (1-0)   @ Estadio Municipal de Butarque › Leganés
+              Huesca v Racing Santander  0-3 (0-1)   @ Estadio El Alcoraz › Huesca
+    21.00     Eldense v Levante  0-0 (0-0)   @ Estadio Municipal Nuevo Pepico Amat › Elda
+              Tenerife v Amorebieta  0-1 (0-0)   @ Estadio Heliodoro Rodríguez Lopéz › Tenerife
+  Sun May 19
+    14.00     Eibar v FC Cartagena  1-0 (1-0)   @ Estadio Municipal de Ipurúa › Eibar
+    16.15     Alcorcon v Valladolid  1-1 (1-0)   @ Estadio Santo Domingo › Alcorcón
+    21.00     Zaragoza v Racing Ferrol  2-2 (1-0)   @ Estadio de la Romareda › Zaragoza
+  Mon May 20
+    20.30     Espanyol v Oviedo  2-1 (1-1)   @ Stage Front Stadium › Cornella de Llobregat
+              Villarreal II v Albacete  2-2 (1-2)   @ Estadio de la Cerámica › Villarreal
+» Regular Season - 41
+  Sun May 26
+    18.30     Levante v Alcorcon  2-2 (0-0)   @ Estadio Ciudad de Valencia › Valencia
+              Oviedo v FC Andorra  3-0 (0-0)   @ Estadio Nuevo Carlos Tartiere › Oviedo
+              Valladolid v Villarreal II  3-2 (0-0)   @ Estadio Municipal José Zorrilla › Valladolid
+              Albacete v Mirandes  2-2 (1-0)   @ Estadio Carlos Belmonte › Albacete
+              Sporting Gijon v Eibar  1-0 (0-0)   @ Estadio Municipal El Molinón › Gijón
+              Elche v Eldense  1-2 (0-0)   @ Estadio Manuel Martínez Valero › Elche
+              Racing Santander v Zaragoza  0-2 (0-1)   @ Campos de Sport de El Sardinero › Santander
+              FC Cartagena v Huesca  0-2 (0-1)   @ Estadio Municipal Cartagonova › Cartagena
+              Amorebieta v Espanyol  0-0 (0-0)   @ Instalaciones de Lezama Campo 2 › Lezama
+              Racing Ferrol v Leganes  2-2 (1-1)   @ Estadio Municipal de A Malata › Ferrol
+              Burgos v Tenerife  1-1 (0-1)   @ Estadio Municipal de El Plantío › Burgos
+» Regular Season - 42
+  Sun Jun 2
+    16.15     Huesca v Levante  0-0 (0-0)   @ Estadio El Alcoraz › Huesca
+              FC Andorra v Racing Ferrol  1-0 (0-0)   @ Estadi Nacional › Andorra la Vella
+              Alcorcon v Burgos  1-1 (0-0)   @ Estadio Santo Domingo › Alcorcón
+    18.30     Leganes v Elche  2-0 (2-0)   @ Estadio Municipal de Butarque › Leganés
+              Espanyol v FC Cartagena  3-0 (0-0)   @ Stage Front Stadium › Cornella de Llobregat
+              Eibar v Oviedo  4-3 (2-1)   @ Estadio Municipal de Ipurúa › Eibar
+              Tenerife v Valladolid  2-1 (0-0)   @ Estadio Heliodoro Rodríguez Lopéz › Tenerife
+              Mirandes v Amorebieta  1-0 (0-0)   @ Estadio Municipal de Anduva › Miranda de Ebro
+              Villarreal II v Racing Santander  1-0 (0-0)   @ Estadio de la Cerámica › Villarreal
+              Eldense v Sporting Gijon  0-1 (0-0)   @ Estadio Municipal Nuevo Pepico Amat › Elda
+    21.00     Zaragoza v Albacete  1-1 (0-0)   @ Estadio de la Romareda › Zaragoza
+» Promotion Play-offs - Semi-finals
+  Sat Jun 8
+    18.30     Oviedo v Eibar  0-0 (0-0)   @ Estadio Nuevo Carlos Tartiere › Oviedo
+  Sun Jun 9
+    21.00     Sporting Gijon v Espanyol  0-1 (0-0)   @ Estadio Municipal El Molinón › Gijón
+  Wed Jun 12
+    21.00     Eibar v Oviedo  0-2 (0-0)   @ Estadio Municipal de Ipurúa › Eibar
+  Thu Jun 13
+    21.00     Espanyol v Sporting Gijon  0-0 (0-0)   @ Stage Front Stadium › Cornella de Llobregat
+» Promotion Play-offs - Finals
+  Sun Jun 16
+    18.30     Oviedo v Espanyol  1-0 (0-0)   @ Estadio Nuevo Carlos Tartiere › Oviedo
+  Sun Jun 23
+    18.30     Espanyol v Oviedo  2-0 (2-0)   @ Stage Front Stadium › Cornella de Llobregat

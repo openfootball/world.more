@@ -1,0 +1,394 @@
+= South-Africa | Premier Soccer League 2022/23
+
+  # Date       Fri Aug/5 2022 - Wed Jun/14 2023 (313d)
+  # Teams      18
+  # Matches    246
+
+  # Note - All times in Africa/Johannesburg
+
+» Regular Season - 1
+  Fri Aug 5 2022
+    19.30     Cape Town City v Mamelodi Sundowns  0-2 (0-0)   @ DHL Stadium › Cape Town
+  Sat Aug 6
+    15.00     Golden Arrows v Richards Bay  0-2 (0-1)   @ Princess Magogo Stadium › Durban
+              Orlando Pirates v Moroka Swallows  1-0 (1-0)   @ Orlando Stadium › Johannesburg, GA
+              Marumo Gallants v Stellenbosch  0-0 (0-0)   @ Peter Mokaba Stadium › Pietersburg
+    17.30     Royal AM v Kaizer Chiefs  1-0 (1-0)   @ Chatsworth Stadium › Durban, KN
+    20.00     Maritzburg Utd v Sekhukhune United  1-1 (0-1)   @ Harry Gwala Stadium › Pietermaritzburg, KN
+  Sun Aug 7
+    15.00     TS Galaxy v Amazulu  0-0 (0-0)   @ BidVest Stadium › Johannesburg, GA
+    17.30     Supersport United v Chippa United  1-1 (0-1)   @ Lucas Masterpieces Moripe Stadium › Pretoria, GT
+  Tue Aug 9
+    15.00     Richards Bay v Marumo Gallants  0-0 (0-0)   @ King Goodwill Zwelithini Stadium › Durban, KN
+    17.00     Moroka Swallows v Cape Town City  3-2 (2-1)   @ Volkswagen Dobsonville Stadium › Johannesburg, GA
+» Regular Season - 2
+  Tue Aug 9
+    19.30     Kaizer Chiefs v Maritzburg Utd  3-0 (2-0)   @ FNB Stadium › Johannesburg, GA
+  Wed Aug 10
+    17.00     Amazulu v Supersport United  2-1 (0-0)   @ Moses Mabhida Stadium › Durban
+    19.30     Chippa United v Royal AM  1-3 (0-2)   @ Nelson Mandela Bay Stadium › Port Elizabeth
+              Mamelodi Sundowns v TS Galaxy  0-1 (0-1)   @ Loftus Versfeld Stadium › Tshwane
+              Stellenbosch v Orlando Pirates  1-1 (0-1)   @ Danie Craven Stadium › Stellenbosch
+              Sekhukhune United v Golden Arrows  1-0 (1-0)   @ Peter Mokaba Stadium › Pietersburg
+  Fri Aug 12
+    19.30     Maritzburg Utd v Moroka Swallows  0-0 (0-0)   @ Harry Gwala Stadium › Pietermaritzburg, KN
+  Sat Aug 13
+    15.00     Mamelodi Sundowns v Kaizer Chiefs  4-0 (2-0)   @ Loftus Versfeld Stadium › Tshwane
+              Stellenbosch v Royal AM  3-1 (1-0)   @ Danie Craven Stadium › Stellenbosch
+              Marumo Gallants v Golden Arrows  1-1 (0-0)   @ Peter Mokaba Stadium › Pietersburg
+» Regular Season - 3
+  Sat Aug 13
+    17.30     Richards Bay v Sekhukhune United  1-0 (0-0)   @ King Goodwill Zwelithini Stadium › Durban, KN
+    20.00     Amazulu v Cape Town City  2-1 (1-1)   @ Moses Mabhida Stadium › Durban
+  Sun Aug 14
+    15.00     Orlando Pirates v Chippa United  0-1 (0-0)   @ Orlando Stadium › Johannesburg, GA
+    17.30     TS Galaxy v Supersport United  2-0 (1-0)   @ Mbombela Stadium › Nelspruit
+  Tue Aug 16
+    19.30     Cape Town City v Maritzburg Utd  0-0 (0-0)   @ Athlone Stadium › Cape Town, WC
+  Wed Aug 17
+    19.30     Royal AM v Orlando Pirates  0-1 (0-1)   @ Moses Mabhida Stadium › Durban
+  Fri Aug 19
+    19.30     Moroka Swallows v Amazulu  2-3 (1-1)   @ Volkswagen Dobsonville Stadium › Johannesburg, GA
+  Sat Aug 20
+    15.00     Sekhukhune United v Mamelodi Sundowns  1-1 (0-1)   @ Peter Mokaba Stadium › Pietersburg
+              Golden Arrows v TS Galaxy  0-0 (0-0)   @ Princess Magogo Stadium › Durban
+    17.30     Cape Town City v Stellenbosch  1-1 (1-0)   @ DHL Stadium › Cape Town
+» Regular Season - 4
+  Sat Aug 20
+    20.00     Kaizer Chiefs v Richards Bay  1-0 (0-0)   @ Moses Mabhida Stadium › Durban
+              Maritzburg Utd v Chippa United  2-1 (1-1)   @ Harry Gwala Stadium › Pietermaritzburg, KN
+  Sun Aug 21
+    15.00     Royal AM v Marumo Gallants  2-2 (1-1)   @ Chatsworth Stadium › Durban, KN
+    17.30     Supersport United v Orlando Pirates  0-0 (0-0)   @ Lucas Masterpieces Moripe Stadium › Pretoria, GT
+  Tue Aug 23
+    19.30     Moroka Swallows v Sekhukhune United  2-1 (1-1)   @ Volkswagen Dobsonville Stadium › Johannesburg, GA
+              Cape Town City v Kaizer Chiefs  2-0 (1-0)   @ DHL Stadium › Cape Town
+  Wed Aug 24
+    17.00     Mamelodi Sundowns v Stellenbosch  3-0 (2-0)   @ Loftus Versfeld Stadium › Tshwane
+    19.30     Richards Bay v Supersport United  0-1 (0-0)   @ King Goodwill Zwelithini Stadium › Durban, KN
+              Royal AM v Maritzburg Utd  1-0 (1-0)   @ Chatsworth Stadium › Durban, KN
+              Orlando Pirates v Marumo Gallants  1-0 (1-0)   @ Orlando Stadium › Johannesburg, GA
+» Regular Season - 5
+  Wed Aug 24
+    19.30     Amazulu v Golden Arrows  0-1 (0-1)   @ Princess Magogo Stadium › Durban
+              Chippa United v TS Galaxy  0-0 (0-0)   @ Nelson Mandela Bay Stadium › Port Elizabeth
+  Fri Sep 2
+    19.30     Supersport United v Mamelodi Sundowns  2-1 (2-0)   @ Lucas Masterpieces Moripe Stadium › Pretoria, GT
+  Sat Sep 3
+    15.00     Stellenbosch v Richards Bay  1-2 (1-1)   @ Danie Craven Stadium › Stellenbosch
+              Golden Arrows v Chippa United  3-2 (3-0)   @ Princess Magogo Stadium › Durban
+    17.30     Kaizer Chiefs v Amazulu  0-0 (0-0)   @ FNB Stadium › Johannesburg, GA
+              Sekhukhune United v Royal AM  1-2 (0-1)   @ Peter Mokaba Stadium › Pietersburg
+    20.00     TS Galaxy v Cape Town City  0-1 (0-1)   @ Mbombela Stadium › Nelspruit
+  Sun Sep 4
+    15.00     Marumo Gallants v Moroka Swallows  1-1 (1-0)   @ Peter Mokaba Stadium › Pietersburg
+    17.30     Maritzburg Utd v Orlando Pirates  1-0 (0-0)   @ Harry Gwala Stadium › Pietermaritzburg, KN
+» Regular Season - 6
+  Tue Sep 6
+    17.00     Royal AM v Richards Bay  0-1 (0-1)   @ Chatsworth Stadium › Durban, KN
+    19.30     Cape Town City v Sekhukhune United  0-0 (0-0)   @ Athlone Stadium › Cape Town, WC
+  Wed Sep 7
+    19.30     Chippa United v Mamelodi Sundowns  0-1 (0-0)   @ Nelson Mandela Bay Stadium › Port Elizabeth
+  Fri Sep 9
+    19.30     Maritzburg Utd v Supersport United  1-2 (0-0)   @ Harry Gwala Stadium › Pietermaritzburg, KN
+  Sat Sep 10
+    15.00     Amazulu v Chippa United  1-2 (0-2)   @ Moses Mabhida Stadium › Durban
+              Moroka Swallows v Stellenbosch  1-2 (1-1)   @ BidVest Stadium › Johannesburg, GA
+    17.30     Orlando Pirates v TS Galaxy  2-0 (2-0)   @ Orlando Stadium › Johannesburg, GA
+    20.00     Mamelodi Sundowns v Golden Arrows  2-1 (1-0)   @ ABSA Tuks Stadium › Tshwane
+  Sun Sep 11
+    15.00     Marumo Gallants v Kaizer Chiefs  1-1 (1-0)   @ Royal Bafokeng Stadium › Phokeng, NW
+  Sat Sep 17
+    15.00     Golden Arrows v Moroka Swallows  4-0 (2-0)   @ Princess Magogo Stadium › Durban
+» Regular Season - 7
+  Sat Sep 17
+    15.00     Chippa United v Marumo Gallants  1-0 (0-0)   @ Nelson Mandela Bay Stadium › Port Elizabeth
+    17.30     Sekhukhune United v Stellenbosch  1-1 (1-0)   @ Peter Mokaba Stadium › Pietersburg
+    20.00     Kaizer Chiefs v Supersport United  2-1 (1-1)   @ FNB Stadium › Johannesburg, GA
+  Sun Sep 18
+    15.00     Mamelodi Sundowns v Amazulu  1-0 (0-0)   @ Loftus Versfeld Stadium › Tshwane
+    17.30     Richards Bay v TS Galaxy  0-0 (0-0)   @ King Goodwill Zwelithini Stadium › Durban, KN
+  Tue Oct 4
+    17.00     Sekhukhune United v Orlando Pirates  2-0 (0-0)   @ Peter Mokaba Stadium › Pietersburg
+    19.30     Golden Arrows v Cape Town City  1-1 (0-1)   @ Princess Magogo Stadium › Durban
+              Supersport United v Royal AM  3-1 (0-0)   @ Lucas Masterpieces Moripe Stadium › Pretoria, GT
+              Stellenbosch v Maritzburg Utd  3-0 (1-0)   @ Danie Craven Stadium › Stellenbosch
+              TS Galaxy v Marumo Gallants  0-1 (0-1)   @ Mbombela Stadium › Nelspruit
+» Regular Season - 8
+  Wed Oct 5
+    17.00     Amazulu v Richards Bay  0-1 (0-0)   @ Moses Mabhida Stadium › Durban
+    19.30     Moroka Swallows v Kaizer Chiefs  1-2 (0-2)   @ Volkswagen Dobsonville Stadium › Johannesburg, GA
+  Fri Oct 7
+    19.30     Supersport United v Sekhukhune United  3-1 (2-0)   @ Lucas Masterpieces Moripe Stadium › Pretoria, GT
+  Sat Oct 8
+    15.30     TS Galaxy v Moroka Swallows  0-0 (0-0)   @ Mbombela Stadium › Nelspruit
+    20.00     Orlando Pirates v Richards Bay  0-0 (0-0)   @ Orlando Stadium › Johannesburg, GA
+  Sun Oct 9
+    15.30     Stellenbosch v Kaizer Chiefs  1-3 (1-1)   @ DHL Stadium › Cape Town
+  Fri Oct 14
+    19.30     Golden Arrows v Stellenbosch  1-1 (0-1)   @ Princess Magogo Stadium › Durban
+              Orlando Pirates v Amazulu  1-1 (1-1)   @ Orlando Stadium › Johannesburg, GA
+  Sat Oct 15
+    15.30     Richards Bay v Maritzburg Utd  0-0 (0-0)   @ King Goodwill Zwelithini Stadium › Durban, KN
+    17.30     Kaizer Chiefs v Chippa United  1-2 (1-0)   @ Moses Mabhida Stadium › Durban
+» Regular Season - 9
+  Tue Oct 18
+    17.00     Stellenbosch v Supersport United  0-2 (0-1)   @ Danie Craven Stadium › Stellenbosch
+              Chippa United v Sekhukhune United  1-0 (1-0)   @ Chatsworth Stadium › Durban, KN
+    19.30     Golden Arrows v Orlando Pirates  0-2 (0-2)   @ Princess Magogo Stadium › Durban
+  Wed Oct 19
+    17.00     Amazulu v Maritzburg Utd  1-1 (1-0)   @ Moses Mabhida Stadium › Durban
+    19.30     Kaizer Chiefs v TS Galaxy  2-2 (1-2)   @ FNB Stadium › Johannesburg, GA
+              Mamelodi Sundowns v Marumo Gallants  1-0 (1-0)   @ Loftus Versfeld Stadium › Tshwane
+              Moroka Swallows v Royal AM  2-0 (1-0)   @ Volkswagen Dobsonville Stadium › Johannesburg, GA
+              Richards Bay v Cape Town City  1-0 (0-0)   @ King Goodwill Zwelithini Stadium › Durban, KN
+  Tue Oct 25
+    17.00     Royal AM v Golden Arrows  3-1 (2-1)   @ Chatsworth Stadium › Durban, KN
+    19.30     Cape Town City v Chippa United  2-1 (0-1)   @ DHL Stadium › Cape Town
+» Regular Season - 10
+  Tue Oct 25
+    19.30     Maritzburg Utd v Mamelodi Sundowns  0-5 (0-3)   @ Harry Gwala Stadium › Pietermaritzburg, KN
+  Wed Oct 26
+    19.30     Marumo Gallants v Amazulu  0-0 (0-0)   @ Peter Mokaba Stadium › Pietersburg
+  Fri Oct 28
+    19.30     Maritzburg Utd v Golden Arrows  0-2 (0-2)   @ Harry Gwala Stadium › Pietermaritzburg, KN
+  Sat Oct 29
+    15.30     Orlando Pirates v Kaizer Chiefs  0-1 (0-0)   @ FNB Stadium › Johannesburg, GA
+    17.30     Marumo Gallants v Cape Town City  2-1 (1-0)   @ Peter Mokaba Stadium › Pietersburg
+    18.00     Royal AM v Mamelodi Sundowns  0-3 (0-1)   @ Chatsworth Stadium › Durban, KN
+  Sun Oct 30
+    15.30     Chippa United v Richards Bay  3-3 (0-2)   @ BidVest Stadium › Johannesburg, GA
+              TS Galaxy v Sekhukhune United  1-1 (1-1)   @ Mbombela Stadium › Nelspruit
+              Amazulu v Stellenbosch  1-0 (1-0)   @ King Goodwill Zwelithini Stadium › Durban, KN
+    17.30     Supersport United v Moroka Swallows  1-1 (0-0)   @ Lucas Masterpieces Moripe Stadium › Pretoria, GT
+» Regular Season - 11
+  Fri Dec 30
+    15.30     Mamelodi Sundowns v Orlando Pirates  2-0 (1-0)   @ Loftus Versfeld Stadium › Tshwane
+    17.30     Stellenbosch v Chippa United  1-1 (0-0)   @ Danie Craven Stadium › Stellenbosch
+              Cape Town City v Royal AM  2-1 (1-1)   @ DHL Stadium › Cape Town
+    19.30     Supersport United v Marumo Gallants  1-0 (0-0)   @ Lucas Masterpieces Moripe Stadium › Pretoria, GT
+              Maritzburg Utd v TS Galaxy  1-2 (1-1)   @ Harry Gwala Stadium › Pietermaritzburg, KN
+  Sat Dec 31
+    15.30     Richards Bay v Moroka Swallows  1-0 (1-0)   @ King Goodwill Zwelithini Stadium › Durban, KN
+              Golden Arrows v Kaizer Chiefs  0-2 (0-2)   @ Moses Mabhida Stadium › Durban
+    17.30     Sekhukhune United v Amazulu  0-0 (0-0)   @ Peter Mokaba Stadium › Pietersburg
+  Tue Jan 3 2023
+    17.00     Cape Town City v Supersport United  0-1 (0-0)   @ DHL Stadium › Cape Town
+  Tue Jan 3
+    19.30     Mamelodi Sundowns v Moroka Swallows  2-0 (0-0)   @ Loftus Versfeld Stadium › Tshwane
+» Regular Season - 12
+  Tue Jan 3
+    19.30     Sekhukhune United v Marumo Gallants  3-2 (1-1)   @ Peter Mokaba Stadium › Pietersburg
+              Royal AM v TS Galaxy  0-0 (0-0)   @ Chatsworth Stadium › Durban, KN
+  Fri Jan 6
+    19.30     Richards Bay v Mamelodi Sundowns  0-2 (0-1)   @ King Goodwill Zwelithini Stadium › Durban, KN
+              Moroka Swallows v Chippa United  2-0 (1-0)   @ Volkswagen Dobsonville Stadium › Johannesburg, GA
+  Sat Jan 7
+    15.30     Golden Arrows v Supersport United  2-1 (2-0)   @ Princess Magogo Stadium › Durban
+              Marumo Gallants v Maritzburg Utd  0-1 (0-0)   @ Royal Bafokeng Stadium › Phokeng, NW
+    17.30     Cape Town City v Orlando Pirates  2-1 (1-1)   @ DHL Stadium › Cape Town
+    20.00     Kaizer Chiefs v Sekhukhune United  0-1 (0-0)   @ FNB Stadium › Johannesburg, GA
+  Sun Jan 8
+    15.30     Royal AM v Amazulu  2-0 (1-0)   @ Chatsworth Stadium › Durban, KN
+    17.30     TS Galaxy v Stellenbosch  0-0 (0-0)   @ Mbombela Stadium › Nelspruit
+» Regular Season - 13
+  Tue Jan 10
+    19.30     Mamelodi Sundowns v Chippa United  2-1 (1-0)   @ Loftus Versfeld Stadium › Tshwane
+  Wed Jan 11
+    19.30     Stellenbosch v Marumo Gallants  1-1 (0-0)   @ Danie Craven Stadium › Stellenbosch
+  Fri Jan 13
+    19.30     Amazulu v Kaizer Chiefs  4-0 (3-0)   @ Moses Mabhida Stadium › Durban
+  Sat Jan 14
+    15.30     Marumo Gallants v Richards Bay  0-2 (0-0)   @ Royal Bafokeng Stadium › Phokeng, NW
+              Orlando Pirates v Golden Arrows  3-1 (1-0)   @ Orlando Stadium › Johannesburg, GA
+    17.30     Stellenbosch v Sekhukhune United  0-1 (0-1)   @ Danie Craven Stadium › Stellenbosch
+              Chippa United v Cape Town City  1-1 (1-1)   @ Nelson Mandela Bay Stadium › Port Elizabeth
+  Sun Jan 15
+    15.30     Moroka Swallows v TS Galaxy  0-0 (0-0)   @ Volkswagen Dobsonville Stadium › Johannesburg, GA
+    17.30     Maritzburg Utd v Royal AM  3-1 (2-0)   @ Harry Gwala Stadium › Pietermaritzburg, KN
+  Mon Jan 16
+    18.00     Mamelodi Sundowns v Supersport United  1-0 (1-0)   @ Loftus Versfeld Stadium › Tshwane
+» Regular Season - 14
+  Fri Jan 20
+    19.30     Sekhukhune United v Moroka Swallows  1-0 (0-0)   @ Peter Mokaba Stadium › Pietersburg
+              Cape Town City v TS Galaxy  1-0 (0-0)   @ DHL Stadium › Cape Town
+  Sat Jan 21
+    15.30     Golden Arrows v Maritzburg Utd  0-1 (0-0)   @ Princess Magogo Stadium › Durban
+              Royal AM v Chippa United  1-1 (1-0)   @ Chatsworth Stadium › Durban, KN
+    20.00     Kaizer Chiefs v Mamelodi Sundowns  0-1 (0-1)   @ FNB Stadium › Johannesburg, GA
+              Amazulu v Marumo Gallants  1-1 (1-1)   @ Moses Mabhida Stadium › Durban
+  Sun Jan 22
+    15.30     Orlando Pirates v Stellenbosch  4-1 (2-0)   @ Orlando Stadium › Johannesburg, GA
+    17.30     Supersport United v Richards Bay  1-1 (0-0)   @ Lucas Masterpieces Moripe Stadium › Pretoria, GT
+  Tue Jan 24
+    19.30     TS Galaxy v Mamelodi Sundowns  1-2 (0-1)   @ Mbombela Stadium › Nelspruit
+  Wed Jan 25
+    19.30     Golden Arrows v Marumo Gallants  3-2 (0-1)   @ Princess Magogo Stadium › Durban
+» Regular Season - 15
+  Fri Jan 27
+    19.30     Stellenbosch v Cape Town City  3-2 (1-2)   @ Danie Craven Stadium › Stellenbosch
+  Sat Jan 28
+    15.30     Mamelodi Sundowns v Sekhukhune United  2-0 (0-0)   @ Loftus Versfeld Stadium › Tshwane
+    17.30     Moroka Swallows v Supersport United  0-0 (0-0)   @ Volkswagen Dobsonville Stadium › Johannesburg, GA
+    20.00     Marumo Gallants v Orlando Pirates  0-2 (0-1)   @ Royal Bafokeng Stadium › Phokeng, NW
+  Sun Jan 29
+    15.30     Richards Bay v Amazulu  1-1 (0-1)   @ King Goodwill Zwelithini Stadium › Durban, KN
+              Chippa United v Maritzburg Utd  1-0 (0-0)   @ Nelson Mandela Bay Stadium › Port Elizabeth
+    17.30     TS Galaxy v Golden Arrows  4-0 (2-0)   @ Mbombela Stadium › Nelspruit
+              Kaizer Chiefs v Royal AM  2-0 (0-0)   @ Peter Mokaba Stadium › Pietersburg
+  Fri Feb 3
+    18.00     Moroka Swallows v Richards Bay  1-0 (0-0)   @ Volkswagen Dobsonville Stadium › Johannesburg, GA
+    19.30     Maritzburg Utd v Amazulu  1-1 (1-0)   @ Harry Gwala Stadium › Pietermaritzburg, KN
+» Regular Season - 16
+  Sat Feb 4
+    15.30     Chippa United v Stellenbosch  1-2 (0-1)   @ Nelson Mandela Bay Stadium › Port Elizabeth
+              Orlando Pirates v Mamelodi Sundowns  0-1 (0-1)   @ Orlando Stadium › Johannesburg, GA
+              Golden Arrows v Royal AM  1-2 (0-0)   @ Princess Magogo Stadium › Durban
+    17.30     Supersport United v Cape Town City  2-0 (1-0)   @ Lucas Masterpieces Moripe Stadium › Pretoria, GT
+    20.00     Marumo Gallants v Sekhukhune United  2-0 (1-0)   @ Royal Bafokeng Stadium › Phokeng, NW
+  Sun Feb 5
+    15.30     TS Galaxy v Kaizer Chiefs  0-0 (0-0)   @ Mbombela Stadium › Nelspruit
+  Fri Feb 17
+    19.30     Orlando Pirates v Maritzburg Utd  2-1 (1-0)   @ Orlando Stadium › Johannesburg, GA
+  Sat Feb 18
+    15.30     Royal AM v Supersport United  1-1 (1-1)   @ Chatsworth Stadium › Durban, KN
+    17.30     Sekhukhune United v Richards Bay  2-0 (0-0)   @ Peter Mokaba Stadium › Pietersburg
+    20.00     Amazulu v TS Galaxy  1-2 (0-1)   @ Moses Mabhida Stadium › Durban
+» Regular Season - 17
+  Sun Feb 19
+    15.30     Kaizer Chiefs v Golden Arrows  2-3 (1-1)   @ Peter Mokaba Stadium › Pietersburg
+    17.30     Cape Town City v Moroka Swallows  2-0 (1-0)   @ DHL Stadium › Cape Town
+  Fri Feb 24
+    19.30     Supersport United v Maritzburg Utd  2-0 (0-0)   @ Lucas Masterpieces Moripe Stadium › Pretoria, GT
+  Sat Feb 25
+    15.30     Kaizer Chiefs v Orlando Pirates  1-0 (0-0)   @ FNB Stadium › Johannesburg, GA
+    17.30     Sekhukhune United v Cape Town City  0-1 (0-0)   @ Peter Mokaba Stadium › Pietersburg
+              Richards Bay v Stellenbosch  1-2 (0-1)   @ King Goodwill Zwelithini Stadium › Durban, KN
+    20.00     Amazulu v Royal AM  1-1 (0-0)   @ Moses Mabhida Stadium › Durban
+  Sun Feb 26
+    15.30     Chippa United v Moroka Swallows  1-2 (1-1)   @ Nelson Mandela Bay Stadium › Port Elizabeth
+  Fri Mar 3
+    19.30     Moroka Swallows v Orlando Pirates  1-4 (0-1)   @ Volkswagen Dobsonville Stadium › Johannesburg, GA
+  Sat Mar 4
+    15.30     Richards Bay v Kaizer Chiefs  0-1 (0-1)   @ King Goodwill Zwelithini Stadium › Durban, KN
+» Regular Season - 18
+  Sat Mar 4
+    17.45     Royal AM v Sekhukhune United  2-0 (1-0)   @ Chatsworth Stadium › Durban, KN
+    20.00     Maritzburg Utd v Cape Town City  1-2 (0-0)   @ Harry Gwala Stadium › Pietermaritzburg, KN
+  Sun Mar 5
+    15.30     Chippa United v Amazulu  0-2 (0-0)   @ Nelson Mandela Bay Stadium › Port Elizabeth
+              Stellenbosch v Mamelodi Sundowns  1-1 (0-0)   @ Danie Craven Stadium › Stellenbosch
+              Marumo Gallants v TS Galaxy  0-0 (0-0)   @ Free State Toyota Stadium › Bloemfontein
+    17.45     Supersport United v Golden Arrows  2-1 (1-0)   @ Lucas Masterpieces Moripe Stadium › Pretoria, GT
+  Tue Mar 14
+    19.30     Mamelodi Sundowns v Royal AM  5-1 (3-0)   @ Loftus Versfeld Stadium › Tshwane
+              Cape Town City v Marumo Gallants  2-2 (1-1)   @ DHL Stadium › Cape Town
+  Fri Mar 17
+    19.30     Stellenbosch v Amazulu  2-0 (1-0)   @ Danie Craven Stadium › Stellenbosch
+              Moroka Swallows v Golden Arrows  0-1 (0-1)   @ Volkswagen Dobsonville Stadium › Johannesburg, GA
+» Regular Season - 19
+  Sat Mar 18
+    15.30     Sekhukhune United v Chippa United  1-1 (1-1)   @ Peter Mokaba Stadium › Pietersburg
+    17.45     Orlando Pirates v Supersport United  1-0 (0-0)   @ Orlando Stadium › Johannesburg, GA
+    20.00     Maritzburg Utd v Kaizer Chiefs  2-3 (2-2)   @ Harry Gwala Stadium › Pietermaritzburg, KN
+  Sun Mar 19
+    15.30     TS Galaxy v Richards Bay  4-0 (2-0)   @ Mbombela Stadium › Nelspruit
+  Sat Apr 1
+    15.00     Richards Bay v Orlando Pirates  0-2 (0-1)   @ King Goodwill Zwelithini Stadium › Durban, KN
+    17.30     Kaizer Chiefs v Stellenbosch  2-1 (2-0)   @ FNB Stadium › Johannesburg, GA
+              Chippa United v Supersport United  1-1 (1-0)   @ Nelson Mandela Bay Stadium › Port Elizabeth
+    20.00     Amazulu v Moroka Swallows  0-1 (0-1)   @ Moses Mabhida Stadium › Durban
+  Sun Apr 2
+    15.00     Golden Arrows v Sekhukhune United  0-0 (0-0)   @ Princess Magogo Stadium › Durban
+    17.30     TS Galaxy v Maritzburg Utd  1-2 (1-2)   @ Mbombela Stadium › Nelspruit
+» Regular Season - 20
+  Tue Apr 4
+    19.30     Mamelodi Sundowns v Cape Town City  0-0 (0-0)   @ Loftus Versfeld Stadium › Tshwane
+  Wed Apr 5
+    19.30     Marumo Gallants v Royal AM  3-1 (1-0)   @ Free State Toyota Stadium › Bloemfontein, FS
+  Fri Apr 7
+    19.30     Supersport United v TS Galaxy  2-0 (1-0)   @ TUT Stadium › Pretoria
+  Sat Apr 8
+    15.00     Richards Bay v Golden Arrows  0-1 (0-1)   @ King Goodwill Zwelithini Stadium › Durban, KN
+    17.30     Sekhukhune United v Maritzburg Utd  1-0 (0-0)   @ Peter Mokaba Stadium › Pietersburg
+              Chippa United v Orlando Pirates  0-2 (0-2)   @ Nelson Mandela Bay Stadium › Port Elizabeth
+    20.00     Kaizer Chiefs v Marumo Gallants  1-1 (1-1)   @ FNB Stadium › Johannesburg, GA
+  Sun Apr 9
+    15.00     Royal AM v Stellenbosch  3-1 (2-1)   @ Chatsworth Stadium › Durban, KN
+              Moroka Swallows v Mamelodi Sundowns  0-0 (0-0)   @ Volkswagen Dobsonville Stadium › Johannesburg, GA
+    17.30     Cape Town City v Amazulu  2-2 (2-0)   @ DHL Stadium › Cape Town, WC
+» Regular Season - 21
+  Wed Apr 12
+    19.30     Marumo Gallants v Chippa United  3-1 (0-1)   @ Peter Mokaba Stadium › Pietersburg
+              Golden Arrows v Mamelodi Sundowns  1-1 (1-0)   @ Princess Magogo Stadium › Durban
+  Tue Apr 18
+    19.30     Marumo Gallants v Supersport United  0-0 (0-0)   @ Peter Mokaba Stadium › Pietersburg
+  Fri Apr 21
+    19.30     Maritzburg Utd v Richards Bay  1-1 (0-1)   @ Harry Gwala Stadium › Pietermaritzburg, KN
+  Sat Apr 22
+    15.00     TS Galaxy v Royal AM  1-1 (0-1)   @ Mbombela Stadium › Nelspruit
+              Orlando Pirates v Cape Town City  2-1 (1-1)   @ Orlando Stadium › Johannesburg, GA
+    17.30     Stellenbosch v Moroka Swallows  3-0 (1-0)   @ Danie Craven Stadium › Stellenbosch
+  Sun Apr 23
+    15.00     Sekhukhune United v Kaizer Chiefs  1-0 (1-0)   @ Peter Mokaba Stadium › Pietersburg
+    17.30     Supersport United v Amazulu  2-1 (1-0)   @ TUT Stadium › Pretoria
+  Tue Apr 25
+    15.00     Mamelodi Sundowns v Richards Bay  1-0 (1-0)   @ Loftus Versfeld Stadium › Tshwane
+» Regular Season - 22
+  Thu Apr 27
+    15.00     Chippa United v Kaizer Chiefs  0-1 (0-0)   @ Nelson Mandela Bay Stadium › Gqeberha
+    17.30     Moroka Swallows v Maritzburg Utd  1-0 (0-0)   @ Volkswagen Dobsonville Stadium › Johannesburg, GA
+  Sat Apr 29
+    15.00     Royal AM v Cape Town City  1-2 (1-0)   @ Chatsworth Stadium › Durban, KN
+    17.30     Stellenbosch v Golden Arrows  5-2 (4-2)   @ Danie Craven Stadium › Stellenbosch
+    20.00     Amazulu v Sekhukhune United  2-0 (1-0)   @ Moses Mabhida Stadium › Durban
+  Sun Apr 30
+    15.00     TS Galaxy v Orlando Pirates  1-2 (1-1)   @ Mbombela Stadium › Nelspruit
+  Mon May 1
+    15.00     Kaizer Chiefs v Moroka Swallows  1-2 (1-2)   @ Peter Mokaba Stadium › Pietersburg
+  Tue May 2
+    19.30     Supersport United v Stellenbosch  0-0 (0-0)   @ TUT Stadium › Pretoria
+  Wed May 3
+    15.00     Orlando Pirates v Royal AM  1-1 (0-0)   @ Orlando Stadium › Johannesburg, GA
+    17.15     Sekhukhune United v TS Galaxy  1-1 (1-0)   @ Peter Mokaba Stadium › Pietersburg
+» Regular Season - 23
+  Wed May 3
+    19.30     Maritzburg Utd v Marumo Gallants  2-2 (1-0)   @ Harry Gwala Stadium › Pietermaritzburg, KN
+              Cape Town City v Golden Arrows  0-0 (0-0)   @ DHL Cape Town Stadium › Cape Town, WC
+              Richards Bay v Chippa United  2-3 (2-1)   @ King Goodwill Zwelithini Stadium › Durban, KN
+              Amazulu v Mamelodi Sundowns  2-2 (0-1)   @ Princess Magogo Stadium › Durban
+  Sat May 6
+    19.00     Marumo Gallants v Mamelodi Sundowns  0-2 (0-1)   @ Peter Mokaba Stadium › Pietersburg
+  Sat May 13
+    15.00     Golden Arrows v Amazulu  1-0 (0-0)   @ Princess Magogo Stadium › Durban
+              Royal AM v Moroka Swallows  0-1 (0-1)   @ Chatsworth Stadium › Durban, KN
+              Supersport United v Kaizer Chiefs  1-0 (1-0)   @ Royal Bafokeng Stadium › Phokeng, NW
+              Cape Town City v Richards Bay  2-0 (0-0)   @ Athlone Stadium › Cape Town, WC
+              Orlando Pirates v Sekhukhune United  1-1 (1-1)   @ Orlando Stadium › Johannesburg, GA
+              TS Galaxy v Chippa United  4-0 (1-0)   @ Mbombela Stadium › Nelspruit
+» Regular Season - 24
+  Sat May 13
+    15.00     Maritzburg Utd v Stellenbosch  1-0 (1-0)   @ Harry Gwala Stadium › Pietermaritzburg, KN
+  Tue May 16
+    19.30     Mamelodi Sundowns v Maritzburg Utd  1-1 (1-0)   @ Loftus Versfeld Stadium › Tshwane
+  Sat May 20
+    15.00     Amazulu v Orlando Pirates  0-4 (0-3)   @ Moses Mabhida Stadium › Durban
+              Kaizer Chiefs v Cape Town City  0-1 (0-1)   @ FNB Stadium › Johannesburg, GA
+              Chippa United v Golden Arrows  0-0 (0-0)   @ Nelson Mandela Bay Stadium › Gqeberha
+              Stellenbosch v TS Galaxy  2-1 (1-0)   @ Danie Craven Stadium › Stellenbosch
+              Moroka Swallows v Marumo Gallants  2-0 (1-0)   @ Volkswagen Dobsonville Stadium › Johannesburg, GA
+              Richards Bay v Royal AM  0-0 (0-0)   @ King Goodwill Zwelithini Stadium › Durban, KN
+              Sekhukhune United v Supersport United  1-0 (1-0)   @ Peter Mokaba Stadium › Pietersburg
+» Playoffs - 1
+  Sun May 28
+    02.00     Casric Stars v Ajax Cape Town  0-1 (0-0)   @ Solomon Mahlangu Stadium › KwaMhlanga
+  Wed May 31
+    02.00     Maritzburg Utd v Casric Stars  2-0 (2-0)   @ Harry Gwala Stadium › Pietermaritzburg, KN
+  Sat Jun 3
+    02.00     Ajax Cape Town v Maritzburg Utd  1-0 (1-0)   @ Athlone Stadium › Cape Town, WC
+  Wed Jun 7
+    15.00     Ajax Cape Town v Casric Stars  1-0 (0-0)   @ Athlone Stadium › Cape Town, WC
+  Sat Jun 10
+    15.00     Casric Stars v Maritzburg Utd  0-2 (0-1)   @ Solomon Mahlangu Stadium › KwaMhlanga
+  Wed Jun 14
+    19.30     Maritzburg Utd v Ajax Cape Town  0-0 (0-0)   @ Harry Gwala Stadium › Pietermaritzburg, KN

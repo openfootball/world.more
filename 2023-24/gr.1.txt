@@ -1,0 +1,377 @@
+= Greece | Super League 1 2023/24
+
+  # Date       Fri Aug/18 2023 - Sun May/19 2024 (275d)
+  # Teams      14
+  # Matches    240
+
+  # Note - All times in Europe/Athens
+
+» Regular Season - 1
+  Fri Aug 18 2023
+    21.00     Volos NFC v Lamia  2-2 (0-0)   @ Panthessaliko Stadio › Volos
+  Sun Aug 20
+    19.30     OFI v Aris Thessalonikis  3-2 (2-1)   @ Stadio Thódoros Vardinoyánnis › Heraklion
+    20.00     PAS Giannina v Kifisia  3-0 (1-0)   @ Stadio Zosimades › Ioannina
+              PAOK v Asteras Tripolis  3-0 (1-0)   @ Stadio Toumbas › Thessaloníki
+    22.00     Olympiakos Piraeus v Panserraikos  2-0 (0-0)   @ Stadio Georgios Karaiskáki › Piraeus
+» Regular Season - 2
+  Fri Aug 25
+    21.00     Panetolikos v PAS Giannina  0-0 (0-0)   @ Stadio Panetolikou › Agrinio
+  Sat Aug 26
+    20.00     Panathinaikos v Volos NFC  3-0 (2-0)   @ Stadio Apóstolos Nikolaidis › Athens
+              Asteras Tripolis v OFI  3-0 (2-0)   @ Stadio Theodoros Kolokotronis › Tripoli
+    21.30     AEK Athens FC v Panserraikos  1-1 (0-1)   @ OPAP Arena › Athens
+  Sun Aug 27
+    19.15     Lamia v Aris Thessalonikis  1-0 (1-0)   @ Dimotiko Athlitiko Kentro Lamias › Lamia
+    21.00     PAOK v Kifisia  2-1 (1-0)   @ Stadio Toumbas › Thessaloníki
+    21.30     Olympiakos Piraeus v Atromitos  4-0 (2-0)   @ Stadio Georgios Karaiskáki › Piraeus
+» Regular Season - 3
+  Fri Sep 1
+    21.00     Kifisia v Atromitos  2-1 (1-0)   @ Dimotiko Athlitiko Kentro Lamias › Lamia
+  Sat Sep 2
+    21.00     Panserraikos v Panetolikos  1-1 (1-0)   @ Stadio Toumbas › Thessaloníki
+  Sun Sep 3
+    20.00     Olympiakos Piraeus v Lamia  4-0 (2-0)   @ Stadio Georgios Karaiskáki › Piraeus
+              Aris Thessalonikis v Asteras Tripolis  3-2 (1-1)   @ Stadio Harilaou Kleánthis Vikelídis › Thessaloníki
+              OFI v PAOK  1-0 (0-0)   @ Stadio Thódoros Vardinoyánnis › Heraklion
+    21.30     Volos NFC v AEK Athens FC  2-3 (1-2)   @ Panthessaliko Stadio › Volos
+    21.45     PAS Giannina v Panathinaikos  0-1 (0-0)   @ Stadio Zosimades › Ioannina
+» Regular Season - 4
+  Sat Sep 16
+    17.30     Lamia v OFI  2-2 (0-1)   @ Dimotiko Athlitiko Kentro Lamias › Lamia
+    20.30     Panetolikos v Panathinaikos  0-5 (0-2)   @ Stadio Panetolikou › Agrinio
+  Sun Sep 17
+    15.00     Asteras Tripolis v PAS Giannina  2-2 (2-2)   @ Stadio Theodoros Kolokotronis › Tripoli
+    18.00     Kifisia v Panserraikos  4-4 (0-3)   @ Stadio Kaisarianis Michalis Kritikopoulos › Athens
+    20.30     PAOK v Aris Thessalonikis  0-0 (0-0)   @ Stadio Toumbas › Thessaloníki
+    21.30     AEK Athens FC v Olympiakos Piraeus  1-1 (1-1)   @ OPAP Arena › Athens
+  Mon Sep 18
+    18.00     Atromitos v Volos NFC  1-1 (1-0)   @ Stadio Peristeriou › Athens
+» Regular Season - 5
+  Sat Sep 23
+    17.30     OFI v Atromitos  1-1 (1-0)   @ Stadio Thódoros Vardinoyánnis › Heraklion
+    20.00     Panserraikos v Lamia  2-0 (0-0)   @ Dimotiko Stadio Serron › Serres
+  Sun Sep 24
+    17.00     Olympiakos Piraeus v Kifisia  4-0 (2-0)   @ Stadio Georgios Karaiskáki › Piraeus
+    17.30     Aris Thessalonikis v Panetolikos  3-0 (1-0)   @ Stadio Harilaou Kleánthis Vikelídis › Thessaloníki
+    20.00     Volos NFC v Asteras Tripolis  1-2 (0-2)   @ Panthessaliko Stadio › Volos
+    20.30     PAS Giannina v PAOK  1-3 (1-2)   @ Stadio Zosimades › Ioannina
+  Mon Sep 25
+    21.00     Panathinaikos v AEK Athens FC  1-2 (1-1)   @ Stadio Apóstolos Nikolaidis › Athens
+» Regular Season - 6
+  Wed Sep 27
+    16.00     Panetolikos v OFI  1-1 (1-1)   @ Stadio Panetolikou › Agrinio
+    18.00     Kifisia v Lamia  1-1 (0-0)   @ Stadio Kaisarianis Michalis Kritikopoulos › Athens
+    20.30     PAOK v Volos NFC  3-0 (2-0)   @ Stadio Toumbas › Thessaloníki
+              Olympiakos Piraeus v Aris Thessalonikis  4-1 (1-0)   @ Stadio Georgios Karaiskáki › Piraeus
+  Thu Sep 28
+    17.30     Panserraikos v PAS Giannina  3-2 (2-1)   @ Dimotiko Stadio Serron › Serres
+    20.30     Asteras Tripolis v Panathinaikos  1-4 (1-2)   @ Stadio Theodoros Kolokotronis › Tripoli
+    21.00     AEK Athens FC v Atromitos  2-1 (1-0)   @ OPAP Arena › Athens
+» Regular Season - 7
+  Sun Oct 1
+    15.00     Lamia v Panetolikos  1-0 (1-0)   @ Dimotiko Athlitiko Kentro Lamias › Lamia
+    17.30     Aris Thessalonikis v Kifisia  1-1 (1-0)   @ Stadio Harilaou Kleánthis Vikelídis › Thessaloníki
+    19.30     Panathinaikos v PAOK  2-2 (1-1)   @ Stadio Apóstolos Nikolaidis › Athens
+    20.30     PAS Giannina v Olympiakos Piraeus  0-3 (0-2)   @ Stadio Zosimades › Ioannina
+  Mon Oct 2
+    18.00     Atromitos v Asteras Tripolis  0-0 (0-0)   @ Stadio Peristeriou › Athens
+    20.00     OFI v AEK Athens FC  2-0 (1-0)   @ Stadio Thódoros Vardinoyánnis › Heraklion
+» Regular Season - 1
+  Sun Oct 8
+    19.30     AEK Athens FC v Panetolikos  3-0 (2-0)   @ OPAP Arena › Athens
+    21.30     Panathinaikos v Atromitos  5-0 (3-0)   @ Stadio Apóstolos Nikolaidis › Athens
+» Regular Season - 8
+  Fri Oct 20
+    20.30     Lamia v PAS Giannina  2-1 (2-1)   @ Dimotiko Athlitiko Kentro Lamias › Lamia
+  Sat Oct 21
+    17.30     Panetolikos v Volos NFC  2-0 (1-0)   @ Stadio Panetolikou › Agrinio
+    20.00     Aris Thessalonikis v Panserraikos  1-0 (0-0)   @ Stadio Harilaou Kleánthis Vikelídis › Thessaloníki
+  Sun Oct 22
+    16.00     Kifisia v OFI  0-0 (0-0)   @ Dimotiko Athlitiko Kentro Lamias › Lamia
+              Asteras Tripolis v AEK Athens FC  0-3 (0-1)   @ Stadio Theodoros Kolokotronis › Tripoli
+    18.30     PAOK v Atromitos  2-0 (1-0)   @ Stadio Toumbas › Thessaloníki
+    19.30     Olympiakos Piraeus v Panathinaikos  1-1   @ Stadio Georgios Karaiskáki › Piraeus
+» Regular Season - 9
+  Sat Oct 28
+    17.30     Volos NFC v Kifisia  2-1 (1-0)   @ Panthessaliko Stadio › Volos
+    20.00     Atromitos v Panetolikos  3-2 (0-1)   @ Stadio Peristeriou › Athens
+  Sun Oct 29
+    17.30     Asteras Tripolis v Lamia  0-1 (0-0)   @ Stadio Theodoros Kolokotronis › Tripoli
+    19.30     Panathinaikos v Panserraikos  5-0 (3-0)   @ Stadio Apóstolos Nikolaidis › Athens
+    20.30     Aris Thessalonikis v PAS Giannina  2-0 (0-0)   @ Stadio Harilaou Kleánthis Vikelídis › Thessaloníki
+  Mon Oct 30
+    19.30     AEK Athens FC v PAOK  2-0 (1-0)   @ OPAP Arena › Athens
+    21.30     OFI v Olympiakos Piraeus  0-2 (0-1)   @ Stadio Thódoros Vardinoyánnis › Heraklion
+» Regular Season - 10
+  Sat Nov 4
+    17.30     Lamia v Panathinaikos  1-2 (0-1)   @ Dimotiko Athlitiko Kentro Lamias › Lamia
+    20.00     Kifisia v AEK Athens FC  1-1 (0-0)   @ Stadio Kaisarianis Michalis Kritikopoulos › Athens
+  Sun Nov 5
+    16.00     Panetolikos v Asteras Tripolis  0-1 (0-1)   @ Stadio Panetolikou › Agrinio
+    17.30     PAS Giannina v Volos NFC  1-1 (0-0)   @ Stadio Zosimades › Ioannina
+    19.30     Olympiakos Piraeus v PAOK  2-4 (0-1)   @ Stadio Georgios Karaiskáki › Piraeus
+    20.15     Aris Thessalonikis v Atromitos  1-3 (1-1)   @ Stadio Harilaou Kleánthis Vikelídis › Thessaloníki
+  Mon Nov 6
+    18.00     Panserraikos v OFI  2-1 (1-1)   @ Dimotiko Stadio Serron › Serres
+» Regular Season - 11
+  Sat Nov 11
+    17.30     OFI v PAS Giannina  1-1 (1-0)   @ Stadio Thódoros Vardinoyánnis › Heraklion
+    19.00     Atromitos v Panserraikos  1-1 (0-1)   @ Stadio Peristeriou › Athens
+    20.00     Volos NFC v Aris Thessalonikis  0-2 (0-0)   @ Panthessaliko Stadio › Volos
+  Sun Nov 12
+    17.30     PAOK v Panetolikos  2-1 (2-1)   @ Stadio Toumbas › Thessaloníki
+    19.30     AEK Athens FC v Lamia  3-0 (2-0)   @ OPAP Arena › Athens
+    20.30     Asteras Tripolis v Olympiakos Piraeus  0-2 (0-0)   @ Stadio Theodoros Kolokotronis › Tripoli
+    21.30     Kifisia v Panathinaikos  0-1 (0-0)   @ Stadio Kaisarianis Michalis Kritikopoulos › Athens
+» Regular Season - 12
+  Fri Nov 24
+    18.15     OFI v Volos NFC  1-1 (0-1)   @ Stadio Thódoros Vardinoyánnis › Heraklion
+  Sat Nov 25
+    17.30     Olympiakos Piraeus v Panetolikos  3-1 (2-1)   @ Stadio Georgios Karaiskáki › Piraeus
+    19.30     PAOK v Panserraikos  5-0 (2-0)   @ Stadio Toumbas › Thessaloníki
+  Sun Nov 26
+    16.00     Kifisia v Asteras Tripolis  1-3 (0-2)   @ Stadio Kaisarianis Michalis Kritikopoulos › Athens
+    17.00     PAS Giannina v AEK Athens FC  0-1 (0-1)   @ Stadio Zosimades › Ioannina
+    19.30     Lamia v Atromitos  3-3 (2-2)   @ Dimotiko Athlitiko Kentro Lamias › Lamia
+    20.30     Aris Thessalonikis v Panathinaikos  2-0 (1-0)   @ Stadio Harilaou Kleánthis Vikelídis › Thessaloníki
+» Regular Season - 7
+  Wed Nov 29
+    17.00     Volos NFC v Panserraikos  1-0 (0-0)   @ Panthessaliko Stadio › Volos
+» Regular Season - 13
+  Sat Dec 2
+    17.30     Panetolikos v Kifisia  3-0 (1-0)   @ Stadio Panetolikou › Agrinio
+    20.00     Asteras Tripolis v Panserraikos  1-0 (0-0)   @ Stadio Theodoros Kolokotronis › Tripoli
+  Sun Dec 3
+    16.30     Volos NFC v Olympiakos Piraeus  2-2 (1-1)   @ Panthessaliko Stadio › Volos
+    17.30     Atromitos v PAS Giannina  1-1 (0-0)   @ Stadio Peristeriou › Athens
+    19.30     Panathinaikos v OFI  4-0 (1-0)   @ Stadio Apóstolos Nikolaidis › Athens
+  Mon Dec 4
+    18.00     PAOK v Lamia  3-0 (2-0)   @ Stadio Toumbas › Thessaloníki
+    21.00     AEK Athens FC v Aris Thessalonikis  1-0 (0-0)   @ OPAP Arena › Athens
+» Regular Season - 14
+  Sat Dec 16
+    17.30     Kifisia v PAS Giannina  4-2 (3-2)   @ Stadio Kaisarianis Michalis Kritikopoulos › Athens
+  Sun Dec 17
+    15.00     Aris Thessalonikis v OFI  1-0 (1-0)   @ Stadio Harilaou Kleánthis Vikelídis › Thessaloníki
+    17.30     Asteras Tripolis v PAOK  1-4 (0-1)   @ Stadio Theodoros Kolokotronis › Tripoli
+    19.30     Lamia v Volos NFC  1-2 (0-0)   @ Dimotiko Athlitiko Kentro Lamias › Lamia
+    20.30     Atromitos v Panathinaikos  3-2 (1-1)   @ Stadio Peristeriou › Athens
+  Mon Dec 18
+    17.00     Panetolikos v AEK Athens FC  2-2 (1-2)   @ Stadio Panetolikou › Agrinio
+    18.00     Panserraikos v Olympiakos Piraeus  0-1 (0-0)   @ Dimotiko Stadio Serron › Serres
+» Regular Season - 15
+  Wed Dec 20
+    17.00     Aris Thessalonikis v Lamia  2-2 (0-0)   @ Stadio Harilaou Kleánthis Vikelídis › Thessaloníki
+    19.00     Volos NFC v Panathinaikos  0-3 (0-0)   @ Panthessaliko Stadio › Volos
+  Thu Dec 21
+    15.00     PAS Giannina v Panetolikos  0-0 (0-0)   @ Stadio Zosimades › Ioannina
+    17.00     Panserraikos v AEK Athens FC  2-2 (1-2)   @ Dimotiko Stadio Serron › Serres
+    17.30     OFI v Asteras Tripolis  0-2 (0-1)   @ Stadio Thódoros Vardinoyánnis › Heraklion
+    20.00     Kifisia v PAOK  0-6 (0-3)   @ Stadio Kaisarianis Michalis Kritikopoulos › Athens
+    20.30     Atromitos v Olympiakos Piraeus  0-0 (0-0)   @ Stadio Peristeriou › Athens
+» Regular Season - 16
+  Wed Jan 3 2024
+    16.00     Asteras Tripolis v Aris Thessalonikis  3-2 (1-2)   @ Stadio Theodoros Kolokotronis › Tripoli
+  Wed Jan 3
+    17.00     Lamia v Olympiakos Piraeus  1-0 (1-0)   @ Dimotiko Athlitiko Kentro Lamias › Lamia
+    19.00     AEK Athens FC v Volos NFC  3-0 (1-0)   @ OPAP Arena › Athens
+    20.00     PAOK v OFI  4-0 (2-0)   @ Stadio Toumbas › Thessaloníki
+    21.00     Panathinaikos v PAS Giannina  2-0 (1-0)   @ Stadio Apóstolos Nikolaidis › Athens
+  Thu Jan 4
+    17.00     Panetolikos v Panserraikos  3-2 (1-1)   @ Stadio Panetolikou › Agrinio
+    19.00     Atromitos v Kifisia  3-0 (1-0)   @ Stadio Peristeriou › Athens
+» Regular Season - 17
+  Sun Jan 7
+    15.00     Panserraikos v Kifisia  1-1 (0-1)   @ Dimotiko Stadio Serron › Serres
+              Volos NFC v Atromitos  1-2 (0-1)   @ Panthessaliko Stadio › Volos
+    17.00     Panathinaikos v Panetolikos  2-1 (0-0)   @ Stadio Apóstolos Nikolaidis › Athens
+    17.30     PAS Giannina v Asteras Tripolis  2-1 (2-1)   @ Stadio Zosimades › Ioannina
+    19.30     Aris Thessalonikis v PAOK  2-1 (0-0)   @ Stadio Harilaou Kleánthis Vikelídis › Thessaloníki
+    21.00     Olympiakos Piraeus v AEK Athens FC  1-2 (1-2)   @ Stadio Georgios Karaiskáki › Piraeus
+  Mon Jan 8
+    20.00     OFI v Lamia  1-1 (1-1)   @ Stadio Thódoros Vardinoyánnis › Heraklion
+» Regular Season - 18
+  Sat Jan 13
+    19.00     Atromitos v OFI  1-1 (0-0)   @ Stadio Peristeriou › Athens
+    20.00     Lamia v Panserraikos  0-2 (0-1)   @ Dimotiko Athlitiko Kentro Lamias › Lamia
+  Sun Jan 14
+    15.00     Panetolikos v Aris Thessalonikis  0-4 (0-1)   @ Stadio Panetolikou › Agrinio
+    17.00     Kifisia v Olympiakos Piraeus  2-3 (1-2)   @ Stadio Kaisarianis Michalis Kritikopoulos › Athens
+    17.30     Asteras Tripolis v Volos NFC  1-0 (0-0)   @ Stadio Theodoros Kolokotronis › Tripoli
+    20.30     PAOK v PAS Giannina  4-0 (1-0)   @ Stadio Toumbas › Thessaloníki
+              AEK Athens FC v Panathinaikos  2-2 (1-1)   @ OPAP Arena › Athens
+» Regular Season - 19
+  Sat Jan 20
+    17.30     Lamia v Kifisia  4-1 (2-1)   @ Dimotiko Athlitiko Kentro Lamias › Lamia
+    19.00     PAS Giannina v Panserraikos  0-2 (0-2)   @ Stadio Zosimades › Ioannina
+    20.00     OFI v Panetolikos  1-0 (1-0)   @ Stadio Thódoros Vardinoyánnis › Heraklion
+  Sun Jan 21
+    16.00     Volos NFC v PAOK  1-5 (0-2)   @ Panthessaliko Stadio › Volos
+    17.30     Atromitos v AEK Athens FC  0-5 (0-3)   @ Stadio Peristeriou › Athens
+    19.30     Panathinaikos v Asteras Tripolis  2-0 (0-0)   @ Stadio Apóstolos Nikolaidis › Athens
+    20.30     Aris Thessalonikis v Olympiakos Piraeus  1-2 (0-2)   @ Stadio Harilaou Kleánthis Vikelídis › Thessaloníki
+» Regular Season - 20
+  Sat Jan 27
+    17.30     Panetolikos v Lamia  1-2 (0-1)   @ Stadio Panetolikou › Agrinio
+    19.30     Panserraikos v Volos NFC  2-2 (0-1)   @ Dimotiko Stadio Serron › Serres
+    20.00     Kifisia v Aris Thessalonikis  0-1 (0-1)   @ Stadio Kaisarianis Michalis Kritikopoulos › Athens
+  Sun Jan 28
+    16.00     AEK Athens FC v OFI  3-0 (1-0)   @ OPAP Arena › Athens
+    17.30     Asteras Tripolis v Atromitos  3-1 (1-0)   @ Stadio Theodoros Kolokotronis › Tripoli
+    19.30     Olympiakos Piraeus v PAS Giannina  3-1 (0-0)   @ Stadio Georgios Karaiskáki › Piraeus
+    20.30     PAOK v Panathinaikos  2-1 (1-0)   @ Stadio Toumbas › Thessaloníki
+» Regular Season - 21
+  Sat Feb 3
+    17.30     Volos NFC v Panetolikos  1-1 (1-1)   @ Panthessaliko Stadio › Volos
+    19.30     Panserraikos v Aris Thessalonikis  1-1 (0-0)   @ Dimotiko Stadio Serron › Serres
+  Sun Feb 4
+    16.00     OFI v Kifisia  1-2 (0-1)   @ Stadio Thódoros Vardinoyánnis › Heraklion
+    17.30     PAS Giannina v Lamia  1-4 (1-2)   @ Stadio Zosimades › Ioannina
+              AEK Athens FC v Asteras Tripolis  4-2 (3-1)   @ OPAP Arena › Athens
+    20.30     Atromitos v PAOK  0-2 (0-0)   @ Stadio Peristeriou › Athens
+    21.00     Panathinaikos v Olympiakos Piraeus  2-0 (1-0)   @ Stadio Apóstolos Nikolaidis › Athens
+» Regular Season - 22
+  Sat Feb 10
+    17.30     Olympiakos Piraeus v OFI  4-0 (3-0)   @ Stadio Georgios Karaiskáki › Piraeus
+    19.00     PAS Giannina v Aris Thessalonikis  0-0 (0-0)   @ Stadio Zosimades › Ioannina
+    19.30     Panetolikos v Atromitos  1-0 (1-0)   @ Stadio Panetolikou › Agrinio
+  Sun Feb 11
+    16.00     Kifisia v Volos NFC  3-0 (0-0)   @ Stadio Kaisarianis Michalis Kritikopoulos › Athens
+    17.00     Panserraikos v Panathinaikos  0-3 (0-2)   @ Dimotiko Stadio Serron › Serres
+    19.30     Lamia v Asteras Tripolis  2-1 (0-1)   @ Dimotiko Athlitiko Kentro Lamias › Lamia
+    20.00     PAOK v AEK Athens FC  1-1 (0-0)   @ Stadio Toumbas › Thessaloníki
+» Regular Season - 23
+  Sat Feb 17
+    19.30     Atromitos v Aris Thessalonikis  0-2 (0-1)   @ Stadio Peristeriou › Athens
+    20.30     Panathinaikos v Lamia  2-2 (1-1)   @ Stadio Apóstolos Nikolaidis › Athens
+  Sun Feb 18
+    15.30     Volos NFC v PAS Giannina  1-2 (0-1)   @ Panthessaliko Stadio › Volos
+    19.00     AEK Athens FC v Kifisia  3-0 (2-0)   @ OPAP Arena › Athens
+    20.30     PAOK v Olympiakos Piraeus  1-4 (1-1)   @ Stadio Toumbas › Thessaloníki
+  Mon Feb 19
+    17.30     OFI v Panserraikos  4-0 (3-0)   @ Stadio Thódoros Vardinoyánnis › Heraklion
+    18.00     Asteras Tripolis v Panetolikos  2-2 (1-1)   @ Stadio Theodoros Kolokotronis › Tripoli
+» Regular Season - 24
+  Sat Feb 24
+    19.00     Lamia v AEK Athens FC  1-3 (0-2)   @ Dimotiko Athlitiko Kentro Lamias › Lamia
+    19.30     Panserraikos v Atromitos  0-0 (0-0)   @ Dimotiko Stadio Serron › Serres
+  Sun Feb 25
+    16.30     PAS Giannina v OFI  2-2 (2-0)   @ Stadio Zosimades › Ioannina
+    17.00     Panetolikos v PAOK  1-3 (1-0)   @ Stadio Panetolikou › Agrinio
+    18.00     Olympiakos Piraeus v Asteras Tripolis  2-1 (0-1)   @ Stadio Georgios Karaiskáki › Piraeus
+    19.30     Aris Thessalonikis v Volos NFC  2-0 (1-0)   @ Stadio Harilaou Kleánthis Vikelídis › Thessaloníki
+    20.00     Panathinaikos v Kifisia  1-1 (1-0)   @ Stadio Apóstolos Nikolaidis › Athens
+» Regular Season - 25
+  Wed Feb 28
+    15.00     Asteras Tripolis v Kifisia  3-3 (3-2)   @ Stadio Theodoros Kolokotronis › Tripoli
+              Volos NFC v OFI  3-1 (1-1)   @ Panthessaliko Stadio › Volos
+    17.00     Atromitos v Lamia  3-1 (1-1)   @ Stadio Peristeriou › Athens
+              Panetolikos v Olympiakos Piraeus  1-2 (1-0)   @ Stadio Panetolikou › Agrinio
+    19.00     AEK Athens FC v PAS Giannina  4-2 (1-2)   @ OPAP Arena › Athens
+    20.00     Panserraikos v PAOK  0-2 (0-1)   @ Dimotiko Stadio Serron › Serres
+    21.00     Panathinaikos v Aris Thessalonikis  2-0 (1-0)   @ Stadio Apóstolos Nikolaidis › Athens
+» Regular Season - 26
+  Sun Mar 3
+    19.30     Olympiakos Piraeus v Volos NFC  3-0 (2-0)   @ Stadio Georgios Karaiskáki › Piraeus
+              PAS Giannina v Atromitos  1-1 (1-0)   @ Stadio Zosimades › Ioannina
+              Lamia v PAOK  0-2 (0-0)   @ Dimotiko Athlitiko Kentro Lamias › Lamia
+              Aris Thessalonikis v AEK Athens FC  3-3 (1-1)   @ Stadio Harilaou Kleánthis Vikelídis › Thessaloníki
+              OFI v Panathinaikos  2-2 (1-1)   @ Stadio Thódoros Vardinoyánnis › Heraklion
+              Panserraikos v Asteras Tripolis  2-1 (1-1)   @ Dimotiko Stadio Serron › Serres
+              Kifisia v Panetolikos  2-2 (1-0)   @ Stadio Kaisarianis Michalis Kritikopoulos › Athens
+» Championship Round - 1
+  Sun Mar 10
+    17.00     Lamia v AEK Athens FC  0-4 (0-1)   @ Dimotiko Athlitiko Kentro Lamias › Lamia
+    20.30     Olympiakos Piraeus v Panathinaikos  1-3 (1-2)   @ Stadio Georgios Karaiskáki › Piraeus
+    21.00     PAOK v Aris Thessalonikis  0-1 (0-1)   @ Stadio Toumbas › Thessaloníki
+» Relegation Round - 1
+  Sat Mar 16
+    17.00     Asteras Tripolis v Volos NFC  0-2 (0-0)   @ Stadio Theodoros Kolokotronis › Tripoli
+    17.30     Kifisia v OFI  0-0 (0-0)   @ Stadio Kaisarianis Michalis Kritikopoulos › Athens
+    19.30     Atromitos v PAS Giannina  3-2 (1-0)   @ Stadio Peristeriou › Athens
+    20.00     Panetolikos v Panserraikos  3-0 (2-0)   @ Stadio Panetolikou › Agrinio
+» Relegation Round - 2
+  Sat Mar 30
+    15.00     Panserraikos v Asteras Tripolis  2-0 (0-0)   @ Dimotiko Stadio Serron › Serres
+    17.30     Volos NFC v Kifisia  4-1 (3-1)   @ Panthessaliko Stadio › Volos
+    19.30     PAS Giannina v Panetolikos  1-1 (1-0)   @ Stadio Zosimades › Ioannina
+    20.00     OFI v Atromitos  0-0 (0-0)   @ Stadio Thódoros Vardinoyánnis › Heraklion
+» Championship Round - 2
+  Sun Mar 31
+    18.00     Panathinaikos v PAOK  2-3 (1-2)   @ Stadio Apóstolos Nikolaidis › Athens
+    20.30     Aris Thessalonikis v Lamia  3-1 (0-0)   @ Stadio Harilaou Kleánthis Vikelídis › Thessaloníki
+              AEK Athens FC v Olympiakos Piraeus  1-0 (0-0)   @ OPAP Arena › Athens
+» Championship Round - 3
+  Wed Apr 3
+    19.00     Olympiakos Piraeus v Aris Thessalonikis  3-0 (1-0)   @ Stadio Georgios Karaiskáki › Piraeus
+    19.30     PAOK v Lamia  3-1 (1-1)   @ Stadio Toumbas › Thessaloníki
+    21.00     Panathinaikos v AEK Athens FC  2-1 (2-1)   @ Stadio Apóstolos Nikolaidis › Athens
+» Relegation Round - 3
+  Sat Apr 6
+    17.00     Atromitos v Panserraikos  1-1 (0-1)   @ Stadio Peristeriou › Athens
+    19.30     Asteras Tripolis v Kifisia  1-2 (1-0)   @ Stadio Theodoros Kolokotronis › Tripoli
+              Panetolikos v Volos NFC  0-1 (0-1)   @ Stadio Panetolikou › Agrinio
+    20.00     OFI v PAS Giannina  4-0 (2-0)   @ Stadio Thódoros Vardinoyánnis › Heraklion
+» Championship Round - 4
+  Sun Apr 7
+    17.00     Lamia v Olympiakos Piraeus  1-5 (0-3)   @ Dimotiko Athlitiko Kentro Lamias › Lamia
+    19.30     Aris Thessalonikis v Panathinaikos  0-2 (0-0)   @ Stadio Harilaou Kleánthis Vikelídis › Thessaloníki
+    20.30     AEK Athens FC v PAOK  2-2 (1-0)   @ OPAP Arena › Athens
+» Relegation Round - 4
+  Sat Apr 13
+    15.00     Panserraikos v OFI  2-2 (2-1)   @ Dimotiko Stadio Serron › Serres
+    17.30     Volos NFC v Atromitos  2-2 (1-1)   @ Panthessaliko Stadio › Volos
+    19.30     PAS Giannina v Asteras Tripolis  0-1 (0-0)   @ Stadio Zosimades › Ioannina
+    20.00     Kifisia v Panetolikos  0-1 (0-0)   @ Stadio Kaisarianis Michalis Kritikopoulos › Athens
+» Championship Round - 5
+  Sun Apr 14
+    17.00     Panathinaikos v Lamia  3-1 (1-1)   @ Stadio Apóstolos Nikolaidis › Athens
+    20.30     AEK Athens FC v Aris Thessalonikis  2-0 (2-0)   @ OPAP Arena › Athens
+» Relegation Round - 5
+  Sat Apr 20
+    18.30     OFI v Volos NFC  2-1 (1-0)   @ Stadio Thódoros Vardinoyánnis › Heraklion
+    19.30     Atromitos v Kifisia  1-2 (1-0)   @ Stadio Peristeriou › Athens
+              Asteras Tripolis v Panetolikos  0-2 (0-1)   @ Stadio Theodoros Kolokotronis › Tripoli
+  Sun Apr 21
+    15.00     Panserraikos v PAS Giannina  2-1 (2-0)   @ Dimotiko Stadio Serron › Serres
+» Championship Round - 6
+  Sun Apr 21
+    17.00     Lamia v Panathinaikos  0-5 (0-2)   @ Dimotiko Athlitiko Kentro Lamias › Lamia
+    19.30     Aris Thessalonikis v AEK Athens FC  1-2 (1-0)   @ Stadio Harilaou Kleánthis Vikelídis › Thessaloníki
+    20.30     Olympiakos Piraeus v PAOK  2-1 (1-0)   @ Stadio Georgios Karaiskáki › Piraeus
+» Championship Round - 7
+  Wed Apr 24
+    17.00     Lamia v PAOK  1-1 (1-0)   @ Dimotiko Athlitiko Kentro Lamias › Lamia
+    19.30     Aris Thessalonikis v Olympiakos Piraeus  1-1 (0-0)   @ Stadio Harilaou Kleánthis Vikelídis › Thessaloníki
+    20.30     AEK Athens FC v Panathinaikos  3-0 (2-0)   @ OPAP Arena › Athens
+» Relegation Round - 6
+  Sat Apr 27
+    20.00     Asteras Tripolis v OFI  1-1 (1-0)   @ Stadio Theodoros Kolokotronis › Tripoli
+              Volos NFC v Panserraikos  1-0 (0-0)   @ Panthessaliko Stadio › Volos
+              Kifisia v PAS Giannina  2-3 (1-1)   @ Stadio Kaisarianis Michalis Kritikopoulos › Athens
+              Panetolikos v Atromitos  1-0 (0-0)   @ Stadio Panetolikou › Agrinio
+» Championship Round - 8
+  Sun Apr 28
+    17.00     Olympiakos Piraeus v Lamia  4-1 (2-0)   @ Stadio Georgios Karaiskáki › Piraeus
+    19.30     PAOK v AEK Athens FC  3-2 (1-1)   @ Stadio Toumbas › Thessaloníki
+    20.30     Panathinaikos v Aris Thessalonikis  0-1 (0-1)   @ Stadio Apóstolos Nikolaidis › Athens
+» Relegation Round - 7
+  Sat May 11
+    20.00     OFI v Panetolikos  1-2 (0-1)   @ Stadio Thódoros Vardinoyánnis › Heraklion
+              Panserraikos v Kifisia  2-0 (0-0)   @ Dimotiko Stadio Serron › Serres
+              Atromitos v Asteras Tripolis  0-1 (0-0)   @ Stadio Peristeriou › Athens
+              PAS Giannina v Volos NFC  1-1 (0-0)   @ Stadio Zosimades › Ioannina
+» Championship Round - 5
+  Sun May 12
+    20.00     PAOK v Olympiakos Piraeus  2-0 (1-0)   @ Stadio Toumbas › Thessaloníki
+» Championship Round - 9
+  Wed May 15
+    18.00     Lamia v Aris Thessalonikis  2-4 (2-0)   @ Dimotiko Athlitiko Kentro Lamias › Lamia
+    20.00     PAOK v Panathinaikos  4-1 (1-0)   @ Stadio Toumbas › Thessaloníki
+              Olympiakos Piraeus v AEK Athens FC  2-0 (0-0)   @ Stadio Georgios Karaiskáki › Piraeus
+» Championship Round - 10
+  Sun May 19
+    20.00     Panathinaikos v Olympiakos Piraeus  2-2 (1-0)   @ Stadio Apóstolos Nikolaidis › Athens
+              Aris Thessalonikis v PAOK  1-2 (0-1)   @ Stadio Harilaou Kleánthis Vikelídis › Thessaloníki
+              AEK Athens FC v Lamia  3-0 (2-0)   @ OPAP Arena › Athens

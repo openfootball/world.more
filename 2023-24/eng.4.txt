@@ -1,0 +1,738 @@
+= England | League Two 2023/24
+
+  # Date       Sat Aug/5 2023 - Sun May/19 2024 (288d)
+  # Teams      24
+  # Matches    557
+
+  # Note - All times in Europe/London
+
+» Regular Season - 1
+  Sat Aug 5 2023
+    15.00     Doncaster v Harrogate Town  0-1 (0-0)   @ Eco-Power Stadium › Doncaster, South Yorkshire
+  Sat Aug 5
+    15.00     Accrington ST v Newport County  3-0 (1-0)   @ Wham Stadium › Accrington, Lancashire
+              Crawley Town v Bradford  1-0 (1-0)   @ Broadfield Stadium › Crawley, West Sussex
+              Crewe v Mansfield Town  2-2 (1-2)   @ Mornflake Stadium › Crewe, Cheshire
+              Grimsby v AFC Wimbledon  0-0 (0-0)   @ Blundell Park › Cleethorpes, North East Lincolnshire
+              Morecambe v Walsall  2-1 (1-1)   @ Mazuma Stadium › Morecambe, Lancashire
+              Forest Green v Salford City  0-2 (0-0)   @ The Bolt New Lawn › Nailsworth, Gloucestershire
+              Tranmere v Barrow  1-2 (0-1)   @ Prenton Park › Birkenhead, Merseyside
+              Sutton Utd v Notts County  5-1 (2-0)   @ VBS Community Stadium › Sutton, Surrey
+              Wrexham v Milton Keynes Dons  3-5 (1-2)   @ STōK Cae Ras › Wrecsam
+              Stockport County v Gillingham  0-1 (0-0)   @ Edgeley Park › Stockport, Greater Manchester
+» Regular Season - 2
+  Sat Aug 12
+    15.00     AFC Wimbledon v Wrexham  1-1 (0-1)   @ The Cherry Red Records Stadium › London
+              Walsall v Stockport County  2-1 (1-0)   @ Poundland Bescot Stadium › Walsall, West Midlands
+              Bradford v Colchester  2-1 (1-1)   @ University of Bradford Stadium › Bradford, West Yorkshire
+              Gillingham v Accrington ST  1-0 (1-0)   @ Priestfield Stadium › Gillingham, Kent
+              Milton Keynes Dons v Tranmere  1-0 (1-0)   @ Stadium mk › Milton Keynes, Buckinghamshire
+              Swindon Town v Crewe  2-2 (1-0)   @ The County Ground › Swindon, Wiltshire
+              Newport County v Doncaster  4-0 (3-0)   @ Rodney Parade › Casnewydd
+              Mansfield Town v Morecambe  3-0 (1-0)   @ One Call Stadium › Mansfield, Nottinghamshire
+              Notts County v Grimsby  3-2 (1-2)   @ Meadow Lane › Nottingham, Nottinghamshire
+              Barrow v Sutton Utd  2-1 (0-1)   @ SO Legal Stadium › Barrow-in-Furness, Cumbria
+              Harrogate Town v Forest Green  0-1 (0-0)   @ EnviroVent Stadium › Harrogate, North Yorkshire
+              Salford City v Crawley Town  1-1 (0-1)   @ The Peninsula Stadium › Salford, Greater Manchester
+» Regular Season - 3
+  Tue Aug 15
+    19.45     Doncaster v Mansfield Town  2-2 (1-1)   @ Eco-Power Stadium › Doncaster, South Yorkshire
+              Accrington ST v Barrow  1-1 (1-0)   @ Wham Stadium › Accrington, Lancashire
+              Colchester v AFC Wimbledon  0-2 (0-0)   @ JobServe Community Stadium › Colchester, Essex
+              Crawley Town v Milton Keynes Dons  2-1 (1-1)   @ Broadfield Stadium › Crawley, West Sussex
+              Crewe v Newport County  4-2 (1-1)   @ Mornflake Stadium › Crewe, Cheshire
+              Grimsby v Salford City  2-0 (1-0)   @ Blundell Park › Cleethorpes, North East Lincolnshire
+              Morecambe v Notts County  0-0 (0-0)   @ Mazuma Stadium › Morecambe, Lancashire
+              Forest Green v Swindon Town  1-2 (1-0)   @ The Bolt New Lawn › Nailsworth, Gloucestershire
+              Tranmere v Harrogate Town  3-0 (2-0)   @ Prenton Park › Birkenhead, Merseyside
+              Sutton Utd v Gillingham  0-1 (0-1)   @ VBS Community Stadium › Sutton, Surrey
+              Wrexham v Walsall  4-2 (2-1)   @ STōK Cae Ras › Wrecsam
+              Stockport County v Bradford  1-1 (0-0)   @ Edgeley Park › Stockport, Greater Manchester
+» Regular Season - 4
+  Sat Aug 19
+    15.00     Doncaster v Notts County  1-3 (0-1)   @ Eco-Power Stadium › Doncaster, South Yorkshire
+              Accrington ST v Harrogate Town  2-1 (1-0)   @ Wham Stadium › Accrington, Lancashire
+              Colchester v Milton Keynes Dons  2-3 (2-1)   @ JobServe Community Stadium › Colchester, Essex
+              Crawley Town v Gillingham  0-1 (0-1)   @ Broadfield Stadium › Crawley, West Sussex
+              Crewe v Walsall  2-2 (0-2)   @ Mornflake Stadium › Crewe, Cheshire
+              Grimsby v Mansfield Town  1-1 (1-0)   @ Blundell Park › Cleethorpes, North East Lincolnshire
+              Morecambe v Bradford  3-0 (1-0)   @ Mazuma Stadium › Morecambe, Lancashire
+              Forest Green v Newport County  0-3 (0-2)   @ The Bolt New Lawn › Nailsworth, Gloucestershire
+              Tranmere v Salford City  3-4 (2-1)   @ Prenton Park › Birkenhead, Merseyside
+              Sutton Utd v AFC Wimbledon  0-3 (0-0)   @ VBS Community Stadium › Sutton, Surrey
+              Wrexham v Swindon Town  5-5 (1-4)   @ STōK Cae Ras › Wrecsam
+              Stockport County v Barrow  1-0 (0-0)   @ Edgeley Park › Stockport, Greater Manchester
+» Regular Season - 5
+  Sat Aug 26
+    15.00     AFC Wimbledon v Forest Green  1-1 (1-0)   @ The Cherry Red Records Stadium › London
+              Walsall v Grimsby  1-1 (0-0)   @ Poundland Bescot Stadium › Walsall, West Midlands
+              Bradford v Crewe  1-0 (1-0)   @ University of Bradford Stadium › Bradford, West Yorkshire
+              Gillingham v Colchester  0-3 (0-0)   @ Priestfield Stadium › Gillingham, Kent
+              Milton Keynes Dons v Doncaster  2-1 (2-0)   @ Stadium mk › Milton Keynes, Buckinghamshire
+              Swindon Town v Crawley Town  6-0 (1-0)   @ The County Ground › Swindon, Wiltshire
+              Newport County v Sutton Utd  3-1 (0-0)   @ Rodney Parade › Casnewydd
+              Mansfield Town v Stockport County  3-2 (1-2)   @ One Call Stadium › Mansfield, Nottinghamshire
+              Notts County v Tranmere  2-1 (1-0)   @ Meadow Lane › Nottingham, Nottinghamshire
+              Barrow v Wrexham  1-1 (0-1)   @ SO Legal Stadium › Barrow-in-Furness, Cumbria
+              Harrogate Town v Morecambe  2-0 (1-0)   @ EnviroVent Stadium › Harrogate, North Yorkshire
+              Salford City v Accrington ST  1-2 (0-2)   @ The Peninsula Stadium › Salford, Greater Manchester
+» Regular Season - 6
+  Sat Sep 2
+    12.30     Tranmere v Wrexham  0-1 (0-0)   @ Prenton Park › Birkenhead, Merseyside
+    15.00     Walsall v Colchester  1-0 (0-0)   @ Poundland Bescot Stadium › Walsall, West Midlands
+              Doncaster v Swindon Town  0-0 (0-0)   @ Eco-Power Stadium › Doncaster, South Yorkshire
+              Crewe v Milton Keynes Dons  3-1 (0-1)   @ Mornflake Stadium › Crewe, Cheshire
+              Grimsby v Gillingham  2-0 (2-0)   @ Blundell Park › Cleethorpes, North East Lincolnshire
+              Newport County v AFC Wimbledon  2-2 (1-2)   @ Rodney Parade › Casnewydd
+              Mansfield Town v Bradford  0-0 (0-0)   @ One Call Stadium › Mansfield, Nottinghamshire
+              Morecambe v Salford City  1-0 (1-0)   @ Mazuma Stadium › Morecambe, Lancashire
+              Notts County v Accrington ST  3-1 (1-1)   @ Meadow Lane › Nottingham, Nottinghamshire
+              Sutton Utd v Forest Green  0-1 (0-0)   @ VBS Community Stadium › Sutton, Surrey
+              Harrogate Town v Barrow  0-1 (0-1)   @ EnviroVent Stadium › Harrogate, North Yorkshire
+              Stockport County v Crawley Town  3-3 (2-1)   @ Edgeley Park › Stockport, Greater Manchester
+» Regular Season - 7
+  Sat Sep 9
+    12.30     Bradford v Grimsby  1-1 (0-1)   @ University of Bradford Stadium › Bradford, West Yorkshire
+    15.00     AFC Wimbledon v Stockport County  1-2 (1-0)   @ The Cherry Red Records Stadium › London
+              Gillingham v Harrogate Town  1-0 (0-0)   @ Priestfield Stadium › Gillingham, Kent
+              Milton Keynes Dons v Notts County  1-1 (0-0)   @ Stadium mk › Milton Keynes, Buckinghamshire
+              Swindon Town v Sutton Utd  5-3 (3-2)   @ The County Ground › Swindon, Wiltshire
+              Accrington ST v Mansfield Town  0-3 (0-2)   @ Wham Stadium › Accrington, Lancashire
+              Colchester v Tranmere  2-0 (1-0)   @ JobServe Community Stadium › Colchester, Essex
+              Crawley Town v Newport County  4-1 (1-1)   @ Broadfield Stadium › Crawley, West Sussex
+              Forest Green v Crewe  1-4 (1-0)   @ The Bolt New Lawn › Nailsworth, Gloucestershire
+              Wrexham v Doncaster  2-1 (1-0)   @ STōK Cae Ras › Wrecsam
+              Salford City v Walsall  1-2 (1-0)   @ The Peninsula Stadium › Salford, Greater Manchester
+» Regular Season - 8
+  Fri Sep 15
+    19.45     Salford City v Notts County  0-2 (0-1)   @ The Peninsula Stadium › Salford, Greater Manchester
+  Sat Sep 16
+    15.00     AFC Wimbledon v Crewe  2-2 (2-0)   @ The Cherry Red Records Stadium › London
+              Bradford v Harrogate Town  1-1 (0-0)   @ University of Bradford Stadium › Bradford, West Yorkshire
+              Gillingham v Morecambe  2-1 (2-1)   @ Priestfield Stadium › Gillingham, Kent
+              Milton Keynes Dons v Stockport County  1-2 (1-2)   @ Stadium mk › Milton Keynes, Buckinghamshire
+              Swindon Town v Walsall  2-0 (1-0)   @ The County Ground › Swindon, Wiltshire
+              Accrington ST v Sutton Utd  4-1 (1-0)   @ Wham Stadium › Accrington, Lancashire
+              Colchester v Mansfield Town  1-1 (1-0)   @ JobServe Community Stadium › Colchester, Essex
+              Crawley Town v Tranmere  3-2 (0-1)   @ Broadfield Stadium › Crawley, West Sussex
+              Forest Green v Doncaster  1-2 (0-1)   @ The Bolt New Lawn › Nailsworth, Gloucestershire
+              Wrexham v Grimsby  3-0 (2-0)   @ STōK Cae Ras › Wrecsam
+» Regular Season - 40
+  Sat Sep 16
+    15.00     Newport County v Barrow  1-1 (1-0)   @ Rodney Parade › Casnewydd
+» Regular Season - 9
+  Sat Sep 23
+    15.00     Walsall v AFC Wimbledon  1-3 (0-1)   @ Poundland Bescot Stadium › Walsall, West Midlands
+              Doncaster v Gillingham  2-1 (1-1)   @ Eco-Power Stadium › Doncaster, South Yorkshire
+              Crewe v Colchester  2-1 (2-0)   @ Mornflake Stadium › Crewe, Cheshire
+              Grimsby v Crawley Town  2-3 (2-2)   @ Blundell Park › Cleethorpes, North East Lincolnshire
+              Newport County v Bradford  1-4 (1-3)   @ Rodney Parade › Casnewydd
+              Mansfield Town v Barrow  1-0 (0-0)   @ One Call Stadium › Mansfield, Nottinghamshire
+              Morecambe v Swindon Town  2-2 (1-1)   @ Mazuma Stadium › Morecambe, Lancashire
+              Notts County v Forest Green  4-3 (2-0)   @ Meadow Lane › Nottingham, Nottinghamshire
+              Tranmere v Accrington ST  2-0 (1-0)   @ Prenton Park › Birkenhead, Merseyside
+              Sutton Utd v Milton Keynes Dons  1-1 (1-0)   @ VBS Community Stadium › Sutton, Surrey
+              Harrogate Town v Salford City  3-2 (2-1)   @ EnviroVent Stadium › Harrogate, North Yorkshire
+              Stockport County v Wrexham  5-0 (3-0)   @ Edgeley Park › Stockport, Greater Manchester
+» Regular Season - 10
+  Sat Sep 30
+    15.00     AFC Wimbledon v Tranmere  4-1 (2-1)   @ The Cherry Red Records Stadium › London
+              Bradford v Walsall  1-3 (1-2)   @ University of Bradford Stadium › Bradford, West Yorkshire
+              Gillingham v Mansfield Town  1-1 (1-1)   @ Priestfield Stadium › Gillingham, Kent
+              Milton Keynes Dons v Harrogate Town  0-1 (0-1)   @ Stadium mk › Milton Keynes, Buckinghamshire
+              Swindon Town v Grimsby  2-1 (1-0)   @ The County Ground › Swindon, Wiltshire
+              Accrington ST v Stockport County  1-3 (0-2)   @ Wham Stadium › Accrington, Lancashire
+              Colchester v Notts County  5-4 (3-1)   @ JobServe Community Stadium › Colchester, Essex
+              Crawley Town v Sutton Utd  3-0 (1-0)   @ Broadfield Stadium › Crawley, West Sussex
+              Forest Green v Morecambe  1-2 (0-1)   @ The Bolt New Lawn › Nailsworth, Gloucestershire
+              Barrow v Doncaster  3-2 (1-0)   @ SO Legal Stadium › Barrow-in-Furness, Cumbria
+              Wrexham v Crewe  3-3 (1-2)   @ STōK Cae Ras › Wrecsam
+              Salford City v Newport County  2-1 (2-1)   @ The Peninsula Stadium › Salford, Greater Manchester
+» Regular Season - 11
+  Tue Oct 3
+    19.45     Walsall v Milton Keynes Dons  0-0 (0-0)   @ Poundland Bescot Stadium › Walsall, West Midlands
+              Doncaster v Crawley Town  2-0 (1-0)   @ Eco-Power Stadium › Doncaster, South Yorkshire
+              Crewe v Gillingham  2-0 (1-0)   @ Mornflake Stadium › Crewe, Cheshire
+              Grimsby v Barrow  2-1 (1-0)   @ Blundell Park › Cleethorpes, North East Lincolnshire
+              Newport County v Colchester  2-1 (1-1)   @ Rodney Parade › Casnewydd
+              Mansfield Town v Wrexham  0-0 (0-0)   @ One Call Stadium › Mansfield, Nottinghamshire
+              Morecambe v Accrington ST  1-1 (0-0)   @ Mazuma Stadium › Morecambe, Lancashire
+              Notts County v Swindon Town  3-1 (3-0)   @ Meadow Lane › Nottingham, Nottinghamshire
+              Tranmere v Bradford  2-1 (1-0)   @ Prenton Park › Birkenhead, Merseyside
+              Sutton Utd v Salford City  0-2 (0-0)   @ VBS Community Stadium › Sutton, Surrey
+              Harrogate Town v AFC Wimbledon  0-1 (0-1)   @ EnviroVent Stadium › Harrogate, North Yorkshire
+              Stockport County v Forest Green  2-0 (2-0)   @ Edgeley Park › Stockport, Greater Manchester
+» Regular Season - 12
+  Sat Oct 7
+    15.00     Bradford v Swindon Town  1-0 (0-0)   @ University of Bradford Stadium › Bradford, West Yorkshire
+              Gillingham v Milton Keynes Dons  2-1 (1-0)   @ Priestfield Stadium › Gillingham, Kent
+              Accrington ST v Forest Green  2-1 (1-0)   @ Wham Stadium › Accrington, Lancashire
+              Colchester v Morecambe  1-3 (0-1)   @ JobServe Community Stadium › Colchester, Essex
+              Crawley Town v Wrexham  0-1 (0-1)   @ Broadfield Stadium › Crawley, West Sussex
+              Newport County v Harrogate Town  1-2 (0-1)   @ Rodney Parade › Casnewydd
+              Mansfield Town v AFC Wimbledon  0-0 (0-0)   @ One Call Stadium › Mansfield, Nottinghamshire
+              Tranmere v Grimsby  2-2 (1-2)   @ Prenton Park › Birkenhead, Merseyside
+              Barrow v Notts County  1-1 (0-1)   @ SO Legal Stadium › Barrow-in-Furness, Cumbria
+              Sutton Utd v Walsall  4-0 (4-0)   @ VBS Community Stadium › Sutton, Surrey
+              Salford City v Crewe  4-2 (1-1)   @ The Peninsula Stadium › Salford, Greater Manchester
+              Stockport County v Doncaster  1-0 (0-0)   @ Edgeley Park › Stockport, Greater Manchester
+» Regular Season - 13
+  Sat Oct 14
+    12.30     Notts County v Mansfield Town  1-4 (1-1)   @ Meadow Lane › Nottingham, Nottinghamshire
+    15.00     AFC Wimbledon v Bradford  0-1 (0-0)   @ The Cherry Red Records Stadium › London
+              Walsall v Gillingham  4-1 (2-0)   @ Poundland Bescot Stadium › Walsall, West Midlands
+              Milton Keynes Dons v Barrow  2-2 (2-0)   @ Stadium mk › Milton Keynes, Buckinghamshire
+              Swindon Town v Newport County  2-0 (1-0)   @ The County Ground › Swindon, Wiltshire
+              Doncaster v Sutton Utd  4-1 (1-0)   @ Eco-Power Stadium › Doncaster, South Yorkshire
+              Crewe v Tranmere  2-0 (1-0)   @ Mornflake Stadium › Crewe, Cheshire
+              Grimsby v Accrington ST  0-2 (0-0)   @ Blundell Park › Cleethorpes, North East Lincolnshire
+              Forest Green v Colchester  5-0 (1-0)   @ The Bolt New Lawn › Nailsworth, Gloucestershire
+              Wrexham v Salford City  3-2 (1-2)   @ STōK Cae Ras › Wrecsam
+              Harrogate Town v Stockport County  1-3 (0-1)   @ EnviroVent Stadium › Harrogate, North Yorkshire
+» Regular Season - 14
+  Fri Oct 20
+    19.45     Newport County v Walsall  3-3 (2-1)   @ Rodney Parade › Casnewydd
+              Tranmere v Doncaster  1-2 (0-1)   @ Prenton Park › Birkenhead, Merseyside
+  Sat Oct 21
+    15.00     Bradford v Wrexham  1-1 (0-0)   @ University of Bradford Stadium › Bradford, West Yorkshire
+              Gillingham v Notts County  1-2 (0-1)   @ Priestfield Stadium › Gillingham, Kent
+              Accrington ST v Milton Keynes Dons  1-0 (1-0)   @ Wham Stadium › Accrington, Lancashire
+              Colchester v Harrogate Town  1-2 (0-0)   @ JobServe Community Stadium › Colchester, Essex
+              Crawley Town v Crewe  2-4 (2-1)   @ Broadfield Stadium › Crawley, West Sussex
+              Barrow v AFC Wimbledon  0-0 (0-0)   @ SO Legal Stadium › Barrow-in-Furness, Cumbria
+              Sutton Utd v Morecambe  2-3 (1-2)   @ VBS Community Stadium › Sutton, Surrey
+              Salford City v Swindon Town  2-2 (1-1)   @ The Peninsula Stadium › Salford, Greater Manchester
+              Stockport County v Grimsby  3-2 (2-1)   @ Edgeley Park › Stockport, Greater Manchester
+» Regular Season - 15
+  Tue Oct 24
+    19.45     AFC Wimbledon v Accrington ST  2-4 (0-2)   @ The Cherry Red Records Stadium › London
+              Walsall v Crawley Town  1-1 (0-0)   @ Poundland Bescot Stadium › Walsall, West Midlands
+              Milton Keynes Dons v Bradford  4-1 (2-1)   @ Stadium mk › Milton Keynes, Buckinghamshire
+              Swindon Town v Gillingham  0-1 (0-1)   @ The County Ground › Swindon, Wiltshire
+              Doncaster v Salford City  0-3 (0-2)   @ Eco-Power Stadium › Doncaster, South Yorkshire
+              Crewe v Stockport County  0-2 (0-0)   @ Mornflake Stadium › Crewe, Cheshire
+              Grimsby v Colchester  2-3 (1-2)   @ Blundell Park › Cleethorpes, North East Lincolnshire
+              Morecambe v Tranmere  1-0 (0-0)   @ Mazuma Stadium › Morecambe, Lancashire
+              Notts County v Newport County  3-0 (2-0)   @ Meadow Lane › Nottingham, Nottinghamshire
+              Forest Green v Barrow  0-2 (0-2)   @ The Bolt New Lawn › Nailsworth, Gloucestershire
+              Wrexham v Sutton Utd  2-1 (1-0)   @ STōK Cae Ras › Wrecsam
+              Harrogate Town v Mansfield Town  1-4 (0-3)   @ EnviroVent Stadium › Harrogate, North Yorkshire
+» Regular Season - 16
+  Sat Oct 28
+    15.00     Gillingham v Newport County  0-2 (0-2)   @ Priestfield Stadium › Gillingham, Kent
+              Milton Keynes Dons v Swindon Town  3-2 (1-0)   @ Stadium mk › Milton Keynes, Buckinghamshire
+              Doncaster v Grimsby  1-0 (0-0)   @ Eco-Power Stadium › Doncaster, South Yorkshire
+              Accrington ST v Colchester  0-1 (0-0)   @ Wham Stadium › Accrington, Lancashire
+              Mansfield Town v Walsall  2-1 (1-0)   @ One Call Stadium › Mansfield, Nottinghamshire
+              Morecambe v AFC Wimbledon  4-1 (0-0)   @ Mazuma Stadium › Morecambe, Lancashire
+              Notts County v Wrexham  0-2 (0-0)   @ Meadow Lane › Nottingham, Nottinghamshire
+              Forest Green v Crawley Town  2-1 (2-1)   @ The Bolt New Lawn › Nailsworth, Gloucestershire
+              Barrow v Salford City  0-0 (0-0)   @ SO Legal Stadium › Barrow-in-Furness, Cumbria
+              Sutton Utd v Bradford  2-1 (1-0)   @ VBS Community Stadium › Sutton, Surrey
+              Harrogate Town v Crewe  0-1 (0-1)   @ EnviroVent Stadium › Harrogate, North Yorkshire
+              Stockport County v Tranmere  2-0 (1-0)   @ Edgeley Park › Stockport, Greater Manchester
+» Regular Season - 7
+  Tue Oct 31
+    19.45     Barrow v Morecambe  1-0 (1-0)   @ SO Legal Stadium › Barrow-in-Furness, Cumbria
+» Regular Season - 1
+  Tue Nov 7
+    19.45     Colchester v Swindon Town  3-1 (0-1)   @ JobServe Community Stadium › Colchester, Essex
+» Regular Season - 17
+  Sat Nov 11
+    15.00     AFC Wimbledon v Doncaster  2-0 (1-0)   @ The Cherry Red Records Stadium › London
+              Walsall v Harrogate Town  0-1 (0-0)   @ Poundland Bescot Stadium › Walsall, West Midlands
+              Bradford v Barrow  1-2 (1-1)   @ University of Bradford Stadium › Bradford, West Yorkshire
+              Swindon Town v Stockport County  2-4 (1-0)   @ The County Ground › Swindon, Wiltshire
+              Colchester v Sutton Utd  1-1 (0-0)   @ JobServe Community Stadium › Colchester, Essex
+              Crawley Town v Accrington ST  3-1 (1-1)   @ Broadfield Stadium › Crawley, West Sussex
+              Crewe v Notts County  1-0 (0-0)   @ Mornflake Stadium › Crewe, Cheshire
+              Grimsby v Morecambe  3-2 (0-1)   @ Blundell Park › Cleethorpes, North East Lincolnshire
+              Newport County v Milton Keynes Dons  0-0 (0-0)   @ Rodney Parade › Casnewydd
+              Tranmere v Forest Green  3-0 (1-0)   @ Prenton Park › Birkenhead, Merseyside
+              Wrexham v Gillingham  2-0 (1-0)   @ STōK Cae Ras › Wrecsam
+              Salford City v Mansfield Town  1-2 (1-2)   @ The Peninsula Stadium › Salford, Greater Manchester
+» Regular Season - 18
+  Sat Nov 18
+    12.30     Notts County v Bradford  4-2 (4-0)   @ Meadow Lane › Nottingham, Nottinghamshire
+    15.00     Gillingham v Salford City  3-1 (1-1)   @ Priestfield Stadium › Gillingham, Kent
+              Accrington ST v Wrexham  2-0 (0-0)   @ Wham Stadium › Accrington, Lancashire
+              Mansfield Town v Newport County  2-0 (1-0)   @ One Call Stadium › Mansfield, Nottinghamshire
+              Forest Green v Grimsby  2-2 (2-0)   @ The Bolt New Lawn › Nailsworth, Gloucestershire
+              Barrow v Crawley Town  1-0 (0-0)   @ SO Legal Stadium › Barrow-in-Furness, Cumbria
+              Sutton Utd v Tranmere  1-1 (0-1)   @ VBS Community Stadium › Sutton, Surrey
+              Harrogate Town v Swindon Town  1-1 (0-1)   @ EnviroVent Stadium › Harrogate, North Yorkshire
+              Stockport County v Colchester  2-0 (1-0)   @ Edgeley Park › Stockport, Greater Manchester
+» Regular Season - 19
+  Sat Nov 25
+    15.00     AFC Wimbledon v Notts County  4-2 (2-0)   @ The Cherry Red Records Stadium › London
+              Walsall v Forest Green  0-0 (0-0)   @ Poundland Bescot Stadium › Walsall, West Midlands
+              Bradford v Accrington ST  1-0 (0-0)   @ University of Bradford Stadium › Bradford, West Yorkshire
+              Swindon Town v Mansfield Town  2-1 (1-0)   @ The County Ground › Swindon, Wiltshire
+              Colchester v Barrow  1-4 (1-0)   @ JobServe Community Stadium › Colchester, Essex
+              Crawley Town v Harrogate Town  2-1 (1-1)   @ Broadfield Stadium › Crawley, West Sussex
+              Crewe v Doncaster  3-2 (2-1)   @ Mornflake Stadium › Crewe, Cheshire
+              Grimsby v Sutton Utd  1-1 (1-1)   @ Blundell Park › Cleethorpes, North East Lincolnshire
+              Newport County v Stockport County  2-1 (1-0)   @ Rodney Parade › Casnewydd
+              Tranmere v Gillingham  3-1 (1-0)   @ Prenton Park › Birkenhead, Merseyside
+              Wrexham v Morecambe  6-0 (3-0)   @ STōK Cae Ras › Wrecsam
+              Salford City v Milton Keynes Dons  2-4 (2-1)   @ The Peninsula Stadium › Salford, Greater Manchester
+» Regular Season - 20
+  Tue Nov 28
+    19.45     Gillingham v AFC Wimbledon  1-0 (0-0)   @ Priestfield Stadium › Gillingham, Kent
+              Milton Keynes Dons v Grimsby  1-1 (0-1)   @ Stadium mk › Milton Keynes, Buckinghamshire
+              Doncaster v Colchester  3-1 (1-1)   @ Eco-Power Stadium › Doncaster, South Yorkshire
+              Accrington ST v Swindon Town  3-4 (0-2)   @ Wham Stadium › Accrington, Lancashire
+              Mansfield Town v Tranmere  2-2 (1-1)   @ One Call Stadium › Mansfield, Nottinghamshire
+              Morecambe v Newport County  1-2 (1-1)   @ Mazuma Stadium › Morecambe, Lancashire
+              Notts County v Crawley Town  3-1 (1-1)   @ Meadow Lane › Nottingham, Nottinghamshire
+              Forest Green v Bradford  0-3 (0-2)   @ The Bolt New Lawn › Nailsworth, Gloucestershire
+              Barrow v Walsall  2-0 (1-0)   @ SO Legal Stadium › Barrow-in-Furness, Cumbria
+              Sutton Utd v Crewe  1-1 (1-1)   @ VBS Community Stadium › Sutton, Surrey
+              Harrogate Town v Wrexham  2-2 (1-2)   @ EnviroVent Stadium › Harrogate, North Yorkshire
+              Stockport County v Salford City  0-0 (0-0)   @ Edgeley Park › Stockport, Greater Manchester
+» Regular Season - 21
+  Sat Dec 9
+    15.00     Accrington ST v Doncaster  0-0 (0-0)   @ Wham Stadium › Accrington, Lancashire
+              Colchester v Crawley Town  1-2 (0-1)   @ JobServe Community Stadium › Colchester, Essex
+              Grimsby v Crewe  2-1 (2-0)   @ Blundell Park › Cleethorpes, North East Lincolnshire
+              Morecambe v Stockport County  1-1 (0-0)   @ Mazuma Mobile Stadium › Morecambe, Lancashire
+              Notts County v Walsall  1-2 (1-0)   @ Meadow Lane › Nottingham, Nottinghamshire
+              Tranmere v Newport County  2-1 (0-1)   @ Prenton Park › Birkenhead, Merseyside
+              AFC Wimbledon v Swindon Town  4-0 (1-0)   @ The Cherry Red Records Stadium › London
+» Regular Season - 22
+  Sat Dec 16
+    15.00     Walsall v Tranmere  1-0 (0-0)   @ Poundland Bescot Stadium › Walsall, West Midlands
+              Gillingham v Bradford  0-2 (0-1)   @ Priestfield Stadium › Gillingham, Kent
+              Milton Keynes Dons v Forest Green  2-0 (2-0)   @ Stadium mk › Milton Keynes, Buckinghamshire
+              Swindon Town v Barrow  0-3 (0-1)   @ The County Ground › Swindon, Wiltshire
+              Doncaster v Morecambe  0-5 (0-2)   @ Eco-Power Stadium › Doncaster, South Yorkshire
+              Crawley Town v Mansfield Town  1-3 (1-1)   @ Broadfield Stadium › Crawley, West Sussex
+              Crewe v Accrington ST  3-3 (2-1)   @ Mornflake Stadium › Crewe, Cheshire
+              Newport County v Grimsby  1-1 (0-0)   @ Rodney Parade › Casnewydd
+              Wrexham v Colchester  2-1 (1-0)   @ STōK Cae Ras › Wrecsam
+              Harrogate Town v Notts County  3-1 (2-0)   @ EnviroVent Stadium › Harrogate, North Yorkshire
+              Salford City v AFC Wimbledon  0-0 (0-0)   @ The Peninsula Stadium › Salford, Greater Manchester
+              Stockport County v Sutton Utd  8-0 (4-0)   @ Edgeley Park › Stockport, Greater Manchester
+» Regular Season - 23
+  Fri Dec 22
+    19.00     Forest Green v Gillingham  0-0 (0-0)   @ The Bolt New Lawn › Nailsworth, Gloucestershire
+    19.45     Colchester v Salford City  2-1 (1-0)   @ JobServe Community Stadium › Colchester, Essex
+              Crawley Town v AFC Wimbledon  1-2 (0-2)   @ Broadfield Stadium › Crawley, West Sussex
+              Crewe v Barrow  1-3 (0-1)   @ Mornflake Stadium › Crewe, Cheshire
+              Stockport County v Notts County  2-1 (1-0)   @ Edgeley Park › Stockport, Greater Manchester
+              Doncaster v Bradford  1-3 (1-2)   @ Eco-Power Stadium › Doncaster, South Yorkshire
+  Sat Dec 23
+    15.00     Accrington ST v Walsall  2-1 (1-1)   @ Wham Stadium › Accrington, Lancashire
+              Grimsby v Harrogate Town  1-2 (0-1)   @ Blundell Park › Cleethorpes, North East Lincolnshire
+              Morecambe v Milton Keynes Dons  1-3 (0-1)   @ Mazuma Mobile Stadium › Morecambe, Lancashire
+              Tranmere v Swindon Town  2-1 (0-1)   @ Prenton Park › Birkenhead, Merseyside
+              Sutton Utd v Mansfield Town  0-2 (0-1)   @ VBS Community Stadium › Sutton, Surrey
+              Wrexham v Newport County  2-0 (0-0)   @ STōK Cae Ras › Wrecsam
+» Regular Season - 24
+  Tue Dec 26
+    12.30     Mansfield Town v Grimsby  2-0 (2-0)   @ One Call Stadium › Mansfield, Nottinghamshire
+    13.00     Gillingham v Crawley Town  0-2 (0-1)   @ Priestfield Stadium › Gillingham, Kent
+    15.00     AFC Wimbledon v Sutton Utd  0-1 (0-0)   @ The Cherry Red Records Stadium › London
+              Walsall v Crewe  2-0 (1-0)   @ Poundland Bescot Stadium › Walsall, West Midlands
+              Bradford v Morecambe  2-2 (0-2)   @ University of Bradford Stadium › Bradford, West Yorkshire
+              Milton Keynes Dons v Colchester  1-0 (0-0)   @ Stadium mk › Milton Keynes, Buckinghamshire
+              Swindon Town v Wrexham  0-1 (0-1)   @ The County Ground › Swindon, Wiltshire
+              Newport County v Forest Green  4-2 (0-2)   @ Rodney Parade › Casnewydd
+              Notts County v Doncaster  3-0 (2-0)   @ Meadow Lane › Nottingham, Nottinghamshire
+              Barrow v Stockport County  2-2 (2-1)   @ SO Legal Stadium › Barrow-in-Furness, Cumbria
+              Harrogate Town v Accrington ST  2-1 (0-0)   @ EnviroVent Stadium › Harrogate, North Yorkshire
+              Salford City v Tranmere  1-5 (0-2)   @ The Peninsula Stadium › Salford, Greater Manchester
+» Regular Season - 25
+  Fri Dec 29
+    19.45     AFC Wimbledon v Colchester  5-3 (2-2)   @ The Cherry Red Records Stadium › London
+              Walsall v Wrexham  3-1 (1-1)   @ Poundland Bescot Stadium › Walsall, West Midlands
+              Bradford v Stockport County  0-0 (0-0)   @ University of Bradford Stadium › Bradford, West Yorkshire
+              Gillingham v Sutton Utd  1-0 (0-0)   @ Priestfield Stadium › Gillingham, Kent
+              Milton Keynes Dons v Crawley Town  2-0 (1-0)   @ Stadium mk › Milton Keynes, Buckinghamshire
+              Swindon Town v Forest Green  2-1 (0-0)   @ The County Ground › Swindon, Wiltshire
+              Newport County v Crewe  1-1 (0-0)   @ Rodney Parade › Casnewydd
+              Mansfield Town v Doncaster  1-1 (1-0)   @ One Call Stadium › Mansfield, Nottinghamshire
+              Notts County v Morecambe  5-0 (4-0)   @ Meadow Lane › Nottingham, Nottinghamshire
+              Barrow v Accrington ST  1-1 (0-0)   @ SO Legal Stadium › Barrow-in-Furness, Cumbria
+              Harrogate Town v Tranmere  0-2 (0-0)   @ EnviroVent Stadium › Harrogate, North Yorkshire
+              Salford City v Grimsby  0-3 (0-1)   @ The Peninsula Stadium › Salford, Greater Manchester
+» Regular Season - 26
+  Mon Jan 1 2024
+    15.00     Doncaster v Milton Keynes Dons  3-0 (3-0)   @ Eco-Power Stadium › Doncaster, South Yorkshire
+  Mon Jan 1
+    15.00     Accrington ST v Salford City  3-0 (3-0)   @ Wham Stadium › Accrington, Lancashire
+              Colchester v Gillingham  0-1 (0-0)   @ JobServe Community Stadium › Colchester, Essex
+              Crawley Town v Swindon Town  3-1 (2-0)   @ Broadfield Stadium › Crawley, West Sussex
+              Crewe v Bradford  1-0 (1-0)   @ Mornflake Stadium › Crewe, Cheshire
+              Grimsby v Walsall  1-6 (1-2)   @ Blundell Park › Cleethorpes, North East Lincolnshire
+              Morecambe v Harrogate Town  2-2 (0-1)   @ Mazuma Mobile Stadium › Morecambe, Lancashire
+              Forest Green v AFC Wimbledon  1-1 (1-1)   @ The Bolt New Lawn › Nailsworth, Gloucestershire
+              Tranmere v Notts County  4-2 (2-2)   @ Prenton Park › Birkenhead, Merseyside
+              Sutton Utd v Newport County  1-1 (0-0)   @ VBS Community Stadium › Sutton, Surrey
+              Wrexham v Barrow  4-1 (3-1)   @ STōK Cae Ras › Wrecsam
+              Stockport County v Mansfield Town  0-2 (0-0)   @ Edgeley Park › Stockport, Greater Manchester
+» Regular Season - 27
+  Sat Jan 6
+    13.00     Harrogate Town v Doncaster  3-1 (1-1)   @ EnviroVent Stadium › Harrogate, North Yorkshire
+    15.00     Bradford v Crawley Town  2-4 (0-1)   @ University of Bradford Stadium › Bradford, West Yorkshire
+              Swindon Town v Colchester  2-2 (2-1)   @ The County Ground › Swindon, Wiltshire
+              Mansfield Town v Crewe  0-1 (0-1)   @ One Call Stadium › Mansfield, Nottinghamshire
+              Barrow v Tranmere  1-0 (0-0)   @ SO Legal Stadium › Barrow-in-Furness, Cumbria
+              Salford City v Forest Green  2-2 (1-1)   @ The Peninsula Stadium › Salford, Greater Manchester
+» Regular Season - 28
+  Sat Jan 13
+    15.00     Doncaster v Newport County  0-1 (0-0)   @ Eco-Power Stadium › Doncaster, South Yorkshire
+              Accrington ST v Gillingham  1-2 (0-0)   @ Wham Stadium › Accrington, Lancashire
+              Colchester v Bradford  1-1 (0-1)   @ JobServe Community Stadium › Colchester, Essex
+              Crawley Town v Salford City  0-1 (0-0)   @ Broadfield Stadium › Crawley, West Sussex
+              Crewe v Swindon Town  2-1 (1-1)   @ Mornflake Stadium › Crewe, Cheshire
+              Grimsby v Notts County  5-5 (2-2)   @ Blundell Park › Cleethorpes, North East Lincolnshire
+              Morecambe v Mansfield Town  1-1 (0-0)   @ Mazuma Mobile Stadium › Morecambe, Lancashire
+              Forest Green v Harrogate Town  0-2 (0-0)   @ The Bolt New Lawn › Nailsworth, Gloucestershire
+              Tranmere v Milton Keynes Dons  1-2 (1-1)   @ Prenton Park › Birkenhead, Merseyside
+              Sutton Utd v Barrow  2-2 (1-1)   @ VBS Community Stadium › Sutton, Surrey
+              Wrexham v AFC Wimbledon  2-0 (0-0)   @ STōK Cae Ras › Wrecsam
+              Stockport County v Walsall  3-1 (1-1)   @ Edgeley Park › Stockport, Greater Manchester
+» Regular Season - 29
+  Sat Jan 20
+    15.00     Gillingham v Forest Green  1-1 (0-0)   @ Priestfield Stadium › Gillingham, Kent
+              Milton Keynes Dons v Morecambe  1-2 (1-0)   @ Stadium mk › Milton Keynes, Buckinghamshire
+              Newport County v Wrexham  1-0 (1-0)   @ Rodney Parade › Casnewydd
+              Barrow v Crewe  1-3 (1-1)   @ SO Legal Stadium › Barrow-in-Furness, Cumbria
+» Regular Season - 18
+  Tue Jan 23
+    19.45     Milton Keynes Dons v AFC Wimbledon  3-1 (3-0)   @ Stadium mk › Milton Keynes, Buckinghamshire
+» Regular Season - 21
+  Tue Jan 23
+    19.45     Bradford v Salford City  1-1 (1-1)   @ University of Bradford Stadium › Bradford, West Yorkshire
+» Regular Season - 29
+  Tue Jan 23
+    19.45     Mansfield Town v Sutton Utd  1-1 (1-1)   @ One Call Stadium › Mansfield, Nottinghamshire
+» Regular Season - 30
+  Sat Jan 27
+    15.00     AFC Wimbledon v Mansfield Town  2-1 (1-0)   @ The Cherry Red Records Stadium › London
+              Walsall v Sutton Utd  1-1 (1-1)   @ Poundland Bescot Stadium › Walsall, West Midlands
+              Milton Keynes Dons v Gillingham  2-1 (0-0)   @ Stadium mk › Milton Keynes, Buckinghamshire
+              Swindon Town v Bradford  2-0 (2-0)   @ The County Ground › Swindon, Wiltshire
+              Doncaster v Stockport County  1-5 (0-3)   @ Eco-Power Stadium › Doncaster, South Yorkshire
+              Crewe v Salford City  2-3 (2-1)   @ Mornflake Stadium › Crewe, Cheshire
+              Grimsby v Tranmere  1-2 (1-1)   @ Blundell Park › Cleethorpes, North East Lincolnshire
+              Morecambe v Colchester  0-1 (0-1)   @ Mazuma Mobile Stadium › Morecambe, Lancashire
+              Notts County v Barrow  1-1 (1-1)   @ Meadow Lane › Nottingham, Nottinghamshire
+              Forest Green v Accrington ST  0-1 (0-1)   @ The Bolt New Lawn › Nailsworth, Gloucestershire
+» Regular Season - 21
+  Tue Jan 30
+    19.45     Sutton Utd v Harrogate Town  1-2 (0-0)   @ VBS Community Stadium › Sutton, Surrey
+» Regular Season - 31
+  Sat Feb 3
+    12.45     Newport County v Swindon Town  2-1 (0-0)   @ Rodney Parade › Casnewydd
+    15.00     Bradford v AFC Wimbledon  0-0 (0-0)   @ University of Bradford Stadium › Bradford, West Yorkshire
+              Gillingham v Walsall  1-1 (0-0)   @ Priestfield Stadium › Gillingham, Kent
+              Accrington ST v Grimsby  0-0 (0-0)   @ Wham Stadium › Accrington, Lancashire
+              Colchester v Forest Green  3-3 (0-2)   @ JobServe Community Stadium › Colchester, Essex
+              Crawley Town v Morecambe  1-2 (1-1)   @ Broadfield Stadium › Crawley, West Sussex
+              Mansfield Town v Notts County  1-0 (1-0)   @ One Call Stadium › Mansfield, Nottinghamshire
+              Tranmere v Crewe  0-0 (0-0)   @ Prenton Park › Birkenhead, Merseyside
+              Barrow v Milton Keynes Dons  1-0 (0-0)   @ SO Legal Stadium › Barrow-in-Furness, Cumbria
+              Sutton Utd v Doncaster  1-1 (0-0)   @ VBS Community Stadium › Sutton, Surrey
+              Salford City v Wrexham  3-1 (2-1)   @ The Peninsula Stadium › Salford, Greater Manchester
+              Stockport County v Harrogate Town  1-1 (1-1)   @ Edgeley Park › Stockport, Greater Manchester
+» Regular Season - 32
+  Fri Feb 9
+    19.45     Notts County v Gillingham  1-3 (1-2)   @ Meadow Lane › Nottingham, Nottinghamshire
+  Sat Feb 10
+    15.00     AFC Wimbledon v Barrow  2-0 (2-0)   @ The Cherry Red Records Stadium › London
+              Walsall v Newport County  0-3 (0-3)   @ Poundland Bescot Stadium › Walsall, West Midlands
+              Milton Keynes Dons v Accrington ST  2-1 (0-1)   @ Stadium mk › Milton Keynes, Buckinghamshire
+              Swindon Town v Salford City  1-1 (0-0)   @ The County Ground › Swindon, Wiltshire
+              Doncaster v Tranmere  2-1 (1-0)   @ Eco-Power Stadium › Doncaster, South Yorkshire
+              Crewe v Crawley Town  1-0 (0-0)   @ Mornflake Stadium › Crewe, Cheshire
+              Grimsby v Stockport County  1-3 (0-3)   @ Blundell Park › Cleethorpes, North East Lincolnshire
+              Morecambe v Sutton Utd  1-0 (1-0)   @ Mazuma Mobile Stadium › Morecambe, Lancashire
+              Forest Green v Mansfield Town  0-4 (0-1)   @ The Bolt New Lawn › Nailsworth, Gloucestershire
+              Wrexham v Bradford  0-1 (0-0)   @ STōK Cae Ras › Wrecsam
+              Harrogate Town v Colchester  1-0 (0-0)   @ EnviroVent Stadium › Harrogate, North Yorkshire
+» Regular Season - 33
+  Tue Feb 13
+    19.45     Bradford v Milton Keynes Dons  4-0 (2-0)   @ University of Bradford Stadium › Bradford, West Yorkshire
+              Gillingham v Swindon Town  2-2 (0-1)   @ Priestfield Stadium › Gillingham, Kent
+              Accrington ST v AFC Wimbledon  2-0 (0-0)   @ Wham Stadium › Accrington, Lancashire
+              Crawley Town v Walsall  1-1 (0-1)   @ Broadfield Stadium › Crawley, West Sussex
+              Newport County v Notts County  1-3 (0-2)   @ Rodney Parade › Casnewydd
+              Mansfield Town v Harrogate Town  9-2 (5-0)   @ One Call Stadium › Mansfield, Nottinghamshire
+              Tranmere v Morecambe  2-3 (2-1)   @ Prenton Park › Birkenhead, Merseyside
+              Barrow v Forest Green  1-2 (1-1)   @ SO Legal Stadium › Barrow-in-Furness, Cumbria
+              Sutton Utd v Wrexham  1-2 (0-1)   @ VBS Community Stadium › Sutton, Surrey
+              Salford City v Doncaster  2-2 (1-1)   @ The Peninsula Stadium › Salford, Greater Manchester
+              Stockport County v Crewe  1-3 (1-2)   @ Edgeley Park › Stockport, Greater Manchester
+» Regular Season - 34
+  Sat Feb 17
+    15.00     AFC Wimbledon v Morecambe  1-1 (0-0)   @ The Cherry Red Records Stadium › London
+              Walsall v Mansfield Town  2-1 (0-0)   @ Poundland Bescot Stadium › Walsall, West Midlands
+              Bradford v Sutton Utd  1-0 (0-0)   @ University of Bradford Stadium › Bradford, West Yorkshire
+              Swindon Town v Milton Keynes Dons  1-2 (0-2)   @ The County Ground › Swindon, Wiltshire
+              Colchester v Accrington ST  1-1 (1-0)   @ JobServe Community Stadium › Colchester, Essex
+              Crawley Town v Forest Green  2-0 (1-0)   @ Broadfield Stadium › Crawley, West Sussex
+              Crewe v Harrogate Town  0-0 (0-0)   @ Mornflake Stadium › Crewe, Cheshire
+              Grimsby v Doncaster  1-5 (1-2)   @ Blundell Park › Cleethorpes, North East Lincolnshire
+              Newport County v Gillingham  1-0 (0-0)   @ Rodney Parade › Casnewydd
+              Tranmere v Stockport County  4-0 (1-0)   @ Prenton Park › Birkenhead, Merseyside
+              Wrexham v Notts County  1-0 (1-0)   @ STōK Cae Ras › Wrecsam
+              Salford City v Barrow  5-3 (1-1)   @ The Peninsula Stadium › Salford, Greater Manchester
+» Regular Season - 27
+  Tue Feb 20
+    19.45     Walsall v Morecambe  3-0 (2-0)   @ Poundland Bescot Stadium › Walsall, West Midlands
+              Gillingham v Stockport County  0-0 (0-0)   @ Priestfield Stadium › Gillingham, Kent
+              Milton Keynes Dons v Wrexham  1-1 (1-1)   @ Stadium mk › Milton Keynes, Buckinghamshire
+» Regular Season - 29
+  Tue Feb 20
+    19.45     AFC Wimbledon v Crawley Town  0-1 (0-0)   @ The Cherry Red Records Stadium › London
+» Regular Season - 35
+  Sat Feb 24
+    15.00     Gillingham v Wrexham  1-0 (0-0)   @ Priestfield Stadium › Gillingham, Kent
+              Milton Keynes Dons v Newport County  3-0 (3-0)   @ Stadium mk › Milton Keynes, Buckinghamshire
+              Doncaster v AFC Wimbledon  1-0 (1-0)   @ Eco-Power Stadium › Doncaster, South Yorkshire
+              Accrington ST v Crawley Town  0-1 (0-0)   @ Wham Stadium › Accrington, Lancashire
+              Mansfield Town v Salford City  5-1 (2-1)   @ One Call Stadium › Mansfield, Nottinghamshire
+              Morecambe v Grimsby  1-1 (0-1)   @ Mazuma Mobile Stadium › Morecambe, Lancashire
+              Notts County v Crewe  1-3 (0-2)   @ Meadow Lane › Nottingham, Nottinghamshire
+              Forest Green v Tranmere  1-0 (1-0)   @ The Bolt New Lawn › Nailsworth, Gloucestershire
+              Sutton Utd v Colchester  1-1 (1-1)   @ VBS Community Stadium › Sutton, Surrey
+              Harrogate Town v Walsall  0-2 (0-0)   @ EnviroVent Stadium › Harrogate, North Yorkshire
+              Stockport County v Swindon Town  0-0 (0-0)   @ Edgeley Park › Stockport, Greater Manchester
+» Regular Season - 21
+  Tue Feb 27
+    19.45     Forest Green v Wrexham  1-1 (1-0)   @ The Bolt New Lawn › Nailsworth, Gloucestershire
+» Regular Season - 27
+  Tue Feb 27
+    19.45     Notts County v Sutton Utd  3-4 (2-2)   @ Meadow Lane › Nottingham, Nottinghamshire
+» Regular Season - 29
+  Tue Feb 27
+    19.45     Swindon Town v Tranmere  3-1 (2-1)   @ The County Ground › Swindon, Wiltshire
+              Salford City v Colchester  1-1 (1-0)   @ The Peninsula Stadium › Salford, Greater Manchester
+              Walsall v Accrington ST  2-1 (0-0)   @ Poundland Bescot Stadium › Walsall, West Midlands
+» Regular Season - 30
+  Tue Feb 27
+    19.45     Harrogate Town v Newport County  1-4 (0-2)   @ EnviroVent Stadium › Harrogate, North Yorkshire
+» Regular Season - 36
+  Sat Mar 2
+    12.30     AFC Wimbledon v Milton Keynes Dons  1-0 (0-0)   @ The Cherry Red Records Stadium › London
+    15.00     Walsall v Doncaster  3-1 (1-0)   @ Poundland Bescot Stadium › Walsall, West Midlands
+              Swindon Town v Harrogate Town  1-1 (0-0)   @ The County Ground › Swindon, Wiltshire
+              Crewe v Morecambe  2-3 (1-0)   @ Mornflake Stadium › Crewe, Cheshire
+              Grimsby v Forest Green  1-0 (1-0)   @ Blundell Park › Cleethorpes, North East Lincolnshire
+              Newport County v Mansfield Town  0-1 (0-0)   @ Rodney Parade › Casnewydd
+              Tranmere v Sutton Utd  1-0 (0-0)   @ Prenton Park › Birkenhead, Merseyside
+              Wrexham v Accrington ST  4-0 (4-0)   @ STōK Cae Ras › Wrecsam
+              Salford City v Gillingham  0-2 (0-1)   @ The Peninsula Stadium › Salford, Greater Manchester
+» Regular Season - 13
+  Tue Mar 5
+    19.45     Morecambe v Crawley Town  1-0 (0-0)   @ Mazuma Mobile Stadium › Morecambe, Lancashire
+» Regular Season - 21
+  Tue Mar 5
+    19.45     Mansfield Town v Milton Keynes Dons  1-2 (1-1)   @ One Call Stadium › Mansfield, Nottinghamshire
+              Barrow v Gillingham  2-0 (1-0)   @ SO Legal Stadium › Barrow-in-Furness, Cumbria
+» Regular Season - 27
+  Tue Mar 5
+    19.45     AFC Wimbledon v Grimsby  0-0 (0-0)   @ The Cherry Red Records Stadium › London
+» Regular Season - 29
+  Tue Mar 5
+    19.45     Bradford v Doncaster  1-1 (0-1)   @ University of Bradford Stadium › Bradford, West Yorkshire
+» Regular Season - 37
+  Sat Mar 9
+    15.00     Gillingham v Tranmere  1-1 (0-1)   @ Priestfield Stadium › Gillingham, Kent
+              Milton Keynes Dons v Salford City  3-1 (3-1)   @ Stadium mk › Milton Keynes, Buckinghamshire
+              Doncaster v Crewe  2-0 (1-0)   @ Eco-Power Stadium › Doncaster, South Yorkshire
+              Accrington ST v Bradford  0-3 (0-3)   @ Wham Stadium › Accrington, Lancashire
+              Mansfield Town v Swindon Town  3-2 (1-0)   @ One Call Stadium › Mansfield, Nottinghamshire
+              Morecambe v Wrexham  1-3 (1-1)   @ Mazuma Mobile Stadium › Morecambe, Lancashire
+              Notts County v AFC Wimbledon  0-2 (0-0)   @ Meadow Lane › Nottingham, Nottinghamshire
+              Forest Green v Walsall  2-0 (0-0)   @ The Bolt New Lawn › Nailsworth, Gloucestershire
+              Barrow v Colchester  2-0 (1-0)   @ SO Legal Stadium › Barrow-in-Furness, Cumbria
+              Sutton Utd v Grimsby  1-1 (0-1)   @ VBS Community Stadium › Sutton, Surrey
+              Harrogate Town v Crawley Town  1-2 (1-0)   @ EnviroVent Stadium › Harrogate, North Yorkshire
+              Stockport County v Newport County  1-0 (0-0)   @ Edgeley Park › Stockport, Greater Manchester
+» Regular Season - 38
+  Tue Mar 12
+    19.45     AFC Wimbledon v Gillingham  2-0 (1-0)   @ The Cherry Red Records Stadium › London
+              Walsall v Barrow  1-1 (1-0)   @ Poundland Bescot Stadium › Walsall, West Midlands
+              Bradford v Forest Green  0-2 (0-1)   @ University of Bradford Stadium › Bradford, West Yorkshire
+              Swindon Town v Accrington ST  1-2 (0-0)   @ The County Ground › Swindon, Wiltshire
+              Crawley Town v Notts County  2-1 (0-1)   @ Broadfield Stadium › Crawley, West Sussex
+              Crewe v Sutton Utd  1-0 (0-0)   @ Mornflake Stadium › Crewe, Cheshire
+              Grimsby v Milton Keynes Dons  1-0 (1-0)   @ Blundell Park › Cleethorpes, North East Lincolnshire
+              Newport County v Morecambe  5-3 (2-1)   @ Rodney Parade › Casnewydd
+              Tranmere v Mansfield Town  2-1 (1-1)   @ Prenton Park › Birkenhead, Merseyside
+              Wrexham v Harrogate Town  0-0 (0-0)   @ STōK Cae Ras › Wrecsam
+  Thu Mar 14
+    20.00     Salford City v Stockport County  2-2 (2-0)   @ The Peninsula Stadium › Salford, Greater Manchester
+» Regular Season - 39
+  Sat Mar 16
+    15.00     AFC Wimbledon v Newport County  0-2 (0-1)   @ The Cherry Red Records Stadium › London
+              Bradford v Mansfield Town  1-5 (0-4)   @ University of Bradford Stadium › Bradford, West Yorkshire
+              Gillingham v Grimsby  1-1 (1-1)   @ Priestfield Stadium › Gillingham, Kent
+              Milton Keynes Dons v Crewe  3-1 (3-1)   @ Stadium mk › Milton Keynes, Buckinghamshire
+              Swindon Town v Doncaster  1-2 (0-2)   @ The County Ground › Swindon, Wiltshire
+              Accrington ST v Notts County  2-2 (1-2)   @ Wham Stadium › Accrington, Lancashire
+              Colchester v Walsall  1-1 (0-1)   @ JobServe Community Stadium › Colchester, Essex
+              Forest Green v Sutton Utd  0-1 (0-1)   @ The Bolt New Lawn › Nailsworth, Gloucestershire
+              Barrow v Harrogate Town  0-0 (0-0)   @ SO Legal Stadium › Barrow-in-Furness, Cumbria
+              Wrexham v Tranmere  0-1 (0-1)   @ STōK Cae Ras › Wrecsam
+  Sun Mar 17
+    14.00     Salford City v Morecambe  3-1 (1-0)   @ The Peninsula Stadium › Salford, Greater Manchester
+  Mon Mar 18
+    19.45     Crawley Town v Stockport County  1-1 (0-0)   @ Broadfield Stadium › Crawley, West Sussex
+» Regular Season - 36
+  Tue Mar 19
+    19.45     Bradford v Notts County  0-3 (0-1)   @ University of Bradford Stadium › Bradford, West Yorkshire
+» Regular Season - 8
+  Sat Mar 23
+    15.00     Barrow v Newport County  1-0 (1-0)   @ SO Legal Stadium › Barrow-in-Furness, Cumbria
+» Regular Season - 40
+  Sat Mar 23
+    12.30     Mansfield Town v Colchester  1-1 (0-1)   @ One Call Stadium › Mansfield, Nottinghamshire
+    13.00     Harrogate Town v Bradford  3-0 (1-0)   @ EnviroVent Stadium › Harrogate, North Yorkshire
+    15.00     Grimsby v Wrexham  1-3 (0-3)   @ Blundell Park › Cleethorpes, North East Lincolnshire
+              Morecambe v Gillingham  2-3 (1-1)   @ Mazuma Mobile Stadium › Morecambe, Lancashire
+              Notts County v Salford City  1-2 (0-1)   @ Meadow Lane › Nottingham, Nottinghamshire
+              Tranmere v Crawley Town  1-3 (1-2)   @ Prenton Park › Birkenhead, Merseyside
+              Crewe v AFC Wimbledon  1-1 (1-1)   @ Mornflake Stadium › Crewe, Cheshire
+              Doncaster v Forest Green  2-0 (0-0)   @ Eco-Power Stadium › Doncaster, South Yorkshire
+              Sutton Utd v Accrington ST  3-1 (1-0)   @ VBS Community Stadium › Sutton, Surrey
+    17.15     Stockport County v Milton Keynes Dons  5-0 (3-0)   @ Edgeley Park › Stockport, Greater Manchester
+» Regular Season - 41
+  Fri Mar 29
+    15.00     AFC Wimbledon v Harrogate Town  1-1 (0-1)   @ The Cherry Red Records Stadium › London
+              Bradford v Tranmere  2-0 (0-0)   @ University of Bradford Stadium › Bradford, West Yorkshire
+              Gillingham v Crewe  0-0 (0-0)   @ Priestfield Stadium › Gillingham, Kent
+              Milton Keynes Dons v Walsall  5-0 (1-0)   @ Stadium mk › Milton Keynes, Buckinghamshire
+              Swindon Town v Notts County  2-1 (1-0)   @ The County Ground › Swindon, Wiltshire
+              Accrington ST v Morecambe  1-2 (0-0)   @ Wham Stadium › Accrington, Lancashire
+              Colchester v Newport County  2-1 (0-1)   @ JobServe Community Stadium › Colchester, Essex
+              Crawley Town v Doncaster  0-2 (0-0)   @ Broadfield Stadium › Crawley, West Sussex
+              Forest Green v Stockport County  0-3 (0-2)   @ The Bolt New Lawn › Nailsworth, Gloucestershire
+              Barrow v Grimsby  3-1 (2-0)   @ SO Legal Stadium › Barrow-in-Furness, Cumbria
+              Wrexham v Mansfield Town  2-0 (1-0)   @ STōK Cae Ras › Wrecsam
+              Salford City v Sutton Utd  1-2 (0-1)   @ The Peninsula Stadium › Salford, Greater Manchester
+» Regular Season - 42
+  Mon Apr 1
+    13.00     Grimsby v Bradford  1-1 (0-0)   @ Blundell Park › Cleethorpes, North East Lincolnshire
+    15.00     Walsall v Salford City  2-1 (1-0)   @ Poundland Bescot Stadium › Walsall, West Midlands
+              Crewe v Forest Green  0-3 (0-3)   @ Mornflake Stadium › Crewe, Cheshire
+              Newport County v Crawley Town  0-4 (0-2)   @ Rodney Parade › Casnewydd
+              Morecambe v Barrow  2-1 (2-0)   @ Mazuma Mobile Stadium › Morecambe, Lancashire
+              Notts County v Milton Keynes Dons  3-3 (1-1)   @ Meadow Lane › Nottingham, Nottinghamshire
+              Tranmere v Colchester  1-1 (1-1)   @ Prenton Park › Birkenhead, Merseyside
+              Sutton Utd v Swindon Town  3-1 (1-0)   @ VBS Community Stadium › Sutton, Surrey
+              Harrogate Town v Gillingham  5-1 (0-1)   @ EnviroVent Stadium › Harrogate, North Yorkshire
+              Stockport County v AFC Wimbledon  1-0 (0-0)   @ Edgeley Park › Stockport, Greater Manchester
+  Tue Apr 2
+    19.45     Doncaster v Wrexham  1-0 (1-0)   @ Eco-Power Stadium › Doncaster, South Yorkshire
+» Regular Season - 43
+  Sat Apr 6
+    15.00     AFC Wimbledon v Salford City  1-0 (0-0)   @ The Cherry Red Records Stadium › London
+              Bradford v Gillingham  1-0 (1-0)   @ University of Bradford Stadium › Bradford, West Yorkshire
+              Accrington ST v Crewe  0-0 (0-0)   @ Wham Stadium › Accrington, Lancashire
+              Colchester v Wrexham  1-2 (0-0)   @ JobServe Community Stadium › Colchester, Essex
+              Grimsby v Newport County  1-0 (1-0)   @ Blundell Park › Cleethorpes, North East Lincolnshire
+              Mansfield Town v Crawley Town  1-4 (0-2)   @ One Call Stadium › Mansfield, Nottinghamshire
+              Morecambe v Doncaster  0-3 (0-2)   @ Mazuma Mobile Stadium › Morecambe, Lancashire
+              Notts County v Harrogate Town  3-0 (1-0)   @ Meadow Lane › Nottingham, Nottinghamshire
+              Forest Green v Milton Keynes Dons  0-2 (0-1)   @ The Bolt New Lawn › Nailsworth, Gloucestershire
+              Tranmere v Walsall  1-3 (1-1)   @ Prenton Park › Birkenhead, Merseyside
+              Barrow v Swindon Town  0-2 (0-2)   @ SO Legal Stadium › Barrow-in-Furness, Cumbria
+              Sutton Utd v Stockport County  1-3 (1-3)   @ VBS Community Stadium › Sutton, Surrey
+» Regular Season - 14
+  Tue Apr 9
+    19.45     Mansfield Town v Forest Green  1-0 (1-0)   @ One Call Stadium › Mansfield, Nottinghamshire
+» Regular Season - 18
+  Tue Apr 9
+    19.45     Morecambe v Crewe  0-1 (0-0)   @ Mazuma Mobile Stadium › Morecambe, Lancashire
+              Doncaster v Walsall  2-1 (1-0)   @ Eco-Power Stadium › Doncaster, South Yorkshire
+» Regular Season - 27
+  Tue Apr 9
+    19.45     Newport County v Accrington ST  1-3 (1-1)   @ Rodney Parade › Casnewydd
+» Regular Season - 29
+  Tue Apr 9
+    19.45     Harrogate Town v Grimsby  1-0 (0-0)   @ EnviroVent Stadium › Harrogate, North Yorkshire
+» Regular Season - 30
+  Tue Apr 9
+    19.45     Wrexham v Crawley Town  4-1 (2-0)   @ STōK Cae Ras › Wrecsam
+» Regular Season - 36
+  Tue Apr 9
+    19.45     Colchester v Stockport County  1-2 (1-1)   @ JobServe Community Stadium › Colchester, Essex
+» Regular Season - 44
+  Sat Apr 13
+    15.00     Walsall v Notts County  1-3 (0-2)   @ Poundland Bescot Stadium › Walsall, West Midlands
+              Gillingham v Barrow  3-0 (1-0)   @ Priestfield Stadium › Gillingham, Kent
+              Milton Keynes Dons v Mansfield Town  1-4 (1-1)   @ Stadium mk › Milton Keynes, Buckinghamshire
+              Swindon Town v AFC Wimbledon  3-2 (0-1)   @ The County Ground › Swindon, Wiltshire
+              Doncaster v Accrington ST  4-0 (2-0)   @ Eco-Power Stadium › Doncaster, South Yorkshire
+              Crawley Town v Colchester  2-3 (1-2)   @ Broadfield Stadium › Crawley, West Sussex
+              Crewe v Grimsby  0-3 (0-1)   @ Mornflake Stadium › Crewe, Cheshire
+              Newport County v Tranmere  1-2 (1-2)   @ Rodney Parade › Casnewydd
+              Wrexham v Forest Green  6-0 (4-0)   @ STōK Cae Ras › Wrecsam
+              Harrogate Town v Sutton Utd  2-2 (0-1)   @ EnviroVent Stadium › Harrogate, North Yorkshire
+              Salford City v Bradford  1-2 (1-1)   @ The Peninsula Stadium › Salford, Greater Manchester
+              Stockport County v Morecambe  2-0 (2-0)   @ Edgeley Park › Stockport, Greater Manchester
+» Regular Season - 40
+  Tue Apr 16
+    19.45     Walsall v Swindon Town  2-1 (1-0)   @ Poundland Bescot Stadium › Walsall, West Midlands
+» Regular Season - 29
+  Tue Apr 16
+    19.45     Notts County v Stockport County  2-5 (0-3)   @ Meadow Lane › Nottingham, Nottinghamshire
+» Regular Season - 33
+  Tue Apr 16
+    19.45     Colchester v Grimsby  2-0 (1-0)   @ JobServe Community Stadium › Colchester, Essex
+» Regular Season - 36
+  Tue Apr 16
+    19.45     Crawley Town v Barrow  1-1 (0-1)   @ Broadfield Stadium › Crawley, West Sussex
+» Regular Season - 42
+  Tue Apr 16
+    19.45     Mansfield Town v Accrington ST  2-1 (1-0)   @ One Call Stadium › Mansfield, Nottinghamshire
+» Regular Season - 45
+  Sat Apr 20
+    12.30     Crewe v Wrexham  0-3 (0-2)   @ Mornflake Stadium › Crewe, Cheshire
+    15.00     Walsall v Bradford  2-3 (2-2)   @ Poundland Bescot Stadium › Walsall, West Midlands
+              Doncaster v Barrow  4-2 (0-2)   @ Eco-Power Stadium › Doncaster, South Yorkshire
+              Grimsby v Swindon Town  2-0 (0-0)   @ Blundell Park › Cleethorpes, North East Lincolnshire
+              Newport County v Salford City  0-1 (0-0)   @ Rodney Parade › Casnewydd
+              Mansfield Town v Gillingham  2-1 (0-1)   @ One Call Stadium › Mansfield, Nottinghamshire
+              Morecambe v Forest Green  1-2 (1-2)   @ Mazuma Mobile Stadium › Morecambe, Lancashire
+              Notts County v Colchester  1-0 (0-0)   @ Meadow Lane › Nottingham, Nottinghamshire
+              Tranmere v AFC Wimbledon  3-2 (2-0)   @ Prenton Park › Birkenhead, Merseyside
+              Sutton Utd v Crawley Town  2-2 (0-1)   @ VBS Community Stadium › Sutton, Surrey
+              Harrogate Town v Milton Keynes Dons  3-5 (2-2)   @ EnviroVent Stadium › Harrogate, North Yorkshire
+              Stockport County v Accrington ST  4-2 (2-1)   @ Edgeley Park › Stockport, Greater Manchester
+» Regular Season - 35
+  Tue Apr 23
+    19.45     Barrow v Bradford  1-2 (0-1)   @ SO Legal Stadium › Barrow-in-Furness, Cumbria
+» Regular Season - 38
+  Tue Apr 23
+    19.45     Colchester v Doncaster  1-4 (1-2)   @ JobServe Community Stadium › Colchester, Essex
+» Regular Season - 46
+  Sat Apr 27
+    15.00     AFC Wimbledon v Walsall  5-1 (2-1)   @ The Cherry Red Records Stadium › London
+              Bradford v Newport County  4-1 (2-0)   @ University of Bradford Stadium › Bradford, West Yorkshire
+              Gillingham v Doncaster  2-2 (0-2)   @ Priestfield Stadium › Gillingham, Kent
+              Milton Keynes Dons v Sutton Utd  4-4 (2-0)   @ Stadium mk › Milton Keynes, Buckinghamshire
+              Swindon Town v Morecambe  3-3 (2-2)   @ The County Ground › Swindon, Wiltshire
+              Accrington ST v Tranmere  4-1 (1-1)   @ Wham Stadium › Accrington, Lancashire
+              Colchester v Crewe  1-1 (1-0)   @ JobServe Community Stadium › Colchester, Essex
+              Crawley Town v Grimsby  2-0 (2-0)   @ Broadfield Stadium › Crawley, West Sussex
+              Forest Green v Notts County  1-0 (0-0)   @ The Bolt New Lawn › Nailsworth, Gloucestershire
+              Barrow v Mansfield Town  1-1 (0-1)   @ SO Legal Stadium › Barrow-in-Furness, Cumbria
+              Wrexham v Stockport County  2-1 (0-1)   @ STōK Cae Ras › Wrecsam
+              Salford City v Harrogate Town  2-2 (2-2)   @ The Peninsula Stadium › Salford, Greater Manchester
+» Promotion Play-offs - Semi-finals
+  Mon May 6
+    17.30     Crewe v Doncaster  0-2 (0-1)   @ Mornflake Stadium › Crewe, Cheshire
+  Tue May 7
+    19.30     Crawley Town v Milton Keynes Dons  3-0 (2-0)   @ Broadfield Stadium › Crawley, West Sussex
+  Fri May 10
+    20.00     Doncaster v Crewe  3-4 pen (0-2, 0-2, 0-2)   @ Eco-Power Stadium › Doncaster, South Yorkshire
+  Sat May 11
+    19.45     Milton Keynes Dons v Crawley Town  1-5 (1-2)   @ Stadium mk › Milton Keynes, Buckinghamshire
+» Promotion Play-offs - Final
+  Sun May 19
+    13.00     Crawley Town v Crewe  2-0 (1-0)   @ Wembley Stadium › London

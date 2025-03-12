@@ -1,0 +1,519 @@
+= Turkey | Süper Lig 2022/23
+
+  # Date       Fri Aug/5 2022 - Wed Jun/7 2023 (306d)
+  # Teams      19
+  # Matches    342
+
+  # Note - All times in Europe/Istanbul
+
+» Regular Season - 1
+  Fri Aug 5 2022
+    21.00     İstanbulspor v Trabzonspor  0-2 (0-1)   @ Atatürk Olimpiyat Stadı › İstanbul
+  Sat Aug 6
+    19.15     Sivasspor v Gazişehir Gaziantep  1-1 (0-1)   @ Yeni Sivas 4 Eylül Stadyumu › Sivas
+    21.45     Besiktas v Kayserispor  1-0 (0-0)   @ Vodafone Park › İstanbul
+  Sun Aug 7
+    19.15     Giresunspor v Adana Demirspor  2-3 (0-2)   @ Çotanak Stadyumu › Giresun
+              Fatih Karagümrük v Alanyaspor  2-4 (0-2)   @ Atatürk Olimpiyat Stadı › İstanbul
+    21.45     Antalyaspor v Galatasaray  0-1 (0-0)   @ Corendon Airlines Park › Antalya
+  Mon Aug 8
+    19.15     Istanbul Basaksehir v Kasimpasa  4-0 (2-0)   @ Başakşehir Fatih Terim Stadyumu › İstanbul
+    21.45     Fenerbahce v Ümraniyespor  3-3 (2-1)   @ Ülker Stadyumu Fenerbahçe Şükrü Saracoğlu Spor Kompleksi › İstanbul
+              Ankaragucu v Konyaspor  0-0 (0-0)   @ Eryaman Stadyumu › Ankara
+» Regular Season - 2
+  Fri Aug 12
+    21.00     Trabzonspor v Hatayspor  1-0 (0-0)   @ Medical Park Stadyumu › Trabzon
+  Sat Aug 13
+    19.15     Kayserispor v İstanbulspor  1-0 (1-0)   @ Kadir Has Şehir Stadı › Kayseri
+    21.45     Galatasaray v Giresunspor  0-1 (0-0)   @ NEF Stadyumu › İstanbul
+              Adana Demirspor v Sivasspor  3-0 (1-0)   @ Yeni Adana Stadyumu › Adana
+  Sun Aug 14
+    19.15     Gazişehir Gaziantep v Ankaragucu  1-0 (0-0)   @ Yeni Hatay Stadyumu › Hatay
+              Ümraniyespor v Antalyaspor  0-1 (0-0)   @ Atatürk Olimpiyat Stadı › İstanbul
+    21.45     Alanyaspor v Besiktas  3-3 (1-3)   @ Kırbıyık Holding Stadyumu › Alanya
+  Mon Aug 15
+    19.15     Konyaspor v Istanbul Basaksehir  0-0 (0-0)   @ Yeni Eskişehir Stadyumu › Eskişehir
+    21.45     Kasimpasa v Fenerbahce  0-6 (0-3)   @ Recep Tayyip Erdoğan Stadyumu › İstanbul
+» Regular Season - 3
+  Fri Aug 19
+    21.00     Ümraniyespor v Galatasaray  0-1 (0-0)   @ Atatürk Olimpiyat Stadı › İstanbul
+  Sat Aug 20
+    19.15     Hatayspor v Gazişehir Gaziantep  1-2 (1-1)   @ Yeni Hatay Stadyumu › Hatay
+              Giresunspor v Kasimpasa  1-0 (0-0)   @ Çotanak Stadyumu › Giresun
+    21.45     Antalyaspor v Trabzonspor  5-2 (2-1)   @ Corendon Airlines Park › Antalya
+  Sun Aug 21
+    19.15     Istanbul Basaksehir v Kayserispor  2-0 (1-0)   @ Başakşehir Fatih Terim Stadyumu › İstanbul
+    21.45     Besiktas v Fatih Karagümrük  4-1 (2-0)   @ Vodafone Park › İstanbul
+  Mon Aug 22
+    19.15     Sivasspor v Alanyaspor  1-1 (1-0)   @ Yeni Sivas 4 Eylül Stadyumu › Sivas
+              İstanbulspor v Konyaspor  0-4 (0-2)   @ Necmi Kadıoğlu Stadyumu › İstanbul
+    21.45     Fenerbahce v Adana Demirspor  4-2 (2-0)   @ Ülker Stadyumu Fenerbahçe Şükrü Saracoğlu Spor Kompleksi › İstanbul
+» Regular Season - 4
+  Fri Aug 26
+    21.00     Gazişehir Gaziantep v Antalyaspor  5-2 (1-2)   @ Yeni Hatay Stadyumu › Hatay
+  Sat Aug 27
+    19.15     Fatih Karagümrük v Ankaragucu  4-1 (2-0)   @ Atatürk Olimpiyat Stadı › İstanbul
+    21.45     Alanyaspor v İstanbulspor  0-1 (0-0)   @ Kırbıyık Holding Stadyumu › Alanya
+              Adana Demirspor v Ümraniyespor  1-0 (1-0)   @ Yeni Adana Stadyumu › Adana
+  Sun Aug 28
+    19.15     Kayserispor v Giresunspor  3-0 (1-0)   @ Kadir Has Şehir Stadı › Kayseri
+              Kasimpasa v Hatayspor  1-0 (1-0)   @ Recep Tayyip Erdoğan Stadyumu › İstanbul
+    21.45     Trabzonspor v Galatasaray  0-0 (0-0)   @ Şenol Güneş Spor Kompleksi › Trabzon
+  Mon Aug 29
+    19.15     Konyaspor v Fenerbahce  1-0 (0-0)   @ Yeni Eskişehir Stadyumu › Eskişehir
+    21.45     Besiktas v Sivasspor  3-1 (3-0)   @ Vodafone Park › İstanbul
+» Regular Season - 5
+  Fri Sep 2
+    21.00     Ümraniyespor v Trabzonspor  0-1 (0-0)   @ Recep Tayyip Erdoğan Stadyumu › İstanbul
+  Sat Sep 3
+    19.15     Istanbul Basaksehir v Alanyaspor  2-0 (1-0)   @ Başakşehir Fatih Terim Stadyumu › İstanbul
+              Sivasspor v Fatih Karagümrük  0-0 (0-0)   @ Yeni Sivas 4 Eylül Stadyumu › Sivas
+    21.45     Giresunspor v Konyaspor  0-1 (0-0)   @ Çotanak Stadyumu › Giresun
+              Fenerbahce v Kayserispor  2-0 (1-0)   @ Ülker Stadyumu Fenerbahçe Şükrü Saracoğlu Spor Kompleksi › İstanbul
+  Sun Sep 4
+    19.15     Hatayspor v Adana Demirspor  1-1 (1-0)   @ Yeni Hatay Stadyumu › Hatay
+    21.45     Antalyaspor v Kasimpasa  0-2 (0-1)   @ Corendon Airlines Park › Antalya
+              Ankaragucu v Besiktas  2-3 (1-2)   @ Eryaman Stadyumu › Ankara
+  Mon Sep 5
+    21.00     Galatasaray v Gazişehir Gaziantep  2-1 (1-1)   @ NEF Stadyumu › İstanbul
+» Regular Season - 6
+  Fri Sep 9
+    20.00     Alanyaspor v Ankaragucu  2-1 (0-0)   @ Kırbıyık Holding Stadyumu › Alanya
+  Sat Sep 10
+    17.00     Konyaspor v Hatayspor  1-0 (0-0)   @ Yeni Eskişehir Stadyumu › Eskişehir
+    20.00     Fatih Karagümrük v Giresunspor  1-1 (0-0)   @ Atatürk Olimpiyat Stadı › İstanbul
+  Sun Sep 11
+    17.00     Sivasspor v İstanbulspor  1-1 (0-0)   @ Yeni Sivas 4 Eylül Stadyumu › Sivas
+    20.00     Kayserispor v Antalyaspor  1-0 (0-0)   @ Kadir Has Şehir Stadı › Kayseri
+              Kasimpasa v Galatasaray  2-3 (1-1)   @ Recep Tayyip Erdoğan Stadyumu › İstanbul
+              Gazişehir Gaziantep v Ümraniyespor  1-1 (0-0)   @ Yeni Hatay Stadyumu › Hatay
+  Mon Sep 12
+    19.00     Besiktas v Istanbul Basaksehir  0-1 (0-0)   @ Vodafone Park › İstanbul
+    21.30     Adana Demirspor v Trabzonspor  3-2 (1-1)   @ Yeni Adana Stadyumu › Adana
+» Regular Season - 7
+  Fri Sep 16
+    20.00     Hatayspor v Kayserispor  0-4 (0-2)   @ Yeni Hatay Stadyumu › Hatay
+              Galatasaray v Konyaspor  2-1 (1-1)   @ NEF Stadyumu › İstanbul
+  Sat Sep 17
+    17.00     Ümraniyespor v Kasimpasa  1-2 (0-1)   @ Necmi Kadıoğlu Stadyumu › İstanbul
+    20.00     Antalyaspor v Adana Demirspor  0-3 (0-1)   @ Corendon Airlines Park › Antalya
+              İstanbulspor v Besiktas  2-2 (1-2)   @ Atatürk Olimpiyat Stadı › İstanbul
+  Sun Sep 18
+    17.00     Istanbul Basaksehir v Fatih Karagümrük  0-0 (0-0)   @ Başakşehir Fatih Terim Stadyumu › İstanbul
+              Trabzonspor v Gazişehir Gaziantep  3-2 (2-2)   @ Şenol Güneş Spor Kompleksi › Trabzon
+    20.00     Ankaragucu v Sivasspor  2-1 (2-0)   @ Eryaman Stadyumu › Ankara
+              Fenerbahce v Alanyaspor  5-0 (3-0)   @ Ülker Stadyumu Fenerbahçe Şükrü Saracoğlu Spor Kompleksi › İstanbul
+» Regular Season - 8
+  Sat Oct 1
+    14.30     Kasimpasa v Gazişehir Gaziantep  1-0 (0-0)   @ Recep Tayyip Erdoğan Stadyumu › İstanbul
+    17.00     Kayserispor v Trabzonspor  1-2 (1-0)   @ Kadir Has Şehir Stadı › Kayseri
+              Ankaragucu v Istanbul Basaksehir  1-2 (0-1)   @ Eryaman Stadyumu › Ankara
+    20.00     Adana Demirspor v Galatasaray  0-0 (0-0)   @ Yeni Adana Stadyumu › Adana
+  Sun Oct 2
+    14.30     Sivasspor v Hatayspor  1-2 (1-2)   @ Yeni Sivas 4 Eylül Stadyumu › Sivas
+              Alanyaspor v Giresunspor  1-1 (0-0)   @ Kırbıyık Holding Stadyumu › Alanya
+    17.00     Konyaspor v Ümraniyespor  1-0 (1-0)   @ Konya Büyükşehir Belediye Stadyumu › Konya
+    20.00     Besiktas v Fenerbahce  0-0 (0-0)   @ Vodafone Park › İstanbul
+  Mon Oct 3
+    20.00     Fatih Karagümrük v İstanbulspor  1-2 (1-0)   @ Atatürk Olimpiyat Stadı › İstanbul
+» Regular Season - 9
+  Fri Oct 7
+    20.00     Gazişehir Gaziantep v Adana Demirspor  1-1 (0-0)   @ Gaziantep Stadyumu › Gaziantep
+  Sat Oct 8
+    14.30     İstanbulspor v Ankaragucu  1-2 (0-1)   @ Necmi Kadıoğlu Stadyumu › İstanbul
+    17.00     Antalyaspor v Konyaspor  1-1 (0-0)   @ Corendon Airlines Park › Antalya
+    20.00     Giresunspor v Besiktas  0-1 (0-1)   @ Çotanak Stadyumu › Giresun
+  Sun Oct 9
+    14.30     Ümraniyespor v Kayserispor  2-2 (0-1)   @ Atatürk Olimpiyat Stadı › İstanbul
+    17.00     Hatayspor v Alanyaspor  1-0 (0-0)   @ Yeni Hatay Stadyumu › Hatay
+    20.00     Fenerbahce v Fatih Karagümrük  5-4 (2-2)   @ Ülker Stadyumu Fenerbahçe Şükrü Saracoğlu Spor Kompleksi › İstanbul
+  Mon Oct 10
+    20.00     Istanbul Basaksehir v Sivasspor  0-2 (0-1)   @ Başakşehir Fatih Terim Stadyumu › İstanbul
+              Trabzonspor v Kasimpasa  0-0 (0-0)   @ Şenol Güneş Spor Kompleksi › Trabzon
+» Regular Season - 10
+  Fri Oct 14
+    20.00     Alanyaspor v Antalyaspor  3-2 (1-0)   @ Kırbıyık Holding Stadyumu › Alanya
+  Sat Oct 15
+    14.30     Fatih Karagümrük v Hatayspor  3-0 (2-0)   @ Necmi Kadıoğlu Stadyumu › İstanbul
+    17.00     Kasimpasa v Adana Demirspor  1-4 (0-2)   @ Recep Tayyip Erdoğan Stadyumu › İstanbul
+    20.00     Konyaspor v Gazişehir Gaziantep  0-1 (0-0)   @ Konya Büyükşehir Belediye Stadyumu › Konya
+              Kayserispor v Galatasaray  2-1 (2-0)   @ RHG Enertürk Enerji Stadyumu › Kayseri
+  Sun Oct 16
+    17.00     Istanbul Basaksehir v İstanbulspor  2-0 (1-0)   @ Başakşehir Fatih Terim Stadyumu › İstanbul
+    20.00     Besiktas v Trabzonspor  2-2 (1-2)   @ Vodafone Park › İstanbul
+  Mon Oct 17
+    20.00     Sivasspor v Giresunspor  3-0 (2-0)   @ Yeni Sivas 4 Eylül Stadyumu › Sivas
+              Ankaragucu v Fenerbahce  0-3 (0-2)   @ Eryaman Stadyumu › Ankara
+» Regular Season - 11
+  Fri Oct 21
+    20.00     Antalyaspor v İstanbulspor  2-1 (1-1)   @ Corendon Airlines Park › Antalya
+  Sat Oct 22
+    14.30     Ümraniyespor v Fatih Karagümrük  1-3 (1-1)   @ Ümraniye Hekimbaşı Şehir Stadyumu › İstanbul
+    17.00     Trabzonspor v Sivasspor  1-0 (1-0)   @ Şenol Güneş Spor Kompleksi › Trabzon
+    20.00     Fenerbahce v Istanbul Basaksehir  1-0 (0-0)   @ Ülker Stadyumu Fenerbahçe Şükrü Saracoğlu Spor Kompleksi › İstanbul
+  Sun Oct 23
+    14.30     Kasimpasa v Kayserispor  0-1 (0-1)   @ Recep Tayyip Erdoğan Stadyumu › İstanbul
+    17.00     Adana Demirspor v Konyaspor  1-1 (1-1)   @ Yeni Adana Stadyumu › Adana
+    20.00     Galatasaray v Alanyaspor  2-2 (2-0)   @ NEF Stadyumu › İstanbul
+  Mon Oct 24
+    20.00     Hatayspor v Besiktas  2-1 (0-1)   @ Yeni Hatay Stadyumu › Hatay
+              Giresunspor v Ankaragucu  1-1 (0-0)   @ Çotanak Stadyumu › Giresun
+» Regular Season - 12
+  Fri Oct 28
+    20.00     Fatih Karagümrük v Galatasaray  0-2 (0-0)   @ Atatürk Olimpiyat Stadı › İstanbul
+  Sat Oct 29
+    14.30     Konyaspor v Kasimpasa  1-1 (0-0)   @ Konya Büyükşehir Belediye Stadyumu › Konya
+    20.00     Alanyaspor v Gazişehir Gaziantep  2-0 (1-0)   @ Kırbıyık Holding Stadyumu › Alanya
+  Sun Oct 30
+    14.30     Ankaragucu v Hatayspor  4-1 (1-0)   @ Eryaman Stadyumu › Ankara
+    17.00     Besiktas v Ümraniyespor  5-2 (2-1)   @ Vodafone Park › İstanbul
+              Kayserispor v Adana Demirspor  2-2 (0-1)   @ RHG Enertürk Enerji Stadyumu › Kayseri
+    20.00     İstanbulspor v Fenerbahce  2-5 (0-2)   @ Atatürk Olimpiyat Stadı › İstanbul
+  Mon Oct 31
+    20.00     Istanbul Basaksehir v Giresunspor  3-1 (1-0)   @ Başakşehir Fatih Terim Stadyumu › İstanbul
+              Sivasspor v Antalyaspor  0-2 (0-2)   @ Yeni Sivas 4 Eylül Stadyumu › Sivas
+» Regular Season - 13
+  Fri Nov 4
+    20.00     Kasimpasa v Ankaragucu  1-1 (0-0)   @ Recep Tayyip Erdoğan Stadyumu › İstanbul
+              Ümraniyespor v Alanyaspor  3-1 (2-0)   @ Ümraniye Hekimbaşı Şehir Stadyumu › İstanbul
+  Sat Nov 5
+    14.30     Giresunspor v İstanbulspor  3-2 (1-1)   @ Çotanak Stadyumu › Giresun
+    20.00     Galatasaray v Besiktas  2-1 (1-1)   @ NEF Stadyumu › İstanbul
+  Sun Nov 6
+    14.30     Gazişehir Gaziantep v Kayserispor  1-2 (0-1)   @ Gaziantep Stadyumu › Gaziantep
+    17.00     Antalyaspor v Fatih Karagümrük  4-2 (3-2)   @ Corendon Airlines Park › Antalya
+    20.00     Trabzonspor v Konyaspor  2-2 (2-1)   @ Şenol Güneş Spor Kompleksi › Trabzon
+  Mon Nov 7
+    20.00     Fenerbahce v Sivasspor  1-0 (0-0)   @ Ülker Stadyumu Fenerbahçe Şükrü Saracoğlu Spor Kompleksi › İstanbul
+              Hatayspor v Istanbul Basaksehir  3-3 (1-0)   @ Yeni Hatay Stadyumu › Hatay
+» Regular Season - 14
+  Fri Nov 11
+    20.00     Alanyaspor v Adana Demirspor  0-0 (0-0)   @ Kırbıyık Holding Stadyumu › Alanya
+              Ankaragucu v Trabzonspor  1-1 (0-0)   @ Eryaman Stadyumu › Ankara
+  Sat Nov 12
+    14.30     Sivasspor v Ümraniyespor  2-2 (1-1)   @ Yeni Sivas 4 Eylül Stadyumu › Sivas
+    17.00     Fenerbahce v Giresunspor  1-2 (1-0)   @ Ülker Stadyumu Fenerbahçe Şükrü Saracoğlu Spor Kompleksi › İstanbul
+    20.00     Istanbul Basaksehir v Galatasaray  0-7 (0-3)   @ Başakşehir Fatih Terim Stadyumu › İstanbul
+  Sun Nov 13
+    14.30     Fatih Karagümrük v Gazişehir Gaziantep  3-3 (1-2)   @ Atatürk Olimpiyat Stadı › İstanbul
+    17.00     Kayserispor v Konyaspor  1-2 (1-2)   @ RHG Enertürk Enerji Stadyumu › Kayseri
+              İstanbulspor v Hatayspor  0-1 (0-1)   @ Necmi Kadıoğlu Stadyumu › İstanbul
+» Regular Season - 15
+  Fri Dec 23
+    20.00     Ümraniyespor v Istanbul Basaksehir  1-3 (1-1)   @ Ümraniye Hekimbaşı Şehir Stadyumu › İstanbul
+              Antalyaspor v Ankaragucu  0-2 (0-0)   @ Corendon Airlines Park › Antalya
+  Sat Dec 24
+    13.30     Hatayspor v Giresunspor  1-1 (0-0)   @ Yeni Hatay Stadyumu › Hatay
+    16.00     Kasimpasa v Sivasspor  1-2 (1-1)   @ Recep Tayyip Erdoğan Stadyumu › İstanbul
+    19.00     Trabzonspor v Fenerbahce  2-0 (0-0)   @ Şenol Güneş Spor Kompleksi › Trabzon
+  Sun Dec 25
+    13.30     Adana Demirspor v Fatih Karagümrük  2-1 (2-1)   @ Yeni Adana Stadyumu › Adana
+    16.00     Konyaspor v Alanyaspor  2-2 (1-0)   @ Konya Büyükşehir Belediye Stadyumu › Konya
+              Gazişehir Gaziantep v Besiktas  1-1 (0-0)   @ Gaziantep Stadyumu › Gaziantep
+    19.00     Galatasaray v İstanbulspor  2-1 (2-0)   @ NEF Stadyumu › İstanbul
+» Regular Season - 16
+  Tue Dec 27
+    17.00     Istanbul Basaksehir v Antalyaspor  2-0 (0-0)   @ Başakşehir Fatih Terim Stadyumu › İstanbul
+              Ankaragucu v Ümraniyespor  1-2 (1-1)   @ Eryaman Stadyumu › Ankara
+    20.00     Fenerbahce v Hatayspor  4-0 (2-0)   @ Ülker Stadyumu Fenerbahçe Şükrü Saracoğlu Spor Kompleksi › İstanbul
+  Wed Dec 28
+    17.00     İstanbulspor v Kasimpasa  2-1 (1-1)   @ Necmi Kadıoğlu Stadyumu › İstanbul
+              Alanyaspor v Kayserispor  3-1 (2-0)   @ Kırbıyık Holding Stadyumu › Alanya
+    20.00     Fatih Karagümrük v Trabzonspor  4-1 (2-1)   @ Atatürk Olimpiyat Stadı › İstanbul
+  Thu Dec 29
+    17.00     Giresunspor v Gazişehir Gaziantep  2-1 (1-0)   @ Çotanak Stadyumu › Giresun
+              Sivasspor v Galatasaray  1-2 (0-1)   @ Yeni Sivas 4 Eylül Stadyumu › Sivas
+    20.00     Besiktas v Adana Demirspor  1-0 (1-0)   @ Vodafone Park › İstanbul
+» Regular Season - 17
+  Tue Jan 3 2023
+    17.00     Ümraniyespor v Hatayspor  2-2 (1-1)   @ Ümraniye Hekimbaşı Şehir Stadyumu › İstanbul
+  Tue Jan 3
+    20.00     Antalyaspor v Fenerbahce  1-2 (1-0)   @ Corendon Airlines Park › Antalya
+  Wed Jan 4
+    17.00     Kayserispor v Fatih Karagümrük  2-4 (0-2)   @ RHG Enertürk Enerji Stadyumu › Kayseri
+              Kasimpasa v Alanyaspor  4-1 (2-0)   @ Recep Tayyip Erdoğan Stadyumu › İstanbul
+    20.00     Galatasaray v Ankaragucu  2-1 (2-1)   @ NEF Stadyumu › İstanbul
+              Konyaspor v Sivasspor  2-2 (1-1)   @ Konya Büyükşehir Belediye Stadyumu › Konya
+  Thu Jan 5
+    17.00     Gazişehir Gaziantep v Istanbul Basaksehir  1-1 (0-1)   @ Gaziantep Stadyumu › Gaziantep
+    20.00     Trabzonspor v Giresunspor  3-0 (1-0)   @ Şenol Güneş Spor Kompleksi › Trabzon
+              Adana Demirspor v İstanbulspor  6-0 (1-0)   @ Yeni Adana Stadyumu › Adana
+» Regular Season - 18
+  Sat Jan 7
+    16.00     Hatayspor v Antalyaspor  0-0 (0-0)   @ Yeni Hatay Stadyumu › Hatay
+    19.00     Besiktas v Kasimpasa  2-1 (2-0)   @ Vodafone Park › İstanbul
+  Sun Jan 8
+    13.30     Fatih Karagümrük v Konyaspor  3-3 (2-0)   @ Atatürk Olimpiyat Stadı › İstanbul
+    16.00     Ankaragucu v Kayserispor  2-1 (1-1)   @ Eryaman Stadyumu › Ankara
+              Giresunspor v Ümraniyespor  0-1 (0-0)   @ Çotanak Stadyumu › Giresun
+    19.00     Fenerbahce v Galatasaray  0-3 (0-1)   @ Ülker Stadyumu Fenerbahçe Şükrü Saracoğlu Spor Kompleksi › İstanbul
+  Mon Jan 9
+    17.00     Istanbul Basaksehir v Adana Demirspor  2-1 (0-0)   @ Başakşehir Fatih Terim Stadyumu › İstanbul
+    20.00     Alanyaspor v Trabzonspor  5-0 (3-0)   @ Kırbıyık Holding Stadyumu › Alanya
+              İstanbulspor v Gazişehir Gaziantep  1-1 (0-1)   @ Necmi Kadıoğlu Stadyumu › İstanbul
+» Regular Season - 19
+  Fri Jan 13
+    19.00     Kayserispor v Sivasspor  4-1 (3-0)   @ RHG Enertürk Enerji Stadyumu › Kayseri
+    20.00     Galatasaray v Hatayspor  4-0 (3-0)   @ NEF Stadyumu › İstanbul
+  Sat Jan 14
+    13.30     Antalyaspor v Giresunspor  2-2 (1-1)   @ Corendon Airlines Park › Antalya
+    16.00     Adana Demirspor v Ankaragucu  3-1 (0-0)   @ Yeni Adana Stadyumu › Adana
+              Konyaspor v Besiktas  1-2 (1-0)   @ Konya Büyükşehir Belediye Stadyumu › Konya
+    19.00     Trabzonspor v Istanbul Basaksehir  1-0 (1-0)   @ Şenol Güneş Spor Kompleksi › Trabzon
+  Sun Jan 15
+    13.30     Ümraniyespor v İstanbulspor  0-2 (0-2)   @ Ümraniye Hekimbaşı Şehir Stadyumu › İstanbul
+    16.00     Kasimpasa v Fatih Karagümrük  2-2 (1-0)   @ Recep Tayyip Erdoğan Stadyumu › İstanbul
+    19.00     Gazişehir Gaziantep v Fenerbahce  1-2 (0-1)   @ Gaziantep Stadyumu › Gaziantep
+» Regular Season - 20
+  Fri Jan 20
+    20.00     Adana Demirspor v Giresunspor  1-1 (0-1)   @ Yeni Adana Stadyumu › Adana
+  Sat Jan 21
+    16.00     Kasimpasa v Istanbul Basaksehir  1-3 (1-0)   @ Recep Tayyip Erdoğan Stadyumu › İstanbul
+    19.00     Galatasaray v Antalyaspor  2-1 (0-0)   @ NEF Stadyumu › İstanbul
+  Sun Jan 22
+    13.30     Gazişehir Gaziantep v Sivasspor  1-2 (0-1)   @ Gaziantep Stadyumu › Gaziantep
+    16.00     Alanyaspor v Fatih Karagümrük  2-2 (1-0)   @ Kırbıyık Holding Stadyumu › Alanya
+              Kayserispor v Besiktas  0-2 (0-2)   @ RHG Enertürk Enerji Stadyumu › Kayseri
+    19.00     Trabzonspor v İstanbulspor  4-0 (1-0)   @ Şenol Güneş Spor Kompleksi › Trabzon
+  Mon Jan 23
+    20.00     Konyaspor v Ankaragucu  0-1 (0-0)   @ Konya Büyükşehir Belediye Stadyumu › Konya
+              Ümraniyespor v Fenerbahce  1-2 (0-0)   @ Ümraniye Hekimbaşı Şehir Stadyumu › İstanbul
+» Regular Season - 21
+  Fri Jan 27
+    20.00     Besiktas v Alanyaspor  3-0 (1-0)   @ Vodafone Park › İstanbul
+  Sat Jan 28
+    13.30     Sivasspor v Adana Demirspor  1-2 (0-1)   @ Yeni Malatya Stadyumu › Malatya
+    16.00     Hatayspor v Trabzonspor  2-1 (0-1)   @ Yeni Hatay Stadyumu › Hatay
+              Ankaragucu v Gazişehir Gaziantep  0-2 (0-0)   @ Eryaman Stadyumu › Ankara
+    19.00     Giresunspor v Galatasaray  0-4 (0-1)   @ Çotanak Stadyumu › Giresun
+              Antalyaspor v Ümraniyespor  3-2 (1-1)   @ Corendon Airlines Park › Antalya
+  Sun Jan 29
+    13.30     İstanbulspor v Kayserispor  2-4 (2-1)   @ Necmi Kadıoğlu Stadyumu › İstanbul
+    19.00     Istanbul Basaksehir v Konyaspor  2-0 (1-0)   @ Başakşehir Fatih Terim Stadyumu › İstanbul
+              Fenerbahce v Kasimpasa  5-1 (2-1)   @ Ülker Stadyumu Fenerbahçe Şükrü Saracoğlu Spor Kompleksi › İstanbul
+» Regular Season - 22
+  Tue Jan 31
+    17.00     Alanyaspor v Sivasspor  0-3 (0-2)   @ Kırbıyık Holding Stadyumu › Alanya
+    20.00     Fatih Karagümrük v Besiktas  1-1 (0-1)   @ Atatürk Olimpiyat Stadı › İstanbul
+  Wed Feb 1
+    17.00     Kasimpasa v Giresunspor  5-1 (3-1)   @ Recep Tayyip Erdoğan Stadyumu › İstanbul
+              Gazişehir Gaziantep v Hatayspor  4-1 (1-1)   @ Gaziantep Stadyumu › Gaziantep
+    20.00     Galatasaray v Ümraniyespor  3-2 (1-2)   @ NEF Stadyumu › İstanbul
+              Trabzonspor v Antalyaspor  2-0 (1-0)   @ Şenol Güneş Spor Kompleksi › Trabzon
+  Thu Feb 2
+    17.00     Kayserispor v Istanbul Basaksehir  1-0 (0-0)   @ RHG Enertürk Enerji Stadyumu › Kayseri
+              Konyaspor v İstanbulspor  0-1 (0-0)   @ Konya Büyükşehir Belediye Stadyumu › Konya
+    20.00     Adana Demirspor v Fenerbahce  1-1 (0-0)   @ Yeni Adana Stadyumu › Adana
+» Regular Season - 23
+  Sat Feb 4
+    13.30     Ankaragucu v Fatih Karagümrük  0-2 (0-1)   @ Eryaman Stadyumu › Ankara
+    16.00     Sivasspor v Besiktas  1-0 (1-0)   @ Yeni Sivas 4 Eylül Stadyumu › Sivas
+    19.00     Antalyaspor v Gazişehir Gaziantep  1-0 (1-0)   @ Corendon Airlines Park › Antalya
+  Sun Feb 5
+    13.30     İstanbulspor v Alanyaspor  2-1 (0-0)   @ Necmi Kadıoğlu Stadyumu › İstanbul
+    16.00     Hatayspor v Kasimpasa  1-0 (0-0)   @ Yeni Hatay Stadyumu › Hatay
+    19.00     Galatasaray v Trabzonspor  2-1 (1-1)   @ NEF Stadyumu › İstanbul
+  Sat Feb 25
+    19.00     Fenerbahce v Konyaspor  4-0 (2-0)   @ Ülker Stadyumu Fenerbahçe Şükrü Saracoğlu Spor Kompleksi › İstanbul
+              Giresunspor v Kayserispor  1-2 (0-2)   @ Çotanak Stadyumu › Giresun
+» Regular Season - 14
+  Sun Feb 26
+    19.00     Besiktas v Antalyaspor  0-0 (0-0)   @ Vodafone Park › İstanbul
+» Regular Season - 23
+  Sun Feb 26
+    16.00     Ümraniyespor v Adana Demirspor  1-1 (0-0)   @ Ümraniye Hekimbaşı Şehir Stadyumu › İstanbul
+» Regular Season - 24
+  Fri Mar 3
+    20.00     Alanyaspor v Istanbul Basaksehir  1-0 (0-0)   @ Kırbıyık Holding Stadyumu › Alanya
+  Sat Mar 4
+    13.30     Fatih Karagümrük v Sivasspor  4-3 (1-1)   @ Atatürk Olimpiyat Stadı › İstanbul
+    16.00     Trabzonspor v Ümraniyespor  1-2 (0-0)   @ Şenol Güneş Spor Kompleksi › Trabzon
+    19.00     Kayserispor v Fenerbahce  1-2 (0-1)   @ RHG Enertürk Enerji Stadyumu › Kayseri
+  Sun Mar 5
+    16.00     Adana Demirspor v Hatayspor  3-0   @ Yeni Adana Stadyumu › Adana
+              Konyaspor v Giresunspor  0-0 (0-0)   @ Konya Büyükşehir Belediye Stadyumu › Konya
+    19.00     Besiktas v Ankaragucu  2-1 (1-0)   @ Vodafone Park › İstanbul
+    20.00     Gazişehir Gaziantep v Galatasaray  0-3   @ Gaziantep Stadyumu › Gaziantep
+  Mon Mar 6
+    20.00     Kasimpasa v Antalyaspor  3-1 (2-1)   @ Recep Tayyip Erdoğan Stadyumu › İstanbul
+» Regular Season - 25
+  Fri Mar 10
+    20.00     Giresunspor v Fatih Karagümrük  2-2 (2-1)   @ Çotanak Stadyumu › Giresun
+  Sat Mar 11
+    16.00     Antalyaspor v Kayserispor  4-0 (1-0)   @ Corendon Airlines Park › Antalya
+    19.00     Galatasaray v Kasimpasa  1-0 (0-0)   @ NEF Stadyumu › İstanbul
+  Sun Mar 12
+    13.30     Ankaragucu v Alanyaspor  2-0 (1-0)   @ Eryaman Stadyumu › Ankara
+              Hatayspor v Konyaspor  0-3   @ Yeni Hatay Stadyumu › Hatay
+    16.00     Trabzonspor v Adana Demirspor  4-1 (1-1)   @ Şenol Güneş Spor Kompleksi › Trabzon
+              Ümraniyespor v Gazişehir Gaziantep  3-0   @ Ümraniye Hekimbaşı Şehir Stadyumu › İstanbul
+    19.00     Istanbul Basaksehir v Besiktas  0-2 (0-1)   @ Başakşehir Fatih Terim Stadyumu › İstanbul
+  Mon Mar 13
+    20.00     İstanbulspor v Sivasspor  3-0 (1-0)   @ Necmi Kadıoğlu Stadyumu › İstanbul
+» Regular Season - 26
+  Fri Mar 17
+    20.00     Konyaspor v Galatasaray  2-1 (0-1)   @ Konya Büyükşehir Belediye Stadyumu › Konya
+  Sat Mar 18
+    13.30     Kasimpasa v Ümraniyespor  1-1 (1-1)   @ Recep Tayyip Erdoğan Stadyumu › İstanbul
+    16.00     Adana Demirspor v Antalyaspor  2-0 (2-0)   @ Yeni Adana Stadyumu › Adana
+    19.00     Besiktas v İstanbulspor  3-1 (1-0)   @ Vodafone Park › İstanbul
+  Sun Mar 19
+    03.00     Gazişehir Gaziantep v Trabzonspor  [cancelled]   @ Gaziantep Stadyumu › Gaziantep
+              Kayserispor v Hatayspor  3-0   @ RHG Enertürk Enerji Stadyumu › Kayseri
+    16.00     Fatih Karagümrük v Istanbul Basaksehir  2-2 (1-1)   @ Atatürk Olimpiyat Stadı › İstanbul
+              Sivasspor v Ankaragucu  2-0 (1-0)   @ Yeni Sivas 4 Eylül Stadyumu › Sivas
+    19.00     Alanyaspor v Fenerbahce  1-3 (1-0)   @ Kırbıyık Holding Stadyumu › Alanya
+» Regular Season - 27
+  Sat Apr 1
+    16.00     Trabzonspor v Kayserispor  3-4 (1-2)   @ Şenol Güneş Spor Kompleksi › Trabzon
+              Istanbul Basaksehir v Ankaragucu  1-0 (1-0)   @ Başakşehir Fatih Terim Stadyumu › İstanbul
+    20.30     Galatasaray v Adana Demirspor  2-0 (0-0)   @ NEF Stadyumu › İstanbul
+  Sun Apr 2
+    03.00     Gazişehir Gaziantep v Kasimpasa  0-3   @ Gaziantep Stadyumu › Gaziantep
+              Hatayspor v Sivasspor  0-3   @ Yeni Hatay Stadyumu › Hatay
+    13.30     Ümraniyespor v Konyaspor  2-2 (0-0)   @ Ümraniye Hekimbaşı Şehir Stadyumu › İstanbul
+    16.00     Giresunspor v Alanyaspor  2-2 (0-1)   @ Çotanak Stadyumu › Giresun
+    20.30     Fenerbahce v Besiktas  2-4 (1-0)   @ Ülker Stadyumu Fenerbahçe Şükrü Saracoğlu Spor Kompleksi › İstanbul
+  Mon Apr 3
+    20.30     İstanbulspor v Fatih Karagümrük  0-1 (0-1)   @ Necmi Kadıoğlu Stadyumu › İstanbul
+» Regular Season - 28
+  Fri Apr 7
+    20.30     Konyaspor v Antalyaspor  1-1 (1-1)   @ Konya Büyükşehir Belediye Stadyumu › Konya
+  Sat Apr 8
+    16.00     Ankaragucu v İstanbulspor  3-2 (2-0)   @ Eryaman Stadyumu › Ankara
+    20.30     Kasimpasa v Trabzonspor  2-0 (1-0)   @ Recep Tayyip Erdoğan Stadyumu › İstanbul
+  Sun Apr 9
+    03.00     Adana Demirspor v Gazişehir Gaziantep  3-0   @ Yeni Adana Stadyumu › Adana
+              Alanyaspor v Hatayspor  3-0   @ Kırbıyık Holding Stadyumu › Alanya
+    16.00     Sivasspor v Istanbul Basaksehir  1-1 (1-0)   @ Yeni Sivas 4 Eylül Stadyumu › Sivas
+    20.30     Besiktas v Giresunspor  3-1 (2-1)   @ Vodafone Park › İstanbul
+  Mon Apr 10
+    16.00     Kayserispor v Ümraniyespor  3-1 (1-1)   @ RHG Enertürk Enerji Stadyumu › Kayseri
+    20.30     Fatih Karagümrük v Fenerbahce  1-2 (1-0)   @ Atatürk Olimpiyat Stadı › İstanbul
+» Regular Season - 29
+  Fri Apr 14
+    20.30     Antalyaspor v Alanyaspor  3-1 (2-1)   @ Corendon Airlines Park › Antalya
+              Galatasaray v Kayserispor  6-0 (4-0)   @ NEF Stadyumu › İstanbul
+  Sat Apr 15
+    16.00     İstanbulspor v Istanbul Basaksehir  1-0 (1-0)   @ Necmi Kadıoğlu Stadyumu › İstanbul
+              Adana Demirspor v Kasimpasa  5-0 (3-0)   @ Yeni Adana Stadyumu › Adana
+    20.30     Fenerbahce v Ankaragucu  2-1 (0-0)   @ Ülker Stadyumu Fenerbahçe Şükrü Saracoğlu Spor Kompleksi › İstanbul
+  Sun Apr 16
+    03.00     Gazişehir Gaziantep v Konyaspor  0-3   @ Gaziantep Stadyumu › Gaziantep
+              Hatayspor v Fatih Karagümrük  0-3   @ Yeni Hatay Stadyumu › Hatay
+    16.00     Giresunspor v Sivasspor  1-0 (1-0)   @ Çotanak Stadyumu › Giresun
+    20.30     Trabzonspor v Besiktas  0-0 (0-0)   @ Şenol Güneş Spor Kompleksi › Trabzon
+» Regular Season - 30
+  Tue Apr 18
+    20.30     Fatih Karagümrük v Ümraniyespor  4-2 (2-1)   @ Atatürk Olimpiyat Stadı › İstanbul
+              Alanyaspor v Galatasaray  1-4 (1-2)   @ Kırbıyık Holding Stadyumu › Alanya
+  Wed Apr 19
+    03.00     Besiktas v Hatayspor  3-0   @ Vodafone Park › İstanbul
+    17.00     Kayserispor v Kasimpasa  0-0 (0-0)   @ RHG Enertürk Enerji Stadyumu › Kayseri
+              İstanbulspor v Antalyaspor  3-3 (2-1)   @ Necmi Kadıoğlu Stadyumu › İstanbul
+    20.30     Konyaspor v Adana Demirspor  1-2 (1-1)   @ Konya Büyükşehir Belediye Stadyumu › Konya
+              Istanbul Basaksehir v Fenerbahce  1-2 (1-0)   @ Başakşehir Fatih Terim Stadyumu › İstanbul
+  Thu Apr 20
+    17.00     Ankaragucu v Giresunspor  3-1 (0-1)   @ Eryaman Stadyumu › Ankara
+    20.30     Sivasspor v Trabzonspor  4-1 (2-1)   @ Yeni Sivas 4 Eylül Stadyumu › Sivas
+» Regular Season - 31
+  Sat Apr 22
+    19.00     Ümraniyespor v Besiktas  0-2 (0-1)   @ Ümraniye Hekimbaşı Şehir Stadyumu › İstanbul
+  Sun Apr 23
+    03.00     Gazişehir Gaziantep v Alanyaspor  0-3   @ Gaziantep Stadyumu › Gaziantep
+              Hatayspor v Ankaragucu  0-3   @ Yeni Hatay Stadyumu › Hatay
+    13.30     Kasimpasa v Konyaspor  1-2 (1-2)   @ Recep Tayyip Erdoğan Stadyumu › İstanbul
+    16.00     Adana Demirspor v Kayserispor  5-3 (4-3)   @ Yeni Adana Stadyumu › Adana
+    19.00     Galatasaray v Fatih Karagümrük  3-3 (2-3)   @ NEF Stadyumu › İstanbul
+  Mon Apr 24
+    17.00     Giresunspor v Istanbul Basaksehir  2-4 (0-4)   @ Çotanak Stadyumu › Giresun
+    20.00     Antalyaspor v Sivasspor  1-2 (0-2)   @ Corendon Airlines Park › Antalya
+              Fenerbahce v İstanbulspor  3-3 (1-0)   @ Ülker Stadyumu Fenerbahçe Şükrü Saracoğlu Spor Kompleksi › İstanbul
+» Regular Season - 32
+  Fri Apr 28
+    20.00     Alanyaspor v Ümraniyespor  1-0 (1-0)   @ Kırbıyık Holding Stadyumu › Alanya
+  Sat Apr 29
+    16.00     Fatih Karagümrük v Antalyaspor  0-1 (0-1)   @ Atatürk Olimpiyat Stadı › İstanbul
+              Konyaspor v Trabzonspor  2-1 (1-1)   @ Konya Büyükşehir Belediye Stadyumu › Konya
+    19.00     Ankaragucu v Kasimpasa  0-0 (0-0)   @ Eryaman Stadyumu › Ankara
+              Sivasspor v Fenerbahce  1-3 (0-3)   @ Yeni Sivas 4 Eylül Stadyumu › Sivas
+  Sun Apr 30
+    03.00     Kayserispor v Gazişehir Gaziantep  3-0   @ RHG Enertürk Enerji Stadyumu › Kayseri
+              Istanbul Basaksehir v Hatayspor  3-0   @ Başakşehir Fatih Terim Stadyumu › İstanbul
+    19.00     Besiktas v Galatasaray  3-1 (1-1)   @ Vodafone Park › İstanbul
+  Mon May 1
+    20.00     İstanbulspor v Giresunspor  1-0 (1-0)   @ Necmi Kadıoğlu Stadyumu › İstanbul
+» Regular Season - 33
+  Sat May 6
+    19.00     Antalyaspor v Besiktas  1-3 (1-0)   @ Corendon Airlines Park › Antalya
+    21.00     Adana Demirspor v Alanyaspor  4-2 (2-2)   @ Yeni Adana Stadyumu › Adana
+  Sun May 7
+    03.00     Hatayspor v İstanbulspor  0-3   @ Yeni Hatay Stadyumu › Hatay
+              Gazişehir Gaziantep v Fatih Karagümrük  0-3   @ Gaziantep Stadyumu › Gaziantep
+    13.30     Ümraniyespor v Sivasspor  4-1 (2-1)   @ Ümraniye Hekimbaşı Şehir Stadyumu › İstanbul
+    16.00     Konyaspor v Kayserispor  2-2 (0-0)   @ Konya Büyükşehir Belediye Stadyumu › Konya
+    19.00     Giresunspor v Fenerbahce  1-1 (0-1)   @ Çotanak Stadyumu › Giresun
+  Mon May 8
+    20.00     Trabzonspor v Ankaragucu  2-0 (1-0)   @ Şenol Güneş Spor Kompleksi › Trabzon
+              Galatasaray v Istanbul Basaksehir  1-0 (1-0)   @ NEF Stadyumu › İstanbul
+» Regular Season - 34
+  Tue May 16
+    17.00     Sivasspor v Kasimpasa  1-2 (0-0)   @ Yeni Sivas 4 Eylül Stadyumu › Sivas
+    20.00     İstanbulspor v Galatasaray  0-2 (0-1)   @ Recep Tayyip Erdoğan Stadyumu › İstanbul
+              Alanyaspor v Konyaspor  0-3 (0-1)   @ Kırbıyık Holding Stadyumu › Alanya
+  Wed May 17
+    03.00     Besiktas v Gazişehir Gaziantep  3-0   @ Vodafone Park › İstanbul
+              Giresunspor v Hatayspor  3-0   @ Çotanak Stadyumu › Giresun
+    17.00     Istanbul Basaksehir v Ümraniyespor  1-1 (1-0)   @ Başakşehir Fatih Terim Stadyumu › İstanbul
+    20.00     Fatih Karagümrük v Adana Demirspor  2-3 (1-0)   @ Vodafone Park › İstanbul
+              Ankaragucu v Antalyaspor  1-1 (0-0)   @ Eryaman Stadyumu › Ankara
+  Thu May 18
+    20.00     Fenerbahce v Trabzonspor  3-1 (1-0)   @ Ülker Stadyumu Fenerbahçe Şükrü Saracoğlu Spor Kompleksi › İstanbul
+» Regular Season - 35
+  Sat May 20
+    16.00     Kasimpasa v İstanbulspor  1-0 (0-0)   @ Recep Tayyip Erdoğan Stadyumu › İstanbul
+    19.00     Galatasaray v Sivasspor  2-0 (1-0)   @ NEF Stadyumu › İstanbul
+              Kayserispor v Alanyaspor  0-4 (0-2)   @ RHG Enertürk Enerji Stadyumu › Kayseri
+  Sun May 21
+    03.00     Hatayspor v Fenerbahce  0-3   @ Yeni Hatay Stadyumu › Hatay
+              Gazişehir Gaziantep v Giresunspor  0-3   @ Gaziantep Stadyumu › Gaziantep
+    16.00     Ümraniyespor v Ankaragucu  1-2 (1-1)   @ Ümraniye Hekimbaşı Şehir Stadyumu › İstanbul
+    19.00     Adana Demirspor v Besiktas  1-4 (1-1)   @ Yeni Adana Stadyumu › Adana
+              Antalyaspor v Istanbul Basaksehir  0-0 (0-0)   @ Corendon Airlines Park › Antalya
+  Mon May 22
+    20.00     Trabzonspor v Fatih Karagümrük  4-1 (3-1)   @ Şenol Güneş Spor Kompleksi › Trabzon
+» Regular Season - 36
+  Tue May 30
+    03.00     Hatayspor v Ümraniyespor  0-3   @ Yeni Hatay Stadyumu › Hatay
+              Istanbul Basaksehir v Gazişehir Gaziantep  3-0   @ Başakşehir Fatih Terim Stadyumu › İstanbul
+    20.00     Fenerbahce v Antalyaspor  2-0 (1-0)   @ Ülker Stadyumu Fenerbahçe Şükrü Saracoğlu Spor Kompleksi › İstanbul
+              Alanyaspor v Kasimpasa  1-3 (0-0)   @ Kırbıyık Holding Stadyumu › Alanya
+              Sivasspor v Konyaspor  1-0 (1-0)   @ Yeni Sivas 4 Eylül Stadyumu › Sivas
+              Ankaragucu v Galatasaray  1-4 (1-2)   @ Eryaman Stadyumu › Ankara
+              Giresunspor v Trabzonspor  2-4 (0-2)   @ Çotanak Stadyumu › Giresun
+              İstanbulspor v Adana Demirspor  0-2 (0-1)   @ Necmi Kadıoğlu Stadyumu › İstanbul
+              Fatih Karagümrük v Kayserispor  2-0 (2-0)   @ Başakşehir Fatih Terim Stadyumu › İstanbul
+» Regular Season - 37
+  Sat Jun 3
+    03.00     Gazişehir Gaziantep v İstanbulspor  0-3   @ Gaziantep Stadyumu › Gaziantep
+              Antalyaspor v Hatayspor  3-0   @ Corendon Airlines Park › Antalya
+    16.00     Konyaspor v Fatih Karagümrük  1-1 (1-1)   @ Konya Büyükşehir Belediye Stadyumu › Konya
+    19.00     Trabzonspor v Alanyaspor  5-1 (4-1)   @ Şenol Güneş Spor Kompleksi › Trabzon
+              Kayserispor v Ankaragucu  0-1 (0-1)   @ RHG Enertürk Enerji Stadyumu › Kayseri
+              Kasimpasa v Besiktas  2-5 (0-2)   @ Recep Tayyip Erdoğan Stadyumu › İstanbul
+              Adana Demirspor v Istanbul Basaksehir  2-3 (1-2)   @ Yeni Adana Stadyumu › Adana
+              Ümraniyespor v Giresunspor  0-1 (0-1)   @ Ümraniye Hekimbaşı Şehir Stadyumu › İstanbul
+  Sun Jun 4
+    19.00     Galatasaray v Fenerbahce  3-0 (1-0)   @ NEF Stadyumu › İstanbul
+» Regular Season - 38
+  Tue Jun 6
+    17.00     Fatih Karagümrük v Kasimpasa  3-0 (1-0)   @ NEF Stadyumu › İstanbul
+              Sivasspor v Kayserispor  1-1 (1-1)   @ Yeni Sivas 4 Eylül Stadyumu › Sivas
+    20.00     Istanbul Basaksehir v Trabzonspor  3-1 (1-0)   @ Başakşehir Fatih Terim Stadyumu › İstanbul
+  Wed Jun 7
+    03.00     Fenerbahce v Gazişehir Gaziantep  3-0   @ Ülker Stadyumu Fenerbahçe Şükrü Saracoğlu Spor Kompleksi › İstanbul
+              Hatayspor v Galatasaray  0-3   @ Yeni Hatay Stadyumu › Hatay
+    20.00     Ankaragucu v Adana Demirspor  1-2 (0-1)   @ Eryaman Stadyumu › Ankara
+              Giresunspor v Antalyaspor  2-0 (1-0)   @ Çotanak Stadyumu › Giresun
+              İstanbulspor v Ümraniyespor  4-0 (1-0)   @ Necmi Kadıoğlu Stadyumu › İstanbul
+              Besiktas v Konyaspor  3-3 (2-1)   @ Vodafone Park › İstanbul

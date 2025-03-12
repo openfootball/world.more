@@ -1,0 +1,555 @@
+= Italy | Serie B 2022/23
+
+  # Date       Fri Aug/12 2022 - Sun Jun/11 2023 (303d)
+  # Teams      21
+  # Matches    390
+
+  # Note - All times in Europe/Rome
+
+» Regular Season - 1
+  Fri Aug 12 2022
+    20.45     Parma v Bari  2-2 (2-2)   @ Stadio Ennio Tardini › Parma
+  Sat Aug 13
+    20.45     Palermo v Perugia  2-0 (1-0)   @ Stadio Renzo Barbera › Palermo
+              como v Cagliari  1-1 (1-0)   @ Stadio Giuseppe Sinigaglia › Como
+              Cittadella v Pisa  4-3 (1-1)   @ Stadio Pier Cesare Tombolato › Cittadella
+  Sun Aug 14
+    20.45     Spal v Reggina  1-3 (0-1)   @ Stadio Paolo Mazza › Ferrara
+              Benevento v Nuova Cosenza  0-1 (0-0)   @ Stadio Ciro Vigorito › Benevento
+              Ascoli v Ternana  2-1 (2-0)   @ Stadio Cino e Lillo Del Duca › Ascoli Piceno
+              Venezia v Genoa  1-2 (0-1)   @ Stadio Pierluigi Penzo › Venezia
+              Brescia v Sudtirol  2-0 (1-0)   @ Stadio Mario Rigamonti › Brescia
+              Modena v Frosinone  0-1 (0-1)   @ Stadio Alberto Braglia › Modena
+» Regular Season - 2
+  Fri Aug 19
+    20.45     Bari v Palermo  1-1 (0-1)   @ Stadio Comunale San Nicola › Bari
+  Sat Aug 20
+    20.45     Genoa v Benevento  0-0 (0-0)   @ Stadio Comunale Luigi Ferraris › Genova
+              Ascoli v Spal  1-1 (1-1)   @ Stadio Cino e Lillo Del Duca › Ascoli Piceno
+              Perugia v Parma  0-0 (0-0)   @ Stadio Renato Curi › Perugia
+  Sun Aug 21
+    20.45     Cagliari v Cittadella  2-1 (0-1)   @ Unipol Domus › Cagliari
+              Frosinone v Brescia  3-0 (1-0)   @ Stadio Benito Stirpe › Frosinone
+              Ternana v Reggina  1-0 (1-0)   @ Stadio Libero Liberati › Terni
+              Pisa v como  2-2 (1-1)   @ Arena Garibaldi-Stadio Romeo Anconetani › Pisa
+              Sudtirol v Venezia  1-2 (0-0)   @ Stadio Marco Druso › Bozen
+              Nuova Cosenza v Modena  2-1 (0-1)   @ Stadio San Vito-Luigi Marulla › Cosenza
+» Regular Season - 3
+  Sat Aug 27
+    20.45     Palermo v Ascoli  2-3 (1-2)   @ Stadio Renzo Barbera › Palermo
+              Modena v Ternana  4-1 (2-0)   @ Stadio Alberto Braglia › Modena
+              Spal v Cagliari  1-0 (1-0)   @ Stadio Paolo Mazza › Ferrara
+  Sun Aug 28
+    20.45     Benevento v Frosinone  2-1 (1-0)   @ Stadio Ciro Vigorito › Benevento
+              Cittadella v Venezia  1-1 (0-0)   @ Stadio Pier Cesare Tombolato › Cittadella
+              Parma v Nuova Cosenza  1-0 (1-0)   @ Stadio Ennio Tardini › Parma
+              Perugia v Bari  1-3 (0-1)   @ Stadio Renato Curi › Perugia
+              Pisa v Genoa  0-1 (0-1)   @ Arena Garibaldi-Stadio Romeo Anconetani › Pisa
+              Reggina v Sudtirol  4-0 (2-0)   @ Stadio Oreste Granillo › Reggio Calabria
+  Mon Aug 29
+    20.45     como v Brescia  0-1 (0-1)   @ Stadio Giuseppe Sinigaglia › Como
+» Regular Season - 4
+  Fri Sep 2
+    20.30     Cagliari v Modena  1-0 (1-0)   @ Unipol Domus › Cagliari
+  Sat Sep 3
+    14.00     Ascoli v Cittadella  0-0 (0-0)   @ Stadio Cino e Lillo Del Duca › Ascoli Piceno
+              Bari v Spal  2-2 (2-0)   @ Stadio Comunale San Nicola › Bari
+              Frosinone v como  2-0 (1-0)   @ Stadio Benito Stirpe › Frosinone
+              Ternana v Nuova Cosenza  1-1 (1-0)   @ Stadio Libero Liberati › Terni
+              Venezia v Benevento  0-2 (0-0)   @ Stadio Pierluigi Penzo › Venezia
+              Brescia v Perugia  2-1 (2-1)   @ Stadio Mario Rigamonti › Brescia
+              Reggina v Palermo  3-0 (1-0)   @ Stadio Oreste Granillo › Reggio Calabria
+    16.15     Genoa v Parma  3-3 (2-2)   @ Stadio Comunale Luigi Ferraris › Genova
+  Sun Sep 4
+    16.15     Sudtirol v Pisa  2-1 (1-1)   @ Stadio Marco Druso › Bozen
+» Regular Season - 5
+  Fri Sep 9
+    20.30     Palermo v Genoa  1-0 (0-0)   @ Stadio Renzo Barbera › Palermo
+  Sat Sep 10
+    14.00     Benevento v Cagliari  0-2 (0-0)   @ Stadio Ciro Vigorito › Benevento
+              Cittadella v Frosinone  1-0 (0-0)   @ Stadio Pier Cesare Tombolato › Cittadella
+              Parma v Ternana  2-3 (1-0)   @ Stadio Ennio Tardini › Parma
+              Pisa v Reggina  0-1 (0-1)   @ Arena Garibaldi-Stadio Romeo Anconetani › Pisa
+              como v Sudtirol  0-2 (0-0)   @ Stadio Giuseppe Sinigaglia › Como
+              Modena v Brescia  1-3 (1-1)   @ Stadio Alberto Braglia › Modena
+              Nuova Cosenza v Bari  0-1 (0-1)   @ Stadio San Vito-Luigi Marulla › Cosenza
+    16.15     Perugia v Ascoli  1-0 (1-0)   @ Stadio Renato Curi › Perugia
+  Sun Sep 11
+    16.15     Spal v Venezia  2-0 (1-0)   @ Stadio Paolo Mazza › Ferrara
+» Regular Season - 6
+  Fri Sep 16
+    20.30     Brescia v Benevento  1-0 (0-0)   @ Stadio Mario Rigamonti › Brescia
+  Sat Sep 17
+    14.00     Cagliari v Bari  0-1 (0-0)   @ Unipol Domus › Cagliari
+              Ascoli v Parma  1-3 (0-2)   @ Stadio Cino e Lillo Del Duca › Ascoli Piceno
+              Frosinone v Palermo  1-0 (1-0)   @ Stadio Benito Stirpe › Frosinone
+              Venezia v Pisa  1-1 (1-1)   @ Stadio Pierluigi Penzo › Venezia
+              como v Spal  3-3 (1-1)   @ Stadio Giuseppe Sinigaglia › Como
+              Sudtirol v Nuova Cosenza  1-1 (1-0)   @ Stadio Marco Druso › Bozen
+              Reggina v Cittadella  3-0 (1-0)   @ Stadio Oreste Granillo › Reggio Calabria
+    16.15     Genoa v Modena  1-0 (1-0)   @ Stadio Comunale Luigi Ferraris › Genova
+  Sun Sep 18
+    16.15     Ternana v Perugia  1-0 (1-0)   @ Stadio Libero Liberati › Terni
+» Regular Season - 7
+  Fri Sep 30
+    20.30     Nuova Cosenza v como  3-1 (2-1)   @ Stadio San Vito-Luigi Marulla › Cosenza
+  Sat Oct 1
+    14.00     Cagliari v Venezia  1-4 (1-0)   @ Unipol Domus › Cagliari
+              Spal v Genoa  0-2 (0-1)   @ Stadio Paolo Mazza › Ferrara
+              Bari v Brescia  6-2 (3-0)   @ Stadio Comunale San Nicola › Bari
+              Cittadella v Ternana  0-2 (0-1)   @ Stadio Pier Cesare Tombolato › Cittadella
+              Palermo v Sudtirol  0-1 (0-1)   @ Stadio Renzo Barbera › Palermo
+              Parma v Frosinone  2-1 (1-0)   @ Stadio Ennio Tardini › Parma
+              Modena v Reggina  1-0 (0-0)   @ Stadio Alberto Braglia › Modena
+    16.15     Perugia v Pisa  1-3 (0-1)   @ Stadio Renato Curi › Perugia
+  Sun Oct 2
+    16.15     Benevento v Ascoli  1-1 (0-1)   @ Stadio Ciro Vigorito › Benevento
+» Regular Season - 8
+  Fri Oct 7
+    20.30     Genoa v Cagliari  0-0 (0-0)   @ Stadio Comunale Luigi Ferraris › Genova
+  Sat Oct 8
+    14.00     Ascoli v Modena  1-2 (1-0)   @ Stadio Cino e Lillo Del Duca › Ascoli Piceno
+              Ternana v Palermo  3-0 (0-0)   @ Stadio Libero Liberati › Terni
+              Venezia v Bari  1-2 (0-0)   @ Stadio Pierluigi Penzo › Venezia
+              Brescia v Cittadella  1-1 (1-0)   @ Stadio Mario Rigamonti › Brescia
+              Pisa v Parma  0-0 (0-0)   @ Arena Garibaldi-Stadio Romeo Anconetani › Pisa
+    16.15     Reggina v Nuova Cosenza  3-0 (1-0)   @ Stadio Oreste Granillo › Reggio Calabria
+              Frosinone v Spal  2-0 (0-0)   @ Stadio Benito Stirpe › Frosinone
+  Sun Oct 9
+    16.15     Sudtirol v Benevento  1-1 (0-1)   @ Stadio Marco Druso › Bozen
+              como v Perugia  1-0 (1-0)   @ Stadio Giuseppe Sinigaglia › Como
+» Regular Season - 9
+  Fri Oct 14
+    20.30     Venezia v Frosinone  1-3 (1-0)   @ Stadio Pierluigi Penzo › Venezia
+  Sat Oct 15
+    14.00     Cagliari v Brescia  2-1 (2-0)   @ Unipol Domus › Cagliari
+              Benevento v Ternana  2-3 (2-0)   @ Stadio Ciro Vigorito › Benevento
+              Cittadella v Spal  0-0 (0-0)   @ Stadio Pier Cesare Tombolato › Cittadella
+              Palermo v Pisa  3-3 (2-1)   @ Stadio Renzo Barbera › Palermo
+              Parma v Reggina  2-0 (0-0)   @ Stadio Ennio Tardini › Parma
+              Modena v como  5-1 (3-0)   @ Stadio Alberto Braglia › Modena
+              Nuova Cosenza v Genoa  1-2 (1-2)   @ Stadio San Vito-Luigi Marulla › Cosenza
+    16.15     Bari v Ascoli  0-2 (0-0)   @ Stadio Comunale San Nicola › Bari
+  Sun Oct 16
+    16.15     Perugia v Sudtirol  1-2 (0-1)   @ Stadio Renato Curi › Perugia
+» Regular Season - 10
+  Sat Oct 22
+    14.00     Spal v Nuova Cosenza  5-0 (2-0)   @ Stadio Paolo Mazza › Ferrara
+              Frosinone v Bari  1-0 (0-0)   @ Stadio Benito Stirpe › Frosinone
+              Brescia v Venezia  1-1 (1-0)   @ Stadio Mario Rigamonti › Brescia
+              como v Benevento  2-1 (2-1)   @ Stadio Giuseppe Sinigaglia › Como
+              Sudtirol v Parma  1-0 (1-0)   @ Stadio Marco Druso › Bozen
+              Reggina v Perugia  2-3 (0-1)   @ Stadio Oreste Granillo › Reggio Calabria
+    16.15     Ternana v Genoa  1-2 (1-0)   @ Stadio Libero Liberati › Terni
+  Sun Oct 23
+    16.15     Palermo v Cittadella  0-0 (0-0)   @ Stadio Renzo Barbera › Palermo
+              Pisa v Modena  4-2 (1-1)   @ Arena Garibaldi-Stadio Romeo Anconetani › Pisa
+  Mon Oct 24
+    20.30     Ascoli v Cagliari  2-1 (1-0)   @ Stadio Cino e Lillo Del Duca › Ascoli Piceno
+» Regular Season - 11
+  Fri Oct 28
+    20.30     Bari v Ternana  0-0 (0-0)   @ Stadio Comunale San Nicola › Bari
+  Sat Oct 29
+    14.00     Cagliari v Reggina  1-1 (1-1)   @ Unipol Domus › Cagliari
+              Spal v Sudtirol  1-1 (1-0)   @ Stadio Paolo Mazza › Ferrara
+              Benevento v Pisa  0-0 (0-0)   @ Stadio Ciro Vigorito › Benevento
+              Venezia v Ascoli  0-2 (0-0)   @ Stadio Pierluigi Penzo › Venezia
+              Parma v como  1-0 (1-0)   @ Stadio Ennio Tardini › Parma
+              Modena v Palermo  0-2 (0-2)   @ Stadio Alberto Braglia › Modena
+              Nuova Cosenza v Frosinone  1-2 (1-1)   @ Stadio San Vito-Luigi Marulla › Cosenza
+    16.15     Genoa v Brescia  1-1 (1-0)   @ Stadio Comunale Luigi Ferraris › Genova
+  Sun Oct 30
+    16.15     Perugia v Cittadella  0-2 (0-1)   @ Stadio Renato Curi › Perugia
+» Regular Season - 12
+  Sat Nov 5
+    14.00     Benevento v Bari  1-1 (1-0)   @ Stadio Ciro Vigorito › Benevento
+              Cittadella v Modena  0-0 (0-0)   @ Stadio Pier Cesare Tombolato › Cittadella
+              Ternana v Spal  0-0 (0-0)   @ Stadio Libero Liberati › Terni
+              Brescia v Ascoli  1-1 (0-0)   @ Stadio Mario Rigamonti › Brescia
+              Pisa v Nuova Cosenza  3-1 (2-0)   @ Arena Garibaldi-Stadio Romeo Anconetani › Pisa
+              Sudtirol v Cagliari  2-2 (1-1)   @ Stadio Marco Druso › Bozen
+    16.15     Palermo v Parma  1-0 (0-0)   @ Stadio Renzo Barbera › Palermo
+              Frosinone v Perugia  1-0 (1-0)   @ Stadio Benito Stirpe › Frosinone
+  Sun Nov 6
+    16.15     como v Venezia  1-0 (0-0)   @ Stadio Giuseppe Sinigaglia › Como
+  Mon Nov 7
+    20.30     Reggina v Genoa  2-1 (1-1)   @ Stadio Oreste Granillo › Reggio Calabria
+» Regular Season - 13
+  Fri Nov 11
+    20.30     Ascoli v Frosinone  0-1 (0-0)   @ Stadio Cino e Lillo Del Duca › Ascoli Piceno
+  Sat Nov 12
+    14.00     Cagliari v Pisa  1-1 (0-0)   @ Unipol Domus › Cagliari
+              Spal v Benevento  1-2 (1-0)   @ Stadio Paolo Mazza › Ferrara
+              Bari v Sudtirol  2-2 (1-2)   @ Stadio Comunale San Nicola › Bari
+              Venezia v Reggina  1-2 (1-0)   @ Stadio Pierluigi Penzo › Venezia
+              Parma v Cittadella  3-1 (1-0)   @ Stadio Ennio Tardini › Parma
+              Modena v Perugia  1-1 (1-1)   @ Stadio Alberto Braglia › Modena
+              Nuova Cosenza v Palermo  3-2 (1-1)   @ Stadio San Vito-Luigi Marulla › Cosenza
+    16.15     Ternana v Brescia  0-0 (0-0)   @ Stadio Libero Liberati › Terni
+  Sun Nov 13
+    16.15     Genoa v como  1-1 (1-0)   @ Stadio Comunale Luigi Ferraris › Genova
+» Regular Season - 14
+  Sat Nov 26
+    15.00     Parma v Modena  1-2 (0-2)   @ Stadio Ennio Tardini › Parma
+    18.00     Pisa v Ternana  3-1 (3-1)   @ Arena Garibaldi-Stadio Romeo Anconetani › Pisa
+  Sun Nov 27
+    12.30     Reggina v Benevento  2-2 (2-0)   @ Stadio Oreste Granillo › Reggio Calabria
+    15.00     Cittadella v Nuova Cosenza  1-1 (1-0)   @ Stadio Pier Cesare Tombolato › Cittadella
+              Frosinone v Cagliari  2-2 (1-1)   @ Stadio Benito Stirpe › Frosinone
+              Brescia v Spal  2-0 (2-0)   @ Stadio Mario Rigamonti › Brescia
+              Perugia v Genoa  1-0 (0-0)   @ Stadio Renato Curi › Perugia
+              como v Bari  1-1 (1-0)   @ Stadio Giuseppe Sinigaglia › Como
+              Sudtirol v Ascoli  2-2 (0-1)   @ Stadio Marco Druso › Bozen
+    18.00     Palermo v Venezia  0-1 (0-0)   @ Stadio Renzo Barbera › Palermo
+» Regular Season - 15
+  Sat Dec 3
+    14.00     Venezia v Ternana  2-1 (2-1)   @ Stadio Pierluigi Penzo › Venezia
+    18.00     Cagliari v Parma  1-1 (0-1)   @ Unipol Domus › Cagliari
+  Sun Dec 4
+    12.30     Spal v Modena  2-3 (0-1)   @ Stadio Paolo Mazza › Ferrara
+    15.00     Genoa v Cittadella  0-1 (0-0)   @ Stadio Comunale Luigi Ferraris › Genova
+              Ascoli v como  3-3 (1-2)   @ Stadio Cino e Lillo Del Duca › Ascoli Piceno
+              Bari v Pisa  0-0 (0-0)   @ Stadio Comunale San Nicola › Bari
+              Brescia v Reggina  0-2 (0-2)   @ Stadio Mario Rigamonti › Brescia
+              Sudtirol v Frosinone  1-1 (1-0)   @ Stadio Marco Druso › Bozen
+              Nuova Cosenza v Perugia  0-0 (0-0)   @ Stadio San Vito-Luigi Marulla › Cosenza
+    18.00     Benevento v Palermo  0-1 (0-0)   @ Stadio Ciro Vigorito › Benevento
+» Regular Season - 16
+  Wed Dec 7
+    20.30     Ternana v Cagliari  1-0 (1-0)   @ Stadio Libero Liberati › Terni
+  Thu Dec 8
+    12.30     Parma v Benevento  0-1 (0-1)   @ Stadio Ennio Tardini › Parma
+    15.00     Genoa v Sudtirol  2-0 (0-0)   @ Stadio Comunale Luigi Ferraris › Genova
+              Cittadella v Bari  0-3 (0-2)   @ Stadio Pier Cesare Tombolato › Cittadella
+              Perugia v Spal  0-0 (0-0)   @ Stadio Renato Curi › Perugia
+              Modena v Venezia  2-2 (1-0)   @ Stadio Alberto Braglia › Modena
+              Reggina v Frosinone  0-3 (0-1)   @ Stadio Oreste Granillo › Reggio Calabria
+              Nuova Cosenza v Brescia  1-1 (0-0)   @ Stadio San Vito-Luigi Marulla › Cosenza
+    18.00     Pisa v Ascoli  2-0 (1-0)   @ Arena Garibaldi-Stadio Romeo Anconetani › Pisa
+    20.30     Palermo v como  0-0 (0-0)   @ Stadio Renzo Barbera › Palermo
+» Regular Season - 17
+  Sun Dec 11
+    12.30     Cagliari v Perugia  3-2 (2-1)   @ Unipol Domus › Cagliari
+    15.00     Spal v Palermo  1-1 (1-1)   @ Stadio Paolo Mazza › Ferrara
+              Benevento v Cittadella  1-0 (1-0)   @ Stadio Ciro Vigorito › Benevento
+              Ascoli v Genoa  0-0 (0-0)   @ Stadio Cino e Lillo Del Duca › Ascoli Piceno
+              Venezia v Nuova Cosenza  2-0 (1-0)   @ Stadio Pierluigi Penzo › Venezia
+              como v Reggina  0-1 (0-0)   @ Stadio Giuseppe Sinigaglia › Como
+              Sudtirol v Ternana  0-0 (0-0)   @ Stadio Marco Druso › Bozen
+    18.00     Bari v Modena  4-1 (2-0)   @ Stadio Comunale San Nicola › Bari
+    20.30     Frosinone v Pisa  0-0 (0-0)   @ Stadio Benito Stirpe › Frosinone
+  Mon Dec 12
+    20.30     Brescia v Parma  0-2 (0-1)   @ Stadio Mario Rigamonti › Brescia
+» Regular Season - 18
+  Sat Dec 17
+    18.00     Pisa v Brescia  3-0 (2-0)   @ Arena Garibaldi-Stadio Romeo Anconetani › Pisa
+    20.30     Reggina v Bari  0-0 (0-0)   @ Stadio Oreste Granillo › Reggio Calabria
+  Sun Dec 18
+    14.00     Cittadella v Sudtirol  0-2 (0-2)   @ Stadio Pier Cesare Tombolato › Cittadella
+              Ternana v como  0-3 (0-1)   @ Stadio Libero Liberati › Terni
+              Parma v Spal  0-1 (0-1)   @ Stadio Ennio Tardini › Parma
+              Modena v Benevento  1-1 (1-1)   @ Stadio Alberto Braglia › Modena
+              Nuova Cosenza v Ascoli  1-3 (0-1)   @ Stadio San Vito-Luigi Marulla › Cosenza
+    18.45     Palermo v Cagliari  2-1 (1-0)   @ Stadio Renzo Barbera › Palermo
+    20.45     Genoa v Frosinone  1-0 (1-0)   @ Stadio Comunale Luigi Ferraris › Genova
+  Mon Dec 19
+    20.30     Perugia v Venezia  2-1 (2-0)   @ Stadio Renato Curi › Perugia
+» Regular Season - 19
+  Mon Dec 26
+    12.30     Brescia v Palermo  1-1 (0-0)   @ Stadio Mario Rigamonti › Brescia
+    15.00     Cagliari v Nuova Cosenza  2-0 (0-0)   @ Unipol Domus › Cagliari
+              Spal v Pisa  0-1 (0-0)   @ Stadio Paolo Mazza › Ferrara
+              Benevento v Perugia  0-2 (0-1)   @ Stadio Ciro Vigorito › Benevento
+              Ascoli v Reggina  0-1 (0-0)   @ Stadio Cino e Lillo Del Duca › Ascoli Piceno
+              Venezia v Parma  2-2 (0-1)   @ Stadio Pierluigi Penzo › Venezia
+              como v Cittadella  2-0 (1-0)   @ Stadio Giuseppe Sinigaglia › Como
+              Sudtirol v Modena  0-2 (0-1)   @ Stadio Marco Druso › Bozen
+    18.00     Frosinone v Ternana  3-0 (1-0)   @ Stadio Benito Stirpe › Frosinone
+    20.30     Bari v Genoa  1-2 (1-1)   @ Stadio Comunale San Nicola › Bari
+» Regular Season - 20
+  Sat Jan 14 2023
+    14.00     Bari v Parma  4-0 (3-0)   @ Stadio Comunale San Nicola › Bari
+  Sat Jan 14
+    14.00     Perugia v Palermo  3-3 (3-1)   @ Stadio Renato Curi › Perugia
+              Pisa v Cittadella  1-2 (0-2)   @ Arena Garibaldi-Stadio Romeo Anconetani › Pisa
+              Reggina v Spal  0-1 (0-0)   @ Stadio Oreste Granillo › Reggio Calabria
+              Cagliari v como  2-0 (1-0)   @ Unipol Domus › Cagliari
+    16.15     Frosinone v Modena  2-1 (0-0)   @ Stadio Benito Stirpe › Frosinone
+  Sun Jan 15
+    14.00     Sudtirol v Brescia  1-0 (1-0)   @ Stadio Marco Druso › Bozen
+    16.15     Nuova Cosenza v Benevento  1-1 (0-1)   @ Stadio San Vito-Luigi Marulla › Cosenza
+              Ternana v Ascoli  1-0 (1-0)   @ Stadio Libero Liberati › Terni
+  Mon Jan 16
+    18.45     Genoa v Venezia  1-0 (0-0)   @ Stadio Comunale Luigi Ferraris › Genova
+» Regular Season - 21
+  Fri Jan 20
+    20.30     Palermo v Bari  1-0 (0-0)   @ Stadio Renzo Barbera › Palermo
+  Sat Jan 21
+    14.00     Spal v Ascoli  1-1 (1-1)   @ Stadio Paolo Mazza › Ferrara
+              Benevento v Genoa  1-2 (0-1)   @ Stadio Ciro Vigorito › Benevento
+              Venezia v Sudtirol  0-1 (0-0)   @ Stadio Pierluigi Penzo › Venezia
+              Parma v Perugia  2-0 (1-0)   @ Stadio Ennio Tardini › Parma
+              como v Pisa  2-2 (1-1)   @ Stadio Giuseppe Sinigaglia › Como
+              Modena v Nuova Cosenza  2-0 (0-0)   @ Stadio Alberto Braglia › Modena
+              Reggina v Ternana  2-1 (1-1)   @ Stadio Oreste Granillo › Reggio Calabria
+    16.15     Cittadella v Cagliari  0-0 (0-0)   @ Stadio Pier Cesare Tombolato › Cittadella
+  Sun Jan 22
+    16.15     Brescia v Frosinone  1-3 (1-2)   @ Stadio Mario Rigamonti › Brescia
+» Regular Season - 22
+  Fri Jan 27
+    20.30     Cagliari v Spal  2-1 (1-1)   @ Unipol Domus › Cagliari
+  Sat Jan 28
+    14.00     Bari v Perugia  0-2 (0-0)   @ Stadio Comunale San Nicola › Bari
+              Ternana v Modena  2-1 (2-0)   @ Stadio Libero Liberati › Terni
+              Venezia v Cittadella  1-1 (1-1)   @ Stadio Pierluigi Penzo › Venezia
+              Brescia v como  0-1 (0-0)   @ Stadio Mario Rigamonti › Brescia
+              Sudtirol v Reggina  2-1 (1-1)   @ Stadio Marco Druso › Bozen
+              Nuova Cosenza v Parma  1-0 (1-0)   @ Stadio San Vito-Luigi Marulla › Cosenza
+    16.15     Genoa v Pisa  0-0 (0-0)   @ Stadio Comunale Luigi Ferraris › Genova
+  Sun Jan 29
+    14.00     Ascoli v Palermo  1-2 (0-1)   @ Stadio Cino e Lillo Del Duca › Ascoli Piceno
+    16.15     Frosinone v Benevento  1-0 (0-0)   @ Stadio Benito Stirpe › Frosinone
+» Regular Season - 23
+  Fri Feb 3
+    20.30     Modena v Cagliari  2-0 (1-0)   @ Stadio Alberto Braglia › Modena
+  Sat Feb 4
+    14.00     Spal v Bari  3-4 (0-2)   @ Stadio Paolo Mazza › Ferrara
+              Benevento v Venezia  1-2 (1-1)   @ Stadio Ciro Vigorito › Benevento
+              Cittadella v Ascoli  3-0 (1-0)   @ Stadio Pier Cesare Tombolato › Cittadella
+              Perugia v Brescia  4-0 (1-0)   @ Stadio Renato Curi › Perugia
+              Pisa v Sudtirol  0-1 (0-1)   @ Arena Garibaldi-Stadio Romeo Anconetani › Pisa
+              Nuova Cosenza v Ternana  0-0 (0-0)   @ Stadio San Vito-Luigi Marulla › Cosenza
+    16.15     como v Frosinone  0-2 (0-2)   @ Stadio Giuseppe Sinigaglia › Como
+  Sun Feb 5
+    16.15     Parma v Genoa  2-0 (1-0)   @ Stadio Ennio Tardini › Parma
+              Palermo v Reggina  2-1 (0-0)   @ Stadio Renzo Barbera › Palermo
+» Regular Season - 24
+  Fri Feb 10
+    20.30     Genoa v Palermo  2-0 (1-0)   @ Stadio Comunale Luigi Ferraris › Genova
+  Sat Feb 11
+    14.00     Cagliari v Benevento  1-0 (0-0)   @ Unipol Domus › Cagliari
+              Frosinone v Cittadella  3-0 (1-0)   @ Stadio Benito Stirpe › Frosinone
+              Venezia v Spal  2-1 (2-0)   @ Stadio Pierluigi Penzo › Venezia
+              Brescia v Modena  0-1 (0-0)   @ Stadio Mario Rigamonti › Brescia
+              Sudtirol v como  1-1 (0-0)   @ Stadio Marco Druso › Bozen
+              Reggina v Pisa  0-2 (0-0)   @ Stadio Oreste Granillo › Reggio Calabria
+    16.15     Ternana v Parma  1-1 (1-1)   @ Stadio Libero Liberati › Terni
+              Ascoli v Perugia  1-0 (0-0)   @ Stadio Cino e Lillo Del Duca › Ascoli Piceno
+  Sun Feb 12
+    16.15     Bari v Nuova Cosenza  2-1 (1-1)   @ Stadio Comunale San Nicola › Bari
+» Regular Season - 25
+  Fri Feb 17
+    20.30     Pisa v Venezia  1-1 (0-1)   @ Arena Garibaldi-Stadio Romeo Anconetani › Pisa
+  Sat Feb 18
+    14.00     Spal v como  1-1 (1-1)   @ Stadio Paolo Mazza › Ferrara
+              Benevento v Brescia  1-0 (0-0)   @ Stadio Ciro Vigorito › Benevento
+              Cittadella v Reggina  3-2 (0-2)   @ Stadio Pier Cesare Tombolato › Cittadella
+              Palermo v Frosinone  1-1 (1-0)   @ Stadio Renzo Barbera › Palermo
+              Parma v Ascoli  0-1 (0-0)   @ Stadio Ennio Tardini › Parma
+              Nuova Cosenza v Sudtirol  0-0 (0-0)   @ Stadio San Vito-Luigi Marulla › Cosenza
+    16.15     Perugia v Ternana  3-0 (0-0)   @ Stadio Renato Curi › Perugia
+              Bari v Cagliari  1-1 (0-1)   @ Stadio Comunale San Nicola › Bari
+  Sun Feb 19
+    16.15     Modena v Genoa  2-2 (1-1)   @ Stadio Alberto Braglia › Modena
+» Regular Season - 26
+  Fri Feb 24
+    20.30     Pisa v Perugia  2-1 (0-1)   @ Arena Garibaldi-Stadio Romeo Anconetani › Pisa
+              Frosinone v Parma  3-4 (1-3)   @ Stadio Benito Stirpe › Frosinone
+  Sat Feb 25
+    14.00     Ternana v Cittadella  1-2 (1-0)   @ Stadio Libero Liberati › Terni
+              Venezia v Cagliari  0-0 (0-0)   @ Stadio Pierluigi Penzo › Venezia
+              Brescia v Bari  0-2 (0-1)   @ Stadio Mario Rigamonti › Brescia
+              como v Nuova Cosenza  5-1 (2-1)   @ Stadio Giuseppe Sinigaglia › Como
+              Sudtirol v Palermo  1-1 (1-0)   @ Stadio Marco Druso › Bozen
+              Reggina v Modena  2-1 (1-1)   @ Stadio Oreste Granillo › Reggio Calabria
+    16.15     Genoa v Spal  3-0 (0-0)   @ Stadio Comunale Luigi Ferraris › Genova
+  Sun Feb 26
+    16.15     Ascoli v Benevento  0-0 (0-0)   @ Stadio Cino e Lillo Del Duca › Ascoli Piceno
+» Regular Season - 27
+  Tue Feb 28
+    20.30     Parma v Pisa  0-1 (0-0)   @ Stadio Ennio Tardini › Parma
+              Nuova Cosenza v Reggina  2-1 (0-1)   @ Stadio San Vito-Luigi Marulla › Cosenza
+              Palermo v Ternana  0-0 (0-0)   @ Stadio Renzo Barbera › Palermo
+  Wed Mar 1
+    20.30     Cagliari v Genoa  0-0 (0-0)   @ Unipol Domus › Cagliari
+              Spal v Frosinone  0-2 (0-1)   @ Stadio Paolo Mazza › Ferrara
+              Benevento v Sudtirol  0-2 (0-1)   @ Stadio Ciro Vigorito › Benevento
+              Bari v Venezia  1-0 (0-0)   @ Stadio Comunale San Nicola › Bari
+              Cittadella v Brescia  0-0 (0-0)   @ Stadio Pier Cesare Tombolato › Cittadella
+              Perugia v como  0-0 (0-0)   @ Stadio Renato Curi › Perugia
+              Modena v Ascoli  0-1 (0-0)   @ Stadio Alberto Braglia › Modena
+» Regular Season - 28
+  Sat Mar 4
+    14.00     Pisa v Palermo  1-1 (0-1)   @ Arena Garibaldi-Stadio Romeo Anconetani › Pisa
+    16.15     Reggina v Parma  0-1 (0-0)   @ Stadio Oreste Granillo › Reggio Calabria
+  Sun Mar 5
+    15.00     Spal v Cittadella  2-1 (1-0)   @ Stadio Paolo Mazza › Ferrara
+              Ascoli v Bari  0-1 (0-1)   @ Stadio Cino e Lillo Del Duca › Ascoli Piceno
+              Frosinone v Venezia  3-0 (1-0)   @ Stadio Benito Stirpe › Frosinone
+              Ternana v Benevento  2-2 (2-2)   @ Stadio Libero Liberati › Terni
+              Brescia v Cagliari  1-1 (0-0)   @ Stadio Mario Rigamonti › Brescia
+              como v Modena  1-0 (0-0)   @ Stadio Giuseppe Sinigaglia › Como
+              Sudtirol v Perugia  2-1 (1-1)   @ Stadio Marco Druso › Bozen
+  Mon Mar 6
+    20.30     Genoa v Nuova Cosenza  4-0 (1-0)   @ Stadio Comunale Luigi Ferraris › Genova
+» Regular Season - 29
+  Fri Mar 10
+    20.30     Cagliari v Ascoli  4-1 (0-1)   @ Unipol Domus › Cagliari
+  Sat Mar 11
+    14.00     Benevento v como  0-0 (0-0)   @ Stadio Ciro Vigorito › Benevento
+              Cittadella v Palermo  3-3 (2-2)   @ Stadio Pier Cesare Tombolato › Cittadella
+              Venezia v Brescia  1-1 (0-0)   @ Stadio Pierluigi Penzo › Venezia
+              Parma v Sudtirol  0-0 (0-0)   @ Stadio Ennio Tardini › Parma
+              Modena v Pisa  1-0 (1-0)   @ Stadio Alberto Braglia › Modena
+    16.15     Bari v Frosinone  0-0 (0-0)   @ Stadio Comunale San Nicola › Bari
+  Sun Mar 12
+    16.15     Nuova Cosenza v Spal  1-0 (0-0)   @ Stadio San Vito-Luigi Marulla › Cosenza
+              Genoa v Ternana  1-0 (1-0)   @ Stadio Comunale Luigi Ferraris › Genova
+» Regular Season - 30
+  Fri Mar 17
+    20.30     Palermo v Modena  5-2 (1-2)   @ Stadio Renzo Barbera › Palermo
+  Sat Mar 18
+    14.00     Ascoli v Venezia  0-1 (0-0)   @ Stadio Cino e Lillo Del Duca › Ascoli Piceno
+              Cittadella v Perugia  0-2 (0-0)   @ Stadio Pier Cesare Tombolato › Cittadella
+              Frosinone v Nuova Cosenza  0-1 (0-0)   @ Stadio Benito Stirpe › Frosinone
+              Brescia v Genoa  0-3 (0-1)   @ Stadio Mario Rigamonti › Brescia
+              Pisa v Benevento  2-0 (1-0)   @ Arena Garibaldi-Stadio Romeo Anconetani › Pisa
+              como v Parma  2-0 (1-0)   @ Stadio Giuseppe Sinigaglia › Como
+              Sudtirol v Spal  2-0 (1-0)   @ Stadio Marco Druso › Bozen
+    16.15     Reggina v Cagliari  0-4 (0-2)   @ Stadio Oreste Granillo › Reggio Calabria
+  Sun Mar 19
+    16.15     Ternana v Bari  1-0 (1-0)   @ Stadio Libero Liberati › Terni
+» Regular Season - 31
+  Fri Mar 31
+    20.30     Genoa v Reggina  1-0 (1-0)   @ Stadio Comunale Luigi Ferraris › Genova
+  Sat Apr 1
+    14.00     Cagliari v Sudtirol  1-1 (1-0)   @ Unipol Domus › Cagliari
+              Spal v Ternana  1-1 (1-0)   @ Stadio Paolo Mazza › Ferrara
+              Ascoli v Brescia  4-3 (1-1)   @ Stadio Cino e Lillo Del Duca › Ascoli Piceno
+              Venezia v como  3-2 (1-1)   @ Stadio Pierluigi Penzo › Venezia
+              Parma v Palermo  2-1 (1-1)   @ Stadio Ennio Tardini › Parma
+              Nuova Cosenza v Pisa  1-0 (1-0)   @ Stadio San Vito-Luigi Marulla › Cosenza
+    16.15     Perugia v Frosinone  1-1 (0-0)   @ Stadio Renato Curi › Perugia
+              Bari v Benevento  2-0 (0-0)   @ Stadio Comunale San Nicola › Bari
+  Sun Apr 2
+    16.15     Modena v Cittadella  0-0 (0-0)   @ Stadio Alberto Braglia › Modena
+» Regular Season - 29
+  Wed Apr 5
+    20.15     Perugia v Reggina  1-3 (1-1)   @ Stadio Renato Curi › Perugia
+» Regular Season - 32
+  Mon Apr 10
+    12.30     Benevento v Spal  1-3 (1-1)   @ Stadio Ciro Vigorito › Benevento
+    15.00     Cittadella v Parma  0-1 (0-1)   @ Stadio Pier Cesare Tombolato › Cittadella
+              Frosinone v Ascoli  2-0 (1-0)   @ Stadio Benito Stirpe › Frosinone
+              Brescia v Ternana  1-0 (1-0)   @ Stadio Mario Rigamonti › Brescia
+              Perugia v Modena  0-1 (0-0)   @ Stadio Renato Curi › Perugia
+              como v Genoa  2-2 (0-1)   @ Stadio Giuseppe Sinigaglia › Como
+              Sudtirol v Bari  0-1 (0-0)   @ Stadio Marco Druso › Bozen
+              Reggina v Venezia  1-0 (1-0)   @ Stadio Oreste Granillo › Reggio Calabria
+    18.00     Pisa v Cagliari  0-0 (0-0)   @ Arena Garibaldi-Stadio Romeo Anconetani › Pisa
+    20.30     Palermo v Nuova Cosenza  0-0 (0-0)   @ Stadio Renzo Barbera › Palermo
+» Regular Season - 33
+  Fri Apr 14
+    20.30     Modena v Parma  1-1 (1-1)   @ Stadio Alberto Braglia › Modena
+  Sat Apr 15
+    14.00     Spal v Brescia  2-2 (1-1)   @ Stadio Paolo Mazza › Ferrara
+              Genoa v Perugia  2-0 (1-0)   @ Stadio Comunale Luigi Ferraris › Genova
+              Benevento v Reggina  1-1 (0-1)   @ Stadio Ciro Vigorito › Benevento
+              Ascoli v Sudtirol  1-0 (0-0)   @ Stadio Cino e Lillo Del Duca › Ascoli Piceno
+              Bari v como  2-2 (0-2)   @ Stadio Comunale San Nicola › Bari
+              Venezia v Palermo  3-2 (1-1)   @ Stadio Pierluigi Penzo › Venezia
+              Nuova Cosenza v Cittadella  1-1 (1-1)   @ Stadio San Vito-Luigi Marulla › Cosenza
+    16.15     Cagliari v Frosinone  0-0 (0-0)   @ Unipol Domus › Cagliari
+  Sun Apr 16
+    16.15     Ternana v Pisa  2-1 (0-1)   @ Stadio Libero Liberati › Terni
+» Regular Season - 34
+  Fri Apr 21
+    20.30     Reggina v Brescia  1-2 (0-1)   @ Stadio Oreste Granillo › Reggio Calabria
+  Sat Apr 22
+    14.00     Cittadella v Genoa  0-1 (0-0)   @ Stadio Pier Cesare Tombolato › Cittadella
+              Frosinone v Sudtirol  0-0 (0-0)   @ Stadio Benito Stirpe › Frosinone
+              Parma v Cagliari  2-1 (0-1)   @ Stadio Ennio Tardini › Parma
+              Perugia v Nuova Cosenza  0-0 (0-0)   @ Stadio Renato Curi › Perugia
+              como v Ascoli  1-1 (0-0)   @ Stadio Giuseppe Sinigaglia › Como
+              Modena v Spal  0-0 (0-0)   @ Stadio Alberto Braglia › Modena
+    16.15     Palermo v Benevento  1-1 (1-1)   @ Stadio Renzo Barbera › Palermo
+  Sun Apr 23
+    16.15     Pisa v Bari  1-2 (1-1)   @ Arena Garibaldi-Stadio Romeo Anconetani › Pisa
+              Ternana v Venezia  1-4 (0-3)   @ Stadio Libero Liberati › Terni
+» Regular Season - 35
+  Sun Apr 30
+    16.15     Spal v Perugia  1-1 (0-1)   @ Stadio Paolo Mazza › Ferrara
+              Cagliari v Ternana  2-1 (1-1)   @ Unipol Domus › Cagliari
+  Mon May 1
+    12.30     como v Palermo  1-1 (1-1)   @ Stadio Giuseppe Sinigaglia › Como
+    15.00     Benevento v Parma  2-2 (0-2)   @ Stadio Ciro Vigorito › Benevento
+              Ascoli v Pisa  2-1 (0-0)   @ Stadio Cino e Lillo Del Duca › Ascoli Piceno
+              Bari v Cittadella  1-1 (0-0)   @ Stadio Comunale San Nicola › Bari
+              Brescia v Nuova Cosenza  2-1 (0-0)   @ Stadio Mario Rigamonti › Brescia
+              Sudtirol v Genoa  0-0 (0-0)   @ Stadio Marco Druso › Bozen
+    18.00     Venezia v Modena  5-0 (1-0)   @ Stadio Pierluigi Penzo › Venezia
+    20.30     Frosinone v Reggina  3-1 (2-0)   @ Stadio Benito Stirpe › Frosinone
+» Regular Season - 36
+  Fri May 5
+    20.30     Perugia v Cagliari  0-5 (0-3)   @ Stadio Renato Curi › Perugia
+  Sat May 6
+    14.00     Genoa v Ascoli  2-1 (1-0)   @ Stadio Comunale Luigi Ferraris › Genova
+              Cittadella v Benevento  3-1 (1-1)   @ Stadio Pier Cesare Tombolato › Cittadella
+              Ternana v Sudtirol  0-1 (0-1)   @ Stadio Libero Liberati › Terni
+              Pisa v Frosinone  1-3 (1-1)   @ Arena Garibaldi-Stadio Romeo Anconetani › Pisa
+              Modena v Bari  1-1 (0-1)   @ Stadio Alberto Braglia › Modena
+              Reggina v como  2-1 (1-0)   @ Stadio Oreste Granillo › Reggio Calabria
+              Nuova Cosenza v Venezia  1-1 (0-1)   @ Stadio San Vito-Luigi Marulla › Cosenza
+    16.15     Palermo v Spal  2-1 (2-0)   @ Stadio Renzo Barbera › Palermo
+  Sun May 7
+    16.15     Parma v Brescia  2-0 (2-0)   @ Stadio Ennio Tardini › Parma
+» Regular Season - 37
+  Sat May 13
+    14.00     Cagliari v Palermo  2-1 (1-1)   @ Unipol Domus › Cagliari
+              Spal v Parma  0-1 (0-0)   @ Stadio Paolo Mazza › Ferrara
+              Benevento v Modena  2-1 (2-1)   @ Stadio Ciro Vigorito › Benevento
+              Ascoli v Nuova Cosenza  1-1 (1-1)   @ Stadio Cino e Lillo Del Duca › Ascoli Piceno
+              Bari v Reggina  1-0 (1-0)   @ Stadio Comunale San Nicola › Bari
+              Venezia v Perugia  3-2 (2-0)   @ Stadio Pierluigi Penzo › Venezia
+              Brescia v Pisa  1-1 (0-0)   @ Stadio Mario Rigamonti › Brescia
+              como v Ternana  3-1 (0-1)   @ Stadio Giuseppe Sinigaglia › Como
+              Sudtirol v Cittadella  1-1 (0-0)   @ Stadio Marco Druso › Bozen
+    16.15     Frosinone v Genoa  3-2 (2-1)   @ Stadio Benito Stirpe › Frosinone
+» Regular Season - 38
+  Fri May 19
+    20.30     Genoa v Bari  4-3 (2-1)   @ Stadio Comunale Luigi Ferraris › Genova
+              Cittadella v como  0-0 (0-0)   @ Stadio Pier Cesare Tombolato › Cittadella
+              Ternana v Frosinone  2-3 (2-1)   @ Stadio Libero Liberati › Terni
+              Palermo v Brescia  2-2 (2-0)   @ Stadio Renzo Barbera › Palermo
+              Parma v Venezia  2-1 (1-1)   @ Stadio Ennio Tardini › Parma
+              Perugia v Benevento  3-2 (0-1)   @ Stadio Renato Curi › Perugia
+              Pisa v Spal  1-2 (0-1)   @ Arena Garibaldi-Stadio Romeo Anconetani › Pisa
+              Modena v Sudtirol  2-1 (2-0)   @ Stadio Alberto Braglia › Modena
+              Reggina v Ascoli  1-0 (0-0)   @ Stadio Oreste Granillo › Reggio Calabria
+              Nuova Cosenza v Cagliari  0-1 (0-1)   @ Stadio San Vito-Luigi Marulla › Cosenza
+» Relegation Play-offs - Final
+  Thu May 25
+    20.30     Cosenza v Brescia  1-0 (0-0)   @ Stadio San Vito-Luigi Marulla › Cosenza
+» Promotion Play-offs - Qualifying Round
+  Fri May 26
+    20.30     Sudtirol v Reggina  1-0 (0-0)   @ Stadio Marco Druso › Bozen
+  Sat May 27
+    20.30     Cagliari v Venezia  2-1 (2-0)   @ Unipol Domus › Cagliari
+» Promotion Play-offs - Semi-finals
+  Mon May 29
+    20.30     Sudtirol v Bari  1-0 (0-0)   @ Stadio Marco Druso › Bozen
+  Tue May 30
+    20.30     Cagliari v Parma  3-2 (0-2)   @ Unipol Domus › Cagliari
+» Relegation Play-offs - Final
+  Thu Jun 1
+    20.30     Brescia v Cosenza  1-1 (0-0)   @ Stadio Mario Rigamonti › Brescia
+» Promotion Play-offs - Semi-finals
+  Fri Jun 2
+    20.30     Bari v Sudtirol  1-0 (0-0)   @ Stadio Comunale San Nicola › Bari
+  Sat Jun 3
+    20.30     Parma v Cagliari  0-0 (0-0)   @ Stadio Ennio Tardini › Parma
+» Promotion Play-offs - Final
+  Thu Jun 8
+    20.30     Cagliari v Bari  1-1 (1-0)   @ Unipol Domus › Cagliari
+  Sun Jun 11
+    20.30     Bari v Cagliari  0-1 (0-0)   @ Stadio Comunale San Nicola › Bari

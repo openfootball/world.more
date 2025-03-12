@@ -1,0 +1,165 @@
+= Spain | Copa del Rey 2021/22
+
+  # Date       Wed Nov/17 2021 - Sat Apr/23 2022 (157d)
+  # Teams      126
+  # Matches    127
+
+  # Note - All times in Europe/Madrid
+
+» Preliminary Round
+  Wed Nov 17 2021
+    15.00     Nalón v Solares  1-1 aet   @ Estadio Municipal de Fumea › Olloniego
+  Wed Nov 17
+    19.00     Utrillas v Injerto  2-0   @ Estadio La Vega › Utrillas
+    19.30     Victoria CF v Hernani  1-0   @ Campo Municipal de Fútbol Rodrigo García Vizoso › La Coruña
+              Aldeano v Unami  1-3   @ Estadio San Bartolomé › Aldeanueva de Ebro
+    20.00     San Agustín v Mora  6-2   @ Campo De Futbol San Agustin De Guadalix › San Agustín del Guadalix
+    20.30     CFI Alicante v Ceuta 6 de Junio  7-1   @ Ciudad Deportiva de Alicante F-11 › Alicante
+              Laguna v Jaraíz  4-1   @ Ciudad Deportiva Los Laureles › Tegueste
+              Mollerussa v Penya Independent  1-0   @ Camp Municipal d'Esports › Mollerussa
+              Villa de Fortuna v Atlético Espeleño  1-0   @ Complejo Municipal Fortuna José Luis Belda › Fortuna
+    21.00     Huracán Melilla v Atarfe Industrial  2-1   @ Estadio La Espiguera › Melilla
+» 1st Round
+  Tue Nov 30
+    16.00     Cayón v Huesca  0-2 (0-0)   @ Estadio Fernando Astobiza › Sarón, Santa María de Cayón
+              Marchamalo v Valladolid  0-1 (0-0)   @ Estadio La Solana › Marchamalo
+    18.30     Náxara v FC Andorra  0-1 (0-1)   @ Estadio La Salera › Nájera
+    19.00     Laguna v Granada CF  0-7 (0-4)   @ Estadio Heliodoro Rodríguez Lopéz › Tenerife
+              Unami v Alaves  0-3 (0-0)   @ Estadio Municipal de La Albuera › Segovia
+              Victoria CF v Villarreal  0-8 (0-4)   @ Estadio Abanca-Riazor › La Coruña
+    20.00     Ceares v Sporting Gijon  0-1 (0-1)   @ Estadio Municipal El Molinón › Gijón
+              Racing Rioja v FC Cartagena  0-2 (0-0)   @ Estadio Nuevo Municipal Las Gaunas › Logroño
+              Teruel v Alcorcon  0-1 (0-1)   @ Estadio La Pinila › Teruel
+    20.30     Sanluqueño v Sabadell  2-0 (0-0)   @ Estadio El Palmar › Sanlúcar de Barrameda
+    21.00     Albacete v Racing Ferrol  2-1 aet (1-1, 0-1)   @ Estadio Carlos Belmonte › Albacete
+              Ebro v Celta Vigo  0-5 (0-2)   @ Estadio de la Romareda › Zaragoza
+              Badajoz v Alcoyano  0-3 (0-1)   @ Estadio Municipal Nuevo Vivero › Badajoz
+              Águilas v Almeria  3-5 pen (1-1, 1-1, 0-1)   @ Estadio El Rubial › Águilas
+              Montijo v Burgos  0-1 (0-0)   @ Estadio Municipal Emilio Macarro Rodriguez › Montijo
+              Mollerussa v Getafe  1-5 (1-1)   @ Camp Municipal d'Esports › Mollerussa
+  Wed Dec 1
+    16.30     Mensajero v Zaragoza  0-1 (0-0)   @ Estadio Silvestre Carrillo › La Palma
+    18.30     Bergantiños v Tudelano  2-0 (1-0)   @ Estadio As Eiroas › Carballo
+    19.00     Cordoba v Sevilla  0-1 (0-0)   @ Estadio Nuevo Arcángel › Córdoba
+              Gimnástica Segoviana v Mallorca  0-2 (0-0)   @ Estadio Municipal de La Albuera › Segovia
+              Algeciras v Unionistas de Salamanca  1-2 (0-2)   @ Estadio Nuevo Mirador › Algeciras
+              Solares v Espanyol  2-3 (0-2)   @ Campo Municipal La Estación › Medio Cudeyo
+              Brea v Ibiza  0-2 (0-1)   @ Estadio Municipal de Piedrabuena › Brea de Aragón
+    20.00     Andratx v Oviedo  2-1 (2-1)   @ Camp Municipal Sa Plana › Andratx
+              Alzira v Fuenlabrada  0-1 (0-0)   @ Estadio Luis Suñer Picó › Alzira
+              Mancha Real v Internacional de Madrid  2-1 (0-0)   @ Estadio Polideportivo La Juventud › Mancha Real
+              San Juan v SS Reyes  1-2 (1-1)   @ Estadio San Juan › Pamplona
+              Ucam Murcia v Deportivo La Coruna  3-4 aet (2-2, 1-1)   @ Estadio de La Condomina › Murcia
+    20.15     CF Talavera v Cornellà  2-0 (2-0)   @ Estadio El Prado › Talavera de la Reina
+    20.30     Europa Fc v Amorebieta  0-1 (0-1)   @ Camp Municipal de Futbol Nou Sardenya › Barcelona
+              Extremadura v Zamora  1-4 (0-2)   @ Estadio Francisco de la Hera › Almendralejo
+              Cacereño v Ponferradina  1-2 (0-0)   @ Estadio Príncipe Felipe › Cáceres
+              Linares Deportivo v Gimnastic  6-5 pen (0-0, 0-0, 0-0)   @ Estadio Municipal de Linarejos › Linares
+              Calahorra v Atlético Baleares  4-5 pen (1-1, 1-1, 1-0)   @ Estadio La Planilla › Calahorra
+              San Fernando CD v Cultural Leonesa  2-3 (1-2)   @ Estadio Iberoamericano 2010 › San Fernando
+              Arenteiro v SD Logroñés  2-1 (2-0)   @ Estadio de Espiñedo › O Carballiño
+    21.00     San Roque Lepe v Mirandes  0-3 (0-1)   @ Estadio Municipal Ciudad de Lepe › Lepe
+              Panadería Pulido v Real Sociedad  0-4 (0-2)   @ Estadio de Gran Canaria › Las Palmas de Gran Canaria
+              CFI Alicante v Real Betis  0-4 (0-2)   @ Campo Municipal El Collao › Alcoy
+  Thu Dec 2
+    16.00     Vélez v Las Palmas  2-3 (2-2)   @ Estadio Vivar Téllez › Vélez-Málaga
+    19.00     Guijuelo v Rayo Vallecano  3-4 pen (1-1, 1-1, 1-1)   @ Estadio Municipal Luis Ramos › Guijuelo
+              Huracán Melilla v Levante  0-8 (0-4)   @ Estadio Álvarez Claro › Melilla
+              San Agustín v Osasuna  0-4 (0-0)   @ Campo De Futbol San Agustin De Guadalix › San Agustín del Guadalix
+              Gernika v Eibar  1-2 (0-1)   @ Estadio Urbieta › Gernika-Lumo
+    19.30     Utrillas v Valencia  0-3 (0-1)   @ Estadio La Vega › Utrillas
+              Peña Sport v Malaga  0-3 (0-2)   @ Campo San Francisco › Tafalla
+    20.00     Leioa v Elche  0-2 (0-1)   @ Estadio Sarriena › Leioa
+              Llanera v UD Logroñés  2-1 (1-0)   @ Estadio Nuevo Ganzábal › La Felguera, Langreo
+              Cristo Atlético v Real Unión  2-0 (2-0)   @ Estadio La Nueva Balastera › Palencia
+              Atlético Pulpileño v Castellón  0-1 (0-1)   @ Estadio San Miguel › Pulpí
+              Calvo Sotelo v Girona  1-5 (1-2)   @ Estadio Ciudad de Puertollano › Puertollano
+    20.15     Unión Adarve v Lugo  3-4 pen (2-2, 2-2, 1-2)   @ Centro Deportivo Municipal Vicente del Bosque › Madrid
+    20.30     Eldense v Rayo Majadahonda  0-1 (0-1)   @ Estadio Municipal Nuevo Pepico Amat › Elda
+    20.45     Xerez Deportivo v Leganes  1-2 (0-1)   @ Estadio Municipal de Chapín › Jerez de la Frontera
+    21.00     Villa de Fortuna v Cadiz  0-7 (0-2)   @ Estadio Enrique Roca de Murcia › Murcia
+              Ibiza Islas Pitiusas v Tenerife  1-2 aet (1-1, 0-0)   @ Estadio Can Misses-Power Electronic › Ibiza
+» 2nd Round
+  Tue Dec 14
+    19.00     SS Reyes v Fuenlabrada  4-5 pen (0-0, 0-0, 0-0)   @ Estadio Municipal Nuevo Matapiñonera › San Sebastián de los Reyes
+              FC Andorra v Celta Vigo  1-2 aet (1-1, 1-1)   @ Estadi Nacional › Andorra la Vella
+    20.00     Zaragoza v Burgos  2-0 (1-0)   @ Estadio de la Romareda › Zaragoza
+              Rayo Majadahonda v Malaga  1-0 (0-0)   @ Miniestadio Cerro del Espino › Majadahonda
+              Huesca v Girona  0-1 (0-1)   @ Estadio El Alcoraz › Huesca
+    21.00     Linares Deportivo v Alaves  2-1 (1-0)   @ Estadio Municipal de Linarejos › Linares
+              Alcoyano v Levante  3-1 pen (3-3, 3-3, 2-1)   @ Campo Municipal El Collao › Alcoy
+              Cristo Atlético v Espanyol  1-2 (1-0)   @ Estadio La Nueva Balastera › Palencia
+  Wed Dec 15
+    19.00     Bergantiños v Rayo Vallecano  1-3 (0-1)   @ Estadio As Eiroas › Carballo
+              Zamora v Real Sociedad  0-3 (0-0)   @ Estadio Ruta de la Plata › Zamora
+              Andratx v Sevilla  5-6 pen (1-1, 1-1, 0-0)   @ Camp Municipal Sa Plana › Andratx
+    19.30     Cultural Leonesa v Leganes  2-3 aet (1-1, 1-0)   @ Estadio Municipal Reino de León › León
+    20.00     Valladolid v Las Palmas  3-1 (1-1)   @ Estadio Municipal José Zorrilla › Valladolid
+              Sporting Gijon v Alcorcon  2-1 aet (1-1, 1-0)   @ Estadio Municipal El Molinón › Gijón
+              Ponferradina v Ibiza  2-1 aet (1-1, 0-0)   @ Estadio El Toralín › Ponferrada
+              Castellón v FC Cartagena  1-2 (0-1)   @ Nou Estadi Castalia › Castellón de la Plana
+    21.00     Unionistas de Salamanca v Elche  0-1 (0-0)   @ Campo de Futbol Reina Sofía › Salamanca
+              Sanluqueño v Villarreal  1-7 (0-5)   @ Estadio El Palmar › Sanlúcar de Barrameda
+              Tenerife v Eibar  1-2 (0-1)   @ Estadio Heliodoro Rodríguez Lopéz › Tenerife
+  Thu Dec 16
+    19.00     CF Talavera v Real Betis  2-4 aet (2-2, 1-1)   @ Estadio El Prado › Talavera de la Reina
+              Amorebieta v Almeria  1-2 (0-1)   @ Campo Municipal de Urritxe › Amorebieta-Echano
+              Arenteiro v Valencia  1-3 aet (1-1, 1-1)   @ Estadio de Espiñedo › O Carballiño
+              Llanera v Mallorca  0-6 (0-0)   @ Estadio Nuevo Ganzábal › La Felguera, Langreo
+    20.00     Lugo v Mirandes  1-2 (0-1)   @ Estadio Anxo Carro › Lugo
+    21.00     Albacete v Cadiz  0-1 (0-1)   @ Estadio Carlos Belmonte › Albacete
+              Atlético Baleares v Getafe  5-0 (2-0)   @ Estadio Balear › Palma de Mallorca, Illes Balears
+              Mancha Real v Granada CF  1-0 (1-0)   @ Estadio Polideportivo La Juventud › Mancha Real
+              Deportivo La Coruna v Osasuna  1-2 (1-1)   @ Estadio Abanca-Riazor › La Coruña
+» Round of 32
+  Tue Jan 4 2022
+    21.00     Ponferradina v Espanyol  1-3 pen (1-1, 1-1, 0-1)   @ Estadio El Toralín › Ponferrada
+  Wed Jan 5
+    16.00     Leganes v Real Sociedad  2-3 (0-2)   @ Estadio Municipal de Butarque › Leganés
+              Eibar v Mallorca  1-2 (1-0)   @ Estadio Municipal de Ipurúa › Eibar
+              FC Cartagena v Valencia  1-2 (0-1)   @ Estadio Municipal Cartagonova › Cartagena
+    19.30     Linares Deportivo v Barcelona  1-2 (1-0)   @ Estadio Municipal de Linarejos › Linares
+    20.00     Mirandes v Rayo Vallecano  0-1 (0-0)   @ Estadio Municipal de Anduva › Miranda de Ebro
+              Atlético Baleares v Celta Vigo  2-1 (1-0)   @ Estadio Balear › Palma de Mallorca, Illes Balears
+              Valladolid v Real Betis  0-3 (0-2)   @ Estadio Municipal José Zorrilla › Valladolid
+    21.30     Alcoyano v Real Madrid  1-3 (0-1)   @ Campo Municipal El Collao › Alcoy
+  Thu Jan 6
+    16.00     Girona v Osasuna  1-0 (1-0)   @ Estadi Municipal de Montilivi › Girona
+              Fuenlabrada v Cadiz  0-1 (0-0)   @ Estadio Fernando Torres › Fuenlabrada
+    18.00     Zaragoza v Sevilla  0-2 (0-1)   @ Estadio de la Romareda › Zaragoza
+              Sporting Gijon v Villarreal  2-1 (0-0)   @ Estadio Municipal El Molinón › Gijón
+    20.00     Mancha Real v Athletic Club  0-2 (0-2)   @ Estadio Polideportivo La Juventud › Mancha Real
+              Almeria v Elche  1-2 (1-0)   @ Estadio de los Juegos Mediterráneos › Almería
+    21.30     Rayo Majadahonda v Atletico Madrid  0-5 (0-3)   @ Estadio Wanda Metropolitano › Madrid
+» Round of 16
+  Sat Jan 15
+    16.00     Mallorca v Espanyol  2-1 (1-0)   @ Visit Mallorca Estadi › Palma de Mallorca
+    18.30     Girona v Rayo Vallecano  1-2 (1-1)   @ Estadi Municipal de Montilivi › Girona
+              Sporting Gijon v Cadiz  2-4 pen (0-0, 0-0, 0-0)   @ Estadio Municipal El Molinón › Gijón
+  Sun Jan 16
+    12.00     Atlético Baleares v Valencia  0-1 (0-1)   @ Estadio Balear › Palma de Mallorca, Illes Balears
+    21.30     Real Betis v Sevilla  2-1 (1-1)   @ Estadio Benito Villamarín › Sevilla
+  Wed Jan 19
+    21.00     Real Sociedad v Atletico Madrid  2-0 (1-0)   @ Reale Arena › Donostia-San Sebastián
+  Thu Jan 20
+    19.00     Elche v Real Madrid  1-2 aet (0-0, 0-0)   @ Estadio Manuel Martínez Valero › Elche
+    21.30     Athletic Club v Barcelona  3-2 aet (2-2, 1-1)   @ San Mamés Barria › Bilbao
+» Quarter-finals
+  Wed Feb 2
+    20.00     Rayo Vallecano v Mallorca  1-0 (1-0)   @ Estadio de Vallecas › Madrid
+    21.00     Valencia v Cadiz  2-1 (1-0)   @ Estadio de Mestalla › Valencia
+  Thu Feb 3
+    20.00     Real Sociedad v Real Betis  0-4 (0-1)   @ Reale Arena › Donostia-San Sebastián
+    21.30     Athletic Club v Real Madrid  1-0 (0-0)   @ San Mamés Barria › Bilbao
+» Semi-finals
+  Wed Feb 9
+    21.00     Rayo Vallecano v Real Betis  1-2 (1-1)   @ Estadio de Vallecas › Madrid
+  Thu Feb 10
+    21.30     Athletic Club v Valencia  1-1 (1-0)   @ San Mamés Barria › Bilbao
+  Wed Mar 2
+    21.30     Valencia v Athletic Club  1-0 (1-0)   @ Estadio de Mestalla › Valencia
+  Thu Mar 3
+    21.00     Real Betis v Rayo Vallecano  1-1 (0-0)   @ Estadio Benito Villamarín › Sevilla
+» Final
+  Sat Apr 23
+    22.00     Real Betis v Valencia  5-4 pen (1-1, 1-1, 1-1)   @ Estadio Olímpico de Sevilla › Sevilla

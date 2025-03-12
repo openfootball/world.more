@@ -1,0 +1,502 @@
+= France | Ligue 2 2023/24
+
+  # Date       Sat Aug/5 2023 - Fri May/24 2024 (293d)
+  # Teams      20
+  # Matches    382
+
+  # Note - All times in Europe/Paris
+
+» Regular Season - 1
+  Sat Aug 5 2023
+    15.00     Saint Etienne v Grenoble  0-1 (0-0)   @ Stade Geoffroy-Guichard › Saint-Ètienne
+  Sat Aug 5
+    19.00     Amiens v Quevilly  1-0 (0-0)   @ Stade Crédit Agricole de la Licorne › Amiens
+              Ajaccio v Rodez  1-1 (1-1)   @ Stade François Coty › Ajaccio
+              Valenciennes v Auxerre  1-4 (1-1)   @ Stade du Hainaut › Valenciennes
+              Paris FC v Caen  0-2 (0-1)   @ Stade de l'Aube › Troyes
+              Laval v Angers  1-0 (0-0)   @ Stade Francis Le Basser › Laval
+              Concarneau v Bastia  0-0 (0-0)   @ Stade du Roudourou › Guingamp
+              Dunkerque v Estac Troyes  2-2 (1-2)   @ Stade Marcel-Tribut › Dunkerque
+              Annecy v Guingamp  1-4 (1-0)   @ Parc des Sports › Annecy
+  Mon Aug 7
+    20.45     PAU v Bordeaux  3-0 (2-0)   @ Stade Nouste Camp › Bizanos
+» Regular Season - 2
+  Sat Aug 12
+    15.00     Rodez v Saint Etienne  2-1 (1-0)   @ Stade Paul Lignon › Rodez
+    19.00     Angers v Annecy  0-0 (0-0)   @ Stade Raymond-Kopa › Angers
+              Caen v PAU  2-0 (2-0)   @ Stade Michel d'Ornano › Caen
+              Guingamp v Dunkerque  0-1 (0-0)   @ Stade du Roudourou › Guingamp
+              Grenoble v Paris FC  2-0 (0-0)   @ Stade des Alpes › Grenoble
+              Auxerre v Amiens  0-1 (0-0)   @ Stade de l'Abbé Deschamps › Auxerre
+              Estac Troyes v Laval  3-1 (2-0)   @ Stade de l'Aube › Troyes
+              Quevilly v Ajaccio  0-1 (0-1)   @ Stade Robert Diochon › Le Petit-Quevilly
+              Bastia v Valenciennes  3-0 (1-0)   @ Stade Armand-Césari › Furiani
+  Mon Aug 14
+    20.45     Bordeaux v Concarneau  1-0 (0-0)   @ Stade Matmut-Atlantique › Bordeaux
+» Regular Season - 3
+  Sat Aug 19
+    15.00     Angers v Auxerre  2-2 (1-1)   @ Stade Raymond-Kopa › Angers
+    19.00     Amiens v Bastia  2-1 (1-1)   @ Stade Crédit Agricole de la Licorne › Amiens
+              Grenoble v Estac Troyes  0-0 (0-0)   @ Stade des Alpes › Grenoble
+              Valenciennes v Guingamp  0-0 (0-0)   @ Stade du Hainaut › Valenciennes
+              Laval v Rodez  1-0 (0-0)   @ Stade Francis Le Basser › Laval
+              Saint Etienne v Quevilly  2-1 (2-0)   @ Stade Geoffroy-Guichard › Saint-Ètienne
+              PAU v Paris FC  2-0 (1-0)   @ Stade Nouste Camp › Bizanos
+              Concarneau v Caen  0-2 (0-0)   @ Stade Francis-Le Blé › Brest
+              Annecy v Dunkerque  3-0 (0-0)   @ Parc des Sports › Annecy
+  Mon Aug 21
+    20.45     Ajaccio v Bordeaux  0-0 (0-0)   @ Stade François Coty › Ajaccio
+» Regular Season - 4
+  Sat Aug 26
+    15.00     Bordeaux v Amiens  2-0 (0-0)   @ Stade Matmut-Atlantique › Bordeaux
+    19.00     Caen v Ajaccio  3-0 (2-0)   @ Stade Michel d'Ornano › Caen
+              Guingamp v PAU  4-0 (2-0)   @ Stade du Roudourou › Guingamp
+              Auxerre v Grenoble  0-0 (0-0)   @ Stade de l'Abbé Deschamps › Auxerre
+              Paris FC v Concarneau  3-0 (1-0)   @ Stade de l'Aube › Troyes
+              Quevilly v Laval  0-0 (0-0)   @ Stade Robert Diochon › Le Petit-Quevilly
+              Rodez v Valenciennes  0-1 (0-1)   @ Stade Paul Lignon › Rodez
+              Dunkerque v Angers  0-1 (0-0)   @ Stade Marcel-Tribut › Dunkerque
+              Bastia v Estac Troyes  3-2 (0-2)   @ Stade Armand-Césari › Furiani
+  Mon Aug 28
+    20.45     Annecy v Saint Etienne  1-1 (1-0)   @ Parc des Sports › Annecy
+» Regular Season - 5
+  Sat Sep 2
+    15.00     Bordeaux v Auxerre  2-4 (1-2)   @ Stade Matmut-Atlantique › Bordeaux
+    19.00     Angers v Paris FC  2-0 (1-0)   @ Stade Raymond-Kopa › Angers
+              Amiens v Guingamp  4-1 (1-1)   @ Stade Crédit Agricole de la Licorne › Amiens
+              Ajaccio v Dunkerque  2-2 (0-1)   @ Stade François Coty › Ajaccio
+              Grenoble v Bastia  0-0 (0-0)   @ Stade des Alpes › Grenoble
+              Estac Troyes v Quevilly  2-2 (0-2)   @ Stade de l'Aube › Troyes
+              Laval v Caen  2-1 (0-0)   @ Stade Francis Le Basser › Laval
+              Saint Etienne v Valenciennes  0-0 (0-0)   @ Stade Geoffroy-Guichard › Saint-Ètienne
+              PAU v Rodez  2-2 (2-0)   @ Stade Nouste Camp › Bizanos
+              Concarneau v Annecy  1-1 (0-1)   @ Stade du Roudourou › Guingamp
+» Regular Season - 6
+  Sat Sep 16
+    15.00     Caen v Saint Etienne  1-2 (0-1)   @ Stade Michel d'Ornano › Caen
+    19.00     Valenciennes v Bordeaux  1-2 (0-1)   @ Stade du Hainaut › Valenciennes
+              Auxerre v PAU  2-2 (1-1)   @ Stade de l'Abbé Deschamps › Auxerre
+              Paris FC v Amiens  3-0 (2-0)   @ Stade de l'Aube › Troyes
+              Quevilly v Concarneau  2-3 (0-3)   @ Stade Robert Diochon › Le Petit-Quevilly
+              Rodez v Angers  4-1 (0-1)   @ Stade Paul Lignon › Rodez
+              Dunkerque v Grenoble  0-0 (0-0)   @ Stade Marcel-Tribut › Dunkerque
+              Bastia v Laval  0-3 (0-1)   @ Stade Armand-Césari › Furiani
+              Annecy v Estac Troyes  0-0 (0-0)   @ Parc des Sports › Annecy
+  Mon Sep 18
+    20.45     Guingamp v Ajaccio  3-0 (2-0)   @ Stade du Roudourou › Guingamp
+» Regular Season - 7
+  Sat Sep 23
+    15.00     Estac Troyes v Auxerre  1-2 (0-1)   @ Stade de l'Aube › Troyes
+    19.00     Angers v Bastia  2-0 (1-0)   @ Stade Raymond-Kopa › Angers
+              Amiens v Valenciennes  0-0 (0-0)   @ Stade Crédit Agricole de la Licorne › Amiens
+              Ajaccio v Paris FC  2-1 (0-0)   @ Stade François Coty › Ajaccio
+              Grenoble v Quevilly  2-1 (1-1)   @ Stade des Alpes › Grenoble
+              Laval v Guingamp  2-1 (0-0)   @ Stade Francis Le Basser › Laval
+              PAU v Annecy  0-3 (0-2)   @ Stade Nouste Camp › Bizanos
+              Concarneau v Saint Etienne  0-1 (0-0)   @ Stade Yves Allainmat-Le Moustoir › Lorient
+              Dunkerque v Rodez  1-2 (0-1)   @ Stade Marcel-Tribut › Dunkerque
+» Regular Season - 8
+  Tue Sep 26
+    20.45     Amiens v Ajaccio  0-0 (0-0)   @ Stade Crédit Agricole de la Licorne › Amiens
+              Caen v Grenoble  1-2 (1-0)   @ Stade Michel d'Ornano › Caen
+              Guingamp v Bordeaux  0-0 (0-0)   @ Stade du Roudourou › Guingamp
+              Valenciennes v Concarneau  0-1 (0-1)   @ Stade du Hainaut › Valenciennes
+              Auxerre v Annecy  4-0 (2-0)   @ Stade de l'Abbé Deschamps › Auxerre
+              Paris FC v Laval  0-1 (0-0)   @ Stade de l'Aube › Troyes
+              Quevilly v Angers  0-1 (0-1)   @ Stade Robert Diochon › Le Petit-Quevilly
+              Rodez v Estac Troyes  2-1 (0-0)   @ Stade Paul Lignon › Rodez
+              Bastia v PAU  1-4 (0-1)   @ Stade Armand-Césari › Furiani
+» Regular Season - 9
+  Sat Sep 30
+    15.00     Estac Troyes v Saint Etienne  0-1 (0-0)   @ Stade de l'Aube › Troyes
+    19.00     Angers v Concarneau  2-0 (0-0)   @ Stade Raymond-Kopa › Angers
+              Caen v Guingamp  0-1 (0-0)   @ Stade Michel d'Ornano › Caen
+              Grenoble v Bordeaux  2-0 (1-0)   @ Stade des Alpes › Grenoble
+              Auxerre v Rodez  3-1 (1-0)   @ Stade de l'Abbé Deschamps › Auxerre
+              Laval v Valenciennes  1-0 (0-0)   @ Stade Francis Le Basser › Laval
+              PAU v Amiens  1-0 (1-0)   @ Stade Nouste Camp › Bizanos
+              Dunkerque v Quevilly  0-1 (0-0)   @ Stade Marcel-Tribut › Dunkerque
+              Annecy v Paris FC  2-2 (1-0)   @ Parc des Sports › Annecy
+  Mon Oct 2
+    20.45     Ajaccio v Bastia  2-0 (0-0)   @ Stade François Coty › Ajaccio
+» Regular Season - 7
+  Tue Oct 3
+    18.45     Bordeaux v Caen  1-1 (1-1)   @ Stade Matmut-Atlantique › Bordeaux
+» Regular Season - 8
+  Wed Oct 4
+    18.45     Saint Etienne v Dunkerque  2-0 (0-0)   @ Stade Geoffroy-Guichard › Saint-Ètienne
+» Regular Season - 10
+  Sat Oct 7
+    15.00     Bordeaux v Laval  0-1 (0-1)   @ Stade Matmut-Atlantique › Bordeaux
+    19.00     Amiens v Angers  1-4 (1-2)   @ Stade Crédit Agricole de la Licorne › Amiens
+              Guingamp v Grenoble  2-2 (2-1)   @ Stade du Roudourou › Guingamp
+              Valenciennes v Estac Troyes  1-1 (0-1)   @ Stade du Hainaut › Valenciennes
+              Paris FC v Auxerre  0-2 (0-1)   @ Stade Charléty › Paris
+              Quevilly v PAU  2-2 (1-1)   @ Stade Robert Diochon › Le Petit-Quevilly
+              Saint Etienne v Ajaccio  0-0 (0-0)   @ Stade Geoffroy-Guichard › Saint-Ètienne
+              Concarneau v Dunkerque  4-3 (1-2)   @ Stade Yves Allainmat-Le Moustoir › Lorient
+              Rodez v Caen  5-3 (2-3)   @ Stade Paul Lignon › Rodez
+              Bastia v Annecy  2-1 (0-0)   @ Stade Armand-Césari › Furiani
+» Regular Season - 11
+  Sat Oct 21
+    15.00     Caen v Auxerre  1-1 (0-1)   @ Stade Michel d'Ornano › Caen
+    19.00     Angers v Bordeaux  2-0 (1-0)   @ Stade Raymond-Kopa › Angers
+              Guingamp v Quevilly  2-2 (1-1)   @ Stade du Roudourou › Guingamp
+              Ajaccio v PAU  2-0 (0-0)   @ Stade François Coty › Ajaccio
+              Grenoble v Valenciennes  3-3 (2-1)   @ Stade des Alpes › Grenoble
+              Estac Troyes v Concarneau  0-0 (0-0)   @ Stade de l'Aube › Troyes
+              Rodez v Bastia  1-1 (0-1)   @ Stade Paul Lignon › Rodez
+              Dunkerque v Paris FC  1-3 (0-1)   @ Stade Marcel-Tribut › Dunkerque
+              Annecy v Amiens  1-1 (1-1)   @ Parc des Sports › Annecy
+  Mon Oct 23
+    20.45     Laval v Saint Etienne  0-1 (0-1)   @ Stade Francis Le Basser › Laval
+» Regular Season - 12
+  Sat Oct 28
+    15.00     Bordeaux v Rodez  2-2 (2-1)   @ Stade Matmut-Atlantique › Bordeaux
+    19.00     Amiens v Laval  0-0 (0-0)   @ Stade Crédit Agricole de la Licorne › Amiens
+              Valenciennes v Caen  2-2 (2-0)   @ Stade du Hainaut › Valenciennes
+              Auxerre v Dunkerque  0-1 (0-0)   @ Stade de l'Abbé Deschamps › Auxerre
+              Paris FC v Estac Troyes  2-2 (0-0)   @ Stade Charléty › Paris
+              Quevilly v Annecy  1-2 (1-1)   @ Stade Robert Diochon › Le Petit-Quevilly
+              PAU v Grenoble  3-2 (1-1)   @ Stade Nouste Camp › Bizanos
+              Concarneau v Ajaccio  2-1 (0-0)   @ Stade Yves Allainmat-Le Moustoir › Lorient
+              Bastia v Guingamp  0-0 (0-0)   @ Stade Armand-Césari › Furiani
+  Mon Oct 30
+    20.45     Saint Etienne v Angers  2-0 (0-0)   @ Stade Geoffroy-Guichard › Saint-Ètienne
+» Regular Season - 13
+  Sat Nov 4
+    15.00     Saint Etienne v Paris FC  0-1 (0-0)   @ Stade Geoffroy-Guichard › Saint-Ètienne
+    19.00     Angers v Valenciennes  2-0 (2-0)   @ Stade Raymond-Kopa › Angers
+              Grenoble v Ajaccio  0-3 (0-2)   @ Stade des Alpes › Grenoble
+              Estac Troyes v Caen  2-1 (1-0)   @ Stade de l'Aube › Troyes
+              Quevilly v Rodez  3-1 (2-1)   @ Stade Robert Diochon › Le Petit-Quevilly
+              Dunkerque v Amiens  0-1 (0-1)   @ Stade Marcel-Tribut › Dunkerque
+              Bastia v Bordeaux  3-1 (2-0)   @ Stade Armand-Césari › Furiani
+              Annecy v Laval  1-3 (1-1)   @ Parc des Sports › Annecy
+  Mon Nov 6
+    20.45     Guingamp v Auxerre  2-1 (0-0)   @ Stade du Roudourou › Guingamp
+» Regular Season - 14
+  Sat Nov 11
+    15.00     Bordeaux v Annecy  3-1 (2-1)   @ Stade Matmut-Atlantique › Bordeaux
+    19.00     Amiens v Grenoble  1-2 (1-1)   @ Stade Crédit Agricole de la Licorne › Amiens
+              Caen v Quevilly  3-3 (2-2)   @ Stade Michel d'Ornano › Caen
+              Ajaccio v Estac Troyes  1-0 (1-0)   @ Stade François Coty › Ajaccio
+              Valenciennes v Dunkerque  0-1 (0-0)   @ Stade du Hainaut › Valenciennes
+              Auxerre v Saint Etienne  5-2 (3-1)   @ Stade de l'Abbé Deschamps › Auxerre
+              Paris FC v Bastia  1-0 (1-0)   @ Stade Charléty › Paris
+              Laval v Concarneau  0-3 (0-1)   @ Stade Francis Le Basser › Laval
+              PAU v Angers  4-4 (2-1)   @ Stade Nouste Camp › Bizanos
+              Rodez v Guingamp  0-0 (0-0)   @ Stade Paul Lignon › Rodez
+» Regular Season - 15
+  Sat Nov 25
+    15.00     Saint Etienne v PAU  1-2 (1-0)   @ Stade Geoffroy-Guichard › Saint-Ètienne
+    19.00     Amiens v Concarneau  1-1 (1-1)   @ Stade Crédit Agricole de la Licorne › Amiens
+              Grenoble v Rodez  2-1 (1-1)   @ Stade des Alpes › Grenoble
+              Estac Troyes v Guingamp  0-1 (0-1)   @ Stade de l'Aube › Troyes
+              Paris FC v Bordeaux  1-2 (1-1)   @ Stade Charléty › Paris
+              Quevilly v Valenciennes  0-0 (0-0)   @ Stade Robert Diochon › Le Petit-Quevilly
+              Dunkerque v Laval  0-2 (0-2)   @ Stade Marcel-Tribut › Dunkerque
+              Bastia v Auxerre  0-0 (0-0)   @ Stade Armand-Césari › Furiani
+              Annecy v Ajaccio  2-0 (1-0)   @ Parc des Sports › Annecy
+  Mon Nov 27
+    20.45     Angers v Caen  3-0 (1-0)   @ Stade Raymond-Kopa › Angers
+» Regular Season - 13
+  Tue Nov 28
+    19.00     Concarneau v PAU  1-2 (0-1)   @ Stade du Roudourou › Guingamp
+» Regular Season - 16
+  Sat Dec 2
+    15.00     Bordeaux v Estac Troyes  0-1 (0-1)   @ Stade Matmut-Atlantique › Bordeaux
+    19.00     Amiens v Saint Etienne  1-0 (1-0)   @ Stade Crédit Agricole de la Licorne › Amiens
+              Caen v Bastia  1-0 (0-0)   @ Stade Michel d'Ornano › Caen
+              Guingamp v Paris FC  0-1 (0-0)   @ Stade du Roudourou › Guingamp
+              Ajaccio v Angers  1-1 (1-1)   @ Stade François Coty › Ajaccio
+              Valenciennes v Annecy  0-0 (0-0)   @ Stade du Hainaut › Valenciennes
+              Auxerre v Quevilly  3-2 (1-2)   @ Stade de l'Abbé Deschamps › Auxerre
+              Laval v Grenoble  1-1 (0-0)   @ Stade Francis Le Basser › Laval
+              PAU v Dunkerque  1-1 (1-0)   @ Stade Nouste Camp › Bizanos
+              Rodez v Concarneau  2-0 (1-0)   @ Stade Paul Lignon › Rodez
+» Regular Season - 17
+  Tue Dec 5
+    20.45     Angers v Grenoble  1-0 (1-0)   @ Stade Raymond-Kopa › Angers
+              Ajaccio v Laval  2-0 (0-0)   @ Stade François Coty › Ajaccio
+              Estac Troyes v Amiens  2-0 (2-0)   @ Stade de l'Aube › Troyes
+              Paris FC v Rodez  2-0 (2-0)   @ Stade Charléty › Paris
+              Quevilly v Bordeaux  3-2 (2-0)   @ Stade Robert Diochon › Le Petit-Quevilly
+              Saint Etienne v Guingamp  1-3 (1-1)   @ Stade Geoffroy-Guichard › Saint-Ètienne
+              PAU v Valenciennes  3-1 (1-0)   @ Stade Nouste Camp › Bizanos
+              Concarneau v Auxerre  1-2 (0-2)   @ Stade Francis-Le Blé › Brest
+              Dunkerque v Bastia  0-5 (0-2)   @ Stade Marcel-Tribut › Dunkerque
+  Wed Dec 6
+    19.00     Annecy v Caen  1-2 (1-0)   @ Parc des Sports › Annecy
+» Regular Season - 18
+  Sat Dec 16
+    15.00     Auxerre v Ajaccio  2-0 (2-0)   @ Stade de l'Abbé Deschamps › Auxerre
+              Bordeaux v Saint Etienne  0-0 (0-0)   @ Stade Matmut-Atlantique › Bordeaux
+    19.00     Caen v Dunkerque  1-0 (1-0)   @ Stade Michel d'Ornano › Caen
+              Guingamp v Concarneau  0-1 (0-0)   @ Stade du Roudourou › Guingamp
+              Grenoble v Annecy  1-0 (0-0)   @ Stade des Alpes › Grenoble
+              Valenciennes v Paris FC  0-1 (0-1)   @ Stade du Hainaut › Valenciennes
+              Estac Troyes v Angers  1-4 (1-3)   @ Stade de l'Aube › Troyes
+              Laval v PAU  1-1 (0-0)   @ Stade Francis Le Basser › Laval
+              Rodez v Amiens  2-2 (0-1)   @ Stade Paul Lignon › Rodez
+              Bastia v Quevilly  0-0 (0-0)   @ Stade Armand-Césari › Furiani
+» Regular Season - 19
+  Tue Dec 19
+    20.45     Angers v Guingamp  1-0 (1-0)   @ Stade Raymond-Kopa › Angers
+              Amiens v Caen  0-0 (0-0)   @ Stade Crédit Agricole de la Licorne › Amiens
+              Ajaccio v Valenciennes  2-1 (2-1)   @ Stade François Coty › Ajaccio
+              Paris FC v Quevilly  2-2 (1-1)   @ Stade Charléty › Paris
+              Laval v Auxerre  1-3 (1-1)   @ Stade Francis Le Basser › Laval
+              Saint Etienne v Bastia  3-2 (2-0)   @ Stade Geoffroy-Guichard › Saint-Ètienne
+              PAU v Estac Troyes  1-1 (0-0)   @ Stade Nouste Camp › Bizanos
+              Concarneau v Grenoble  0-3 (0-1)   @ Stade Yves Allainmat-Le Moustoir › Lorient
+              Dunkerque v Bordeaux  0-2 (0-1)   @ Stade Marcel-Tribut › Dunkerque
+              Annecy v Rodez  1-2 (0-1)   @ Parc des Sports › Annecy
+» Regular Season - 20
+  Sat Jan 13 2024
+    15.00     Saint Etienne v Laval  0-0 (0-0)   @ Stade Geoffroy-Guichard › Saint-Ètienne
+  Sat Jan 13
+    19.00     Caen v Concarneau  1-0 (0-0)   @ Stade Michel d'Ornano › Caen
+              Grenoble v Dunkerque  2-2 (1-0)   @ Stade des Alpes › Grenoble
+              Valenciennes v Amiens  0-1 (0-1)   @ Stade du Hainaut › Valenciennes
+              Estac Troyes v Ajaccio  3-1 (1-1)   @ Stade de l'Aube › Troyes
+              Paris FC v Annecy  2-1 (0-0)   @ Stade Charléty › Paris
+              Quevilly v Guingamp  0-1 (0-0)   @ Stade Robert Diochon › Le Petit-Quevilly
+              Rodez v PAU  2-1 (0-0)   @ Stade Paul Lignon › Rodez
+              Bastia v Angers  2-0 (1-0)   @ Stade Armand-Césari › Furiani
+  Mon Jan 15
+    20.45     Auxerre v Bordeaux  3-1 (1-1)   @ Stade de l'Abbé Deschamps › Auxerre
+» Regular Season - 21
+  Tue Jan 23
+    20.45     Angers v Quevilly  3-2 (2-1)   @ Stade Raymond Kopa › Angers
+              Bordeaux v Valenciennes  3-1 (0-0)   @ Stade Matmut-Atlantique › Bordeaux
+              Amiens v Annecy  1-0 (0-0)   @ Stade Crédit Agricole de la Licorne › Amiens
+              Guingamp v Rodez  3-3 (3-3)   @ Stade du Roudourou › Guingamp
+              Grenoble v Auxerre  1-1 (1-1)   @ Stade des Alpes › Grenoble
+              Laval v Paris FC  1-1 (1-0)   @ Stade Francis Le Basser › Laval
+              PAU v Saint Etienne  0-1 (0-1)   @ Stade Nouste Camp › Bizanos
+              Concarneau v Estac Troyes  1-0 (0-0)   @ Stade Francis-Le Blé › Brest
+              Dunkerque v Ajaccio  2-0 (1-0)   @ Stade Marcel-Tribut › Dunkerque
+              Bastia v Caen  1-2 (1-0)   @ Stade Armand-Césari › Furiani
+» Regular Season - 22
+  Sat Jan 27
+    15.00     Saint Etienne v Amiens  0-1 (0-1)   @ Stade Geoffroy-Guichard › Saint-Ètienne
+    19.00     Caen v Estac Troyes  0-0 (0-0)   @ Stade Michel d'Ornano › Caen
+              Ajaccio v Concarneau  1-0 (1-0)   @ Stade François Coty › Ajaccio
+              Valenciennes v Bastia  3-1 (1-1)   @ Stade du Hainaut › Valenciennes
+              Auxerre v Guingamp  1-1 (1-1)   @ Stade de l'Abbé Deschamps › Auxerre
+              Paris FC v Dunkerque  1-2 (0-1)   @ Stade Charléty › Paris
+              Quevilly v Grenoble  1-1 (0-0)   @ Stade Robert Diochon › Le Petit-Quevilly
+              Rodez v Laval  1-2 (0-0)   @ Stade Paul Lignon › Rodez
+              Annecy v PAU  0-0 (0-0)   @ Parc des Sports › Annecy
+  Mon Jan 29
+    20.45     Bordeaux v Angers  1-0 (0-0)   @ Stade Matmut-Atlantique › Bordeaux
+» Regular Season - 23
+  Sat Feb 3
+    15.00     Dunkerque v Saint Etienne  1-0 (0-0)   @ Stade Marcel-Tribut › Dunkerque
+    19.00     Angers v Rodez  2-1 (1-1)   @ Stade Raymond Kopa › Angers
+              Amiens v Paris FC  1-1 (0-0)   @ Stade Crédit Agricole de la Licorne › Amiens
+              Guingamp v Annecy  1-4 (1-2)   @ Stade du Roudourou › Guingamp
+              Grenoble v Caen  5-1 (2-0)   @ Stade des Alpes › Grenoble
+              Estac Troyes v Bordeaux  2-1 (0-0)   @ Stade de l'Aube › Troyes
+              Laval v Quevilly  2-4 (0-2)   @ Stade Francis Le Basser › Laval
+              PAU v Auxerre  2-2 (1-1)   @ Stade Nouste Camp › Bizanos
+              Concarneau v Valenciennes  1-0 (0-0)   @ Stade du Moustoir-Yves Allainmat › Lorient
+  Mon Feb 5
+    20.45     Bastia v Ajaccio  1-0 (0-0)   @ Stade Armand-Césari › Furiani
+» Regular Season - 24
+  Sat Feb 10
+    15.00     Auxerre v Angers  1-0 (0-0)   @ Stade de l'Abbé Deschamps › Auxerre
+    19.00     Bordeaux v Grenoble  1-0 (1-0)   @ Stade Matmut-Atlantique › Bordeaux
+              Caen v Amiens  2-0 (0-0)   @ Stade Michel d'Ornano › Caen
+              Ajaccio v Guingamp  3-0 (1-0)   @ Stade François Coty › Ajaccio
+              Valenciennes v Laval  1-1 (0-0)   @ Stade du Hainaut › Valenciennes
+              Paris FC v PAU  1-1 (0-0)   @ Stade Charléty › Paris
+              Quevilly v Bastia  0-1 (0-1)   @ Stade Robert Diochon › Le Petit-Quevilly
+              Rodez v Dunkerque  0-0 (0-0)   @ Stade Paul Lignon › Rodez
+              Annecy v Concarneau  0-3 (0-0)   @ Parc des Sports › Annecy
+  Mon Feb 12
+    20.45     Saint Etienne v Estac Troyes  5-0 (2-0)   @ Stade Geoffroy-Guichard › Saint-Ètienne
+» Regular Season - 25
+  Sat Feb 17
+    15.00     Angers v Saint Etienne  0-3 (0-2)   @ Stade Raymond Kopa › Angers
+    19.00     Guingamp v Caen  1-0 (1-0)   @ Stade du Roudourou › Guingamp
+              Estac Troyes v Grenoble  3-1 (1-0)   @ Stade de l'Aube › Troyes
+              Laval v Ajaccio  1-1 (1-0)   @ Stade Francis Le Basser › Laval
+              PAU v Quevilly  0-2 (0-2)   @ Stade Nouste Camp › Bizanos
+              Concarneau v Paris FC  2-2 (1-0)   @ Stade Michel d'Ornano › Caen
+              Dunkerque v Valenciennes  2-1 (1-1)   @ Stade Marcel-Tribut › Dunkerque
+              Bastia v Rodez  0-2 (0-1)   @ Stade Armand-Césari › Furiani
+              Annecy v Auxerre  0-2 (0-1)   @ Parc des Sports › Annecy
+  Mon Feb 19
+    20.45     Amiens v Bordeaux  1-1 (1-0)   @ Stade Crédit Agricole de la Licorne › Amiens
+» Regular Season - 26
+  Sat Feb 24
+    15.00     Saint Etienne v Annecy  2-1 (2-0)   @ Stade Geoffroy-Guichard › Saint-Ètienne
+    19.00     Bordeaux v Guingamp  1-0 (1-0)   @ Stade Matmut-Atlantique › Bordeaux
+              Ajaccio v Amiens  0-0 (0-0)   @ Stade François Coty › Ajaccio
+              Grenoble v PAU  0-1 (0-1)   @ Stade des Alpes › Grenoble
+              Valenciennes v Rodez  0-2 (0-1)   @ Stade du Hainaut › Valenciennes
+              Auxerre v Bastia  1-1 (1-0)   @ Stade de l'Abbé Deschamps › Auxerre
+              Estac Troyes v Dunkerque  1-2 (1-1)   @ Stade de l'Aube › Troyes
+              Quevilly v Paris FC  0-0 (0-0)   @ Stade Robert Diochon › Le Petit-Quevilly
+              Concarneau v Laval  1-3 (0-1)   @ Stade Francis-Le Blé › Brest
+  Mon Feb 26
+    20.45     Caen v Angers  2-0 (1-0)   @ Stade Michel d'Ornano › Caen
+» Regular Season - 27
+  Sat Mar 2
+    15.00     Paris FC v Saint Etienne  0-0 (0-0)   @ Stade Charléty › Paris
+    19.00     Guingamp v Estac Troyes  0-0 (0-0)   @ Stade du Roudourou › Guingamp
+              Auxerre v Valenciennes  0-0 (0-0)   @ Stade de l'Abbé Deschamps › Auxerre
+              Laval v Amiens  1-1 (1-0)   @ Stade Francis Le Basser › Laval
+              PAU v Caen  2-3 (0-1)   @ Stade Nouste Camp › Bizanos
+              Rodez v Bordeaux  2-2 (2-1)   @ Stade Paul Lignon › Rodez
+              Dunkerque v Concarneau  2-2 (1-1)   @ Stade Marcel-Tribut › Dunkerque
+              Bastia v Grenoble  1-0 (1-0)   @ Stade Armand-Césari › Furiani
+              Annecy v Quevilly  0-0 (0-0)   @ Parc des Sports › Annecy
+  Mon Mar 4
+    20.45     Angers v Ajaccio  3-1 (1-1)   @ Stade Raymond Kopa › Angers
+» Regular Season - 28
+  Sat Mar 9
+    15.00     Saint Etienne v Auxerre  1-0 (0-0)   @ Stade Geoffroy-Guichard › Saint-Ètienne
+    19.00     Bordeaux v Quevilly  0-0 (0-0)   @ Stade Matmut-Atlantique › Bordeaux
+              Amiens v Rodez  1-1 (1-1)   @ Stade Crédit Agricole de la Licorne › Amiens
+              Caen v Paris FC  0-1 (0-0)   @ Stade Michel d'Ornano › Caen
+              Ajaccio v Annecy  1-3 (1-1)   @ Stade François Coty › Ajaccio
+              Valenciennes v Angers  0-0 (0-0)   @ Stade du Hainaut › Valenciennes
+              Estac Troyes v Bastia  2-0 (1-0)   @ Stade de l'Aube › Troyes
+              Concarneau v Guingamp  2-3 (0-1)   @ Stade Francis-Le Blé › Brest
+              Dunkerque v PAU  1-0 (0-0)   @ Stade Marcel-Tribut › Dunkerque
+  Mon Mar 11
+    20.45     Grenoble v Laval  0-2 (0-1)   @ Stade des Alpes › Grenoble
+» Regular Season - 29
+  Sat Mar 16
+    15.00     Auxerre v Caen  2-1 (0-1)   @ Stade de l'Abbé Deschamps › Auxerre
+    19.00     Angers v Amiens  1-3 (1-0)   @ Stade Raymond Kopa › Angers
+              Guingamp v Valenciennes  3-0 (2-0)   @ Stade du Roudourou › Guingamp
+              Paris FC v Ajaccio  2-0 (0-0)   @ Stade Michel d'Ornano › Caen
+              Quevilly v Estac Troyes  1-1 (0-1)   @ Stade Robert Diochon › Le Petit-Quevilly
+              Laval v Dunkerque  1-2 (0-2)   @ Stade Francis Le Basser › Laval
+              PAU v Concarneau  2-0 (0-0)   @ Stade Nouste Camp › Bizanos
+              Rodez v Grenoble  3-1 (1-1)   @ Stade Paul Lignon › Rodez
+              Bastia v Saint Etienne  0-4 (0-2)   @ Stade Armand-Césari › Furiani
+              Annecy v Bordeaux  3-1 (2-1)   @ Parc des Sports › Annecy
+» Regular Season - 30
+  Sat Mar 30
+    15.00     Valenciennes v Saint Etienne  0-2 (0-2)   @ Stade du Hainaut › Valenciennes
+    19.00     Bordeaux v Paris FC  3-3 (1-2)   @ Stade Matmut-Atlantique › Bordeaux
+              Amiens v PAU  2-3 (1-0)   @ Stade Crédit Agricole de la Licorne › Amiens
+              Grenoble v Guingamp  0-0 (0-0)   @ Stade des Alpes › Grenoble
+              Estac Troyes v Rodez  2-3 (0-1)   @ Stade de l'Aube › Troyes
+              Quevilly v Caen  1-2 (0-2)   @ Stade Robert Diochon › Le Petit-Quevilly
+              Laval v Bastia  1-2 (0-0)   @ Stade Francis Le Basser › Laval
+              Concarneau v Angers  2-4 (2-0)   @ Stade Francis-Le Blé › Brest
+              Dunkerque v Annecy  0-2 (0-0)   @ Stade Marcel-Tribut › Dunkerque
+  Mon Apr 1
+    20.45     Ajaccio v Auxerre  0-1 (0-1)   @ Stade Michel-Moretti › Ajaccio
+» Regular Season - 31
+  Sat Apr 6
+    15.00     Saint Etienne v Concarneau  1-0 (1-0)   @ Stade Geoffroy-Guichard › Saint-Ètienne
+    19.00     Angers v Laval  1-1 (0-1)   @ Stade Raymond Kopa › Angers
+              Caen v Bordeaux  0-1 (0-1)   @ Stade Michel d'Ornano › Caen
+              Guingamp v Amiens  0-0 (0-0)   @ Stade du Roudourou › Guingamp
+              Paris FC v Grenoble  2-1 (0-1)   @ Stade Charléty › Paris
+              PAU v Ajaccio  1-1 (1-1)   @ Stade Nouste Camp › Bizanos
+              Rodez v Quevilly  3-3 (2-1)   @ Stade Paul Lignon › Rodez
+              Bastia v Dunkerque  1-1 (1-0)   @ Stade Armand-Césari › Furiani
+              Annecy v Valenciennes  2-1 (0-1)   @ Parc des Sports › Annecy
+  Mon Apr 8
+    20.45     Auxerre v Estac Troyes  2-0 (0-0)   @ Stade de l'Abbé Deschamps › Auxerre
+» Regular Season - 32
+  Sat Apr 13
+    15.00     Ajaccio v Saint Etienne  2-0 (2-0)   @ Stade Michel-Moretti › Ajaccio
+    19.00     Bordeaux v Bastia  2-3 (1-3)   @ Stade Matmut-Atlantique › Bordeaux
+              Caen v Rodez  1-0 (1-0)   @ Stade Michel d'Ornano › Caen
+              Valenciennes v PAU  1-4 (0-2)   @ Stade du Hainaut › Valenciennes
+              Estac Troyes v Paris FC  1-2 (0-1)   @ Stade de l'Aube › Troyes
+              Quevilly v Auxerre  4-3 (1-1)   @ Stade Robert Diochon › Le Petit-Quevilly
+              Laval v Annecy  0-3 (0-3)   @ Stade Francis Le Basser › Laval
+              Concarneau v Amiens  0-0 (0-0)   @ Stade Francis-Le Blé › Brest
+              Dunkerque v Guingamp  0-1 (0-0)   @ Stade Marcel-Tribut › Dunkerque
+  Mon Apr 15
+    20.45     Grenoble v Angers  0-0 (0-0)   @ Stade des Alpes › Grenoble
+» Regular Season - 33
+  Sat Apr 20
+    15.00     Rodez v Auxerre  2-0 (0-0)   @ Stade Paul Lignon › Rodez
+    19.00     Angers v Estac Troyes  2-1 (0-1)   @ Stade Raymond Kopa › Angers
+              Amiens v Dunkerque  0-1 (0-0)   @ Stade Crédit Agricole de la Licorne › Amiens
+              Guingamp v Bastia  0-1 (0-1)   @ Stade du Roudourou › Guingamp
+              Ajaccio v Caen  2-1 (2-0)   @ Stade Michel-Moretti › Ajaccio
+              Paris FC v Valenciennes  2-1 (2-1)   @ Stade Charléty › Paris
+              Saint Etienne v Bordeaux  2-1 (0-1)   @ Stade Geoffroy-Guichard › Saint-Ètienne
+              PAU v Laval  3-0 (2-0)   @ Stade Nouste Camp › Bizanos
+              Concarneau v Quevilly  0-0 (0-0)   @ Roazhon Park › Rennes
+              Annecy v Grenoble  0-1 (0-0)   @ Parc des Sports › Annecy
+» Regular Season - 34
+  Tue Apr 23
+    20.45     Bordeaux v Dunkerque  2-0 (1-0)   @ Stade Matmut-Atlantique › Bordeaux
+              Caen v Annecy  2-1 (1-0)   @ Stade Michel d'Ornano › Caen
+              Guingamp v Angers  1-2 (1-1)   @ Stade du Roudourou › Guingamp
+              Grenoble v Saint Etienne  0-2 (0-0)   @ Stade des Alpes › Grenoble
+              Valenciennes v Ajaccio  1-0 (0-0)   @ Stade du Hainaut › Valenciennes
+              Auxerre v Laval  4-0 (3-0)   @ Stade de l'Abbé Deschamps › Auxerre
+              Estac Troyes v PAU  2-2 (0-1)   @ Stade de l'Aube › Troyes
+              Quevilly v Amiens  3-3 (1-3)   @ Stade Robert Diochon › Le Petit-Quevilly
+              Rodez v Paris FC  1-0 (1-0)   @ Stade Paul Lignon › Rodez
+              Bastia v Concarneau  2-0 (0-0)   @ Stade Armand-Césari › Furiani
+» Regular Season - 35
+  Sat Apr 27
+    15.00     Saint Etienne v Caen  1-0 (1-0)   @ Stade Geoffroy-Guichard › Saint-Ètienne
+    19.00     Amiens v Estac Troyes  0-0 (0-0)   @ Stade Crédit Agricole de la Licorne › Amiens
+              Ajaccio v Quevilly  1-1 (0-1)   @ Stade Michel-Moretti › Ajaccio
+              Valenciennes v Grenoble  2-0 (1-0)   @ Stade du Hainaut › Valenciennes
+              Paris FC v Angers  3-1 (1-1)   @ Stade Charléty › Paris
+              Laval v Bordeaux  1-0 (0-0)   @ Stade Francis Le Basser › Laval
+              PAU v Guingamp  1-2 (0-1)   @ Stade Nouste Camp › Bizanos
+              Concarneau v Rodez  1-2 (0-0)   @ Stade Francis-Le Blé › Brest
+              Annecy v Bastia  3-2 (3-0)   @ Parc des Sports › Annecy
+  Mon Apr 29
+    20.45     Dunkerque v Auxerre  1-3 (1-0)   @ Stade Marcel-Tribut › Dunkerque
+» Regular Season - 36
+  Fri May 3
+    20.00     Angers v PAU  2-1 (1-0)   @ Stade Raymond Kopa › Angers
+              Bordeaux v Ajaccio  4-0 (2-0)   @ Stade Matmut-Atlantique › Bordeaux
+              Caen v Laval  1-0 (0-0)   @ Stade Michel d'Ornano › Caen
+              Grenoble v Concarneau  2-1 (2-1)   @ Stade des Alpes › Grenoble
+              Estac Troyes v Valenciennes  1-1 (1-0)   @ Stade de l'Aube › Troyes
+              Quevilly v Dunkerque  1-2 (1-0)   @ Stade Robert Diochon › Le Petit-Quevilly
+              Rodez v Annecy  1-3 (0-1)   @ Stade Paul Lignon › Rodez
+              Bastia v Amiens  1-2 (0-2)   @ Stade Armand-Césari › Furiani
+  Sat May 4
+    15.00     Auxerre v Paris FC  2-0 (1-0)   @ Stade de l'Abbé Deschamps › Auxerre
+    19.00     Guingamp v Saint Etienne  2-2 (0-2)   @ Stade du Roudourou › Guingamp
+» Regular Season - 37
+  Fri May 10
+    20.45     Amiens v Auxerre  0-0 (0-0)   @ Stade Crédit Agricole de la Licorne › Amiens
+              Ajaccio v Grenoble  1-2 (0-1)   @ Stade Michel-Moretti › Ajaccio
+              Valenciennes v Quevilly  2-1 (2-0)   @ Stade du Hainaut › Valenciennes
+              Paris FC v Guingamp  2-1 (1-0)   @ Stade Charléty › Paris
+              Laval v Estac Troyes  1-2 (1-0)   @ Stade Francis Le Basser › Laval
+              Saint Etienne v Rodez  1-1 (1-0)   @ Stade Geoffroy-Guichard › Saint-Ètienne
+              PAU v Bastia  1-2 (1-0)   @ Stade Nouste Camp › Bizanos
+              Concarneau v Bordeaux  4-2 (1-1)   @ Stade du Moustoir-Yves Allainmat › Lorient
+              Dunkerque v Caen  2-2 (0-1)   @ Stade Marcel-Tribut › Dunkerque
+              Annecy v Angers  1-2 (1-1)   @ Parc des Sports › Annecy
+» Regular Season - 38
+  Fri May 17
+    20.45     Angers v Dunkerque  0-0 (0-0)   @ Stade Raymond Kopa › Angers
+              Bordeaux v PAU  3-2 (2-0)   @ Stade Matmut-Atlantique › Bordeaux
+              Caen v Valenciennes  3-0 (1-0)   @ Stade Michel d'Ornano › Caen
+              Guingamp v Laval  0-1 (0-1)   @ Stade du Roudourou › Guingamp
+              Grenoble v Amiens  1-3 (1-0)   @ Stade des Alpes › Grenoble
+              Auxerre v Concarneau  4-1 (1-1)   @ Stade de l'Abbé Deschamps › Auxerre
+              Estac Troyes v Annecy  1-1 (1-1)   @ Stade de l'Aube › Troyes
+              Quevilly v Saint Etienne  2-1 (0-0)   @ Stade Robert Diochon › Le Petit-Quevilly
+              Rodez v Ajaccio  2-0 (2-0)   @ Stade Paul Lignon › Rodez
+              Bastia v Paris FC  1-1 (1-1)   @ Stade Armand-Césari › Furiani
+» Promotion Play-offs - 1st Round
+  Tue May 21
+    20.30     Rodez v Paris FC  3-2 pen (2-2, 2-2, 2-1)   @ Stade Paul Lignon › Rodez
+» Promotion Play-offs - Final
+  Fri May 24
+    20.30     Saint Etienne v Rodez  2-0 (0-0)   @ Stade Geoffroy-Guichard › Saint-Ètienne

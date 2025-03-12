@@ -1,0 +1,777 @@
+= England | League One 2021/22
+
+  # Date       Sat Aug/7 2021 - Sat May/21 2022 (287d)
+  # Teams      24
+  # Matches    557
+
+  # Note - All times in Europe/London
+
+» Regular Season - 1
+  Sat Aug 7 2021
+    15.00     Ipswich v Morecambe  2-2 (0-1)   @ Portman Road › Ipswich, Suffolk
+  Sat Aug 7
+    15.00     Bolton v Milton Keynes Dons  3-3 (1-1)   @ University of Bolton Stadium › Bolton
+              Rotherham v Plymouth  2-0 (2-0)   @ AESSEAL New York Stadium › Rotherham, South Yorkshire
+              Sunderland v Wigan  2-1 (1-1)   @ Stadium of Light › Sunderland
+              Fleetwood Town v Portsmouth  0-1 (0-0)   @ Highbury Stadium › Fleetwood, Lancashire
+              Gillingham v Lincoln  1-1 (1-1)   @ Priestfield Stadium › Gillingham, Kent
+              Shrewsbury v Burton Albion  0-1 (0-1)   @ Montgomery Waters Meadow › Shrewsbury, Shropshire
+              Doncaster v AFC Wimbledon  1-2 (0-0)   @ Eco-Power Stadium › Doncaster, South Yorkshire
+              Wycombe v Accrington ST  2-1 (2-0)   @ Adams Park › High Wycombe, Buckinghamshire
+              Crewe v Cheltenham  1-1 (1-1)   @ Mornflake Stadium › Crewe, Cheshire
+              Cambridge United v Oxford United  1-1 (0-1)   @ Abbey Stadium › Cambridge, Cambridgeshire
+    17.30     Charlton v Sheffield Wednesday  0-0 (0-0)   @ The Valley › London
+» Regular Season - 2
+  Sat Aug 14
+    15.00     Wigan v Rotherham  1-0 (0-0)   @ DW Stadium › Wigan
+              Sheffield Wednesday v Doncaster  2-0 (0-0)   @ Hillsborough › Sheffield
+              Burton Albion v Ipswich  2-1 (1-1)   @ Pirelli Stadium › Burton-upon-Trent, Staffordshire
+              AFC Wimbledon v Bolton  3-3 (1-2)   @ The Cherry Red Records Stadium › London
+              Oxford United v Charlton  2-1 (2-1)   @ The Kassam Stadium › Oxford, Oxfordshire
+              Milton Keynes Dons v Sunderland  1-2 (0-1)   @ Stadium mk › Milton Keynes, Buckinghamshire
+              Portsmouth v Crewe  2-0 (0-0)   @ Fratton Park › Portsmouth
+              Plymouth v Gillingham  1-0 (0-0)   @ Home Park › Plymouth
+              Accrington ST v Cambridge United  2-1 (2-0)   @ Wham Stadium › Accrington, Lancashire
+              Cheltenham v Wycombe  1-3 (1-1)   @ Jonny-Rocks Stadium › Cheltenham, Gloucestershire
+              Morecambe v Shrewsbury  2-0 (2-0)   @ Mazuma Stadium › Morecambe, Lancashire
+              Lincoln v Fleetwood Town  2-1 (0-1)   @ LNER Stadium › Lincoln, Lincolnshire
+» Regular Season - 3
+  Tue Aug 17
+    19.45     Wigan v Wycombe  1-1 (0-0)   @ DW Stadium › Wigan
+              Sheffield Wednesday v Fleetwood Town  1-0 (1-0)   @ Hillsborough › Sheffield
+              Burton Albion v Sunderland  1-0 (0-0)   @ Pirelli Stadium › Burton-upon-Trent, Staffordshire
+              AFC Wimbledon v Gillingham  1-1 (0-0)   @ The Cherry Red Records Stadium › London
+              Oxford United v Crewe  1-0 (1-0)   @ The Kassam Stadium › Oxford, Oxfordshire
+              Milton Keynes Dons v Charlton  2-1 (1-1)   @ Stadium mk › Milton Keynes, Buckinghamshire
+              Portsmouth v Shrewsbury  1-0 (1-0)   @ Fratton Park › Portsmouth
+              Plymouth v Cambridge United  1-1 (0-0)   @ Home Park › Plymouth
+              Accrington ST v Doncaster  1-0 (1-0)   @ Wham Stadium › Accrington, Lancashire
+              Cheltenham v Ipswich  2-1 (0-1)   @ Jonny-Rocks Stadium › Cheltenham, Gloucestershire
+              Morecambe v Rotherham  0-1 (0-0)   @ Mazuma Stadium › Morecambe, Lancashire
+              Lincoln v Bolton  0-1 (0-0)   @ LNER Stadium › Lincoln, Lincolnshire
+» Regular Season - 4
+  Sat Aug 21
+    13.00     Rotherham v Sheffield Wednesday  0-2 (0-0)   @ AESSEAL New York Stadium › Rotherham, South Yorkshire
+    15.00     Ipswich v Milton Keynes Dons  2-2 (1-0)   @ Portman Road › Ipswich, Suffolk
+              Bolton v Oxford United  2-1 (1-1)   @ University of Bolton Stadium › Bolton
+              Sunderland v AFC Wimbledon  1-0 (0-0)   @ Stadium of Light › Sunderland
+              Charlton v Wigan  0-2 (0-0)   @ The Valley › London
+              Fleetwood Town v Cheltenham  3-2 (1-1)   @ Highbury Stadium › Fleetwood, Lancashire
+              Gillingham v Morecambe  2-1 (1-1)   @ Priestfield Stadium › Gillingham, Kent
+              Shrewsbury v Plymouth  0-3 (0-1)   @ Montgomery Waters Meadow › Shrewsbury, Shropshire
+              Doncaster v Portsmouth  0-0 (0-0)   @ Eco-Power Stadium › Doncaster, South Yorkshire
+              Wycombe v Lincoln  1-0 (1-0)   @ Adams Park › High Wycombe, Buckinghamshire
+              Crewe v Accrington ST  0-1 (0-1)   @ Mornflake Stadium › Crewe, Cheshire
+              Cambridge United v Burton Albion  3-0 (0-0)   @ Abbey Stadium › Cambridge, Cambridgeshire
+» Regular Season - 5
+  Fri Aug 27
+    19.45     Burton Albion v Cheltenham  1-1 (0-1)   @ Pirelli Stadium › Burton-upon-Trent, Staffordshire
+  Sat Aug 28
+    13.00     Rotherham v Doncaster  2-0 (2-0)   @ AESSEAL New York Stadium › Rotherham, South Yorkshire
+    15.00     Ipswich v AFC Wimbledon  2-2 (0-0)   @ Portman Road › Ipswich, Suffolk
+              Wigan v Portsmouth  1-0 (0-0)   @ DW Stadium › Wigan
+              Sunderland v Wycombe  3-1 (2-0)   @ Stadium of Light › Sunderland
+              Charlton v Crewe  2-0 (2-0)   @ The Valley › London
+              Oxford United v Lincoln  3-1 (2-0)   @ The Kassam Stadium › Oxford, Oxfordshire
+              Milton Keynes Dons v Accrington ST  2-0 (1-0)   @ Stadium mk › Milton Keynes, Buckinghamshire
+              Shrewsbury v Gillingham  2-1 (0-1)   @ Montgomery Waters Meadow › Shrewsbury, Shropshire
+              Plymouth v Fleetwood Town  1-1 (1-1)   @ Home Park › Plymouth
+              Cambridge United v Bolton  1-0 (1-0)   @ Abbey Stadium › Cambridge, Cambridgeshire
+              Morecambe v Sheffield Wednesday  1-0 (0-0)   @ Mazuma Stadium › Morecambe, Lancashire
+» Regular Season - 6
+  Sat Sep 4
+    15.00     Accrington ST v Shrewsbury  1-0 (1-0)   @ Wham Stadium › Accrington, Lancashire
+              Cheltenham v Milton Keynes Dons  1-1 (1-0)   @ Jonny-Rocks Stadium › Cheltenham, Gloucestershire
+              AFC Wimbledon v Oxford United  3-1 (0-1)   @ The Cherry Red Records Stadium › London
+  Mon Sep 6
+    20.00     Bolton v Burton Albion  0-0 (0-0)   @ University of Bolton Stadium › Bolton
+» Regular Season - 7
+  Sat Sep 11
+    15.00     Ipswich v Bolton  2-5 (2-3)   @ Portman Road › Ipswich, Suffolk
+              Wigan v Doncaster  2-1 (1-1)   @ DW Stadium › Wigan
+              Rotherham v Fleetwood Town  2-4 (2-1)   @ AESSEAL New York Stadium › Rotherham, South Yorkshire
+              Sunderland v Accrington ST  2-1 (1-1)   @ Stadium of Light › Sunderland
+              Burton Albion v Gillingham  1-1 (0-1)   @ Pirelli Stadium › Burton-upon-Trent, Staffordshire
+              Charlton v Cheltenham  1-2 (0-2)   @ The Valley › London
+              Oxford United v Wycombe  0-0 (0-0)   @ The Kassam Stadium › Oxford, Oxfordshire
+              Milton Keynes Dons v Portsmouth  1-0 (0-0)   @ Stadium mk › Milton Keynes, Buckinghamshire
+              Shrewsbury v Crewe  1-1 (1-1)   @ Montgomery Waters Meadow › Shrewsbury, Shropshire
+              Plymouth v Sheffield Wednesday  3-0 (2-0)   @ Home Park › Plymouth
+              Cambridge United v Lincoln  1-5 (0-3)   @ Abbey Stadium › Cambridge, Cambridgeshire
+              Morecambe v AFC Wimbledon  3-4 (0-1)   @ Mazuma Stadium › Morecambe, Lancashire
+» Regular Season - 6
+  Tue Sep 14
+    19.45     Lincoln v Rotherham  1-1 (0-1)   @ LNER Stadium › Lincoln, Lincolnshire
+» Regular Season - 8
+  Sat Sep 18
+    15.00     Bolton v Rotherham  0-2 (0-2)   @ University of Bolton Stadium › Bolton
+              Sheffield Wednesday v Shrewsbury  1-1 (1-1)   @ Hillsborough › Sheffield
+              AFC Wimbledon v Plymouth  0-1 (0-0)   @ The Cherry Red Records Stadium › London
+              Fleetwood Town v Sunderland  2-2 (0-1)   @ Highbury Stadium › Fleetwood, Lancashire
+              Gillingham v Milton Keynes Dons  1-4 (1-2)   @ Priestfield Stadium › Gillingham, Kent
+              Doncaster v Morecambe  1-0 (0-0)   @ Eco-Power Stadium › Doncaster, South Yorkshire
+              Portsmouth v Cambridge United  1-2 (0-1)   @ Fratton Park › Portsmouth
+              Wycombe v Charlton  2-1 (1-0)   @ Adams Park › High Wycombe, Buckinghamshire
+              Accrington ST v Wigan  1-4 (0-2)   @ Wham Stadium › Accrington, Lancashire
+              Crewe v Burton Albion  2-0 (1-0)   @ Mornflake Stadium › Crewe, Cheshire
+              Cheltenham v Oxford United  1-0 (0-0)   @ Jonny-Rocks Stadium › Cheltenham, Gloucestershire
+              Lincoln v Ipswich  0-1 (0-1)   @ LNER Stadium › Lincoln, Lincolnshire
+» Regular Season - 6
+  Tue Sep 21
+    19.45     Gillingham v Charlton  1-1 (0-1)   @ Priestfield Stadium › Gillingham, Kent
+              Portsmouth v Plymouth  2-2 (1-0)   @ Fratton Park › Portsmouth
+              Crewe v Morecambe  1-3 (0-2)   @ Mornflake Stadium › Crewe, Cheshire
+» Regular Season - 9
+  Sat Sep 25
+    15.00     Ipswich v Sheffield Wednesday  1-1 (0-1)   @ Portman Road › Ipswich, Suffolk
+              Wigan v Cheltenham  2-0 (1-0)   @ DW Stadium › Wigan
+              Rotherham v Crewe  1-1 (0-0)   @ AESSEAL New York Stadium › Rotherham, South Yorkshire
+              Sunderland v Bolton  1-0 (1-0)   @ Stadium of Light › Sunderland
+              Burton Albion v Lincoln  1-2 (0-1)   @ Pirelli Stadium › Burton-upon-Trent, Staffordshire
+              Charlton v Portsmouth  2-2 (0-1)   @ The Valley › London
+              Oxford United v Gillingham  1-1 (1-1)   @ The Kassam Stadium › Oxford, Oxfordshire
+              Milton Keynes Dons v Wycombe  1-0 (1-0)   @ Stadium mk › Milton Keynes, Buckinghamshire
+              Shrewsbury v AFC Wimbledon  2-1 (1-1)   @ Montgomery Waters Meadow › Shrewsbury, Shropshire
+              Plymouth v Doncaster  2-1 (0-0)   @ Home Park › Plymouth
+              Cambridge United v Fleetwood Town  2-2 (1-1)   @ Abbey Stadium › Cambridge, Cambridgeshire
+              Morecambe v Accrington ST  3-3 (2-2)   @ Mazuma Stadium › Morecambe, Lancashire
+» Regular Season - 10
+  Tue Sep 28
+    19.45     Ipswich v Doncaster  6-0 (2-0)   @ Portman Road › Ipswich, Suffolk
+              Wigan v Sheffield Wednesday  1-2 (0-1)   @ DW Stadium › Wigan
+              Rotherham v AFC Wimbledon  3-0 (2-0)   @ AESSEAL New York Stadium › Rotherham, South Yorkshire
+              Sunderland v Cheltenham  5-0 (3-0)   @ Stadium of Light › Sunderland
+              Burton Albion v Portsmouth  2-1 (1-0)   @ Pirelli Stadium › Burton-upon-Trent, Staffordshire
+              Charlton v Bolton  1-4 (1-1)   @ The Valley › London
+              Oxford United v Accrington ST  5-1 (2-0)   @ The Kassam Stadium › Oxford, Oxfordshire
+              Milton Keynes Dons v Fleetwood Town  3-3 (2-2)   @ Stadium mk › Milton Keynes, Buckinghamshire
+              Shrewsbury v Wycombe  1-2 (0-0)   @ Montgomery Waters Meadow › Shrewsbury, Shropshire
+              Plymouth v Crewe  1-1 (0-1)   @ Home Park › Plymouth
+              Cambridge United v Gillingham  0-2 (0-1)   @ Abbey Stadium › Cambridge, Cambridgeshire
+              Morecambe v Lincoln  2-0 (0-0)   @ Mazuma Stadium › Morecambe, Lancashire
+» Regular Season - 11
+  Sat Oct 2
+    15.00     Bolton v Shrewsbury  2-1 (2-0)   @ University of Bolton Stadium › Bolton
+              Sheffield Wednesday v Oxford United  1-2 (0-1)   @ Hillsborough › Sheffield
+              AFC Wimbledon v Burton Albion  1-1 (0-0)   @ The Cherry Red Records Stadium › London
+              Fleetwood Town v Charlton  1-2 (0-1)   @ Highbury Stadium › Fleetwood, Lancashire
+              Gillingham v Wigan  0-2 (0-0)   @ Priestfield Stadium › Gillingham, Kent
+              Doncaster v Milton Keynes Dons  2-1 (1-1)   @ Eco-Power Stadium › Doncaster, South Yorkshire
+              Portsmouth v Sunderland  4-0 (3-0)   @ Fratton Park › Portsmouth
+              Wycombe v Morecambe  4-3 (0-2)   @ Adams Park › High Wycombe, Buckinghamshire
+              Accrington ST v Ipswich  2-1 (0-1)   @ Wham Stadium › Accrington, Lancashire
+              Crewe v Cambridge United  2-2 (2-0)   @ Mornflake Stadium › Crewe, Cheshire
+              Cheltenham v Rotherham  0-2 (0-0)   @ Jonny-Rocks Stadium › Cheltenham, Gloucestershire
+              Lincoln v Plymouth  2-2 (0-1)   @ LNER Stadium › Lincoln, Lincolnshire
+» Regular Season - 12
+  Sat Oct 9
+    15.00     Sheffield Wednesday v Bolton  1-0 (0-0)   @ Hillsborough › Sheffield
+              Plymouth v Burton Albion  2-1 (2-0)   @ Home Park › Plymouth
+              Wycombe v Gillingham  2-0 (2-0)   @ Adams Park › High Wycombe, Buckinghamshire
+              Ipswich v Shrewsbury  2-1 (1-1)   @ Portman Road › Ipswich, Suffolk
+» Regular Season - 13
+  Fri Oct 15
+    19.45     Burton Albion v Morecambe  3-2 (2-1)   @ Pirelli Stadium › Burton-upon-Trent, Staffordshire
+  Sat Oct 16
+    15.00     Bolton v Wigan  0-4 (0-1)   @ University of Bolton Stadium › Bolton
+              Rotherham v Portsmouth  4-1 (1-0)   @ AESSEAL New York Stadium › Rotherham, South Yorkshire
+              AFC Wimbledon v Sheffield Wednesday  2-2 (0-1)   @ The Cherry Red Records Stadium › London
+              Fleetwood Town v Crewe  3-0 (0-0)   @ Highbury Stadium › Fleetwood, Lancashire
+              Oxford United v Plymouth  1-3 (1-2)   @ The Kassam Stadium › Oxford, Oxfordshire
+              Gillingham v Sunderland  1-2 (1-1)   @ Priestfield Stadium › Gillingham, Kent
+              Shrewsbury v Milton Keynes Dons  1-0 (0-0)   @ Montgomery Waters Meadow › Shrewsbury, Shropshire
+              Doncaster v Wycombe  0-2 (0-2)   @ Eco-Power Stadium › Doncaster, South Yorkshire
+              Cambridge United v Ipswich  2-2 (1-2)   @ Abbey Stadium › Cambridge, Cambridgeshire
+              Cheltenham v Accrington ST  1-0 (0-0)   @ Jonny-Rocks Stadium › Cheltenham, Gloucestershire
+              Lincoln v Charlton  2-1 (0-0)   @ LNER Stadium › Lincoln, Lincolnshire
+» Regular Season - 14
+  Tue Oct 19
+    19.45     Wigan v Milton Keynes Dons  1-2 (1-2)   @ DW Stadium › Wigan
+              Rotherham v Wycombe  0-0 (0-0)   @ AESSEAL New York Stadium › Rotherham, South Yorkshire
+              Charlton v Accrington ST  2-3 (1-1)   @ The Valley › London
+              Fleetwood Town v Burton Albion  0-1 (0-1)   @ Highbury Stadium › Fleetwood, Lancashire
+              Oxford United v Shrewsbury  2-0 (0-0)   @ The Kassam Stadium › Oxford, Oxfordshire
+              Gillingham v Doncaster  1-0 (0-0)   @ Priestfield Stadium › Gillingham, Kent
+              Portsmouth v Ipswich  0-4 (0-1)   @ Fratton Park › Portsmouth
+              Plymouth v Bolton  3-0 (2-0)   @ Home Park › Plymouth
+              Crewe v Sunderland  0-4 (0-2)   @ Mornflake Stadium › Crewe, Cheshire
+              Cambridge United v Sheffield Wednesday  1-1 (1-0)   @ Abbey Stadium › Cambridge, Cambridgeshire
+              Cheltenham v Morecambe  3-1 (1-1)   @ Jonny-Rocks Stadium › Cheltenham, Gloucestershire
+              Lincoln v AFC Wimbledon  0-1 (0-1)   @ LNER Stadium › Lincoln, Lincolnshire
+» Regular Season - 15
+  Sat Oct 23
+    15.00     Ipswich v Fleetwood Town  2-1 (0-0)   @ Portman Road › Ipswich, Suffolk
+              Bolton v Gillingham  2-2 (0-2)   @ University of Bolton Stadium › Bolton
+              Sheffield Wednesday v Lincoln  1-1 (0-0)   @ Hillsborough › Sheffield
+              Sunderland v Charlton  0-1 (0-0)   @ Stadium of Light › Sunderland
+              Burton Albion v Oxford United  1-3 (0-2)   @ Pirelli Stadium › Burton-upon-Trent, Staffordshire
+              AFC Wimbledon v Wigan  0-2 (0-0)   @ The Cherry Red Records Stadium › London
+              Milton Keynes Dons v Rotherham  0-3 (0-1)   @ Stadium mk › Milton Keynes, Buckinghamshire
+              Shrewsbury v Cambridge United  4-1 (1-0)   @ Montgomery Waters Meadow › Shrewsbury, Shropshire
+              Doncaster v Cheltenham  3-2 (2-0)   @ Eco-Power Stadium › Doncaster, South Yorkshire
+              Wycombe v Crewe  2-1 (1-0)   @ Adams Park › High Wycombe, Buckinghamshire
+              Accrington ST v Portsmouth  2-2 (0-1)   @ Wham Stadium › Accrington, Lancashire
+              Morecambe v Plymouth  1-1 (1-1)   @ Mazuma Stadium › Morecambe, Lancashire
+» Regular Season - 6
+  Tue Oct 26
+    19.45     Doncaster v Cambridge United  1-1 (0-1)   @ Eco-Power Stadium › Doncaster, South Yorkshire
+» Regular Season - 12
+  Tue Oct 26
+    19.45     Wigan v Lincoln  1-2 (0-1)   @ DW Stadium › Wigan
+» Regular Season - 16
+  Sat Oct 30
+    15.00     Wigan v Burton Albion  2-0 (1-0)   @ DW Stadium › Wigan
+              Rotherham v Sunderland  5-1 (2-1)   @ AESSEAL New York Stadium › Rotherham, South Yorkshire
+              Charlton v Doncaster  4-0 (2-0)   @ The Valley › London
+              Fleetwood Town v Wycombe  3-3 (1-2)   @ Highbury Stadium › Fleetwood, Lancashire
+              Oxford United v Morecambe  3-1 (1-0)   @ The Kassam Stadium › Oxford, Oxfordshire
+              Gillingham v Accrington ST  0-0 (0-0)   @ Priestfield Stadium › Gillingham, Kent
+              Portsmouth v Bolton  1-0 (0-0)   @ Fratton Park › Portsmouth
+              Plymouth v Ipswich  2-1 (1-1)   @ Home Park › Plymouth
+              Crewe v Milton Keynes Dons  1-4 (0-1)   @ Mornflake Stadium › Crewe, Cheshire
+              Cambridge United v AFC Wimbledon  1-0 (0-0)   @ Abbey Stadium › Cambridge, Cambridgeshire
+              Cheltenham v Sheffield Wednesday  2-2 (1-0)   @ Jonny-Rocks Stadium › Cheltenham, Gloucestershire
+              Lincoln v Shrewsbury  1-1 (1-0)   @ LNER Stadium › Lincoln, Lincolnshire
+» Regular Season - 6
+  Tue Nov 2
+    19.45     Wycombe v Ipswich  1-4 (1-1)   @ Adams Park › High Wycombe, Buckinghamshire
+              Fleetwood Town v Wigan  2-3 (1-0)   @ Highbury Stadium › Fleetwood, Lancashire
+              Sheffield Wednesday v Sunderland  3-0 (2-0)   @ Hillsborough › Sheffield
+» Regular Season - 12
+  Tue Nov 2
+    19.45     Portsmouth v Cheltenham  1-1 (1-1)   @ Fratton Park › Portsmouth
+              Crewe v Doncaster  1-1 (1-1)   @ Mornflake Stadium › Crewe, Cheshire
+              Morecambe v Cambridge United  0-2 (0-1)   @ Mazuma Stadium › Morecambe, Lancashire
+              Charlton v Rotherham  1-1 (0-1)   @ The Valley › London
+» Regular Season - 17
+  Fri Nov 12
+    20.00     Bolton v Crewe  2-0 (0-0)   @ University of Bolton Stadium › Bolton
+  Sat Nov 13
+    15.00     Ipswich v Oxford United  0-0 (0-0)   @ Portman Road › Ipswich, Suffolk
+              Sheffield Wednesday v Gillingham  1-1 (0-1)   @ Hillsborough › Sheffield
+              Burton Albion v Charlton  0-1 (0-1)   @ Pirelli Stadium › Burton-upon-Trent, Staffordshire
+              Milton Keynes Dons v Cambridge United  4-1 (3-0)   @ Stadium mk › Milton Keynes, Buckinghamshire
+              Wycombe v Portsmouth  0-1 (0-0)   @ Adams Park › High Wycombe, Buckinghamshire
+              Accrington ST v Plymouth  1-4 (0-2)   @ Wham Stadium › Accrington, Lancashire
+» Regular Season - 18
+  Sat Nov 20
+    15.00     Rotherham v Cambridge United  3-1 (2-0)   @ AESSEAL New York Stadium › Rotherham, South Yorkshire
+              Sunderland v Ipswich  2-0 (0-0)   @ Stadium of Light › Sunderland
+              Charlton v Plymouth  2-0 (0-0)   @ The Valley › London
+              Fleetwood Town v Morecambe  1-2 (0-1)   @ Highbury Stadium › Fleetwood, Lancashire
+              Milton Keynes Dons v Burton Albion  1-0 (0-0)   @ Stadium mk › Milton Keynes, Buckinghamshire
+              Doncaster v Lincoln  0-0 (0-0)   @ Eco-Power Stadium › Doncaster, South Yorkshire
+              Portsmouth v AFC Wimbledon  2-1 (0-1)   @ Fratton Park › Portsmouth
+              Wycombe v Bolton  1-0 (0-0)   @ Adams Park › High Wycombe, Buckinghamshire
+              Accrington ST v Sheffield Wednesday  2-3 (1-3)   @ Wham Stadium › Accrington, Lancashire
+              Crewe v Gillingham  2-0 (1-0)   @ Mornflake Stadium › Crewe, Cheshire
+              Cheltenham v Shrewsbury  2-1 (1-1)   @ Jonny-Rocks Stadium › Cheltenham, Gloucestershire
+» Regular Season - 19
+  Tue Nov 23
+    19.45     Ipswich v Rotherham  0-2 (0-1)   @ Portman Road › Ipswich, Suffolk
+              Sheffield Wednesday v Milton Keynes Dons  2-1 (0-0)   @ Hillsborough › Sheffield
+              Burton Albion v Accrington ST  4-0 (2-0)   @ Pirelli Stadium › Burton-upon-Trent, Staffordshire
+              AFC Wimbledon v Crewe  3-2 (3-1)   @ The Cherry Red Records Stadium › London
+              Oxford United v Fleetwood Town  3-1 (2-1)   @ The Kassam Stadium › Oxford, Oxfordshire
+              Gillingham v Cheltenham  0-2 (0-1)   @ Priestfield Stadium › Gillingham, Kent
+              Shrewsbury v Sunderland  1-1 (0-1)   @ Montgomery Waters Meadow › Shrewsbury, Shropshire
+              Plymouth v Wycombe  0-3 (0-0)   @ Home Park › Plymouth
+              Cambridge United v Wigan  2-2 (1-0)   @ Abbey Stadium › Cambridge, Cambridgeshire
+              Morecambe v Charlton  2-2 (1-2)   @ Mazuma Stadium › Morecambe, Lancashire
+              Lincoln v Portsmouth  0-3 (0-1)   @ LNER Stadium › Lincoln, Lincolnshire
+    20.00     Bolton v Doncaster  3-0 (2-0)   @ University of Bolton Stadium › Bolton
+» Regular Season - 20
+  Sat Nov 27
+    15.00     Bolton v Cheltenham  2-2 (1-2)   @ University of Bolton Stadium › Bolton
+              Sheffield Wednesday v Wycombe  2-2 (1-1)   @ Hillsborough › Sheffield
+              Burton Albion v Doncaster  2-0 (0-0)   @ Pirelli Stadium › Burton-upon-Trent, Staffordshire
+              AFC Wimbledon v Fleetwood Town  2-2 (0-1)   @ The Cherry Red Records Stadium › London
+              Oxford United v Rotherham  0-0 (0-0)   @ The Kassam Stadium › Oxford, Oxfordshire
+              Gillingham v Portsmouth  0-1 (0-0)   @ Priestfield Stadium › Gillingham, Kent
+              Shrewsbury v Charlton  1-0 (0-0)   @ Montgomery Waters Meadow › Shrewsbury, Shropshire
+              Plymouth v Wigan  1-2 (1-1)   @ Home Park › Plymouth
+              Cambridge United v Sunderland  1-2 (1-2)   @ Abbey Stadium › Cambridge, Cambridgeshire
+              Morecambe v Milton Keynes Dons  0-4 (0-2)   @ Mazuma Stadium › Morecambe, Lancashire
+              Lincoln v Accrington ST  0-1 (0-0)   @ LNER Stadium › Lincoln, Lincolnshire
+  Sun Nov 28
+    15.00     Ipswich v Crewe  2-1 (2-0)   @ Portman Road › Ipswich, Suffolk
+» Regular Season - 12
+  Sat Dec 4
+    15.00     Sunderland v Oxford United  1-1 (1-1)   @ Stadium of Light › Sunderland
+              Accrington ST v Fleetwood Town  5-1 (1-0)   @ Wham Stadium › Accrington, Lancashire
+» Regular Season - 21
+  Tue Dec 7
+    19.45     Rotherham v Gillingham  5-1 (2-1)   @ AESSEAL New York Stadium › Rotherham, South Yorkshire
+              Sunderland v Morecambe  5-0 (2-0)   @ Stadium of Light › Sunderland
+              Charlton v Ipswich  2-0 (1-0)   @ The Valley › London
+              Fleetwood Town v Bolton  3-0 (1-0)   @ Highbury Stadium › Fleetwood, Lancashire
+              Doncaster v Oxford United  1-2 (0-1)   @ Eco-Power Stadium › Doncaster, South Yorkshire
+              Portsmouth v Sheffield Wednesday  0-0 (0-0)   @ Fratton Park › Portsmouth
+              Wycombe v Burton Albion  2-1 (2-0)   @ Adams Park › High Wycombe, Buckinghamshire
+              Accrington ST v AFC Wimbledon  0-2 (0-0)   @ Wham Stadium › Accrington, Lancashire
+              Crewe v Lincoln  2-0 (0-0)   @ Mornflake Stadium › Crewe, Cheshire
+              Cheltenham v Cambridge United  0-5 (0-1)   @ Jonny-Rocks Stadium › Cheltenham, Gloucestershire
+  Wed Dec 8
+    19.45     Milton Keynes Dons v Plymouth  1-1 (1-0)   @ Stadium mk › Milton Keynes, Buckinghamshire
+              Wigan v Shrewsbury  2-1 (1-1)   @ DW Stadium › Wigan
+» Regular Season - 22
+  Sat Dec 11
+    15.00     Wigan v Ipswich  1-1 (1-0)   @ DW Stadium › Wigan
+              Rotherham v Burton Albion  3-1 (1-1)   @ AESSEAL New York Stadium › Rotherham, South Yorkshire
+              Sunderland v Plymouth  2-1 (2-0)   @ Stadium of Light › Sunderland
+              Charlton v Cambridge United  2-0 (1-0)   @ The Valley › London
+              Fleetwood Town v Gillingham  2-1 (1-0)   @ Highbury Stadium › Fleetwood, Lancashire
+              Milton Keynes Dons v Oxford United  1-2 (1-0)   @ Stadium mk › Milton Keynes, Buckinghamshire
+              Doncaster v Shrewsbury  1-0 (0-0)   @ Eco-Power Stadium › Doncaster, South Yorkshire
+              Portsmouth v Morecambe  2-0 (1-0)   @ Fratton Park › Portsmouth
+              Wycombe v AFC Wimbledon  2-2 (0-1)   @ Adams Park › High Wycombe, Buckinghamshire
+              Accrington ST v Bolton  1-0 (1-0)   @ Wham Stadium › Accrington, Lancashire
+              Crewe v Sheffield Wednesday  0-2 (0-1)   @ Mornflake Stadium › Crewe, Cheshire
+              Cheltenham v Lincoln  2-2 (1-0)   @ Jonny-Rocks Stadium › Cheltenham, Gloucestershire
+» Regular Season - 23
+  Sat Dec 18
+    15.00     Ipswich v Sunderland  1-1 (1-0)   @ Portman Road › Ipswich, Suffolk
+              Oxford United v Wigan  2-3 (1-2)   @ The Kassam Stadium › Oxford, Oxfordshire
+              Shrewsbury v Cheltenham  3-1 (1-1)   @ Montgomery Waters Meadow › Shrewsbury, Shropshire
+              Plymouth v Charlton  1-0 (1-0)   @ Home Park › Plymouth
+              Cambridge United v Rotherham  0-1 (0-0)   @ Abbey Stadium › Cambridge, Cambridgeshire
+              Morecambe v Fleetwood Town  0-0 (0-0)   @ Mazuma Stadium › Morecambe, Lancashire
+» Regular Season - 24
+  Sun Dec 26
+    15.00     Accrington ST v Rotherham  1-0 (0-0)   @ Wham Stadium › Accrington, Lancashire
+              Cheltenham v Plymouth  0-2 (0-1)   @ Jonny-Rocks Stadium › Cheltenham, Gloucestershire
+              Lincoln v Milton Keynes Dons  2-3 (2-0)   @ LNER Stadium › Lincoln, Lincolnshire
+              Fleetwood Town v Shrewsbury  0-3 (0-0)   @ Highbury Stadium › Fleetwood, Lancashire
+  Mon Dec 27
+    12.30     Doncaster v Sunderland  0-3 (0-2)   @ Eco-Power Stadium › Doncaster, South Yorkshire
+» Regular Season - 25
+  Wed Dec 29
+    19.45     Oxford United v AFC Wimbledon  3-0 (2-0)   @ The Kassam Stadium › Oxford, Oxfordshire
+              Shrewsbury v Accrington ST  0-0 (0-0)   @ Montgomery Waters Meadow › Shrewsbury, Shropshire
+              Morecambe v Crewe  1-2 (1-0)   @ Mazuma Stadium › Morecambe, Lancashire
+              Ipswich v Wycombe  1-0 (1-0)   @ Portman Road › Ipswich, Suffolk
+  Thu Dec 30
+    19.45     Sunderland v Sheffield Wednesday  5-0 (3-0)   @ Stadium of Light › Sunderland
+» Regular Season - 26
+  Sat Jan 1 2022
+    15.00     Rotherham v Bolton  2-1 (1-1)   @ AESSEAL New York Stadium › Rotherham, South Yorkshire
+  Sat Jan 1
+    15.00     Burton Albion v Crewe  4-1 (3-1)   @ Pirelli Stadium › Burton-upon-Trent, Staffordshire
+              Charlton v Wycombe  0-1 (0-1)   @ The Valley › London
+              Oxford United v Cheltenham  1-1 (0-0)   @ The Kassam Stadium › Oxford, Oxfordshire
+              Milton Keynes Dons v Gillingham  0-0 (0-0)   @ Stadium mk › Milton Keynes, Buckinghamshire
+  Sun Jan 2
+    15.00     Shrewsbury v Sheffield Wednesday  1-0 (1-0)   @ Montgomery Waters Meadow › Shrewsbury, Shropshire
+              Morecambe v Doncaster  4-3 (0-3)   @ Mazuma Stadium › Morecambe, Lancashire
+  Mon Jan 3
+    15.00     Cambridge United v Portsmouth  0-0 (0-0)   @ Abbey Stadium › Cambridge, Cambridgeshire
+» Regular Season - 17
+  Sat Jan 8
+    15.00     Doncaster v Fleetwood Town  0-1 (0-0)   @ Eco-Power Stadium › Doncaster, South Yorkshire
+» Regular Season - 24
+  Sat Jan 8
+    15.00     Gillingham v Ipswich  0-4 (0-3)   @ Priestfield Stadium › Gillingham, Kent
+» Regular Season - 27
+  Sat Jan 8
+    12.30     Wycombe v Sunderland  3-3 (2-2)   @ Adams Park › High Wycombe, Buckinghamshire
+    15.00     Accrington ST v Milton Keynes Dons  1-1 (1-1)   @ Wham Stadium › Accrington, Lancashire
+              Cheltenham v Burton Albion  1-1 (1-0)   @ Jonny-Rocks Stadium › Cheltenham, Gloucestershire
+              Lincoln v Oxford United  2-0 (1-0)   @ LNER Stadium › Lincoln, Lincolnshire
+» Regular Season - 12
+  Tue Jan 11
+    19.45     Milton Keynes Dons v AFC Wimbledon  1-0 (1-0)   @ Stadium mk › Milton Keynes, Buckinghamshire
+» Regular Season - 17
+  Tue Jan 11
+    19.45     Sunderland v Lincoln  1-3 (0-1)   @ Stadium of Light › Sunderland
+» Regular Season - 23
+  Tue Jan 11
+    20.00     Bolton v Wycombe  0-2 (0-1)   @ University of Bolton Stadium › Bolton
+» Regular Season - 27
+  Wed Jan 12
+    19.45     Crewe v Charlton  2-1 (2-0)   @ Mornflake Stadium › Crewe, Cheshire
+» Regular Season - 28
+  Sat Jan 15
+    15.00     Bolton v Ipswich  2-0 (0-0)   @ University of Bolton Stadium › Bolton
+              Sheffield Wednesday v Plymouth  4-2 (2-0)   @ Hillsborough › Sheffield
+              AFC Wimbledon v Morecambe  0-0 (0-0)   @ The Cherry Red Records Stadium › London
+              Fleetwood Town v Rotherham  1-0 (0-0)   @ Highbury Stadium › Fleetwood, Lancashire
+              Gillingham v Burton Albion  1-3 (1-0)   @ Priestfield Stadium › Gillingham, Kent
+              Doncaster v Wigan  1-2 (0-1)   @ Eco-Power Stadium › Doncaster, South Yorkshire
+              Portsmouth v Milton Keynes Dons  1-2 (0-2)   @ Fratton Park › Portsmouth
+              Wycombe v Oxford United  2-0 (1-0)   @ Adams Park › High Wycombe, Buckinghamshire
+              Accrington ST v Sunderland  1-1 (0-0)   @ Wham Stadium › Accrington, Lancashire
+              Crewe v Shrewsbury  0-0 (0-0)   @ Mornflake Stadium › Crewe, Cheshire
+              Cheltenham v Charlton  1-1 (1-0)   @ Jonny-Rocks Stadium › Cheltenham, Gloucestershire
+              Lincoln v Cambridge United  0-1 (0-0)   @ LNER Stadium › Lincoln, Lincolnshire
+» Regular Season - 17
+  Tue Jan 18
+    19.45     Morecambe v Wigan  1-2 (1-1)   @ Mazuma Stadium › Morecambe, Lancashire
+» Regular Season - 23
+  Tue Jan 18
+    19.45     AFC Wimbledon v Portsmouth  0-0 (0-0)   @ The Cherry Red Records Stadium › London
+» Regular Season - 25
+  Tue Jan 18
+    19.45     Cambridge United v Doncaster  3-1 (1-0)   @ Abbey Stadium › Cambridge, Cambridgeshire
+» Regular Season - 29
+  Sat Jan 22
+    15.00     Ipswich v Accrington ST  2-1 (1-1)   @ Portman Road › Ipswich, Suffolk
+              Wigan v Gillingham  3-2 (2-0)   @ DW Stadium › Wigan
+              Rotherham v Cheltenham  1-0 (1-0)   @ AESSEAL New York Stadium › Rotherham, South Yorkshire
+              Sunderland v Portsmouth  1-0 (1-0)   @ Stadium of Light › Sunderland
+              Burton Albion v AFC Wimbledon  1-1 (0-0)   @ Pirelli Stadium › Burton-upon-Trent, Staffordshire
+              Charlton v Fleetwood Town  2-0 (0-0)   @ The Valley › London
+              Oxford United v Sheffield Wednesday  3-2 (1-1)   @ The Kassam Stadium › Oxford, Oxfordshire
+              Milton Keynes Dons v Doncaster  0-1 (0-1)   @ Stadium mk › Milton Keynes, Buckinghamshire
+              Shrewsbury v Bolton  0-1 (0-0)   @ Montgomery Waters Meadow › Shrewsbury, Shropshire
+              Plymouth v Lincoln  1-2 (1-0)   @ Home Park › Plymouth
+              Cambridge United v Crewe  1-0 (1-0)   @ Abbey Stadium › Cambridge, Cambridgeshire
+              Morecambe v Wycombe  3-2 (1-1)   @ Mazuma Stadium › Morecambe, Lancashire
+» Regular Season - 23
+  Tue Jan 25
+    19.45     Burton Albion v Milton Keynes Dons  0-1 (0-0)   @ Pirelli Stadium › Burton-upon-Trent, Staffordshire
+» Regular Season - 27
+  Tue Jan 25
+    19.45     Fleetwood Town v Plymouth  3-3 (1-1)   @ Highbury Stadium › Fleetwood, Lancashire
+              Gillingham v Shrewsbury  0-0 (0-0)   @ Priestfield Stadium › Gillingham, Kent
+              AFC Wimbledon v Ipswich  0-2 (0-0)   @ The Cherry Red Records Stadium › London
+» Regular Season - 30
+  Sat Jan 29
+    15.00     Bolton v Sunderland  6-0 (2-0)   @ University of Bolton Stadium › Bolton
+              Sheffield Wednesday v Ipswich  1-0 (1-0)   @ Hillsborough › Sheffield
+              AFC Wimbledon v Shrewsbury  1-1 (1-0)   @ The Cherry Red Records Stadium › London
+              Fleetwood Town v Cambridge United  1-1 (0-0)   @ Highbury Stadium › Fleetwood, Lancashire
+              Gillingham v Oxford United  2-7 (0-3)   @ Priestfield Stadium › Gillingham, Kent
+              Doncaster v Plymouth  1-3 (1-1)   @ Eco-Power Stadium › Doncaster, South Yorkshire
+              Wycombe v Milton Keynes Dons  0-1 (0-1)   @ Adams Park › High Wycombe, Buckinghamshire
+              Accrington ST v Morecambe  2-2 (2-2)   @ Wham Stadium › Accrington, Lancashire
+              Crewe v Rotherham  0-2 (0-1)   @ Mornflake Stadium › Crewe, Cheshire
+              Cheltenham v Wigan  0-0 (0-0)   @ Jonny-Rocks Stadium › Cheltenham, Gloucestershire
+              Lincoln v Burton Albion  1-2 (0-0)   @ LNER Stadium › Lincoln, Lincolnshire
+  Mon Jan 31
+    19.45     Portsmouth v Charlton  1-2 (0-1)   @ Fratton Park › Portsmouth
+» Regular Season - 17
+  Tue Feb 1
+    19.45     AFC Wimbledon v Cheltenham  2-2 (1-2)   @ The Cherry Red Records Stadium › London
+» Regular Season - 18
+  Tue Feb 1
+    19.45     Wigan v Oxford United  1-1 (1-1)   @ DW Stadium › Wigan
+» Regular Season - 23
+  Tue Feb 1
+    19.45     Gillingham v Crewe  1-0 (1-0)   @ Priestfield Stadium › Gillingham, Kent
+» Regular Season - 27
+  Tue Feb 1
+    19.45     Doncaster v Rotherham  0-5 (0-2)   @ Eco-Power Stadium › Doncaster, South Yorkshire
+              Sheffield Wednesday v Morecambe  2-0 (0-0)   @ Hillsborough › Sheffield
+    20.00     Bolton v Cambridge United  2-0 (1-0)   @ University of Bolton Stadium › Bolton
+» Regular Season - 31
+  Sat Feb 5
+    15.00     Ipswich v Gillingham  1-0 (0-0)   @ Portman Road › Ipswich, Suffolk
+              Rotherham v Accrington ST  1-0 (0-0)   @ AESSEAL New York Stadium › Rotherham, South Yorkshire
+              Sunderland v Doncaster  1-2 (0-2)   @ Stadium of Light › Sunderland
+              Burton Albion v Sheffield Wednesday  0-2 (0-1)   @ Pirelli Stadium › Burton-upon-Trent, Staffordshire
+              Charlton v AFC Wimbledon  3-2 (2-2)   @ The Valley › London
+              Oxford United v Portsmouth  3-2 (1-1)   @ The Kassam Stadium › Oxford, Oxfordshire
+              Milton Keynes Dons v Lincoln  2-1 (1-1)   @ Stadium mk › Milton Keynes, Buckinghamshire
+              Shrewsbury v Fleetwood Town  1-1 (0-1)   @ Montgomery Waters Meadow › Shrewsbury, Shropshire
+              Morecambe v Bolton  1-1 (0-0)   @ Mazuma Stadium › Morecambe, Lancashire
+» Regular Season - 32
+  Tue Feb 8
+    19.45     Sheffield Wednesday v Wigan  1-0 (0-0)   @ Hillsborough › Sheffield
+              AFC Wimbledon v Rotherham  0-1 (0-0)   @ The Cherry Red Records Stadium › London
+              Fleetwood Town v Milton Keynes Dons  1-1 (0-1)   @ Highbury Stadium › Fleetwood, Lancashire
+              Gillingham v Cambridge United  1-0 (0-0)   @ Priestfield Stadium › Gillingham, Kent
+              Doncaster v Ipswich  0-1 (0-1)   @ Eco-Power Stadium › Doncaster, South Yorkshire
+              Portsmouth v Burton Albion  2-1 (2-0)   @ Fratton Park › Portsmouth
+              Wycombe v Shrewsbury  0-0 (0-0)   @ Adams Park › High Wycombe, Buckinghamshire
+              Accrington ST v Oxford United  2-0 (1-0)   @ Wham Stadium › Accrington, Lancashire
+              Crewe v Plymouth  1-4 (1-0)   @ Mornflake Stadium › Crewe, Cheshire
+              Cheltenham v Sunderland  2-1 (0-1)   @ Jonny-Rocks Stadium › Cheltenham, Gloucestershire
+              Lincoln v Morecambe  2-1 (2-0)   @ LNER Stadium › Lincoln, Lincolnshire
+    20.00     Bolton v Charlton  2-1 (1-0)   @ University of Bolton Stadium › Bolton
+» Regular Season - 33
+  Sat Feb 12
+    15.00     Wigan v Charlton  2-1 (1-1)   @ DW Stadium › Wigan
+              Burton Albion v Cambridge United  2-2 (1-1)   @ Pirelli Stadium › Burton-upon-Trent, Staffordshire
+              AFC Wimbledon v Sunderland  1-1 (1-1)   @ The Cherry Red Records Stadium › London
+              Oxford United v Bolton  2-3 (2-2)   @ The Kassam Stadium › Oxford, Oxfordshire
+              Milton Keynes Dons v Ipswich  0-0 (0-0)   @ Stadium mk › Milton Keynes, Buckinghamshire
+              Portsmouth v Doncaster  4-0 (0-0)   @ Fratton Park › Portsmouth
+              Plymouth v Shrewsbury  1-0 (0-0)   @ Home Park › Plymouth
+              Accrington ST v Crewe  4-1 (1-0)   @ Wham Stadium › Accrington, Lancashire
+              Cheltenham v Fleetwood Town  2-0 (2-0)   @ Jonny-Rocks Stadium › Cheltenham, Gloucestershire
+              Morecambe v Gillingham  1-1 (0-0)   @ Mazuma Stadium › Morecambe, Lancashire
+              Lincoln v Wycombe  1-1 (1-0)   @ LNER Stadium › Lincoln, Lincolnshire
+  Sun Feb 13
+    12.00     Sheffield Wednesday v Rotherham  0-2 (0-0)   @ Hillsborough › Sheffield
+» Regular Season - 23
+  Tue Feb 15
+    19.45     Lincoln v Doncaster  0-1 (0-0)   @ LNER Stadium › Lincoln, Lincolnshire
+» Regular Season - 25
+  Tue Feb 15
+    19.45     Burton Albion v Bolton  3-1 (3-0)   @ Pirelli Stadium › Burton-upon-Trent, Staffordshire
+» Regular Season - 31
+  Tue Feb 15
+    19.45     Wigan v Crewe  2-0 (0-0)   @ DW Stadium › Wigan
+» Regular Season - 34
+  Fri Feb 18
+    19.45     Rotherham v Wigan  1-1 (0-1)   @ AESSEAL New York Stadium › Rotherham, South Yorkshire
+  Sat Feb 19
+    15.00     Ipswich v Burton Albion  3-0 (1-0)   @ Portman Road › Ipswich, Suffolk
+              Bolton v AFC Wimbledon  4-0 (1-0)   @ University of Bolton Stadium › Bolton
+              Sunderland v Milton Keynes Dons  1-2 (0-0)   @ Stadium of Light › Sunderland
+              Charlton v Oxford United  0-4 (0-2)   @ The Valley › London
+              Gillingham v Plymouth  0-2 (0-0)   @ Priestfield Stadium › Gillingham, Kent
+              Doncaster v Sheffield Wednesday  1-3 (1-0)   @ Eco-Power Stadium › Doncaster, South Yorkshire
+              Wycombe v Cheltenham  5-5 (3-1)   @ Adams Park › High Wycombe, Buckinghamshire
+              Cambridge United v Accrington ST  2-0 (0-0)   @ Abbey Stadium › Cambridge, Cambridgeshire
+» Regular Season - 35
+  Tue Feb 22
+    19.45     Ipswich v Cheltenham  0-0 (0-0)   @ Portman Road › Ipswich, Suffolk
+              Rotherham v Morecambe  2-0 (2-0)   @ AESSEAL New York Stadium › Rotherham, South Yorkshire
+              Sunderland v Burton Albion  1-1 (0-0)   @ Stadium of Light › Sunderland
+              Charlton v Milton Keynes Dons  0-2 (0-1)   @ The Valley › London
+              Gillingham v AFC Wimbledon  0-0 (0-0)   @ Priestfield Stadium › Gillingham, Kent
+              Shrewsbury v Portsmouth  1-2 (1-1)   @ Montgomery Waters Meadow › Shrewsbury, Shropshire
+              Doncaster v Accrington ST  2-0 (0-0)   @ Eco-Power Stadium › Doncaster, South Yorkshire
+              Wycombe v Wigan  1-3 (1-0)   @ Adams Park › High Wycombe, Buckinghamshire
+              Crewe v Oxford United  0-1 (0-0)   @ Mornflake Stadium › Crewe, Cheshire
+              Cambridge United v Plymouth  2-0 (2-0)   @ Abbey Stadium › Cambridge, Cambridgeshire
+    20.00     Bolton v Lincoln  3-1 (0-0)   @ University of Bolton Stadium › Bolton
+» Regular Season - 36
+  Sat Feb 26
+    15.00     Wigan v Sunderland  0-3 (0-2)   @ DW Stadium › Wigan
+              Sheffield Wednesday v Charlton  2-0 (2-0)   @ Hillsborough › Sheffield
+              Burton Albion v Shrewsbury  0-2 (0-1)   @ Pirelli Stadium › Burton-upon-Trent, Staffordshire
+              AFC Wimbledon v Doncaster  2-2 (1-0)   @ The Cherry Red Records Stadium › London
+              Oxford United v Cambridge United  4-2 (1-1)   @ The Kassam Stadium › Oxford, Oxfordshire
+              Milton Keynes Dons v Bolton  2-0 (1-0)   @ Stadium mk › Milton Keynes, Buckinghamshire
+              Portsmouth v Fleetwood Town  3-3 (1-3)   @ Fratton Park › Portsmouth
+              Plymouth v Rotherham  0-1 (0-0)   @ Home Park › Plymouth
+              Accrington ST v Wycombe  3-2 (1-2)   @ Wham Stadium › Accrington, Lancashire
+              Cheltenham v Crewe  1-2 (0-1)   @ Jonny-Rocks Stadium › Cheltenham, Gloucestershire
+              Morecambe v Ipswich  1-1 (0-0)   @ Mazuma Stadium › Morecambe, Lancashire
+              Lincoln v Gillingham  0-2 (0-0)   @ LNER Stadium › Lincoln, Lincolnshire
+» Regular Season - 17
+  Tue Mar 1
+    19.45     Shrewsbury v Rotherham  0-0 (0-0)   @ Montgomery Waters Meadow › Shrewsbury, Shropshire
+» Regular Season - 24
+  Tue Mar 1
+    19.45     Sheffield Wednesday v Burton Albion  5-2 (2-1)   @ Hillsborough › Sheffield
+              Portsmouth v Oxford United  3-2 (2-1)   @ Fratton Park › Portsmouth
+              Wycombe v Cambridge United  3-0 (2-0)   @ Adams Park › High Wycombe, Buckinghamshire
+» Regular Season - 25
+  Tue Mar 1
+    19.45     Wigan v Fleetwood Town  2-0 (2-0)   @ DW Stadium › Wigan
+» Regular Season - 37
+  Sat Mar 5
+    15.00     Wigan v AFC Wimbledon  1-0 (1-0)   @ DW Stadium › Wigan
+              Rotherham v Milton Keynes Dons  1-2 (1-0)   @ AESSEAL New York Stadium › Rotherham, South Yorkshire
+              Charlton v Sunderland  0-0 (0-0)   @ The Valley › London
+              Fleetwood Town v Ipswich  0-2 (0-0)   @ Highbury Stadium › Fleetwood, Lancashire
+              Oxford United v Burton Albion  4-1 (4-1)   @ The Kassam Stadium › Oxford, Oxfordshire
+              Gillingham v Bolton  0-3 (0-1)   @ Priestfield Stadium › Gillingham, Kent
+              Portsmouth v Accrington ST  4-0 (2-0)   @ Fratton Park › Portsmouth
+              Plymouth v Morecambe  2-0 (2-0)   @ Home Park › Plymouth
+              Crewe v Wycombe  1-3 (0-1)   @ Mornflake Stadium › Crewe, Cheshire
+              Cambridge United v Shrewsbury  0-0 (0-0)   @ Abbey Stadium › Cambridge, Cambridgeshire
+              Cheltenham v Doncaster  4-0 (2-0)   @ Jonny-Rocks Stadium › Cheltenham, Gloucestershire
+              Lincoln v Sheffield Wednesday  3-1 (1-1)   @ LNER Stadium › Lincoln, Lincolnshire
+» Regular Season - 24
+  Tue Mar 8
+    20.00     Bolton v Morecambe  1-1 (0-1)   @ University of Bolton Stadium › Bolton
+» Regular Season - 25
+  Tue Mar 8
+    19.45     Milton Keynes Dons v Cheltenham  3-1 (2-0)   @ Stadium mk › Milton Keynes, Buckinghamshire
+» Regular Season - 26
+  Tue Mar 8
+    19.45     Plymouth v AFC Wimbledon  2-0 (1-0)   @ Home Park › Plymouth
+              Sunderland v Fleetwood Town  3-1 (0-1)   @ Stadium of Light › Sunderland
+              Ipswich v Lincoln  2-0 (2-0)   @ Portman Road › Ipswich, Suffolk
+» Regular Season - 34
+  Tue Mar 8
+    19.45     Crewe v Portsmouth  1-3 (0-2)   @ Mornflake Stadium › Crewe, Cheshire
+» Regular Season - 38
+  Sat Mar 12
+    15.00     Ipswich v Portsmouth  0-0 (0-0)   @ Portman Road › Ipswich, Suffolk
+              Bolton v Plymouth  0-1 (0-1)   @ University of Bolton Stadium › Bolton
+              Sheffield Wednesday v Cambridge United  6-0 (4-0)   @ Hillsborough › Sheffield
+              Sunderland v Crewe  2-0 (0-0)   @ Stadium of Light › Sunderland
+              Burton Albion v Fleetwood Town  3-2 (0-1)   @ Pirelli Stadium › Burton-upon-Trent, Staffordshire
+              AFC Wimbledon v Lincoln  0-2 (0-1)   @ The Cherry Red Records Stadium › London
+              Milton Keynes Dons v Wigan  1-1 (0-0)   @ Stadium mk › Milton Keynes, Buckinghamshire
+              Shrewsbury v Oxford United  1-2 (0-1)   @ Montgomery Waters Meadow › Shrewsbury, Shropshire
+              Doncaster v Gillingham  0-1 (0-1)   @ Eco-Power Stadium › Doncaster, South Yorkshire
+              Wycombe v Rotherham  0-0 (0-0)   @ Adams Park › High Wycombe, Buckinghamshire
+              Accrington ST v Charlton  2-1 (2-1)   @ Wham Stadium › Accrington, Lancashire
+              Morecambe v Cheltenham  1-3 (0-1)   @ Mazuma Stadium › Morecambe, Lancashire
+» Regular Season - 23
+  Tue Mar 15
+    19.45     Sheffield Wednesday v Accrington ST  1-1 (0-0)   @ Hillsborough › Sheffield
+» Regular Season - 24
+  Tue Mar 15
+    19.45     Crewe v Wigan  0-2 (0-1)   @ Mornflake Stadium › Crewe, Cheshire
+» Regular Season - 25
+  Tue Mar 15
+    19.45     Charlton v Gillingham  1-0 (1-0)   @ The Valley › London
+              Plymouth v Portsmouth  1-0 (0-0)   @ Home Park › Plymouth
+              Rotherham v Lincoln  2-1 (2-0)   @ AESSEAL New York Stadium › Rotherham, South Yorkshire
+» Regular Season - 34
+  Tue Mar 15
+    19.45     Shrewsbury v Morecambe  5-0 (1-0)   @ Montgomery Waters Meadow › Shrewsbury, Shropshire
+» Regular Season - 40
+  Tue Mar 15
+    19.45     Wycombe v Fleetwood Town  1-0 (0-0)   @ Adams Park › High Wycombe, Buckinghamshire
+» Regular Season - 39
+  Sat Mar 19
+    15.00     Wigan v Morecambe  4-1 (2-0)   @ DW Stadium › Wigan
+              Rotherham v Shrewsbury  0-3 (0-1)   @ AESSEAL New York Stadium › Rotherham, South Yorkshire
+              Charlton v Burton Albion  2-0 (2-0)   @ The Valley › London
+              Fleetwood Town v Doncaster  0-0 (0-0)   @ Highbury Stadium › Fleetwood, Lancashire
+              Oxford United v Ipswich  1-1 (0-0)   @ The Kassam Stadium › Oxford, Oxfordshire
+              Gillingham v Sheffield Wednesday  0-0 (0-0)   @ Priestfield Stadium › Gillingham, Kent
+              Portsmouth v Wycombe  0-0 (0-0)   @ Fratton Park › Portsmouth
+              Plymouth v Accrington ST  4-0 (2-0)   @ Home Park › Plymouth
+              Crewe v Bolton  0-1 (0-0)   @ Mornflake Stadium › Crewe, Cheshire
+              Cambridge United v Milton Keynes Dons  0-1 (0-0)   @ Abbey Stadium › Cambridge, Cambridgeshire
+              Cheltenham v AFC Wimbledon  3-1 (0-1)   @ Jonny-Rocks Stadium › Cheltenham, Gloucestershire
+              Lincoln v Sunderland  0-0 (0-0)   @ LNER Stadium › Lincoln, Lincolnshire
+» Regular Season - 31
+  Tue Mar 22
+    19.45     Plymouth v Cheltenham  2-0 (2-0)   @ Home Park › Plymouth
+» Regular Season - 40
+  Sat Mar 26
+    15.00     Sheffield Wednesday v Cheltenham  4-1 (1-1)   @ Hillsborough › Sheffield
+              AFC Wimbledon v Cambridge United  0-1 (0-0)   @ The Cherry Red Records Stadium › London
+              Shrewsbury v Lincoln  1-0 (0-0)   @ Montgomery Waters Meadow › Shrewsbury, Shropshire
+              Doncaster v Charlton  0-1 (0-0)   @ Eco-Power Stadium › Doncaster, South Yorkshire
+              Accrington ST v Gillingham  1-2 (0-0)   @ Wham Stadium › Accrington, Lancashire
+              Ipswich v Plymouth  1-0 (1-0)   @ Portman Road › Ipswich, Suffolk
+» Regular Season - 41
+  Sat Apr 2
+    12.30     Wigan v Bolton  1-1 (1-0)   @ DW Stadium › Wigan
+    15.00     Ipswich v Cambridge United  0-1 (0-0)   @ Portman Road › Ipswich, Suffolk
+              Sheffield Wednesday v AFC Wimbledon  2-1 (1-1)   @ Hillsborough › Sheffield
+              Sunderland v Gillingham  1-0 (0-0)   @ Stadium of Light › Sunderland
+              Charlton v Lincoln  1-2 (0-1)   @ The Valley › London
+              Milton Keynes Dons v Shrewsbury  2-0 (1-0)   @ Stadium mk › Milton Keynes, Buckinghamshire
+              Plymouth v Oxford United  1-0 (0-0)   @ Home Park › Plymouth
+              Wycombe v Doncaster  2-0 (1-0)   @ Adams Park › High Wycombe, Buckinghamshire
+              Accrington ST v Cheltenham  4-4 (2-1)   @ Wham Stadium › Accrington, Lancashire
+              Crewe v Fleetwood Town  1-3 (1-1)   @ Mornflake Stadium › Crewe, Cheshire
+              Morecambe v Burton Albion  3-0 (2-0)   @ Mazuma Stadium › Morecambe, Lancashire
+» Regular Season - 24
+  Tue Apr 5
+    19.45     AFC Wimbledon v Charlton  1-1 (0-0)   @ The Cherry Red Records Stadium › London
+» Regular Season - 26
+  Tue Apr 5
+    19.45     Wigan v Accrington ST  3-0 (2-0)   @ DW Stadium › Wigan
+» Regular Season - 31
+  Tue Apr 5
+    19.45     Cambridge United v Wycombe  1-4 (0-1)   @ Abbey Stadium › Cambridge, Cambridgeshire
+» Regular Season - 34
+  Tue Apr 5
+    19.45     Fleetwood Town v Lincoln  1-1 (1-0)   @ Highbury Stadium › Fleetwood, Lancashire
+» Regular Season - 40
+  Tue Apr 5
+    19.45     Morecambe v Oxford United  2-1 (2-1)   @ Mazuma Stadium › Morecambe, Lancashire
+              Milton Keynes Dons v Crewe  2-1 (2-0)   @ Stadium mk › Milton Keynes, Buckinghamshire
+    20.00     Bolton v Portsmouth  1-1 (0-0)   @ University of Bolton Stadium › Bolton
+» Regular Season - 42
+  Sat Apr 9
+    15.00     Bolton v Sheffield Wednesday  1-1 (0-0)   @ University of Bolton Stadium › Bolton
+              Rotherham v Charlton  0-1 (0-0)   @ AESSEAL New York Stadium › Rotherham, South Yorkshire
+              Burton Albion v Plymouth  0-0 (0-0)   @ Pirelli Stadium › Burton-upon-Trent, Staffordshire
+              AFC Wimbledon v Milton Keynes Dons  1-1 (1-0)   @ The Cherry Red Records Stadium › London
+              Fleetwood Town v Accrington ST  1-2 (1-0)   @ Highbury Stadium › Fleetwood, Lancashire
+              Oxford United v Sunderland  1-2 (1-1)   @ The Kassam Stadium › Oxford, Oxfordshire
+              Gillingham v Wycombe  1-1 (0-1)   @ Priestfield Stadium › Gillingham, Kent
+              Shrewsbury v Ipswich  1-1 (0-1)   @ Montgomery Waters Meadow › Shrewsbury, Shropshire
+              Doncaster v Crewe  2-0 (1-0)   @ Eco-Power Stadium › Doncaster, South Yorkshire
+              Cambridge United v Morecambe  2-1 (1-0)   @ Abbey Stadium › Cambridge, Cambridgeshire
+              Cheltenham v Portsmouth  1-0 (0-0)   @ Jonny-Rocks Stadium › Cheltenham, Gloucestershire
+              Lincoln v Wigan  1-3 (1-2)   @ LNER Stadium › Lincoln, Lincolnshire
+» Regular Season - 40
+  Tue Apr 12
+    19.45     Burton Albion v Wigan  0-0 (0-0)   @ Pirelli Stadium › Burton-upon-Trent, Staffordshire
+» Regular Season - 41
+  Tue Apr 12
+    19.45     Portsmouth v Rotherham  3-0 (1-0)   @ Fratton Park › Portsmouth
+» Regular Season - 43
+  Fri Apr 15
+    15.00     Sunderland v Shrewsbury  3-2 (2-0)   @ Stadium of Light › Sunderland
+              Charlton v Morecambe  2-3 (0-2)   @ The Valley › London
+              Fleetwood Town v Oxford United  2-3 (1-3)   @ Highbury Stadium › Fleetwood, Lancashire
+              Doncaster v Bolton  1-2 (0-0)   @ Eco-Power Stadium › Doncaster, South Yorkshire
+              Portsmouth v Lincoln  3-2 (0-0)   @ Fratton Park › Portsmouth
+              Wycombe v Plymouth  2-0 (2-0)   @ Adams Park › High Wycombe, Buckinghamshire
+              Accrington ST v Burton Albion  0-0 (0-0)   @ Wham Stadium › Accrington, Lancashire
+              Crewe v AFC Wimbledon  3-1 (0-1)   @ Mornflake Stadium › Crewe, Cheshire
+              Cheltenham v Gillingham  2-2 (1-1)   @ Jonny-Rocks Stadium › Cheltenham, Gloucestershire
+  Sat Apr 16
+    12.30     Rotherham v Ipswich  1-0 (0-0)   @ AESSEAL New York Stadium › Rotherham, South Yorkshire
+    17.15     Wigan v Cambridge United  1-2 (0-2)   @ DW Stadium › Wigan
+    19.45     Milton Keynes Dons v Sheffield Wednesday  2-3 (1-3)   @ Stadium mk › Milton Keynes, Buckinghamshire
+» Regular Season - 44
+  Mon Apr 18
+    15.00     Bolton v Accrington ST  3-1 (1-0)   @ University of Bolton Stadium › Bolton
+              AFC Wimbledon v Wycombe  1-1 (1-0)   @ The Cherry Red Records Stadium › London
+              Gillingham v Fleetwood Town  0-0 (0-0)   @ Priestfield Stadium › Gillingham, Kent
+              Shrewsbury v Doncaster  3-3 (3-0)   @ Montgomery Waters Meadow › Shrewsbury, Shropshire
+              Plymouth v Sunderland  0-0 (0-0)   @ Home Park › Plymouth
+              Morecambe v Portsmouth  1-1 (0-1)   @ Mazuma Stadium › Morecambe, Lancashire
+              Lincoln v Cheltenham  3-0 (3-0)   @ LNER Stadium › Lincoln, Lincolnshire
+  Tue Apr 19
+    19.45     Sheffield Wednesday v Crewe  1-0 (0-0)   @ Hillsborough › Sheffield
+              Burton Albion v Rotherham  2-0 (1-0)   @ Pirelli Stadium › Burton-upon-Trent, Staffordshire
+              Oxford United v Milton Keynes Dons  1-0 (0-0)   @ The Kassam Stadium › Oxford, Oxfordshire
+              Cambridge United v Charlton  0-2 (0-0)   @ Abbey Stadium › Cambridge, Cambridgeshire
+              Ipswich v Wigan  2-2 (0-1)   @ Portman Road › Ipswich, Suffolk
+» Regular Season - 45
+  Sat Apr 23
+    15.00     Wigan v Plymouth  1-1 (0-0)   @ DW Stadium › Wigan
+              Rotherham v Oxford United  2-1 (1-1)   @ AESSEAL New York Stadium › Rotherham, South Yorkshire
+              Sunderland v Cambridge United  5-1 (3-1)   @ Stadium of Light › Sunderland
+              Charlton v Shrewsbury  2-0 (0-0)   @ The Valley › London
+              Fleetwood Town v AFC Wimbledon  1-1 (0-1)   @ Highbury Stadium › Fleetwood, Lancashire
+              Milton Keynes Dons v Morecambe  2-0 (1-0)   @ Stadium mk › Milton Keynes, Buckinghamshire
+              Doncaster v Burton Albion  2-0 (1-0)   @ Eco-Power Stadium › Doncaster, South Yorkshire
+              Portsmouth v Gillingham  3-1 (2-1)   @ Fratton Park › Portsmouth
+              Wycombe v Sheffield Wednesday  1-0 (0-0)   @ Adams Park › High Wycombe, Buckinghamshire
+              Accrington ST v Lincoln  2-1 (1-0)   @ Wham Stadium › Accrington, Lancashire
+              Crewe v Ipswich  1-1 (0-1)   @ Mornflake Stadium › Crewe, Cheshire
+              Cheltenham v Bolton  1-2 (0-0)   @ Jonny-Rocks Stadium › Cheltenham, Gloucestershire
+» Regular Season - 27
+  Tue Apr 26
+    19.45     Portsmouth v Wigan  3-2 (0-2)   @ Fratton Park › Portsmouth
+» Regular Season - 35
+  Tue Apr 26
+    19.45     Fleetwood Town v Sheffield Wednesday  2-3 (2-1)   @ Highbury Stadium › Fleetwood, Lancashire
+» Regular Season - 40
+  Tue Apr 26
+    19.45     Sunderland v Rotherham  1-1 (0-1)   @ Stadium of Light › Sunderland
+» Regular Season - 46
+  Sat Apr 30
+    12.30     Ipswich v Charlton  4-0 (2-0)   @ Portman Road › Ipswich, Suffolk
+              Bolton v Fleetwood Town  4-2 (1-1)   @ University of Bolton Stadium › Bolton
+              Sheffield Wednesday v Portsmouth  4-1 (3-1)   @ Hillsborough › Sheffield
+              Burton Albion v Wycombe  1-2 (0-1)   @ Pirelli Stadium › Burton-upon-Trent, Staffordshire
+              AFC Wimbledon v Accrington ST  3-4 (0-3)   @ The Cherry Red Records Stadium › London
+              Oxford United v Doncaster  1-1 (1-0)   @ The Kassam Stadium › Oxford, Oxfordshire
+              Gillingham v Rotherham  0-2 (0-1)   @ Priestfield Stadium › Gillingham, Kent
+              Shrewsbury v Wigan  0-3 (0-1)   @ Montgomery Waters Meadow › Shrewsbury, Shropshire
+              Plymouth v Milton Keynes Dons  0-5 (0-3)   @ Home Park › Plymouth
+              Cambridge United v Cheltenham  2-2 (1-1)   @ Abbey Stadium › Cambridge, Cambridgeshire
+              Morecambe v Sunderland  0-1 (0-1)   @ Mazuma Stadium › Morecambe, Lancashire
+              Lincoln v Crewe  2-1 (0-1)   @ LNER Stadium › Lincoln, Lincolnshire
+» Promotion Play-offs - Semi-finals
+  Thu May 5
+    19.45     Wycombe v Milton Keynes Dons  2-0 (1-0)   @ Adams Park › High Wycombe, Buckinghamshire
+  Fri May 6
+    19.45     Sunderland v Sheffield Wednesday  1-0 (1-0)   @ Stadium of Light › Sunderland
+  Sun May 8
+    18.30     Milton Keynes Dons v Wycombe  1-0 (1-0)   @ Stadium mk › Milton Keynes, Buckinghamshire
+  Mon May 9
+    19.45     Sheffield Wednesday v Sunderland  1-1 (0-0)   @ Hillsborough › Sheffield
+» Promotion Play-offs - Final
+  Sat May 21
+    15.00     Sunderland v Wycombe  2-0 (1-0)   @ Wembley Stadium › London

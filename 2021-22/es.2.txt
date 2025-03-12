@@ -1,0 +1,688 @@
+= Spain | Segunda División 2021/22
+
+  # Date       Fri Aug/13 2021 - Sun Jun/19 2022 (310d)
+  # Teams      22
+  # Matches    468
+
+  # Note - All times in Europe/Madrid
+
+» Regular Season - 1
+  Fri Aug 13 2021
+    20.00     Huesca v Eibar  2-0 (1-0)   @ Estadio El Alcoraz › Huesca
+  Fri Aug 13
+    22.00     Zaragoza v Ibiza  0-0 (0-0)   @ Estadio de la Romareda › Zaragoza
+  Sat Aug 14
+    17.00     Real Sociedad II v Leganes  1-0 (0-0)   @ Reale Arena › Donostia-San Sebastián
+    19.30     Girona v Amorebieta  2-0 (0-0)   @ Estadi Municipal de Montilivi › Girona
+    22.00     Ponferradina v Alcorcon  1-0 (0-0)   @ Estadio El Toralín › Ponferrada
+  Sun Aug 15
+    17.00     Sporting Gijon v Burgos  1-0 (0-0)   @ Estadio Municipal El Molinón › Gijón
+    19.30     Oviedo v Lugo  2-2 (2-0)   @ Estadio Nuevo Carlos Tartiere › Oviedo
+    22.00     Las Palmas v Valladolid  1-1 (0-0)   @ Estadio de Gran Canaria › Las Palmas de Gran Canaria
+              Fuenlabrada v Tenerife  1-2 (0-1)   @ Estadio Fernando Torres › Fuenlabrada
+  Mon Aug 16
+    20.00     Malaga v Mirandes  0-0 (0-0)   @ Estadio La Rosaleda › Málaga
+    22.00     FC Cartagena v Almeria  1-3 (0-2)   @ Estadio Municipal Cartagonova › Cartagena
+» Regular Season - 2
+  Fri Aug 20
+    20.00     Valladolid v Zaragoza  2-0 (1-0)   @ Estadio Municipal José Zorrilla › Valladolid
+    22.00     Almeria v Oviedo  2-1 (2-1)   @ Estadio de los Juegos Mediterráneos › Almería
+  Sat Aug 21
+    17.00     Lugo v Real Sociedad II  0-0 (0-0)   @ Estadio Anxo Carro › Lugo
+    19.30     Tenerife v Sporting Gijon  0-0 (0-0)   @ Estadio Heliodoro Rodríguez Lopéz › Tenerife
+    22.00     Alcorcon v Fuenlabrada  0-2 (0-0)   @ Estadio Santo Domingo › Alcorcón
+  Sun Aug 22
+    17.00     Ibiza v Malaga  2-2 (1-0)   @ Estadio Municipal de Can Misses › Ibiza
+    19.30     Girona v Las Palmas  0-0 (0-0)   @ Estadi Municipal de Montilivi › Girona
+              Eibar v Ponferradina  0-1 (0-0)   @ Estadio Municipal de Ipurúa › Eibar
+    22.00     Huesca v FC Cartagena  2-0 (0-0)   @ Estadio El Alcoraz › Huesca
+  Mon Aug 23
+    20.00     Mirandes v Amorebieta  2-0 (0-0)   @ Estadio Municipal de Anduva › Miranda de Ebro
+    22.00     Leganes v Burgos  0-0 (0-0)   @ Estadio Municipal de Butarque › Leganés
+» Regular Season - 3
+  Fri Aug 27
+    20.00     Las Palmas v Huesca  2-1 (2-0)   @ Estadio de Gran Canaria › Las Palmas de Gran Canaria
+    22.00     Malaga v Alcorcon  1-0 (1-0)   @ Estadio La Rosaleda › Málaga
+  Sat Aug 28
+    17.00     Sporting Gijon v Mirandes  2-1 (1-0)   @ Estadio Municipal El Molinón › Gijón
+    19.30     Oviedo v Tenerife  0-0 (0-0)   @ Estadio Nuevo Carlos Tartiere › Oviedo
+              Leganes v Ibiza  1-2 (0-0)   @ Estadio Municipal de Butarque › Leganés
+    22.00     Ponferradina v Girona  2-1 (1-0)   @ Estadio El Toralín › Ponferrada
+  Sun Aug 29
+    17.00     Amorebieta v Almeria  2-1 (1-1)   @ Instalaciones de Lezama Campo 2 › Lezama
+    19.30     Real Sociedad II v Fuenlabrada  0-0 (0-0)   @ Reale Arena › Donostia-San Sebastián
+              Lugo v Valladolid  0-2 (0-1)   @ Estadio Anxo Carro › Lugo
+    22.00     Burgos v Eibar  0-1 (0-0)   @ Estadio Municipal de El Plantío › Burgos
+  Mon Aug 30
+    22.00     Zaragoza v FC Cartagena  0-1 (0-0)   @ Estadio de la Romareda › Zaragoza
+» Regular Season - 4
+  Fri Sep 3
+    21.00     Girona v Sporting Gijon  1-2 (0-1)   @ Estadi Municipal de Montilivi › Girona
+  Sat Sep 4
+    16.00     Eibar v Leganes  1-1 (1-1)   @ Estadio Municipal de Ipurúa › Eibar
+    18.15     Tenerife v Ponferradina  2-0 (0-0)   @ Estadio Heliodoro Rodríguez Lopéz › Tenerife
+              FC Cartagena v Real Sociedad II  1-0 (0-0)   @ Estadio Municipal Cartagonova › Cartagena
+    21.00     Fuenlabrada v Lugo  1-1 (1-1)   @ Estadio Fernando Torres › Fuenlabrada
+              Almeria v Malaga  2-0 (0-0)   @ Estadio de los Juegos Mediterráneos › Almería
+  Sun Sep 5
+    16.00     Burgos v Valladolid  3-0 (3-0)   @ Estadio Municipal de El Plantío › Burgos
+              Ibiza v Amorebieta  1-1 (0-1)   @ Estadio Municipal de Can Misses › Ibiza
+    18.15     Mirandes v Las Palmas  4-2 (3-1)   @ Estadio Municipal de Anduva › Miranda de Ebro
+              Alcorcon v Zaragoza  1-2 (1-0)   @ Estadio Santo Domingo › Alcorcón
+  Mon Sep 6
+    21.00     Huesca v Oviedo  1-2 (0-1)   @ Estadio El Alcoraz › Huesca
+» Regular Season - 5
+  Fri Sep 10
+    21.00     Sporting Gijon v Leganes  2-1 (1-0)   @ Estadio Municipal El Molinón › Gijón
+  Sat Sep 11
+    16.00     Real Sociedad II v Eibar  2-3 (0-1)   @ Reale Arena › Donostia-San Sebastián
+              Amorebieta v Burgos  2-2 (1-1)   @ Instalaciones de Lezama Campo 2 › Lezama
+    18.15     Las Palmas v Ibiza  1-1 (0-1)   @ Estadio de Gran Canaria › Las Palmas de Gran Canaria
+    21.00     Mirandes v Alcorcon  1-3 (1-1)   @ Estadio Municipal de Anduva › Miranda de Ebro
+  Sun Sep 12
+    14.00     Oviedo v FC Cartagena  2-0 (1-0)   @ Estadio Nuevo Carlos Tartiere › Oviedo
+    16.00     Valladolid v Tenerife  0-2 (0-2)   @ Estadio Municipal José Zorrilla › Valladolid
+    18.15     Ponferradina v Almeria  1-0 (0-0)   @ Estadio El Toralín › Ponferrada
+    20.30     Fuenlabrada v Zaragoza  1-1 (1-0)   @ Estadio Fernando Torres › Fuenlabrada
+    21.30     Malaga v Girona  2-0 (1-0)   @ Estadio La Rosaleda › Málaga
+  Mon Sep 13
+    21.00     Lugo v Huesca  3-2 (1-2)   @ Estadio Anxo Carro › Lugo
+» Regular Season - 6
+  Fri Sep 17
+    21.00     Alcorcon v Almeria  0-4 (0-3)   @ Estadio Santo Domingo › Alcorcón
+  Sat Sep 18
+    16.00     Ibiza v Oviedo  1-1 (1-0)   @ Estadio Can Misses-Power Electronic › Ibiza
+    18.15     Leganes v Amorebieta  1-0 (1-0)   @ Estadio Municipal de Butarque › Leganés
+              Zaragoza v Real Sociedad II  1-1 (1-1)   @ Estadio de la Romareda › Zaragoza
+    20.30     Girona v Valladolid  1-0 (0-0)   @ Estadi Municipal de Montilivi › Girona
+    21.00     FC Cartagena v Lugo  2-1 (1-1)   @ Estadio Municipal Cartagonova › Cartagena
+  Sun Sep 19
+    14.00     Huesca v Fuenlabrada  0-0 (0-0)   @ Estadio El Alcoraz › Huesca
+    16.00     Ponferradina v Malaga  4-0 (2-0)   @ Estadio El Toralín › Ponferrada
+    18.15     Tenerife v Mirandes  1-2 (1-0)   @ Estadio Heliodoro Rodríguez Lopéz › Tenerife
+              Eibar v Sporting Gijon  3-2 (1-1)   @ Estadio Municipal de Ipurúa › Eibar
+  Mon Sep 20
+    21.00     Burgos v Las Palmas  0-0 (0-0)   @ Estadio Municipal de El Plantío › Burgos
+» Regular Season - 7
+  Fri Sep 24
+    20.00     Real Sociedad II v Huesca  0-2 (0-1)   @ Reale Arena › Donostia-San Sebastián
+    21.00     Almeria v Tenerife  3-1 (0-0)   @ Estadio de los Juegos Mediterráneos › Almería
+  Sat Sep 25
+    16.00     Ibiza v Burgos  2-0 (1-0)   @ Estadio Can Misses-Power Electronic › Ibiza
+    18.15     Amorebieta v Eibar  1-1 (1-1)   @ Instalaciones de Lezama Campo 2 › Lezama
+              Las Palmas v Ponferradina  2-1 (2-0)   @ Estadio de Gran Canaria › Las Palmas de Gran Canaria
+  Sun Sep 26
+    14.00     Mirandes v Leganes  1-2 (1-1)   @ Estadio Municipal de Anduva › Miranda de Ebro
+    16.00     Sporting Gijon v Malaga  2-1 (0-1)   @ Estadio Municipal El Molinón › Gijón
+    18.15     Oviedo v Girona  0-0 (0-0)   @ Estadio Nuevo Carlos Tartiere › Oviedo
+    20.30     Lugo v Zaragoza  1-1 (1-1)   @ Estadio Anxo Carro › Lugo
+    21.00     Valladolid v Alcorcon  2-0 (1-0)   @ Estadio Municipal José Zorrilla › Valladolid
+  Mon Sep 27
+    21.00     Fuenlabrada v FC Cartagena  2-1 (1-0)   @ Estadio Fernando Torres › Fuenlabrada
+» Regular Season - 8
+  Fri Oct 1
+    21.00     Ponferradina v Valladolid  2-2 (0-0)   @ Estadio El Toralín › Ponferrada
+  Sat Oct 2
+    16.00     Amorebieta v Sporting Gijon  1-1 (1-0)   @ Instalaciones de Lezama Campo 2 › Lezama
+              Huesca v Tenerife  1-2 (1-1)   @ Estadio El Alcoraz › Huesca
+    18.15     Zaragoza v Oviedo  0-0 (0-0)   @ Estadio de la Romareda › Zaragoza
+    21.00     Alcorcon v Real Sociedad II  1-4 (1-2)   @ Estadio Santo Domingo › Alcorcón
+  Sun Oct 3
+    14.00     Eibar v Ibiza  3-1 (1-1)   @ Estadio Municipal de Ipurúa › Eibar
+    16.00     Malaga v Fuenlabrada  1-0 (1-0)   @ Estadio La Rosaleda › Málaga
+    18.15     Burgos v Mirandes  1-0 (1-0)   @ Estadio Municipal de El Plantío › Burgos
+              Las Palmas v FC Cartagena  4-1 (3-0)   @ Estadio de Gran Canaria › Las Palmas de Gran Canaria
+    21.00     Leganes v Lugo  1-1 (0-0)   @ Estadio Municipal de Butarque › Leganés
+  Mon Oct 4
+    21.00     Girona v Almeria  1-2 (0-0)   @ Estadi Municipal de Montilivi › Girona
+» Regular Season - 9
+  Fri Oct 8
+    21.00     Valladolid v Malaga  1-1 (0-1)   @ Estadio Municipal José Zorrilla › Valladolid
+  Sat Oct 9
+    16.00     Mirandes v Eibar  3-3 (1-2)   @ Estadio Municipal de Anduva › Miranda de Ebro
+              Lugo v Girona  1-0 (0-0)   @ Estadio Anxo Carro › Lugo
+    18.15     Almeria v Las Palmas  1-1 (1-0)   @ Estadio de los Juegos Mediterráneos › Almería
+    21.00     Oviedo v Sporting Gijon  1-1 (1-0)   @ Estadio Nuevo Carlos Tartiere › Oviedo
+  Sun Oct 10
+    14.00     Real Sociedad II v Ponferradina  1-1 (0-0)   @ Estadio Municipal de Ipurúa › Eibar
+    16.00     FC Cartagena v Ibiza  5-1 (3-0)   @ Estadio Municipal Cartagonova › Cartagena
+    18.15     Tenerife v Amorebieta  2-1 (1-0)   @ Estadio Heliodoro Rodríguez Lopéz › Tenerife
+              Fuenlabrada v Leganes  2-1 (1-1)   @ Estadio Fernando Torres › Fuenlabrada
+              Alcorcon v Burgos  1-0 (0-0)   @ Estadio Santo Domingo › Alcorcón
+  Mon Oct 11
+    21.00     Zaragoza v Huesca  0-0 (0-0)   @ Estadio de la Romareda › Zaragoza
+» Regular Season - 10
+  Fri Oct 15
+    21.00     Eibar v Almeria  1-0 (1-0)   @ Estadio Municipal de Ipurúa › Eibar
+  Sat Oct 16
+    16.00     Girona v Huesca  1-3 (0-0)   @ Estadi Municipal de Montilivi › Girona
+              Amorebieta v FC Cartagena  2-3 (1-1)   @ Instalaciones de Lezama Campo 2 › Lezama
+    18.15     Las Palmas v Tenerife  2-1 (1-0)   @ Estadio de Gran Canaria › Las Palmas de Gran Canaria
+    20.30     Malaga v Zaragoza  1-1 (1-1)   @ Estadio La Rosaleda › Málaga
+    21.00     Sporting Gijon v Alcorcon  1-0 (0-0)   @ Estadio Municipal El Molinón › Gijón
+  Sun Oct 17
+    14.00     Ibiza v Mirandes  0-2 (0-1)   @ Estadio Can Misses-Power Electronic › Ibiza
+    16.00     Leganes v Valladolid  0-2 (0-1)   @ Estadio Municipal de Butarque › Leganés
+    18.15     Burgos v Lugo  1-1 (1-1)   @ Estadio Municipal de El Plantío › Burgos
+              Real Sociedad II v Oviedo  1-1 (0-0)   @ Reale Arena › Donostia-San Sebastián
+    21.00     Ponferradina v Fuenlabrada  0-0 (0-0)   @ Estadio El Toralín › Ponferrada
+» Regular Season - 11
+  Tue Oct 19
+    19.00     FC Cartagena v Sporting Gijon  1-0 (0-0)   @ Estadio Municipal Cartagonova › Cartagena
+              Huesca v Malaga  0-0 (0-0)   @ Estadio El Alcoraz › Huesca
+    21.00     Tenerife v Eibar  0-1 (0-0)   @ Estadio Heliodoro Rodríguez Lopéz › Tenerife
+  Wed Oct 20
+    19.00     Fuenlabrada v Amorebieta  0-0 (0-0)   @ Estadio Fernando Torres › Fuenlabrada
+              Valladolid v Ibiza  1-1 (0-0)   @ Estadio Municipal José Zorrilla › Valladolid
+    21.00     Alcorcon v Leganes  3-3 (2-2)   @ Estadio Santo Domingo › Alcorcón
+              Lugo v Las Palmas  2-0 (2-0)   @ Estadio Anxo Carro › Lugo
+  Thu Oct 21
+    18.45     Almeria v Real Sociedad II  3-1 (1-1)   @ Estadio de los Juegos Mediterráneos › Almería
+    19.00     Zaragoza v Ponferradina  1-1 (0-0)   @ Estadio de la Romareda › Zaragoza
+    21.00     Mirandes v Girona  1-2 (0-2)   @ Estadio Municipal de Anduva › Miranda de Ebro
+              Oviedo v Burgos  1-3 (0-1)   @ Estadio Nuevo Carlos Tartiere › Oviedo
+» Regular Season - 12
+  Fri Oct 22
+    21.00     Eibar v FC Cartagena  2-1 (2-0)   @ Estadio Municipal de Ipurúa › Eibar
+  Sat Oct 23
+    16.00     Ibiza v Fuenlabrada  3-1 (1-1)   @ Estadio Can Misses-Power Electronic › Ibiza
+    18.15     Sporting Gijon v Valladolid  1-2 (0-1)   @ Estadio Municipal El Molinón › Gijón
+    20.30     Malaga v Lugo  1-0 (1-0)   @ Estadio La Rosaleda › Málaga
+    21.00     Leganes v Tenerife  1-2 (0-1)   @ Estadio Municipal de Butarque › Leganés
+  Sun Oct 24
+    14.00     Amorebieta v Real Sociedad II  1-2 (0-1)   @ Instalaciones de Lezama Campo 2 › Lezama
+              Mirandes v Almeria  1-4 (0-3)   @ Estadio Municipal de Anduva › Miranda de Ebro
+    18.15     Burgos v Huesca  3-1 (1-1)   @ Estadio Municipal de El Plantío › Burgos
+              Ponferradina v Oviedo  1-2 (0-1)   @ Estadio El Toralín › Ponferrada
+    21.00     Las Palmas v Alcorcon  3-0 (1-0)   @ Estadio de Gran Canaria › Las Palmas de Gran Canaria
+  Mon Oct 25
+    21.00     Girona v Zaragoza  1-1 (0-0)   @ Estadi Municipal de Montilivi › Girona
+» Regular Season - 13
+  Fri Oct 29
+    21.00     Real Sociedad II v Las Palmas  0-1 (0-1)   @ Reale Arena › Donostia-San Sebastián
+              Almeria v Leganes  1-0 (1-0)   @ Estadio de los Juegos Mediterráneos › Almería
+  Sat Oct 30
+    16.00     Huesca v Amorebieta  1-1 (1-0)   @ Estadio El Alcoraz › Huesca
+    18.15     Lugo v Sporting Gijon  1-1 (0-0)   @ Estadio Anxo Carro › Lugo
+    21.00     FC Cartagena v Ponferradina  0-1 (0-1)   @ Estadio Municipal Cartagonova › Cartagena
+  Sun Oct 31
+    14.00     Fuenlabrada v Girona  1-2 (0-0)   @ Estadio Fernando Torres › Fuenlabrada
+    16.00     Oviedo v Malaga  2-1 (1-0)   @ Estadio Nuevo Carlos Tartiere › Oviedo
+    18.15     Valladolid v Eibar  2-0 (0-0)   @ Estadio Municipal José Zorrilla › Valladolid
+    20.30     Zaragoza v Mirandes  1-1 (1-0)   @ Estadio de la Romareda › Zaragoza
+  Mon Nov 1
+    16.00     Alcorcon v Ibiza  0-2 (0-0)   @ Estadio Santo Domingo › Alcorcón
+    18.15     Tenerife v Burgos  4-0 (2-0)   @ Estadio Heliodoro Rodríguez Lopéz › Tenerife
+» Regular Season - 14
+  Tue Nov 2
+    19.00     Ponferradina v Huesca  1-1 (0-0)   @ Estadio El Toralín › Ponferrada
+              Sporting Gijon v Almeria  0-1 (0-0)   @ Estadio Municipal El Molinón › Gijón
+    21.15     Leganes v FC Cartagena  1-1 (1-1)   @ Estadio Municipal de Butarque › Leganés
+  Wed Nov 3
+    19.00     Mirandes v Lugo  3-2 (0-1)   @ Estadio Municipal de Anduva › Miranda de Ebro
+              Amorebieta v Valladolid  4-1 (3-1)   @ Instalaciones de Lezama Campo 2 › Lezama
+    21.15     Eibar v Oviedo  1-0 (0-0)   @ Estadio Municipal de Ipurúa › Eibar
+              Las Palmas v Fuenlabrada  2-1 (2-0)   @ Estadio de Gran Canaria › Las Palmas de Gran Canaria
+  Thu Nov 4
+    19.00     Burgos v Zaragoza  0-1 (0-0)   @ Estadio Municipal de El Plantío › Burgos
+              Girona v Alcorcon  3-1 (0-1)   @ Estadi Municipal de Montilivi › Girona
+    21.15     Ibiza v Tenerife  0-0 (0-0)   @ Estadio Can Misses-Power Electronic › Ibiza
+              Malaga v Real Sociedad II  2-1 (2-1)   @ Estadio La Rosaleda › Málaga
+» Regular Season - 15
+  Fri Nov 5
+    21.00     Huesca v Leganes  0-2 (0-0)   @ Estadio El Alcoraz › Huesca
+  Sat Nov 6
+    16.00     Lugo v Ponferradina  1-2 (0-1)   @ Estadio Anxo Carro › Lugo
+    18.15     Valladolid v Mirandes  3-1 (2-0)   @ Estadio Municipal José Zorrilla › Valladolid
+              Oviedo v Las Palmas  1-1 (1-0)   @ Estadio Nuevo Carlos Tartiere › Oviedo
+    21.00     Fuenlabrada v Eibar  0-0 (0-0)   @ Estadio Fernando Torres › Fuenlabrada
+  Sun Nov 7
+    14.00     Alcorcon v Amorebieta  2-2 (0-1)   @ Estadio Santo Domingo › Alcorcón
+    16.00     Zaragoza v Sporting Gijon  2-0 (1-0)   @ Estadio de la Romareda › Zaragoza
+    18.15     Almeria v Burgos  2-0 (1-0)   @ Estadio de los Juegos Mediterráneos › Almería
+              FC Cartagena v Malaga  3-1 (1-0)   @ Estadio Municipal Cartagonova › Cartagena
+    21.00     Real Sociedad II v Ibiza  0-1 (0-0)   @ Reale Arena › Donostia-San Sebastián
+  Mon Nov 8
+    21.00     Tenerife v Girona  2-1 (1-0)   @ Estadio Heliodoro Rodríguez Lopéz › Tenerife
+» Regular Season - 16
+  Fri Nov 12
+    21.00     Sporting Gijon v Real Sociedad II  0-1 (0-0)   @ Estadio Municipal El Molinón › Gijón
+  Sat Nov 13
+    16.00     Valladolid v Fuenlabrada  3-0 (1-0)   @ Estadio Municipal José Zorrilla › Valladolid
+    18.15     Mirandes v Huesca  0-1 (0-0)   @ Estadio Municipal de Anduva › Miranda de Ebro
+              Eibar v Alcorcon  2-1 (2-1)   @ Estadio Municipal de Ipurúa › Eibar
+    20.30     Las Palmas v Zaragoza  2-3 (1-1)   @ Estadio de Gran Canaria › Las Palmas de Gran Canaria
+  Sun Nov 14
+    14.00     Amorebieta v Lugo  1-3 (1-2)   @ Instalaciones de Lezama Campo 2 › Lezama
+    16.00     Ibiza v Almeria  0-1 (0-1)   @ Estadio Can Misses-Power Electronic › Ibiza
+              Girona v FC Cartagena  2-0 (1-0)   @ Estadi Municipal de Montilivi › Girona
+    18.15     Burgos v Ponferradina  1-0 (1-0)   @ Estadio Municipal de El Plantío › Burgos
+              Leganes v Oviedo  0-0 (0-0)   @ Estadio Municipal de Butarque › Leganés
+  Mon Nov 15
+    21.00     Malaga v Tenerife  1-0 (1-0)   @ Estadio La Rosaleda › Málaga
+» Regular Season - 17
+  Fri Nov 19
+    21.00     Fuenlabrada v Mirandes  1-1 (1-0)   @ Estadio Fernando Torres › Fuenlabrada
+  Sat Nov 20
+    16.00     Oviedo v Amorebieta  2-0 (2-0)   @ Estadio Nuevo Carlos Tartiere › Oviedo
+    18.15     Malaga v Las Palmas  2-1 (1-0)   @ Estadio La Rosaleda › Málaga
+    20.30     Almeria v Valladolid  3-1 (0-1)   @ Estadio de los Juegos Mediterráneos › Almería
+  Sun Nov 21
+    14.00     FC Cartagena v Burgos  1-0 (0-0)   @ Estadio Municipal Cartagonova › Cartagena
+    16.00     Lugo v Eibar  2-2 (2-1)   @ Estadio Anxo Carro › Lugo
+    18.15     Tenerife v Alcorcon  1-0 (0-0)   @ Estadio Heliodoro Rodríguez Lopéz › Tenerife
+              Huesca v Ibiza  0-0 (0-0)   @ Estadio El Alcoraz › Huesca
+    20.30     Ponferradina v Sporting Gijon  4-1 (3-0)   @ Estadio El Toralín › Ponferrada
+  Mon Nov 22
+    19.00     Real Sociedad II v Girona  1-2 (0-1)   @ Reale Arena › Donostia-San Sebastián
+    21.00     Zaragoza v Leganes  0-2 (0-1)   @ Estadio de la Romareda › Zaragoza
+» Regular Season - 18
+  Fri Nov 26
+    21.00     Mirandes v Oviedo  1-1 (0-0)   @ Estadio Municipal de Anduva › Miranda de Ebro
+              Alcorcon v Lugo  1-1 (0-1)   @ Estadio Santo Domingo › Alcorcón
+  Sat Nov 27
+    16.00     Burgos v Malaga  3-0 (1-0)   @ Estadio Municipal de El Plantío › Burgos
+    18.15     Sporting Gijon v Fuenlabrada  1-1 (1-0)   @ Estadio Municipal El Molinón › Gijón
+              Almeria v Huesca  0-0 (0-0)   @ Estadio de los Juegos Mediterráneos › Almería
+    20.30     Valladolid v FC Cartagena  2-0 (2-0)   @ Estadio Municipal José Zorrilla › Valladolid
+  Sun Nov 28
+    14.00     Leganes v Las Palmas  4-1 (2-0)   @ Estadio Municipal de Butarque › Leganés
+    16.00     Ibiza v Ponferradina  0-1 (0-1)   @ Estadio Can Misses-Power Electronic › Ibiza
+              Amorebieta v Zaragoza  1-1 (1-1)   @ Instalaciones de Lezama Campo 2 › Lezama
+    18.15     Tenerife v Real Sociedad II  2-0 (1-0)   @ Estadio Heliodoro Rodríguez Lopéz › Tenerife
+  Mon Nov 29
+    21.00     Eibar v Girona  4-2 (2-1)   @ Estadio Municipal de Ipurúa › Eibar
+» Regular Season - 19
+  Fri Dec 3
+    21.00     Huesca v Valladolid  3-2 (2-0)   @ Estadio El Alcoraz › Huesca
+  Sat Dec 4
+    18.15     Fuenlabrada v Almeria  1-1 (0-0)   @ Estadio Fernando Torres › Fuenlabrada
+  Sun Dec 5
+    14.00     Ponferradina v Mirandes  2-1 (1-0)   @ Estadio El Toralín › Ponferrada
+    16.00     Malaga v Amorebieta  1-2 (0-2)   @ Estadio La Rosaleda › Málaga
+    18.15     Lugo v Ibiza  0-0 (0-0)   @ Estadio Anxo Carro › Lugo
+              Oviedo v Alcorcon  3-1 (0-0)   @ Estadio Nuevo Carlos Tartiere › Oviedo
+              Real Sociedad II v Burgos  0-1 (0-1)   @ Reale Arena › Donostia-San Sebastián
+    20.30     Las Palmas v Sporting Gijon  1-0 (0-0)   @ Estadio de Gran Canaria › Las Palmas de Gran Canaria
+  Mon Dec 6
+    16.00     Zaragoza v Eibar  1-0 (0-0)   @ Estadio de la Romareda › Zaragoza
+    18.15     FC Cartagena v Tenerife  1-1 (0-0)   @ Estadio Municipal Cartagonova › Cartagena
+    21.00     Girona v Leganes  3-0 (2-0)   @ Estadi Municipal de Montilivi › Girona
+» Regular Season - 20
+  Fri Dec 10
+    21.00     Sporting Gijon v Huesca  1-1 (0-0)   @ Estadio Municipal El Molinón › Gijón
+  Sat Dec 11
+    16.00     Burgos v Fuenlabrada  2-0 (1-0)   @ Estadio Municipal de El Plantío › Burgos
+              Ibiza v Girona  1-1 (0-1)   @ Estadio Can Misses-Power Electronic › Ibiza
+    18.15     Almeria v Zaragoza  3-0 (0-0)   @ Estadio de los Juegos Mediterráneos › Almería
+    20.30     Eibar v Malaga  2-2 (2-1)   @ Estadio Municipal de Ipurúa › Eibar
+    21.00     Tenerife v Lugo  1-1 (1-0)   @ Estadio Heliodoro Rodríguez Lopéz › Tenerife
+  Sun Dec 12
+    14.00     Leganes v Ponferradina  1-1 (0-1)   @ Estadio Municipal de Butarque › Leganés
+    16.00     Valladolid v Oviedo  2-1 (2-1)   @ Estadio Municipal José Zorrilla › Valladolid
+    18.15     Amorebieta v Las Palmas  1-1 (1-1)   @ Instalaciones de Lezama Campo 2 › Lezama
+              Alcorcon v FC Cartagena  1-1 (1-1)   @ Estadio Santo Domingo › Alcorcón
+  Mon Dec 13
+    21.00     Mirandes v Real Sociedad II  2-0 (0-0)   @ Estadio Municipal de Anduva › Miranda de Ebro
+» Regular Season - 21
+  Fri Dec 17
+    21.00     Girona v Burgos  3-1 (2-0)   @ Estadi Municipal de Montilivi › Girona
+  Sat Dec 18
+    16.00     Ibiza v Sporting Gijon  0-2 (0-1)   @ Estadio Can Misses-Power Electronic › Ibiza
+              Malaga v Leganes  0-2 (0-0)   @ Estadio La Rosaleda › Málaga
+    18.15     Las Palmas v Eibar  0-1 (0-1)   @ Estadio de Gran Canaria › Las Palmas de Gran Canaria
+  Sun Dec 19
+    14.00     Fuenlabrada v Oviedo  0-0 (0-0)   @ Estadio Fernando Torres › Fuenlabrada
+    16.00     Zaragoza v Tenerife  0-2 (0-2)   @ Estadio de la Romareda › Zaragoza
+              Ponferradina v Amorebieta  1-1 (0-1)   @ Estadio El Toralín › Ponferrada
+    18.15     FC Cartagena v Mirandes  3-0 (2-0)   @ Estadio Municipal Cartagonova › Cartagena
+              Real Sociedad II v Valladolid  0-2 (0-0)   @ Reale Arena › Donostia-San Sebastián
+              Huesca v Alcorcon  0-0 (0-0)   @ Estadio El Alcoraz › Huesca
+» Regular Season - 22
+  Fri Dec 31
+    14.00     Oviedo v Ponferradina  2-0 (0-0)   @ Estadio Nuevo Carlos Tartiere › Oviedo
+    16.00     Burgos v Amorebieta  2-2 (2-1)   @ Estadio Municipal de El Plantío › Burgos
+    16.15     Eibar v Real Sociedad II  3-2 (2-0)   @ Estadio Municipal de Ipurúa › Eibar
+  Sun Jan 2 2022
+    14.00     Valladolid v Leganes  1-0 (1-0)   @ Estadio Municipal José Zorrilla › Valladolid
+  Sun Jan 2
+    14.00     Almeria v FC Cartagena  0-1 (0-1)   @ Estadio de los Juegos Mediterráneos › Almería
+    16.00     Sporting Gijon v Lugo  1-1 (0-1)   @ Estadio Municipal El Molinón › Gijón
+    18.15     Mirandes v Zaragoza  2-0 (1-0)   @ Estadio Municipal de Anduva › Miranda de Ebro
+              Huesca v Girona  0-1 (0-0)   @ Estadio El Alcoraz › Huesca
+    21.00     Fuenlabrada v Ibiza  1-2 (1-1)   @ Estadio Fernando Torres › Fuenlabrada
+    21.30     Tenerife v Las Palmas  0-1 (0-0)   @ Estadio Heliodoro Rodríguez Lopéz › Tenerife
+  Mon Jan 3
+    21.00     Alcorcon v Malaga  0-1 (0-0)   @ Estadio Santo Domingo › Alcorcón
+» Regular Season - 23
+  Fri Jan 7
+    21.00     Amorebieta v Tenerife  1-1 (1-1)   @ Instalaciones de Lezama Campo 2 › Lezama
+  Sat Jan 8
+    16.00     FC Cartagena v Huesca  0-3 (0-1)   @ Estadio Municipal Cartagonova › Cartagena
+              Ibiza v Alcorcon  6-2 (2-2)   @ Estadio Can Misses-Power Electronic › Ibiza
+    18.15     Valladolid v Burgos  1-0 (0-0)   @ Estadio Municipal José Zorrilla › Valladolid
+    21.00     Leganes v Real Sociedad II  1-1 (0-0)   @ Estadio Municipal de Butarque › Leganés
+  Sun Jan 9
+    14.00     Girona v Fuenlabrada  2-1 (2-0)   @ Estadi Municipal de Montilivi › Girona
+    16.00     Lugo v Mirandes  2-1 (1-0)   @ Estadio Anxo Carro › Lugo
+    18.15     Malaga v Sporting Gijon  2-2 (1-2)   @ Estadio La Rosaleda › Málaga
+    20.30     Ponferradina v Zaragoza  0-0 (0-0)   @ Estadio El Toralín › Ponferrada
+    21.30     Las Palmas v Almeria  1-1 (1-0)   @ Estadio de Gran Canaria › Las Palmas de Gran Canaria
+  Mon Jan 10
+    21.00     Oviedo v Eibar  1-1 (1-0)   @ Estadio Nuevo Carlos Tartiere › Oviedo
+» Regular Season - 21
+  Wed Jan 19
+    21.00     Lugo v Almeria  2-1 (2-0)   @ Estadio Anxo Carro › Lugo
+» Regular Season - 24
+  Fri Jan 21
+    21.00     Tenerife v Oviedo  4-0 (2-0)   @ Estadio Heliodoro Rodríguez Lopéz › Tenerife
+  Sat Jan 22
+    16.00     Zaragoza v Valladolid  0-0 (0-0)   @ Estadio de la Romareda › Zaragoza
+    18.15     Fuenlabrada v Las Palmas  3-2 (1-1)   @ Estadio Fernando Torres › Fuenlabrada
+    21.00     Malaga v Ibiza  0-5 (0-1)   @ Estadio La Rosaleda › Málaga
+  Sun Jan 23
+    14.00     Burgos v Leganes  4-0 (3-0)   @ Estadio Municipal de El Plantío › Burgos
+    16.00     Sporting Gijon v Amorebieta  2-1 (0-1)   @ Estadio Municipal El Molinón › Gijón
+    18.15     Huesca v Ponferradina  1-2 (0-1)   @ Estadio El Alcoraz › Huesca
+              Girona v Lugo  1-1 (0-0)   @ Estadi Municipal de Montilivi › Girona
+    21.00     Alcorcon v Mirandes  0-0 (0-0)   @ Estadio Santo Domingo › Alcorcón
+  Mon Jan 24
+    21.00     Real Sociedad II v FC Cartagena  1-2 (0-0)   @ Reale Arena › Donostia-San Sebastián
+              Almeria v Eibar  0-2 (0-1)   @ Estadio de los Juegos Mediterráneos › Almería
+» Regular Season - 25
+  Fri Jan 28
+    21.00     Valladolid v Sporting Gijon  1-0 (0-0)   @ Estadio Municipal José Zorrilla › Valladolid
+  Sat Jan 29
+    16.00     Amorebieta v Girona  1-0 (1-0)   @ Instalaciones de Lezama Campo 2 › Lezama
+    18.15     Lugo v Burgos  1-0 (0-0)   @ Estadio Anxo Carro › Lugo
+              Eibar v Huesca  2-1 (0-0)   @ Estadio Municipal de Ipurúa › Eibar
+    21.00     Oviedo v Almeria  2-0 (1-0)   @ Estadio Nuevo Carlos Tartiere › Oviedo
+  Sun Jan 30
+    14.00     Leganes v Alcorcon  1-0 (0-0)   @ Estadio Municipal de Butarque › Leganés
+    16.00     FC Cartagena v Fuenlabrada  3-0 (1-0)   @ Estadio Municipal Cartagonova › Cartagena
+    18.15     Las Palmas v Real Sociedad II  0-0 (0-0)   @ Estadio de Gran Canaria › Las Palmas de Gran Canaria
+              Mirandes v Malaga  3-0 (2-0)   @ Estadio Municipal de Anduva › Miranda de Ebro
+    21.00     Ponferradina v Tenerife  1-2 (1-0)   @ Estadio El Toralín › Ponferrada
+  Mon Jan 31
+    21.00     Ibiza v Zaragoza  2-2 (0-2)   @ Estadio Can Misses-Power Electronic › Ibiza
+» Regular Season - 26
+  Fri Feb 4
+    21.00     Burgos v Alcorcon  3-1 (2-1)   @ Estadio Municipal de El Plantío › Burgos
+              Almeria v Ibiza  2-0 (0-0)   @ Estadio de los Juegos Mediterráneos › Almería
+  Sat Feb 5
+    16.00     Real Sociedad II v Lugo  1-1 (0-1)   @ Reale Arena › Donostia-San Sebastián
+    18.15     Zaragoza v Malaga  1-1 (0-1)   @ Estadio de la Romareda › Zaragoza
+    20.30     Girona v Ponferradina  3-0 (1-0)   @ Estadi Municipal de Montilivi › Girona
+              Sporting Gijon v Eibar  0-1 (0-1)   @ Estadio Municipal El Molinón › Gijón
+  Sun Feb 6
+    14.00     Amorebieta v Oviedo  1-1 (1-1)   @ Instalaciones de Lezama Campo 2 › Lezama
+              Fuenlabrada v Valladolid  0-0 (0-0)   @ Estadio Fernando Torres › Fuenlabrada
+    18.15     FC Cartagena v Las Palmas  0-2 (0-2)   @ Estadio Municipal Cartagonova › Cartagena
+              Huesca v Mirandes  4-0 (0-0)   @ Estadio El Alcoraz › Huesca
+    21.00     Tenerife v Leganes  0-0 (0-0)   @ Estadio Heliodoro Rodríguez Lopéz › Tenerife
+» Regular Season - 27
+  Fri Feb 11
+    21.00     Leganes v Zaragoza  2-1 (0-0)   @ Estadio Municipal de Butarque › Leganés
+  Sat Feb 12
+    16.00     Mirandes v Sporting Gijon  0-3 (0-1)   @ Estadio Municipal de Anduva › Miranda de Ebro
+    18.15     Ibiza v FC Cartagena  2-1 (1-1)   @ Estadio Can Misses-Power Electronic › Ibiza
+              Valladolid v Girona  2-2 (0-1)   @ Estadio Municipal José Zorrilla › Valladolid
+    20.30     Malaga v Almeria  0-1 (0-0)   @ Estadio La Rosaleda › Málaga
+  Sun Feb 13
+    14.00     Eibar v Fuenlabrada  0-0 (0-0)   @ Estadio Municipal de Ipurúa › Eibar
+    16.00     Oviedo v Huesca  3-3 (3-1)   @ Estadio Nuevo Carlos Tartiere › Oviedo
+    18.15     Alcorcon v Tenerife  0-2 (0-1)   @ Estadio Santo Domingo › Alcorcón
+              Lugo v Amorebieta  1-1 (1-0)   @ Estadio Anxo Carro › Lugo
+    21.00     Las Palmas v Burgos  0-2 (0-0)   @ Estadio de Gran Canaria › Las Palmas de Gran Canaria
+  Mon Feb 14
+    21.00     Ponferradina v Real Sociedad II  3-2 (1-0)   @ Estadio El Toralín › Ponferrada
+» Regular Season - 28
+  Fri Feb 18
+    21.00     FC Cartagena v Valladolid  2-3 (1-2)   @ Estadio Municipal Cartagonova › Cartagena
+  Sat Feb 19
+    16.00     Zaragoza v Las Palmas  2-1 (1-0)   @ Estadio de la Romareda › Zaragoza
+    18.15     Tenerife v Ibiza  2-0 (2-0)   @ Estadio Heliodoro Rodríguez Lopéz › Tenerife
+              Girona v Eibar  0-1 (0-1)   @ Estadi Municipal de Montilivi › Girona
+    21.00     Real Sociedad II v Malaga  2-0 (1-0)   @ Reale Arena › Donostia-San Sebastián
+  Sun Feb 20
+    14.00     Fuenlabrada v Alcorcon  2-2 (1-0)   @ Estadio Fernando Torres › Fuenlabrada
+    16.00     Burgos v Oviedo  0-1 (0-0)   @ Estadio Municipal de El Plantío › Burgos
+    18.15     Sporting Gijon v Ponferradina  2-3 (0-2)   @ Estadio Municipal El Molinón › Gijón
+              Huesca v Lugo  1-0 (0-0)   @ Estadio El Alcoraz › Huesca
+    21.00     Almeria v Mirandes  2-1 (0-0)   @ Estadio de los Juegos Mediterráneos › Almería
+  Mon Feb 21
+    21.00     Amorebieta v Leganes  1-3 (0-1)   @ Instalaciones de Lezama Campo 2 › Lezama
+» Regular Season - 29
+  Fri Feb 25
+    21.00     Almeria v Fuenlabrada  3-1 (1-1)   @ Estadio de los Juegos Mediterráneos › Almería
+  Sat Feb 26
+    16.00     Mirandes v Tenerife  2-1 (2-1)   @ Estadio Municipal de Anduva › Miranda de Ebro
+              Ibiza v Huesca  2-1 (1-1)   @ Estadio Can Misses-Power Electronic › Ibiza
+    18.15     Oviedo v Real Sociedad II  0-1 (0-0)   @ Estadio Nuevo Carlos Tartiere › Oviedo
+    21.00     Las Palmas v Lugo  2-2 (2-1)   @ Estadio de Gran Canaria › Las Palmas de Gran Canaria
+  Sun Feb 27
+    14.00     Eibar v Burgos  2-0 (1-0)   @ Estadio Municipal de Ipurúa › Eibar
+    16.00     Sporting Gijon v Zaragoza  1-2 (0-1)   @ Estadio Municipal El Molinón › Gijón
+    18.15     Valladolid v Amorebieta  5-1 (2-0)   @ Estadio Municipal José Zorrilla › Valladolid
+              Leganes v Girona  1-1 (1-1)   @ Estadio Municipal de Butarque › Leganés
+    21.00     Alcorcon v Ponferradina  2-2 (0-2)   @ Estadio Santo Domingo › Alcorcón
+  Mon Feb 28
+    21.00     Malaga v FC Cartagena  1-1 (0-0)   @ Estadio La Rosaleda › Málaga
+» Regular Season - 30
+  Fri Mar 4
+    21.00     Zaragoza v Almeria  2-0 (1-0)   @ Estadio de la Romareda › Zaragoza
+  Sat Mar 5
+    16.00     Fuenlabrada v Burgos  1-2 (0-1)   @ Estadio Fernando Torres › Fuenlabrada
+              Huesca v Las Palmas  0-0 (0-0)   @ Estadio El Alcoraz › Huesca
+    18.15     Tenerife v Valladolid  1-4 (0-1)   @ Estadio Heliodoro Rodríguez Lopéz › Tenerife
+  Sun Mar 6
+    14.00     Lugo v Alcorcon  1-0 (0-0)   @ Estadio Anxo Carro › Lugo
+    16.00     Ponferradina v Ibiza  1-1 (1-0)   @ Estadio El Toralín › Ponferrada
+    18.15     FC Cartagena v Eibar  4-1 (1-1)   @ Estadio Municipal Cartagonova › Cartagena
+              Amorebieta v Malaga  1-2 (0-1)   @ Instalaciones de Lezama Campo 2 › Lezama
+              Leganes v Mirandes  2-0 (2-0)   @ Estadio Municipal de Butarque › Leganés
+    21.00     Girona v Oviedo  2-1 (1-0)   @ Estadi Municipal de Montilivi › Girona
+  Mon Mar 7
+    21.00     Real Sociedad II v Sporting Gijon  2-1 (1-0)   @ Reale Arena › Donostia-San Sebastián
+» Regular Season - 31
+  Fri Mar 11
+    21.00     Zaragoza v Fuenlabrada  2-1 (0-1)   @ Estadio de la Romareda › Zaragoza
+  Sat Mar 12
+    16.00     Ibiza v Leganes  1-1 (0-0)   @ Estadio Can Misses-Power Electronic › Ibiza
+              Mirandes v FC Cartagena  2-1 (1-0)   @ Estadio Municipal de Anduva › Miranda de Ebro
+    18.15     Almeria v Lugo  3-3 (1-1)   @ Estadio de los Juegos Mediterráneos › Almería
+              Las Palmas v Girona  1-3 (1-0)   @ Estadio de Gran Canaria › Las Palmas de Gran Canaria
+    21.00     Malaga v Ponferradina  0-0 (0-0)   @ Estadio La Rosaleda › Málaga
+  Sun Mar 13
+    14.00     Burgos v Real Sociedad II  0-0 (0-0)   @ Estadio Municipal de El Plantío › Burgos
+    16.00     Eibar v Amorebieta  1-0 (1-0)   @ Estadio Municipal de Ipurúa › Eibar
+              Sporting Gijon v Tenerife  1-2 (0-0)   @ Estadio Municipal El Molinón › Gijón
+    18.15     Oviedo v Valladolid  3-0 (0-0)   @ Estadio Nuevo Carlos Tartiere › Oviedo
+              Alcorcon v Huesca  1-0 (0-0)   @ Estadio Santo Domingo › Alcorcón
+» Regular Season - 32
+  Fri Mar 18
+    21.00     Huesca v Burgos  1-0 (1-0)   @ Estadio El Alcoraz › Huesca
+  Sat Mar 19
+    14.00     Real Sociedad II v Mirandes  1-3 (1-0)   @ Reale Arena › Donostia-San Sebastián
+    16.00     FC Cartagena v Zaragoza  3-0 (1-0)   @ Estadio Municipal Cartagonova › Cartagena
+              Fuenlabrada v Malaga  1-0 (0-0)   @ Estadio Fernando Torres › Fuenlabrada
+    18.15     Lugo v Oviedo  1-1 (0-0)   @ Estadio Anxo Carro › Lugo
+              Valladolid v Las Palmas  0-1 (0-0)   @ Estadio Municipal José Zorrilla › Valladolid
+    21.00     Girona v Ibiza  5-1 (3-0)   @ Estadi Municipal de Montilivi › Girona
+  Sun Mar 20
+    14.00     Amorebieta v Alcorcon  0-0 (0-0)   @ Instalaciones de Lezama Campo 2 › Lezama
+    16.00     Ponferradina v Eibar  2-2 (2-0)   @ Estadio El Toralín › Ponferrada
+    18.15     Leganes v Sporting Gijon  1-1 (0-1)   @ Estadio Municipal de Butarque › Leganés
+  Mon Mar 21
+    21.00     Tenerife v Almeria  0-1 (0-0)   @ Estadio Heliodoro Rodríguez Lopéz › Tenerife
+» Regular Season - 33
+  Fri Mar 25
+    21.00     Zaragoza v Amorebieta  1-1 (0-0)   @ Estadio de la Romareda › Zaragoza
+  Sat Mar 26
+    14.00     Ibiza v Real Sociedad II  2-2 (1-1)   @ Estadio Can Misses-Power Electronic › Ibiza
+    16.00     Eibar v Lugo  1-0 (0-0)   @ Estadio Municipal de Ipurúa › Eibar
+    18.00     Sporting Gijon v FC Cartagena  4-1 (1-1)   @ Estadio Municipal El Molinón › Gijón
+    21.30     Oviedo v Fuenlabrada  3-0 (1-0)   @ Estadio Nuevo Carlos Tartiere › Oviedo
+  Sun Mar 27
+    14.00     Mirandes v Ponferradina  3-1 (2-0)   @ Estadio Municipal de Anduva › Miranda de Ebro
+    16.00     Burgos v Tenerife  1-0 (0-0)   @ Estadio Municipal de El Plantío › Burgos
+    18.15     Malaga v Huesca  0-2 (0-0)   @ Estadio La Rosaleda › Málaga
+              Alcorcon v Valladolid  1-2 (1-2)   @ Estadio Santo Domingo › Alcorcón
+    21.00     Almeria v Girona  0-1 (0-1)   @ Estadio de los Juegos Mediterráneos › Almería
+  Mon Mar 28
+    21.00     Las Palmas v Leganes  4-2 (3-1)   @ Estadio de Gran Canaria › Las Palmas de Gran Canaria
+» Regular Season - 34
+  Fri Apr 1
+    21.00     Girona v Malaga  1-0 (0-0)   @ Estadi Municipal de Montilivi › Girona
+  Sat Apr 2
+    16.00     Real Sociedad II v Alcorcon  2-4 (2-2)   @ Reale Arena › Donostia-San Sebastián
+              Valladolid v Lugo  4-1 (1-0)   @ Estadio Municipal José Zorrilla › Valladolid
+    18.15     Amorebieta v Ibiza  3-1 (0-0)   @ Instalaciones de Lezama Campo 2 › Lezama
+    20.30     Tenerife v Zaragoza  1-1 (1-1)   @ Estadio Heliodoro Rodríguez Lopéz › Tenerife
+  Sun Apr 3
+    14.00     FC Cartagena v Oviedo  1-2 (1-1)   @ Estadio Municipal Cartagonova › Cartagena
+    16.00     Burgos v Sporting Gijon  0-0 (0-0)   @ Estadio Municipal de El Plantío › Burgos
+              Ponferradina v Las Palmas  1-2 (1-0)   @ Estadio El Toralín › Ponferrada
+    18.15     Huesca v Almeria  1-1 (1-1)   @ Estadio El Alcoraz › Huesca
+              Eibar v Mirandes  1-1 (0-0)   @ Estadio Municipal de Ipurúa › Eibar
+  Mon Apr 4
+    21.00     Leganes v Fuenlabrada  3-2 (1-2)   @ Estadio Municipal de Butarque › Leganés
+» Regular Season - 35
+  Fri Apr 8
+    21.00     Lugo v FC Cartagena  1-0 (1-0)   @ Estadio Anxo Carro › Lugo
+  Sat Apr 9
+    16.00     Real Sociedad II v Tenerife  1-2 (0-1)   @ Reale Arena › Donostia-San Sebastián
+    18.15     Alcorcon v Sporting Gijon  1-1 (1-0)   @ Estadio Santo Domingo › Alcorcón
+              Malaga v Valladolid  2-2 (1-0)   @ Estadio La Rosaleda › Málaga
+    21.00     Las Palmas v Amorebieta  1-0 (0-0)   @ Estadio de Gran Canaria › Las Palmas de Gran Canaria
+  Sun Apr 10
+    14.00     Fuenlabrada v Huesca  2-3 (1-2)   @ Estadio Fernando Torres › Fuenlabrada
+    16.00     Zaragoza v Girona  1-0 (1-0)   @ Estadio de la Romareda › Zaragoza
+    18.15     Oviedo v Leganes  1-0 (0-0)   @ Estadio Nuevo Carlos Tartiere › Oviedo
+              Mirandes v Burgos  3-1 (1-1)   @ Estadio Municipal de Anduva › Miranda de Ebro
+              Ibiza v Eibar  2-0 (0-0)   @ Estadio Can Misses-Power Electronic › Ibiza
+  Mon Apr 11
+    21.00     Almeria v Ponferradina  3-0 (1-0)   @ Estadio de los Juegos Mediterráneos › Almería
+» Regular Season - 36
+  Fri Apr 15
+    18.30     Eibar v Las Palmas  2-2 (1-2)   @ Estadio Municipal de Ipurúa › Eibar
+    21.00     Amorebieta v Mirandes  1-0 (0-0)   @ Instalaciones de Lezama Campo 2 › Lezama
+  Sat Apr 16
+    16.00     Leganes v Malaga  0-3 (0-0)   @ Estadio Municipal de Butarque › Leganés
+    18.15     Valladolid v Almeria  2-2 (1-1)   @ Estadio Municipal José Zorrilla › Valladolid
+    20.30     Sporting Gijon v Oviedo  0-1 (0-0)   @ Estadio Municipal El Molinón › Gijón
+    21.00     FC Cartagena v Alcorcon  3-1 (1-1)   @ Estadio Municipal Cartagonova › Cartagena
+  Sun Apr 17
+    14.00     Ponferradina v Lugo  3-1 (1-0)   @ Estadio El Toralín › Ponferrada
+    16.00     Burgos v Ibiza  2-1 (1-0)   @ Estadio Municipal de El Plantío › Burgos
+    18.15     Huesca v Zaragoza  1-1 (1-1)   @ Estadio El Alcoraz › Huesca
+              Tenerife v Fuenlabrada  3-1 (2-0)   @ Estadio Heliodoro Rodríguez Lopéz › Tenerife
+  Mon Apr 18
+    19.00     Girona v Real Sociedad II  2-0 (0-0)   @ Estadi Municipal de Montilivi › Girona
+» Regular Season - 37
+  Fri Apr 22
+    21.00     Tenerife v Huesca  0-0 (0-0)   @ Estadio Heliodoro Rodríguez Lopéz › Tenerife
+  Sat Apr 23
+    14.00     Real Sociedad II v Amorebieta  2-1 (2-0)   @ Reale Arena › Donostia-San Sebastián
+    16.15     FC Cartagena v Girona  3-0 (2-0)   @ Estadio Municipal Cartagonova › Cartagena
+              Fuenlabrada v Ponferradina  2-3 (2-0)   @ Estadio Fernando Torres › Fuenlabrada
+    18.30     Malaga v Eibar  1-3 (1-1)   @ Estadio La Rosaleda › Málaga
+  Sun Apr 24
+    14.00     Alcorcon v Oviedo  1-2 (0-0)   @ Estadio Santo Domingo › Alcorcón
+    16.15     Ibiza v Las Palmas  1-1 (0-1)   @ Estadio Can Misses-Power Electronic › Ibiza
+              Mirandes v Valladolid  0-1 (0-1)   @ Estadio Municipal de Anduva › Miranda de Ebro
+    18.30     Lugo v Leganes  0-0 (0-0)   @ Estadio Anxo Carro › Lugo
+              Zaragoza v Burgos  0-0 (0-0)   @ Estadio de la Romareda › Zaragoza
+  Mon Apr 25
+    21.00     Almeria v Sporting Gijon  1-0 (0-0)   @ Estadio de los Juegos Mediterráneos › Almería
+» Regular Season - 38
+  Fri Apr 29
+    22.00     Las Palmas v Malaga  2-1 (1-0)   @ Estadio de Gran Canaria › Las Palmas de Gran Canaria
+  Sat Apr 30
+    16.00     Oviedo v Mirandes  3-0 (1-0)   @ Estadio Nuevo Carlos Tartiere › Oviedo
+    18.15     Eibar v Zaragoza  2-0 (0-0)   @ Estadio Municipal de Ipurúa › Eibar
+    20.30     Burgos v Almeria  0-2 (0-2)   @ Estadio Municipal de El Plantío › Burgos
+  Sun May 1
+    14.00     Amorebieta v Fuenlabrada  2-1 (1-0)   @ Instalaciones de Lezama Campo 2 › Lezama
+    16.00     Sporting Gijon v Ibiza  0-1 (0-1)   @ Estadio Municipal El Molinón › Gijón
+              Alcorcon v Girona  0-1 (0-1)   @ Estadio Santo Domingo › Alcorcón
+    18.15     Ponferradina v FC Cartagena  4-2 (3-2)   @ Estadio El Toralín › Ponferrada
+              Lugo v Tenerife  0-2 (0-0)   @ Estadio Anxo Carro › Lugo
+  Mon May 2
+    18.30     Leganes v Huesca  2-1 (1-1)   @ Estadio Municipal de Butarque › Leganés
+    21.00     Valladolid v Real Sociedad II  1-2 (0-0)   @ Estadio Municipal José Zorrilla › Valladolid
+» Regular Season - 39
+  Fri May 6
+    21.00     Las Palmas v Mirandes  1-0 (1-0)   @ Estadio de Gran Canaria › Las Palmas de Gran Canaria
+  Sat May 7
+    16.00     Fuenlabrada v Real Sociedad II  1-2 (1-0)   @ Estadio Fernando Torres › Fuenlabrada
+              Huesca v Sporting Gijon  1-1 (0-0)   @ Estadio El Alcoraz › Huesca
+    18.15     Almeria v Amorebieta  3-0 (0-0)   @ Estadio de los Juegos Mediterráneos › Almería
+              Malaga v Oviedo  0-0 (0-0)   @ Estadio La Rosaleda › Málaga
+    21.00     Ponferradina v Burgos  3-1 (2-0)   @ Estadio El Toralín › Ponferrada
+  Sun May 8
+    14.00     FC Cartagena v Leganes  0-0 (0-0)   @ Estadio Municipal Cartagonova › Cartagena
+    16.00     Eibar v Valladolid  0-2 (0-0)   @ Estadio Municipal de Ipurúa › Eibar
+    18.15     Ibiza v Lugo  1-1 (0-1)   @ Estadio Can Misses-Power Electronic › Ibiza
+              Zaragoza v Alcorcon  0-3 (0-1)   @ Estadio de la Romareda › Zaragoza
+  Mon May 9
+    21.00     Girona v Tenerife  0-1 (0-1)   @ Estadi Municipal de Montilivi › Girona
+» Regular Season - 40
+  Fri May 13
+    21.00     Real Sociedad II v Almeria  0-2 (0-1)   @ Reale Arena › Donostia-San Sebastián
+  Sat May 14
+    14.00     Amorebieta v Huesca  1-0 (0-0)   @ Instalaciones de Lezama Campo 2 › Lezama
+    16.00     Lugo v Fuenlabrada  1-3 (1-1)   @ Estadio Anxo Carro › Lugo
+              Burgos v FC Cartagena  1-1 (1-0)   @ Estadio Municipal de El Plantío › Burgos
+    18.15     Valladolid v Ponferradina  2-0 (1-0)   @ Estadio Municipal José Zorrilla › Valladolid
+    21.00     Leganes v Eibar  2-3 (1-2)   @ Estadio Municipal de Butarque › Leganés
+  Sun May 15
+    14.00     Alcorcon v Las Palmas  0-2 (0-1)   @ Estadio Santo Domingo › Alcorcón
+    16.00     Mirandes v Ibiza  4-0 (2-0)   @ Estadio Municipal de Anduva › Miranda de Ebro
+              Sporting Gijon v Girona  2-1 (2-1)   @ Estadio Municipal El Molinón › Gijón
+    21.00     Tenerife v Malaga  0-2 (0-1)   @ Estadio Heliodoro Rodríguez Lopéz › Tenerife
+  Mon May 16
+    21.00     Oviedo v Zaragoza  3-3 (2-3)   @ Estadio Nuevo Carlos Tartiere › Oviedo
+» Regular Season - 41
+  Fri May 20
+    21.00     Zaragoza v Lugo  1-0 (0-0)   @ Estadio de la Romareda › Zaragoza
+  Sat May 21
+    20.00     Huesca v Real Sociedad II  3-2 (2-0)   @ Estadio El Alcoraz › Huesca
+              Fuenlabrada v Sporting Gijon  0-0 (0-0)   @ Estadio Fernando Torres › Fuenlabrada
+              FC Cartagena v Amorebieta  5-0 (2-0)   @ Estadio Municipal Cartagonova › Cartagena
+              Malaga v Burgos  0-1 (0-1)   @ Estadio La Rosaleda › Málaga
+    22.00     Las Palmas v Oviedo  2-1 (1-1)   @ Estadio de Gran Canaria › Las Palmas de Gran Canaria
+              Eibar v Tenerife  2-0 (1-0)   @ Estadio Municipal de Ipurúa › Eibar
+              Girona v Mirandes  2-0 (1-0)   @ Estadi Municipal de Montilivi › Girona
+              Almeria v Alcorcon  1-1 (0-0)   @ Estadio de los Juegos Mediterráneos › Almería
+              Ponferradina v Leganes  0-3 (0-2)   @ Estadio El Toralín › Ponferrada
+              Ibiza v Valladolid  1-2 (0-1)   @ Estadio Can Misses-Power Electronic › Ibiza
+» Regular Season - 42
+  Fri May 27
+    21.00     Real Sociedad II v Zaragoza  1-2 (0-2)   @ Reale Arena › Donostia-San Sebastián
+              Mirandes v Fuenlabrada  5-1 (2-0)   @ Estadio Municipal de Anduva › Miranda de Ebro
+  Sat May 28
+    18.15     Lugo v Malaga  1-0 (0-0)   @ Estadio Anxo Carro › Lugo
+              Amorebieta v Ponferradina  1-0 (0-0)   @ Instalaciones de Lezama Campo 2 › Lezama
+  Sun May 29
+    20.00     Leganes v Almeria  2-2 (2-1)   @ Estadio Municipal de Butarque › Leganés
+              Alcorcon v Eibar  1-0 (0-0)   @ Estadio Santo Domingo › Alcorcón
+              Oviedo v Ibiza  3-2 (1-0)   @ Estadio Nuevo Carlos Tartiere › Oviedo
+              Tenerife v FC Cartagena  1-2 (0-2)   @ Estadio Heliodoro Rodríguez Lopéz › Tenerife
+              Valladolid v Huesca  3-0 (0-0)   @ Estadio Municipal José Zorrilla › Valladolid
+              Sporting Gijon v Las Palmas  0-1 (0-1)   @ Estadio Municipal El Molinón › Gijón
+              Burgos v Girona  0-0 (0-0)   @ Estadio Municipal de El Plantío › Burgos
+» Promotion Play-offs - Semi-finals
+  Wed Jun 1
+    21.00     Tenerife v Las Palmas  1-0 (1-0)   @ Estadio Heliodoro Rodríguez Lopéz › Tenerife
+  Thu Jun 2
+    19.00     Girona v Eibar  0-1 (0-1)   @ Estadi Municipal de Montilivi › Girona
+  Sat Jun 4
+    21.00     Las Palmas v Tenerife  1-2 (0-2)   @ Estadio de Gran Canaria › Las Palmas de Gran Canaria
+  Sun Jun 5
+    18.30     Eibar v Girona  0-1 (0-1)   @ Estadio Municipal de Ipurúa › Eibar
+» Promotion Play-offs - Finals
+  Sat Jun 11
+    21.00     Girona v Tenerife  0-0 (0-0)   @ Estadi Municipal de Montilivi › Girona
+  Sun Jun 19
+    21.00     Tenerife v Girona  1-3 (0-1)   @ Estadio Heliodoro Rodríguez Lopéz › Tenerife

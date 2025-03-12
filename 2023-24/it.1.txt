@@ -1,0 +1,567 @@
+= Italy | Serie A 2023/24
+
+  # Date       Sat Aug/19 2023 - Sun Jun/2 2024 (288d)
+  # Teams      20
+  # Matches    380
+
+  # Note - All times in Europe/Rome
+
+» Regular Season - 1
+  Sat Aug 19 2023
+    18.30     Frosinone v Napoli  1-3 (1-2)   @ Stadio Benito Stirpe › Frosinone
+  Sat Aug 19
+    18.30     Empoli v Verona  0-1 (0-0)   @ Stadio Carlo Castellani-Computer Gross Arena › Empoli
+    20.45     Inter v Monza  2-0 (1-0)   @ Stadio Giuseppe Meazza › Milano
+              Genoa v Fiorentina  1-4 (0-3)   @ Stadio Comunale Luigi Ferraris › Genova
+  Sun Aug 20
+    18.30     Sassuolo v Atalanta  0-2 (0-0)   @ MAPEI Stadium-Città del Tricolore › Reggio Emilia
+              AS Roma v Salernitana  2-2 (1-1)   @ Stadio Olimpico › Roma
+    20.45     Lecce v Lazio  2-1 (0-1)   @ Stadio Ettore Giardiniero-Via del Mare › Lecce
+              Udinese v Juventus  0-3 (0-3)   @ Bluenergy Stadium › Udine
+  Mon Aug 21
+    18.30     Torino v Cagliari  0-0 (0-0)   @ Stadio Olimpico Grande Torino › Torino
+    20.45     Bologna v AC Milan  0-2 (0-2)   @ Stadio Renato Dall'Ara › Bologna
+» Regular Season - 2
+  Sat Aug 26
+    18.30     Frosinone v Atalanta  2-1 (2-0)   @ Stadio Benito Stirpe › Frosinone
+              Monza v Empoli  2-0 (1-0)   @ U-Power Stadium › Monza
+    20.45     Verona v AS Roma  2-1 (2-0)   @ Stadio Marcantonio Bentegodi › Verona
+              AC Milan v Torino  4-1 (3-1)   @ Stadio Giuseppe Meazza › Milano
+  Sun Aug 27
+    18.30     Fiorentina v Lecce  2-2 (2-0)   @ Stadio Artemio Franchi › Firenze
+              Juventus v Bologna  1-1 (0-1)   @ Allianz Stadium › Torino
+    20.45     Lazio v Genoa  0-1 (0-1)   @ Stadio Olimpico › Roma
+              Napoli v Sassuolo  2-0 (1-0)   @ Stadio Diego Armando Maradona › Napoli
+  Mon Aug 28
+    18.30     Salernitana v Udinese  1-1 (0-0)   @ Stadio Arechi › Salerno
+    20.45     Cagliari v Inter  0-2 (0-2)   @ Unipol Domus › Cagliari
+» Regular Season - 3
+  Fri Sep 1
+    18.30     Sassuolo v Verona  3-1 (1-0)   @ MAPEI Stadium-Città del Tricolore › Reggio Emilia
+    20.45     AS Roma v AC Milan  1-2 (0-1)   @ Stadio Olimpico › Roma
+  Sat Sep 2
+    18.30     Udinese v Frosinone  0-0 (0-0)   @ Bluenergy Stadium › Udine
+              Bologna v Cagliari  2-1 (0-1)   @ Stadio Renato Dall'Ara › Bologna
+    20.45     Atalanta v Monza  3-0 (2-0)   @ Gewiss Stadium › Bergamo
+              Napoli v Lazio  1-2 (1-1)   @ Stadio Diego Armando Maradona › Napoli
+  Sun Sep 3
+    18.30     Inter v Fiorentina  4-0 (1-0)   @ Stadio Giuseppe Meazza › Milano
+              Torino v Genoa  1-0 (0-0)   @ Stadio Olimpico Grande Torino › Torino
+    20.45     Empoli v Juventus  0-2 (0-1)   @ Stadio Carlo Castellani-Computer Gross Arena › Empoli
+              Lecce v Salernitana  2-0 (1-0)   @ Stadio Ettore Giardiniero-Via del Mare › Lecce
+» Regular Season - 4
+  Sat Sep 16
+    15.00     Juventus v Lazio  3-1 (2-0)   @ Allianz Stadium › Torino
+    18.00     Inter v AC Milan  5-1 (2-0)   @ Stadio Giuseppe Meazza › Milano
+    20.45     Genoa v Napoli  2-2 (1-0)   @ Stadio Comunale Luigi Ferraris › Genova
+  Sun Sep 17
+    12.30     Cagliari v Udinese  0-0 (0-0)   @ Unipol Domus › Cagliari
+    15.00     Frosinone v Sassuolo  4-2 (1-2)   @ Stadio Benito Stirpe › Frosinone
+              Monza v Lecce  1-1 (1-1)   @ U-Power Stadium › Monza
+    18.00     Fiorentina v Atalanta  3-2 (2-1)   @ Stadio Artemio Franchi › Firenze
+    20.45     AS Roma v Empoli  7-0 (3-0)   @ Stadio Olimpico › Roma
+  Mon Sep 18
+    18.30     Salernitana v Torino  0-3 (0-2)   @ Stadio Arechi › Salerno
+    20.45     Verona v Bologna  0-0 (0-0)   @ Stadio Marcantonio Bentegodi › Verona
+» Regular Season - 5
+  Fri Sep 22
+    18.30     Salernitana v Frosinone  1-1 (0-1)   @ Stadio Arechi › Salerno
+    20.45     Lecce v Genoa  1-0 (0-0)   @ Stadio Ettore Giardiniero-Via del Mare › Lecce
+  Sat Sep 23
+    15.00     AC Milan v Verona  1-0 (1-0)   @ Stadio Giuseppe Meazza › Milano
+    18.00     Sassuolo v Juventus  4-2 (2-1)   @ MAPEI Stadium-Città del Tricolore › Reggio Emilia
+    20.45     Lazio v Monza  1-1 (1-1)   @ Stadio Olimpico › Roma
+  Sun Sep 24
+    12.30     Empoli v Inter  0-1 (0-0)   @ Stadio Carlo Castellani-Computer Gross Arena › Empoli
+    15.00     Udinese v Fiorentina  0-2 (0-1)   @ Bluenergy Stadium › Udine
+              Atalanta v Cagliari  2-0 (1-0)   @ Gewiss Stadium › Bergamo
+    18.00     Bologna v Napoli  0-0 (0-0)   @ Stadio Renato Dall'Ara › Bologna
+    20.45     Torino v AS Roma  1-1 (0-0)   @ Stadio Olimpico Grande Torino › Torino
+» Regular Season - 6
+  Tue Sep 26
+    20.45     Juventus v Lecce  1-0 (0-0)   @ Allianz Stadium › Torino
+  Wed Sep 27
+    18.30     Cagliari v AC Milan  1-3 (1-2)   @ Unipol Domus › Cagliari
+              Verona v Atalanta  0-1 (0-1)   @ Stadio Marcantonio Bentegodi › Verona
+              Empoli v Salernitana  1-0 (1-0)   @ Stadio Carlo Castellani-Computer Gross Arena › Empoli
+    20.45     Napoli v Udinese  4-1 (2-0)   @ Stadio Diego Armando Maradona › Napoli
+              Inter v Sassuolo  1-2 (1-0)   @ Stadio Giuseppe Meazza › Milano
+              Lazio v Torino  2-0 (0-0)   @ Stadio Olimpico › Roma
+  Thu Sep 28
+    18.30     Monza v Bologna  0-0 (0-0)   @ U-Power Stadium › Monza
+              Frosinone v Fiorentina  1-1 (0-1)   @ Stadio Benito Stirpe › Frosinone
+    20.45     Genoa v AS Roma  4-1 (2-1)   @ Stadio Comunale Luigi Ferraris › Genova
+» Regular Season - 7
+  Sat Sep 30
+    15.00     Lecce v Napoli  0-4 (0-1)   @ Stadio Ettore Giardiniero-Via del Mare › Lecce
+    18.00     AC Milan v Lazio  2-0 (0-0)   @ Stadio Giuseppe Meazza › Milano
+    20.45     Salernitana v Inter  0-4 (0-0)   @ Stadio Arechi › Salerno
+  Sun Oct 1
+    12.30     Bologna v Empoli  3-0 (1-0)   @ Stadio Renato Dall'Ara › Bologna
+    15.00     Udinese v Genoa  2-2 (1-2)   @ Bluenergy Stadium › Udine
+    18.00     Atalanta v Juventus  0-0 (0-0)   @ Gewiss Stadium › Bergamo
+    20.45     AS Roma v Frosinone  2-0 (1-0)   @ Stadio Olimpico › Roma
+  Mon Oct 2
+    18.30     Torino v Verona  0-0 (0-0)   @ Stadio Olimpico Grande Torino › Torino
+              Sassuolo v Monza  0-1 (0-0)   @ MAPEI Stadium-Città del Tricolore › Reggio Emilia
+    20.45     Fiorentina v Cagliari  3-0 (2-0)   @ Stadio Artemio Franchi › Firenze
+» Regular Season - 8
+  Fri Oct 6
+    18.30     Empoli v Udinese  0-0 (0-0)   @ Stadio Carlo Castellani-Computer Gross Arena › Empoli
+    20.45     Lecce v Sassuolo  1-1 (0-1)   @ Stadio Ettore Giardiniero-Via del Mare › Lecce
+  Sat Oct 7
+    15.00     Inter v Bologna  2-2 (2-1)   @ Stadio Giuseppe Meazza › Milano
+    18.00     Juventus v Torino  2-0 (0-0)   @ Allianz Stadium › Torino
+    20.45     Genoa v AC Milan  0-1 (0-0)   @ Stadio Comunale Luigi Ferraris › Genova
+  Sun Oct 8
+    12.30     Monza v Salernitana  3-0 (2-0)   @ U-Power Stadium › Monza
+    15.00     Lazio v Atalanta  3-2 (2-1)   @ Stadio Olimpico › Roma
+              Frosinone v Verona  2-1 (1-0)   @ Stadio Benito Stirpe › Frosinone
+    18.00     Cagliari v AS Roma  1-4 (0-2)   @ Unipol Domus › Cagliari
+    20.45     Napoli v Fiorentina  1-3 (1-1)   @ Stadio Diego Armando Maradona › Napoli
+» Regular Season - 9
+  Sat Oct 21
+    15.00     Verona v Napoli  1-3 (0-2)   @ Stadio Marcantonio Bentegodi › Verona
+    18.00     Torino v Inter  0-3 (0-0)   @ Stadio Olimpico Grande Torino › Torino
+    20.45     Sassuolo v Lazio  0-2 (0-2)   @ MAPEI Stadium-Città del Tricolore › Reggio Emilia
+  Sun Oct 22
+    12.30     AS Roma v Monza  1-0 (0-0)   @ Stadio Olimpico › Roma
+    15.00     Salernitana v Cagliari  2-2 (0-0)   @ Stadio Arechi › Salerno
+              Bologna v Frosinone  2-1 (2-0)   @ Stadio Renato Dall'Ara › Bologna
+    18.00     Atalanta v Genoa  2-0 (0-0)   @ Gewiss Stadium › Bergamo
+    20.45     AC Milan v Juventus  0-1 (0-0)   @ Stadio Giuseppe Meazza › Milano
+  Mon Oct 23
+    18.30     Udinese v Lecce  1-1 (0-0)   @ Bluenergy Stadium › Udine
+    20.45     Fiorentina v Empoli  0-2 (0-1)   @ Stadio Artemio Franchi › Firenze
+» Regular Season - 10
+  Fri Oct 27
+    20.45     Genoa v Salernitana  1-0 (1-0)   @ Stadio Comunale Luigi Ferraris › Genova
+  Sat Oct 28
+    15.00     Sassuolo v Bologna  1-1 (1-1)   @ MAPEI Stadium-Città del Tricolore › Reggio Emilia
+    18.00     Lecce v Torino  0-1 (0-1)   @ Stadio Ettore Giardiniero-Via del Mare › Lecce
+    20.45     Juventus v Verona  1-0 (0-0)   @ Allianz Stadium › Torino
+  Sun Oct 29
+    12.30     Cagliari v Frosinone  4-3 (0-2)   @ Unipol Domus › Cagliari
+    15.00     Monza v Udinese  1-1 (1-0)   @ U-Power Stadium › Monza
+    18.00     Inter v AS Roma  1-0 (0-0)   @ Stadio Giuseppe Meazza › Milano
+    20.45     Napoli v AC Milan  2-2 (0-2)   @ Stadio Diego Armando Maradona › Napoli
+  Mon Oct 30
+    18.30     Empoli v Atalanta  0-3 (0-2)   @ Stadio Carlo Castellani-Computer Gross Arena › Empoli
+    20.45     Lazio v Fiorentina  1-0 (0-0)   @ Stadio Olimpico › Roma
+» Regular Season - 11
+  Fri Nov 3
+    20.45     Bologna v Lazio  1-0 (0-0)   @ Stadio Renato Dall'Ara › Bologna
+  Sat Nov 4
+    15.00     Salernitana v Napoli  0-2 (0-1)   @ Stadio Arechi › Salerno
+    18.00     Atalanta v Inter  1-2 (0-1)   @ Gewiss Stadium › Bergamo
+    20.45     AC Milan v Udinese  0-1 (0-0)   @ Stadio Giuseppe Meazza › Milano
+  Sun Nov 5
+    12.30     Verona v Monza  1-3 (0-1)   @ Stadio Marcantonio Bentegodi › Verona
+    15.00     Cagliari v Genoa  2-1 (0-0)   @ Unipol Domus › Cagliari
+    18.00     AS Roma v Lecce  2-1 (0-0)   @ Stadio Olimpico › Roma
+    20.45     Fiorentina v Juventus  0-1 (0-1)   @ Stadio Artemio Franchi › Firenze
+  Mon Nov 6
+    18.30     Frosinone v Empoli  2-1 (0-0)   @ Stadio Benito Stirpe › Frosinone
+    20.45     Torino v Sassuolo  2-1 (1-1)   @ Stadio Olimpico Grande Torino › Torino
+» Regular Season - 12
+  Fri Nov 10
+    18.30     Sassuolo v Salernitana  2-2 (1-2)   @ MAPEI Stadium-Città del Tricolore › Reggio Emilia
+    20.45     Genoa v Verona  1-0 (1-0)   @ Stadio Comunale Luigi Ferraris › Genova
+  Sat Nov 11
+    15.00     Lecce v AC Milan  2-2 (0-2)   @ Stadio Ettore Giardiniero-Via del Mare › Lecce
+    18.00     Juventus v Cagliari  2-1 (0-0)   @ Allianz Stadium › Torino
+    20.45     Monza v Torino  1-1 (0-0)   @ U-Power Stadium › Monza
+  Sun Nov 12
+    12.30     Napoli v Empoli  0-1 (0-0)   @ Stadio Diego Armando Maradona › Napoli
+    15.00     Fiorentina v Bologna  2-1 (1-1)   @ Stadio Artemio Franchi › Firenze
+              Udinese v Atalanta  1-1 (1-0)   @ Bluenergy Stadium › Udine
+    18.00     Lazio v AS Roma  0-0 (0-0)   @ Stadio Olimpico › Roma
+    20.45     Inter v Frosinone  2-0 (1-0)   @ Stadio Giuseppe Meazza › Milano
+» Regular Season - 13
+  Sat Nov 25
+    15.00     Salernitana v Lazio  2-1 (0-1)   @ Stadio Arechi › Salerno
+    18.00     Atalanta v Napoli  1-2 (0-1)   @ Gewiss Stadium › Bergamo
+    20.45     AC Milan v Fiorentina  1-0 (1-0)   @ Stadio Giuseppe Meazza › Milano
+  Sun Nov 26
+    12.30     Cagliari v Monza  1-1 (1-0)   @ Unipol Domus › Cagliari
+    15.00     Empoli v Sassuolo  3-4 (2-2)   @ Stadio Carlo Castellani-Computer Gross Arena › Empoli
+              Frosinone v Genoa  2-1 (1-1)   @ Stadio Benito Stirpe › Frosinone
+    18.00     AS Roma v Udinese  3-1 (1-0)   @ Stadio Olimpico › Roma
+    20.45     Juventus v Inter  1-1 (1-1)   @ Allianz Stadium › Torino
+  Mon Nov 27
+    18.30     Verona v Lecce  2-2 (1-1)   @ Stadio Marcantonio Bentegodi › Verona
+    20.45     Bologna v Torino  2-0 (0-0)   @ Stadio Renato Dall'Ara › Bologna
+» Regular Season - 14
+  Fri Dec 1
+    20.45     Monza v Juventus  1-2 (0-1)   @ U-Power Stadium › Monza
+  Sat Dec 2
+    15.00     Genoa v Empoli  1-1 (1-0)   @ Stadio Comunale Luigi Ferraris › Genova
+    18.00     Lazio v Cagliari  1-0 (1-0)   @ Stadio Olimpico › Roma
+    20.45     AC Milan v Frosinone  3-1 (1-0)   @ Stadio Giuseppe Meazza › Milano
+  Sun Dec 3
+    12.30     Lecce v Bologna  1-1 (0-0)   @ Stadio Ettore Giardiniero-Via del Mare › Lecce
+    15.00     Fiorentina v Salernitana  3-0 (2-0)   @ Stadio Artemio Franchi › Firenze
+              Udinese v Verona  3-3 (2-1)   @ Bluenergy Stadium › Udine
+    18.00     Sassuolo v AS Roma  1-2 (1-0)   @ MAPEI Stadium-Città del Tricolore › Reggio Emilia
+    20.45     Napoli v Inter  0-3 (0-1)   @ Stadio Diego Armando Maradona › Napoli
+  Mon Dec 4
+    20.45     Torino v Atalanta  3-0 (1-0)   @ Stadio Olimpico Grande Torino › Torino
+» Regular Season - 15
+  Fri Dec 8
+    20.45     Juventus v Napoli  1-0 (0-0)   @ Allianz Stadium › Torino
+  Sat Dec 9
+    15.00     Verona v Lazio  1-1 (0-1)   @ Stadio Marcantonio Bentegodi › Verona
+    18.00     Atalanta v AC Milan  3-2 (1-1)   @ Gewiss Stadium › Bergamo
+    20.45     Inter v Udinese  4-0 (3-0)   @ Stadio Giuseppe Meazza › Milano
+  Sun Dec 10
+    12.30     Frosinone v Torino  0-0 (0-0)   @ Stadio Benito Stirpe › Frosinone
+    15.00     Monza v Genoa  1-0 (0-0)   @ U-Power Stadium › Monza
+    18.00     Salernitana v Bologna  1-2 (0-2)   @ Stadio Arechi › Salerno
+    20.45     AS Roma v Fiorentina  1-1 (1-0)   @ Stadio Olimpico › Roma
+  Mon Dec 11
+    18.30     Empoli v Lecce  1-1 (0-0)   @ Stadio Carlo Castellani-Computer Gross Arena › Empoli
+    20.45     Cagliari v Sassuolo  2-1 (0-1)   @ Unipol Domus › Cagliari
+» Regular Season - 16
+  Fri Dec 15
+    20.45     Genoa v Juventus  1-1 (0-1)   @ Stadio Comunale Luigi Ferraris › Genova
+  Sat Dec 16
+    15.00     Lecce v Frosinone  2-1 (1-1)   @ Stadio Ettore Giardiniero-Via del Mare › Lecce
+    18.00     Napoli v Cagliari  2-1 (0-0)   @ Stadio Diego Armando Maradona › Napoli
+    20.45     Torino v Empoli  1-0 (1-0)   @ Stadio Olimpico Grande Torino › Torino
+  Sun Dec 17
+    12.30     AC Milan v Monza  3-0 (2-0)   @ Stadio Giuseppe Meazza › Milano
+    15.00     Udinese v Sassuolo  2-2 (1-0)   @ Bluenergy Stadium › Udine
+              Fiorentina v Verona  1-0 (0-0)   @ Stadio Artemio Franchi › Firenze
+    18.00     Bologna v AS Roma  2-0 (1-0)   @ Stadio Renato Dall'Ara › Bologna
+    20.45     Lazio v Inter  0-2 (0-1)   @ Stadio Olimpico › Roma
+  Mon Dec 18
+    20.45     Atalanta v Salernitana  4-1 (0-1)   @ Gewiss Stadium › Bergamo
+» Regular Season - 17
+  Fri Dec 22
+    18.30     Empoli v Lazio  0-2 (0-1)   @ Stadio Carlo Castellani-Computer Gross Arena › Empoli
+              Sassuolo v Genoa  1-2 (1-0)   @ MAPEI Stadium-Città del Tricolore › Reggio Emilia
+    20.45     Salernitana v AC Milan  2-2 (1-1)   @ Stadio Arechi › Salerno
+              Monza v Fiorentina  0-1 (0-1)   @ U-Power Stadium › Monza
+  Sat Dec 23
+    12.30     Frosinone v Juventus  1-2 (0-1)   @ Stadio Benito Stirpe › Frosinone
+    15.00     Torino v Udinese  1-1 (0-0)   @ Stadio Olimpico Grande Torino › Torino
+              Bologna v Atalanta  1-0 (0-0)   @ Stadio Renato Dall'Ara › Bologna
+    18.00     Verona v Cagliari  2-0 (0-0)   @ Stadio Marcantonio Bentegodi › Verona
+              Inter v Lecce  2-0 (1-0)   @ Stadio Giuseppe Meazza › Milano
+    20.45     AS Roma v Napoli  2-0 (0-0)   @ Stadio Olimpico › Roma
+» Regular Season - 18
+  Fri Dec 29
+    18.30     Fiorentina v Torino  1-0 (0-0)   @ Stadio Artemio Franchi › Firenze
+              Napoli v Monza  0-0 (0-0)   @ Stadio Diego Armando Maradona › Napoli
+    20.45     Genoa v Inter  1-1 (1-1)   @ Stadio Comunale Luigi Ferraris › Genova
+              Lazio v Frosinone  3-1 (0-0)   @ Stadio Olimpico › Roma
+  Sat Dec 30
+    12.30     Atalanta v Lecce  1-0 (0-0)   @ Gewiss Stadium › Bergamo
+    15.00     Udinese v Bologna  3-0 (1-0)   @ Bluenergy Stadium › Udine
+              Cagliari v Empoli  0-0 (0-0)   @ Unipol Domus › Cagliari
+    18.00     Verona v Salernitana  0-1 (0-0)   @ Stadio Marcantonio Bentegodi › Verona
+              AC Milan v Sassuolo  1-0 (0-0)   @ Stadio Giuseppe Meazza › Milano
+    20.45     Juventus v AS Roma  1-0 (0-0)   @ Allianz Stadium › Torino
+» Regular Season - 19
+  Fri Jan 5 2024
+    20.45     Bologna v Genoa  1-1 (0-1)   @ Stadio Renato Dall'Ara › Bologna
+  Sat Jan 6
+    12.30     Inter v Verona  2-1 (1-0)   @ Stadio Giuseppe Meazza › Milano
+    15.00     Frosinone v Monza  2-3 (0-2)   @ Stadio Benito Stirpe › Frosinone
+    18.00     Lecce v Cagliari  1-1 (1-0)   @ Stadio Ettore Giardiniero-Via del Mare › Lecce
+    20.45     Sassuolo v Fiorentina  1-0 (1-0)   @ MAPEI Stadium-Città del Tricolore › Reggio Emilia
+  Sun Jan 7
+    12.30     Empoli v AC Milan  0-3 (0-2)   @ Stadio Carlo Castellani-Computer Gross Arena › Empoli
+    15.00     Torino v Napoli  3-0 (1-0)   @ Stadio Olimpico Grande Torino › Torino
+              Udinese v Lazio  1-2 (0-1)   @ Bluenergy Stadium › Udine
+    18.00     Salernitana v Juventus  1-2 (1-0)   @ Stadio Arechi › Salerno
+    20.45     AS Roma v Atalanta  1-1 (1-1)   @ Stadio Olimpico › Roma
+» Regular Season - 20
+  Sat Jan 13
+    15.00     Napoli v Salernitana  2-1 (1-1)   @ Stadio Diego Armando Maradona › Napoli
+              Genoa v Torino  0-0 (0-0)   @ Stadio Comunale Luigi Ferraris › Genova
+    18.00     Verona v Empoli  2-1 (1-0)   @ Stadio Marcantonio Bentegodi › Verona
+    20.45     Monza v Inter  1-5 (0-2)   @ U-Power Stadium › Monza
+  Sun Jan 14
+    12.30     Lazio v Lecce  1-0 (0-0)   @ Stadio Olimpico › Roma
+    15.00     Cagliari v Bologna  2-1 (1-1)   @ Unipol Domus › Cagliari
+    18.00     Fiorentina v Udinese  2-2 (0-1)   @ Stadio Artemio Franchi › Firenze
+    20.45     AC Milan v AS Roma  3-1 (1-0)   @ Stadio Giuseppe Meazza › Milano
+  Mon Jan 15
+    20.45     Atalanta v Frosinone  5-0 (3-0)   @ Gewiss Stadium › Bergamo
+  Tue Jan 16
+    20.45     Juventus v Sassuolo  3-0 (2-0)   @ Allianz Stadium › Torino
+» Regular Season - 21
+  Sat Jan 20
+    18.00     AS Roma v Verona  2-1 (2-0)   @ Stadio Olimpico › Roma
+    20.45     Udinese v AC Milan  2-3 (1-1)   @ Bluenergy Stadium › Udine
+  Sun Jan 21
+    12.30     Frosinone v Cagliari  3-1 (0-1)   @ Stadio Benito Stirpe › Frosinone
+    15.00     Empoli v Monza  3-0 (2-0)   @ Stadio Carlo Castellani-Computer Gross Arena › Empoli
+    18.00     Salernitana v Genoa  1-2 (1-1)   @ Stadio Arechi › Salerno
+    20.45     Lecce v Juventus  0-3 (0-0)   @ Stadio Ettore Giardiniero-Via del Mare › Lecce
+» Regular Season - 22
+  Fri Jan 26
+    20.45     Cagliari v Torino  1-2 (0-2)   @ Unipol Domus › Cagliari
+  Sat Jan 27
+    15.00     Atalanta v Udinese  2-0 (2-0)   @ Gewiss Stadium › Bergamo
+    18.00     Juventus v Empoli  1-1 (0-0)   @ Allianz Stadium › Torino
+    20.45     AC Milan v Bologna  2-2 (1-1)   @ Stadio Giuseppe Meazza › Milano
+  Sun Jan 28
+    12.30     Genoa v Lecce  2-1 (0-1)   @ Stadio Comunale Luigi Ferraris › Genova
+    15.00     Monza v Sassuolo  1-0 (1-0)   @ U-Power Stadium › Monza
+              Verona v Frosinone  1-1 (1-0)   @ Stadio Marcantonio Bentegodi › Verona
+    18.00     Lazio v Napoli  0-0 (0-0)   @ Stadio Olimpico › Roma
+    20.45     Fiorentina v Inter  0-1 (0-1)   @ Stadio Artemio Franchi › Firenze
+  Mon Jan 29
+    20.45     Salernitana v AS Roma  1-2 (0-0)   @ Stadio Arechi › Salerno
+» Regular Season - 23
+  Fri Feb 2
+    20.45     Lecce v Fiorentina  3-2 (1-0)   @ Stadio Ettore Giardiniero-Via del Mare › Lecce
+  Sat Feb 3
+    15.00     Empoli v Genoa  0-0 (0-0)   @ Stadio Carlo Castellani-Computer Gross Arena › Empoli
+              Udinese v Monza  0-0 (0-0)   @ Bluenergy Stadium › Udine
+    18.00     Frosinone v AC Milan  2-3 (1-1)   @ Stadio Benito Stirpe › Frosinone
+    20.45     Bologna v Sassuolo  4-2 (1-2)   @ Stadio Renato Dall'Ara › Bologna
+  Sun Feb 4
+    12.30     Torino v Salernitana  0-0 (0-0)   @ Stadio Olimpico Grande Torino › Torino
+    15.00     Napoli v Verona  2-1 (0-0)   @ Stadio Diego Armando Maradona › Napoli
+    18.00     Atalanta v Lazio  3-1 (2-0)   @ Gewiss Stadium › Bergamo
+    20.45     Inter v Juventus  1-0 (1-0)   @ Stadio Giuseppe Meazza › Milano
+  Mon Feb 5
+    20.45     AS Roma v Cagliari  4-0 (2-0)   @ Stadio Olimpico › Roma
+» Regular Season - 24
+  Fri Feb 9
+    20.45     Salernitana v Empoli  1-3 (0-1)   @ Stadio Arechi › Salerno
+  Sat Feb 10
+    15.00     Cagliari v Lazio  1-3 (0-1)   @ Unipol Domus › Cagliari
+    18.00     AS Roma v Inter  2-4 (2-1)   @ Stadio Olimpico › Roma
+    20.45     Sassuolo v Torino  1-1 (1-1)   @ MAPEI Stadium-Città del Tricolore › Reggio Emilia
+  Sun Feb 11
+    12.30     Fiorentina v Frosinone  5-1 (3-0)   @ Stadio Artemio Franchi › Firenze
+    15.00     Monza v Verona  0-0 (0-0)   @ U-Power Stadium › Monza
+              Bologna v Lecce  4-0 (2-0)   @ Stadio Renato Dall'Ara › Bologna
+    18.00     Genoa v Atalanta  1-4 (0-1)   @ Stadio Comunale Luigi Ferraris › Genova
+    20.45     AC Milan v Napoli  1-0 (1-0)   @ Stadio Giuseppe Meazza › Milano
+  Mon Feb 12
+    20.45     Juventus v Udinese  0-1 (0-1)   @ Allianz Stadium › Torino
+» Regular Season - 21
+  Wed Feb 14
+    19.00     Bologna v Fiorentina  2-0 (1-0)   @ Stadio Renato Dall'Ara › Bologna
+» Regular Season - 25
+  Fri Feb 16
+    19.00     Torino v Lecce  2-0 (0-0)   @ Stadio Olimpico Grande Torino › Torino
+    21.00     Inter v Salernitana  4-0 (3-0)   @ Stadio Giuseppe Meazza › Milano
+  Sat Feb 17
+    15.00     Napoli v Genoa  1-1 (0-0)   @ Stadio Diego Armando Maradona › Napoli
+    18.00     Verona v Juventus  2-2 (1-1)   @ Stadio Marcantonio Bentegodi › Verona
+    20.45     Atalanta v Sassuolo  3-0 (1-0)   @ Gewiss Stadium › Bergamo
+  Sun Feb 18
+    12.30     Lazio v Bologna  1-2 (1-1)   @ Stadio Olimpico › Roma
+    15.00     Empoli v Fiorentina  1-1 (0-1)   @ Stadio Carlo Castellani-Computer Gross Arena › Empoli
+              Udinese v Cagliari  1-1 (1-1)   @ Bluenergy Stadium › Udine
+    18.00     Frosinone v AS Roma  0-3 (0-1)   @ Stadio Benito Stirpe › Frosinone
+    20.45     Monza v AC Milan  4-2 (2-0)   @ U-Power Stadium › Monza
+» Regular Season - 21
+  Thu Feb 22
+    20.45     Torino v Lazio  0-2 (0-0)   @ Stadio Olimpico Grande Torino › Torino
+» Regular Season - 26
+  Fri Feb 23
+    20.45     Bologna v Verona  2-0 (1-0)   @ Stadio Renato Dall'Ara › Bologna
+  Sat Feb 24
+    15.00     Sassuolo v Empoli  2-3 (0-1)   @ MAPEI Stadium-Città del Tricolore › Reggio Emilia
+    18.00     Salernitana v Monza  0-2 (0-0)   @ Stadio Arechi › Salerno
+    20.45     Genoa v Udinese  2-0 (2-0)   @ Stadio Comunale Luigi Ferraris › Genova
+  Sun Feb 25
+    12.30     Juventus v Frosinone  3-2 (2-2)   @ Allianz Stadium › Torino
+    15.00     Cagliari v Napoli  1-1 (0-0)   @ Unipol Domus › Cagliari
+    18.00     Lecce v Inter  0-4 (0-1)   @ Stadio Ettore Giardiniero-Via del Mare › Lecce
+    20.45     AC Milan v Atalanta  1-1 (1-1)   @ Stadio Giuseppe Meazza › Milano
+  Mon Feb 26
+    18.30     AS Roma v Torino  3-2 (1-1)   @ Stadio Olimpico › Roma
+    20.45     Fiorentina v Lazio  2-1 (0-1)   @ Stadio Artemio Franchi › Firenze
+» Regular Season - 21
+  Wed Feb 28
+    18.00     Sassuolo v Napoli  1-6 (1-3)   @ MAPEI Stadium-Città del Tricolore › Reggio Emilia
+    20.45     Inter v Atalanta  4-0 (2-0)   @ Stadio Giuseppe Meazza › Milano
+» Regular Season - 27
+  Fri Mar 1
+    20.45     Lazio v AC Milan  0-1 (0-0)   @ Stadio Olimpico › Roma
+  Sat Mar 2
+    15.00     Udinese v Salernitana  1-1 (1-1)   @ Bluenergy Stadium › Udine
+    18.00     Monza v AS Roma  1-4 (0-2)   @ U-Power Stadium › Monza
+    20.45     Torino v Fiorentina  0-0 (0-0)   @ Stadio Olimpico Grande Torino › Torino
+  Sun Mar 3
+    12.30     Verona v Sassuolo  1-0 (0-0)   @ Stadio Marcantonio Bentegodi › Verona
+    15.00     Frosinone v Lecce  1-1 (1-0)   @ Stadio Benito Stirpe › Frosinone
+              Empoli v Cagliari  0-1 (0-0)   @ Stadio Carlo Castellani-Computer Gross Arena › Empoli
+    18.00     Atalanta v Bologna  1-2 (1-0)   @ Gewiss Stadium › Bergamo
+    20.45     Napoli v Juventus  2-1 (1-0)   @ Stadio Diego Armando Maradona › Napoli
+  Mon Mar 4
+    20.45     Inter v Genoa  2-1 (2-0)   @ Stadio Giuseppe Meazza › Milano
+» Regular Season - 28
+  Fri Mar 8
+    20.45     Napoli v Torino  1-1 (0-0)   @ Stadio Diego Armando Maradona › Napoli
+  Sat Mar 9
+    15.00     Cagliari v Salernitana  4-2 (2-0)   @ Unipol Domus › Cagliari
+              Sassuolo v Frosinone  1-0 (0-0)   @ MAPEI Stadium-Città del Tricolore › Reggio Emilia
+    18.00     Bologna v Inter  0-1 (0-1)   @ Stadio Renato Dall'Ara › Bologna
+    20.45     Genoa v Monza  2-3 (0-2)   @ Stadio Comunale Luigi Ferraris › Genova
+  Sun Mar 10
+    12.30     Lecce v Verona  0-1 (0-1)   @ Stadio Ettore Giardiniero-Via del Mare › Lecce
+    15.00     AC Milan v Empoli  1-0 (1-0)   @ Stadio Giuseppe Meazza › Milano
+    18.00     Juventus v Atalanta  2-2 (0-1)   @ Allianz Stadium › Torino
+    20.45     Fiorentina v AS Roma  2-2 (1-0)   @ Stadio Artemio Franchi › Firenze
+  Mon Mar 11
+    20.45     Lazio v Udinese  1-2 (0-0)   @ Stadio Olimpico › Roma
+» Regular Season - 29
+  Fri Mar 15
+    20.45     Empoli v Bologna  0-1 (0-0)   @ Stadio Carlo Castellani-Computer Gross Arena › Empoli
+  Sat Mar 16
+    15.00     Udinese v Torino  0-2 (0-1)   @ Bluenergy Stadium › Udine
+              Monza v Cagliari  1-0 (1-0)   @ U-Power Stadium › Monza
+    18.00     Salernitana v Lecce  0-1 (0-1)   @ Stadio Arechi › Salerno
+    20.45     Frosinone v Lazio  2-3 (1-1)   @ Stadio Benito Stirpe › Frosinone
+  Sun Mar 17
+    12.30     Juventus v Genoa  0-0 (0-0)   @ Allianz Stadium › Torino
+    15.00     Verona v AC Milan  1-3 (0-1)   @ Stadio Marcantonio Bentegodi › Verona
+    18.00     AS Roma v Sassuolo  1-0 (0-0)   @ Stadio Olimpico › Roma
+    20.45     Inter v Napoli  1-1 (1-0)   @ Stadio Giuseppe Meazza › Milano
+» Regular Season - 30
+  Sat Mar 30
+    12.30     Napoli v Atalanta  0-3 (0-2)   @ Stadio Diego Armando Maradona › Napoli
+    15.00     Torino v Monza  1-0 (0-0)   @ Stadio Olimpico Grande Torino › Torino
+              Genoa v Frosinone  1-1 (1-1)   @ Stadio Comunale Luigi Ferraris › Genova
+    18.00     Lazio v Juventus  1-0 (0-0)   @ Stadio Olimpico › Roma
+    20.45     Fiorentina v AC Milan  1-2 (0-0)   @ Stadio Artemio Franchi › Firenze
+  Mon Apr 1
+    12.30     Bologna v Salernitana  3-0 (2-0)   @ Stadio Renato Dall'Ara › Bologna
+    15.00     Cagliari v Verona  1-1 (0-1)   @ Unipol Domus › Cagliari
+              Sassuolo v Udinese  1-1 (1-1)   @ MAPEI Stadium-Città del Tricolore › Reggio Emilia
+    18.00     Lecce v AS Roma  0-0 (0-0)   @ Stadio Ettore Giardiniero-Via del Mare › Lecce
+    20.45     Inter v Empoli  2-0 (1-0)   @ Stadio Giuseppe Meazza › Milano
+» Regular Season - 31
+  Fri Apr 5
+    20.45     Salernitana v Sassuolo  2-2 (0-2)   @ Stadio Arechi › Salerno
+  Sat Apr 6
+    15.00     AC Milan v Lecce  3-0 (2-0)   @ Stadio Giuseppe Meazza › Milano
+    18.00     AS Roma v Lazio  1-0 (1-0)   @ Stadio Olimpico › Roma
+    20.45     Empoli v Torino  3-2 (1-0)   @ Stadio Carlo Castellani-Computer Gross Arena › Empoli
+  Sun Apr 7
+    12.30     Frosinone v Bologna  0-0 (0-0)   @ Stadio Benito Stirpe › Frosinone
+    15.00     Monza v Napoli  2-4 (1-0)   @ U-Power Stadium › Monza
+    18.00     Verona v Genoa  1-2 (1-1)   @ Stadio Marcantonio Bentegodi › Verona
+              Cagliari v Atalanta  2-1 (1-1)   @ Unipol Domus › Cagliari
+    20.45     Juventus v Fiorentina  1-0 (1-0)   @ Allianz Stadium › Torino
+  Mon Apr 8
+    20.45     Udinese v Inter  1-2 (1-0)   @ Bluenergy Stadium › Udine
+» Regular Season - 32
+  Fri Apr 12
+    20.45     Lazio v Salernitana  4-1 (3-1)   @ Stadio Olimpico › Roma
+  Sat Apr 13
+    15.00     Lecce v Empoli  1-0 (0-0)   @ Stadio Ettore Giardiniero-Via del Mare › Lecce
+    18.00     Torino v Juventus  0-0 (0-0)   @ Stadio Olimpico Grande Torino › Torino
+    20.45     Bologna v Monza  0-0 (0-0)   @ Stadio Renato Dall'Ara › Bologna
+  Sun Apr 14
+    12.30     Napoli v Frosinone  2-2 (1-0)   @ Stadio Diego Armando Maradona › Napoli
+    15.00     Sassuolo v AC Milan  3-3 (2-1)   @ MAPEI Stadium-Città del Tricolore › Reggio Emilia
+    20.45     Inter v Cagliari  2-2 (1-0)   @ Stadio Giuseppe Meazza › Milano
+  Mon Apr 15
+    18.30     Fiorentina v Genoa  1-1 (0-1)   @ Stadio Artemio Franchi › Firenze
+    20.45     Atalanta v Verona  2-2 (2-0)   @ Gewiss Stadium › Bergamo
+» Regular Season - 33
+  Fri Apr 19
+    18.30     Genoa v Lazio  0-1 (0-0)   @ Stadio Comunale Luigi Ferraris › Genova
+    20.45     Cagliari v Juventus  2-2 (2-0)   @ Unipol Domus › Cagliari
+  Sat Apr 20
+    18.00     Empoli v Napoli  1-0 (1-0)   @ Stadio Carlo Castellani-Computer Gross Arena › Empoli
+    20.45     Verona v Udinese  1-0 (0-0)   @ Stadio Marcantonio Bentegodi › Verona
+  Sun Apr 21
+    12.30     Sassuolo v Lecce  0-3 (0-2)   @ MAPEI Stadium-Città del Tricolore › Reggio Emilia
+    15.00     Torino v Frosinone  0-0 (0-0)   @ Stadio Olimpico Grande Torino › Torino
+    18.00     Salernitana v Fiorentina  0-2 (0-0)   @ Stadio Arechi › Salerno
+    20.45     Monza v Atalanta  1-2 (0-1)   @ U-Power Stadium › Monza
+  Mon Apr 22
+    18.30     AS Roma v Bologna  1-3 (0-2)   @ Stadio Olimpico › Roma
+    20.45     AC Milan v Inter  1-2 (0-1)   @ Stadio Giuseppe Meazza › Milano
+» Regular Season - 32
+  Thu Apr 25
+    18.00     Udinese v AS Roma  1-2 (1-0)   @ Bluenergy Stadium › Udine
+» Regular Season - 34
+  Fri Apr 26
+    20.45     Frosinone v Salernitana  3-0 (2-0)   @ Stadio Benito Stirpe › Frosinone
+  Sat Apr 27
+    15.00     Lecce v Monza  1-1 (0-0)   @ Stadio Ettore Giardiniero-Via del Mare › Lecce
+    18.00     Juventus v AC Milan  0-0 (0-0)   @ Allianz Stadium › Torino
+    20.45     Lazio v Verona  1-0 (0-0)   @ Stadio Olimpico › Roma
+  Sun Apr 28
+    12.30     Inter v Torino  2-0 (0-0)   @ Stadio Giuseppe Meazza › Milano
+    15.00     Bologna v Udinese  1-1 (0-1)   @ Stadio Renato Dall'Ara › Bologna
+    18.00     Atalanta v Empoli  2-0 (1-0)   @ Gewiss Stadium › Bergamo
+              Napoli v AS Roma  2-2 (0-0)   @ Stadio Diego Armando Maradona › Napoli
+    20.45     Fiorentina v Sassuolo  5-1 (1-0)   @ Stadio Artemio Franchi › Firenze
+  Mon Apr 29
+    20.45     Genoa v Cagliari  3-0 (2-0)   @ Stadio Comunale Luigi Ferraris › Genova
+» Regular Season - 35
+  Fri May 3
+    20.45     Torino v Bologna  0-0 (0-0)   @ Stadio Olimpico Grande Torino › Torino
+  Sat May 4
+    18.00     Monza v Lazio  2-2 (0-1)   @ U-Power Stadium › Monza
+    20.45     Sassuolo v Inter  1-0 (1-0)   @ MAPEI Stadium-Città del Tricolore › Reggio Emilia
+  Sun May 5
+    12.30     Cagliari v Lecce  1-1 (1-0)   @ Unipol Domus › Cagliari
+    15.00     Empoli v Frosinone  0-0 (0-0)   @ Stadio Carlo Castellani-Computer Gross Arena › Empoli
+              Verona v Fiorentina  2-1 (1-1)   @ Stadio Marcantonio Bentegodi › Verona
+    18.00     AC Milan v Genoa  3-3 (1-1)   @ Stadio Giuseppe Meazza › Milano
+    20.45     AS Roma v Juventus  1-1 (1-1)   @ Stadio Olimpico › Roma
+  Mon May 6
+    18.00     Salernitana v Atalanta  1-2 (1-0)   @ Stadio Arechi › Salerno
+    20.45     Udinese v Napoli  1-1 (0-0)   @ Bluenergy Stadium › Udine
+» Regular Season - 36
+  Fri May 10
+    20.45     Frosinone v Inter  0-5 (0-1)   @ Stadio Benito Stirpe › Frosinone
+  Sat May 11
+    18.00     Napoli v Bologna  0-2 (0-2)   @ Stadio Diego Armando Maradona › Napoli
+    20.45     AC Milan v Cagliari  5-1 (1-0)   @ Stadio Giuseppe Meazza › Milano
+  Sun May 12
+    12.30     Lazio v Empoli  2-0 (1-0)   @ Stadio Olimpico › Roma
+    15.00     Verona v Torino  1-2 (0-0)   @ Stadio Marcantonio Bentegodi › Verona
+              Genoa v Sassuolo  2-1 (0-1)   @ Stadio Comunale Luigi Ferraris › Genova
+    18.00     Juventus v Salernitana  1-1 (0-1)   @ Allianz Stadium › Torino
+    20.45     Atalanta v AS Roma  2-1 (2-0)   @ Gewiss Stadium › Bergamo
+  Mon May 13
+    18.30     Lecce v Udinese  0-2 (0-1)   @ Stadio Ettore Giardiniero-Via del Mare › Lecce
+    20.45     Fiorentina v Monza  2-1 (1-1)   @ Stadio Artemio Franchi › Firenze
+» Regular Season - 37
+  Fri May 17
+    20.45     Fiorentina v Napoli  2-2 (2-1)   @ Stadio Artemio Franchi › Firenze
+  Sat May 18
+    18.00     Lecce v Atalanta  0-2 (0-0)   @ Stadio Ettore Giardiniero-Via del Mare › Lecce
+    20.45     Torino v AC Milan  3-1 (2-0)   @ Stadio Olimpico Grande Torino › Torino
+  Sun May 19
+    12.30     Sassuolo v Cagliari  0-2 (0-0)   @ MAPEI Stadium-Città del Tricolore › Reggio Emilia
+    15.00     Udinese v Empoli  1-1 (0-0)   @ Bluenergy Stadium › Udine
+              Monza v Frosinone  0-1 (0-1)   @ U-Power Stadium › Monza
+    18.00     Inter v Lazio  1-1 (0-1)   @ Stadio Giuseppe Meazza › Milano
+    20.45     AS Roma v Genoa  1-0 (0-0)   @ Stadio Olimpico › Roma
+  Mon May 20
+    18.30     Salernitana v Verona  1-2 (0-2)   @ Stadio Arechi › Salerno
+    20.45     Bologna v Juventus  3-3 (2-0)   @ Stadio Renato Dall'Ara › Bologna
+» Regular Season - 38
+  Thu May 23
+    20.45     Cagliari v Fiorentina  2-3 (0-1)   @ Unipol Domus › Cagliari
+  Fri May 24
+    20.45     Genoa v Bologna  2-0 (1-0)   @ Stadio Comunale Luigi Ferraris › Genova
+  Sat May 25
+    18.00     Juventus v Monza  2-0 (2-0)   @ Allianz Stadium › Torino
+    20.45     AC Milan v Salernitana  3-3 (2-0)   @ Stadio Giuseppe Meazza › Milano
+  Sun May 26
+    18.00     Atalanta v Torino  3-0 (2-0)   @ Gewiss Stadium › Bergamo
+              Napoli v Lecce  0-0 (0-0)   @ Stadio Diego Armando Maradona › Napoli
+    20.45     Lazio v Sassuolo  1-1 (0-0)   @ Stadio Olimpico › Roma
+              Verona v Inter  2-2 (2-2)   @ Stadio Marcantonio Bentegodi › Verona
+              Empoli v AS Roma  2-1 (1-1)   @ Stadio Carlo Castellani-Computer Gross Arena › Empoli
+              Frosinone v Udinese  0-1 (0-0)   @ Stadio Benito Stirpe › Frosinone
+» Regular Season - 29
+  Sun Jun 2
+    18.00     Atalanta v Fiorentina  2-3 (2-3)   @ Gewiss Stadium › Bergamo

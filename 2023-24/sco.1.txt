@@ -1,0 +1,400 @@
+= Scotland | Premiership 2023/24
+
+  # Date       Sat Aug/5 2023 - Sun May/26 2024 (295d)
+  # Teams      15
+  # Matches    234
+
+  # Note - All times in Europe/London
+
+» 1st Phase - 1
+  Sat Aug 5 2023
+    12.30     Celtic v Ross County  4-2 (3-0)   @ Celtic Park › Glasgow
+  Sat Aug 5
+    15.00     Livingston v Aberdeen  0-0 (0-0)   @ Tony Macaroni Arena › Livingston
+              ST Johnstone v Heart Of Midlothian  0-2 (0-0)   @ McDiarmid Park › Perth
+              Dundee v Motherwell  1-1 (0-1)   @ The Scot Foam Stadium at Dens Park › Dundee
+    17.15     Kilmarnock v Rangers  1-0 (0-0)   @ The BBSP Stadium Rugby Park › Kilmarnock
+  Sun Aug 6
+    15.00     Hibernian v ST Mirren  2-3 (0-2)   @ Easter Road Stadium › Edinburgh
+» 1st Phase - 2
+  Sat Aug 12
+    15.00     ST Mirren v Dundee  2-1 (2-0)   @ The SMISA Stadium › Paisley
+              Rangers v Livingston  4-0 (1-0)   @ Ibrox Stadium › Glasgow
+              Ross County v ST Johnstone  2-0 (1-0)   @ Global Energy Stadium › Dingwall
+  Sun Aug 13
+    12.00     Aberdeen v Celtic  1-3 (1-2)   @ Pittodrie Stadium › Aberdeen
+    15.00     Motherwell v Hibernian  2-1 (0-0)   @ Fir Park › Motherwell
+              Heart Of Midlothian v Kilmarnock  0-0 (0-0)   @ Tynecastle Park › Edinburgh
+» 1st Phase - 3
+  Sat Aug 26
+    12.30     Ross County v Rangers  0-2 (0-2)   @ Global Energy Stadium › Dingwall
+    15.00     Hibernian v Livingston  2-3 (0-1)   @ Easter Road Stadium › Edinburgh
+              Motherwell v Kilmarnock  2-1 (0-1)   @ Fir Park › Motherwell
+              Celtic v ST Johnstone  0-0 (0-0)   @ Celtic Park › Glasgow
+  Sun Aug 27
+    15.00     Dundee v Heart Of Midlothian  1-0 (0-0)   @ The Scot Foam Stadium at Dens Park › Dundee
+              ST Mirren v Aberdeen  2-2 (0-1)   @ The SMISA Stadium › Paisley
+» 1st Phase - 4
+  Sat Sep 2
+    15.00     Kilmarnock v Ross County  0-1 (0-0)   @ The BBSP Stadium Rugby Park › Kilmarnock
+              Livingston v ST Mirren  1-1 (0-0)   @ Tony Macaroni Arena › Livingston
+              ST Johnstone v Dundee  2-2 (0-1)   @ McDiarmid Park › Perth
+  Sun Sep 3
+    12.00     Rangers v Celtic  0-1 (0-1)   @ Ibrox Stadium › Glasgow
+    15.00     Heart Of Midlothian v Motherwell  0-1 (0-1)   @ Tynecastle Park › Edinburgh
+              Aberdeen v Hibernian  0-2 (0-0)   @ Pittodrie Stadium › Aberdeen
+» 1st Phase - 5
+  Sat Sep 16
+    12.30     ST Johnstone v Rangers  0-2 (0-1)   @ McDiarmid Park › Perth
+    15.00     Celtic v Dundee  3-0 (0-0)   @ Celtic Park › Glasgow
+              Kilmarnock v Hibernian  2-2 (0-1)   @ The BBSP Stadium Rugby Park › Kilmarnock
+              Heart Of Midlothian v Aberdeen  2-0 (1-0)   @ Tynecastle Park › Edinburgh
+              Motherwell v ST Mirren  0-1 (0-0)   @ Fir Park › Motherwell
+              Ross County v Livingston  1-1 (0-0)   @ Global Energy Stadium › Dingwall
+» 1st Phase - 6
+  Sat Sep 23
+    12.30     Livingston v Celtic  0-3 (0-1)   @ Tony Macaroni Arena › Livingston
+    15.00     ST Mirren v Heart Of Midlothian  1-0 (1-0)   @ The SMISA Stadium › Paisley
+              Dundee v Kilmarnock  2-2 (1-1)   @ The Scot Foam Stadium at Dens Park › Dundee
+              Hibernian v ST Johnstone  2-0 (1-0)   @ Easter Road Stadium › Edinburgh
+  Sun Sep 24
+    15.00     Rangers v Motherwell  1-0 (1-0)   @ Ibrox Stadium › Glasgow
+              Aberdeen v Ross County  4-0 (2-0)   @ Pittodrie Stadium › Aberdeen
+» 1st Phase - 7
+  Sat Sep 30
+    12.30     Motherwell v Celtic  1-2 (0-0)   @ Fir Park › Motherwell
+    15.00     Kilmarnock v ST Mirren  1-1 (1-1)   @ The BBSP Stadium Rugby Park › Kilmarnock
+              Rangers v Aberdeen  1-3 (0-1)   @ Ibrox Stadium › Glasgow
+              ST Johnstone v Livingston  1-1 (1-0)   @ McDiarmid Park › Perth
+              Ross County v Heart Of Midlothian  0-1 (0-0)   @ Global Energy Stadium › Dingwall
+              Hibernian v Dundee  0-0 (0-0)   @ Easter Road Stadium › Edinburgh
+» 1st Phase - 8
+  Sat Oct 7
+    15.00     Celtic v Kilmarnock  3-1 (2-0)   @ Celtic Park › Glasgow
+              Heart Of Midlothian v Hibernian  2-2 (1-0)   @ Tynecastle Park › Edinburgh
+              Livingston v Motherwell  2-0 (0-0)   @ Tony Macaroni Arena › Livingston
+  Sun Oct 8
+    12.00     ST Mirren v Rangers  0-3 (0-1)   @ The SMISA Stadium › Paisley
+    15.00     Aberdeen v ST Johnstone  0-0 (0-0)   @ Pittodrie Stadium › Aberdeen
+» 1st Phase - 9
+  Sat Oct 21
+    15.00     Rangers v Hibernian  4-0 (2-0)   @ Ibrox Stadium › Glasgow
+              Kilmarnock v Livingston  3-1 (2-1)   @ The BBSP Stadium Rugby Park › Kilmarnock
+  Sun Oct 22
+    14.15     Heart Of Midlothian v Celtic  1-4 (0-2)   @ Tynecastle Park › Edinburgh
+» 1st Phase - 8
+  Tue Oct 24
+    19.45     Dundee v Ross County  0-0 (0-0)   @ The Scot Foam Stadium at Dens Park › Dundee
+» 1st Phase - 10
+  Sat Oct 28
+    15.00     Hibernian v Celtic  0-0 (0-0)   @ Easter Road Stadium › Edinburgh
+              ST Mirren v ST Johnstone  4-0 (1-0)   @ The SMISA Stadium › Paisley
+              Livingston v Dundee  0-2 (0-0)   @ Tony Macaroni Arena › Livingston
+              Motherwell v Ross County  3-3 (0-0)   @ Fir Park › Motherwell
+  Sun Oct 29
+    12.00     Kilmarnock v Aberdeen  2-0 (1-0)   @ The BBSP Stadium Rugby Park › Kilmarnock
+    15.00     Rangers v Heart Of Midlothian  2-1 (0-1)   @ Ibrox Stadium › Glasgow
+» 1st Phase - 11
+  Tue Oct 31
+    19.45     Hibernian v Ross County  2-2 (1-0)   @ Easter Road Stadium › Edinburgh
+  Wed Nov 1
+    19.45     Celtic v ST Mirren  2-1 (1-1)   @ Celtic Park › Glasgow
+              Heart Of Midlothian v Livingston  1-0 (0-0)   @ Tynecastle Park › Edinburgh
+              Motherwell v Aberdeen  2-4 (0-2)   @ Fir Park › Motherwell
+              ST Johnstone v Kilmarnock  2-1 (2-0)   @ McDiarmid Park › Perth
+    20.30     Dundee v Rangers  0-5 (0-1)   @ The Scot Foam Stadium at Dens Park › Dundee
+» 1st Phase - 12
+  Sat Nov 4
+    12.30     Ross County v Celtic  0-3 (0-1)   @ Global Energy Stadium › Dingwall
+    15.00     Kilmarnock v Motherwell  1-0 (0-0)   @ The BBSP Stadium Rugby Park › Kilmarnock
+» 1st Phase - 16
+  Sun Nov 5
+    14.00     Dundee v Livingston  1-0 (0-0)   @ The Scot Foam Stadium at Dens Park › Dundee
+» 1st Phase - 9
+  Tue Nov 7
+    19.45     ST Johnstone v Motherwell  2-2 (2-0)   @ McDiarmid Park › Perth
+» 1st Phase - 12
+  Wed Nov 8
+    19.45     ST Mirren v Hibernian  2-2 (0-1)   @ The SMISA Stadium › Paisley
+» 1st Phase - 13
+  Sat Nov 11
+    15.00     Hibernian v Kilmarnock  1-0 (1-0)   @ Easter Road Stadium › Edinburgh
+              Dundee v ST Mirren  4-0 (2-0)   @ The Scot Foam Stadium at Dens Park › Dundee
+              Motherwell v Heart Of Midlothian  1-2 (0-1)   @ Fir Park › Motherwell
+              ST Johnstone v Ross County  1-0 (0-0)   @ McDiarmid Park › Perth
+  Sun Nov 12
+    12.00     Livingston v Rangers  0-2 (0-1)   @ Tony Macaroni Arena › Livingston
+    14.30     Celtic v Aberdeen  6-0 (2-0)   @ Celtic Park › Glasgow
+» 1st Phase - 14
+  Sat Nov 25
+    15.00     Celtic v Motherwell  1-1 (0-0)   @ Celtic Park › Glasgow
+              ST Mirren v Livingston  1-0 (1-0)   @ The SMISA Stadium › Paisley
+              Dundee v Hibernian  1-2 (0-1)   @ The Scot Foam Stadium at Dens Park › Dundee
+              Heart Of Midlothian v ST Johnstone  1-0 (0-0)   @ Tynecastle Park › Edinburgh
+              Ross County v Kilmarnock  0-0 (0-0)   @ Global Energy Stadium › Dingwall
+  Sun Nov 26
+    12.00     Aberdeen v Rangers  1-1 (1-0)   @ Pittodrie Stadium › Aberdeen
+» 1st Phase - 9
+  Tue Nov 28
+    19.45     Ross County v ST Mirren  1-0 (0-0)   @ Global Energy Stadium › Dingwall
+» 1st Phase - 15
+  Sat Dec 2
+    15.00     Motherwell v Dundee  3-3 (1-2)   @ Fir Park › Motherwell
+              Kilmarnock v Heart Of Midlothian  0-1 (0-1)   @ The BBSP Stadium Rugby Park › Kilmarnock
+  Sun Dec 3
+    12.00     ST Johnstone v Celtic  1-3 (1-0)   @ McDiarmid Park › Perth
+    15.00     Rangers v ST Mirren  2-0 (1-0)   @ Ibrox Stadium › Glasgow
+              Hibernian v Aberdeen  2-0 (1-0)   @ Easter Road Stadium › Edinburgh
+» 1st Phase - 16
+  Tue Dec 5
+    19.45     Ross County v Motherwell  3-0 (2-0)   @ Global Energy Stadium › Dingwall
+  Wed Dec 6
+    19.45     Celtic v Hibernian  4-1 (2-0)   @ Celtic Park › Glasgow
+              Aberdeen v Kilmarnock  0-1 (0-0)   @ Pittodrie Stadium › Aberdeen
+              ST Johnstone v ST Mirren  1-0 (0-0)   @ McDiarmid Park › Perth
+    20.00     Heart Of Midlothian v Rangers  0-1 (0-1)   @ Tynecastle Park › Edinburgh
+» 1st Phase - 17
+  Sat Dec 9
+    15.00     Aberdeen v Heart Of Midlothian  2-1 (0-1)   @ Pittodrie Stadium › Aberdeen
+              Livingston v Hibernian  0-1 (0-1)   @ Tony Macaroni Arena › Livingston
+              Motherwell v ST Johnstone  1-1 (0-0)   @ Fir Park › Motherwell
+              Rangers v Dundee  3-1 (3-1)   @ Ibrox Stadium › Glasgow
+              ST Mirren v Ross County  2-0 (0-0)   @ The SMISA Stadium › Paisley
+  Sun Dec 10
+    12.00     Kilmarnock v Celtic  2-1 (0-1)   @ The BBSP Stadium Rugby Park › Kilmarnock
+» 1st Phase - 18
+  Sat Dec 16
+    15.00     ST Mirren v Motherwell  0-0 (0-0)   @ The SMISA Stadium › Paisley
+              Livingston v Kilmarnock  0-0 (0-0)   @ Tony Macaroni Arena › Livingston
+              Ross County v Dundee  0-1 (0-0)   @ Global Energy Stadium › Dingwall
+              Celtic v Heart Of Midlothian  0-2 (0-2)   @ Celtic Park › Glasgow
+» 1st Phase - 21
+  Sat Dec 16
+    15.00     ST Johnstone v Hibernian  1-0 (0-0)   @ McDiarmid Park › Perth
+» 1st Phase - 12
+  Wed Dec 20
+    19.45     Aberdeen v Livingston  2-1 (1-1)   @ Pittodrie Stadium › Aberdeen
+              Rangers v ST Johnstone  2-0 (1-0)   @ Ibrox Stadium › Glasgow
+» 1st Phase - 19
+  Sat Dec 23
+    15.00     Kilmarnock v ST Johnstone  2-1 (2-0)   @ The BBSP Stadium Rugby Park › Kilmarnock
+              Heart Of Midlothian v ST Mirren  2-0 (1-0)   @ Tynecastle Park › Edinburgh
+              Celtic v Livingston  2-0 (0-0)   @ Celtic Park › Glasgow
+  Sun Dec 24
+    12.00     Motherwell v Rangers  0-2 (0-2)   @ Fir Park › Motherwell
+» 1st Phase - 20
+  Tue Dec 26
+    15.00     Dundee v Celtic  0-3 (0-0)   @ The Scot Foam Stadium at Dens Park › Dundee
+  Wed Dec 27
+    19.45     ST Mirren v Kilmarnock  0-1 (0-1)   @ The SMISA Stadium › Paisley
+              Livingston v ST Johnstone  0-0 (0-0)   @ Tony Macaroni Arena › Livingston
+    20.00     Hibernian v Heart Of Midlothian  0-1 (0-0)   @ Easter Road Stadium › Edinburgh
+» 1st Phase - 21
+  Sat Dec 30
+    12.30     Celtic v Rangers  2-1 (1-0)   @ Celtic Park › Glasgow
+    15.00     Aberdeen v ST Mirren  0-3 (0-1)   @ Pittodrie Stadium › Aberdeen
+              Heart Of Midlothian v Ross County  2-2 (0-0)   @ Tynecastle Park › Edinburgh
+              Motherwell v Livingston  3-1 (3-1)   @ Fir Park › Motherwell
+              Kilmarnock v Dundee  2-2 (0-1)   @ The BBSP Stadium Rugby Park › Kilmarnock
+» 1st Phase - 22
+  Tue Jan 2 2024
+    15.00     Hibernian v Motherwell  2-2 (1-1)   @ Easter Road Stadium › Edinburgh
+  Tue Jan 2
+    15.00     Livingston v Heart Of Midlothian  1-2 (0-0)   @ Tony Macaroni Arena › Livingston
+              Rangers v Kilmarnock  3-1 (2-0)   @ Ibrox Stadium › Glasgow
+              Ross County v Aberdeen  0-3 (0-2)   @ Global Energy Stadium › Dingwall
+    17.00     ST Mirren v Celtic  0-3 (0-2)   @ The SMISA Stadium › Paisley
+» 1st Phase - 12
+  Tue Jan 23
+    19.45     Heart Of Midlothian v Dundee  3-2 (0-2)   @ Tynecastle Park › Edinburgh
+» 1st Phase - 18
+  Wed Jan 24
+    19.45     ST Johnstone v Aberdeen  1-1 (0-0)   @ McDiarmid Park › Perth
+              Hibernian v Rangers  0-3 (0-2)   @ Easter Road Stadium › Edinburgh
+» 1st Phase - 23
+  Sat Jan 27
+    12.30     ST Mirren v Rangers  0-1 (0-1)   @ The SMISA Stadium › Paisley
+    15.00     Celtic v Ross County  1-0 (1-0)   @ Celtic Park › Glasgow
+              Kilmarnock v Hibernian  2-2 (1-0)   @ The BBSP Stadium Rugby Park › Kilmarnock
+              Heart Of Midlothian v Aberdeen  2-0 (0-0)   @ Tynecastle Park › Edinburgh
+              Livingston v Dundee  1-4 (0-1)   @ Tony Macaroni Arena › Livingston
+              ST Johnstone v Motherwell  1-1 (1-1)   @ McDiarmid Park › Perth
+» 1st Phase - 9
+  Tue Jan 30
+    19.45     Aberdeen v Dundee  1-1 (1-0)   @ Pittodrie Stadium › Aberdeen
+» 1st Phase - 15
+  Tue Jan 30
+    19.45     Livingston v Ross County  2-2 (1-1)   @ Tony Macaroni Arena › Livingston
+» 1st Phase - 24
+  Sat Feb 3
+    12.30     Aberdeen v Celtic  1-1 (0-0)   @ Pittodrie Stadium › Aberdeen
+    15.00     Dundee v Heart Of Midlothian  2-3 (1-0)   @ The Scot Foam Stadium at Dens Park › Dundee
+              Motherwell v Kilmarnock  1-1 (1-1)   @ Fir Park › Motherwell
+              Rangers v Livingston  3-0 (2-0)   @ Ibrox Stadium › Glasgow
+              Ross County v ST Johnstone  0-1 (0-1)   @ Global Energy Stadium › Dingwall
+              Hibernian v ST Mirren  0-3 (0-3)   @ Easter Road Stadium › Edinburgh
+» 1st Phase - 25
+  Tue Feb 6
+    19.45     Motherwell v Ross County  5-0 (3-0)   @ Fir Park › Motherwell
+    20.00     Rangers v Aberdeen  2-1 (1-1)   @ Ibrox Stadium › Glasgow
+  Wed Feb 7
+    19.45     ST Mirren v Dundee  2-0 (0-0)   @ The SMISA Stadium › Paisley
+              ST Johnstone v Heart Of Midlothian  0-1 (0-0)   @ McDiarmid Park › Perth
+              Kilmarnock v Livingston  1-0 (0-0)   @ The BBSP Stadium Rugby Park › Kilmarnock
+    20.00     Hibernian v Celtic  1-2 (0-1)   @ Easter Road Stadium › Edinburgh
+» 1st Phase - 22
+  Sun Feb 11
+    14.00     Dundee v ST Johnstone  2-1 (0-1)   @ The Scot Foam Stadium at Dens Park › Dundee
+» 1st Phase - 20
+  Wed Feb 14
+    19.45     Aberdeen v Motherwell  3-3 (2-3)   @ Pittodrie Stadium › Aberdeen
+              Rangers v Ross County  3-1 (2-1)   @ Ibrox Stadium › Glasgow
+» 1st Phase - 26
+  Sat Feb 17
+    15.00     Aberdeen v Hibernian  2-2 (1-1)   @ Pittodrie Stadium › Aberdeen
+              Dundee v Ross County  2-0 (1-0)   @ The Scot Foam Stadium at Dens Park › Dundee
+              Heart Of Midlothian v Motherwell  2-0 (0-0)   @ Tynecastle Park › Edinburgh
+              Livingston v ST Mirren  1-0 (1-0)   @ Tony Macaroni Arena › Livingston
+              Celtic v Kilmarnock  1-1 (1-0)   @ Celtic Park › Glasgow
+  Sun Feb 18
+    12.00     ST Johnstone v Rangers  0-3 (0-1)   @ McDiarmid Park › Perth
+» 1st Phase - 27
+  Sat Feb 24
+    15.00     Hibernian v Dundee  2-1 (1-0)   @ Easter Road Stadium › Edinburgh
+              Kilmarnock v Aberdeen  2-0 (1-0)   @ The BBSP Stadium Rugby Park › Kilmarnock
+              ST Mirren v ST Johnstone  2-0 (1-0)   @ The SMISA Stadium › Paisley
+              Rangers v Heart Of Midlothian  5-0 (3-0)   @ Ibrox Stadium › Glasgow
+              Ross County v Livingston  3-2 (2-0)   @ Global Energy Stadium › Dingwall
+  Sun Feb 25
+    12.00     Motherwell v Celtic  1-3 (1-0)   @ Fir Park › Motherwell
+» 1st Phase - 28
+  Tue Feb 27
+    20.00     Ross County v ST Mirren  1-1 (1-0)   @ Global Energy Stadium › Dingwall
+  Wed Feb 28
+    19.45     Celtic v Dundee  7-1 (6-0)   @ Celtic Park › Glasgow
+              Kilmarnock v Rangers  1-2 (1-0)   @ The BBSP Stadium Rugby Park › Kilmarnock
+              Aberdeen v ST Johnstone  0-2 (0-1)   @ Pittodrie Stadium › Aberdeen
+              Heart Of Midlothian v Hibernian  1-1 (1-1)   @ Tynecastle Park › Edinburgh
+    20.00     Livingston v Motherwell  1-3 (1-0)   @ Tony Macaroni Arena › Livingston
+» 1st Phase - 29
+  Sat Mar 2
+    15.00     Hibernian v Ross County  2-0 (0-0)   @ Easter Road Stadium › Edinburgh
+              ST Mirren v Aberdeen  2-1 (0-1)   @ The SMISA Stadium › Paisley
+              Dundee v Kilmarnock  2-2 (1-1)   @ The Scot Foam Stadium at Dens Park › Dundee
+              Rangers v Motherwell  1-2 (0-1)   @ Ibrox Stadium › Glasgow
+              ST Johnstone v Livingston  1-1 (0-1)   @ McDiarmid Park › Perth
+  Sun Mar 3
+    12.00     Heart Of Midlothian v Celtic  2-0 (1-0)   @ Tynecastle Park › Edinburgh
+» 1st Phase - 19
+  Wed Mar 13
+    19.45     Ross County v Hibernian  2-2 (1-0)   @ Global Energy Stadium › Dingwall
+              Dundee v Aberdeen  1-0 (0-0)   @ The Scot Foam Stadium at Dens Park › Dundee
+» 1st Phase - 30
+  Sat Mar 16
+    15.00     Celtic v ST Johnstone  3-1 (1-0)   @ Celtic Park › Glasgow
+              Hibernian v Livingston  3-0 (3-0)   @ Easter Road Stadium › Edinburgh
+              Kilmarnock v ST Mirren  5-2 (0-2)   @ The BBSP Stadium Rugby Park › Kilmarnock
+              Motherwell v Aberdeen  0-1 (0-1)   @ Fir Park › Motherwell
+              Ross County v Heart Of Midlothian  2-1 (1-0)   @ Global Energy Stadium › Dingwall
+» 1st Phase - 31
+  Sat Mar 30
+    15.00     Heart Of Midlothian v Kilmarnock  1-1 (1-0)   @ Tynecastle Park › Edinburgh
+              Motherwell v ST Mirren  1-1 (0-1)   @ Fir Park › Motherwell
+              Rangers v Hibernian  3-1 (2-1)   @ Ibrox Stadium › Glasgow
+              ST Johnstone v Dundee  1-2 (0-1)   @ McDiarmid Park › Perth
+              Aberdeen v Ross County  2-1 (1-1)   @ Pittodrie Stadium › Aberdeen
+  Sun Mar 31
+    12.00     Livingston v Celtic  0-3 (0-0)   @ Tony Macaroni Arena › Livingston
+» 1st Phase - 32
+  Sat Apr 6
+    15.00     Hibernian v ST Johnstone  1-2 (0-0)   @ Easter Road Stadium › Edinburgh
+              Kilmarnock v Ross County  1-0 (0-0)   @ The BBSP Stadium Rugby Park › Kilmarnock
+              ST Mirren v Heart Of Midlothian  1-2 (0-1)   @ The SMISA Stadium › Paisley
+              Dundee v Motherwell  2-3 (1-0)   @ The Scot Foam Stadium at Dens Park › Dundee
+              Livingston v Aberdeen  0-0 (0-0)   @ Tony Macaroni Arena › Livingston
+  Sun Apr 7
+    12.00     Rangers v Celtic  3-3 (0-2)   @ Ibrox Stadium › Glasgow
+» 1st Phase - 33
+  Sat Apr 13
+    15.00     Celtic v ST Mirren  3-0 (0-0)   @ Celtic Park › Glasgow
+              Aberdeen v Dundee  0-0 (0-0)   @ Pittodrie Stadium › Aberdeen
+              Heart Of Midlothian v Livingston  4-2 (4-2)   @ Tynecastle Park › Edinburgh
+              Motherwell v Hibernian  1-1 (0-0)   @ Fir Park › Motherwell
+              ST Johnstone v Kilmarnock  0-2 (0-1)   @ McDiarmid Park › Perth
+  Sun Apr 14
+    12.00     Ross County v Rangers  3-2 (0-1)   @ Global Energy Stadium › Dingwall
+» 1st Phase - 30
+  Wed Apr 17
+    20.00     Dundee v Rangers  0-0 (0-0)   @ The Scot Foam Stadium at Dens Park › Dundee
+» Championship Round - 1
+  Sat Apr 27
+    15.00     Kilmarnock v Heart Of Midlothian  0-0 (0-0)   @ The BBSP Stadium Rugby Park › Kilmarnock
+» Relegation Round - 1
+  Sat Apr 27
+    15.00     Livingston v Ross County  2-0 (1-0)   @ Tony Macaroni Arena › Livingston
+              ST Johnstone v Hibernian  1-3 (0-2)   @ McDiarmid Park › Perth
+              Aberdeen v Motherwell  1-0 (0-0)   @ Pittodrie Stadium › Aberdeen
+» Championship Round - 1
+  Sun Apr 28
+    12.30     ST Mirren v Rangers  1-2 (1-1)   @ The SMISA Stadium › Paisley
+    15.00     Dundee v Celtic  1-2 (0-1)   @ The Scot Foam Stadium at Dens Park › Dundee
+» Championship Round - 2
+  Sat May 4
+    15.00     Celtic v Heart Of Midlothian  3-0 (2-0)   @ Celtic Park › Glasgow
+              Dundee v ST Mirren  1-3 (0-1)   @ The Scot Foam Stadium at Dens Park › Dundee
+» Relegation Round - 2
+  Sat May 4
+    15.00     Motherwell v Livingston  4-1 (2-0)   @ Fir Park › Motherwell
+              Ross County v Hibernian  2-1 (1-1)   @ Global Energy Stadium › Dingwall
+              Aberdeen v ST Johnstone  1-0 (0-0)   @ Pittodrie Stadium › Aberdeen
+» Championship Round - 2
+  Sun May 5
+    13.00     Rangers v Kilmarnock  4-1 (1-1)   @ Ibrox Stadium › Glasgow
+» Relegation/Promotion
+  Tue May 7
+    19.45     Airdrie United v Partick  2-2 (1-2)   @ Excelsior Stadium › Airdrie
+  Fri May 10
+    19.45     Partick v Airdrie United  2-1 (1-0)   @ Wyre Stadium at Firhill › Glasgow
+» Championship Round - 3
+  Sat May 11
+    12.30     Celtic v Rangers  2-1 (2-1)   @ Celtic Park › Glasgow
+    15.00     ST Mirren v Kilmarnock  0-1 (0-1)   @ The SMISA Stadium › Paisley
+              Heart Of Midlothian v Dundee  3-0 (1-0)   @ Tynecastle Park › Edinburgh
+» Relegation Round - 3
+  Sat May 11
+    15.00     Ross County v Motherwell  1-5 (1-2)   @ Global Energy Stadium › Dingwall
+              Livingston v ST Johnstone  2-1 (0-1)   @ Tony Macaroni Arena › Livingston
+  Sun May 12
+    15.00     Hibernian v Aberdeen  0-4 (0-2)   @ Easter Road Stadium › Edinburgh
+» Relegation/Promotion
+  Tue May 14
+    19.45     Partick v Raith Rovers  1-2 (0-2)   @ Wyre Stadium at Firhill › Glasgow
+» Championship Round - 4
+  Tue May 14
+    19.30     Rangers v Dundee  5-2 (1-2)   @ Ibrox Stadium › Glasgow
+  Wed May 15
+    19.30     Kilmarnock v Celtic  0-5 (0-3)   @ The BBSP Stadium Rugby Park › Kilmarnock
+    19.45     ST Mirren v Heart Of Midlothian  2-2 (1-1)   @ The SMISA Stadium › Paisley
+» Relegation Round - 4
+  Wed May 15
+    19.45     Aberdeen v Livingston  5-1 (0-0)   @ Pittodrie Stadium › Aberdeen
+              ST Johnstone v Ross County  1-1 (0-1)   @ McDiarmid Park › Perth
+              Hibernian v Motherwell  3-0 (2-0)   @ Easter Road Stadium › Edinburgh
+» Relegation/Promotion
+  Fri May 17
+    19.45     Raith Rovers v Partick  4-3 pen (1-2, 1-2, 1-2)   @ Stark's Park › Kirkcaldy
+» Championship Round - 5
+  Sat May 18
+    12.30     Celtic v ST Mirren  3-2 (2-2)   @ Celtic Park › Glasgow
+              Dundee v Kilmarnock  1-1 (1-1)   @ The Scot Foam Stadium at Dens Park › Dundee
+              Heart Of Midlothian v Rangers  3-3 (1-0)   @ Tynecastle Park › Edinburgh
+» Relegation Round - 5
+  Sun May 19
+    15.00     Motherwell v ST Johnstone  1-2 (0-2)   @ Fir Park › Motherwell
+              Ross County v Aberdeen  2-2 (1-1)   @ Global Energy Stadium › Dingwall
+              Livingston v Hibernian  1-1 (0-0)   @ Tony Macaroni Arena › Livingston
+» Relegation/Promotion
+  Thu May 23
+    20.00     Raith Rovers v Ross County  1-2 (0-0)   @ Stark's Park › Kirkcaldy
+  Sun May 26
+    12.00     Ross County v Raith Rovers  4-0 (1-0)   @ Global Energy Stadium › Dingwall

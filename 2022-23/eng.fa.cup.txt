@@ -342,7 +342,7 @@
               Camberley Town v Wincanton Town  1-1   @ Krooner Park › Camberley, Surrey
               Clacton v East Thurrock United  0-1   @ The Rush Green Bowl › Clacton-on-Sea, Essex
               Colliers Wood United v Chatham Town  0-2   @ Wibbandune Sports Ground › London
-              Congleton Town v Bootle  0-0   @ Cheshire Silk 106_9 Stadium › Congleton, Cheshire
+              Congleton Town v Bootle  0-0   @ Cheshire Silk 106.9 Stadium › Congleton, Cheshire
               Corinthian v Guildford City  3-0   @ Corinthian Sports Club › Longfield, Kent
               Cowes Sports v Larkhall Athletic  1-1   @ Westwood Park › Cowes, Isle of Wight
               Crawley Down Gatwick v Spelthorne Sports  2-3   @ The Haven Sportsfield › Crawley Down, West Sussex
@@ -693,7 +693,7 @@
               Peterborough Sports v Redditch United  1-0 (1-0)   @ Lincoln Road › Peterborough
               Ilkeston Town v Anstey Nomads  3-3 aet   @ New Manor Ground › Ilkeston, Derbyshire
               Chatham Town v Walton & Hersham  1-3 (0-1)   @ Bauvill Stadium › Chatham, Kent
-              Congleton Town v Newcastle Town  3-2 (0-1)   @ Cheshire Silk 106_9 Stadium › Congleton, Cheshire
+              Congleton Town v Newcastle Town  3-2 (0-1)   @ Cheshire Silk 106.9 Stadium › Congleton, Cheshire
               Fisher v Welling United  0-3 (0-1)   @ St Pauls' Sports Ground › London
               Farsley Celtic FC v AFC Fylde  0-3 (0-0)   @ Throstle Nest › Farsley, West Yorkshire
               Helston Athletic v Bishop's Cleeve  4-3 (0-2)   @ Kellaway Park › Clodgey La, Helston TR13 8PJ, United Kingdom
@@ -704,7 +704,7 @@
   Fri Sep 30
     20.00     Needham Market v Brightlingsea Regent  2-0 (0-0)   @ Bloomfields › Needham Market, Suffolk
   Sat Oct 1
-    12.30     Congleton Town v AFC Fylde  1-1 (0-0)   @ Cheshire Silk 106_9 Stadium › Congleton, Cheshire
+    12.30     Congleton Town v AFC Fylde  1-1 (0-0)   @ Cheshire Silk 106.9 Stadium › Congleton, Cheshire
     14.00     Anstey Nomads v Shefford Town & Campton  5-0 (3-0)   @ Cropston Road › Leicester, Leicestershire
     15.00     Chester v Hanley Town  0-0 (0-0)   @ Lookers Vauxhall Stadium › Chester, Cheshire
               Billericay Town v Biggleswade Town  3-3 (2-1)   @ AGP Arena › Billericay, Essex

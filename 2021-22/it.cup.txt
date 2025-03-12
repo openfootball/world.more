@@ -1,0 +1,82 @@
+= Italy | Coppa Italia 2021/22
+
+  # Date       Sat Aug/7 2021 - Wed May/11 2022 (277d)
+  # Teams      44
+  # Matches    45
+
+  # Note - All times in Europe/Rome
+
+» Preliminary Round
+  Sat Aug 7 2021
+    19.00     como v Catanzaro  2-2 aet (2-2, 1-0)   @ Stadio Comunale Silvio Piola › Novara
+  Sun Aug 8
+    18.30     Ternana v Avellino  1-1 aet (1-1, 0-1)   @ Stadio Libero Liberati › Terni
+    19.00     Perugia v Südtirol  1-0 (0-0)   @ Stadio Renato Curi › Perugia
+    20.30     Calcio Padova v Alessandria  0-2 (0-0)   @ Stadio Comunale Euganeo › Padova
+» 1st Round
+  Fri Aug 13
+    17.45     Pordenone v Spezia  1-3 (0-2)   @ Stadio Guido Teghil › Lignano Sabbiadoro
+    18.00     Genoa v Perugia  3-2 (2-2)   @ Stadio Comunale Luigi Ferraris › Genova
+    20.45     Udinese v Ascoli  3-1 (1-0)   @ Dacia Arena › Udine
+    21.00     Fiorentina v Cosenza  4-0 (3-0)   @ Stadio Artemio Franchi › Firenze
+  Sat Aug 14
+    17.45     Benevento v SPAL  2-1 aet (1-1, 1-0)   @ Stadio Ciro Vigorito › Benevento
+    18.00     Cittadella v Monza  2-1 (2-1)   @ Stadio Pier Cesare Tombolato › Cittadella
+    20.45     Verona v Catanzaro  3-0 (3-0)   @ Stadio Marc'Antonio Bentegodi › Verona
+    21.00     Cagliari v Pisa  3-1 (3-0)   @ Unipol Domus › Cagliari
+  Sun Aug 15
+    17.45     Empoli v Vicenza  4-2 (3-1)   @ Stadio Carlo Castellani › Empoli
+    18.00     Parma v Lecce  1-3 (1-2)   @ Stadio Ennio Tardini › Parma
+    20.45     Venezia v Frosinone  8-7 pen (1-1, 0-0, 0-0)   @ Stadio Paolo Mazza › Ferrara
+    21.00     Torino v Cremonese  4-1 pen (0-0, 0-0, 0-0)   @ Stadio Olimpico Grande Torino › Torino
+  Mon Aug 16
+    17.45     Crotone v Brescia  4-2 pen (2-2, 2-2, 1-0)   @ Stadio Ezio Scida › Crotone
+    18.00     Bologna v Ternana  4-5 (1-3)   @ Stadio Renato Dall'Ara › Bologna
+    20.45     Salernitana v Reggina  2-0 (1-0)   @ Stadio Arechi › Salerno
+    21.00     Sampdoria v Alessandria  3-2 (1-2)   @ Stadio Comunale Luigi Ferraris › Genova
+» 2nd Round
+  Tue Dec 14
+    15.00     Venezia v Ternana  3-1 (0-0)   @ Stadio Pierluigi Penzo › Venezia
+    18.00     Udinese v Crotone  4-0 (3-0)   @ Dacia Arena › Udine
+    21.00     Genoa v Salernitana  1-0 (0-0)   @ Stadio Comunale Luigi Ferraris › Genova
+  Wed Dec 15
+    15.00     Verona v Empoli  3-4 (1-1)   @ Stadio Marc'Antonio Bentegodi › Verona
+    18.00     Cagliari v Cittadella  3-1 (2-0)   @ Unipol Domus › Cagliari
+    21.00     Fiorentina v Benevento  2-1 (1-0)   @ Stadio Artemio Franchi › Firenze
+  Thu Dec 16
+    18.00     Spezia v Lecce  0-2 (0-1)   @ Stadio Alberto Picco › La Spezia
+    21.00     Sampdoria v Torino  2-1 (1-0)   @ Stadio Comunale Luigi Ferraris › Genova
+» Round of 16
+  Wed Jan 12 2022
+    17.30     Atalanta v Venezia  2-0 (1-0)   @ Gewiss Stadium › Bergamo
+  Thu Jan 13
+    18.00     Napoli v Fiorentina  2-5 aet (2-2, 1-1)   @ Stadio Diego Armando Maradona › Napoli
+    21.00     AC Milan v Genoa  3-1 aet (1-1, 0-1)   @ Stadio Giuseppe Meazza › Milano
+  Tue Jan 18
+    17.30     Lazio v Udinese  1-0 aet (0-0, 0-0)   @ Stadio Olimpico › Roma
+    21.00     Juventus v Sampdoria  4-1 (1-0)   @ Allianz Stadium › Torino
+  Wed Jan 19
+    17.30     Sassuolo v Cagliari  1-0 (1-0)   @ MAPEI Stadium-Città del Tricolore › Reggio nell'Emilia
+    21.00     Inter v Empoli  3-2 aet (2-2, 1-0)   @ Stadio Giuseppe Meazza › Milano
+  Thu Jan 20
+    21.00     AS Roma v Lecce  3-1 (1-1)   @ Stadio Olimpico › Roma
+» Quarter-finals
+  Tue Feb 8
+    21.00     Inter v AS Roma  2-0 (1-0)   @ Stadio Giuseppe Meazza › Milano
+  Wed Feb 9
+    21.00     AC Milan v Lazio  4-0 (3-0)   @ Stadio Giuseppe Meazza › Milano
+  Thu Feb 10
+    18.00     Atalanta v Fiorentina  2-3 (1-1)   @ Gewiss Stadium › Bergamo
+    21.00     Juventus v Sassuolo  2-1 (1-1)   @ Allianz Stadium › Torino
+» Semi-finals
+  Tue Mar 1
+    21.00     AC Milan v Inter  0-0 (0-0)   @ Stadio Giuseppe Meazza › Milano
+  Wed Mar 2
+    21.00     Fiorentina v Juventus  0-1 (0-0)   @ Stadio Artemio Franchi › Firenze
+  Tue Apr 19
+    21.00     Inter v AC Milan  3-0 (2-0)   @ Stadio Giuseppe Meazza › Milano
+  Wed Apr 20
+    21.00     Juventus v Fiorentina  2-0 (1-0)   @ Allianz Stadium › Torino
+» Final
+  Wed May 11
+    21.00     Juventus v Inter  2-4 aet (2-2, 0-1)   @ Stadio Olimpico › Roma

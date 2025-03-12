@@ -1,0 +1,779 @@
+= England | League Two 2021/22
+
+  # Date       Sat Aug/7 2021 - Sat May/28 2022 (294d)
+  # Teams      24
+  # Matches    557
+
+  # Note - All times in Europe/London
+
+» Regular Season - 1
+  Sat Aug 7 2021
+    15.00     Northampton v Port Vale  1-0 (1-0)   @ Sixfields Stadium › Northampton, East Midlands
+  Sat Aug 7
+    15.00     Scunthorpe v Swindon Town  1-3 (0-0)   @ Sands Stadium › Scunthorpe
+              Oldham v Newport County  0-1 (0-0)   @ Boundary Park › Oldham, Greater Manchester
+              Exeter City v Bradford  0-0 (0-0)   @ St James Park › Exeter, Devon
+              Hartlepool v Crawley Town  1-0 (0-0)   @ Victoria Park › Hartlepool, County Durham
+              Stevenage v Barrow  1-0 (0-0)   @ The Lamex Stadium › Stevenage, Hertfordshire
+              Carlisle v Colchester  0-0 (0-0)   @ Brunton Park › Carlisle, Cumbria
+              Mansfield Town v Bristol Rovers  2-1 (1-0)   @ One Call Stadium › Mansfield, Nottinghamshire
+              Forest Green v Sutton Utd  2-1 (1-0)   @ The Fully Charged New Lawn › Nailsworth, Gloucestershire
+              Tranmere v Walsall  1-0 (0-0)   @ Prenton Park › Birkenhead, Merseyside
+              Harrogate Town v Rochdale  3-2 (2-1)   @ EnviroVent Stadium › Harrogate, North Yorkshire
+              Salford City v Leyton Orient  1-1 (1-1)   @ The Peninsula Stadium › Salford, Greater Manchester
+» Regular Season - 2
+  Sat Aug 14
+    15.00     Bristol Rovers v Stevenage  0-2 (0-0)   @ Memorial Stadium › Bristol, Gloucestershire
+              Rochdale v Scunthorpe  0-0 (0-0)   @ Crown Oil Arena › Rochdale, Greater Manchester
+              Walsall v Forest Green  1-3 (0-3)   @ Banks's Stadium › Walsall, West Midlands
+              Bradford v Oldham  2-1 (1-0)   @ The Utilita Energy Stadium › Bradford, West Yorkshire
+              Port Vale v Tranmere  0-0 (0-0)   @ Vale Park › Stoke-on-Trent, Staffordshire
+              Swindon Town v Carlisle  1-2 (1-2)   @ The County Ground › Swindon, Wiltshire
+              Colchester v Northampton  0-1 (0-1)   @ JobServe Community Stadium › Colchester, Essex
+              Leyton Orient v Exeter City  3-0 (2-0)   @ The Breyer Group Stadium › London
+              Barrow v Hartlepool  3-2 (1-1)   @ The Dunes Hotel Stadium › Barrow-in-Furness, Cumbria
+» Regular Season - 33
+  Sat Aug 14
+    15.00     Mansfield Town v Newport County  2-1 (2-1)   @ One Call Stadium › Mansfield, Nottinghamshire
+» Regular Season - 31
+  Sat Aug 14
+    15.00     Salford City v Sutton Utd  0-0 (0-0)   @ The Peninsula Stadium › Salford, Greater Manchester
+» Regular Season - 3
+  Tue Aug 17
+    19.45     Bristol Rovers v Oldham  1-0 (1-0)   @ Memorial Stadium › Bristol, Gloucestershire
+              Rochdale v Forest Green  1-2 (0-1)   @ Crown Oil Arena › Rochdale, Greater Manchester
+              Walsall v Scunthorpe  1-1 (0-0)   @ Banks's Stadium › Walsall, West Midlands
+              Bradford v Stevenage  4-1 (3-1)   @ The Utilita Energy Stadium › Bradford, West Yorkshire
+              Port Vale v Carlisle  0-0 (0-0)   @ Vale Park › Stoke-on-Trent, Staffordshire
+              Swindon Town v Tranmere  0-0 (0-0)   @ The County Ground › Swindon, Wiltshire
+              Colchester v Mansfield Town  1-1 (0-0)   @ JobServe Community Stadium › Colchester, Essex
+              Crawley Town v Salford City  2-1 (1-1)   @ The People's Pension Stadium › Crawley, West Sussex
+              Barrow v Exeter City  0-0 (0-0)   @ The Dunes Hotel Stadium › Barrow-in-Furness, Cumbria
+» Regular Season - 4
+  Sat Aug 21
+    15.00     Northampton v Rochdale  1-3 (1-1)   @ Sixfields Stadium › Northampton, East Midlands
+              Scunthorpe v Sutton Utd  1-1 (0-0)   @ Sands Stadium › Scunthorpe
+              Oldham v Colchester  1-2 (0-2)   @ Boundary Park › Oldham, Greater Manchester
+              Exeter City v Bristol Rovers  4-1 (4-0)   @ St James Park › Exeter, Devon
+              Hartlepool v Walsall  2-0 (1-0)   @ Victoria Park › Hartlepool, County Durham
+              Stevenage v Port Vale  1-1 (1-1)   @ The Lamex Stadium › Stevenage, Hertfordshire
+              Carlisle v Leyton Orient  1-1 (1-0)   @ Brunton Park › Carlisle, Cumbria
+              Mansfield Town v Bradford  2-3 (1-1)   @ One Call Stadium › Mansfield, Nottinghamshire
+              Forest Green v Crawley Town  6-3 (2-2)   @ The Fully Charged New Lawn › Nailsworth, Gloucestershire
+              Tranmere v Newport County  0-1 (0-0)   @ Prenton Park › Birkenhead, Merseyside
+              Harrogate Town v Barrow  2-1 (0-1)   @ EnviroVent Stadium › Harrogate, North Yorkshire
+              Salford City v Swindon Town  0-1 (0-0)   @ The Peninsula Stadium › Salford, Greater Manchester
+» Regular Season - 3
+  Tue Aug 24
+    19.45     Leyton Orient v Harrogate Town  0-2 (0-2)   @ The Breyer Group Stadium › London
+» Regular Season - 5
+  Fri Aug 27
+    19.45     Rochdale v Colchester  1-1 (0-1)   @ Crown Oil Arena › Rochdale, Greater Manchester
+  Sat Aug 28
+    15.00     Scunthorpe v Tranmere  1-0 (1-0)   @ Sands Stadium › Scunthorpe
+              Walsall v Stevenage  1-0 (1-0)   @ Banks's Stadium › Walsall, West Midlands
+              Swindon Town v Mansfield Town  1-0 (0-0)   @ The County Ground › Swindon, Wiltshire
+              Crawley Town v Northampton  0-0 (0-0)   @ The People's Pension Stadium › Crawley, West Sussex
+              Hartlepool v Carlisle  2-1 (1-1)   @ Victoria Park › Hartlepool, County Durham
+              Leyton Orient v Bradford  2-0 (0-0)   @ The Breyer Group Stadium › London
+              Forest Green v Port Vale  0-2 (0-2)   @ The Fully Charged New Lawn › Nailsworth, Gloucestershire
+              Barrow v Bristol Rovers  1-1 (1-1)   @ The Dunes Hotel Stadium › Barrow-in-Furness, Cumbria
+              Sutton Utd v Oldham  1-2 (0-0)   @ VBS Community Stadium › Sutton, Surrey
+              Harrogate Town v Exeter City  1-1 (1-0)   @ EnviroVent Stadium › Harrogate, North Yorkshire
+              Salford City v Newport County  3-0 (3-0)   @ The Peninsula Stadium › Salford, Greater Manchester
+» Regular Season - 6
+  Sat Sep 4
+    15.00     Bristol Rovers v Crawley Town  1-0 (0-0)   @ Memorial Stadium › Bristol, Gloucestershire
+              Northampton v Scunthorpe  2-0 (0-0)   @ Sixfields Stadium › Northampton, East Midlands
+              Bradford v Walsall  1-1 (1-1)   @ The Utilita Energy Stadium › Bradford, West Yorkshire
+              Oldham v Barrow  0-3 (0-1)   @ Boundary Park › Oldham, Greater Manchester
+              Port Vale v Rochdale  2-3 (1-1)   @ Vale Park › Stoke-on-Trent, Staffordshire
+              Exeter City v Forest Green  0-0 (0-0)   @ St James Park › Exeter, Devon
+              Newport County v Leyton Orient  2-2 (1-1)   @ Rodney Parade › Casnewydd
+              Stevenage v Swindon Town  1-1 (0-0)   @ The Lamex Stadium › Stevenage, Hertfordshire
+              Carlisle v Salford City  2-1 (1-1)   @ Brunton Park › Carlisle, Cumbria
+              Mansfield Town v Harrogate Town  1-3 (1-2)   @ One Call Stadium › Mansfield, Nottinghamshire
+              Tranmere v Hartlepool  1-0 (0-0)   @ Prenton Park › Birkenhead, Merseyside
+» Regular Season - 7
+  Fri Sep 10
+    19.45     Harrogate Town v Newport County  2-2 (2-2)   @ EnviroVent Stadium › Harrogate, North Yorkshire
+              Barrow v Colchester  2-3 (1-2)   @ The Dunes Hotel Stadium › Barrow-in-Furness, Cumbria
+  Sat Sep 11
+    15.00     Rochdale v Tranmere  1-0 (0-0)   @ Crown Oil Arena › Rochdale, Greater Manchester
+              Scunthorpe v Exeter City  0-4 (0-1)   @ Sands Stadium › Scunthorpe
+              Walsall v Mansfield Town  3-1 (2-0)   @ Banks's Stadium › Walsall, West Midlands
+              Swindon Town v Port Vale  1-2 (0-1)   @ The County Ground › Swindon, Wiltshire
+              Crawley Town v Carlisle  2-1 (1-0)   @ The People's Pension Stadium › Crawley, West Sussex
+              Hartlepool v Bristol Rovers  1-0 (0-0)   @ Victoria Park › Hartlepool, County Durham
+              Leyton Orient v Oldham  4-0 (2-0)   @ The Breyer Group Stadium › London
+              Forest Green v Northampton  1-0 (0-0)   @ The Fully Charged New Lawn › Nailsworth, Gloucestershire
+              Sutton Utd v Stevenage  2-1 (0-0)   @ VBS Community Stadium › Sutton, Surrey
+              Salford City v Bradford  1-0 (0-0)   @ The Peninsula Stadium › Salford, Greater Manchester
+» Regular Season - 3
+  Tue Sep 14
+    19.45     Sutton Utd v Hartlepool  1-0 (1-0)   @ VBS Community Stadium › Sutton, Surrey
+              Newport County v Northampton  0-1 (0-1)   @ Rodney Parade › Casnewydd
+» Regular Season - 8
+  Sat Sep 18
+    14.00     Northampton v Swindon Town  1-1 (0-0)   @ Sixfields Stadium › Northampton, East Midlands
+    15.00     Bristol Rovers v Leyton Orient  1-3 (0-3)   @ Memorial Stadium › Bristol, Gloucestershire
+              Bradford v Barrow  1-1 (0-1)   @ The Utilita Energy Stadium › Bradford, West Yorkshire
+              Oldham v Hartlepool  0-0 (0-0)   @ Boundary Park › Oldham, Greater Manchester
+              Port Vale v Harrogate Town  2-0 (1-0)   @ Vale Park › Stoke-on-Trent, Staffordshire
+              Colchester v Crawley Town  0-1 (0-1)   @ JobServe Community Stadium › Colchester, Essex
+              Exeter City v Sutton Utd  2-0 (0-0)   @ St James Park › Exeter, Devon
+              Newport County v Walsall  2-1 (1-1)   @ Rodney Parade › Casnewydd
+              Stevenage v Forest Green  0-4 (0-1)   @ The Lamex Stadium › Stevenage, Hertfordshire
+              Carlisle v Scunthorpe  2-2 (0-2)   @ Brunton Park › Carlisle, Cumbria
+              Mansfield Town v Rochdale  1-1 (0-0)   @ One Call Stadium › Mansfield, Nottinghamshire
+              Tranmere v Salford City  2-0 (1-0)   @ Prenton Park › Birkenhead, Merseyside
+» Regular Season - 2
+  Tue Sep 21
+    19.45     Crawley Town v Harrogate Town  2-2 (2-1)   @ The People's Pension Stadium › Crawley, West Sussex
+» Regular Season - 9
+  Fri Sep 24
+    19.45     Barrow v Newport County  2-1 (0-1)   @ The Dunes Hotel Stadium › Barrow-in-Furness, Cumbria
+  Sat Sep 25
+    15.00     Rochdale v Oldham  0-1 (0-0)   @ Crown Oil Arena › Rochdale, Greater Manchester
+              Scunthorpe v Port Vale  0-1 (0-1)   @ Sands Stadium › Scunthorpe
+              Walsall v Bristol Rovers  1-2 (1-0)   @ Banks's Stadium › Walsall, West Midlands
+              Swindon Town v Colchester  0-0 (0-0)   @ The County Ground › Swindon, Wiltshire
+              Crawley Town v Bradford  2-1 (1-0)   @ The People's Pension Stadium › Crawley, West Sussex
+              Hartlepool v Exeter City  1-1 (1-1)   @ Victoria Park › Hartlepool, County Durham
+              Leyton Orient v Mansfield Town  0-0 (0-0)   @ The Breyer Group Stadium › London
+              Forest Green v Tranmere  0-0 (0-0)   @ The Fully Charged New Lawn › Nailsworth, Gloucestershire
+              Sutton Utd v Carlisle  4-0 (2-0)   @ VBS Community Stadium › Sutton, Surrey
+              Harrogate Town v Stevenage  0-0 (0-0)   @ EnviroVent Stadium › Harrogate, North Yorkshire
+              Salford City v Northampton  2-2 (1-1)   @ The Peninsula Stadium › Salford, Greater Manchester
+» Regular Season - 10
+  Sat Oct 2
+    15.00     Bristol Rovers v Swindon Town  1-3 (1-0)   @ Memorial Stadium › Bristol, Gloucestershire
+              Northampton v Sutton Utd  0-2 (0-1)   @ Sixfields Stadium › Northampton, East Midlands
+              Bradford v Rochdale  2-0 (1-0)   @ The Utilita Energy Stadium › Bradford, West Yorkshire
+              Oldham v Harrogate Town  1-2 (0-1)   @ Boundary Park › Oldham, Greater Manchester
+              Port Vale v Leyton Orient  3-2 (1-0)   @ Vale Park › Stoke-on-Trent, Staffordshire
+              Colchester v Salford City  0-2 (0-2)   @ JobServe Community Stadium › Colchester, Essex
+              Exeter City v Walsall  2-2 (1-1)   @ St James Park › Exeter, Devon
+              Newport County v Scunthorpe  3-0 (1-0)   @ Rodney Parade › Casnewydd
+              Stevenage v Hartlepool  2-0 (1-0)   @ The Lamex Stadium › Stevenage, Hertfordshire
+              Carlisle v Forest Green  0-2 (0-2)   @ Brunton Park › Carlisle, Cumbria
+              Mansfield Town v Barrow  0-1 (0-0)   @ One Call Stadium › Mansfield, Nottinghamshire
+              Tranmere v Crawley Town  2-1 (1-0)   @ Prenton Park › Birkenhead, Merseyside
+» Regular Season - 11
+  Fri Oct 8
+    19.45     Tranmere v Colchester  2-0 (0-0)   @ Prenton Park › Birkenhead, Merseyside
+  Sat Oct 9
+    12.00     Forest Green v Swindon Town  0-2 (0-0)   @ The Fully Charged New Lawn › Nailsworth, Gloucestershire
+    15.00     Bristol Rovers v Carlisle  3-0 (1-0)   @ Memorial Stadium › Bristol, Gloucestershire
+              Rochdale v Crawley Town  0-1 (0-1)   @ Crown Oil Arena › Rochdale, Greater Manchester
+              Walsall v Salford City  2-1 (1-0)   @ Banks's Stadium › Walsall, West Midlands
+              Hartlepool v Northampton  2-1 (0-0)   @ Victoria Park › Hartlepool, County Durham
+              Newport County v Bradford  0-0 (0-0)   @ Rodney Parade › Casnewydd
+              Stevenage v Exeter City  2-2 (1-1)   @ The Lamex Stadium › Stevenage, Hertfordshire
+              Mansfield Town v Oldham  0-0 (0-0)   @ One Call Stadium › Mansfield, Nottinghamshire
+              Barrow v Leyton Orient  1-1 (0-0)   @ The Dunes Hotel Stadium › Barrow-in-Furness, Cumbria
+              Sutton Utd v Port Vale  4-3 (1-2)   @ VBS Community Stadium › Sutton, Surrey
+              Harrogate Town v Scunthorpe  6-1 (5-0)   @ EnviroVent Stadium › Harrogate, North Yorkshire
+» Regular Season - 12
+  Sat Oct 16
+    15.00     Northampton v Mansfield Town  2-0 (1-0)   @ Sixfields Stadium › Northampton, East Midlands
+              Scunthorpe v Forest Green  0-2 (0-0)   @ Sands Stadium › Scunthorpe
+              Bradford v Bristol Rovers  2-2 (1-0)   @ The Utilita Energy Stadium › Bradford, West Yorkshire
+              Oldham v Stevenage  3-0 (2-0)   @ Boundary Park › Oldham, Greater Manchester
+              Port Vale v Barrow  3-1 (0-1)   @ Vale Park › Stoke-on-Trent, Staffordshire
+              Swindon Town v Rochdale  2-2 (1-0)   @ The County Ground › Swindon, Wiltshire
+              Colchester v Harrogate Town  1-0 (0-0)   @ JobServe Community Stadium › Colchester, Essex
+              Crawley Town v Sutton Utd  0-1 (0-0)   @ The People's Pension Stadium › Crawley, West Sussex
+              Exeter City v Newport County  2-2 (1-2)   @ St James Park › Exeter, Devon
+              Carlisle v Tranmere  0-1 (0-0)   @ Brunton Park › Carlisle, Cumbria
+              Leyton Orient v Walsall  0-0 (0-0)   @ The Breyer Group Stadium › London
+              Salford City v Hartlepool  2-0 (1-0)   @ The Peninsula Stadium › Salford, Greater Manchester
+» Regular Season - 13
+  Tue Oct 19
+    19.45     Northampton v Stevenage  3-0 (2-0)   @ Sixfields Stadium › Northampton, East Midlands
+              Bradford v Hartlepool  1-3 (0-1)   @ The Utilita Energy Stadium › Bradford, West Yorkshire
+              Oldham v Walsall  1-3 (0-2)   @ Boundary Park › Oldham, Greater Manchester
+              Colchester v Bristol Rovers  1-1 (0-0)   @ JobServe Community Stadium › Colchester, Essex
+              Crawley Town v Exeter City  1-3 (1-0)   @ The People's Pension Stadium › Crawley, West Sussex
+              Newport County v Carlisle  2-2 (2-1)   @ Rodney Parade › Casnewydd
+              Leyton Orient v Forest Green  1-1 (0-0)   @ The Breyer Group Stadium › London
+              Mansfield Town v Port Vale  1-1 (0-1)   @ One Call Stadium › Mansfield, Nottinghamshire
+              Barrow v Scunthorpe  1-1 (0-1)   @ The Dunes Hotel Stadium › Barrow-in-Furness, Cumbria
+              Sutton Utd v Swindon Town  1-2 (1-2)   @ VBS Community Stadium › Sutton, Surrey
+              Harrogate Town v Tranmere  2-2 (1-1)   @ EnviroVent Stadium › Harrogate, North Yorkshire
+              Salford City v Rochdale  0-0 (0-0)   @ The Peninsula Stadium › Salford, Greater Manchester
+» Regular Season - 14
+  Sat Oct 23
+    15.00     Bristol Rovers v Newport County  1-3 (1-2)   @ Memorial Stadium › Bristol, Gloucestershire
+              Rochdale v Sutton Utd  3-2 (1-0)   @ Crown Oil Arena › Rochdale, Greater Manchester
+              Scunthorpe v Crawley Town  2-1 (1-0)   @ Sands Stadium › Scunthorpe
+              Walsall v Barrow  2-2 (1-1)   @ Banks's Stadium › Walsall, West Midlands
+              Port Vale v Colchester  3-0 (2-0)   @ Vale Park › Stoke-on-Trent, Staffordshire
+              Swindon Town v Bradford  1-3 (0-2)   @ The County Ground › Swindon, Wiltshire
+              Exeter City v Mansfield Town  2-1 (0-0)   @ St James Park › Exeter, Devon
+              Hartlepool v Harrogate Town  3-2 (0-2)   @ Victoria Park › Hartlepool, County Durham
+              Stevenage v Leyton Orient  0-0 (0-0)   @ The Lamex Stadium › Stevenage, Hertfordshire
+              Carlisle v Oldham  0-0 (0-0)   @ Brunton Park › Carlisle, Cumbria
+              Forest Green v Salford City  3-1 (1-1)   @ The Fully Charged New Lawn › Nailsworth, Gloucestershire
+              Tranmere v Northampton  0-2 (0-0)   @ Prenton Park › Birkenhead, Merseyside
+» Regular Season - 6
+  Tue Oct 26
+    19.45     Colchester v Sutton Utd  1-3 (1-2)   @ JobServe Community Stadium › Colchester, Essex
+» Regular Season - 15
+  Sat Oct 30
+    14.00     Northampton v Carlisle  3-0 (1-0)   @ Sixfields Stadium › Northampton, East Midlands
+    15.00     Bradford v Forest Green  1-1 (1-0)   @ The Utilita Energy Stadium › Bradford, West Yorkshire
+              Oldham v Swindon Town  1-3 (0-1)   @ Boundary Park › Oldham, Greater Manchester
+              Colchester v Scunthorpe  2-1 (2-0)   @ JobServe Community Stadium › Colchester, Essex
+              Crawley Town v Port Vale  1-4 (1-0)   @ The People's Pension Stadium › Crawley, West Sussex
+              Newport County v Stevenage  5-0 (3-0)   @ Rodney Parade › Casnewydd
+              Leyton Orient v Hartlepool  5-0 (2-0)   @ The Breyer Group Stadium › London
+              Mansfield Town v Tranmere  2-0 (1-0)   @ One Call Stadium › Mansfield, Nottinghamshire
+              Barrow v Rochdale  1-2 (0-1)   @ The Dunes Hotel Stadium › Barrow-in-Furness, Cumbria
+              Sutton Utd v Walsall  0-1 (0-0)   @ VBS Community Stadium › Sutton, Surrey
+              Harrogate Town v Bristol Rovers  0-1 (0-0)   @ EnviroVent Stadium › Harrogate, North Yorkshire
+              Salford City v Exeter City  1-2 (0-0)   @ The Peninsula Stadium › Salford, Greater Manchester
+» Regular Season - 16
+  Fri Nov 12
+    19.45     Hartlepool v Newport County  1-2 (0-1)   @ Victoria Park › Hartlepool, County Durham
+  Sat Nov 13
+    12.00     Port Vale v Bradford  1-1 (0-0)   @ Vale Park › Stoke-on-Trent, Staffordshire
+    13.00     Carlisle v Barrow  0-0 (0-0)   @ Brunton Park › Carlisle, Cumbria
+    15.00     Bristol Rovers v Northampton  2-1 (0-1)   @ Memorial Stadium › Bristol, Gloucestershire
+              Rochdale v Leyton Orient  2-2 (1-1)   @ Crown Oil Arena › Rochdale, Greater Manchester
+              Scunthorpe v Salford City  1-1 (1-0)   @ Sands Stadium › Scunthorpe
+              Walsall v Harrogate Town  1-3 (0-1)   @ Banks's Stadium › Walsall, West Midlands
+              Exeter City v Oldham  2-1 (1-0)   @ St James Park › Exeter, Devon
+              Stevenage v Mansfield Town  1-2 (0-1)   @ The Lamex Stadium › Stevenage, Hertfordshire
+              Tranmere v Sutton Utd  0-1 (0-0)   @ Prenton Park › Birkenhead, Merseyside
+» Regular Season - 17
+  Sat Nov 20
+    15.00     Bristol Rovers v Tranmere  2-2 (2-1)   @ Memorial Stadium › Bristol, Gloucestershire
+              Walsall v Rochdale  0-0 (0-0)   @ Banks's Stadium › Walsall, West Midlands
+              Bradford v Northampton  1-1 (0-0)   @ The Utilita Energy Stadium › Bradford, West Yorkshire
+              Oldham v Port Vale  3-2 (1-1)   @ Boundary Park › Oldham, Greater Manchester
+              Exeter City v Carlisle  2-1 (0-0)   @ St James Park › Exeter, Devon
+              Hartlepool v Forest Green  1-3 (0-3)   @ Victoria Park › Hartlepool, County Durham
+              Newport County v Swindon Town  1-2 (0-0)   @ Rodney Parade › Casnewydd
+              Stevenage v Colchester  1-0 (1-0)   @ The Lamex Stadium › Stevenage, Hertfordshire
+              Leyton Orient v Sutton Utd  4-1 (1-1)   @ The Breyer Group Stadium › London
+              Mansfield Town v Scunthorpe  3-1 (2-1)   @ One Call Stadium › Mansfield, Nottinghamshire
+              Barrow v Crawley Town  0-1 (0-0)   @ The Dunes Hotel Stadium › Barrow-in-Furness, Cumbria
+              Harrogate Town v Salford City  0-2 (0-1)   @ EnviroVent Stadium › Harrogate, North Yorkshire
+» Regular Season - 18
+  Tue Nov 23
+    19.45     Northampton v Oldham  2-1 (2-0)   @ Sixfields Stadium › Northampton, East Midlands
+              Rochdale v Stevenage  2-2 (2-1)   @ Crown Oil Arena › Rochdale, Greater Manchester
+              Scunthorpe v Leyton Orient  1-1 (0-1)   @ Sands Stadium › Scunthorpe
+              Port Vale v Walsall  0-1 (0-1)   @ Vale Park › Stoke-on-Trent, Staffordshire
+              Swindon Town v Hartlepool  3-1 (0-0)   @ The County Ground › Swindon, Wiltshire
+              Colchester v Exeter City  3-1 (2-0)   @ JobServe Community Stadium › Colchester, Essex
+              Crawley Town v Newport County  1-1 (0-0)   @ The People's Pension Stadium › Crawley, West Sussex
+              Carlisle v Harrogate Town  0-2 (0-1)   @ Brunton Park › Carlisle, Cumbria
+              Forest Green v Barrow  2-0 (0-0)   @ The Fully Charged New Lawn › Nailsworth, Gloucestershire
+              Tranmere v Bradford  2-1 (0-1)   @ Prenton Park › Birkenhead, Merseyside
+              Sutton Utd v Mansfield Town  2-0 (1-0)   @ VBS Community Stadium › Sutton, Surrey
+              Salford City v Bristol Rovers  1-1 (0-1)   @ The Peninsula Stadium › Salford, Greater Manchester
+» Regular Season - 19
+  Fri Nov 26
+    19.45     Colchester v Newport County  1-1 (0-1)   @ JobServe Community Stadium › Colchester, Essex
+  Sat Nov 27
+    15.00     Northampton v Leyton Orient  1-0 (1-0)   @ Sixfields Stadium › Northampton, East Midlands
+              Rochdale v Exeter City  1-1 (0-0)   @ Crown Oil Arena › Rochdale, Greater Manchester
+              Scunthorpe v Bradford  1-1 (1-0)   @ Sands Stadium › Scunthorpe
+              Port Vale v Hartlepool  2-0 (1-0)   @ Vale Park › Stoke-on-Trent, Staffordshire
+              Swindon Town v Harrogate Town  1-1 (0-1)   @ The County Ground › Swindon, Wiltshire
+              Crawley Town v Mansfield Town  1-2 (0-1)   @ The People's Pension Stadium › Crawley, West Sussex
+              Carlisle v Walsall  1-0 (0-0)   @ Brunton Park › Carlisle, Cumbria
+              Forest Green v Bristol Rovers  2-0 (1-0)   @ The Fully Charged New Lawn › Nailsworth, Gloucestershire
+              Sutton Utd v Barrow  1-0 (1-0)   @ VBS Community Stadium › Sutton, Surrey
+              Salford City v Oldham  2-0 (1-0)   @ The Peninsula Stadium › Salford, Greater Manchester
+» Regular Season - 20
+  Tue Dec 7
+    19.45     Bristol Rovers v Port Vale  1-2 (0-2)   @ Memorial Stadium › Bristol, Gloucestershire
+              Walsall v Crawley Town  1-1 (1-1)   @ Banks's Stadium › Walsall, West Midlands
+              Oldham v Tranmere  0-1 (0-0)   @ Boundary Park › Oldham, Greater Manchester
+              Exeter City v Northampton  1-2 (0-1)   @ St James Park › Exeter, Devon
+              Newport County v Sutton Utd  3-2 (0-2)   @ Rodney Parade › Casnewydd
+              Stevenage v Scunthorpe  1-1 (1-1)   @ The Lamex Stadium › Stevenage, Hertfordshire
+              Leyton Orient v Swindon Town  4-1 (1-1)   @ The Breyer Group Stadium › London
+              Mansfield Town v Carlisle  1-0 (1-0)   @ One Call Stadium › Mansfield, Nottinghamshire
+              Harrogate Town v Forest Green  1-4 (0-3)   @ EnviroVent Stadium › Harrogate, North Yorkshire
+  Wed Dec 8
+    19.45     Hartlepool v Rochdale  2-1 (0-0)   @ The Suit Direct Stadium › Hartlepool, County Durham
+              Bradford v Colchester  0-0 (0-0)   @ The Utilita Energy Stadium › Bradford, West Yorkshire
+» Regular Season - 21
+  Sat Dec 11
+    15.00     Bristol Rovers v Rochdale  4-2 (1-0)   @ Memorial Stadium › Bristol, Gloucestershire
+              Walsall v Colchester  3-0 (2-0)   @ Banks's Stadium › Walsall, West Midlands
+              Bradford v Sutton Utd  2-2 (1-1)   @ The Utilita Energy Stadium › Bradford, West Yorkshire
+              Oldham v Forest Green  5-5 (1-3)   @ Boundary Park › Oldham, Greater Manchester
+              Exeter City v Tranmere  0-1 (0-1)   @ St James Park › Exeter, Devon
+              Hartlepool v Scunthorpe  0-0 (0-0)   @ The Suit Direct Stadium › Hartlepool, County Durham
+              Newport County v Port Vale  2-1 (0-1)   @ Rodney Parade › Casnewydd
+              Stevenage v Carlisle  0-2 (0-1)   @ The Lamex Stadium › Stevenage, Hertfordshire
+              Leyton Orient v Crawley Town  1-2 (0-1)   @ The Breyer Group Stadium › London
+              Mansfield Town v Salford City  2-1 (2-1)   @ One Call Stadium › Mansfield, Nottinghamshire
+              Barrow v Swindon Town  2-0 (0-0)   @ The Dunes Hotel Stadium › Barrow-in-Furness, Cumbria
+              Harrogate Town v Northampton  1-2 (1-1)   @ EnviroVent Stadium › Harrogate, North Yorkshire
+» Regular Season - 22
+  Sat Dec 18
+    15.00     Tranmere v Leyton Orient  1-0 (0-0)   @ Prenton Park › Birkenhead, Merseyside
+              Sutton Utd v Harrogate Town  1-0 (1-0)   @ VBS Community Stadium › Sutton, Surrey
+              Salford City v Stevenage  1-0 (1-0)   @ The Peninsula Stadium › Salford, Greater Manchester
+              Rochdale v Newport County  3-0 (1-0)   @ Crown Oil Arena › Rochdale, Greater Manchester
+» Regular Season - 23
+  Sun Dec 26
+    15.00     Oldham v Scunthorpe  1-3 (1-0)   @ Boundary Park › Oldham, Greater Manchester
+              Mansfield Town v Hartlepool  3-2 (0-1)   @ One Call Stadium › Mansfield, Nottinghamshire
+              Tranmere v Barrow  2-0 (1-0)   @ Prenton Park › Birkenhead, Merseyside
+» Regular Season - 24
+  Wed Dec 29
+    19.45     Barrow v Oldham  0-0 (0-0)   @ The Dunes Hotel Stadium › Barrow-in-Furness, Cumbria
+              Swindon Town v Stevenage  0-0 (0-0)   @ The County Ground › Swindon, Wiltshire
+» Regular Season - 25
+  Sat Jan 1 2022
+    15.00     Scunthorpe v Carlisle  0-1 (0-1)   @ Sands Stadium › Scunthorpe
+  Sat Jan 1
+    15.00     Walsall v Newport County  3-3 (0-1)   @ Banks's Stadium › Walsall, West Midlands
+              Swindon Town v Northampton  5-2 (1-1)   @ The County Ground › Swindon, Wiltshire
+              Crawley Town v Colchester  3-1 (2-0)   @ The People's Pension Stadium › Crawley, West Sussex
+              Hartlepool v Oldham  0-0 (0-0)   @ The Suit Direct Stadium › Hartlepool, County Durham
+              Forest Green v Stevenage  2-0 (0-0)   @ The Fully Charged New Lawn › Nailsworth, Gloucestershire
+              Barrow v Bradford  1-2 (0-1)   @ The Dunes Hotel Stadium › Barrow-in-Furness, Cumbria
+              Sutton Utd v Exeter City  2-1 (1-1)   @ VBS Community Stadium › Sutton, Surrey
+» Regular Season - 24
+  Tue Jan 4
+    19.45     Forest Green v Exeter City  0-0 (0-0)   @ The Fully Charged New Lawn › Nailsworth, Gloucestershire
+» Regular Season - 22
+  Sat Jan 8
+    15.00     Carlisle v Bradford  2-0 (1-0)   @ Brunton Park › Carlisle, Cumbria
+» Regular Season - 26
+  Sat Jan 8
+    15.00     Stevenage v Walsall  3-1 (2-0)   @ The Lamex Stadium › Stevenage, Hertfordshire
+              Newport County v Salford City  0-2 (0-1)   @ Rodney Parade › Casnewydd
+              Northampton v Crawley Town  0-1 (0-1)   @ Sixfields Stadium › Northampton, East Midlands
+              Tranmere v Scunthorpe  4-0 (2-0)   @ Prenton Park › Birkenhead, Merseyside
+» Regular Season - 16
+  Tue Jan 11
+    19.45     Forest Green v Colchester  2-0 (1-0)   @ The Fully Charged New Lawn › Nailsworth, Gloucestershire
+» Regular Season - 25
+  Tue Jan 11
+    19.45     Salford City v Tranmere  1-1 (1-0)   @ The Peninsula Stadium › Salford, Greater Manchester
+» Regular Season - 26
+  Tue Jan 11
+    19.30     Mansfield Town v Swindon Town  3-2 (3-1)   @ One Call Stadium › Mansfield, Nottinghamshire
+» Regular Season - 27
+  Sat Jan 15
+    12.30     Newport County v Harrogate Town  4-0 (2-0)   @ Rodney Parade › Casnewydd
+    15.00     Bristol Rovers v Hartlepool  2-0 (0-0)   @ Memorial Stadium › Bristol, Gloucestershire
+              Northampton v Forest Green  1-1 (0-0)   @ Sixfields Stadium › Northampton, East Midlands
+              Bradford v Salford City  2-1 (0-1)   @ The Utilita Energy Stadium › Bradford, West Yorkshire
+              Port Vale v Swindon Town  1-3 (1-2)   @ Vale Park › Stoke-on-Trent, Staffordshire
+              Colchester v Barrow  0-2 (0-0)   @ JobServe Community Stadium › Colchester, Essex
+              Exeter City v Scunthorpe  2-0 (0-0)   @ St James Park › Exeter, Devon
+              Stevenage v Sutton Utd  3-3 (2-0)   @ The Lamex Stadium › Stevenage, Hertfordshire
+              Carlisle v Crawley Town  1-1 (0-1)   @ Brunton Park › Carlisle, Cumbria
+              Mansfield Town v Walsall  2-0 (0-0)   @ One Call Stadium › Mansfield, Nottinghamshire
+              Tranmere v Rochdale  2-0 (2-0)   @ Prenton Park › Birkenhead, Merseyside
+» Regular Season - 23
+  Tue Jan 18
+    19.45     Stevenage v Crawley Town  2-1 (1-1)   @ The Lamex Stadium › Stevenage, Hertfordshire
+              Port Vale v Salford City  0-1 (0-0)   @ Vale Park › Stoke-on-Trent, Staffordshire
+» Regular Season - 24
+  Tue Jan 18
+    19.45     Sutton Utd v Colchester  3-2 (1-2)   @ VBS Community Stadium › Sutton, Surrey
+» Regular Season - 26
+  Tue Jan 18
+    19.45     Carlisle v Hartlepool  0-0 (0-0)   @ Brunton Park › Carlisle, Cumbria
+» Regular Season - 28
+  Sat Jan 22
+    13.00     Swindon Town v Bristol Rovers  1-1 (1-1)   @ The County Ground › Swindon, Wiltshire
+    15.00     Rochdale v Bradford  0-0 (0-0)   @ Crown Oil Arena › Rochdale, Greater Manchester
+              Scunthorpe v Newport County  0-1 (0-0)   @ Sands Stadium › Scunthorpe
+              Walsall v Exeter City  0-2 (0-1)   @ Banks's Stadium › Walsall, West Midlands
+              Crawley Town v Tranmere  0-1 (0-0)   @ The People's Pension Stadium › Crawley, West Sussex
+              Hartlepool v Stevenage  1-1 (0-0)   @ The Suit Direct Stadium › Hartlepool, County Durham
+              Leyton Orient v Port Vale  0-0 (0-0)   @ The Breyer Group Stadium › London
+              Forest Green v Carlisle  3-0 (1-0)   @ The Fully Charged New Lawn › Nailsworth, Gloucestershire
+              Barrow v Mansfield Town  1-3 (1-2)   @ The Dunes Hotel Stadium › Barrow-in-Furness, Cumbria
+              Sutton Utd v Northampton  0-0 (0-0)   @ VBS Community Stadium › Sutton, Surrey
+              Harrogate Town v Oldham  3-0 (1-0)   @ EnviroVent Stadium › Harrogate, North Yorkshire
+              Salford City v Colchester  0-3 (0-2)   @ The Peninsula Stadium › Salford, Greater Manchester
+» Regular Season - 20
+  Tue Jan 25
+    19.45     Barrow v Salford City  0-2 (0-0)   @ The Dunes Hotel Stadium › Barrow-in-Furness, Cumbria
+» Regular Season - 22
+  Tue Jan 25
+    19.45     Scunthorpe v Bristol Rovers  2-3 (0-1)   @ Sands Stadium › Scunthorpe
+» Regular Season - 24
+  Tue Jan 25
+    19.45     Leyton Orient v Newport County  0-1 (0-0)   @ The Breyer Group Stadium › London
+              Walsall v Bradford  1-2 (0-1)   @ Banks's Stadium › Walsall, West Midlands
+» Regular Season - 29
+  Sat Jan 29
+    15.00     Bristol Rovers v Walsall  1-0 (0-0)   @ Memorial Stadium › Bristol, Gloucestershire
+              Northampton v Salford City  1-0 (1-0)   @ Sixfields Stadium › Northampton, East Midlands
+              Bradford v Crawley Town  1-2 (1-0)   @ The Utilita Energy Stadium › Bradford, West Yorkshire
+              Oldham v Rochdale  0-0 (0-0)   @ Boundary Park › Oldham, Greater Manchester
+              Port Vale v Scunthorpe  1-0 (0-0)   @ Vale Park › Stoke-on-Trent, Staffordshire
+              Colchester v Swindon Town  1-1 (0-0)   @ JobServe Community Stadium › Colchester, Essex
+              Exeter City v Hartlepool  0-0 (0-0)   @ St James Park › Exeter, Devon
+              Newport County v Barrow  2-1 (2-0)   @ Rodney Parade › Casnewydd
+              Stevenage v Harrogate Town  3-0 (2-0)   @ The Lamex Stadium › Stevenage, Hertfordshire
+              Carlisle v Sutton Utd  0-2 (0-2)   @ Brunton Park › Carlisle, Cumbria
+              Mansfield Town v Leyton Orient  2-0 (1-0)   @ One Call Stadium › Mansfield, Nottinghamshire
+              Tranmere v Forest Green  0-4 (0-2)   @ Prenton Park › Birkenhead, Merseyside
+» Regular Season - 16
+  Tue Feb 1
+    19.45     Swindon Town v Crawley Town  1-1 (0-1)   @ The County Ground › Swindon, Wiltshire
+» Regular Season - 19
+  Tue Feb 1
+    19.45     Tranmere v Stevenage  1-0 (0-0)   @ Prenton Park › Birkenhead, Merseyside
+» Regular Season - 22
+  Tue Feb 1
+    19.45     Northampton v Barrow  0-1 (0-0)   @ Sixfields Stadium › Northampton, East Midlands
+» Regular Season - 24
+  Tue Feb 1
+    19.45     Harrogate Town v Mansfield Town  0-0 (0-0)   @ EnviroVent Stadium › Harrogate, North Yorkshire
+              Salford City v Carlisle  2-1 (0-0)   @ The Peninsula Stadium › Salford, Greater Manchester
+» Regular Season - 26
+  Tue Feb 1
+    19.45     Colchester v Rochdale  1-1 (0-0)   @ JobServe Community Stadium › Colchester, Essex
+              Port Vale v Forest Green  1-1 (1-0)   @ Vale Park › Stoke-on-Trent, Staffordshire
+              Bradford v Leyton Orient  1-1 (0-0)   @ The Utilita Energy Stadium › Bradford, West Yorkshire
+» Regular Season - 30
+  Sat Feb 5
+    13.00     Harrogate Town v Bradford  2-0 (0-0)   @ EnviroVent Stadium › Harrogate, North Yorkshire
+    15.00     Scunthorpe v Oldham  0-1 (0-0)   @ Sands Stadium › Scunthorpe
+              Walsall v Northampton  0-1 (0-1)   @ Banks's Stadium › Walsall, West Midlands
+              Swindon Town v Exeter City  1-2 (0-0)   @ The County Ground › Swindon, Wiltshire
+              Crawley Town v Stevenage  2-2 (1-0)   @ The People's Pension Stadium › Crawley, West Sussex
+              Leyton Orient v Colchester  0-1 (0-1)   @ The Breyer Group Stadium › London
+              Forest Green v Newport County  2-0 (1-0)   @ The Fully Charged New Lawn › Nailsworth, Gloucestershire
+              Barrow v Tranmere  1-1 (0-1)   @ The Dunes Hotel Stadium › Barrow-in-Furness, Cumbria
+              Sutton Utd v Bristol Rovers  1-1 (1-0)   @ VBS Community Stadium › Sutton, Surrey
+» Regular Season - 2
+  Tue Feb 8
+    19.45     Sutton Utd v Salford City  0-0 (0-0)   @ VBS Community Stadium › Sutton, Surrey
+» Regular Season - 31
+  Tue Feb 8
+    19.45     Scunthorpe v Walsall  1-0 (1-0)   @ Sands Stadium › Scunthorpe
+              Oldham v Bristol Rovers  2-1 (2-1)   @ Boundary Park › Oldham, Greater Manchester
+              Exeter City v Leyton Orient  1-0 (0-0)   @ St James Park › Exeter, Devon
+              Hartlepool v Barrow  3-1 (3-1)   @ The Suit Direct Stadium › Hartlepool, County Durham
+              Stevenage v Bradford  0-1 (0-0)   @ The Lamex Stadium › Stevenage, Hertfordshire
+              Carlisle v Port Vale  1-3 (1-2)   @ Brunton Park › Carlisle, Cumbria
+              Mansfield Town v Colchester  2-1 (1-0)   @ One Call Stadium › Mansfield, Nottinghamshire
+              Forest Green v Rochdale  2-1 (0-0)   @ The Fully Charged New Lawn › Nailsworth, Gloucestershire
+              Tranmere v Swindon Town  3-0 (1-0)   @ Prenton Park › Birkenhead, Merseyside
+              Northampton v Newport County  1-0 (0-0)   @ Sixfields Stadium › Northampton, East Midlands
+              Harrogate Town v Crawley Town  1-3 (0-0)   @ EnviroVent Stadium › Harrogate, North Yorkshire
+» Regular Season - 32
+  Sat Feb 12
+    15.00     Bristol Rovers v Mansfield Town  0-0 (0-0)   @ Memorial Stadium › Bristol, Gloucestershire
+              Rochdale v Harrogate Town  3-3 (1-2)   @ Crown Oil Arena › Rochdale, Greater Manchester
+              Walsall v Tranmere  1-0 (0-0)   @ Banks's Stadium › Walsall, West Midlands
+              Bradford v Exeter City  0-1 (0-1)   @ The Utilita Energy Stadium › Bradford, West Yorkshire
+              Port Vale v Northampton  0-0 (0-0)   @ Vale Park › Stoke-on-Trent, Staffordshire
+              Swindon Town v Scunthorpe  3-0 (0-0)   @ The County Ground › Swindon, Wiltshire
+              Colchester v Carlisle  2-2 (0-0)   @ JobServe Community Stadium › Colchester, Essex
+              Crawley Town v Hartlepool  0-1 (0-1)   @ The People's Pension Stadium › Crawley, West Sussex
+              Newport County v Oldham  3-3 (2-1)   @ Rodney Parade › Casnewydd
+              Leyton Orient v Salford City  0-2 (0-0)   @ The Breyer Group Stadium › London
+              Barrow v Stevenage  0-0 (0-0)   @ The Dunes Hotel Stadium › Barrow-in-Furness, Cumbria
+              Sutton Utd v Forest Green  1-1 (1-0)   @ VBS Community Stadium › Sutton, Surrey
+» Regular Season - 23
+  Tue Feb 15
+    19.45     Bristol Rovers v Sutton Utd  2-0 (1-0)   @ Memorial Stadium › Bristol, Gloucestershire
+» Regular Season - 24
+  Tue Feb 15
+    19.45     Hartlepool v Tranmere  1-0 (1-0)   @ The Suit Direct Stadium › Hartlepool, County Durham
+» Regular Season - 26
+  Tue Feb 15
+    19.45     Exeter City v Harrogate Town  4-3 (1-2)   @ St James Park › Exeter, Devon
+» Regular Season - 2
+  Sat Feb 19
+    15.00     Newport County v Mansfield Town  1-1 (0-0)   @ Rodney Parade › Casnewydd
+» Regular Season - 33
+  Sat Feb 19
+    14.00     Northampton v Colchester  3-0 (1-0)   @ Sixfields Stadium › Northampton, East Midlands
+    15.00     Hartlepool v Sutton Utd  1-1 (0-1)   @ The Suit Direct Stadium › Hartlepool, County Durham
+              Oldham v Bradford  2-0 (2-0)   @ Boundary Park › Oldham, Greater Manchester
+              Scunthorpe v Rochdale  1-2 (1-0)   @ Sands Stadium › Scunthorpe
+              Stevenage v Bristol Rovers  0-4 (0-1)   @ The Lamex Stadium › Stevenage, Hertfordshire
+              Carlisle v Swindon Town  0-3 (0-1)   @ Brunton Park › Carlisle, Cumbria
+              Forest Green v Walsall  0-1 (0-1)   @ The Fully Charged New Lawn › Nailsworth, Gloucestershire
+              Tranmere v Port Vale  1-1 (0-0)   @ Prenton Park › Birkenhead, Merseyside
+» Regular Season - 22
+  Tue Feb 22
+    19.45     Swindon Town v Walsall  5-0 (2-0)   @ The County Ground › Swindon, Wiltshire
+              Colchester v Hartlepool  1-2 (1-0)   @ JobServe Community Stadium › Colchester, Essex
+» Regular Season - 23
+  Tue Feb 22
+    19.45     Bradford v Harrogate Town  1-3 (1-1)   @ The Utilita Energy Stadium › Bradford, West Yorkshire
+» Regular Season - 24
+  Tue Feb 22
+    19.45     Scunthorpe v Northampton  0-0 (0-0)   @ Sands Stadium › Scunthorpe
+              Rochdale v Port Vale  1-1 (0-1)   @ Crown Oil Arena › Rochdale, Greater Manchester
+» Regular Season - 25
+  Tue Feb 22
+    19.45     Leyton Orient v Bristol Rovers  0-2 (0-2)   @ The Breyer Group Stadium › London
+» Regular Season - 34
+  Sat Feb 26
+    15.00     Bristol Rovers v Exeter City  1-1 (1-1)   @ Memorial Stadium › Bristol, Gloucestershire
+              Rochdale v Northampton  1-0 (0-0)   @ Crown Oil Arena › Rochdale, Greater Manchester
+              Walsall v Hartlepool  3-1 (2-0)   @ Banks's Stadium › Walsall, West Midlands
+              Bradford v Mansfield Town  0-2 (0-1)   @ The Utilita Energy Stadium › Bradford, West Yorkshire
+              Port Vale v Stevenage  2-0 (2-0)   @ Vale Park › Stoke-on-Trent, Staffordshire
+              Swindon Town v Salford City  1-2 (0-0)   @ The County Ground › Swindon, Wiltshire
+              Colchester v Oldham  1-1 (0-1)   @ JobServe Community Stadium › Colchester, Essex
+              Crawley Town v Forest Green  2-1 (2-0)   @ The People's Pension Stadium › Crawley, West Sussex
+              Newport County v Tranmere  4-2 (0-0)   @ Rodney Parade › Casnewydd
+              Leyton Orient v Carlisle  0-1 (0-1)   @ The Breyer Group Stadium › London
+              Barrow v Harrogate Town  0-0 (0-0)   @ The Dunes Hotel Stadium › Barrow-in-Furness, Cumbria
+              Sutton Utd v Scunthorpe  4-1 (3-0)   @ VBS Community Stadium › Sutton, Surrey
+» Regular Season - 22
+  Tue Mar 1
+    19.45     Crawley Town v Oldham  2-2 (0-0)   @ The People's Pension Stadium › Crawley, West Sussex
+» Regular Season - 23
+  Tue Mar 1
+    19.45     Colchester v Leyton Orient  2-2 (0-0)   @ JobServe Community Stadium › Colchester, Essex
+              Northampton v Walsall  1-1 (1-0)   @ Sixfields Stadium › Northampton, East Midlands
+              Carlisle v Rochdale  2-0 (1-0)   @ Brunton Park › Carlisle, Cumbria
+              Newport County v Forest Green  1-1 (1-0)   @ Rodney Parade › Casnewydd
+» Regular Season - 25
+  Tue Mar 1
+    19.45     Harrogate Town v Port Vale  1-1 (1-0)   @ EnviroVent Stadium › Harrogate, North Yorkshire
+» Regular Season - 26
+  Tue Mar 1
+    19.45     Bristol Rovers v Barrow  1-0 (0-0)   @ Memorial Stadium › Bristol, Gloucestershire
+» Regular Season - 35
+  Fri Mar 4
+    19.45     Mansfield Town v Exeter City  2-1 (1-0)   @ One Call Stadium › Mansfield, Nottinghamshire
+  Sat Mar 5
+    12.30     Harrogate Town v Hartlepool  1-2 (1-1)   @ EnviroVent Stadium › Harrogate, North Yorkshire
+    15.00     Northampton v Tranmere  3-2 (2-0)   @ Sixfields Stadium › Northampton, East Midlands
+              Bradford v Swindon Town  1-2 (1-1)   @ The Utilita Energy Stadium › Bradford, West Yorkshire
+              Oldham v Carlisle  1-2 (1-0)   @ Boundary Park › Oldham, Greater Manchester
+              Colchester v Port Vale  1-0 (0-0)   @ JobServe Community Stadium › Colchester, Essex
+              Crawley Town v Scunthorpe  0-0 (0-0)   @ The People's Pension Stadium › Crawley, West Sussex
+              Newport County v Bristol Rovers  1-0 (1-0)   @ Rodney Parade › Casnewydd
+              Leyton Orient v Stevenage  2-2 (1-2)   @ The Breyer Group Stadium › London
+              Barrow v Walsall  1-1 (1-0)   @ The Dunes Hotel Stadium › Barrow-in-Furness, Cumbria
+              Sutton Utd v Rochdale  3-0 (2-0)   @ VBS Community Stadium › Sutton, Surrey
+              Salford City v Forest Green  1-1 (1-0)   @ The Peninsula Stadium › Salford, Greater Manchester
+» Regular Season - 23
+  Tue Mar 8
+    19.45     Exeter City v Swindon Town  3-1 (2-0)   @ St James Park › Exeter, Devon
+» Regular Season - 24
+  Tue Mar 8
+    19.45     Crawley Town v Bristol Rovers  1-2 (0-1)   @ The People's Pension Stadium › Crawley, West Sussex
+» Regular Season - 36
+  Fri Mar 11
+    19.45     Tranmere v Mansfield Town  3-2 (1-1)   @ Prenton Park › Birkenhead, Merseyside
+  Sat Mar 12
+    15.00     Bristol Rovers v Harrogate Town  3-0 (2-0)   @ Memorial Stadium › Bristol, Gloucestershire
+              Rochdale v Barrow  0-0 (0-0)   @ Crown Oil Arena › Rochdale, Greater Manchester
+              Scunthorpe v Colchester  1-3 (1-0)   @ Sands Stadium › Scunthorpe
+              Walsall v Sutton Utd  1-0 (1-0)   @ Banks's Stadium › Walsall, West Midlands
+              Port Vale v Crawley Town  4-1 (2-1)   @ Vale Park › Stoke-on-Trent, Staffordshire
+              Swindon Town v Oldham  1-0 (0-0)   @ The County Ground › Swindon, Wiltshire
+              Exeter City v Salford City  0-0 (0-0)   @ St James Park › Exeter, Devon
+              Hartlepool v Leyton Orient  0-0 (0-0)   @ The Suit Direct Stadium › Hartlepool, County Durham
+              Stevenage v Newport County  0-2 (0-0)   @ The Lamex Stadium › Stevenage, Hertfordshire
+              Carlisle v Northampton  2-1 (0-0)   @ Brunton Park › Carlisle, Cumbria
+              Forest Green v Bradford  0-2 (0-0)   @ The Fully Charged New Lawn › Nailsworth, Gloucestershire
+» Regular Season - 37
+  Tue Mar 15
+    19.45     Bristol Rovers v Colchester  1-0 (0-0)   @ Memorial Stadium › Bristol, Gloucestershire
+              Rochdale v Salford City  1-1 (1-0)   @ Crown Oil Arena › Rochdale, Greater Manchester
+              Scunthorpe v Barrow  0-1 (0-1)   @ Sands Stadium › Scunthorpe
+              Walsall v Oldham  2-1 (1-1)   @ Banks's Stadium › Walsall, West Midlands
+              Port Vale v Mansfield Town  3-1 (1-1)   @ Vale Park › Stoke-on-Trent, Staffordshire
+              Swindon Town v Sutton Utd  2-1 (1-1)   @ The County Ground › Swindon, Wiltshire
+              Exeter City v Crawley Town  2-1 (2-1)   @ St James Park › Exeter, Devon
+              Hartlepool v Bradford  0-2 (0-0)   @ The Suit Direct Stadium › Hartlepool, County Durham
+              Stevenage v Northampton  1-2 (0-1)   @ The Lamex Stadium › Stevenage, Hertfordshire
+              Carlisle v Newport County  1-2 (0-1)   @ Brunton Park › Carlisle, Cumbria
+              Forest Green v Leyton Orient  1-1 (1-0)   @ The Fully Charged New Lawn › Nailsworth, Gloucestershire
+              Tranmere v Harrogate Town  2-0 (0-0)   @ Prenton Park › Birkenhead, Merseyside
+» Regular Season - 38
+  Fri Mar 18
+    19.45     Newport County v Hartlepool  2-3 (1-2)   @ Rodney Parade › Casnewydd
+  Sat Mar 19
+    15.00     Northampton v Bristol Rovers  0-1 (0-1)   @ Sixfields Stadium › Northampton, East Midlands
+              Bradford v Port Vale  1-2 (0-0)   @ The Utilita Energy Stadium › Bradford, West Yorkshire
+              Oldham v Exeter City  0-2 (0-0)   @ Boundary Park › Oldham, Greater Manchester
+              Crawley Town v Swindon Town  3-1 (1-0)   @ The People's Pension Stadium › Crawley, West Sussex
+              Leyton Orient v Rochdale  3-1 (1-1)   @ The Breyer Group Stadium › London
+              Barrow v Carlisle  1-2 (0-1)   @ The Dunes Hotel Stadium › Barrow-in-Furness, Cumbria
+              Sutton Utd v Tranmere  1-1 (1-0)   @ VBS Community Stadium › Sutton, Surrey
+              Harrogate Town v Walsall  1-1 (0-0)   @ EnviroVent Stadium › Harrogate, North Yorkshire
+              Salford City v Scunthorpe  5-1 (2-0)   @ The Peninsula Stadium › Salford, Greater Manchester
+  Mon Mar 21
+    19.45     Colchester v Forest Green  0-1 (0-1)   @ JobServe Community Stadium › Colchester, Essex
+» Regular Season - 33
+  Tue Mar 22
+    19.00     Harrogate Town v Leyton Orient  0-3 (0-0)   @ EnviroVent Stadium › Harrogate, North Yorkshire
+» Regular Season - 22
+  Tue Mar 22
+    19.45     Port Vale v Exeter City  0-0 (0-0)   @ Vale Park › Stoke-on-Trent, Staffordshire
+» Regular Season - 25
+  Tue Mar 22
+    19.45     Rochdale v Mansfield Town  0-1 (0-0)   @ Crown Oil Arena › Rochdale, Greater Manchester
+» Regular Season - 26
+  Tue Mar 22
+    19.45     Oldham v Sutton Utd  1-3 (0-1)   @ Boundary Park › Oldham, Greater Manchester
+» Regular Season - 39
+  Sat Mar 26
+    15.00     Northampton v Hartlepool  2-0 (1-0)   @ Sixfields Stadium › Northampton, East Midlands
+              Scunthorpe v Harrogate Town  0-3 (0-1)   @ Sands Stadium › Scunthorpe
+              Bradford v Newport County  0-0 (0-0)   @ The Utilita Energy Stadium › Bradford, West Yorkshire
+              Oldham v Mansfield Town  1-2 (1-0)   @ Boundary Park › Oldham, Greater Manchester
+              Port Vale v Sutton Utd  2-0 (2-0)   @ Vale Park › Stoke-on-Trent, Staffordshire
+              Colchester v Tranmere  1-0 (0-0)   @ JobServe Community Stadium › Colchester, Essex
+              Crawley Town v Rochdale  1-0 (1-0)   @ The People's Pension Stadium › Crawley, West Sussex
+              Exeter City v Stevenage  2-1 (2-1)   @ St James Park › Exeter, Devon
+              Carlisle v Bristol Rovers  1-0 (0-0)   @ Brunton Park › Carlisle, Cumbria
+              Leyton Orient v Barrow  2-0 (0-0)   @ The Breyer Group Stadium › London
+              Salford City v Walsall  2-1 (1-1)   @ The Peninsula Stadium › Salford, Greater Manchester
+» Regular Season - 33
+  Tue Mar 29
+    19.45     Salford City v Crawley Town  2-1 (1-0)   @ The Peninsula Stadium › Salford, Greater Manchester
+» Regular Season - 27
+  Tue Mar 29
+    19.45     Oldham v Leyton Orient  2-0 (1-0)   @ Boundary Park › Oldham, Greater Manchester
+» Regular Season - 30
+  Tue Mar 29
+    19.45     Hartlepool v Mansfield Town  2-2 (2-2)   @ The Suit Direct Stadium › Hartlepool, County Durham
+              Rochdale v Carlisle  2-0 (1-0)   @ Crown Oil Arena › Rochdale, Greater Manchester
+» Regular Season - 40
+  Sat Apr 2
+    15.00     Bristol Rovers v Bradford  2-1 (0-0)   @ Memorial Stadium › Bristol, Gloucestershire
+              Rochdale v Swindon Town  0-0 (0-0)   @ Crown Oil Arena › Rochdale, Greater Manchester
+              Walsall v Leyton Orient  0-2 (0-2)   @ Banks's Stadium › Walsall, West Midlands
+              Hartlepool v Salford City  0-2 (0-2)   @ The Suit Direct Stadium › Hartlepool, County Durham
+              Newport County v Exeter City  0-1 (0-0)   @ Rodney Parade › Casnewydd
+              Stevenage v Oldham  0-1 (0-1)   @ The Lamex Stadium › Stevenage, Hertfordshire
+              Mansfield Town v Northampton  1-0 (1-0)   @ One Call Stadium › Mansfield, Nottinghamshire
+              Forest Green v Scunthorpe  1-0 (0-0)   @ The Fully Charged New Lawn › Nailsworth, Gloucestershire
+              Tranmere v Carlisle  2-2 (1-0)   @ Prenton Park › Birkenhead, Merseyside
+              Barrow v Port Vale  1-2 (1-0)   @ The Dunes Hotel Stadium › Barrow-in-Furness, Cumbria
+              Harrogate Town v Colchester  1-2 (1-2)   @ EnviroVent Stadium › Harrogate, North Yorkshire
+» Regular Season - 22
+  Tue Apr 5
+    19.45     Forest Green v Mansfield Town  1-0 (1-0)   @ The Fully Charged New Lawn › Nailsworth, Gloucestershire
+» Regular Season - 30
+  Tue Apr 5
+    19.45     Salford City v Port Vale  0-1 (0-0)   @ The Peninsula Stadium › Salford, Greater Manchester
+» Regular Season - 41
+  Sat Apr 9
+    15.00     Northampton v Bradford  0-0 (0-0)   @ Sixfields Stadium › Northampton, East Midlands
+              Rochdale v Walsall  1-0 (0-0)   @ Crown Oil Arena › Rochdale, Greater Manchester
+              Scunthorpe v Mansfield Town  0-4 (0-3)   @ Sands Stadium › Scunthorpe
+              Port Vale v Oldham  3-2 (2-2)   @ Vale Park › Stoke-on-Trent, Staffordshire
+              Swindon Town v Newport County  0-1 (0-0)   @ The County Ground › Swindon, Wiltshire
+              Colchester v Stevenage  0-2 (0-1)   @ JobServe Community Stadium › Colchester, Essex
+              Crawley Town v Barrow  1-0 (0-0)   @ The People's Pension Stadium › Crawley, West Sussex
+              Carlisle v Exeter City  0-1 (0-0)   @ Brunton Park › Carlisle, Cumbria
+              Forest Green v Hartlepool  1-1 (0-0)   @ The Fully Charged New Lawn › Nailsworth, Gloucestershire
+              Tranmere v Bristol Rovers  1-1 (0-0)   @ Prenton Park › Birkenhead, Merseyside
+              Sutton Utd v Leyton Orient  1-0 (1-0)   @ VBS Community Stadium › Sutton, Surrey
+              Salford City v Harrogate Town  2-0 (0-0)   @ The Peninsula Stadium › Salford, Greater Manchester
+» Regular Season - 42
+  Fri Apr 15
+    13.00     Exeter City v Colchester  2-0 (1-0)   @ St James Park › Exeter, Devon
+    15.00     Bristol Rovers v Salford City  1-0 (0-0)   @ Memorial Stadium › Bristol, Gloucestershire
+              Walsall v Carlisle  1-0 (1-0)   @ Banks's Stadium › Walsall, West Midlands
+              Bradford v Tranmere  1-1 (1-0)   @ The Utilita Energy Stadium › Bradford, West Yorkshire
+              Oldham v Northampton  0-2 (0-1)   @ Boundary Park › Oldham, Greater Manchester
+              Hartlepool v Port Vale  0-1 (0-0)   @ The Suit Direct Stadium › Hartlepool, County Durham
+              Newport County v Crawley Town  1-2 (0-2)   @ Rodney Parade › Casnewydd
+              Stevenage v Rochdale  1-0 (0-0)   @ The Lamex Stadium › Stevenage, Hertfordshire
+              Leyton Orient v Scunthorpe  3-0 (3-0)   @ The Breyer Group Stadium › London
+              Mansfield Town v Sutton Utd  2-3 (0-1)   @ One Call Stadium › Mansfield, Nottinghamshire
+              Barrow v Forest Green  4-0 (2-0)   @ The Dunes Hotel Stadium › Barrow-in-Furness, Cumbria
+              Harrogate Town v Swindon Town  1-4 (0-2)   @ EnviroVent Stadium › Harrogate, North Yorkshire
+» Regular Season - 43
+  Mon Apr 18
+    15.00     Northampton v Harrogate Town  3-0 (1-0)   @ Sixfields Stadium › Northampton, East Midlands
+              Rochdale v Hartlepool  2-1 (0-1)   @ Crown Oil Arena › Rochdale, Greater Manchester
+              Scunthorpe v Stevenage  1-1 (0-0)   @ Sands Stadium › Scunthorpe
+              Port Vale v Bristol Rovers  1-3 (1-2)   @ Vale Park › Stoke-on-Trent, Staffordshire
+              Swindon Town v Leyton Orient  1-2 (0-1)   @ The County Ground › Swindon, Wiltshire
+              Colchester v Bradford  3-0 (2-0)   @ JobServe Community Stadium › Colchester, Essex
+              Crawley Town v Walsall  1-0 (0-0)   @ The People's Pension Stadium › Crawley, West Sussex
+              Carlisle v Mansfield Town  1-0 (0-0)   @ Brunton Park › Carlisle, Cumbria
+              Forest Green v Oldham  2-0 (2-0)   @ The Fully Charged New Lawn › Nailsworth, Gloucestershire
+              Tranmere v Exeter City  2-0 (1-0)   @ Prenton Park › Birkenhead, Merseyside
+              Sutton Utd v Newport County  1-0 (1-0)   @ VBS Community Stadium › Sutton, Surrey
+              Salford City v Barrow  2-2 (1-0)   @ The Peninsula Stadium › Salford, Greater Manchester
+» Regular Season - 44
+  Fri Apr 22
+    19.45     Newport County v Colchester  1-2 (1-0)   @ Rodney Parade › Casnewydd
+  Sat Apr 23
+    15.00     Bristol Rovers v Forest Green  0-0 (0-0)   @ Memorial Stadium › Bristol, Gloucestershire
+              Walsall v Port Vale  2-0 (0-0)   @ Banks's Stadium › Walsall, West Midlands
+              Bradford v Scunthorpe  2-1 (2-1)   @ The Utilita Energy Stadium › Bradford, West Yorkshire
+              Oldham v Salford City  1-2 (1-2)   @ Boundary Park › Oldham, Greater Manchester
+              Exeter City v Rochdale  2-0 (1-0)   @ St James Park › Exeter, Devon
+              Hartlepool v Swindon Town  0-3 (0-1)   @ The Suit Direct Stadium › Hartlepool, County Durham
+              Stevenage v Tranmere  2-0 (1-0)   @ The Lamex Stadium › Stevenage, Hertfordshire
+              Leyton Orient v Northampton  2-4 (1-4)   @ The Breyer Group Stadium › London
+              Mansfield Town v Crawley Town  2-0 (1-0)   @ One Call Stadium › Mansfield, Nottinghamshire
+              Barrow v Sutton Utd  1-0 (0-0)   @ The Dunes Hotel Stadium › Barrow-in-Furness, Cumbria
+              Harrogate Town v Carlisle  3-0 (2-0)   @ EnviroVent Stadium › Harrogate, North Yorkshire
+» Regular Season - 33
+  Tue Apr 26
+    19.45     Exeter City v Barrow  2-1 (1-1)   @ St James Park › Exeter, Devon
+» Regular Season - 38
+  Tue Apr 26
+    19.45     Mansfield Town v Stevenage  2-0 (0-0)   @ One Call Stadium › Mansfield, Nottinghamshire
+» Regular Season - 39
+  Tue Apr 26
+    19.45     Swindon Town v Forest Green  2-1 (2-0)   @ The County Ground › Swindon, Wiltshire
+» Regular Season - 40
+  Tue Apr 26
+    19.45     Sutton Utd v Crawley Town  3-0 (2-0)   @ VBS Community Stadium › Sutton, Surrey
+» Regular Season - 45
+  Sat Apr 30
+    15.00     Northampton v Exeter City  1-1 (1-0)   @ Sixfields Stadium › Northampton, East Midlands
+              Rochdale v Bristol Rovers  3-4 (2-0)   @ Crown Oil Arena › Rochdale, Greater Manchester
+              Scunthorpe v Hartlepool  1-1 (0-0)   @ Sands Stadium › Scunthorpe
+              Swindon Town v Barrow  2-1 (1-0)   @ The County Ground › Swindon, Wiltshire
+              Colchester v Walsall  2-2 (1-1)   @ JobServe Community Stadium › Colchester, Essex
+              Crawley Town v Leyton Orient  0-2 (0-1)   @ The People's Pension Stadium › Crawley, West Sussex
+              Carlisle v Stevenage  2-1 (0-0)   @ Brunton Park › Carlisle, Cumbria
+              Forest Green v Harrogate Town  1-3 (1-1)   @ The Fully Charged New Lawn › Nailsworth, Gloucestershire
+              Tranmere v Oldham  2-0 (1-0)   @ Prenton Park › Birkenhead, Merseyside
+              Sutton Utd v Bradford  1-4 (0-1)   @ VBS Community Stadium › Sutton, Surrey
+  Mon May 2
+    12.30     Salford City v Mansfield Town  2-2 (1-2)   @ The Peninsula Stadium › Salford, Greater Manchester
+    15.00     Port Vale v Newport County  1-2 (0-1)   @ Vale Park › Stoke-on-Trent, Staffordshire
+» Regular Season - 46
+  Sat May 7
+    15.00     Bristol Rovers v Scunthorpe  7-0 (2-0)   @ Memorial Stadium › Bristol, Gloucestershire
+              Walsall v Swindon Town  0-3 (0-3)   @ Banks's Stadium › Walsall, West Midlands
+              Bradford v Carlisle  2-0 (1-0)   @ The Utilita Energy Stadium › Bradford, West Yorkshire
+              Oldham v Crawley Town  3-3 (2-2)   @ Boundary Park › Oldham, Greater Manchester
+              Exeter City v Port Vale  0-1 (0-1)   @ St James Park › Exeter, Devon
+              Hartlepool v Colchester  0-2 (0-1)   @ The Suit Direct Stadium › Hartlepool, County Durham
+              Newport County v Rochdale  0-2 (0-1)   @ Rodney Parade › Casnewydd
+              Stevenage v Salford City  4-2 (2-1)   @ The Lamex Stadium › Stevenage, Hertfordshire
+              Leyton Orient v Tranmere  0-1 (0-1)   @ The Breyer Group Stadium › London
+              Mansfield Town v Forest Green  2-2 (1-0)   @ One Call Stadium › Mansfield, Nottinghamshire
+              Barrow v Northampton  1-3 (1-3)   @ The Dunes Hotel Stadium › Barrow-in-Furness, Cumbria
+              Harrogate Town v Sutton Utd  0-2 (0-1)   @ EnviroVent Stadium › Harrogate, North Yorkshire
+» Promotion Play-offs - Semi-finals
+  Sat May 14
+    19.45     Mansfield Town v Northampton  2-1 (2-0)   @ One Call Stadium › Mansfield, Nottinghamshire
+  Sun May 15
+    12.00     Swindon Town v Port Vale  2-1 (1-0)   @ The County Ground › Swindon, Wiltshire
+  Wed May 18
+    19.45     Northampton v Mansfield Town  0-1 (0-1)   @ Sixfields Stadium › Northampton, East Midlands
+  Thu May 19
+    19.45     Port Vale v Swindon Town  6-5 pen (1-0, 1-0, 1-0)   @ Vale Park › Stoke-on-Trent, Staffordshire
+» Promotion Play-offs - Final
+  Sat May 28
+    16.00     Mansfield Town v Port Vale  0-3 (0-2)   @ Wembley Stadium › London
