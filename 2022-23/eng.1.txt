@@ -1,553 +1,553 @@
 = England | Premier League 2022/23
 
-  # Date       Fri Aug/5 2022 - Sun May/28 2023 (296d)
+  # Date       Fri Aug 5 2022 - Sun May 28 2023 (296d)
   # Teams      20
   # Matches    380
 
   # Note - All times in Europe/London
 
-» Regular Season - 1
+▪ Regular Season - 1
   Fri Aug 5 2022
-    20.00     Crystal Palace v Arsenal  0-2 (0-1)   @ Selhurst Park › London
+    20:00     Crystal Palace v Arsenal  0-2 (0-1)   @ Selhurst Park › London
   Sat Aug 6
-    12.30     Fulham v Liverpool  2-2 (1-0)   @ Craven Cottage › London
-    15.00     Newcastle v Nottingham Forest  2-0 (0-0)   @ St. James' Park › Newcastle upon Tyne
+    12:30     Fulham v Liverpool  2-2 (1-0)   @ Craven Cottage › London
+    15:00     Newcastle v Nottingham Forest  2-0 (0-0)   @ St. James' Park › Newcastle upon Tyne
               Bournemouth v Aston Villa  2-0 (1-0)   @ Vitality Stadium › Bournemouth, Dorset
               Tottenham v Southampton  4-1 (2-1)   @ Tottenham Hotspur Stadium › London
               Leeds v Wolves  2-1 (1-1)   @ Elland Road › Leeds, West Yorkshire
-    17.30     Everton v Chelsea  0-1 (0-1)   @ Goodison Park › Liverpool
+    17:30     Everton v Chelsea  0-1 (0-1)   @ Goodison Park › Liverpool
   Sun Aug 7
-    14.00     Leicester v Brentford  2-2 (1-0)   @ King Power Stadium › Leicester, Leicestershire
+    14:00     Leicester v Brentford  2-2 (1-0)   @ King Power Stadium › Leicester, Leicestershire
               Manchester United v Brighton  1-2 (0-2)   @ Old Trafford › Manchester
-    16.30     West Ham v Manchester City  0-2 (0-1)   @ London Stadium › London
-» Regular Season - 2
+    16:30     West Ham v Manchester City  0-2 (0-1)   @ London Stadium › London
+▪ Regular Season - 2
   Sat Aug 13
-    12.30     Aston Villa v Everton  2-1 (1-0)   @ Villa Park › Birmingham
-    15.00     Southampton v Leeds  2-2 (0-0)   @ St. Mary's Stadium › Southampton, Hampshire
+    12:30     Aston Villa v Everton  2-1 (1-0)   @ Villa Park › Birmingham
+    15:00     Southampton v Leeds  2-2 (0-0)   @ St. Mary's Stadium › Southampton, Hampshire
               Arsenal v Leicester  4-2 (2-0)   @ Emirates Stadium › London
               Manchester City v Bournemouth  4-0 (3-0)   @ Etihad Stadium › Manchester
               Brighton v Newcastle  0-0 (0-0)   @ The American Express Community Stadium › Falmer, East Sussex
               Wolves v Fulham  0-0 (0-0)   @ Molineux Stadium › Wolverhampton, West Midlands
-    17.30     Brentford v Manchester United  4-0 (4-0)   @ Gtech Community Stadium › Brentford, Middlesex
+    17:30     Brentford v Manchester United  4-0 (4-0)   @ Gtech Community Stadium › Brentford, Middlesex
   Sun Aug 14
-    14.00     Nottingham Forest v West Ham  1-0 (1-0)   @ The City Ground › Nottingham, Nottinghamshire
-    16.30     Chelsea v Tottenham  2-2 (1-0)   @ Stamford Bridge › London
+    14:00     Nottingham Forest v West Ham  1-0 (1-0)   @ The City Ground › Nottingham, Nottinghamshire
+    16:30     Chelsea v Tottenham  2-2 (1-0)   @ Stamford Bridge › London
   Mon Aug 15
-    20.00     Liverpool v Crystal Palace  1-1 (0-1)   @ Anfield › Liverpool
-» Regular Season - 3
+    20:00     Liverpool v Crystal Palace  1-1 (0-1)   @ Anfield › Liverpool
+▪ Regular Season - 3
   Sat Aug 20
-    12.30     Tottenham v Wolves  1-0 (0-0)   @ Tottenham Hotspur Stadium › London
-    15.00     Fulham v Brentford  3-2 (2-1)   @ Craven Cottage › London
+    12:30     Tottenham v Wolves  1-0 (0-0)   @ Tottenham Hotspur Stadium › London
+    15:00     Fulham v Brentford  3-2 (2-1)   @ Craven Cottage › London
               Everton v Nottingham Forest  1-1 (0-0)   @ Goodison Park › Liverpool
               Leicester v Southampton  1-2 (0-0)   @ King Power Stadium › Leicester, Leicestershire
               Crystal Palace v Aston Villa  3-1 (1-1)   @ Selhurst Park › London
-    17.30     Bournemouth v Arsenal  0-3 (0-2)   @ Vitality Stadium › Bournemouth, Dorset
+    17:30     Bournemouth v Arsenal  0-3 (0-2)   @ Vitality Stadium › Bournemouth, Dorset
   Sun Aug 21
-    14.00     Leeds v Chelsea  3-0 (2-0)   @ Elland Road › Leeds, West Yorkshire
+    14:00     Leeds v Chelsea  3-0 (2-0)   @ Elland Road › Leeds, West Yorkshire
               West Ham v Brighton  0-2 (0-1)   @ London Stadium › London
-    16.30     Newcastle v Manchester City  3-3 (2-1)   @ St. James' Park › Newcastle upon Tyne
+    16:30     Newcastle v Manchester City  3-3 (2-1)   @ St. James' Park › Newcastle upon Tyne
   Mon Aug 22
-    20.00     Manchester United v Liverpool  2-1 (1-0)   @ Old Trafford › Manchester
-» Regular Season - 4
+    20:00     Manchester United v Liverpool  2-1 (1-0)   @ Old Trafford › Manchester
+▪ Regular Season - 4
   Sat Aug 27
-    12.30     Southampton v Manchester United  0-1 (0-0)   @ St. Mary's Stadium › Southampton, Hampshire
-    15.00     Liverpool v Bournemouth  9-0 (5-0)   @ Anfield › Liverpool
+    12:30     Southampton v Manchester United  0-1 (0-0)   @ St. Mary's Stadium › Southampton, Hampshire
+    15:00     Liverpool v Bournemouth  9-0 (5-0)   @ Anfield › Liverpool
               Chelsea v Leicester  2-1 (0-0)   @ Stamford Bridge › London
               Manchester City v Crystal Palace  4-2 (0-2)   @ Etihad Stadium › Manchester
               Brighton v Leeds  1-0 (0-0)   @ The American Express Community Stadium › Falmer, East Sussex
               Brentford v Everton  1-1 (0-1)   @ Gtech Community Stadium › Brentford, Middlesex
-    17.30     Arsenal v Fulham  2-1 (0-0)   @ Emirates Stadium › London
+    17:30     Arsenal v Fulham  2-1 (0-0)   @ Emirates Stadium › London
   Sun Aug 28
-    14.00     Aston Villa v West Ham  0-1 (0-0)   @ Villa Park › Birmingham
+    14:00     Aston Villa v West Ham  0-1 (0-0)   @ Villa Park › Birmingham
               Wolves v Newcastle  1-1 (1-0)   @ Molineux Stadium › Wolverhampton, West Midlands
-    16.30     Nottingham Forest v Tottenham  0-2 (0-1)   @ The City Ground › Nottingham, Nottinghamshire
-» Regular Season - 5
+    16:30     Nottingham Forest v Tottenham  0-2 (0-1)   @ The City Ground › Nottingham, Nottinghamshire
+▪ Regular Season - 5
   Tue Aug 30
-    19.30     Crystal Palace v Brentford  1-1 (0-0)   @ Selhurst Park › London
+    19:30     Crystal Palace v Brentford  1-1 (0-0)   @ Selhurst Park › London
               Fulham v Brighton  2-1 (0-0)   @ Craven Cottage › London
-    19.45     Southampton v Chelsea  2-1 (2-1)   @ St. Mary's Stadium › Southampton, Hampshire
-    20.00     Leeds v Everton  1-1 (0-1)   @ Elland Road › Leeds, West Yorkshire
+    19:45     Southampton v Chelsea  2-1 (2-1)   @ St. Mary's Stadium › Southampton, Hampshire
+    20:00     Leeds v Everton  1-1 (0-1)   @ Elland Road › Leeds, West Yorkshire
   Wed Aug 31
-    19.30     Bournemouth v Wolves  0-0 (0-0)   @ Vitality Stadium › Bournemouth, Dorset
+    19:30     Bournemouth v Wolves  0-0 (0-0)   @ Vitality Stadium › Bournemouth, Dorset
               Arsenal v Aston Villa  2-1 (1-0)   @ Emirates Stadium › London
               Manchester City v Nottingham Forest  6-0 (3-0)   @ Etihad Stadium › Manchester
-    19.45     West Ham v Tottenham  1-1 (0-1)   @ London Stadium › London
-    20.00     Liverpool v Newcastle  2-1 (0-1)   @ Anfield › Liverpool
+    19:45     West Ham v Tottenham  1-1 (0-1)   @ London Stadium › London
+    20:00     Liverpool v Newcastle  2-1 (0-1)   @ Anfield › Liverpool
   Thu Sep 1
-    20.00     Leicester v Manchester United  0-1 (0-1)   @ King Power Stadium › Leicester, Leicestershire
-» Regular Season - 6
+    20:00     Leicester v Manchester United  0-1 (0-1)   @ King Power Stadium › Leicester, Leicestershire
+▪ Regular Season - 6
   Sat Sep 3
-    12.30     Everton v Liverpool  0-0 (0-0)   @ Goodison Park › Liverpool
-    15.00     Newcastle v Crystal Palace  0-0 (0-0)   @ St. James' Park › Newcastle upon Tyne
+    12:30     Everton v Liverpool  0-0 (0-0)   @ Goodison Park › Liverpool
+    15:00     Newcastle v Crystal Palace  0-0 (0-0)   @ St. James' Park › Newcastle upon Tyne
               Wolves v Southampton  1-0 (1-0)   @ Molineux Stadium › Wolverhampton, West Midlands
               Tottenham v Fulham  2-1 (1-0)   @ Tottenham Hotspur Stadium › London
               Chelsea v West Ham  2-1 (0-0)   @ Stamford Bridge › London
               Brentford v Leeds  5-2 (2-1)   @ Gtech Community Stadium › Brentford, Middlesex
               Nottingham Forest v Bournemouth  2-3 (2-0)   @ The City Ground › Nottingham, Nottinghamshire
-    17.30     Aston Villa v Manchester City  1-1 (0-0)   @ Villa Park › Birmingham
+    17:30     Aston Villa v Manchester City  1-1 (0-0)   @ Villa Park › Birmingham
   Sun Sep 4
-    14.00     Brighton v Leicester  5-2 (2-2)   @ The American Express Community Stadium › Falmer, East Sussex
-    16.30     Manchester United v Arsenal  3-1 (1-0)   @ Old Trafford › Manchester
-» Regular Season - 8
+    14:00     Brighton v Leicester  5-2 (2-2)   @ The American Express Community Stadium › Falmer, East Sussex
+    16:30     Manchester United v Arsenal  3-1 (1-0)   @ Old Trafford › Manchester
+▪ Regular Season - 8
   Fri Sep 16
-    20.00     Aston Villa v Southampton  1-0 (1-0)   @ Villa Park › Birmingham
+    20:00     Aston Villa v Southampton  1-0 (1-0)   @ Villa Park › Birmingham
               Nottingham Forest v Fulham  2-3 (1-0)   @ The City Ground › Nottingham, Nottinghamshire
   Sat Sep 17
-    12.30     Wolves v Manchester City  0-3 (0-2)   @ Molineux Stadium › Wolverhampton, West Midlands
-    15.00     Newcastle v Bournemouth  1-1 (0-0)   @ St. James' Park › Newcastle upon Tyne
-    17.30     Tottenham v Leicester  6-2 (2-2)   @ Tottenham Hotspur Stadium › London
+    12:30     Wolves v Manchester City  0-3 (0-2)   @ Molineux Stadium › Wolverhampton, West Midlands
+    15:00     Newcastle v Bournemouth  1-1 (0-0)   @ St. James' Park › Newcastle upon Tyne
+    17:30     Tottenham v Leicester  6-2 (2-2)   @ Tottenham Hotspur Stadium › London
   Sun Sep 18
-    12.00     Brentford v Arsenal  0-3 (0-2)   @ Gtech Community Stadium › Brentford, Middlesex
-    14.15     Everton v West Ham  1-0 (0-0)   @ Goodison Park › Liverpool
-» Regular Season - 9
+    12:00     Brentford v Arsenal  0-3 (0-2)   @ Gtech Community Stadium › Brentford, Middlesex
+    14:15     Everton v West Ham  1-0 (0-0)   @ Goodison Park › Liverpool
+▪ Regular Season - 9
   Sat Oct 1
-    12.30     Arsenal v Tottenham  3-1 (1-1)   @ Emirates Stadium › London
-    15.00     Bournemouth v Brentford  0-0 (0-0)   @ Vitality Stadium › Bournemouth, Dorset
+    12:30     Arsenal v Tottenham  3-1 (1-1)   @ Emirates Stadium › London
+    15:00     Bournemouth v Brentford  0-0 (0-0)   @ Vitality Stadium › Bournemouth, Dorset
               Fulham v Newcastle  1-4 (0-3)   @ Craven Cottage › London
               Liverpool v Brighton  3-3 (1-2)   @ Anfield › Liverpool
               Southampton v Everton  1-2 (0-0)   @ St. Mary's Stadium › Southampton, Hampshire
               Crystal Palace v Chelsea  1-2 (1-1)   @ Selhurst Park › London
-    17.30     West Ham v Wolves  2-0 (1-0)   @ London Stadium › London
+    17:30     West Ham v Wolves  2-0 (1-0)   @ London Stadium › London
   Sun Oct 2
-    14.00     Manchester City v Manchester United  6-3 (4-0)   @ Etihad Stadium › Manchester
-    16.30     Leeds v Aston Villa  0-0 (0-0)   @ Elland Road › Leeds, West Yorkshire
+    14:00     Manchester City v Manchester United  6-3 (4-0)   @ Etihad Stadium › Manchester
+    16:30     Leeds v Aston Villa  0-0 (0-0)   @ Elland Road › Leeds, West Yorkshire
   Mon Oct 3
-    20.00     Leicester v Nottingham Forest  4-0 (3-0)   @ King Power Stadium › Leicester, Leicestershire
-» Regular Season - 10
+    20:00     Leicester v Nottingham Forest  4-0 (3-0)   @ King Power Stadium › Leicester, Leicestershire
+▪ Regular Season - 10
   Sat Oct 8
-    15.00     Newcastle v Brentford  5-1 (2-0)   @ St. James' Park › Newcastle upon Tyne
+    15:00     Newcastle v Brentford  5-1 (2-0)   @ St. James' Park › Newcastle upon Tyne
               Bournemouth v Leicester  2-1 (0-1)   @ Vitality Stadium › Bournemouth, Dorset
               Chelsea v Wolves  3-0 (1-0)   @ Stamford Bridge › London
               Manchester City v Southampton  4-0 (2-0)   @ Etihad Stadium › Manchester
-    17.30     Brighton v Tottenham  0-1 (0-1)   @ The American Express Community Stadium › Falmer, East Sussex
+    17:30     Brighton v Tottenham  0-1 (0-1)   @ The American Express Community Stadium › Falmer, East Sussex
   Sun Oct 9
-    14.00     West Ham v Fulham  3-1 (1-1)   @ London Stadium › London
+    14:00     West Ham v Fulham  3-1 (1-1)   @ London Stadium › London
               Crystal Palace v Leeds  2-1 (1-1)   @ Selhurst Park › London
-    16.30     Arsenal v Liverpool  3-2 (2-1)   @ Emirates Stadium › London
-    19.00     Everton v Manchester United  1-2 (1-2)   @ Goodison Park › Liverpool
+    16:30     Arsenal v Liverpool  3-2 (2-1)   @ Emirates Stadium › London
+    19:00     Everton v Manchester United  1-2 (1-2)   @ Goodison Park › Liverpool
   Mon Oct 10
-    20.00     Nottingham Forest v Aston Villa  1-1 (1-1)   @ The City Ground › Nottingham, Nottinghamshire
-» Regular Season - 11
+    20:00     Nottingham Forest v Aston Villa  1-1 (1-1)   @ The City Ground › Nottingham, Nottinghamshire
+▪ Regular Season - 11
   Fri Oct 14
-    20.00     Brentford v Brighton  2-0 (1-0)   @ Gtech Community Stadium › Brentford, Middlesex
+    20:00     Brentford v Brighton  2-0 (1-0)   @ Gtech Community Stadium › Brentford, Middlesex
   Sat Oct 15
-    12.30     Leicester v Crystal Palace  0-0 (0-0)   @ King Power Stadium › Leicester, Leicestershire
-    15.00     Wolves v Nottingham Forest  1-0 (0-0)   @ Molineux Stadium › Wolverhampton, West Midlands
+    12:30     Leicester v Crystal Palace  0-0 (0-0)   @ King Power Stadium › Leicester, Leicestershire
+    15:00     Wolves v Nottingham Forest  1-0 (0-0)   @ Molineux Stadium › Wolverhampton, West Midlands
               Fulham v Bournemouth  2-2 (1-2)   @ Craven Cottage › London
-    17.30     Tottenham v Everton  2-0 (0-0)   @ Tottenham Hotspur Stadium › London
+    17:30     Tottenham v Everton  2-0 (0-0)   @ Tottenham Hotspur Stadium › London
   Sun Oct 16
-    14.00     Manchester United v Newcastle  0-0 (0-0)   @ Old Trafford › Manchester
+    14:00     Manchester United v Newcastle  0-0 (0-0)   @ Old Trafford › Manchester
               Southampton v West Ham  1-1 (1-0)   @ St. Mary's Stadium › Southampton, Hampshire
               Leeds v Arsenal  0-1 (0-1)   @ Elland Road › Leeds, West Yorkshire
               Aston Villa v Chelsea  0-2 (0-1)   @ Villa Park › Birmingham
-    16.30     Liverpool v Manchester City  1-0 (0-0)   @ Anfield › Liverpool
-» Regular Season - 12
+    16:30     Liverpool v Manchester City  1-0 (0-0)   @ Anfield › Liverpool
+▪ Regular Season - 12
   Tue Oct 18
-    19.30     Brighton v Nottingham Forest  0-0 (0-0)   @ The American Express Community Stadium › Falmer, East Sussex
-    20.15     Crystal Palace v Wolves  2-1 (0-1)   @ Selhurst Park › London
+    19:30     Brighton v Nottingham Forest  0-0 (0-0)   @ The American Express Community Stadium › Falmer, East Sussex
+    20:15     Crystal Palace v Wolves  2-1 (0-1)   @ Selhurst Park › London
   Wed Oct 19
-    19.30     Newcastle v Everton  1-0 (1-0)   @ St. James' Park › Newcastle upon Tyne
+    19:30     Newcastle v Everton  1-0 (1-0)   @ St. James' Park › Newcastle upon Tyne
               Bournemouth v Southampton  0-1 (0-1)   @ Vitality Stadium › Bournemouth, Dorset
               Liverpool v West Ham  1-0 (1-0)   @ Anfield › Liverpool
               Brentford v Chelsea  0-0 (0-0)   @ Gtech Community Stadium › Brentford, Middlesex
-    20.15     Manchester United v Tottenham  2-0 (0-0)   @ Old Trafford › Manchester
+    20:15     Manchester United v Tottenham  2-0 (0-0)   @ Old Trafford › Manchester
   Thu Oct 20
-    19.30     Fulham v Aston Villa  3-0 (1-0)   @ Craven Cottage › London
-    20.15     Leicester v Leeds  2-0 (2-0)   @ King Power Stadium › Leicester, Leicestershire
-» Regular Season - 13
+    19:30     Fulham v Aston Villa  3-0 (1-0)   @ Craven Cottage › London
+    20:15     Leicester v Leeds  2-0 (2-0)   @ King Power Stadium › Leicester, Leicestershire
+▪ Regular Season - 13
   Sat Oct 22
-    12.30     Nottingham Forest v Liverpool  1-0 (0-0)   @ The City Ground › Nottingham, Nottinghamshire
-    15.00     Manchester City v Brighton  3-1 (2-0)   @ Etihad Stadium › Manchester
+    12:30     Nottingham Forest v Liverpool  1-0 (0-0)   @ The City Ground › Nottingham, Nottinghamshire
+    15:00     Manchester City v Brighton  3-1 (2-0)   @ Etihad Stadium › Manchester
               Everton v Crystal Palace  3-0 (1-0)   @ Goodison Park › Liverpool
-    17.30     Chelsea v Manchester United  1-1 (0-0)   @ Stamford Bridge › London
+    17:30     Chelsea v Manchester United  1-1 (0-0)   @ Stamford Bridge › London
   Sun Oct 23
-    14.00     Wolves v Leicester  0-4 (0-2)   @ Molineux Stadium › Wolverhampton, West Midlands
+    14:00     Wolves v Leicester  0-4 (0-2)   @ Molineux Stadium › Wolverhampton, West Midlands
               Southampton v Arsenal  1-1 (0-1)   @ St. Mary's Stadium › Southampton, Hampshire
               Leeds v Fulham  2-3 (1-1)   @ Elland Road › Leeds, West Yorkshire
               Aston Villa v Brentford  4-0 (3-0)   @ Villa Park › Birmingham
-    16.30     Tottenham v Newcastle  1-2 (0-2)   @ Tottenham Hotspur Stadium › London
+    16:30     Tottenham v Newcastle  1-2 (0-2)   @ Tottenham Hotspur Stadium › London
   Mon Oct 24
-    20.00     West Ham v Bournemouth  2-0 (1-0)   @ London Stadium › London
-» Regular Season - 14
+    20:00     West Ham v Bournemouth  2-0 (1-0)   @ London Stadium › London
+▪ Regular Season - 14
   Sat Oct 29
-    12.30     Leicester v Manchester City  0-1 (0-0)   @ King Power Stadium › Leicester, Leicestershire
-    15.00     Newcastle v Aston Villa  4-0 (1-0)   @ St. James' Park › Newcastle upon Tyne
+    12:30     Leicester v Manchester City  0-1 (0-0)   @ King Power Stadium › Leicester, Leicestershire
+    15:00     Newcastle v Aston Villa  4-0 (1-0)   @ St. James' Park › Newcastle upon Tyne
               Bournemouth v Tottenham  2-3 (1-0)   @ Vitality Stadium › Bournemouth, Dorset
               Brighton v Chelsea  4-1 (3-0)   @ The American Express Community Stadium › Falmer, East Sussex
               Crystal Palace v Southampton  1-0 (1-0)   @ Selhurst Park › London
               Brentford v Wolves  1-1 (0-0)   @ Gtech Community Stadium › Brentford, Middlesex
-    17.30     Fulham v Everton  0-0 (0-0)   @ Craven Cottage › London
-    19.45     Liverpool v Leeds  1-2 (1-1)   @ Anfield › Liverpool
+    17:30     Fulham v Everton  0-0 (0-0)   @ Craven Cottage › London
+    19:45     Liverpool v Leeds  1-2 (1-1)   @ Anfield › Liverpool
   Sun Oct 30
-    14.00     Arsenal v Nottingham Forest  5-0 (1-0)   @ Emirates Stadium › London
-    16.15     Manchester United v West Ham  1-0 (1-0)   @ Old Trafford › Manchester
-» Regular Season - 15
+    14:00     Arsenal v Nottingham Forest  5-0 (1-0)   @ Emirates Stadium › London
+    16:15     Manchester United v West Ham  1-0 (1-0)   @ Old Trafford › Manchester
+▪ Regular Season - 15
   Sat Nov 5
-    15.00     Wolves v Brighton  2-3 (2-2)   @ Molineux Stadium › Wolverhampton, West Midlands
+    15:00     Wolves v Brighton  2-3 (2-2)   @ Molineux Stadium › Wolverhampton, West Midlands
               Manchester City v Fulham  2-1 (1-1)   @ Etihad Stadium › Manchester
               Leeds v Bournemouth  4-3 (1-2)   @ Elland Road › Leeds, West Yorkshire
               Nottingham Forest v Brentford  2-2 (1-1)   @ The City Ground › Nottingham, Nottinghamshire
-    17.30     Everton v Leicester  0-2 (0-1)   @ Goodison Park › Liverpool
+    17:30     Everton v Leicester  0-2 (0-1)   @ Goodison Park › Liverpool
   Sun Nov 6
-    12.00     Chelsea v Arsenal  0-1 (0-0)   @ Stamford Bridge › London
-    14.00     Southampton v Newcastle  1-4 (0-1)   @ St. Mary's Stadium › Southampton, Hampshire
+    12:00     Chelsea v Arsenal  0-1 (0-0)   @ Stamford Bridge › London
+    14:00     Southampton v Newcastle  1-4 (0-1)   @ St. Mary's Stadium › Southampton, Hampshire
               West Ham v Crystal Palace  1-2 (1-1)   @ London Stadium › London
               Aston Villa v Manchester United  3-1 (2-1)   @ Villa Park › Birmingham
-    16.30     Tottenham v Liverpool  1-2 (0-2)   @ Tottenham Hotspur Stadium › London
-» Regular Season - 16
+    16:30     Tottenham v Liverpool  1-2 (0-2)   @ Tottenham Hotspur Stadium › London
+▪ Regular Season - 16
   Sat Nov 12
-    12.30     Manchester City v Brentford  1-2 (1-1)   @ Etihad Stadium › Manchester
-    15.00     Liverpool v Southampton  3-1 (3-1)   @ Anfield › Liverpool
+    12:30     Manchester City v Brentford  1-2 (1-1)   @ Etihad Stadium › Manchester
+    15:00     Liverpool v Southampton  3-1 (3-1)   @ Anfield › Liverpool
               Tottenham v Leeds  4-3 (1-2)   @ Tottenham Hotspur Stadium › London
               West Ham v Leicester  0-2 (0-1)   @ London Stadium › London
               Nottingham Forest v Crystal Palace  1-0 (0-0)   @ The City Ground › Nottingham, Nottinghamshire
               Bournemouth v Everton  3-0 (2-0)   @ Vitality Stadium › Bournemouth, Dorset
-    17.30     Newcastle v Chelsea  1-0 (0-0)   @ St. James' Park › Newcastle upon Tyne
-    19.45     Wolves v Arsenal  0-2 (0-0)   @ Molineux Stadium › Wolverhampton, West Midlands
+    17:30     Newcastle v Chelsea  1-0 (0-0)   @ St. James' Park › Newcastle upon Tyne
+    19:45     Wolves v Arsenal  0-2 (0-0)   @ Molineux Stadium › Wolverhampton, West Midlands
   Sun Nov 13
-    14.00     Brighton v Aston Villa  1-2 (1-1)   @ The American Express Community Stadium › Falmer, East Sussex
-    16.30     Fulham v Manchester United  1-2 (0-1)   @ Craven Cottage › London
-» Regular Season - 17
+    14:00     Brighton v Aston Villa  1-2 (1-1)   @ The American Express Community Stadium › Falmer, East Sussex
+    16:30     Fulham v Manchester United  1-2 (0-1)   @ Craven Cottage › London
+▪ Regular Season - 17
   Mon Dec 26
-    12.30     Brentford v Tottenham  2-2 (1-0)   @ Gtech Community Stadium › Brentford, Middlesex
-    15.00     Southampton v Brighton  1-3 (0-2)   @ St. Mary's Stadium › Southampton, Hampshire
+    12:30     Brentford v Tottenham  2-2 (1-0)   @ Gtech Community Stadium › Brentford, Middlesex
+    15:00     Southampton v Brighton  1-3 (0-2)   @ St. Mary's Stadium › Southampton, Hampshire
               Everton v Wolves  1-2 (1-1)   @ Goodison Park › Liverpool
               Leicester v Newcastle  0-3 (0-3)   @ King Power Stadium › Leicester, Leicestershire
               Crystal Palace v Fulham  0-3 (0-1)   @ Selhurst Park › London
-    17.30     Aston Villa v Liverpool  1-3 (0-2)   @ Villa Park › Birmingham
-    20.00     Arsenal v West Ham  3-1 (0-1)   @ Emirates Stadium › London
+    17:30     Aston Villa v Liverpool  1-3 (0-2)   @ Villa Park › Birmingham
+    20:00     Arsenal v West Ham  3-1 (0-1)   @ Emirates Stadium › London
   Tue Dec 27
-    17.30     Chelsea v Bournemouth  2-0 (2-0)   @ Stamford Bridge › London
-    20.00     Manchester United v Nottingham Forest  3-0 (2-0)   @ Old Trafford › Manchester
+    17:30     Chelsea v Bournemouth  2-0 (2-0)   @ Stamford Bridge › London
+    20:00     Manchester United v Nottingham Forest  3-0 (2-0)   @ Old Trafford › Manchester
   Wed Dec 28
-    20.00     Leeds v Manchester City  1-3 (0-1)   @ Elland Road › Leeds, West Yorkshire
-» Regular Season - 18
+    20:00     Leeds v Manchester City  1-3 (0-1)   @ Elland Road › Leeds, West Yorkshire
+▪ Regular Season - 18
   Fri Dec 30
-    19.45     West Ham v Brentford  0-2 (0-2)   @ London Stadium › London
-    20.00     Liverpool v Leicester  2-1 (2-1)   @ Anfield › Liverpool
+    19:45     West Ham v Brentford  0-2 (0-2)   @ London Stadium › London
+    20:00     Liverpool v Leicester  2-1 (2-1)   @ Anfield › Liverpool
   Sat Dec 31
-    12.30     Wolves v Manchester United  0-1 (0-0)   @ Molineux Stadium › Wolverhampton, West Midlands
-    15.00     Newcastle v Leeds  0-0 (0-0)   @ St. James' Park › Newcastle upon Tyne
+    12:30     Wolves v Manchester United  0-1 (0-0)   @ Molineux Stadium › Wolverhampton, West Midlands
+    15:00     Newcastle v Leeds  0-0 (0-0)   @ St. James' Park › Newcastle upon Tyne
               Bournemouth v Crystal Palace  0-2 (0-2)   @ Vitality Stadium › Bournemouth, Dorset
               Fulham v Southampton  2-1 (1-0)   @ Craven Cottage › London
               Manchester City v Everton  1-1 (1-0)   @ Etihad Stadium › Manchester
-    17.30     Brighton v Arsenal  2-4 (0-2)   @ The American Express Community Stadium › Falmer, East Sussex
+    17:30     Brighton v Arsenal  2-4 (0-2)   @ The American Express Community Stadium › Falmer, East Sussex
   Sun Jan 1 2023
-    14.00     Tottenham v Aston Villa  0-2 (0-0)   @ Tottenham Hotspur Stadium › London
+    14:00     Tottenham v Aston Villa  0-2 (0-0)   @ Tottenham Hotspur Stadium › London
   Sun Jan 1
-    16.30     Nottingham Forest v Chelsea  1-1 (0-1)   @ The City Ground › Nottingham, Nottinghamshire
-» Regular Season - 19
+    16:30     Nottingham Forest v Chelsea  1-1 (0-1)   @ The City Ground › Nottingham, Nottinghamshire
+▪ Regular Season - 19
   Mon Jan 2
-    17.30     Brentford v Liverpool  3-1 (2-0)   @ Gtech Community Stadium › Brentford, Middlesex
+    17:30     Brentford v Liverpool  3-1 (2-0)   @ Gtech Community Stadium › Brentford, Middlesex
   Tue Jan 3
-    19.45     Arsenal v Newcastle  0-0 (0-0)   @ Emirates Stadium › London
+    19:45     Arsenal v Newcastle  0-0 (0-0)   @ Emirates Stadium › London
               Everton v Brighton  1-4 (0-1)   @ Goodison Park › Liverpool
               Leicester v Fulham  0-1 (0-1)   @ King Power Stadium › Leicester, Leicestershire
-    20.00     Manchester United v Bournemouth  3-0 (1-0)   @ Old Trafford › Manchester
+    20:00     Manchester United v Bournemouth  3-0 (1-0)   @ Old Trafford › Manchester
   Wed Jan 4
-    19.30     Southampton v Nottingham Forest  0-1 (0-1)   @ St. Mary's Stadium › Southampton, Hampshire
-    19.45     Leeds v West Ham  2-2 (1-1)   @ Elland Road › Leeds, West Yorkshire
-    20.00     Crystal Palace v Tottenham  0-4 (0-0)   @ Selhurst Park › London
+    19:30     Southampton v Nottingham Forest  0-1 (0-1)   @ St. Mary's Stadium › Southampton, Hampshire
+    19:45     Leeds v West Ham  2-2 (1-1)   @ Elland Road › Leeds, West Yorkshire
+    20:00     Crystal Palace v Tottenham  0-4 (0-0)   @ Selhurst Park › London
               Aston Villa v Wolves  1-1 (0-1)   @ Villa Park › Birmingham
   Thu Jan 5
-    20.00     Chelsea v Manchester City  0-1 (0-0)   @ Stamford Bridge › London
-» Regular Season - 7
+    20:00     Chelsea v Manchester City  0-1 (0-0)   @ Stamford Bridge › London
+▪ Regular Season - 7
   Thu Jan 12
-    20.00     Fulham v Chelsea  2-1 (1-0)   @ Craven Cottage › London
-» Regular Season - 20
+    20:00     Fulham v Chelsea  2-1 (1-0)   @ Craven Cottage › London
+▪ Regular Season - 20
   Fri Jan 13
-    20.00     Aston Villa v Leeds  2-1 (1-0)   @ Villa Park › Birmingham
+    20:00     Aston Villa v Leeds  2-1 (1-0)   @ Villa Park › Birmingham
   Sat Jan 14
-    12.30     Manchester United v Manchester City  2-1 (0-0)   @ Old Trafford › Manchester
-    15.00     Wolves v West Ham  1-0 (0-0)   @ Molineux Stadium › Wolverhampton, West Midlands
+    12:30     Manchester United v Manchester City  2-1 (0-0)   @ Old Trafford › Manchester
+    15:00     Wolves v West Ham  1-0 (0-0)   @ Molineux Stadium › Wolverhampton, West Midlands
               Everton v Southampton  1-2 (1-0)   @ Goodison Park › Liverpool
               Brighton v Liverpool  3-0 (0-0)   @ The American Express Community Stadium › Falmer, East Sussex
               Nottingham Forest v Leicester  2-0 (0-0)   @ The City Ground › Nottingham, Nottinghamshire
-    17.30     Brentford v Bournemouth  2-0 (1-0)   @ Gtech Community Stadium › Brentford, Middlesex
+    17:30     Brentford v Bournemouth  2-0 (1-0)   @ Gtech Community Stadium › Brentford, Middlesex
   Sun Jan 15
-    14.00     Chelsea v Crystal Palace  1-0 (0-0)   @ Stamford Bridge › London
+    14:00     Chelsea v Crystal Palace  1-0 (0-0)   @ Stamford Bridge › London
               Newcastle v Fulham  1-0 (0-0)   @ St. James' Park › Newcastle upon Tyne
-    16.30     Tottenham v Arsenal  0-2 (0-2)   @ Tottenham Hotspur Stadium › London
-» Regular Season - 7
+    16:30     Tottenham v Arsenal  0-2 (0-2)   @ Tottenham Hotspur Stadium › London
+▪ Regular Season - 7
   Wed Jan 18
-    20.00     Crystal Palace v Manchester United  1-1 (0-1)   @ Selhurst Park › London
+    20:00     Crystal Palace v Manchester United  1-1 (0-1)   @ Selhurst Park › London
   Thu Jan 19
-    20.00     Manchester City v Tottenham  4-2 (0-2)   @ Etihad Stadium › Manchester
-» Regular Season - 21
+    20:00     Manchester City v Tottenham  4-2 (0-2)   @ Etihad Stadium › Manchester
+▪ Regular Season - 21
   Sat Jan 21
-    12.30     Liverpool v Chelsea  0-0 (0-0)   @ Anfield › Liverpool
-    15.00     Bournemouth v Nottingham Forest  1-1 (1-0)   @ Vitality Stadium › Bournemouth, Dorset
+    12:30     Liverpool v Chelsea  0-0 (0-0)   @ Anfield › Liverpool
+    15:00     Bournemouth v Nottingham Forest  1-1 (1-0)   @ Vitality Stadium › Bournemouth, Dorset
               Southampton v Aston Villa  0-1 (0-0)   @ St. Mary's Stadium › Southampton, Hampshire
               Leicester v Brighton  2-2 (1-1)   @ King Power Stadium › Leicester, Leicestershire
               West Ham v Everton  2-0 (2-0)   @ London Stadium › London
-    17.30     Crystal Palace v Newcastle  0-0 (0-0)   @ Selhurst Park › London
+    17:30     Crystal Palace v Newcastle  0-0 (0-0)   @ Selhurst Park › London
   Sun Jan 22
-    14.00     Leeds v Brentford  0-0 (0-0)   @ Elland Road › Leeds, West Yorkshire
+    14:00     Leeds v Brentford  0-0 (0-0)   @ Elland Road › Leeds, West Yorkshire
               Manchester City v Wolves  3-0 (1-0)   @ Etihad Stadium › Manchester
-    16.30     Arsenal v Manchester United  3-2 (1-1)   @ Emirates Stadium › London
+    16:30     Arsenal v Manchester United  3-2 (1-1)   @ Emirates Stadium › London
   Mon Jan 23
-    20.00     Fulham v Tottenham  0-1 (0-1)   @ Craven Cottage › London
-» Regular Season - 22
+    20:00     Fulham v Tottenham  0-1 (0-1)   @ Craven Cottage › London
+▪ Regular Season - 22
   Fri Feb 3
-    20.00     Chelsea v Fulham  0-0 (0-0)   @ Stamford Bridge › London
+    20:00     Chelsea v Fulham  0-0 (0-0)   @ Stamford Bridge › London
   Sat Feb 4
-    12.30     Everton v Arsenal  1-0 (0-0)   @ Goodison Park › Liverpool
-    15.00     Manchester United v Crystal Palace  2-1 (1-0)   @ Old Trafford › Manchester
+    12:30     Everton v Arsenal  1-0 (0-0)   @ Goodison Park › Liverpool
+    15:00     Manchester United v Crystal Palace  2-1 (1-0)   @ Old Trafford › Manchester
               Wolves v Liverpool  3-0 (2-0)   @ Molineux Stadium › Wolverhampton, West Midlands
               Brighton v Bournemouth  1-0 (0-0)   @ The American Express Community Stadium › Falmer, East Sussex
               Brentford v Southampton  3-0 (2-0)   @ Gtech Community Stadium › Brentford, Middlesex
               Aston Villa v Leicester  2-4 (2-3)   @ Villa Park › Birmingham
-    17.30     Newcastle v West Ham  1-1 (1-1)   @ St. James' Park › Newcastle upon Tyne
+    17:30     Newcastle v West Ham  1-1 (1-1)   @ St. James' Park › Newcastle upon Tyne
   Sun Feb 5
-    14.00     Nottingham Forest v Leeds  1-0 (1-0)   @ The City Ground › Nottingham, Nottinghamshire
-    16.30     Tottenham v Manchester City  1-0 (1-0)   @ Tottenham Hotspur Stadium › London
-» Regular Season - 8
+    14:00     Nottingham Forest v Leeds  1-0 (1-0)   @ The City Ground › Nottingham, Nottinghamshire
+    16:30     Tottenham v Manchester City  1-0 (1-0)   @ Tottenham Hotspur Stadium › London
+▪ Regular Season - 8
   Wed Feb 8
-    20.00     Manchester United v Leeds  2-2 (0-1)   @ Old Trafford › Manchester
-» Regular Season - 23
+    20:00     Manchester United v Leeds  2-2 (0-1)   @ Old Trafford › Manchester
+▪ Regular Season - 23
   Sat Feb 11
-    12.30     West Ham v Chelsea  1-1 (1-1)   @ London Stadium › London
-    15.00     Fulham v Nottingham Forest  2-0 (1-0)   @ Craven Cottage › London
+    12:30     West Ham v Chelsea  1-1 (1-1)   @ London Stadium › London
+    15:00     Fulham v Nottingham Forest  2-0 (1-0)   @ Craven Cottage › London
               Southampton v Wolves  1-2 (1-0)   @ St. Mary's Stadium › Southampton, Hampshire
               Arsenal v Brentford  1-1 (0-0)   @ Emirates Stadium › London
               Leicester v Tottenham  4-1 (3-1)   @ King Power Stadium › Leicester, Leicestershire
               Crystal Palace v Brighton  1-1 (0-0)   @ Selhurst Park › London
-    17.30     Bournemouth v Newcastle  1-1 (1-1)   @ Vitality Stadium › Bournemouth, Dorset
+    17:30     Bournemouth v Newcastle  1-1 (1-1)   @ Vitality Stadium › Bournemouth, Dorset
   Sun Feb 12
-    14.00     Leeds v Manchester United  0-2 (0-0)   @ Elland Road › Leeds, West Yorkshire
-    16.30     Manchester City v Aston Villa  3-1 (3-0)   @ Etihad Stadium › Manchester
+    14:00     Leeds v Manchester United  0-2 (0-0)   @ Elland Road › Leeds, West Yorkshire
+    16:30     Manchester City v Aston Villa  3-1 (3-0)   @ Etihad Stadium › Manchester
   Mon Feb 13
-    20.00     Liverpool v Everton  2-0 (1-0)   @ Anfield › Liverpool
-» Regular Season - 12
+    20:00     Liverpool v Everton  2-0 (1-0)   @ Anfield › Liverpool
+▪ Regular Season - 12
   Wed Feb 15
-    19.30     Arsenal v Manchester City  1-3 (1-1)   @ Emirates Stadium › London
-» Regular Season - 24
+    19:30     Arsenal v Manchester City  1-3 (1-1)   @ Emirates Stadium › London
+▪ Regular Season - 24
   Sat Feb 18
-    12.30     Aston Villa v Arsenal  2-4 (2-1)   @ Villa Park › Birmingham
-    15.00     Wolves v Bournemouth  0-1 (0-0)   @ Molineux Stadium › Wolverhampton, West Midlands
+    12:30     Aston Villa v Arsenal  2-4 (2-1)   @ Villa Park › Birmingham
+    15:00     Wolves v Bournemouth  0-1 (0-0)   @ Molineux Stadium › Wolverhampton, West Midlands
               Everton v Leeds  1-0 (0-0)   @ Goodison Park › Liverpool
               Chelsea v Southampton  0-1 (0-1)   @ Stamford Bridge › London
               Brighton v Fulham  0-1 (0-0)   @ The American Express Community Stadium › Falmer, East Sussex
               Brentford v Crystal Palace  1-1 (0-0)   @ Gtech Community Stadium › Brentford, Middlesex
               Nottingham Forest v Manchester City  1-1 (0-1)   @ The City Ground › Nottingham, Nottinghamshire
-    17.30     Newcastle v Liverpool  0-2 (0-2)   @ St. James' Park › Newcastle upon Tyne
+    17:30     Newcastle v Liverpool  0-2 (0-2)   @ St. James' Park › Newcastle upon Tyne
   Sun Feb 19
-    14.00     Manchester United v Leicester  3-0 (1-0)   @ Old Trafford › Manchester
-    16.30     Tottenham v West Ham  2-0 (0-0)   @ Tottenham Hotspur Stadium › London
-» Regular Season - 25
+    14:00     Manchester United v Leicester  3-0 (1-0)   @ Old Trafford › Manchester
+    16:30     Tottenham v West Ham  2-0 (0-0)   @ Tottenham Hotspur Stadium › London
+▪ Regular Season - 25
   Fri Feb 24
-    20.00     Fulham v Wolves  1-1 (0-1)   @ Craven Cottage › London
+    20:00     Fulham v Wolves  1-1 (0-1)   @ Craven Cottage › London
   Sat Feb 25
-    15.00     Everton v Aston Villa  0-2 (0-0)   @ Goodison Park › Liverpool
+    15:00     Everton v Aston Villa  0-2 (0-0)   @ Goodison Park › Liverpool
               Leicester v Arsenal  0-1 (0-0)   @ King Power Stadium › Leicester, Leicestershire
               West Ham v Nottingham Forest  4-0 (0-0)   @ London Stadium › London
               Leeds v Southampton  1-0 (0-0)   @ Elland Road › Leeds, West Yorkshire
-    17.30     Bournemouth v Manchester City  1-4 (0-3)   @ Vitality Stadium › Bournemouth, Dorset
-    19.45     Crystal Palace v Liverpool  0-0 (0-0)   @ Selhurst Park › London
+    17:30     Bournemouth v Manchester City  1-4 (0-3)   @ Vitality Stadium › Bournemouth, Dorset
+    19:45     Crystal Palace v Liverpool  0-0 (0-0)   @ Selhurst Park › London
   Sun Feb 26
-    13.30     Tottenham v Chelsea  2-0 (0-0)   @ Tottenham Hotspur Stadium › London
-» Regular Season - 7
+    13:30     Tottenham v Chelsea  2-0 (0-0)   @ Tottenham Hotspur Stadium › London
+▪ Regular Season - 7
   Wed Mar 1
-    19.45     Arsenal v Everton  4-0 (2-0)   @ Emirates Stadium › London
-    20.00     Liverpool v Wolves  2-0 (0-0)   @ Anfield › Liverpool
-» Regular Season - 26
+    19:45     Arsenal v Everton  4-0 (2-0)   @ Emirates Stadium › London
+    20:00     Liverpool v Wolves  2-0 (0-0)   @ Anfield › Liverpool
+▪ Regular Season - 26
   Sat Mar 4
-    12.30     Manchester City v Newcastle  2-0 (1-0)   @ Etihad Stadium › Manchester
-    15.00     Wolves v Tottenham  1-0 (0-0)   @ Molineux Stadium › Wolverhampton, West Midlands
+    12:30     Manchester City v Newcastle  2-0 (1-0)   @ Etihad Stadium › Manchester
+    15:00     Wolves v Tottenham  1-0 (0-0)   @ Molineux Stadium › Wolverhampton, West Midlands
               Arsenal v Bournemouth  3-2 (0-1)   @ Emirates Stadium › London
               Chelsea v Leeds  1-0 (0-0)   @ Stamford Bridge › London
               Brighton v West Ham  4-0 (1-0)   @ The American Express Community Stadium › Falmer, East Sussex
               Aston Villa v Crystal Palace  1-0 (1-0)   @ Villa Park › Birmingham
-    17.30     Southampton v Leicester  1-0 (1-0)   @ St. Mary's Stadium › Southampton, Hampshire
+    17:30     Southampton v Leicester  1-0 (1-0)   @ St. Mary's Stadium › Southampton, Hampshire
   Sun Mar 5
-    14.00     Nottingham Forest v Everton  2-2 (1-2)   @ The City Ground › Nottingham, Nottinghamshire
-    16.30     Liverpool v Manchester United  7-0 (1-0)   @ Anfield › Liverpool
+    14:00     Nottingham Forest v Everton  2-2 (1-2)   @ The City Ground › Nottingham, Nottinghamshire
+    16:30     Liverpool v Manchester United  7-0 (1-0)   @ Anfield › Liverpool
   Mon Mar 6
-    20.00     Brentford v Fulham  3-2 (1-1)   @ Gtech Community Stadium › Brentford, Middlesex
-» Regular Season - 27
+    20:00     Brentford v Fulham  3-2 (1-1)   @ Gtech Community Stadium › Brentford, Middlesex
+▪ Regular Season - 27
   Sat Mar 11
-    12.30     Bournemouth v Liverpool  1-0 (1-0)   @ Vitality Stadium › Bournemouth, Dorset
-    15.00     Everton v Brentford  1-0 (1-0)   @ Goodison Park › Liverpool
+    12:30     Bournemouth v Liverpool  1-0 (1-0)   @ Vitality Stadium › Bournemouth, Dorset
+    15:00     Everton v Brentford  1-0 (1-0)   @ Goodison Park › Liverpool
               Leicester v Chelsea  1-3 (1-2)   @ King Power Stadium › Leicester, Leicestershire
               Tottenham v Nottingham Forest  3-1 (2-0)   @ Tottenham Hotspur Stadium › London
               Leeds v Brighton  2-2 (1-1)   @ Elland Road › Leeds, West Yorkshire
-    17.30     Crystal Palace v Manchester City  0-1 (0-0)   @ Selhurst Park › London
+    17:30     Crystal Palace v Manchester City  0-1 (0-0)   @ Selhurst Park › London
   Sun Mar 12
-    14.00     Fulham v Arsenal  0-3 (0-3)   @ Craven Cottage › London
+    14:00     Fulham v Arsenal  0-3 (0-3)   @ Craven Cottage › London
               West Ham v Aston Villa  1-1 (1-1)   @ London Stadium › London
               Manchester United v Southampton  0-0 (0-0)   @ Old Trafford › Manchester
-    16.30     Newcastle v Wolves  2-1 (1-0)   @ St. James' Park › Newcastle upon Tyne
-» Regular Season - 8
+    16:30     Newcastle v Wolves  2-1 (1-0)   @ St. James' Park › Newcastle upon Tyne
+▪ Regular Season - 8
   Wed Mar 15
-    19.30     Brighton v Crystal Palace  1-0 (1-0)   @ The American Express Community Stadium › Falmer, East Sussex
-» Regular Season - 7
+    19:30     Brighton v Crystal Palace  1-0 (1-0)   @ The American Express Community Stadium › Falmer, East Sussex
+▪ Regular Season - 7
   Wed Mar 15
-    19.30     Southampton v Brentford  0-2 (0-1)   @ St. Mary's Stadium › Southampton, Hampshire
-» Regular Season - 28
+    19:30     Southampton v Brentford  0-2 (0-1)   @ St. Mary's Stadium › Southampton, Hampshire
+▪ Regular Season - 28
   Fri Mar 17
-    20.00     Nottingham Forest v Newcastle  1-2 (1-1)   @ The City Ground › Nottingham, Nottinghamshire
+    20:00     Nottingham Forest v Newcastle  1-2 (1-1)   @ The City Ground › Nottingham, Nottinghamshire
   Sat Mar 18
-    15.00     Wolves v Leeds  2-4 (0-1)   @ Molineux Stadium › Wolverhampton, West Midlands
+    15:00     Wolves v Leeds  2-4 (0-1)   @ Molineux Stadium › Wolverhampton, West Midlands
               Southampton v Tottenham  3-3 (0-1)   @ St. Mary's Stadium › Southampton, Hampshire
               Brentford v Leicester  1-1 (1-0)   @ Gtech Community Stadium › Brentford, Middlesex
               Aston Villa v Bournemouth  3-0 (1-0)   @ Villa Park › Birmingham
-    17.30     Chelsea v Everton  2-2 (0-0)   @ Stamford Bridge › London
+    17:30     Chelsea v Everton  2-2 (0-0)   @ Stamford Bridge › London
   Sun Mar 19
-    14.00     Arsenal v Crystal Palace  4-1 (2-0)   @ Emirates Stadium › London
-» Regular Season - 29
+    14:00     Arsenal v Crystal Palace  4-1 (2-0)   @ Emirates Stadium › London
+▪ Regular Season - 29
   Sat Apr 1
-    12.30     Manchester City v Liverpool  4-1 (1-1)   @ Etihad Stadium › Manchester
-    15.00     Bournemouth v Fulham  2-1 (0-1)   @ Vitality Stadium › Bournemouth, Dorset
+    12:30     Manchester City v Liverpool  4-1 (1-1)   @ Etihad Stadium › Manchester
+    15:00     Bournemouth v Fulham  2-1 (0-1)   @ Vitality Stadium › Bournemouth, Dorset
               Arsenal v Leeds  4-1 (1-0)   @ Emirates Stadium › London
               Brighton v Brentford  3-3 (2-2)   @ The American Express Community Stadium › Falmer, East Sussex
               Crystal Palace v Leicester  2-1 (0-0)   @ Selhurst Park › London
               Nottingham Forest v Wolves  1-1 (1-0)   @ The City Ground › Nottingham, Nottinghamshire
-    17.30     Chelsea v Aston Villa  0-2 (0-1)   @ Stamford Bridge › London
+    17:30     Chelsea v Aston Villa  0-2 (0-1)   @ Stamford Bridge › London
   Sun Apr 2
-    14.00     West Ham v Southampton  1-0 (1-0)   @ London Stadium › London
-    16.30     Newcastle v Manchester United  2-0 (0-0)   @ St. James' Park › Newcastle upon Tyne
+    14:00     West Ham v Southampton  1-0 (1-0)   @ London Stadium › London
+    16:30     Newcastle v Manchester United  2-0 (0-0)   @ St. James' Park › Newcastle upon Tyne
   Mon Apr 3
-    20.00     Everton v Tottenham  1-1 (0-0)   @ Goodison Park › Liverpool
-» Regular Season - 8
+    20:00     Everton v Tottenham  1-1 (0-0)   @ Goodison Park › Liverpool
+▪ Regular Season - 8
   Tue Apr 4
-    20.00     Chelsea v Liverpool  0-0 (0-0)   @ Stamford Bridge › London
-» Regular Season - 7
+    20:00     Chelsea v Liverpool  0-0 (0-0)   @ Stamford Bridge › London
+▪ Regular Season - 7
   Tue Apr 4
-    19.45     Leeds v Nottingham Forest  2-1 (2-1)   @ Elland Road › Leeds, West Yorkshire
+    19:45     Leeds v Nottingham Forest  2-1 (2-1)   @ Elland Road › Leeds, West Yorkshire
               Leicester v Aston Villa  1-2 (1-1)   @ King Power Stadium › Leicester, Leicestershire
               Bournemouth v Brighton  0-2 (0-1)   @ Vitality Stadium › Bournemouth, Dorset
   Wed Apr 5
-    20.00     West Ham v Newcastle  1-5 (1-2)   @ London Stadium › London
-» Regular Season - 25
+    20:00     West Ham v Newcastle  1-5 (1-2)   @ London Stadium › London
+▪ Regular Season - 25
   Wed Apr 5
-    20.00     Manchester United v Brentford  1-0 (1-0)   @ Old Trafford › Manchester
-» Regular Season - 30
+    20:00     Manchester United v Brentford  1-0 (1-0)   @ Old Trafford › Manchester
+▪ Regular Season - 30
   Sat Apr 8
-    12.30     Manchester United v Everton  2-0 (1-0)   @ Old Trafford › Manchester
-    15.00     Fulham v West Ham  0-1 (0-1)   @ Craven Cottage › London
+    12:30     Manchester United v Everton  2-0 (1-0)   @ Old Trafford › Manchester
+    15:00     Fulham v West Ham  0-1 (0-1)   @ Craven Cottage › London
               Wolves v Chelsea  1-0 (1-0)   @ Molineux Stadium › Wolverhampton, West Midlands
               Leicester v Bournemouth  0-1 (0-1)   @ King Power Stadium › Leicester, Leicestershire
               Tottenham v Brighton  2-1 (1-1)   @ Tottenham Hotspur Stadium › London
               Brentford v Newcastle  1-2 (1-0)   @ Gtech Community Stadium › Brentford, Middlesex
               Aston Villa v Nottingham Forest  2-0 (0-0)   @ Villa Park › Birmingham
-    17.30     Southampton v Manchester City  1-4 (0-1)   @ St. Mary's Stadium › Southampton, Hampshire
+    17:30     Southampton v Manchester City  1-4 (0-1)   @ St. Mary's Stadium › Southampton, Hampshire
   Sun Apr 9
-    14.00     Leeds v Crystal Palace  1-5 (1-1)   @ Elland Road › Leeds, West Yorkshire
-    16.30     Liverpool v Arsenal  2-2 (1-2)   @ Anfield › Liverpool
-» Regular Season - 31
+    14:00     Leeds v Crystal Palace  1-5 (1-1)   @ Elland Road › Leeds, West Yorkshire
+    16:30     Liverpool v Arsenal  2-2 (1-2)   @ Anfield › Liverpool
+▪ Regular Season - 31
   Sat Apr 15
-    12.30     Aston Villa v Newcastle  3-0 (1-0)   @ Villa Park › Birmingham
-    15.00     Wolves v Brentford  2-0 (1-0)   @ Molineux Stadium › Wolverhampton, West Midlands
+    12:30     Aston Villa v Newcastle  3-0 (1-0)   @ Villa Park › Birmingham
+    15:00     Wolves v Brentford  2-0 (1-0)   @ Molineux Stadium › Wolverhampton, West Midlands
               Southampton v Crystal Palace  0-2 (0-0)   @ St. Mary's Stadium › Southampton, Hampshire
               Everton v Fulham  1-3 (1-1)   @ Goodison Park › Liverpool
               Chelsea v Brighton  1-2 (1-1)   @ Stamford Bridge › London
-    15.15     Tottenham v Bournemouth  2-3 (1-1)   @ Tottenham Hotspur Stadium › London
-    17.30     Manchester City v Leicester  3-1 (3-0)   @ Etihad Stadium › Manchester
+    15:15     Tottenham v Bournemouth  2-3 (1-1)   @ Tottenham Hotspur Stadium › London
+    17:30     Manchester City v Leicester  3-1 (3-0)   @ Etihad Stadium › Manchester
   Sun Apr 16
-    14.00     West Ham v Arsenal  2-2 (1-2)   @ London Stadium › London
-    16.30     Nottingham Forest v Manchester United  0-2 (0-1)   @ The City Ground › Nottingham, Nottinghamshire
+    14:00     West Ham v Arsenal  2-2 (1-2)   @ London Stadium › London
+    16:30     Nottingham Forest v Manchester United  0-2 (0-1)   @ The City Ground › Nottingham, Nottinghamshire
   Mon Apr 17
-    20.00     Leeds v Liverpool  1-6 (0-2)   @ Elland Road › Leeds, West Yorkshire
-» Regular Season - 32
+    20:00     Leeds v Liverpool  1-6 (0-2)   @ Elland Road › Leeds, West Yorkshire
+▪ Regular Season - 32
   Fri Apr 21
-    20.00     Arsenal v Southampton  3-3 (1-2)   @ Emirates Stadium › London
+    20:00     Arsenal v Southampton  3-3 (1-2)   @ Emirates Stadium › London
   Sat Apr 22
-    12.30     Fulham v Leeds  2-1 (0-0)   @ Craven Cottage › London
-    15.00     Liverpool v Nottingham Forest  3-2 (0-0)   @ Anfield › Liverpool
+    12:30     Fulham v Leeds  2-1 (0-0)   @ Craven Cottage › London
+    15:00     Liverpool v Nottingham Forest  3-2 (0-0)   @ Anfield › Liverpool
               Leicester v Wolves  2-1 (1-1)   @ King Power Stadium › Leicester, Leicestershire
               Crystal Palace v Everton  0-0 (0-0)   @ Selhurst Park › London
               Brentford v Aston Villa  1-1 (0-0)   @ Gtech Community Stadium › Brentford, Middlesex
   Sun Apr 23
-    14.00     Bournemouth v West Ham  0-4 (0-3)   @ Vitality Stadium › Bournemouth, Dorset
+    14:00     Bournemouth v West Ham  0-4 (0-3)   @ Vitality Stadium › Bournemouth, Dorset
               Newcastle v Tottenham  6-1 (5-0)   @ St. James' Park › Newcastle upon Tyne
-» Regular Season - 33
+▪ Regular Season - 33
   Tue Apr 25
-    19.30     Wolves v Crystal Palace  2-0 (1-0)   @ Molineux Stadium › Wolverhampton, West Midlands
-    19.45     Aston Villa v Fulham  1-0 (1-0)   @ Villa Park › Birmingham
-    20.00     Leeds v Leicester  1-1 (1-0)   @ Elland Road › Leeds, West Yorkshire
+    19:30     Wolves v Crystal Palace  2-0 (1-0)   @ Molineux Stadium › Wolverhampton, West Midlands
+    19:45     Aston Villa v Fulham  1-0 (1-0)   @ Villa Park › Birmingham
+    20:00     Leeds v Leicester  1-1 (1-0)   @ Elland Road › Leeds, West Yorkshire
   Wed Apr 26
-    19.30     Nottingham Forest v Brighton  3-1 (1-1)   @ The City Ground › Nottingham, Nottinghamshire
-    19.45     Chelsea v Brentford  0-2 (0-1)   @ Stamford Bridge › London
+    19:30     Nottingham Forest v Brighton  3-1 (1-1)   @ The City Ground › Nottingham, Nottinghamshire
+    19:45     Chelsea v Brentford  0-2 (0-1)   @ Stamford Bridge › London
               West Ham v Liverpool  1-2 (1-1)   @ London Stadium › London
-    20.00     Manchester City v Arsenal  4-1 (2-0)   @ Etihad Stadium › Manchester
+    20:00     Manchester City v Arsenal  4-1 (2-0)   @ Etihad Stadium › Manchester
   Thu Apr 27
-    19.45     Everton v Newcastle  1-4 (0-1)   @ Goodison Park › Liverpool
+    19:45     Everton v Newcastle  1-4 (0-1)   @ Goodison Park › Liverpool
               Southampton v Bournemouth  0-1 (0-0)   @ St. Mary's Stadium › Southampton, Hampshire
-    20.15     Tottenham v Manchester United  2-2 (0-2)   @ Tottenham Hotspur Stadium › London
-» Regular Season - 34
+    20:15     Tottenham v Manchester United  2-2 (0-2)   @ Tottenham Hotspur Stadium › London
+▪ Regular Season - 34
   Sat Apr 29
-    12.30     Crystal Palace v West Ham  4-3 (3-2)   @ Selhurst Park › London
-    15.00     Brighton v Wolves  6-0 (4-0)   @ The American Express Community Stadium › Falmer, East Sussex
+    12:30     Crystal Palace v West Ham  4-3 (3-2)   @ Selhurst Park › London
+    15:00     Brighton v Wolves  6-0 (4-0)   @ The American Express Community Stadium › Falmer, East Sussex
               Brentford v Nottingham Forest  2-1 (0-1)   @ Gtech Community Stadium › Brentford, Middlesex
   Sun Apr 30
-    14.00     Newcastle v Southampton  3-1 (0-1)   @ St. James' Park › Newcastle upon Tyne
+    14:00     Newcastle v Southampton  3-1 (0-1)   @ St. James' Park › Newcastle upon Tyne
               Bournemouth v Leeds  4-1 (2-1)   @ Vitality Stadium › Bournemouth, Dorset
               Fulham v Manchester City  1-2 (1-2)   @ Craven Cottage › London
               Manchester United v Aston Villa  1-0 (1-0)   @ Old Trafford › Manchester
-    16.30     Liverpool v Tottenham  4-3 (3-1)   @ Anfield › Liverpool
+    16:30     Liverpool v Tottenham  4-3 (3-1)   @ Anfield › Liverpool
   Mon May 1
-    20.00     Leicester v Everton  2-2 (2-1)   @ King Power Stadium › Leicester, Leicestershire
+    20:00     Leicester v Everton  2-2 (2-1)   @ King Power Stadium › Leicester, Leicestershire
   Tue May 2
-    20.00     Arsenal v Chelsea  3-1 (3-0)   @ Emirates Stadium › London
-» Regular Season - 28
+    20:00     Arsenal v Chelsea  3-1 (3-0)   @ Emirates Stadium › London
+▪ Regular Season - 28
   Wed May 3
-    20.00     Manchester City v West Ham  3-0 (0-0)   @ Etihad Stadium › Manchester
+    20:00     Manchester City v West Ham  3-0 (0-0)   @ Etihad Stadium › Manchester
               Liverpool v Fulham  1-0 (1-0)   @ Anfield › Liverpool
   Thu May 4
-    20.00     Brighton v Manchester United  1-0 (0-0)   @ The American Express Community Stadium › Falmer, East Sussex
-» Regular Season - 35
+    20:00     Brighton v Manchester United  1-0 (0-0)   @ The American Express Community Stadium › Falmer, East Sussex
+▪ Regular Season - 35
   Sat May 6
-    15.00     Wolves v Aston Villa  1-0 (1-0)   @ Molineux Stadium › Wolverhampton, West Midlands
+    15:00     Wolves v Aston Villa  1-0 (1-0)   @ Molineux Stadium › Wolverhampton, West Midlands
               Tottenham v Crystal Palace  1-0 (1-0)   @ Tottenham Hotspur Stadium › London
               Manchester City v Leeds  2-1 (2-0)   @ Etihad Stadium › Manchester
               Bournemouth v Chelsea  1-3 (1-1)   @ Vitality Stadium › Bournemouth, Dorset
-    17.30     Liverpool v Brentford  1-0 (1-0)   @ Anfield › Liverpool
+    17:30     Liverpool v Brentford  1-0 (1-0)   @ Anfield › Liverpool
   Sun May 7
-    16.30     Newcastle v Arsenal  0-2 (0-1)   @ St. James' Park › Newcastle upon Tyne
-    19.00     West Ham v Manchester United  1-0 (1-0)   @ London Stadium › London
+    16:30     Newcastle v Arsenal  0-2 (0-1)   @ St. James' Park › Newcastle upon Tyne
+    19:00     West Ham v Manchester United  1-0 (1-0)   @ London Stadium › London
   Mon May 8
-    15.00     Fulham v Leicester  5-3 (3-0)   @ Craven Cottage › London
-    17.30     Brighton v Everton  1-5 (0-3)   @ The American Express Community Stadium › Falmer, East Sussex
-    20.00     Nottingham Forest v Southampton  4-3 (3-1)   @ The City Ground › Nottingham, Nottinghamshire
-» Regular Season - 36
+    15:00     Fulham v Leicester  5-3 (3-0)   @ Craven Cottage › London
+    17:30     Brighton v Everton  1-5 (0-3)   @ The American Express Community Stadium › Falmer, East Sussex
+    20:00     Nottingham Forest v Southampton  4-3 (3-1)   @ The City Ground › Nottingham, Nottinghamshire
+▪ Regular Season - 36
   Sat May 13
-    12.30     Leeds v Newcastle  2-2 (1-1)   @ Elland Road › Leeds, West Yorkshire
-    15.00     Southampton v Fulham  0-2 (0-0)   @ St. Mary's Stadium › Southampton, Hampshire
+    12:30     Leeds v Newcastle  2-2 (1-1)   @ Elland Road › Leeds, West Yorkshire
+    15:00     Southampton v Fulham  0-2 (0-0)   @ St. Mary's Stadium › Southampton, Hampshire
               Chelsea v Nottingham Forest  2-2 (0-1)   @ Stamford Bridge › London
               Crystal Palace v Bournemouth  2-0 (1-0)   @ Selhurst Park › London
               Aston Villa v Tottenham  2-1 (1-0)   @ Villa Park › Birmingham
               Manchester United v Wolves  2-0 (1-0)   @ Old Trafford › Manchester
   Sun May 14
-    14.00     Everton v Manchester City  0-3 (0-2)   @ Goodison Park › Liverpool
+    14:00     Everton v Manchester City  0-3 (0-2)   @ Goodison Park › Liverpool
               Brentford v West Ham  2-0 (2-0)   @ Gtech Community Stadium › Brentford, Middlesex
-    16.30     Arsenal v Brighton  0-3 (0-0)   @ Emirates Stadium › London
+    16:30     Arsenal v Brighton  0-3 (0-0)   @ Emirates Stadium › London
   Mon May 15
-    20.00     Leicester v Liverpool  0-3 (0-2)   @ King Power Stadium › Leicester, Leicestershire
-» Regular Season - 25
+    20:00     Leicester v Liverpool  0-3 (0-2)   @ King Power Stadium › Leicester, Leicestershire
+▪ Regular Season - 25
   Thu May 18
-    19.30     Newcastle v Brighton  4-1 (2-0)   @ St. James' Park › Newcastle upon Tyne
-» Regular Season - 37
+    19:30     Newcastle v Brighton  4-1 (2-0)   @ St. James' Park › Newcastle upon Tyne
+▪ Regular Season - 37
   Sat May 20
-    12.30     Tottenham v Brentford  1-3 (1-0)   @ Tottenham Hotspur Stadium › London
-    15.00     Fulham v Crystal Palace  2-2 (1-1)   @ Craven Cottage › London
+    12:30     Tottenham v Brentford  1-3 (1-0)   @ Tottenham Hotspur Stadium › London
+    15:00     Fulham v Crystal Palace  2-2 (1-1)   @ Craven Cottage › London
               Wolves v Everton  1-1 (1-0)   @ Molineux Stadium › Wolverhampton, West Midlands
               Liverpool v Aston Villa  1-1 (0-1)   @ Anfield › Liverpool
               Bournemouth v Manchester United  0-1 (0-1)   @ Vitality Stadium › Bournemouth, Dorset
-    17.30     Nottingham Forest v Arsenal  1-0 (1-0)   @ The City Ground › Nottingham, Nottinghamshire
+    17:30     Nottingham Forest v Arsenal  1-0 (1-0)   @ The City Ground › Nottingham, Nottinghamshire
   Sun May 21
-    13.30     West Ham v Leeds  3-1 (1-1)   @ London Stadium › London
-    14.00     Brighton v Southampton  3-1 (2-0)   @ The American Express Community Stadium › Falmer, East Sussex
-    16.00     Manchester City v Chelsea  1-0 (1-0)   @ Etihad Stadium › Manchester
+    13:30     West Ham v Leeds  3-1 (1-1)   @ London Stadium › London
+    14:00     Brighton v Southampton  3-1 (2-0)   @ The American Express Community Stadium › Falmer, East Sussex
+    16:00     Manchester City v Chelsea  1-0 (1-0)   @ Etihad Stadium › Manchester
   Mon May 22
-    20.00     Newcastle v Leicester  0-0 (0-0)   @ St. James' Park › Newcastle upon Tyne
-» Regular Season - 32
+    20:00     Newcastle v Leicester  0-0 (0-0)   @ St. James' Park › Newcastle upon Tyne
+▪ Regular Season - 32
   Wed May 24
-    20.00     Brighton v Manchester City  1-1 (1-1)   @ The American Express Community Stadium › Falmer, East Sussex
+    20:00     Brighton v Manchester City  1-1 (1-1)   @ The American Express Community Stadium › Falmer, East Sussex
   Thu May 25
-    20.00     Manchester United v Chelsea  4-1 (2-0)   @ Old Trafford › Manchester
-» Regular Season - 38
+    20:00     Manchester United v Chelsea  4-1 (2-0)   @ Old Trafford › Manchester
+▪ Regular Season - 38
   Sun May 28
-    16.30     Manchester United v Fulham  2-1 (1-1)   @ Old Trafford › Manchester
+    16:30     Manchester United v Fulham  2-1 (1-1)   @ Old Trafford › Manchester
               Southampton v Liverpool  4-4 (2-2)   @ St. Mary's Stadium › Southampton, Hampshire
               Arsenal v Wolves  5-0 (3-0)   @ Emirates Stadium › London
               Everton v Bournemouth  1-0 (0-0)   @ Goodison Park › Liverpool

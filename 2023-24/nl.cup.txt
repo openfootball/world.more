@@ -1,48 +1,48 @@
 = Netherlands | KNVB Beker 2023/24
 
-  # Date       Sat Aug/12 2023 - Sun Apr/21 2024 (253d)
+  # Date       Sat Aug 12 2023 - Sun Apr 21 2024 (253d)
   # Teams      110
   # Matches    109
 
   # Note - All times in Europe/Amsterdam
 
-» 1st Preliminary Round
+▪ 1st Preliminary Round
   Sat Aug 12 2023
-    14.30     Barendrecht v SC Genemuiden  2-1 (1-1)   @ Sportpark De Bongerd veld 1 › Barendrecht
+    14:30     Barendrecht v SC Genemuiden  2-1 (1-1)   @ Sportpark De Bongerd veld 1 › Barendrecht
   Sat Aug 12
-    14.30     Hoek v SteDoCo  3-2 (1-2)   @ Sportpark Denoek › Hoek
+    14:30     Hoek v SteDoCo  3-2 (1-2)   @ Sportpark Denoek › Hoek
               SJC Noordwijk v Bon Boys  2-1 aet   @ Gemeentelijk Sportpark SJC › Noordwijk
               Nieuwkoop v RKAV Volendam  0-2 (0-1)   @ Sportpark De Dulen › Nieuwkoop
               Eemdijk v Bunde  5-0 (2-0)   @ Sportpark De Vinken › Bunschoten
-    15.00     DVS 33 Ermelo v URK  1-0 (1-0)   @ Sportpark Zuid DVS '33 › Ermelo
+    15:00     DVS 33 Ermelo v URK  1-0 (1-0)   @ Sportpark Zuid DVS '33 › Ermelo
               Blauw Geel v SVOD '22  5-1 (4-1)   @ Prins Willem Alexander Sportpark › Veghel
               Csv Apeldoorn v HSV ODIN 59  1-0 aet   @ Sportpark Orderbos Veld 6 › Apeldoorn
               Sparta Nijkerk v ONS Sneek  2-0 (2-0)   @ Sportpark De Ebbenhorst › Nijkerk
               Ijsselmeervogels v TOGB  2-1 (0-0)   @ Sportpark De Westmaat › Bunschoten-Spakenburg
               Kloetinge v BOL  6-0 (3-0)   @ Sportpark Wesselopark › Kloetinge
-    15.30     Vvsb v Rijnvogels  3-3 aet   @ Sportpark De Boekhorst › Noordwijkerhout
+    15:30     Vvsb v Rijnvogels  3-3 aet   @ Sportpark De Boekhorst › Noordwijkerhout
               TEC v Dovo  1-1 aet   @ Sportpark De Lok › Tiel
               DEM v XerxesDZB Zat  1-0 aet   @ Sportpark Adrichem › Beverwijk
-    17.00     Hercules v Berkum  2-1 (1-0)   @ Sportpark Voordorp › Utrecht
+    17:00     Hercules v Berkum  2-1 (1-0)   @ Sportpark Voordorp › Utrecht
               Hsc 21 v Harkemase Boys  3-4 aet   @ Sportpark Groot Scholtenhagen › Haaksbergen
               Purmersteijn v Sportlust '46  0-2 (0-1)   @ Sportpark Purmersteijn › Purmerend
               AWC v Staphorst  1-2 (0-0)   @ Sportpark De Wijchert › Wijchen
               GVV Unitas v Blauw Wit '34  4-0 (1-0)   @ Sportpark Molenvliet › Gorinchem
               AGB v Olde Veste '54  1-2 (0-1)   @ Sportpark Ookmeer › Amsterdam
               Veensche Boys v HVCH  1-2 (1-2)   @ Sportpark Nijkerkerveen › Nijkerkerveen
-    18.00     Baronie v Hoogeveen  0-1 (0-0)   @ Stadion De Blauwe Kei › Breda
+    18:00     Baronie v Hoogeveen  0-1 (0-0)   @ Stadion De Blauwe Kei › Breda
               Zwaluw VFC v VV Scherpenzeel  1-5 (0-2)   @ Sportpark Bergenshuizen Zwaluw › Vught
               OJC Rosmalen v OSS '20  5-1 (1-0)   @ Complex Groote Wielen › Rosmalen
   Sun Aug 13
-    14.00     Westlandia v HV & CV Quick  3-1 (1-0)   @ Sportpark De Hoge Bomen › Naaldwijk
+    14:00     Westlandia v HV & CV Quick  3-1 (1-0)   @ Sportpark De Hoge Bomen › Naaldwijk
               Avanti '31 v Meerssen  0-3 (0-1)   @ Sportpark De Molenheide › Schijndel
               Jubbega v UNA  3-5 aet   @ Sportpark 't Heidefjild › Jubbega
-    14.30     RKSV Nuenen v Chevremont  4-2 (1-2)   @ Sportpark Oude Landen veld 1 › Nuenen
+    14:30     RKSV Nuenen v Chevremont  4-2 (1-2)   @ Sportpark Oude Landen veld 1 › Nuenen
               Kampong v Gemert  2-4 (0-2)   @ Sportpark Maarschalkerweerd › Utrecht
               Groene Ster v Groen Wit '62  6-0 (4-0)   @ Sportpark Pronsenbroek › Heerlen
-» 2nd Preliminary Round
+▪ 2nd Preliminary Round
   Tue Sep 19
-    20.00     Eemdijk v Harkemase Boys  3-2 (1-1)   @ Sportpark De Vinken › Bunschoten
+    20:00     Eemdijk v Harkemase Boys  3-2 (1-1)   @ Sportpark De Vinken › Bunschoten
               RKAV Volendam v Westlandia  3-0 (1-0)   @ KWABO-stadion › Volendam
               DVS 33 Ermelo v Ijsselmeervogels  0-2 (0-1)   @ Sportpark Zuid DVS '33 › Ermelo
               Spakenburg v VV Scherpenzeel  1-0 (0-0)   @ Sportpark De Westmaat › Bunschoten
@@ -53,7 +53,7 @@
               Olde Veste '54 v Noordwijk  0-2 (0-0)   @ Sportpark Parallelweg › Steenwijk
               DEM v Sportlust '46  3-1 (1-1)   @ Sportpark Adrichem › Beverwijk
   Wed Sep 20
-    20.00     Groene Ster v Kozakken Boys  1-0 (0-0)   @ Sportpark Pronsenbroek › Heerlen
+    20:00     Groene Ster v Kozakken Boys  1-0 (0-0)   @ Sportpark Pronsenbroek › Heerlen
               Vvsb v UNA  1-2 (1-1)   @ Sportpark De Boekhorst › Noordwijkerhout
               TEC v Meerssen  2-0 (0-0)   @ Sportpark De Lok › Tiel
               FC Lisse v Blauw Geel  1-0 (0-0)   @ Sportpark Ter Specke › Lisse
@@ -64,10 +64,10 @@
               Kloetinge v Koninklijke HFC  1-3 (0-3)   @ Sportpark Wesselopark › Kloetinge
               Hoogeveen v Staphorst  3-0 (2-0)   @ Sportpark Bentinckspark Veld 7 › Hoogeveen
               HVCH v De Treffers  1-3 (0-2)   @ Sportpark De Braaken › Heesch
-» 1st Round
+▪ 1st Round
   Tue Oct 31
-    18.45     De Graafschap v Emmen  2-0 (1-0)   @ Stadion De Vijverberg › Doetinchem
-    20.00     Heerenveen v VVV Venlo  5-1 (3-0)   @ Abe Lenstra Stadion › Heerenveen
+    18:45     De Graafschap v Emmen  2-0 (1-0)   @ Stadion De Vijverberg › Doetinchem
+    20:00     Heerenveen v VVV Venlo  5-1 (3-0)   @ Abe Lenstra Stadion › Heerenveen
               Groene Ster v Vitesse  0-1 (0-0)   @ Sportpark Pronsenbroek › Heerlen
               OJC Rosmalen v Almere City FC  1-8 (1-3)   @ Complex Groote Wielen › Rosmalen
               Koninklijke HFC v GO Ahead Eagles  1-4 aet (1-1, 0-0)   @ Sportpark Spanjaardslaan › Haarlem
@@ -77,10 +77,10 @@
               GVVV Veenendaal v Telstar  1-0 (0-0)   @ Sportpark Panhuis › Veenendaal
               Quick Boys v NAC Breda  1-0 (1-0)   @ Sportpark Nieuw Zuid › Katwijk
               De Treffers v UNA  4-0 (2-0)   @ Sportpark Zuid veld 1 › Groesbeek
-    21.00     Utrecht v Waalwijk  3-2 (3-1)   @ Stadion Galgenwaard › Utrecht
+    21:00     Utrecht v Waalwijk  3-2 (3-1)   @ Stadion Galgenwaard › Utrecht
   Wed Nov 1
-    18.45     HHC v Heracles  2-0 (1-0)   @ Sportpark de Boshoek › Hardenberg
-    20.00     Katwijk v TEC  5-0 (2-0)   @ Sportpark de Krom › Katwijk
+    18:45     HHC v Heracles  2-0 (1-0)   @ Sportpark de Boshoek › Hardenberg
+    20:00     Katwijk v TEC  5-0 (2-0)   @ Sportpark de Krom › Katwijk
               RKAV Volendam v Eemdijk  5-0 (3-0)   @ Kras Stadion › Volendam
               Rijnsburgse Boys v Groningen  0-1 (0-0)   @ Sportpark Middelmors Veld 8 › Rijnsburg
               SVV Scheveningen v Hercules  3-4 pen (0-0, 0-0, 0-0)   @ Sportpark Houtrust › Den Haag
@@ -88,65 +88,65 @@
               Sparta Nijkerk v Fortuna Sittard  0-1 (0-0)   @ Sportpark De Ebbenhorst › Nijkerk
               Ijsselmeervogels v Sparta Rotterdam  0-2 (0-1)   @ Sportpark De Westmaat › Bunschoten-Spakenburg
               DEM v Hoogeveen  3-1 (3-0)   @ Sportpark Adrichem › Beverwijk
-    21.00     Den Bosch v Excelsior  1-2 aet (1-1, 0-1)   @ Stadion De Vliert › 's-Hertogenbosch
+    21:00     Den Bosch v Excelsior  1-2 aet (1-1, 0-1)   @ Stadion De Vliert › 's-Hertogenbosch
   Thu Nov 2
-    18.45     Cambuur v MVV  4-1 (4-1)   @ Cambuur Stadion › Leeuwarden
-    20.00     SJC Noordwijk v Willem II  1-3 (1-2)   @ Gemeentelijk Sportpark SJC › Noordwijk
+    18:45     Cambuur v MVV  4-1 (4-1)   @ Cambuur Stadion › Leeuwarden
+    20:00     SJC Noordwijk v Willem II  1-3 (1-2)   @ Gemeentelijk Sportpark SJC › Noordwijk
               FC OSS v FC Eindhoven  0-1 (0-0)   @ Frans Heesen Stadion › Oss
-    21.00     NEC Nijmegen v Roda  5-3 (3-3)   @ Goffertstadion › Nijmegen
+    21:00     NEC Nijmegen v Roda  5-3 (3-3)   @ Goffertstadion › Nijmegen
   Thu Nov 16
-    20.00     Excelsior Maassluis v FC Volendam  1-0 (1-0)   @ Sportpark Dijkpolder › Maassluis
-» 2nd Round
+    20:00     Excelsior Maassluis v FC Volendam  1-0 (1-0)   @ Sportpark Dijkpolder › Maassluis
+▪ 2nd Round
   Tue Dec 19
-    18.45     Quick Boys v De Graafschap  2-0 (1-0)   @ Sportpark Nieuw Zuid › Katwijk
-    20.00     Dordrecht v Cambuur  0-3 (0-1)   @ Matchoholic Stadion › Dordrecht
+    18:45     Quick Boys v De Graafschap  2-0 (1-0)   @ Sportpark Nieuw Zuid › Katwijk
+    20:00     Dordrecht v Cambuur  0-3 (0-1)   @ Matchoholic Stadion › Dordrecht
               FC Eindhoven v Fortuna Sittard  0-2 (0-1)   @ Jan Louwers Stadion › Eindhoven
               Spakenburg v Excelsior  2-3 aet (2-2, 1-1)   @ Sportpark De Westmaat › Bunschoten
               DEM v Excelsior Maassluis  0-1 (0-0)   @ Sportpark Adrichem › Beverwijk
-    21.00     Willem II v Groningen  1-3 (0-1)   @ Koning Willem II Stadion › Tilburg
+    21:00     Willem II v Groningen  1-3 (0-1)   @ Koning Willem II Stadion › Tilburg
   Wed Dec 20
-    18.45     ADO Den Haag v Sparta Rotterdam  2-0 (1-0)   @ Bingoal Stadion › 's-Gravenhage
-    20.00     RKAV Volendam v AFC Amsterdam  0-1 (0-0)   @ Kras Stadion › Volendam
+    18:45     ADO Den Haag v Sparta Rotterdam  2-0 (1-0)   @ Bingoal Stadion › 's-Gravenhage
+    20:00     RKAV Volendam v AFC Amsterdam  0-1 (0-0)   @ Kras Stadion › Volendam
               GVVV Veenendaal v NEC Nijmegen  1-6 (0-5)   @ Sportpark Panhuis › Veenendaal
               HHC v AZ Alkmaar  2-3 aet (2-2, 0-1)   @ Sportpark de Boshoek › Hardenberg
-    21.00     Feyenoord v Utrecht  2-1 (2-1)   @ Stadion Feijenoord › Rotterdam
+    21:00     Feyenoord v Utrecht  2-1 (2-1)   @ Stadion Feijenoord › Rotterdam
   Thu Dec 21
-    18.45     Hercules v Ajax  3-2 (1-0)   @ Stadion Galgenwaard › Utrecht
-    20.00     GO Ahead Eagles v De Treffers  7-1 (4-0)   @ De Adelaarshorst › Deventer
+    18:45     Hercules v Ajax  3-2 (1-0)   @ Stadion Galgenwaard › Utrecht
+    20:00     GO Ahead Eagles v De Treffers  7-1 (4-0)   @ De Adelaarshorst › Deventer
               Katwijk v Almere City FC  1-2 (1-2)   @ Sportpark de Krom › Katwijk
               Vitesse v Heerenveen  1-0 (0-0)   @ GelreDome › Arnhem
-» Round of 16
+▪ Round of 16
   Tue Jan 16 2024
-    18.45     Excelsior Maassluis v ADO Den Haag  1-2 (1-0)   @ Sparta-Stadion Het Kasteel › Rotterdam
+    18:45     Excelsior Maassluis v ADO Den Haag  1-2 (1-0)   @ Sparta-Stadion Het Kasteel › Rotterdam
   Tue Jan 16
-    20.00     Excelsior v Groningen  0-2 (0-0)   @ Van Donge & De Roo Stadion › Rotterdam
-    21.00     AZ Alkmaar v Quick Boys  4-2 pen (3-3, 2-2, 0-0)   @ AFAS Stadion › Alkmaar
-» 2nd Round
+    20:00     Excelsior v Groningen  0-2 (0-0)   @ Van Donge & De Roo Stadion › Rotterdam
+    21:00     AZ Alkmaar v Quick Boys  4-2 pen (3-3, 2-2, 0-0)   @ AFAS Stadion › Alkmaar
+▪ 2nd Round
   Wed Jan 17
-    21.00     PSV Eindhoven v Twente  3-1 (1-0)   @ Philips Stadion › Eindhoven
-» Round of 16
+    21:00     PSV Eindhoven v Twente  3-1 (1-0)   @ Philips Stadion › Eindhoven
+▪ Round of 16
   Wed Jan 17
-    18.45     NEC Nijmegen v GO Ahead Eagles  2-1 (1-0)   @ Goffertstadion › Nijmegen
-    20.00     Almere City FC v Fortuna Sittard  1-2 (0-2)   @ Yanmar Stadion › Almere
+    18:45     NEC Nijmegen v GO Ahead Eagles  2-1 (1-0)   @ Goffertstadion › Nijmegen
+    20:00     Almere City FC v Fortuna Sittard  1-2 (0-2)   @ Yanmar Stadion › Almere
   Thu Jan 18
-    18.45     Vitesse v AFC Amsterdam  1-0 (1-0)   @ GelreDome › Arnhem
+    18:45     Vitesse v AFC Amsterdam  1-0 (1-0)   @ GelreDome › Arnhem
   Wed Jan 24
-    20.00     Feyenoord v PSV Eindhoven  1-0 (1-0)   @ Stadion Feijenoord › Rotterdam
+    20:00     Feyenoord v PSV Eindhoven  1-0 (1-0)   @ Stadion Feijenoord › Rotterdam
   Thu Jan 25
-    20.00     Hercules v Cambuur  3-4 aet (2-2, 1-0)   @ Sportcomplex Zoudenbalch › Utrecht
-» Quarter-finals
+    20:00     Hercules v Cambuur  3-4 aet (2-2, 1-0)   @ Sportcomplex Zoudenbalch › Utrecht
+▪ Quarter-finals
   Tue Feb 6
-    20.00     NEC Nijmegen v ADO Den Haag  3-0 (1-0)   @ Goffertstadion › Nijmegen
+    20:00     NEC Nijmegen v ADO Den Haag  3-0 (1-0)   @ Goffertstadion › Nijmegen
   Wed Feb 7
-    18.45     Cambuur v Vitesse  3-1 (1-0)   @ Cambuur Stadion › Leeuwarden
-    21.00     Feyenoord v AZ Alkmaar  2-0 (1-0)   @ Stadion Feijenoord › Rotterdam
+    18:45     Cambuur v Vitesse  3-1 (1-0)   @ Cambuur Stadion › Leeuwarden
+    21:00     Feyenoord v AZ Alkmaar  2-0 (1-0)   @ Stadion Feijenoord › Rotterdam
   Thu Feb 8
-    20.00     Groningen v Fortuna Sittard  4-3 pen (0-0, 0-0, 0-0)   @ Euroborg › Groningen
-» Semi-finals
+    20:00     Groningen v Fortuna Sittard  4-3 pen (0-0, 0-0, 0-0)   @ Euroborg › Groningen
+▪ Semi-finals
   Tue Feb 27
-    20.00     Cambuur v NEC Nijmegen  1-2 aet (1-1, 1-0)   @ Cambuur Stadion › Leeuwarden
+    20:00     Cambuur v NEC Nijmegen  1-2 aet (1-1, 1-0)   @ Cambuur Stadion › Leeuwarden
   Thu Feb 29
-    20.00     Feyenoord v Groningen  2-1 (0-1)   @ Stadion Feijenoord › Rotterdam
-» Final
+    20:00     Feyenoord v Groningen  2-1 (0-1)   @ Stadion Feijenoord › Rotterdam
+▪ Final
   Sun Apr 21
-    18.00     Feyenoord v NEC Nijmegen  1-0 (0-0)   @ Stadion Feijenoord › Rotterdam
+    18:00     Feyenoord v NEC Nijmegen  1-0 (0-0)   @ Stadion Feijenoord › Rotterdam

@@ -1,23 +1,23 @@
 = Portugal | Taça de Portugal 2022/23
 
-  # Date       Fri Sep/9 2022 - Sun Jun/4 2023 (268d)
+  # Date       Fri Sep 9 2022 - Sun Jun 4 2023 (268d)
   # Teams      152
   # Matches    153
 
   # Note - All times in Europe/Lisbon
 
-» 1st Round
+▪ 1st Round
   Fri Sep 9 2022
-    16.45     Alverca v UD Rio Maior  2-0 (1-0)   @ Complexo Desportivo FC Alverca › Alverca do Ribatejo
+    16:45     Alverca v UD Rio Maior  2-0 (1-0)   @ Complexo Desportivo FC Alverca › Alverca do Ribatejo
   Fri Sep 9
-    20.00     Lusitânia v Praiense  2-3 aet   @ Estádio João Paulo II › Ilha Terceira, Açores
+    20:00     Lusitânia v Praiense  2-3 aet   @ Estádio João Paulo II › Ilha Terceira, Açores
   Sat Sep 10
-    11.00     Valadares Gaia v Salgueiros  5-2 (3-1)   @ Complexo Desportivo de Valadares › Valadares
-    15.00     Bragança v Monção  2-1 aet   @ Estádio Municipal de Bragança › Bragança
-    20.00     Lagos v Comércio Indústria  2-0   @ Estádio Municipal Fernando Cabrita › Lagos
+    11:00     Valadares Gaia v Salgueiros  5-2 (3-1)   @ Complexo Desportivo de Valadares › Valadares
+    15:00     Bragança v Monção  2-1 aet   @ Estádio Municipal de Bragança › Bragança
+    20:00     Lagos v Comércio Indústria  2-0   @ Estádio Municipal Fernando Cabrita › Lagos
   Sun Sep 11
-    11.00     Gondomar v Rebordosa  1-0 (0-0)   @ Estádio de São Miguel › Ponta Delgada, Ilha de São Miguel, Açores
-    15.00     Freamunde v Joane  2-3 (1-2)   @ Complexo Desportivo do SC Freamunde › Freamunde
+    11:00     Gondomar v Rebordosa  1-0 (0-0)   @ Estádio de São Miguel › Ponta Delgada, Ilha de São Miguel, Açores
+    15:00     Freamunde v Joane  2-3 (1-2)   @ Complexo Desportivo do SC Freamunde › Freamunde
               Fafe v Ribeira Brava  5-0 (2-0)   @ Parque Municipal dos Desportos › Fafe
               Alcains v Sertanense  0-1 (0-1)   @ Estádio Trigueiros do Aragão › Alcains
               Benfica Castelo Branco v Águias do Moradal  8-0 (4-0)   @ Estádio Municipal Vale do Romeiro › Castelo Branco
@@ -49,30 +49,30 @@
               Lajense v São Roque Açores  3-2 (2-1)   @ Campo Municipal Manuel Linhares Lima › Lajes
               Os Marialvas v Vila Cortez  3-1   @ Estádio Municipal de Cantanhede › Cantanhede
               UD da Serra v Pedrógão São Pedro  5-1 (3-0)   @ Campo da Portela › Marinha Grande
-    16.00     Ferreiras v Culatrense  2-0   @ Estádio da Nora › Albufeira
+    16:00     Ferreiras v Culatrense  2-0   @ Estádio da Nora › Albufeira
               Varzim v Vila Meã  2-1 aet   @ Complex Desportivo Clube de Futebol de Fão › Fão
-    16.45     Oliveira Hospital v Lusitânia Lourosa  1-0 aet   @ Estádio Municipal de Tábua › Tábua
-    20.00     Felgueiras 1932 v Mondinense  5-2 (1-1)   @ Estádio Dr. Machado de Matos › Felgueiras
-» 2nd Round
+    16:45     Oliveira Hospital v Lusitânia Lourosa  1-0 aet   @ Estádio Municipal de Tábua › Tábua
+    20:00     Felgueiras 1932 v Mondinense  5-2 (1-1)   @ Estádio Dr. Machado de Matos › Felgueiras
+▪ 2nd Round
   Sat Oct 1
-    11.00     Benfica Castelo Branco v Farense  0-1 (0-1)   @ Estádio Municipal Vale do Romeiro › Castelo Branco
-    14.00     Lajense v Moreirense  1-3 (1-2)   @ Campo Municipal Manuel Linhares Lima › Lajes
+    11:00     Benfica Castelo Branco v Farense  0-1 (0-1)   @ Estádio Municipal Vale do Romeiro › Castelo Branco
+    14:00     Lajense v Moreirense  1-3 (1-2)   @ Campo Municipal Manuel Linhares Lima › Lajes
               Varzim v Feirense  1-0 (0-0)   @ Estádio Municipal Prof. Dr. José Vieira de Carvalho › Maia
-    15.00     União de Leiria v Montalegre  0-1 (0-1)   @ Estádio Dr. Magalhães Pessoa › Leiria
+    15:00     União de Leiria v Montalegre  0-1 (0-1)   @ Estádio Dr. Magalhães Pessoa › Leiria
               Joane v Belenenses  0-3 (0-1)   @ Estádio de Barreiros › Joane
               Oliveira Hospital v Estrela  1-1 aet   @ Estádio Municipal de Tábua › Tábua
               Sanjoanense v Os Marialvas  3-1 (3-0)   @ Estádio Conde Dias Garcia › São João da Madeira
               Vasco da Gama Vidigueira v Leixoes  0-5   @ Estádio Municipal de Vidigueira › Vidigueira
               Águeda v Pevidem  0-1 (0-0)   @ Estádio Municipal de Águeda › Águeda
               1º Maio Funchal v FC Serpa  0-8 (0-3)   @ Campo do Palheiro Ferreiro › Ilha da Madeira
-    16.00     Arronches e Benfica v Vianense  0-2 (0-1)   @ Estadio Municipal Arronches › Arronches
-    16.45     CF Os Belenenses v Torreense  3-1 (1-1)   @ Estádio do Restelo › Lisboa
+    16:00     Arronches e Benfica v Vianense  0-2 (0-1)   @ Estadio Municipal Arronches › Arronches
+    16:45     CF Os Belenenses v Torreense  3-1 (1-1)   @ Estádio do Restelo › Lisboa
   Sun Oct 2
-    11.00     Recreativa de Lamelas v Camacha  0-1 pen (0-0, 0-0)   @ Complexo Desportivo Castro Daire › Castro Daire
+    11:00     Recreativa de Lamelas v Camacha  0-1 pen (0-0, 0-0)   @ Complexo Desportivo Castro Daire › Castro Daire
               São João Ver v Lagos  3-0 (1-0)   @ Estádio Clube São João de Ver › São João de Ver
-    12.00     Gondomar v Penafiel  2-3 aet   @ Estádio de São Miguel › Ponta Delgada, Ilha de São Miguel, Açores
-    14.00     União Santarém v Mafra  0-1 (0-0)   @ Campo Chã das Padeiras › Marvila
-    15.00     Vitoria Setubal v Vilar de Perdizes  4-0 (1-0)   @ Estádio do Bonfim › Setúbal
+    12:00     Gondomar v Penafiel  2-3 aet   @ Estádio de São Miguel › Ponta Delgada, Ilha de São Miguel, Açores
+    14:00     União Santarém v Mafra  0-1 (0-0)   @ Campo Chã das Padeiras › Marvila
+    15:00     Vitoria Setubal v Vilar de Perdizes  4-0 (1-0)   @ Estádio do Bonfim › Setúbal
               Olhanense v Monte Trigo  1-0 (0-0)   @ Estádio José Arcanjo › Olhão
               Fafe v Anadia  1-2 (1-1)   @ Parque Municipal dos Desportos › Fafe
               AR São Martinho v Guarda Desportiva  3-3 aet   @ Estádio Comendador Abílio Ferreira de Oliveira › São Martinho do Campo-Santo Tirso
@@ -98,30 +98,30 @@
               UD da Serra v Oliveirense  0-4 (0-4)   @ Campo da Portela › Marinha Grande
               SC Paivense v Tirsense  1-2 (1-1)   @ Campo Municipal Da Boavista › Sobrado
               Vila Caíz v Amora  1-3 aet   @ Estádio Municipal de Amarante › Amarante
-    16.00     Fontinhas v Praiense  5-0 (2-0)   @ Estádio João Paulo II › Ilha Terceira, Açores
-    17.00     Caldas v SC Covilha  3-0 (1-0)   @ Campo da Mata › Caldas da Rainha
+    16:00     Fontinhas v Praiense  5-0 (2-0)   @ Estádio João Paulo II › Ilha Terceira, Açores
+    17:00     Caldas v SC Covilha  3-0 (1-0)   @ Campo da Mata › Caldas da Rainha
               Angrense v Nacional  0-2 (0-1)   @ Estadio Municipal de Angra do Heroismo › Ilha Terceira, Açores
-    20.00     Academica v Tondela  1-1 aet   @ Estádio EFAPEL › Coimbra
-» 3rd Round
+    20:00     Academica v Tondela  1-1 aet   @ Estádio EFAPEL › Coimbra
+▪ 3rd Round
   Fri Oct 14
-    15.00     Olhanense v Belenenses  0-2 (0-1)   @ Estádio José Arcanjo › Olhão
-    15.30     Moreirense v Vilafranquense  3-0 (2-0)   @ Parque Desportivo Comendador Joaquim de Almeida Freitas › Moreira de Cónegos
-    20.45     Amora v Estoril  2-3 (1-0)   @ Complexo Municipal de Atletismo Carla Sacramento › Amora
+    15:00     Olhanense v Belenenses  0-2 (0-1)   @ Estádio José Arcanjo › Olhão
+    15:30     Moreirense v Vilafranquense  3-0 (2-0)   @ Parque Desportivo Comendador Joaquim de Almeida Freitas › Moreira de Cónegos
+    20:45     Amora v Estoril  2-3 (1-0)   @ Complexo Municipal de Atletismo Carla Sacramento › Amora
   Sat Oct 15
-    11.00     Nacional v Oliveirense  3-1 aet (1-1, 1-0)   @ Estádio da Madeira › Ilha da Madeira
+    11:00     Nacional v Oliveirense  3-1 aet (1-1, 1-0)   @ Estádio da Madeira › Ilha da Madeira
               Fontinhas v Arouca  0-2 (0-1)   @ Estádio João Paulo II › Ilha Terceira, Açores
-    15.00     Sanjoanense v CF Os Belenenses  3-2 aet (1-1, 0-1)   @ Estádio Conde Dias Garcia › São João da Madeira
+    15:00     Sanjoanense v CF Os Belenenses  3-2 aet (1-1, 0-1)   @ Estádio Conde Dias Garcia › São João da Madeira
               Trofense v Famalicao  0-1 (0-0)   @ Estádio do Clube Desportivo Trofense › Trofa
               Canelas 2010 v Guimaraes  1-3 (1-3)   @ Estádio Clube Futebol Canelas 2010 › Vila Nova de Gaia
               FC Serpa v GIL Vicente  0-3 (0-2)   @ Campo Sintético Complexo Desportivo Manuel Baião › Serpa
               Mafra v Maritimo  4-2 aet (2-2, 1-1)   @ Estádio Municipal de Mafra › Mafra
-    15.30     Academico Viseu v Oriental Lisboa  1-0 (1-0)   @ Estádio Municipal do Fontelo › Viseu
+    15:30     Academico Viseu v Oriental Lisboa  1-0 (1-0)   @ Estádio Municipal do Fontelo › Viseu
               Imortal Albufeira v Farense  0-3 (0-3)   @ Estádio Municipal de Albufeira › Albufeira
               Penafiel v Vizela  3-3 aet (3-3, 1-0)   @ Estádio Municipal 25 de Abril › Penafiel
-    20.00     Tondela v Santa Clara  2-0 (1-0)   @ Estádio João Cardoso › Tondela
-    20.45     Caldas v Benfica  1-1 aet   @ Campo da Mata › Caldas da Rainha
+    20:00     Tondela v Santa Clara  2-0 (1-0)   @ Estádio João Cardoso › Tondela
+    20:45     Caldas v Benfica  1-1 aet   @ Campo da Mata › Caldas da Rainha
   Sun Oct 16
-    15.00     Vitoria Setubal v Pacos Ferreira  2-0 (0-0)   @ Estádio do Bonfim › Setúbal
+    15:00     Vitoria Setubal v Pacos Ferreira  2-0 (0-0)   @ Estádio do Bonfim › Setúbal
               AR São Martinho v Casa Pia  0-2 (0-0)   @ Estádio Comendador Abílio Ferreira de Oliveira › São Martinho do Campo-Santo Tirso
               Machico v Boavista  1-0 (1-0)   @ Estádio Municipal de Machico › Madeira
               Montalegre v São João Ver  1-3 (1-0)   @ Estádio Dr. Diogo Alves Vaz Pereira › Montalegre
@@ -135,58 +135,58 @@
               Tirsense v Leixoes  1-4 (1-1)   @ Estádio Abel Alves de Figueiredo › Santo Tirso
               Dumiense v Real  2-1 (0-1)   @ Campo Celestino Lobo › Dume
               Courense v Camacha  0-6 (0-2)   @ Campo de Jogos do Sporting Clube Courense › Coura
-    17.00     Felgueiras 1932 v SC Braga  1-2 (0-0)   @ Estádio Dr. Machado de Matos › Felgueiras
-    19.00     Varzim v Sporting CP  1-0 (0-0)   @ Estádio Cidade de Barcelos › Barcelos
-    20.45     Anadia v FC Porto  0-6 (0-3)   @ Estádio Municipal Engenheiro Sílvio Henriques Cerveira › Anadia
-» 4th Round
+    17:00     Felgueiras 1932 v SC Braga  1-2 (0-0)   @ Estádio Dr. Machado de Matos › Felgueiras
+    19:00     Varzim v Sporting CP  1-0 (0-0)   @ Estádio Cidade de Barcelos › Barcelos
+    20:45     Anadia v FC Porto  0-6 (0-3)   @ Estádio Municipal Engenheiro Sílvio Henriques Cerveira › Anadia
+▪ 4th Round
   Tue Nov 8
-    14.00     Vilaverdense v Oliveira Hospital  7-0 (5-0)   @ Campo Cruz Do Reguengo › Vila Verde
-    18.45     GIL Vicente v Arouca  1-4 (1-2)   @ Estádio Cidade de Barcelos › Barcelos
-    19.00     Varzim v São João Ver  1-0 (1-0)   @ Estádio Varzim Sport Club › Póvoa de Varzim
-    20.45     Mafra v FC Porto  0-3 (0-2)   @ Estádio Municipal de Mafra › Mafra
+    14:00     Vilaverdense v Oliveira Hospital  7-0 (5-0)   @ Campo Cruz Do Reguengo › Vila Verde
+    18:45     GIL Vicente v Arouca  1-4 (1-2)   @ Estádio Cidade de Barcelos › Barcelos
+    19:00     Varzim v São João Ver  1-0 (1-0)   @ Estádio Varzim Sport Club › Póvoa de Varzim
+    20:45     Mafra v FC Porto  0-3 (0-2)   @ Estádio Municipal de Mafra › Mafra
   Wed Nov 9
-    11.00     Academico Viseu v Camacha  3-0 (2-0)   @ Estádio Municipal do Fontelo › Viseu
-    14.30     Pêro Pinheiro v Vitoria Setubal  1-4 (0-2)   @ Parque de Jogos Pardal Monteiro › Sintra
-    15.00     Nacional v Tondela  1-0 (0-0)   @ Estádio dos Barreiros › Ilha da Madeira
+    11:00     Academico Viseu v Camacha  3-0 (2-0)   @ Estádio Municipal do Fontelo › Viseu
+    14:30     Pêro Pinheiro v Vitoria Setubal  1-4 (0-2)   @ Parque de Jogos Pardal Monteiro › Sintra
+    15:00     Nacional v Tondela  1-0 (0-0)   @ Estádio dos Barreiros › Ilha da Madeira
               Famalicao v Dumiense  4-1 (3-0)   @ Estádio Municipal 22 de Junho › Vila Nova de Famalicão
               Leixoes v Farense  3-1 (2-0)   @ Estádio do Mar › Matosinhos
-    15.30     Rabo Peixe v Sanjoanense  2-0 (1-0)   @ Campo Bom Jesus › Ilha da São Miguel, Açores
-    16.00     Beira-Mar v Pevidem  3-2 (0-1)   @ Estádio Municipal de Aveiro › Aveiro
-    17.45     Casa Pia v Valadares Gaia  2-0 (2-0)   @ Estádio Nacional › Jamor, Oeiras
-    18.45     Guimaraes v Vizela  2-1 aet (1-1, 1-0)   @ Estádio Dom Afonso Henriques › Guimarães
-    20.45     Estoril v Benfica  0-1 (0-0)   @ Estádio António Coimbra da Mota › Estoril
+    15:30     Rabo Peixe v Sanjoanense  2-0 (1-0)   @ Campo Bom Jesus › Ilha da São Miguel, Açores
+    16:00     Beira-Mar v Pevidem  3-2 (0-1)   @ Estádio Municipal de Aveiro › Aveiro
+    17:45     Casa Pia v Valadares Gaia  2-0 (2-0)   @ Estádio Nacional › Jamor, Oeiras
+    18:45     Guimaraes v Vizela  2-1 aet (1-1, 1-0)   @ Estádio Dom Afonso Henriques › Guimarães
+    20:45     Estoril v Benfica  0-1 (0-0)   @ Estádio António Coimbra da Mota › Estoril
   Thu Nov 10
-    11.00     Belenenses v Machico  4-0 (3-0)   @ Estádio Nacional › Jamor, Oeiras
-    19.45     SC Braga v Moreirense  2-1 (1-1)   @ Estádio Municipal de Braga › Braga
-» Round of 16
+    11:00     Belenenses v Machico  4-0 (3-0)   @ Estádio Nacional › Jamor, Oeiras
+    19:45     SC Braga v Moreirense  2-1 (1-1)   @ Estádio Municipal de Braga › Braga
+▪ Round of 16
   Tue Jan 10 2023
-    18.45     Leixoes v Famalicao  1-2 aet (1-1, 0-0)   @ Estádio do Mar › Matosinhos
+    18:45     Leixoes v Famalicao  1-2 aet (1-1, 0-0)   @ Estádio do Mar › Matosinhos
   Tue Jan 10
-    20.45     Varzim v Benfica  0-2 (0-1)   @ Estádio Varzim Sport Club › Póvoa de Varzim
+    20:45     Varzim v Benfica  0-2 (0-1)   @ Estádio Varzim Sport Club › Póvoa de Varzim
   Wed Jan 11
-    14.00     Vilaverdense v Belenenses  1-4 (0-2)   @ Campo Cruz Do Reguengo › Vila Verde
-    17.30     Nacional v Rabo Peixe  1-0 (1-0)   @ Estádio da Madeira › Ilha da Madeira
-    18.45     SC Braga v Guimaraes  3-2 (0-2)   @ Estádio Municipal de Braga › Braga
-    20.15     Academico Viseu v Beira-Mar  2-0 (1-0)   @ Estádio Municipal do Fontelo › Viseu
-    20.45     FC Porto v Arouca  4-0 (1-0)   @ Estádio Do Dragão › Porto
+    14:00     Vilaverdense v Belenenses  1-4 (0-2)   @ Campo Cruz Do Reguengo › Vila Verde
+    17:30     Nacional v Rabo Peixe  1-0 (1-0)   @ Estádio da Madeira › Ilha da Madeira
+    18:45     SC Braga v Guimaraes  3-2 (0-2)   @ Estádio Municipal de Braga › Braga
+    20:15     Academico Viseu v Beira-Mar  2-0 (1-0)   @ Estádio Municipal do Fontelo › Viseu
+    20:45     FC Porto v Arouca  4-0 (1-0)   @ Estádio Do Dragão › Porto
   Thu Jan 12
-    19.45     Vitoria Setubal v Casa Pia  0-1 (0-1)   @ Estádio do Bonfim › Setúbal
-» Quarter-finals
+    19:45     Vitoria Setubal v Casa Pia  0-1 (0-1)   @ Estádio do Bonfim › Setúbal
+▪ Quarter-finals
   Wed Feb 8
-    18.45     Famalicao v Belenenses  4-1 (1-0)   @ Estádio Municipal 22 de Junho › Vila Nova de Famalicão
-    20.45     Academico Viseu v FC Porto  0-1 (0-0)   @ Estádio Municipal do Fontelo › Viseu
+    18:45     Famalicao v Belenenses  4-1 (1-0)   @ Estádio Municipal 22 de Junho › Vila Nova de Famalicão
+    20:45     Academico Viseu v FC Porto  0-1 (0-0)   @ Estádio Municipal do Fontelo › Viseu
   Thu Feb 9
-    17.30     Casa Pia v Nacional  2-5 aet (2-2, 0-1)   @ Estádio do Bonfim › Setúbal
-    20.30     SC Braga v Benfica  5-4 pen (1-1, 1-1, 1-1)   @ Estádio Municipal de Braga › Braga
-» Semi-finals
+    17:30     Casa Pia v Nacional  2-5 aet (2-2, 0-1)   @ Estádio do Bonfim › Setúbal
+    20:30     SC Braga v Benfica  5-4 pen (1-1, 1-1, 1-1)   @ Estádio Municipal de Braga › Braga
+▪ Semi-finals
   Wed Apr 12
-    19.30     Nacional v SC Braga  0-5 (0-2)   @ Estádio da Madeira › Ilha da Madeira
+    19:30     Nacional v SC Braga  0-5 (0-2)   @ Estádio da Madeira › Ilha da Madeira
   Tue Apr 25
-    19.30     SC Braga v Nacional  2-2 (1-0)   @ Estádio Municipal de Braga › Braga
+    19:30     SC Braga v Nacional  2-2 (1-0)   @ Estádio Municipal de Braga › Braga
   Wed Apr 26
-    20.30     Famalicao v FC Porto  1-2 (1-1)   @ Estádio Municipal 22 de Junho › Vila Nova de Famalicão
+    20:30     Famalicao v FC Porto  1-2 (1-1)   @ Estádio Municipal 22 de Junho › Vila Nova de Famalicão
   Thu May 4
-    20.30     FC Porto v Famalicao  3-2 aet (1-2, 1-1)   @ Estádio Do Dragão › Porto
-» Final
+    20:30     FC Porto v Famalicao  3-2 aet (1-2, 1-1)   @ Estádio Do Dragão › Porto
+▪ Final
   Sun Jun 4
-    17.15     SC Braga v FC Porto  0-2 (0-0)   @ Estádio Nacional › Jamor, Oeiras
+    17:15     SC Braga v FC Porto  0-2 (0-0)   @ Estádio Nacional › Jamor, Oeiras

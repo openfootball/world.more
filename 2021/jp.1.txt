@@ -1,105 +1,105 @@
 = Japan | J1 League 2021
 
-  # Date       Fri Feb/26 - Sat Dec/4 2021 (281d)
+  # Date       Fri Feb 26 - Sat Dec 4 2021 (281d)
   # Teams      20
   # Matches    380
 
   # Note - All times in Asia/Tokyo
 
-» Regular Season - 1
+▪ Regular Season - 1
   Fri Feb 26 2021
-    18.00     Kawasaki Frontale v Yokohama F. Marinos  2-0 (2-0)   @ Kawasaki Todoroki Stadium › Kawasaki
+    18:00     Kawasaki Frontale v Yokohama F. Marinos  2-0 (2-0)   @ Kawasaki Todoroki Stadium › Kawasaki
   Sat Feb 27
-    14.00     Sanfrecce Hiroshima v Vegalta Sendai  1-1 (1-0)   @ EDION Stadium › Hiroshima
+    14:00     Sanfrecce Hiroshima v Vegalta Sendai  1-1 (1-0)   @ EDION Stadium › Hiroshima
               Urawa v FC Tokyo  1-1 (0-0)   @ Saitama Stadium 2002 › Saitama
               Oita Trinita v Tokushima Vortis  1-1 (0-1)   @ Showa Denko Dome Ōita › Oita
               Consadole Sapporo v Yokohama FC  5-1 (4-1)   @ Sapporo Dome › Sapporo
-    15.00     Shonan Bellmare v Sagan Tosu  0-1 (0-0)   @ Lemon Gas Stadium Hiratsuka › Hiratsuka
+    15:00     Shonan Bellmare v Sagan Tosu  0-1 (0-0)   @ Lemon Gas Stadium Hiratsuka › Hiratsuka
               Kashima v Shimizu S-pulse  1-3 (0-0)   @ Kashima Soccer Stadium › Kashima
-    16.00     Cerezo Osaka v Kashiwa Reysol  2-0 (1-0)   @ Yanmar Stadium Nagai › Osaka
-    17.00     Vissel Kobe v Gamba Osaka  1-0 (0-0)   @ NOEVIR Stadium Kobe › Kobe
+    16:00     Cerezo Osaka v Kashiwa Reysol  2-0 (1-0)   @ Yanmar Stadium Nagai › Osaka
+    17:00     Vissel Kobe v Gamba Osaka  1-0 (0-0)   @ NOEVIR Stadium Kobe › Kobe
   Sun Feb 28
-    13.00     Avispa Fukuoka v Nagoya Grampus  1-2 (0-1)   @ Best Denki Stadium › Fukuoka
-» Regular Season - 11
+    13:00     Avispa Fukuoka v Nagoya Grampus  1-2 (0-1)   @ Best Denki Stadium › Fukuoka
+▪ Regular Season - 11
   Wed Mar 3
-    18.00     Kawasaki Frontale v Cerezo Osaka  3-2 (1-2)   @ Kawasaki Todoroki Stadium › Kawasaki
-» Regular Season - 2
+    18:00     Kawasaki Frontale v Cerezo Osaka  3-2 (1-2)   @ Kawasaki Todoroki Stadium › Kawasaki
+▪ Regular Season - 2
   Sat Mar 6
-    14.00     Vegalta Sendai v Kawasaki Frontale  1-5 (0-4)   @ Yurtec Stadium Sendai › Sendai
+    14:00     Vegalta Sendai v Kawasaki Frontale  1-5 (0-4)   @ Yurtec Stadium Sendai › Sendai
               FC Tokyo v Cerezo Osaka  3-2 (0-1)   @ Ajinomoto Stadium › Chōfu
               Tokushima Vortis v Vissel Kobe  1-1 (0-0)   @ Pocari Sweat Stadium › Naruto
               Shimizu S-pulse v Avispa Fukuoka  2-2 (1-0)   @ IAI Stadium Nihondaira › Shizuoka
-    15.00     Sagan Tosu v Urawa  2-0 (0-0)   @ Ekimae Real Estate Stadium › Tosu
+    15:00     Sagan Tosu v Urawa  2-0 (0-0)   @ Ekimae Real Estate Stadium › Tosu
               Yokohama FC v Oita Trinita  1-2 (1-2)   @ NHK Spring Mitsuzawa Football Stadium › Yokohama
-    16.00     Nagoya Grampus v Consadole Sapporo  1-0 (0-0)   @ Toyota Stadium › Toyota
+    16:00     Nagoya Grampus v Consadole Sapporo  1-0 (0-0)   @ Toyota Stadium › Toyota
               Kashiwa Reysol v Shonan Bellmare  2-1 (1-1)   @ SANKYO FRONTIER Kashiwa Stadium › Kashiwa
   Sun Mar 7
-    13.00     Yokohama F. Marinos v Sanfrecce Hiroshima  3-3 (1-3)   @ Nissan Stadium › Yokohama
-» Regular Season - 3
+    13:00     Yokohama F. Marinos v Sanfrecce Hiroshima  3-3 (1-3)   @ Nissan Stadium › Yokohama
+▪ Regular Season - 3
   Wed Mar 10
-    18.00     Kashiwa Reysol v Nagoya Grampus  0-1 (0-0)   @ SANKYO FRONTIER Kashiwa Stadium › Kashiwa
+    18:00     Kashiwa Reysol v Nagoya Grampus  0-1 (0-0)   @ SANKYO FRONTIER Kashiwa Stadium › Kashiwa
               Urawa v Yokohama FC  2-0 (2-0)   @ Saitama Stadium 2002 › Saitama
               FC Tokyo v Vissel Kobe  2-3 (0-1)   @ Ajinomoto Stadium › Chōfu
               Avispa Fukuoka v Yokohama F. Marinos  1-3 (0-1)   @ Best Denki Stadium › Fukuoka
-    19.00     Kashima v Shonan Bellmare  3-1 (1-0)   @ Kashima Soccer Stadium › Kashima
+    19:00     Kashima v Shonan Bellmare  3-1 (1-0)   @ Kashima Soccer Stadium › Kashima
               Cerezo Osaka v Shimizu S-pulse  2-1 (1-1)   @ Yanmar Stadium Nagai › Osaka
               Kawasaki Frontale v Tokushima Vortis  2-0 (2-0)   @ Kawasaki Todoroki Stadium › Kawasaki
               Sagan Tosu v Vegalta Sendai  5-0 (3-0)   @ Ekimae Real Estate Stadium › Tosu
               Sanfrecce Hiroshima v Consadole Sapporo  2-1 (2-1)   @ EDION Stadium › Hiroshima
-» Regular Season - 4
+▪ Regular Season - 4
   Sat Mar 13
-    14.00     Tokushima Vortis v Avispa Fukuoka  1-2 (1-0)   @ Pocari Sweat Stadium › Naruto
-    16.00     Kashima v Sanfrecce Hiroshima  1-1 (0-1)   @ Kashima Soccer Stadium › Kashima
+    14:00     Tokushima Vortis v Avispa Fukuoka  1-2 (1-0)   @ Pocari Sweat Stadium › Naruto
+    16:00     Kashima v Sanfrecce Hiroshima  1-1 (0-1)   @ Kashima Soccer Stadium › Kashima
               Yokohama FC v Cerezo Osaka  1-4 (0-1)   @ NHK Spring Mitsuzawa Football Stadium › Yokohama
               Shonan Bellmare v Vegalta Sendai  3-1 (1-0)   @ Lemon Gas Stadium Hiratsuka › Hiratsuka
-    17.30     Kawasaki Frontale v Kashiwa Reysol  1-0 (0-0)   @ Kawasaki Todoroki Stadium › Kawasaki
-    18.00     Vissel Kobe v Nagoya Grampus  0-1 (0-1)   @ NOEVIR Stadium Kobe › Kobe
+    17:30     Kawasaki Frontale v Kashiwa Reysol  1-0 (0-0)   @ Kawasaki Todoroki Stadium › Kawasaki
+    18:00     Vissel Kobe v Nagoya Grampus  0-1 (0-1)   @ NOEVIR Stadium Kobe › Kobe
   Sun Mar 14
-    13.00     Yokohama F. Marinos v Urawa  3-0 (2-0)   @ Nissan Stadium › Yokohama
-    14.00     Shimizu S-pulse v Sagan Tosu  0-0 (0-0)   @ IAI Stadium Nihondaira › Shizuoka
-    15.00     Oita Trinita v FC Tokyo  1-1 (0-1)   @ Showa Denko Dome Ōita › Oita
-» Regular Season - 5
+    13:00     Yokohama F. Marinos v Urawa  3-0 (2-0)   @ Nissan Stadium › Yokohama
+    14:00     Shimizu S-pulse v Sagan Tosu  0-0 (0-0)   @ IAI Stadium Nihondaira › Shizuoka
+    15:00     Oita Trinita v FC Tokyo  1-1 (0-1)   @ Showa Denko Dome Ōita › Oita
+▪ Regular Season - 5
   Wed Mar 17
-    18.00     FC Tokyo v Shonan Bellmare  3-2 (2-1)   @ Ajinomoto Stadium › Chōfu
+    18:00     FC Tokyo v Shonan Bellmare  3-2 (2-1)   @ Ajinomoto Stadium › Chōfu
               Avispa Fukuoka v Kashima  1-0 (0-0)   @ Best Denki Stadium › Fukuoka
               Urawa v Consadole Sapporo  0-0 (0-0)   @ Saitama Stadium 2002 › Saitama
-    19.00     Sanfrecce Hiroshima v Shimizu S-pulse  1-0 (0-0)   @ EDION Stadium › Hiroshima
+    19:00     Sanfrecce Hiroshima v Shimizu S-pulse  1-0 (0-0)   @ EDION Stadium › Hiroshima
               Nagoya Grampus v Yokohama FC  3-0 (0-0)   @ Toyota Stadium › Toyota
               Vissel Kobe v Kawasaki Frontale  1-1 (0-0)   @ NOEVIR Stadium Kobe › Kobe
               Cerezo Osaka v Oita Trinita  1-0 (0-0)   @ Yanmar Stadium Nagai › Osaka
               Sagan Tosu v Kashiwa Reysol  2-0 (1-0)   @ Ekimae Real Estate Stadium › Tosu
               Yokohama F. Marinos v Tokushima Vortis  1-0 (1-0)   @ NHK Spring Mitsuzawa Football Stadium › Yokohama
-» Regular Season - 6
+▪ Regular Season - 6
   Sat Mar 20
-    14.00     Consadole Sapporo v Vissel Kobe  3-4 (2-0)   @ Sapporo Dome › Sapporo
+    14:00     Consadole Sapporo v Vissel Kobe  3-4 (2-0)   @ Sapporo Dome › Sapporo
   Sun Mar 21
-    13.00     FC Tokyo v Vegalta Sendai  2-1 (2-1)   @ Ajinomoto Stadium › Chōfu
-    14.00     Oita Trinita v Sanfrecce Hiroshima  1-3 (0-0)   @ Showa Denko Dome Ōita › Oita
+    13:00     FC Tokyo v Vegalta Sendai  2-1 (2-1)   @ Ajinomoto Stadium › Chōfu
+    14:00     Oita Trinita v Sanfrecce Hiroshima  1-3 (0-0)   @ Showa Denko Dome Ōita › Oita
               Tokushima Vortis v Yokohama FC  2-1 (1-0)   @ Pocari Sweat Stadium › Naruto
               Sagan Tosu v Avispa Fukuoka  0-0 (0-0)   @ Ekimae Real Estate Stadium › Tosu
-    15.00     Shonan Bellmare v Cerezo Osaka  0-0 (0-0)   @ Lemon Gas Stadium Hiratsuka › Hiratsuka
+    15:00     Shonan Bellmare v Cerezo Osaka  0-0 (0-0)   @ Lemon Gas Stadium Hiratsuka › Hiratsuka
               Urawa v Kawasaki Frontale  0-5 (0-1)   @ Saitama Stadium 2002 › Saitama
-    16.00     Kashima v Nagoya Grampus  0-1 (0-0)   @ Kashima Soccer Stadium › Kashima
+    16:00     Kashima v Nagoya Grampus  0-1 (0-0)   @ Kashima Soccer Stadium › Kashima
               Kashiwa Reysol v Shimizu S-pulse  1-2 (0-2)   @ SANKYO FRONTIER Kashiwa Stadium › Kashiwa
-» Regular Season - 7
+▪ Regular Season - 7
   Fri Apr 2
-    19.00     Cerezo Osaka v Sagan Tosu  1-0 (0-0)   @ Yanmar Stadium Nagai › Osaka
+    19:00     Cerezo Osaka v Sagan Tosu  1-0 (0-0)   @ Yanmar Stadium Nagai › Osaka
   Sat Apr 3
-    13.00     Yokohama F. Marinos v Shonan Bellmare  1-1 (0-0)   @ Nissan Stadium › Yokohama
-    14.00     Vegalta Sendai v Vissel Kobe  0-2 (0-2)   @ Yurtec Stadium Sendai › Sendai
+    13:00     Yokohama F. Marinos v Shonan Bellmare  1-1 (0-0)   @ Nissan Stadium › Yokohama
+    14:00     Vegalta Sendai v Vissel Kobe  0-2 (0-2)   @ Yurtec Stadium Sendai › Sendai
               Nagoya Grampus v FC Tokyo  0-0 (0-0)   @ Toyota Stadium › Toyota
               Avispa Fukuoka v Consadole Sapporo  1-2 (0-1)   @ Best Denki Stadium › Fukuoka
               Sanfrecce Hiroshima v Gamba Osaka  0-0 (0-0)   @ EDION Stadium › Hiroshima
-    15.00     Urawa v Kashima  2-1 (1-1)   @ Saitama Stadium 2002 › Saitama
-    17.00     Yokohama FC v Kashiwa Reysol  1-1 (1-0)   @ NHK Spring Mitsuzawa Football Stadium › Yokohama
-    19.00     Kawasaki Frontale v Oita Trinita  2-0 (1-0)   @ Kawasaki Todoroki Stadium › Kawasaki
+    15:00     Urawa v Kashima  2-1 (1-1)   @ Saitama Stadium 2002 › Saitama
+    17:00     Yokohama FC v Kashiwa Reysol  1-1 (1-0)   @ NHK Spring Mitsuzawa Football Stadium › Yokohama
+    19:00     Kawasaki Frontale v Oita Trinita  2-0 (1-0)   @ Kawasaki Todoroki Stadium › Kawasaki
   Sun Apr 4
-    14.00     Shimizu S-pulse v Tokushima Vortis  0-3 (0-1)   @ IAI Stadium Nihondaira › Shizuoka
-» Regular Season - 8
+    14:00     Shimizu S-pulse v Tokushima Vortis  0-3 (0-1)   @ IAI Stadium Nihondaira › Shizuoka
+▪ Regular Season - 8
   Tue Apr 6
-    19.00     Yokohama F. Marinos v Cerezo Osaka  1-0 (0-0)   @ Nissan Stadium › Yokohama
+    19:00     Yokohama F. Marinos v Cerezo Osaka  1-0 (0-0)   @ Nissan Stadium › Yokohama
   Wed Apr 7
-    19.00     Shimizu S-pulse v Urawa  0-2 (0-1)   @ IAI Stadium Nihondaira › Shizuoka
+    19:00     Shimizu S-pulse v Urawa  0-2 (0-1)   @ IAI Stadium Nihondaira › Shizuoka
               Shonan Bellmare v Nagoya Grampus  0-0 (0-0)   @ Lemon Gas Stadium Hiratsuka › Hiratsuka
               Vissel Kobe v Oita Trinita  1-0 (1-0)   @ NOEVIR Stadium Kobe › Kobe
               Kashima v Kashiwa Reysol  2-1 (0-0)   @ Kashima Soccer Stadium › Kashima
@@ -108,120 +108,120 @@
               Kawasaki Frontale v Sagan Tosu  1-0 (0-0)   @ Kawasaki Todoroki Stadium › Kawasaki
               Tokushima Vortis v Vegalta Sendai  1-0 (1-0)   @ Pocari Sweat Stadium › Naruto
               Yokohama FC v Sanfrecce Hiroshima  0-3 (0-3)   @ NHK Spring Mitsuzawa Football Stadium › Yokohama
-» Regular Season - 9
+▪ Regular Season - 9
   Sat Apr 10
-    14.00     Sanfrecce Hiroshima v Shonan Bellmare  0-1 (0-0)   @ EDION Stadium › Hiroshima
-    15.00     Cerezo Osaka v Avispa Fukuoka  2-2 (0-0)   @ Yanmar Stadium Nagai › Osaka
+    14:00     Sanfrecce Hiroshima v Shonan Bellmare  0-1 (0-0)   @ EDION Stadium › Hiroshima
+    15:00     Cerezo Osaka v Avispa Fukuoka  2-2 (0-0)   @ Yanmar Stadium Nagai › Osaka
   Sun Apr 11
-    13.05     Consadole Sapporo v Kashima  2-2 (1-2)   @ Sapporo Dome › Sapporo
-    14.00     FC Tokyo v Kawasaki Frontale  2-4 (0-2)   @ Ajinomoto Stadium › Chōfu
+    13:05     Consadole Sapporo v Kashima  2-2 (1-2)   @ Sapporo Dome › Sapporo
+    14:00     FC Tokyo v Kawasaki Frontale  2-4 (0-2)   @ Ajinomoto Stadium › Chōfu
               Vegalta Sendai v Yokohama F. Marinos  0-0 (0-0)   @ Yurtec Stadium Sendai › Sendai
-    15.00     Oita Trinita v Nagoya Grampus  0-3 (0-2)   @ Showa Denko Dome Ōita › Oita
+    15:00     Oita Trinita v Nagoya Grampus  0-3 (0-2)   @ Showa Denko Dome Ōita › Oita
               Sagan Tosu v Yokohama FC  3-0 (1-0)   @ Ekimae Real Estate Stadium › Tosu
-    16.00     Urawa v Tokushima Vortis  1-0 (0-0)   @ Saitama Stadium 2002 › Saitama
-    17.00     Kashiwa Reysol v Gamba Osaka  1-0 (0-0)   @ SANKYO FRONTIER Kashiwa Stadium › Kashiwa
+    16:00     Urawa v Tokushima Vortis  1-0 (0-0)   @ Saitama Stadium 2002 › Saitama
+    17:00     Kashiwa Reysol v Gamba Osaka  1-0 (0-0)   @ SANKYO FRONTIER Kashiwa Stadium › Kashiwa
               Vissel Kobe v Shimizu S-pulse  1-1 (0-0)   @ NOEVIR Stadium Kobe › Kobe
-» Regular Season - 18
+▪ Regular Season - 18
   Wed Apr 14
-    18.00     Cerezo Osaka v Tokushima Vortis  1-2 (1-1)   @ Yanmar Stadium Nagai › Osaka
-    19.00     Sagan Tosu v Gamba Osaka  0-1 (0-0)   @ Ekimae Real Estate Stadium › Tosu
-» Regular Season - 19
+    18:00     Cerezo Osaka v Tokushima Vortis  1-2 (1-1)   @ Yanmar Stadium Nagai › Osaka
+    19:00     Sagan Tosu v Gamba Osaka  0-1 (0-0)   @ Ekimae Real Estate Stadium › Tosu
+▪ Regular Season - 19
   Wed Apr 14
-    19.00     Kawasaki Frontale v Avispa Fukuoka  3-1 (1-1)   @ Kawasaki Todoroki Stadium › Kawasaki
-    19.30     Nagoya Grampus v Sanfrecce Hiroshima  1-0 (1-0)   @ Toyota Stadium › Toyota
-» Regular Season - 10
+    19:00     Kawasaki Frontale v Avispa Fukuoka  3-1 (1-1)   @ Kawasaki Todoroki Stadium › Kawasaki
+    19:30     Nagoya Grampus v Sanfrecce Hiroshima  1-0 (1-0)   @ Toyota Stadium › Toyota
+▪ Regular Season - 10
   Fri Apr 16
-    19.00     Consadole Sapporo v Yokohama F. Marinos  1-3 (0-0)   @ Sapporo Dome › Sapporo
+    19:00     Consadole Sapporo v Yokohama F. Marinos  1-3 (0-0)   @ Sapporo Dome › Sapporo
   Sat Apr 17
-    14.00     Tokushima Vortis v Kashima  0-1 (0-1)   @ Pocari Sweat Stadium › Naruto
+    14:00     Tokushima Vortis v Kashima  0-1 (0-1)   @ Pocari Sweat Stadium › Naruto
               Yokohama FC v Vegalta Sendai  2-2 (1-0)   @ NHK Spring Mitsuzawa Football Stadium › Yokohama
               Avispa Fukuoka v FC Tokyo  1-0 (0-0)   @ Best Denki Stadium › Fukuoka
               Oita Trinita v Kashiwa Reysol  0-1 (0-0)   @ Showa Denko Dome Ōita › Oita
-    15.00     Shonan Bellmare v Vissel Kobe  0-0 (0-0)   @ Lemon Gas Stadium Hiratsuka › Hiratsuka
+    15:00     Shonan Bellmare v Vissel Kobe  0-0 (0-0)   @ Lemon Gas Stadium Hiratsuka › Hiratsuka
   Sun Apr 18
-    14.00     Kawasaki Frontale v Sanfrecce Hiroshima  1-1 (1-0)   @ Kawasaki Todoroki Stadium › Kawasaki
-    15.00     Cerezo Osaka v Urawa  1-0 (0-0)   @ Yanmar Stadium Nagai › Osaka
+    14:00     Kawasaki Frontale v Sanfrecce Hiroshima  1-1 (1-0)   @ Kawasaki Todoroki Stadium › Kawasaki
+    15:00     Cerezo Osaka v Urawa  1-0 (0-0)   @ Yanmar Stadium Nagai › Osaka
               Nagoya Grampus v Sagan Tosu  1-2 (0-2)   @ Toyota Stadium › Toyota
-    17.00     Gamba Osaka v Shimizu S-pulse  0-0 (0-0)   @ Panasonic Stadium Suita › Suita
-» Regular Season - 11
+    17:00     Gamba Osaka v Shimizu S-pulse  0-0 (0-0)   @ Panasonic Stadium Suita › Suita
+▪ Regular Season - 11
   Thu Apr 22
-    19.30     Nagoya Grampus v Gamba Osaka  2-0 (1-0)   @ Toyota Stadium › Toyota
+    19:30     Nagoya Grampus v Gamba Osaka  2-0 (1-0)   @ Toyota Stadium › Toyota
   Sat Apr 24
-    13.00     Consadole Sapporo v Vegalta Sendai  2-1 (0-1)   @ Sapporo Atsubetsu Park Stadium › Sapporo
-    14.00     FC Tokyo v Sagan Tosu  1-2 (0-2)   @ Ajinomoto Stadium › Chōfu
+    13:00     Consadole Sapporo v Vegalta Sendai  2-1 (0-1)   @ Sapporo Atsubetsu Park Stadium › Sapporo
+    14:00     FC Tokyo v Sagan Tosu  1-2 (0-2)   @ Ajinomoto Stadium › Chōfu
               Yokohama F. Marinos v Yokohama FC  5-0 (2-0)   @ Nissan Stadium › Yokohama
               Sanfrecce Hiroshima v Avispa Fukuoka  1-2 (1-1)   @ EDION Stadium › Hiroshima
-    16.00     Kashiwa Reysol v Tokushima Vortis  5-1 (3-0)   @ SANKYO FRONTIER Kashiwa Stadium › Kashiwa
-    17.00     Kashima v Vissel Kobe  1-1 (0-1)   @ Kashima Soccer Stadium › Kashima
+    16:00     Kashiwa Reysol v Tokushima Vortis  5-1 (3-0)   @ SANKYO FRONTIER Kashiwa Stadium › Kashiwa
+    17:00     Kashima v Vissel Kobe  1-1 (0-1)   @ Kashima Soccer Stadium › Kashima
   Sun Apr 25
-    14.00     Shimizu S-pulse v Shonan Bellmare  1-1 (0-0)   @ IAI Stadium Nihondaira › Shizuoka
-    16.00     Urawa v Oita Trinita  3-2 (1-2)   @ Saitama Stadium 2002 › Saitama
-» Regular Season - 22
+    14:00     Shimizu S-pulse v Shonan Bellmare  1-1 (0-0)   @ IAI Stadium Nihondaira › Shizuoka
+    16:00     Urawa v Oita Trinita  3-2 (1-2)   @ Saitama Stadium 2002 › Saitama
+▪ Regular Season - 22
   Thu Apr 29
-    15.00     Nagoya Grampus v Kawasaki Frontale  0-4 (0-3)   @ Toyota Stadium › Toyota
-» Regular Season - 12
+    15:00     Nagoya Grampus v Kawasaki Frontale  0-4 (0-3)   @ Toyota Stadium › Toyota
+▪ Regular Season - 12
   Sat May 1
-    14.00     FC Tokyo v Yokohama F. Marinos  0-3 (0-1)   @ Ajinomoto Stadium › Chōfu
+    14:00     FC Tokyo v Yokohama F. Marinos  0-3 (0-1)   @ Ajinomoto Stadium › Chōfu
               Avispa Fukuoka v Urawa  2-0 (1-0)   @ Best Denki Stadium › Fukuoka
               Vegalta Sendai v Kashiwa Reysol  1-0 (0-0)   @ Yurtec Stadium Sendai › Sendai
-    15.00     Vissel Kobe v Sanfrecce Hiroshima  3-0 (3-0)   @ NOEVIR Stadium Kobe › Kobe
-    16.00     Sagan Tosu v Tokushima Vortis  2-0 (0-0)   @ Ekimae Real Estate Stadium › Tosu
-    17.33     Yokohama FC v Kashima  0-3 (0-2)   @ NHK Spring Mitsuzawa Football Stadium › Yokohama
+    15:00     Vissel Kobe v Sanfrecce Hiroshima  3-0 (3-0)   @ NOEVIR Stadium Kobe › Kobe
+    16:00     Sagan Tosu v Tokushima Vortis  2-0 (0-0)   @ Ekimae Real Estate Stadium › Tosu
+    17:33     Yokohama FC v Kashima  0-3 (0-2)   @ NHK Spring Mitsuzawa Football Stadium › Yokohama
   Sun May 2
-    14.00     Oita Trinita v Shimizu S-pulse  1-0 (1-0)   @ Showa Denko Dome Ōita › Oita
-    15.00     Cerezo Osaka v Gamba Osaka  1-1 (0-0)   @ Yanmar Stadium Nagai › Osaka
+    14:00     Oita Trinita v Shimizu S-pulse  1-0 (1-0)   @ Showa Denko Dome Ōita › Oita
+    15:00     Cerezo Osaka v Gamba Osaka  1-1 (0-0)   @ Yanmar Stadium Nagai › Osaka
               Shonan Bellmare v Consadole Sapporo  0-0 (0-0)   @ Lemon Gas Stadium Hiratsuka › Hiratsuka
   Tue May 4
-    15.00     Kawasaki Frontale v Nagoya Grampus  3-2 (1-0)   @ Kawasaki Todoroki Stadium › Kawasaki
-» Regular Season - 13
+    15:00     Kawasaki Frontale v Nagoya Grampus  3-2 (1-0)   @ Kawasaki Todoroki Stadium › Kawasaki
+▪ Regular Season - 13
   Sat May 8
-    14.00     Sagan Tosu v Sanfrecce Hiroshima  0-0 (0-0)   @ Ekimae Real Estate Stadium › Tosu
-    15.00     Nagoya Grampus v Cerezo Osaka  1-0 (0-0)   @ Toyota Stadium › Toyota
-    18.00     Gamba Osaka v Kawasaki Frontale  0-2 (0-1)   @ Panasonic Stadium Suita › Suita
+    14:00     Sagan Tosu v Sanfrecce Hiroshima  0-0 (0-0)   @ Ekimae Real Estate Stadium › Tosu
+    15:00     Nagoya Grampus v Cerezo Osaka  1-0 (0-0)   @ Toyota Stadium › Toyota
+    18:00     Gamba Osaka v Kawasaki Frontale  0-2 (0-1)   @ Panasonic Stadium Suita › Suita
   Sun May 9
-    13.00     Yokohama F. Marinos v Vissel Kobe  2-0 (1-0)   @ Nissan Stadium › Yokohama
-    14.00     Avispa Fukuoka v Kashiwa Reysol  1-0 (0-0)   @ Best Denki Stadium › Fukuoka
+    13:00     Yokohama F. Marinos v Vissel Kobe  2-0 (1-0)   @ Nissan Stadium › Yokohama
+    14:00     Avispa Fukuoka v Kashiwa Reysol  1-0 (0-0)   @ Best Denki Stadium › Fukuoka
               Shimizu S-pulse v Yokohama FC  1-1 (0-0)   @ IAI Stadium Nihondaira › Shizuoka
-    15.00     Shonan Bellmare v Oita Trinita  2-0 (1-0)   @ Lemon Gas Stadium Hiratsuka › Hiratsuka
+    15:00     Shonan Bellmare v Oita Trinita  2-0 (1-0)   @ Lemon Gas Stadium Hiratsuka › Hiratsuka
               Tokushima Vortis v Consadole Sapporo  1-2 (1-0)   @ Pocari Sweat Stadium › Naruto
-    16.00     Urawa v Vegalta Sendai  2-0 (0-0)   @ Saitama Stadium 2002 › Saitama
-    17.00     Kashima v FC Tokyo  3-0 (2-0)   @ Kashima Soccer Stadium › Kashima
-» Regular Season - 20
+    16:00     Urawa v Vegalta Sendai  2-0 (0-0)   @ Saitama Stadium 2002 › Saitama
+    17:00     Kashima v FC Tokyo  3-0 (2-0)   @ Kashima Soccer Stadium › Kashima
+▪ Regular Season - 20
   Wed May 12
-    18.00     Gamba Osaka v Sanfrecce Hiroshima  1-2 (1-1)   @ Panasonic Stadium Suita › Suita
-    19.00     Kawasaki Frontale v Vegalta Sendai  2-2 (1-0)   @ Kawasaki Todoroki Stadium › Kawasaki
-» Regular Season - 21
+    18:00     Gamba Osaka v Sanfrecce Hiroshima  1-2 (1-1)   @ Panasonic Stadium Suita › Suita
+    19:00     Kawasaki Frontale v Vegalta Sendai  2-2 (1-0)   @ Kawasaki Todoroki Stadium › Kawasaki
+▪ Regular Season - 21
   Wed May 12
-    19.00     Nagoya Grampus v Kashima  0-2 (0-1)   @ Toyota Stadium › Toyota
-» Regular Season - 14
+    19:00     Nagoya Grampus v Kashima  0-2 (0-1)   @ Toyota Stadium › Toyota
+▪ Regular Season - 14
   Sat May 15
-    14.00     Vegalta Sendai v Avispa Fukuoka  0-1 (0-0)   @ Yurtec Stadium Sendai › Sendai
+    14:00     Vegalta Sendai v Avispa Fukuoka  0-1 (0-0)   @ Yurtec Stadium Sendai › Sendai
               Shimizu S-pulse v Nagoya Grampus  0-3 (0-1)   @ IAI Stadium Nihondaira › Shizuoka
-    15.00     Kashima v Yokohama F. Marinos  5-3 (1-1)   @ Kashima Soccer Stadium › Kashima
-    16.00     Kashiwa Reysol v FC Tokyo  0-4 (0-3)   @ SANKYO FRONTIER Kashiwa Stadium › Kashiwa
+    15:00     Kashima v Yokohama F. Marinos  5-3 (1-1)   @ Kashima Soccer Stadium › Kashima
+    16:00     Kashiwa Reysol v FC Tokyo  0-4 (0-3)   @ SANKYO FRONTIER Kashiwa Stadium › Kashiwa
               Sanfrecce Hiroshima v Tokushima Vortis  0-1 (0-0)   @ EDION Stadium › Hiroshima
               Vissel Kobe v Cerezo Osaka  1-1 (0-0)   @ NOEVIR Stadium Kobe › Kobe
               Oita Trinita v Sagan Tosu  1-1 (0-1)   @ Showa Denko Dome Ōita › Oita
-    17.00     Yokohama FC v Shonan Bellmare  2-0 (1-0)   @ NHK Spring Mitsuzawa Football Stadium › Yokohama
+    17:00     Yokohama FC v Shonan Bellmare  2-0 (1-0)   @ NHK Spring Mitsuzawa Football Stadium › Yokohama
   Sun May 16
-    15.00     Kawasaki Frontale v Consadole Sapporo  2-0 (0-0)   @ Kawasaki Todoroki Stadium › Kawasaki
-    17.00     Gamba Osaka v Urawa  0-3 (0-3)   @ Panasonic Stadium Suita › Suita
-» Regular Season - 15
+    15:00     Kawasaki Frontale v Consadole Sapporo  2-0 (0-0)   @ Kawasaki Todoroki Stadium › Kawasaki
+    17:00     Gamba Osaka v Urawa  0-3 (0-3)   @ Panasonic Stadium Suita › Suita
+▪ Regular Season - 15
   Sat May 22
-    14.00     Consadole Sapporo v Shimizu S-pulse  2-0 (0-0)   @ Sapporo Dome › Sapporo
+    14:00     Consadole Sapporo v Shimizu S-pulse  2-0 (0-0)   @ Sapporo Dome › Sapporo
               Vegalta Sendai v Oita Trinita  2-1 (1-1)   @ Yurtec Stadium Sendai › Sendai
               Sagan Tosu v Kashima  2-1 (0-1)   @ Ekimae Real Estate Stadium › Tosu
-    15.00     Kawasaki Frontale v Yokohama FC  3-1 (2-0)   @ Kawasaki Todoroki Stadium › Kawasaki
-    16.00     Urawa v Vissel Kobe  2-0 (0-0)   @ Saitama Stadium 2002 › Saitama
-    17.00     Avispa Fukuoka v Shonan Bellmare  2-1 (0-1)   @ Best Denki Stadium › Fukuoka
+    15:00     Kawasaki Frontale v Yokohama FC  3-1 (2-0)   @ Kawasaki Todoroki Stadium › Kawasaki
+    16:00     Urawa v Vissel Kobe  2-0 (0-0)   @ Saitama Stadium 2002 › Saitama
+    17:00     Avispa Fukuoka v Shonan Bellmare  2-1 (0-1)   @ Best Denki Stadium › Fukuoka
               Yokohama F. Marinos v Kashiwa Reysol  1-1 (0-0)   @ Nissan Stadium › Yokohama
-    18.00     Tokushima Vortis v Nagoya Grampus  0-0 (0-0)   @ Pocari Sweat Stadium › Naruto
-    19.00     FC Tokyo v Gamba Osaka  1-0 (1-0)   @ Ajinomoto Stadium › Chōfu
+    18:00     Tokushima Vortis v Nagoya Grampus  0-0 (0-0)   @ Pocari Sweat Stadium › Naruto
+    19:00     FC Tokyo v Gamba Osaka  1-0 (1-0)   @ Ajinomoto Stadium › Chōfu
   Sun May 23
-    15.00     Cerezo Osaka v Sanfrecce Hiroshima  1-2 (0-0)   @ Yanmar Stadium Nagai › Osaka
-» Regular Season - 16
+    15:00     Cerezo Osaka v Sanfrecce Hiroshima  1-2 (0-0)   @ Yanmar Stadium Nagai › Osaka
+▪ Regular Season - 16
   Wed May 26
-    19.00     Consadole Sapporo v Sagan Tosu  0-0 (0-0)   @ Sapporo Dome › Sapporo
+    19:00     Consadole Sapporo v Sagan Tosu  0-0 (0-0)   @ Sapporo Dome › Sapporo
               Kashiwa Reysol v Vissel Kobe  1-2 (0-0)   @ SANKYO FRONTIER Kashiwa Stadium › Kashiwa
               Sanfrecce Hiroshima v Urawa  2-2 (1-1)   @ EDION Stadium › Hiroshima
               Shimizu S-pulse v FC Tokyo  3-0 (2-0)   @ IAI Stadium Nihondaira › Shizuoka
@@ -231,137 +231,137 @@
               Oita Trinita v Yokohama F. Marinos  0-1 (0-0)   @ Showa Denko Dome Ōita › Oita
               Yokohama FC v Avispa Fukuoka  1-1 (1-0)   @ NHK Spring Mitsuzawa Football Stadium › Yokohama
   Thu May 27
-    19.00     Gamba Osaka v Tokushima Vortis  2-1 (1-0)   @ Panasonic Stadium Suita › Suita
-» Regular Season - 17
+    19:00     Gamba Osaka v Tokushima Vortis  2-1 (1-0)   @ Panasonic Stadium Suita › Suita
+▪ Regular Season - 17
   Sat May 29
-    19.00     Kashiwa Reysol v Consadole Sapporo  1-2 (1-2)   @ SANKYO FRONTIER Kashiwa Stadium › Kashiwa
+    19:00     Kashiwa Reysol v Consadole Sapporo  1-2 (1-2)   @ SANKYO FRONTIER Kashiwa Stadium › Kashiwa
   Sun May 30
-    13.00     Yokohama F. Marinos v Shimizu S-pulse  2-1 (1-1)   @ Nissan Stadium › Yokohama
-    14.00     FC Tokyo v Sanfrecce Hiroshima  0-0 (0-0)   @ Ajinomoto Stadium › Chōfu
+    13:00     Yokohama F. Marinos v Shimizu S-pulse  2-1 (1-1)   @ Nissan Stadium › Yokohama
+    14:00     FC Tokyo v Sanfrecce Hiroshima  0-0 (0-0)   @ Ajinomoto Stadium › Chōfu
               Vissel Kobe v Sagan Tosu  1-1 (1-1)   @ NOEVIR Stadium Kobe › Kobe
-    15.00     Vegalta Sendai v Cerezo Osaka  1-1 (0-0)   @ Yurtec Stadium Sendai › Sendai
+    15:00     Vegalta Sendai v Cerezo Osaka  1-1 (0-0)   @ Yurtec Stadium Sendai › Sendai
               Oita Trinita v Avispa Fukuoka  2-1 (1-0)   @ Showa Denko Dome Ōita › Oita
               Tokushima Vortis v Shonan Bellmare  1-1 (1-1)   @ Pocari Sweat Stadium › Naruto
-    17.00     Gamba Osaka v Yokohama FC  2-0 (1-0)   @ Panasonic Stadium Suita › Suita
-    18.00     Urawa v Nagoya Grampus  0-0 (0-0)   @ Saitama Stadium 2002 › Saitama
-    19.00     Kawasaki Frontale v Kashima  2-1 (1-0)   @ Kawasaki Todoroki Stadium › Kawasaki
-» Regular Season - 19
+    17:00     Gamba Osaka v Yokohama FC  2-0 (1-0)   @ Panasonic Stadium Suita › Suita
+    18:00     Urawa v Nagoya Grampus  0-0 (0-0)   @ Saitama Stadium 2002 › Saitama
+    19:00     Kawasaki Frontale v Kashima  2-1 (1-0)   @ Kawasaki Todoroki Stadium › Kawasaki
+▪ Regular Season - 19
   Wed Jun 2
-    19.00     Shonan Bellmare v Gamba Osaka  0-0 (0-0)   @ Lemon Gas Stadium Hiratsuka › Hiratsuka
-» Regular Season - 21
+    19:00     Shonan Bellmare v Gamba Osaka  0-0 (0-0)   @ Lemon Gas Stadium Hiratsuka › Hiratsuka
+▪ Regular Season - 21
   Wed Jun 2
-    19.00     Yokohama FC v Kawasaki Frontale  0-2 (0-1)   @ NHK Spring Mitsuzawa Football Stadium › Yokohama
-» Regular Season - 18
+    19:00     Yokohama FC v Kawasaki Frontale  0-2 (0-1)   @ NHK Spring Mitsuzawa Football Stadium › Yokohama
+▪ Regular Season - 18
   Sat Jun 19
-    13.00     Avispa Fukuoka v Vissel Kobe  1-2 (1-1)   @ Best Denki Stadium › Fukuoka
-    14.00     Consadole Sapporo v Oita Trinita  2-0 (2-0)   @ Sapporo Atsubetsu Park Stadium › Sapporo
-    18.00     Yokohama FC v FC Tokyo  0-1 (0-1)   @ NHK Spring Mitsuzawa Football Stadium › Yokohama
-    19.00     Sanfrecce Hiroshima v Kashiwa Reysol  1-0 (0-0)   @ EDION Stadium › Hiroshima
+    13:00     Avispa Fukuoka v Vissel Kobe  1-2 (1-1)   @ Best Denki Stadium › Fukuoka
+    14:00     Consadole Sapporo v Oita Trinita  2-0 (2-0)   @ Sapporo Atsubetsu Park Stadium › Sapporo
+    18:00     Yokohama FC v FC Tokyo  0-1 (0-1)   @ NHK Spring Mitsuzawa Football Stadium › Yokohama
+    19:00     Sanfrecce Hiroshima v Kashiwa Reysol  1-0 (0-0)   @ EDION Stadium › Hiroshima
   Sun Jun 20
-    17.00     Kashima v Vegalta Sendai  1-1 (0-0)   @ Kashima Soccer Stadium › Kashima
-    19.00     Urawa v Shonan Bellmare  2-3 (1-1)   @ Saitama Stadium 2002 › Saitama
-» Regular Season - 19
+    17:00     Kashima v Vegalta Sendai  1-1 (0-0)   @ Kashima Soccer Stadium › Kashima
+    19:00     Urawa v Shonan Bellmare  2-3 (1-1)   @ Saitama Stadium 2002 › Saitama
+▪ Regular Season - 19
   Wed Jun 23
-    18.00     Vissel Kobe v Yokohama FC  5-0 (3-0)   @ NOEVIR Stadium Kobe › Kobe
-    19.00     Kashiwa Reysol v Urawa  0-2 (0-0)   @ SANKYO FRONTIER Kashiwa Stadium › Kashiwa
+    18:00     Vissel Kobe v Yokohama FC  5-0 (3-0)   @ NOEVIR Stadium Kobe › Kobe
+    19:00     Kashiwa Reysol v Urawa  0-2 (0-0)   @ SANKYO FRONTIER Kashiwa Stadium › Kashiwa
               Vegalta Sendai v Shimizu S-pulse  2-3 (1-1)   @ Yurtec Stadium Sendai › Sendai
               Yokohama F. Marinos v Sagan Tosu  2-0 (0-0)   @ NHK Spring Mitsuzawa Football Stadium › Yokohama
               Oita Trinita v Kashima  0-0 (0-0)   @ Showa Denko Dome Ōita › Oita
               Tokushima Vortis v FC Tokyo  0-1 (0-1)   @ Pocari Sweat Stadium › Naruto
-» Regular Season - 20
+▪ Regular Season - 20
   Sun Jun 27
-    18.00     Yokohama FC v Shimizu S-pulse  1-1 (1-0)   @ NHK Spring Mitsuzawa Football Stadium › Yokohama
+    18:00     Yokohama FC v Shimizu S-pulse  1-1 (1-0)   @ NHK Spring Mitsuzawa Football Stadium › Yokohama
               Tokushima Vortis v Yokohama F. Marinos  0-1 (0-1)   @ Pocari Sweat Stadium › Naruto
-    18.30     Kashima v Consadole Sapporo  4-0 (1-0)   @ Kashima Soccer Stadium › Kashima
-    19.00     Shonan Bellmare v Kashiwa Reysol  2-4 (1-0)   @ Lemon Gas Stadium Hiratsuka › Hiratsuka
+    18:30     Kashima v Consadole Sapporo  4-0 (1-0)   @ Kashima Soccer Stadium › Kashima
+    19:00     Shonan Bellmare v Kashiwa Reysol  2-4 (1-0)   @ Lemon Gas Stadium Hiratsuka › Hiratsuka
               Urawa v Avispa Fukuoka  2-0 (1-0)   @ Saitama Stadium 2002 › Saitama
               FC Tokyo v Oita Trinita  3-0 (2-0)   @ Ajinomoto Stadium › Chōfu
-» Regular Season - 21
+▪ Regular Season - 21
   Sat Jul 3
-    18.00     Vissel Kobe v Shonan Bellmare  3-1 (2-1)   @ NOEVIR Stadium Kobe › Kobe
-    19.00     Sanfrecce Hiroshima v Sagan Tosu  1-1 (0-0)   @ EDION Stadium › Hiroshima
+    18:00     Vissel Kobe v Shonan Bellmare  3-1 (2-1)   @ NOEVIR Stadium Kobe › Kobe
+    19:00     Sanfrecce Hiroshima v Sagan Tosu  1-1 (0-0)   @ EDION Stadium › Hiroshima
               Vegalta Sendai v Urawa  0-0 (0-0)   @ Yurtec Stadium Sendai › Sendai
               Kashiwa Reysol v Yokohama F. Marinos  1-2 (0-0)   @ SANKYO FRONTIER Kashiwa Stadium › Kashiwa
   Sun Jul 4
-    13.05     Consadole Sapporo v Tokushima Vortis  1-0 (0-0)   @ Sapporo Atsubetsu Park Stadium › Sapporo
-    18.00     Shimizu S-pulse v Oita Trinita  1-0 (0-0)   @ IAI Stadium Nihondaira › Shizuoka
-» Regular Season - 22
+    13:05     Consadole Sapporo v Tokushima Vortis  1-0 (0-0)   @ Sapporo Atsubetsu Park Stadium › Sapporo
+    18:00     Shimizu S-pulse v Oita Trinita  1-0 (0-0)   @ IAI Stadium Nihondaira › Shizuoka
+▪ Regular Season - 22
   Sat Jul 10
-    18.00     Yokohama F. Marinos v Avispa Fukuoka  2-0 (2-0)   @ NHK Spring Mitsuzawa Football Stadium › Yokohama
-    19.00     Oita Trinita v Urawa  1-0 (1-0)   @ Showa Denko Dome Ōita › Oita
+    18:00     Yokohama F. Marinos v Avispa Fukuoka  2-0 (2-0)   @ NHK Spring Mitsuzawa Football Stadium › Yokohama
+    19:00     Oita Trinita v Urawa  1-0 (1-0)   @ Showa Denko Dome Ōita › Oita
               Vegalta Sendai v Consadole Sapporo  1-1 (1-1)   @ Yurtec Stadium Sendai › Sendai
   Sun Jul 11
-    18.00     Tokushima Vortis v Shimizu S-pulse  2-2 (1-2)   @ Pocari Sweat Stadium › Naruto
+    18:00     Tokushima Vortis v Shimizu S-pulse  2-2 (1-2)   @ Pocari Sweat Stadium › Naruto
               Sanfrecce Hiroshima v Yokohama FC  0-1 (0-1)   @ EDION Stadium › Hiroshima
-    19.00     Kashiwa Reysol v Kashima  2-1 (0-0)   @ SANKYO FRONTIER Kashiwa Stadium › Kashiwa
+    19:00     Kashiwa Reysol v Kashima  2-1 (0-0)   @ SANKYO FRONTIER Kashiwa Stadium › Kashiwa
               Shonan Bellmare v FC Tokyo  0-1 (0-0)   @ Lemon Gas Stadium Hiratsuka › Hiratsuka
-» Regular Season - 18
+▪ Regular Season - 18
   Sat Jul 17
-    18.30     Shimizu S-pulse v Kawasaki Frontale  0-2 (0-1)   @ IAI Stadium Nihondaira › Shizuoka
-» Regular Season - 20
+    18:30     Shimizu S-pulse v Kawasaki Frontale  0-2 (0-1)   @ IAI Stadium Nihondaira › Shizuoka
+▪ Regular Season - 20
   Sat Jul 17
-    19.00     Cerezo Osaka v Vissel Kobe  1-1 (0-1)   @ Yodoko Sakura Stadium › Osaka
+    19:00     Cerezo Osaka v Vissel Kobe  1-1 (0-1)   @ Yodoko Sakura Stadium › Osaka
               Sagan Tosu v Nagoya Grampus  3-1 (0-1)   @ Ekimae Real Estate Stadium › Tosu
-» Regular Season - 21
+▪ Regular Season - 21
   Sat Jul 17
-    18.30     Avispa Fukuoka v Gamba Osaka  0-1 (0-0)   @ Best Denki Stadium › Fukuoka
-» Regular Season - 22
+    18:30     Avispa Fukuoka v Gamba Osaka  0-1 (0-0)   @ Best Denki Stadium › Fukuoka
+▪ Regular Season - 22
   Wed Jul 21
-    19.00     Gamba Osaka v Vissel Kobe  1-2 (1-2)   @ Panasonic Stadium Suita › Suita
-» Regular Season - 21
+    19:00     Gamba Osaka v Vissel Kobe  1-2 (1-2)   @ Panasonic Stadium Suita › Suita
+▪ Regular Season - 21
   Wed Jul 21
-    19.00     Cerezo Osaka v FC Tokyo  3-3 (0-2)   @ Yodoko Sakura Stadium › Osaka
-» Regular Season - 2
+    19:00     Cerezo Osaka v FC Tokyo  3-3 (0-2)   @ Yodoko Sakura Stadium › Osaka
+▪ Regular Season - 2
   Sat Jul 24
-    19.00     Gamba Osaka v Kashima  0-1 (0-0)   @ Panasonic Stadium Suita › Suita
-» Regular Season - 22
+    19:00     Gamba Osaka v Kashima  0-1 (0-0)   @ Panasonic Stadium Suita › Suita
+▪ Regular Season - 22
   Sat Jul 24
-    19.00     Sagan Tosu v Cerezo Osaka  3-3 (3-1)   @ Ekimae Real Estate Stadium › Tosu
-» Regular Season - 3
+    19:00     Sagan Tosu v Cerezo Osaka  3-3 (3-1)   @ Ekimae Real Estate Stadium › Tosu
+▪ Regular Season - 3
   Tue Jul 27
-    19.00     Gamba Osaka v Oita Trinita  2-1 (0-0)   @ Panasonic Stadium Suita › Suita
-» Regular Season - 4
+    19:00     Gamba Osaka v Oita Trinita  2-1 (0-0)   @ Panasonic Stadium Suita › Suita
+▪ Regular Season - 4
   Fri Jul 30
-    18.00     Consadole Sapporo v Gamba Osaka  0-2 (0-1)   @ Sapporo Atsubetsu Park Stadium › Sapporo
-» Regular Season - 5
+    18:00     Consadole Sapporo v Gamba Osaka  0-2 (0-1)   @ Sapporo Atsubetsu Park Stadium › Sapporo
+▪ Regular Season - 5
   Tue Aug 3
-    19.00     Vegalta Sendai v Gamba Osaka  0-1 (0-1)   @ Yurtec Stadium Sendai › Sendai
-» Regular Season - 6
+    19:00     Vegalta Sendai v Gamba Osaka  0-1 (0-1)   @ Yurtec Stadium Sendai › Sendai
+▪ Regular Season - 6
   Fri Aug 6
-    19.00     Gamba Osaka v Yokohama F. Marinos  2-3 (0-1)   @ Panasonic Stadium Suita › Suita
-» Regular Season - 23
+    19:00     Gamba Osaka v Yokohama F. Marinos  2-3 (0-1)   @ Panasonic Stadium Suita › Suita
+▪ Regular Season - 23
   Mon Aug 9
-    15.00     Consadole Sapporo v Urawa  2-1 (1-0)   @ Sapporo Dome › Sapporo
-    18.00     Vissel Kobe v Kashiwa Reysol  1-2 (0-0)   @ NOEVIR Stadium Kobe › Kobe
+    15:00     Consadole Sapporo v Urawa  2-1 (1-0)   @ Sapporo Dome › Sapporo
+    18:00     Vissel Kobe v Kashiwa Reysol  1-2 (0-0)   @ NOEVIR Stadium Kobe › Kobe
               Yokohama FC v Nagoya Grampus  2-0 (2-0)   @ NHK Spring Mitsuzawa Football Stadium › Yokohama
               Shimizu S-pulse v Yokohama F. Marinos  2-2 (1-1)   @ IAI Stadium Nihondaira › Shizuoka
-    19.00     Shonan Bellmare v Kashima  1-2 (1-1)   @ Lemon Gas Stadium Hiratsuka › Hiratsuka
+    19:00     Shonan Bellmare v Kashima  1-2 (1-1)   @ Lemon Gas Stadium Hiratsuka › Hiratsuka
               Cerezo Osaka v Vegalta Sendai  0-0 (0-0)   @ Yodoko Sakura Stadium › Osaka
               Sagan Tosu v FC Tokyo  1-0 (1-0)   @ Ekimae Real Estate Stadium › Tosu
               Oita Trinita v Kawasaki Frontale  0-2 (0-1)   @ Showa Denko Dome Ōita › Oita
               Tokushima Vortis v Gamba Osaka  2-1 (2-0)   @ Pocari Sweat Stadium › Naruto
               Avispa Fukuoka v Sanfrecce Hiroshima  1-1 (0-0)   @ Best Denki Stadium › Fukuoka
-» Regular Season - 18
+▪ Regular Season - 18
   Thu Aug 12
-    19.00     Yokohama F. Marinos v Nagoya Grampus  2-0 (2-0)   @ NHK Spring Mitsuzawa Football Stadium › Yokohama
-» Regular Season - 24
+    19:00     Yokohama F. Marinos v Nagoya Grampus  2-0 (2-0)   @ NHK Spring Mitsuzawa Football Stadium › Yokohama
+▪ Regular Season - 24
   Fri Aug 13
-    19.00     Shimizu S-pulse v Gamba Osaka  0-1 (0-0)   @ IAI Stadium Nihondaira › Shizuoka
+    19:00     Shimizu S-pulse v Gamba Osaka  0-1 (0-0)   @ IAI Stadium Nihondaira › Shizuoka
   Sat Aug 14
-    14.00     Consadole Sapporo v FC Tokyo  3-2 (1-2)   @ Sapporo Dome › Sapporo
-    19.00     Kashiwa Reysol v Kawasaki Frontale  0-0 (0-0)   @ SANKYO FRONTIER Kashiwa Stadium › Kashiwa
+    14:00     Consadole Sapporo v FC Tokyo  3-2 (1-2)   @ Sapporo Dome › Sapporo
+    19:00     Kashiwa Reysol v Kawasaki Frontale  0-0 (0-0)   @ SANKYO FRONTIER Kashiwa Stadium › Kashiwa
               Vegalta Sendai v Yokohama FC  0-0 (0-0)   @ Yurtec Stadium Sendai › Sendai
               Urawa v Sagan Tosu  2-1 (1-1)   @ Urawa Komaba Stadium › Saitama
   Sun Aug 15
-    18.00     Yokohama F. Marinos v Oita Trinita  5-1 (2-1)   @ NHK Spring Mitsuzawa Football Stadium › Yokohama
+    18:00     Yokohama F. Marinos v Oita Trinita  5-1 (2-1)   @ NHK Spring Mitsuzawa Football Stadium › Yokohama
               Nagoya Grampus v Shonan Bellmare  1-0 (0-0)   @ Toyota Stadium › Toyota
-    18.30     Kashima v Tokushima Vortis  3-0 (1-0)   @ Kashima Soccer Stadium › Kashima
-    19.00     Avispa Fukuoka v Cerezo Osaka  2-1 (1-1)   @ Best Denki Stadium › Fukuoka
-» Regular Season - 25
+    18:30     Kashima v Tokushima Vortis  3-0 (1-0)   @ Kashima Soccer Stadium › Kashima
+    19:00     Avispa Fukuoka v Cerezo Osaka  2-1 (1-1)   @ Best Denki Stadium › Fukuoka
+▪ Regular Season - 25
   Sat Aug 21
-    18.00     Vissel Kobe v Kashima  1-0 (0-0)   @ NOEVIR Stadium Kobe › Kobe
+    18:00     Vissel Kobe v Kashima  1-0 (0-0)   @ NOEVIR Stadium Kobe › Kobe
               Yokohama F. Marinos v Vegalta Sendai  5-0 (1-0)   @ NHK Spring Mitsuzawa Football Stadium › Yokohama
-    19.00     Sanfrecce Hiroshima v Kawasaki Frontale  1-1 (1-0)   @ EDION Stadium › Hiroshima
+    19:00     Sanfrecce Hiroshima v Kawasaki Frontale  1-1 (1-0)   @ EDION Stadium › Hiroshima
               Shonan Bellmare v Shimizu S-pulse  1-1 (1-1)   @ Lemon Gas Stadium Hiratsuka › Hiratsuka
               Cerezo Osaka v Yokohama FC  3-1 (2-1)   @ Yodoko Sakura Stadium › Osaka
               Gamba Osaka v FC Tokyo  0-0 (0-0)   @ Panasonic Stadium Suita › Suita
@@ -369,10 +369,10 @@
               Tokushima Vortis v Urawa  0-1 (0-0)   @ Pocari Sweat Stadium › Naruto
               Kashiwa Reysol v Sagan Tosu  1-3 (1-2)   @ SANKYO FRONTIER Kashiwa Stadium › Kashiwa
   Sun Aug 22
-    18.00     Nagoya Grampus v Avispa Fukuoka  1-0 (0-0)   @ Toyota Stadium › Toyota
-» Regular Season - 26
+    18:00     Nagoya Grampus v Avispa Fukuoka  1-0 (0-0)   @ Toyota Stadium › Toyota
+▪ Regular Season - 26
   Wed Aug 25
-    19.00     Consadole Sapporo v Nagoya Grampus  0-2 (0-2)   @ Sapporo Atsubetsu Park Stadium › Sapporo
+    19:00     Consadole Sapporo v Nagoya Grampus  0-2 (0-2)   @ Sapporo Atsubetsu Park Stadium › Sapporo
               Shimizu S-pulse v Kashima  0-4 (0-2)   @ IAI Stadium Nihondaira › Shizuoka
               Vegalta Sendai v FC Tokyo  1-2 (0-1)   @ Yurtec Stadium Sendai › Sendai
               Urawa v Sanfrecce Hiroshima  1-0 (1-0)   @ Urawa Komaba Stadium › Saitama
@@ -382,150 +382,150 @@
               Tokushima Vortis v Kashiwa Reysol  0-1 (0-1)   @ Pocari Sweat Stadium › Naruto
               Yokohama FC v Gamba Osaka  3-1 (1-0)   @ NHK Spring Mitsuzawa Football Stadium › Yokohama
               Avispa Fukuoka v Kawasaki Frontale  1-0 (0-0)   @ Best Denki Stadium › Fukuoka
-» Regular Season - 27
+▪ Regular Season - 27
   Sat Aug 28
-    14.00     Consadole Sapporo v Kawasaki Frontale  0-2 (0-2)   @ Sapporo Dome › Sapporo
-    18.00     Vissel Kobe v FC Tokyo  0-1 (0-0)   @ NOEVIR Stadium Kobe › Kobe
-    19.00     Sanfrecce Hiroshima v Oita Trinita  4-1 (1-1)   @ EDION Stadium › Hiroshima
+    14:00     Consadole Sapporo v Kawasaki Frontale  0-2 (0-2)   @ Sapporo Dome › Sapporo
+    18:00     Vissel Kobe v FC Tokyo  0-1 (0-0)   @ NOEVIR Stadium Kobe › Kobe
+    19:00     Sanfrecce Hiroshima v Oita Trinita  4-1 (1-1)   @ EDION Stadium › Hiroshima
               Gamba Osaka v Cerezo Osaka  0-1 (0-0)   @ Panasonic Stadium Suita › Suita
               Yokohama F. Marinos v Kashima  0-2 (0-2)   @ Nissan Stadium › Yokohama
   Sun Aug 29
-    18.00     Nagoya Grampus v Shimizu S-pulse  1-1 (0-0)   @ Toyota Stadium › Toyota
-    19.00     Shonan Bellmare v Urawa  0-0 (0-0)   @ Lemon Gas Stadium Hiratsuka › Hiratsuka
+    18:00     Nagoya Grampus v Shimizu S-pulse  1-1 (0-0)   @ Toyota Stadium › Toyota
+    19:00     Shonan Bellmare v Urawa  0-0 (0-0)   @ Lemon Gas Stadium Hiratsuka › Hiratsuka
               Vegalta Sendai v Sagan Tosu  0-1 (0-0)   @ Yurtec Stadium Sendai › Sendai
               Avispa Fukuoka v Tokushima Vortis  3-0 (0-0)   @ Best Denki Stadium › Fukuoka
               Kashiwa Reysol v Yokohama FC  2-1 (1-1)   @ SANKYO FRONTIER Kashiwa Stadium › Kashiwa
-» Regular Season - 24
+▪ Regular Season - 24
   Sun Sep 5
-    18.00     Sanfrecce Hiroshima v Vissel Kobe  1-1 (0-0)   @ EDION Stadium › Hiroshima
-» Regular Season - 19
+    18:00     Sanfrecce Hiroshima v Vissel Kobe  1-1 (0-0)   @ EDION Stadium › Hiroshima
+▪ Regular Season - 19
   Wed Sep 8
-    19.00     Consadole Sapporo v Cerezo Osaka  0-3 (0-1)   @ Sapporo Atsubetsu Park Stadium › Sapporo
-» Regular Season - 28
+    19:00     Consadole Sapporo v Cerezo Osaka  0-3 (0-1)   @ Sapporo Atsubetsu Park Stadium › Sapporo
+▪ Regular Season - 28
   Fri Sep 10
-    19.00     Nagoya Grampus v Tokushima Vortis  3-0 (0-0)   @ Toyota Stadium › Toyota
+    19:00     Nagoya Grampus v Tokushima Vortis  3-0 (0-0)   @ Toyota Stadium › Toyota
   Sat Sep 11
-    18.00     Kashima v Avispa Fukuoka  0-3 (0-2)   @ Kashima Soccer Stadium › Kashima
+    18:00     Kashima v Avispa Fukuoka  0-3 (0-2)   @ Kashima Soccer Stadium › Kashima
               Cerezo Osaka v Consadole Sapporo  0-2 (0-0)   @ Yodoko Sakura Stadium › Osaka
               Yokohama FC v Urawa  0-2 (0-1)   @ NHK Spring Mitsuzawa Football Stadium › Yokohama
-    18.30     Oita Trinita v Shonan Bellmare  2-0 (1-0)   @ Showa Denko Dome Ōita › Oita
-    19.00     Sagan Tosu v Shimizu S-pulse  2-1 (0-0)   @ Ekimae Real Estate Stadium › Tosu
+    18:30     Oita Trinita v Shonan Bellmare  2-0 (1-0)   @ Showa Denko Dome Ōita › Oita
+    19:00     Sagan Tosu v Shimizu S-pulse  2-1 (0-0)   @ Ekimae Real Estate Stadium › Tosu
               Sanfrecce Hiroshima v Yokohama F. Marinos  1-3 (1-2)   @ EDION Stadium › Hiroshima
   Sun Sep 12
-    18.30     Gamba Osaka v Vegalta Sendai  2-3 (1-2)   @ Panasonic Stadium Suita › Suita
-    19.00     FC Tokyo v Kashiwa Reysol  0-1 (0-1)   @ Ajinomoto Stadium › Chōfu
-» Regular Season - 29
+    18:30     Gamba Osaka v Vegalta Sendai  2-3 (1-2)   @ Panasonic Stadium Suita › Suita
+    19:00     FC Tokyo v Kashiwa Reysol  0-1 (0-1)   @ Ajinomoto Stadium › Chōfu
+▪ Regular Season - 29
   Sat Sep 18
-    18.00     Kashiwa Reysol v Sanfrecce Hiroshima  0-3 (0-1)   @ SANKYO FRONTIER Kashiwa Stadium › Kashiwa
+    18:00     Kashiwa Reysol v Sanfrecce Hiroshima  0-3 (0-1)   @ SANKYO FRONTIER Kashiwa Stadium › Kashiwa
               Shonan Bellmare v Avispa Fukuoka  1-1 (0-1)   @ Lemon Gas Stadium Hiratsuka › Hiratsuka
               Vissel Kobe v Consadole Sapporo  1-0 (1-0)   @ Kobe Universiade Memorial Stadium › Kobe
               Kashima v Gamba Osaka  3-1 (0-0)   @ Kashima Soccer Stadium › Kashima
-    18.30     Tokushima Vortis v Kawasaki Frontale  1-3 (1-2)   @ Pocari Sweat Stadium › Naruto
-    19.00     Shimizu S-pulse v Vegalta Sendai  2-1 (1-0)   @ IAI Stadium Nihondaira › Shizuoka
+    18:30     Tokushima Vortis v Kawasaki Frontale  1-3 (1-2)   @ Pocari Sweat Stadium › Naruto
+    19:00     Shimizu S-pulse v Vegalta Sendai  2-1 (1-0)   @ IAI Stadium Nihondaira › Shizuoka
               Urawa v Cerezo Osaka  2-0 (1-0)   @ Saitama Stadium 2002 › Saitama
               Nagoya Grampus v Yokohama F. Marinos  2-1 (1-0)   @ Toyota Stadium › Toyota
               FC Tokyo v Yokohama FC  4-0 (3-0)   @ Ajinomoto Stadium › Chōfu
               Sagan Tosu v Oita Trinita  0-0 (0-0)   @ Ekimae Real Estate Stadium › Tosu
-» Regular Season - 32
+▪ Regular Season - 32
   Wed Sep 22
-    19.00     Kashima v Kawasaki Frontale  1-2 (0-0)   @ Kashima Soccer Stadium › Kashima
+    19:00     Kashima v Kawasaki Frontale  1-2 (0-0)   @ Kashima Soccer Stadium › Kashima
               FC Tokyo v Nagoya Grampus  1-1 (1-1)   @ Ajinomoto Stadium › Chōfu
               Sanfrecce Hiroshima v Cerezo Osaka  0-1 (0-0)   @ EDION Stadium › Hiroshima
-» Regular Season - 30
+▪ Regular Season - 30
   Fri Sep 24
-    19.00     Shimizu S-pulse v Vissel Kobe  0-2 (0-1)   @ IAI Stadium Nihondaira › Shizuoka
+    19:00     Shimizu S-pulse v Vissel Kobe  0-2 (0-1)   @ IAI Stadium Nihondaira › Shizuoka
   Sat Sep 25
-    14.00     Vegalta Sendai v Tokushima Vortis  0-1 (0-0)   @ Yurtec Stadium Sendai › Sendai
-    15.00     FC Tokyo v Urawa  1-2 (1-1)   @ Ajinomoto Stadium › Chōfu
-    18.00     Yokohama FC v Yokohama F. Marinos  2-2 (1-0)   @ NHK Spring Mitsuzawa Football Stadium › Yokohama
-    19.00     Avispa Fukuoka v Sagan Tosu  3-0 (1-0)   @ Best Denki Stadium › Fukuoka
+    14:00     Vegalta Sendai v Tokushima Vortis  0-1 (0-0)   @ Yurtec Stadium Sendai › Sendai
+    15:00     FC Tokyo v Urawa  1-2 (1-1)   @ Ajinomoto Stadium › Chōfu
+    18:00     Yokohama FC v Yokohama F. Marinos  2-2 (1-0)   @ NHK Spring Mitsuzawa Football Stadium › Yokohama
+    19:00     Avispa Fukuoka v Sagan Tosu  3-0 (1-0)   @ Best Denki Stadium › Fukuoka
   Sun Sep 26
-    13.00     Consadole Sapporo v Sanfrecce Hiroshima  0-2 (0-1)   @ Sapporo Dome › Sapporo
-    15.00     Cerezo Osaka v Kashima  1-2 (0-0)   @ Yodoko Sakura Stadium › Osaka
-    16.00     Nagoya Grampus v Oita Trinita  1-0 (1-0)   @ Toyota Stadium › Toyota
-    17.00     Kawasaki Frontale v Shonan Bellmare  2-1 (0-1)   @ Kawasaki Todoroki Stadium › Kawasaki
-    19.00     Gamba Osaka v Kashiwa Reysol  2-1 (2-0)   @ Panasonic Stadium Suita › Suita
-» Regular Season - 28
+    13:00     Consadole Sapporo v Sanfrecce Hiroshima  0-2 (0-1)   @ Sapporo Dome › Sapporo
+    15:00     Cerezo Osaka v Kashima  1-2 (0-0)   @ Yodoko Sakura Stadium › Osaka
+    16:00     Nagoya Grampus v Oita Trinita  1-0 (1-0)   @ Toyota Stadium › Toyota
+    17:00     Kawasaki Frontale v Shonan Bellmare  2-1 (0-1)   @ Kawasaki Todoroki Stadium › Kawasaki
+    19:00     Gamba Osaka v Kashiwa Reysol  2-1 (2-0)   @ Panasonic Stadium Suita › Suita
+▪ Regular Season - 28
   Wed Sep 29
-    19.00     Kawasaki Frontale v Vissel Kobe  3-1 (0-1)   @ Kawasaki Todoroki Stadium › Kawasaki
-» Regular Season - 31
+    19:00     Kawasaki Frontale v Vissel Kobe  3-1 (0-1)   @ Kawasaki Todoroki Stadium › Kawasaki
+▪ Regular Season - 31
   Fri Oct 1
-    19.00     Shonan Bellmare v Yokohama F. Marinos  0-1 (0-0)   @ Lemon Gas Stadium Hiratsuka › Hiratsuka
+    19:00     Shonan Bellmare v Yokohama F. Marinos  0-1 (0-0)   @ Lemon Gas Stadium Hiratsuka › Hiratsuka
   Sat Oct 2
-    13.30     Avispa Fukuoka v Shimizu S-pulse  1-2 (0-1)   @ Best Denki Stadium › Fukuoka
-    15.00     Vissel Kobe v Urawa  5-1 (3-0)   @ NOEVIR Stadium Kobe › Kobe
-    16.00     Kashima v Yokohama FC  1-2 (0-2)   @ Kashima Soccer Stadium › Kashima
+    13:30     Avispa Fukuoka v Shimizu S-pulse  1-2 (0-1)   @ Best Denki Stadium › Fukuoka
+    15:00     Vissel Kobe v Urawa  5-1 (3-0)   @ NOEVIR Stadium Kobe › Kobe
+    16:00     Kashima v Yokohama FC  1-2 (0-2)   @ Kashima Soccer Stadium › Kashima
               Kashiwa Reysol v Vegalta Sendai  1-1 (0-1)   @ SANKYO FRONTIER Kashiwa Stadium › Kashiwa
-    17.00     Kawasaki Frontale v FC Tokyo  1-0 (1-0)   @ Kawasaki Todoroki Stadium › Kawasaki
-    19.00     Gamba Osaka v Consadole Sapporo  1-5 (0-3)   @ Panasonic Stadium Suita › Suita
+    17:00     Kawasaki Frontale v FC Tokyo  1-0 (1-0)   @ Kawasaki Todoroki Stadium › Kawasaki
+    19:00     Gamba Osaka v Consadole Sapporo  1-5 (0-3)   @ Panasonic Stadium Suita › Suita
   Sun Oct 3
-    13.00     Tokushima Vortis v Sagan Tosu  3-0 (2-0)   @ Pocari Sweat Stadium › Naruto
-    15.00     Sanfrecce Hiroshima v Nagoya Grampus  1-0 (1-0)   @ EDION Stadium › Hiroshima
-    16.00     Oita Trinita v Cerezo Osaka  1-0 (1-0)   @ Showa Denko Dome Ōita › Oita
-» Regular Season - 32
+    13:00     Tokushima Vortis v Sagan Tosu  3-0 (2-0)   @ Pocari Sweat Stadium › Naruto
+    15:00     Sanfrecce Hiroshima v Nagoya Grampus  1-0 (1-0)   @ EDION Stadium › Hiroshima
+    16:00     Oita Trinita v Cerezo Osaka  1-0 (1-0)   @ Showa Denko Dome Ōita › Oita
+▪ Regular Season - 32
   Sat Oct 16
-    14.00     Sagan Tosu v Shonan Bellmare  1-1 (0-1)   @ Ekimae Real Estate Stadium › Tosu
-    15.00     Urawa v Gamba Osaka  1-1 (0-0)   @ Saitama Stadium 2002 › Saitama
+    14:00     Sagan Tosu v Shonan Bellmare  1-1 (0-1)   @ Ekimae Real Estate Stadium › Tosu
+    15:00     Urawa v Gamba Osaka  1-1 (0-0)   @ Saitama Stadium 2002 › Saitama
               Shimizu S-pulse v Kashiwa Reysol  0-1 (0-0)   @ IAI Stadium Nihondaira › Shizuoka
-    16.00     Vissel Kobe v Avispa Fukuoka  1-0 (0-0)   @ NOEVIR Stadium Kobe › Kobe
+    16:00     Vissel Kobe v Avispa Fukuoka  1-0 (0-0)   @ NOEVIR Stadium Kobe › Kobe
               Yokohama FC v Tokushima Vortis  5-3 (3-1)   @ NHK Spring Mitsuzawa Football Stadium › Yokohama
-    19.00     Yokohama F. Marinos v Consadole Sapporo  2-1 (0-1)   @ Nissan Stadium › Yokohama
+    19:00     Yokohama F. Marinos v Consadole Sapporo  2-1 (0-1)   @ Nissan Stadium › Yokohama
   Sun Oct 17
-    14.00     Oita Trinita v Vegalta Sendai  2-0 (0-0)   @ Showa Denko Dome Ōita › Oita
-» Regular Season - 33
+    14:00     Oita Trinita v Vegalta Sendai  2-0 (0-0)   @ Showa Denko Dome Ōita › Oita
+▪ Regular Season - 33
   Fri Oct 22
-    19.00     Urawa v Kashiwa Reysol  5-1 (4-1)   @ Saitama Stadium 2002 › Saitama
+    19:00     Urawa v Kashiwa Reysol  5-1 (4-1)   @ Saitama Stadium 2002 › Saitama
   Sat Oct 23
-    14.00     Vegalta Sendai v Sanfrecce Hiroshima  2-0 (1-0)   @ Yurtec Stadium Sendai › Sendai
+    14:00     Vegalta Sendai v Sanfrecce Hiroshima  2-0 (1-0)   @ Yurtec Stadium Sendai › Sendai
               FC Tokyo v Kashima  1-2 (0-1)   @ Ajinomoto Stadium › Chōfu
               Tokushima Vortis v Oita Trinita  1-1 (0-0)   @ Pocari Sweat Stadium › Naruto
-    15.00     Shonan Bellmare v Yokohama FC  2-1 (0-0)   @ Lemon Gas Stadium Hiratsuka › Hiratsuka
-    17.00     Gamba Osaka v Sagan Tosu  1-0 (1-0)   @ Panasonic Stadium Suita › Suita
+    15:00     Shonan Bellmare v Yokohama FC  2-1 (0-0)   @ Lemon Gas Stadium Hiratsuka › Hiratsuka
+    17:00     Gamba Osaka v Sagan Tosu  1-0 (1-0)   @ Panasonic Stadium Suita › Suita
   Sun Oct 24
-    14.00     Consadole Sapporo v Avispa Fukuoka  0-0 (0-0)   @ Sapporo Dome › Sapporo
-    15.00     Nagoya Grampus v Vissel Kobe  2-2 (2-0)   @ Toyota Stadium › Toyota
-    17.00     Kawasaki Frontale v Shimizu S-pulse  1-0 (0-0)   @ Kawasaki Todoroki Stadium › Kawasaki
-    19.00     Cerezo Osaka v Yokohama F. Marinos  2-1 (2-1)   @ Yodoko Sakura Stadium › Osaka
-» Regular Season - 34
+    14:00     Consadole Sapporo v Avispa Fukuoka  0-0 (0-0)   @ Sapporo Dome › Sapporo
+    15:00     Nagoya Grampus v Vissel Kobe  2-2 (2-0)   @ Toyota Stadium › Toyota
+    17:00     Kawasaki Frontale v Shimizu S-pulse  1-0 (0-0)   @ Kawasaki Todoroki Stadium › Kawasaki
+    19:00     Cerezo Osaka v Yokohama F. Marinos  2-1 (2-1)   @ Yodoko Sakura Stadium › Osaka
+▪ Regular Season - 34
   Wed Nov 3
-    13.05     Yokohama F. Marinos v Gamba Osaka  0-1 (0-0)   @ Nissan Stadium › Yokohama
+    13:05     Yokohama F. Marinos v Gamba Osaka  0-1 (0-0)   @ Nissan Stadium › Yokohama
               Kawasaki Frontale v Urawa  1-1 (1-0)   @ Kawasaki Todoroki Stadium › Kawasaki
-    14.00     FC Tokyo v Shimizu S-pulse  4-0 (3-0)   @ Ajinomoto Stadium › Chōfu
+    14:00     FC Tokyo v Shimizu S-pulse  4-0 (3-0)   @ Ajinomoto Stadium › Chōfu
               Tokushima Vortis v Cerezo Osaka  0-1 (0-1)   @ Pocari Sweat Stadium › Naruto
               Yokohama FC v Sagan Tosu  0-0 (0-0)   @ NHK Spring Mitsuzawa Football Stadium › Yokohama
-    15.00     Nagoya Grampus v Kashiwa Reysol  2-0 (1-0)   @ Toyota Stadium › Toyota
+    15:00     Nagoya Grampus v Kashiwa Reysol  2-0 (1-0)   @ Toyota Stadium › Toyota
               Avispa Fukuoka v Oita Trinita  1-0 (1-0)   @ Best Denki Stadium › Fukuoka
               Sanfrecce Hiroshima v Kashima  1-4 (1-2)   @ EDION Stadium › Hiroshima
-    16.00     Vissel Kobe v Vegalta Sendai  4-2 (2-1)   @ NOEVIR Stadium Kobe › Kobe
+    16:00     Vissel Kobe v Vegalta Sendai  4-2 (2-1)   @ NOEVIR Stadium Kobe › Kobe
               Consadole Sapporo v Shonan Bellmare  1-1 (1-0)   @ Sapporo Dome › Sapporo
-» Regular Season - 35
+▪ Regular Season - 35
   Sat Nov 6
-    14.00     Shimizu S-pulse v Consadole Sapporo  2-2 (1-1)   @ IAI Stadium Nihondaira › Shizuoka
-    15.00     Vissel Kobe v Tokushima Vortis  1-0 (0-0)   @ NOEVIR Stadium Kobe › Kobe
-    16.00     Yokohama F. Marinos v FC Tokyo  8-0 (4-0)   @ Nissan Stadium › Yokohama
+    14:00     Shimizu S-pulse v Consadole Sapporo  2-2 (1-1)   @ IAI Stadium Nihondaira › Shizuoka
+    15:00     Vissel Kobe v Tokushima Vortis  1-0 (0-0)   @ NOEVIR Stadium Kobe › Kobe
+    16:00     Yokohama F. Marinos v FC Tokyo  8-0 (4-0)   @ Nissan Stadium › Yokohama
   Sun Nov 7
-    14.00     Vegalta Sendai v Nagoya Grampus  1-1 (0-1)   @ Yurtec Stadium Sendai › Sendai
+    14:00     Vegalta Sendai v Nagoya Grampus  1-1 (0-1)   @ Yurtec Stadium Sendai › Sendai
               Kashima v Urawa  1-0 (1-0)   @ Kashima Soccer Stadium › Kashima
               Sagan Tosu v Kawasaki Frontale  3-1 (3-0)   @ Ekimae Real Estate Stadium › Tosu
               Oita Trinita v Gamba Osaka  2-3 (2-1)   @ Showa Denko Dome Ōita › Oita
-    15.00     Avispa Fukuoka v Yokohama FC  1-1 (0-0)   @ Best Denki Stadium › Fukuoka
+    15:00     Avispa Fukuoka v Yokohama FC  1-1 (0-0)   @ Best Denki Stadium › Fukuoka
               Shonan Bellmare v Sanfrecce Hiroshima  0-0 (0-0)   @ Lemon Gas Stadium Hiratsuka › Hiratsuka
-    16.00     Kashiwa Reysol v Cerezo Osaka  1-0 (0-0)   @ SANKYO FRONTIER Kashiwa Stadium › Kashiwa
-» Regular Season - 36
+    16:00     Kashiwa Reysol v Cerezo Osaka  1-0 (0-0)   @ SANKYO FRONTIER Kashiwa Stadium › Kashiwa
+▪ Regular Season - 36
   Sat Nov 20
-    14.00     Vegalta Sendai v Shonan Bellmare  0-2 (0-1)   @ Yurtec Stadium Sendai › Sendai
+    14:00     Vegalta Sendai v Shonan Bellmare  0-2 (0-1)   @ Yurtec Stadium Sendai › Sendai
               Urawa v Yokohama F. Marinos  2-1 (1-0)   @ Saitama Stadium 2002 › Saitama
               Cerezo Osaka v Kawasaki Frontale  1-4 (0-2)   @ Yodoko Sakura Stadium › Osaka
               FC Tokyo v Tokushima Vortis  0-2 (0-1)   @ Ajinomoto Stadium › Chōfu
               Gamba Osaka v Nagoya Grampus  1-3 (0-3)   @ Panasonic Stadium Suita › Suita
               Sagan Tosu v Consadole Sapporo  1-0 (1-0)   @ Ekimae Real Estate Stadium › Tosu
-    15.00     Shimizu S-pulse v Sanfrecce Hiroshima  1-0 (1-0)   @ IAI Stadium Nihondaira › Shizuoka
+    15:00     Shimizu S-pulse v Sanfrecce Hiroshima  1-0 (1-0)   @ IAI Stadium Nihondaira › Shizuoka
               Kashima v Oita Trinita  0-0 (0-0)   @ Kashima Soccer Stadium › Kashima
               Yokohama FC v Vissel Kobe  0-2 (0-2)   @ NHK Spring Mitsuzawa Football Stadium › Yokohama
-    16.00     Kashiwa Reysol v Avispa Fukuoka  0-0 (0-0)   @ SANKYO FRONTIER Kashiwa Stadium › Kashiwa
-» Regular Season - 37
+    16:00     Kashiwa Reysol v Avispa Fukuoka  0-0 (0-0)   @ SANKYO FRONTIER Kashiwa Stadium › Kashiwa
+▪ Regular Season - 37
   Sat Nov 27
-    14.00     Consadole Sapporo v Kashiwa Reysol  3-1 (2-1)   @ Sapporo Dome › Sapporo
+    14:00     Consadole Sapporo v Kashiwa Reysol  3-1 (2-1)   @ Sapporo Dome › Sapporo
               Sanfrecce Hiroshima v FC Tokyo  1-2 (1-0)   @ EDION Stadium › Hiroshima
               Shonan Bellmare v Tokushima Vortis  0-1 (0-0)   @ Lemon Gas Stadium Hiratsuka › Hiratsuka
               Urawa v Shimizu S-pulse  0-1 (0-0)   @ Saitama Stadium 2002 › Saitama
@@ -535,9 +535,9 @@
               Kawasaki Frontale v Gamba Osaka  4-1 (2-1)   @ Kawasaki Todoroki Stadium › Kawasaki
               Oita Trinita v Yokohama FC  2-0 (2-0)   @ Showa Denko Dome Ōita › Oita
               Avispa Fukuoka v Vegalta Sendai  2-2 (1-0)   @ Best Denki Stadium › Fukuoka
-» Regular Season - 38
+▪ Regular Season - 38
   Sat Dec 4
-    14.00     Kashiwa Reysol v Oita Trinita  2-3 (0-2)   @ SANKYO FRONTIER Kashiwa Stadium › Kashiwa
+    14:00     Kashiwa Reysol v Oita Trinita  2-3 (0-2)   @ SANKYO FRONTIER Kashiwa Stadium › Kashiwa
               Shimizu S-pulse v Cerezo Osaka  2-1 (1-1)   @ IAI Stadium Nihondaira › Shizuoka
               Vegalta Sendai v Kashima  0-1 (0-0)   @ Yurtec Stadium Sendai › Sendai
               Nagoya Grampus v Urawa  0-0 (0-0)   @ Toyota Stadium › Toyota

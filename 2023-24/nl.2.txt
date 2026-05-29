@@ -1,29 +1,29 @@
 = Netherlands | Eerste Divisie 2023/24
 
-  # Date       Fri Aug/11 2023 - Fri May/10 2024 (273d)
+  # Date       Fri Aug 11 2023 - Fri May 10 2024 (273d)
   # Teams      20
   # Matches    380
 
   # Note - All times in Europe/Amsterdam
 
-» Regular Season - 1
+▪ Regular Season - 1
   Fri Aug 11 2023
-    20.00     Groningen v Jong Ajax  4-1 (1-0)   @ Euroborg › Groningen
+    20:00     Groningen v Jong Ajax  4-1 (1-0)   @ Euroborg › Groningen
   Fri Aug 11
-    20.00     Dordrecht v NAC Breda  2-2 (1-0)   @ Matchoholic Stadion › Dordrecht
+    20:00     Dordrecht v NAC Breda  2-2 (1-0)   @ Matchoholic Stadion › Dordrecht
               Roda v Helmond Sport  4-1 (2-0)   @ Parkstad Limburg Stadion › Kerkrade
               Cambuur v Emmen  2-2 (0-2)   @ Cambuur Stadion › Leeuwarden
               Den Bosch v FC OSS  1-0 (0-0)   @ Stadion De Vliert › 's-Hertogenbosch
               De Graafschap v ADO Den Haag  0-0 (0-0)   @ Stadion De Vijverberg › Doetinchem
   Sun Aug 13
-    12.15     FC Eindhoven v Willem II  1-1 (0-1)   @ Jan Louwers Stadion › Eindhoven
-    16.45     VVV Venlo v MVV  1-3 (0-0)   @ Covebo Stadion-De Koel › Venlo
+    12:15     FC Eindhoven v Willem II  1-1 (0-1)   @ Jan Louwers Stadion › Eindhoven
+    16:45     VVV Venlo v MVV  1-3 (0-0)   @ Covebo Stadion-De Koel › Venlo
   Mon Aug 14
-    20.00     Jong PSV v Telstar  1-0 (0-0)   @ PSV Campus De Herdgang › Eindhoven
+    20:00     Jong PSV v Telstar  1-0 (0-0)   @ PSV Campus De Herdgang › Eindhoven
               Jong AZ v Jong Utrecht  1-0 (1-0)   @ AFAS Trainingscomplex › Wijdewormer
-» Regular Season - 2
+▪ Regular Season - 2
   Fri Aug 18
-    20.00     Willem II v Dordrecht  2-0 (1-0)   @ Koning Willem II Stadion › Tilburg
+    20:00     Willem II v Dordrecht  2-0 (1-0)   @ Koning Willem II Stadion › Tilburg
               ADO Den Haag v Roda  0-3 (0-3)   @ Bingoal Stadion › 's-Gravenhage
               NAC Breda v Jong AZ  2-1 (2-0)   @ Rat Verlegh Stadion › Breda
               Emmen v VVV Venlo  2-2 (1-2)   @ De Oude Meerdijk › Emmen
@@ -31,11 +31,11 @@
               Helmond Sport v Den Bosch  1-0 (1-0)   @ GS Staalwerken Stadion › Helmond
               Telstar v Cambuur  2-3 (0-2)   @ 711 Stadion › Velsen-Zuid
   Mon Aug 21
-    20.00     Jong Utrecht v Groningen  1-0 (1-0)   @ Stadion Galgenwaard › Utrecht
+    20:00     Jong Utrecht v Groningen  1-0 (1-0)   @ Stadion Galgenwaard › Utrecht
               Jong Ajax v De Graafschap  1-2 (0-1)   @ Sportpark De Toekomst › Amsterdam-Duivendrecht
-» Regular Season - 3
+▪ Regular Season - 3
   Fri Aug 25
-    20.00     De Graafschap v Emmen  0-1 (0-0)   @ Stadion De Vijverberg › Doetinchem
+    20:00     De Graafschap v Emmen  0-1 (0-0)   @ Stadion De Vijverberg › Doetinchem
               VVV Venlo v Jong Utrecht  4-1 (2-1)   @ Covebo Stadion-De Koel › Venlo
               Dordrecht v MVV  2-2 (0-1)   @ Matchoholic Stadion › Dordrecht
               Roda v FC OSS  2-0 (1-0)   @ Parkstad Limburg Stadion › Kerkrade
@@ -43,13 +43,13 @@
               Den Bosch v ADO Den Haag  1-2 (0-0)   @ Stadion De Vliert › 's-Hertogenbosch
               FC Eindhoven v NAC Breda  2-0 (1-0)   @ Jan Louwers Stadion › Eindhoven
   Sun Aug 27
-    14.30     Groningen v Willem II  0-0 (0-0)   @ Euroborg › Groningen
+    14:30     Groningen v Willem II  0-0 (0-0)   @ Euroborg › Groningen
   Mon Aug 28
-    20.00     Jong AZ v Telstar  3-1 (1-0)   @ AFAS Trainingscomplex › Wijdewormer
+    20:00     Jong AZ v Telstar  3-1 (1-0)   @ AFAS Trainingscomplex › Wijdewormer
               Jong PSV v Helmond Sport  2-1 (1-0)   @ PSV Campus De Herdgang › Eindhoven
-» Regular Season - 4
+▪ Regular Season - 4
   Fri Sep 1
-    20.00     VVV Venlo v De Graafschap  2-0 (1-0)   @ Covebo Stadion-De Koel › Venlo
+    20:00     VVV Venlo v De Graafschap  2-0 (1-0)   @ Covebo Stadion-De Koel › Venlo
               Emmen v Dordrecht  2-4 (1-3)   @ De Oude Meerdijk › Emmen
               MVV v Jong Ajax  2-1 (2-0)   @ De Geusselt › Maastricht
               Den Bosch v Jong PSV  1-2 (1-2)   @ Stadion De Vliert › 's-Hertogenbosch
@@ -58,19 +58,19 @@
               Telstar v FC Eindhoven  0-1 (0-0)   @ 711 Stadion › Velsen-Zuid
               Jong Utrecht v Roda  1-0 (0-0)   @ Sportpark Zoudenbalch › Utrecht
   Sun Sep 3
-    16.45     ADO Den Haag v Jong AZ  4-1 (2-1)   @ Bingoal Stadion › 's-Gravenhage
+    16:45     ADO Den Haag v Jong AZ  4-1 (2-1)   @ Bingoal Stadion › 's-Gravenhage
   Tue Sep 5
-    14.30     Willem II v NAC Breda  1-4 (0-2)   @ Koning Willem II Stadion › Tilburg
-» Regular Season - 5
+    14:30     Willem II v NAC Breda  1-4 (0-2)   @ Koning Willem II Stadion › Tilburg
+▪ Regular Season - 5
   Fri Sep 8
-    21.00     Willem II v MVV  2-1 (1-1)   @ Koning Willem II Stadion › Tilburg
+    21:00     Willem II v MVV  2-1 (1-1)   @ Koning Willem II Stadion › Tilburg
   Sat Sep 9
-    16.30     Telstar v VVV Venlo  1-2 (1-0)   @ 711 Stadion › Velsen-Zuid
-    18.45     Cambuur v Den Bosch  3-1 (2-1)   @ Cambuur Stadion › Leeuwarden
-    21.00     NAC Breda v Roda  1-3 (1-2)   @ Rat Verlegh Stadion › Breda
-» Regular Season - 6
+    16:30     Telstar v VVV Venlo  1-2 (1-0)   @ 711 Stadion › Velsen-Zuid
+    18:45     Cambuur v Den Bosch  3-1 (2-1)   @ Cambuur Stadion › Leeuwarden
+    21:00     NAC Breda v Roda  1-3 (1-2)   @ Rat Verlegh Stadion › Breda
+▪ Regular Season - 6
   Fri Sep 15
-    20.00     Groningen v ADO Den Haag  0-1 (0-1)   @ Euroborg › Groningen
+    20:00     Groningen v ADO Den Haag  0-1 (0-1)   @ Euroborg › Groningen
               VVV Venlo v NAC Breda  3-1 (3-0)   @ Covebo Stadion-De Koel › Venlo
               Dordrecht v Jong Utrecht  3-3 (0-2)   @ Matchoholic Stadion › Dordrecht
               Jong PSV v De Graafschap  1-3 (1-1)   @ PSV Campus De Herdgang › Eindhoven
@@ -80,18 +80,18 @@
               Helmond Sport v FC OSS  1-1 (0-0)   @ GS Staalwerken Stadion › Helmond
               Jong Ajax v Emmen  3-3 (2-0)   @ Sportpark De Toekomst › Amsterdam-Duivendrecht
   Sun Sep 17
-    16.45     Cambuur v Willem II  1-0 (0-0)   @ Cambuur Stadion › Leeuwarden
-» Regular Season - 5
+    16:45     Cambuur v Willem II  1-0 (0-0)   @ Cambuur Stadion › Leeuwarden
+▪ Regular Season - 5
   Mon Sep 18
-    20.00     Groningen v Jong PSV  4-0 (4-0)   @ Euroborg › Groningen
+    20:00     Groningen v Jong PSV  4-0 (4-0)   @ Euroborg › Groningen
               Emmen v Jong Utrecht  2-0 (1-0)   @ De Oude Meerdijk › Emmen
               Jong AZ v Jong Ajax  5-2 (2-2)   @ AFAS Trainingscomplex › Wijdewormer
               FC Eindhoven v ADO Den Haag  1-1 (1-1)   @ Jan Louwers Stadion › Eindhoven
               FC OSS v Dordrecht  0-1 (0-1)   @ Frans Heesen Stadion › Oss
               De Graafschap v Helmond Sport  2-1 (1-0)   @ Stadion De Vijverberg › Doetinchem
-» Regular Season - 7
+▪ Regular Season - 7
   Fri Sep 22
-    20.00     ADO Den Haag v Telstar  1-1 (1-0)   @ Bingoal Stadion › 's-Gravenhage
+    20:00     ADO Den Haag v Telstar  1-1 (1-0)   @ Bingoal Stadion › 's-Gravenhage
               NAC Breda v Emmen  1-3 (1-1)   @ Rat Verlegh Stadion › Breda
               Dordrecht v Jong AZ  0-0 (0-0)   @ Matchoholic Stadion › Dordrecht
               Jong PSV v VVV Venlo  0-0 (0-0)   @ PSV Campus De Herdgang › Eindhoven
@@ -99,12 +99,12 @@
               Helmond Sport v Groningen  1-2 (0-0)   @ GS Staalwerken Stadion › Helmond
               Jong Utrecht v Cambuur  3-2 (2-1)   @ Stadion Galgenwaard › Utrecht
   Sun Sep 24
-    14.30     MVV v De Graafschap  1-2 (1-1)   @ De Geusselt › Maastricht
+    14:30     MVV v De Graafschap  1-2 (1-1)   @ De Geusselt › Maastricht
   Mon Sep 25
-    20.00     Jong Ajax v FC Eindhoven  1-1 (1-0)   @ Sportpark De Toekomst › Amsterdam-Duivendrecht
-» Regular Season - 8
+    20:00     Jong Ajax v FC Eindhoven  1-1 (1-0)   @ Sportpark De Toekomst › Amsterdam-Duivendrecht
+▪ Regular Season - 8
   Fri Sep 29
-    20.00     De Graafschap v Roda  0-0 (0-0)   @ Stadion De Vijverberg › Doetinchem
+    20:00     De Graafschap v Roda  0-0 (0-0)   @ Stadion De Vijverberg › Doetinchem
               Groningen v Den Bosch  0-3 (0-0)   @ Euroborg › Groningen
               MVV v ADO Den Haag  0-3 (0-3)   @ De Geusselt › Maastricht
               Jong AZ v Willem II  0-2 (0-1)   @ AFAS Trainingscomplex › Wijdewormer
@@ -113,19 +113,19 @@
               FC OSS v Emmen  0-1 (0-0)   @ Frans Heesen Stadion › Oss
               Telstar v Jong Ajax  3-2 (1-1)   @ 711 Stadion › Velsen-Zuid
   Sun Oct 1
-    12.15     VVV Venlo v Helmond Sport  0-4 (0-1)   @ Covebo Stadion-De Koel › Venlo
-» Regular Season - 2
+    12:15     VVV Venlo v Helmond Sport  0-4 (0-1)   @ Covebo Stadion-De Koel › Venlo
+▪ Regular Season - 2
   Mon Oct 2
-    20.00     MVV v FC Eindhoven  0-1 (0-0)   @ De Geusselt › Maastricht
-» Regular Season - 8
+    20:00     MVV v FC Eindhoven  0-1 (0-0)   @ De Geusselt › Maastricht
+▪ Regular Season - 8
   Mon Oct 2
-    20.00     Jong Utrecht v NAC Breda  1-1 (1-0)   @ Stadion Galgenwaard › Utrecht
-» Regular Season - 7
+    20:00     Jong Utrecht v NAC Breda  1-1 (1-0)   @ Stadion Galgenwaard › Utrecht
+▪ Regular Season - 7
   Tue Oct 3
-    20.00     Willem II v FC OSS  2-1 (0-1)   @ Koning Willem II Stadion › Tilburg
-» Regular Season - 9
+    20:00     Willem II v FC OSS  2-1 (0-1)   @ Koning Willem II Stadion › Tilburg
+▪ Regular Season - 9
   Fri Oct 6
-    20.00     Willem II v De Graafschap  4-2 (1-1)   @ Koning Willem II Stadion › Tilburg
+    20:00     Willem II v De Graafschap  4-2 (1-1)   @ Koning Willem II Stadion › Tilburg
               ADO Den Haag v FC OSS  2-1 (1-0)   @ Bingoal Stadion › 's-Gravenhage
               NAC Breda v Groningen  3-2 (2-1)   @ Rat Verlegh Stadion › Breda
               Emmen v Telstar  2-0 (2-0)   @ De Oude Meerdijk › Emmen
@@ -135,16 +135,16 @@
               Den Bosch v FC Eindhoven  0-1 (0-0)   @ Stadion De Vliert › 's-Hertogenbosch
               Helmond Sport v Jong Utrecht  4-0 (2-0)   @ GS Staalwerken Stadion › Helmond
               Jong Ajax v VVV Venlo  3-0 (2-0)   @ Sportpark De Toekomst › Amsterdam-Duivendrecht
-» Regular Season - 10
+▪ Regular Season - 10
   Sat Oct 14
-    16.30     VVV Venlo v Roda  1-1 (0-0)   @ Covebo Stadion-De Koel › Venlo
-    20.00     Telstar v MVV  2-1 (1-0)   @ 711 Stadion › Velsen-Zuid
+    16:30     VVV Venlo v Roda  1-1 (0-0)   @ Covebo Stadion-De Koel › Venlo
+    20:00     Telstar v MVV  2-1 (1-0)   @ 711 Stadion › Velsen-Zuid
   Sun Oct 15
-    14.30     Willem II v Den Bosch  3-1 (1-1)   @ Koning Willem II Stadion › Tilburg
-    16.45     Cambuur v NAC Breda  2-3 (0-3)   @ Cambuur Stadion › Leeuwarden
-» Regular Season - 11
+    14:30     Willem II v Den Bosch  3-1 (1-1)   @ Koning Willem II Stadion › Tilburg
+    16:45     Cambuur v NAC Breda  2-3 (0-3)   @ Cambuur Stadion › Leeuwarden
+▪ Regular Season - 11
   Fri Oct 20
-    20.00     De Graafschap v Groningen  2-1 (1-1)   @ Stadion De Vijverberg › Doetinchem
+    20:00     De Graafschap v Groningen  2-1 (1-1)   @ Stadion De Vijverberg › Doetinchem
               NAC Breda v Telstar  3-1 (1-1)   @ Rat Verlegh Stadion › Breda
               Emmen v ADO Den Haag  2-3 (2-1)   @ De Oude Meerdijk › Emmen
               Dordrecht v Jong Ajax  4-0 (3-0)   @ Matchoholic Stadion › Dordrecht
@@ -153,18 +153,18 @@
               Den Bosch v VVV Venlo  1-2 (1-0)   @ Stadion De Vliert › 's-Hertogenbosch
               FC Eindhoven v Helmond Sport  1-2 (1-1)   @ Jan Louwers Stadion › Eindhoven
   Sat Oct 21
-    20.00     Roda v Willem II  0-1 (0-1)   @ Parkstad Limburg Stadion › Kerkrade
-» Regular Season - 10
+    20:00     Roda v Willem II  0-1 (0-1)   @ Parkstad Limburg Stadion › Kerkrade
+▪ Regular Season - 10
   Mon Oct 23
-    20.00     Jong PSV v FC Eindhoven  3-4 (1-1)   @ PSV Campus De Herdgang › Eindhoven
+    20:00     Jong PSV v FC Eindhoven  3-4 (1-1)   @ PSV Campus De Herdgang › Eindhoven
               Jong AZ v De Graafschap  3-0 (0-0)   @ AFAS Trainingscomplex › Wijdewormer
               FC OSS v Jong Utrecht  2-0 (1-0)   @ Frans Heesen Stadion › Oss
               Helmond Sport v Dordrecht  1-1 (1-0)   @ GS Staalwerken Stadion › Helmond
               Jong Ajax v ADO Den Haag  0-0 (0-0)   @ Sportpark De Toekomst › Amsterdam-Duivendrecht
               Groningen v Emmen  0-0 (0-0)   @ Euroborg › Groningen
-» Regular Season - 12
+▪ Regular Season - 12
   Fri Oct 27
-    20.00     Willem II v Jong PSV  3-0 (1-0)   @ Koning Willem II Stadion › Tilburg
+    20:00     Willem II v Jong PSV  3-0 (1-0)   @ Koning Willem II Stadion › Tilburg
               ADO Den Haag v VVV Venlo  2-2 (0-1)   @ Bingoal Stadion › 's-Gravenhage
               De Graafschap v FC Eindhoven  2-1 (1-1)   @ Stadion De Vijverberg › Doetinchem
               NAC Breda v Helmond Sport  1-1 (0-0)   @ Rat Verlegh Stadion › Breda
@@ -173,27 +173,27 @@
               Roda v Jong Ajax  2-1 (1-1)   @ Parkstad Limburg Stadion › Kerkrade
               Telstar v FC OSS  1-0 (0-0)   @ 711 Stadion › Velsen-Zuid
   Sun Oct 29
-    12.15     Cambuur v Groningen  2-1 (1-0)   @ Cambuur Stadion › Leeuwarden
+    12:15     Cambuur v Groningen  2-1 (1-0)   @ Cambuur Stadion › Leeuwarden
   Mon Oct 30
-    20.00     Jong Utrecht v MVV  1-1 (1-1)   @ Sportpark Zoudenbalch › Utrecht
-» Regular Season - 13
+    20:00     Jong Utrecht v MVV  1-1 (1-1)   @ Sportpark Zoudenbalch › Utrecht
+▪ Regular Season - 13
   Fri Nov 3
-    20.00     VVV Venlo v Jong AZ  2-2 (0-1)   @ Covebo Stadion-De Koel › Venlo
+    20:00     VVV Venlo v Jong AZ  2-2 (0-1)   @ Covebo Stadion-De Koel › Venlo
               Helmond Sport v Telstar  1-0 (1-0)   @ GS Staalwerken Stadion › Helmond
               De Graafschap v NAC Breda  1-0 (0-0)   @ Stadion De Vijverberg › Doetinchem
   Sat Nov 4
-    18.45     Den Bosch v Jong Utrecht  1-1 (0-0)   @ Stadion De Vliert › 's-Hertogenbosch
+    18:45     Den Bosch v Jong Utrecht  1-1 (0-0)   @ Stadion De Vliert › 's-Hertogenbosch
   Sun Nov 5
-    14.30     Groningen v Dordrecht  2-2 (1-1)   @ Euroborg › Groningen
+    14:30     Groningen v Dordrecht  2-2 (1-1)   @ Euroborg › Groningen
   Mon Nov 6
-    20.00     MVV v Emmen  1-1 (1-0)   @ De Geusselt › Maastricht
+    20:00     MVV v Emmen  1-1 (1-0)   @ De Geusselt › Maastricht
               FC Eindhoven v Roda  1-1 (1-0)   @ Jan Louwers Stadion › Eindhoven
               FC OSS v Cambuur  1-8 (1-3)   @ Frans Heesen Stadion › Oss
               Jong Ajax v Willem II  1-0 (1-0)   @ Sportpark De Toekomst › Amsterdam-Duivendrecht
               Jong PSV v ADO Den Haag  1-2 (1-0)   @ PSV Campus De Herdgang › Eindhoven
-» Regular Season - 14
+▪ Regular Season - 14
   Fri Nov 10
-    20.00     Willem II v Jong Utrecht  2-1 (0-1)   @ Koning Willem II Stadion › Tilburg
+    20:00     Willem II v Jong Utrecht  2-1 (0-1)   @ Koning Willem II Stadion › Tilburg
               NAC Breda v Jong Ajax  1-1 (0-1)   @ Rat Verlegh Stadion › Breda
               Emmen v Den Bosch  1-0 (1-0)   @ De Oude Meerdijk › Emmen
               Dordrecht v Jong PSV  1-4 (0-1)   @ Matchoholic Stadion › Dordrecht
@@ -202,18 +202,18 @@
               FC OSS v MVV  0-1 (0-0)   @ Frans Heesen Stadion › Oss
               Telstar v De Graafschap  1-2 (0-0)   @ 711 Stadion › Velsen-Zuid
   Sun Nov 12
-    14.30     ADO Den Haag v Cambuur  1-2 (0-1)   @ Bingoal Stadion › 's-Gravenhage
-    16.45     Roda v Groningen  0-0 (0-0)   @ Parkstad Limburg Stadion › Kerkrade
-» Regular Season - 15
+    14:30     ADO Den Haag v Cambuur  1-2 (0-1)   @ Bingoal Stadion › 's-Gravenhage
+    16:45     Roda v Groningen  0-0 (0-0)   @ Parkstad Limburg Stadion › Kerkrade
+▪ Regular Season - 15
   Fri Nov 17
-    18.45     Den Bosch v Telstar  1-4 (0-1)   @ Stadion De Vliert › 's-Hertogenbosch
-    21.00     VVV Venlo v Willem II  1-3 (0-0)   @ Covebo Stadion-De Koel › Venlo
+    18:45     Den Bosch v Telstar  1-4 (0-1)   @ Stadion De Vliert › 's-Hertogenbosch
+    21:00     VVV Venlo v Willem II  1-3 (0-0)   @ Covebo Stadion-De Koel › Venlo
   Sun Nov 19
-    14.30     Cambuur v Roda  1-1 (1-1)   @ Cambuur Stadion › Leeuwarden
-    16.45     MVV v NAC Breda  1-4 (1-3)   @ De Geusselt › Maastricht
-» Regular Season - 16
+    14:30     Cambuur v Roda  1-1 (1-1)   @ Cambuur Stadion › Leeuwarden
+    16:45     MVV v NAC Breda  1-4 (1-3)   @ De Geusselt › Maastricht
+▪ Regular Season - 16
   Fri Nov 24
-    20.00     Groningen v FC Eindhoven  2-1 (1-1)   @ Euroborg › Groningen
+    20:00     Groningen v FC Eindhoven  2-1 (1-1)   @ Euroborg › Groningen
               NAC Breda v Den Bosch  1-0 (0-0)   @ Rat Verlegh Stadion › Breda
               VVV Venlo v Cambuur  1-2 (0-2)   @ Covebo Stadion-De Koel › Venlo
               Dordrecht v ADO Den Haag  2-2 (2-1)   @ Matchoholic Stadion › Dordrecht
@@ -223,20 +223,20 @@
               Telstar v Willem II  1-5 (0-2)   @ 711 Stadion › Velsen-Zuid
               Jong Utrecht v De Graafschap  2-0 (1-0)   @ Sportcomplex Zoudenbalch › Utrecht
   Sun Nov 26
-    12.15     Roda v MVV  1-0 (0-0)   @ Parkstad Limburg Stadion › Kerkrade
-» Regular Season - 15
+    12:15     Roda v MVV  1-0 (0-0)   @ Parkstad Limburg Stadion › Kerkrade
+▪ Regular Season - 15
   Mon Nov 27
-    20.00     Emmen v Jong PSV  1-0 (0-0)   @ De Oude Meerdijk › Emmen
+    20:00     Emmen v Jong PSV  1-0 (0-0)   @ De Oude Meerdijk › Emmen
               Jong AZ v Groningen  0-5 (0-2)   @ AFAS Trainingscomplex › Wijdewormer
               FC Eindhoven v FC OSS  0-0 (0-0)   @ Jan Louwers Stadion › Eindhoven
               Jong Ajax v Helmond Sport  4-1 (0-1)   @ Sportpark De Toekomst › Amsterdam-Duivendrecht
               ADO Den Haag v Jong Utrecht  6-0 (4-0)   @ Bingoal Stadion › 's-Gravenhage
-» Regular Season - 11
+▪ Regular Season - 11
   Fri Dec 1
-    20.00     Jong Utrecht v Jong PSV  0-0 (0-0)   @ Sportcomplex Zoudenbalch › Utrecht
-» Regular Season - 17
+    20:00     Jong Utrecht v Jong PSV  0-0 (0-0)   @ Sportcomplex Zoudenbalch › Utrecht
+▪ Regular Season - 17
   Fri Dec 1
-    20.00     Dordrecht v Roda  2-0 (1-0)   @ Matchoholic Stadion › Dordrecht
+    20:00     Dordrecht v Roda  2-0 (1-0)   @ Matchoholic Stadion › Dordrecht
               MVV v Jong AZ  4-0 (2-0)   @ De Geusselt › Maastricht
               Cambuur v FC Eindhoven  2-2 (1-1)   @ Cambuur Stadion › Leeuwarden
               Den Bosch v Jong Ajax  3-3 (3-1)   @ Stadion De Vliert › 's-Hertogenbosch
@@ -244,16 +244,16 @@
               Helmond Sport v ADO Den Haag  3-2 (2-1)   @ GS Staalwerken Stadion › Helmond
               Groningen v VVV Venlo  2-1 (0-1)   @ Euroborg › Groningen
               Willem II v Emmen  3-0 (0-0)   @ Koning Willem II Stadion › Tilburg
-» Regular Season - 15
+▪ Regular Season - 15
   Mon Dec 4
-    20.00     De Graafschap v Dordrecht  1-1 (0-1)   @ Stadion De Vijverberg › Doetinchem
-» Regular Season - 17
+    20:00     De Graafschap v Dordrecht  1-1 (0-1)   @ Stadion De Vijverberg › Doetinchem
+▪ Regular Season - 17
   Mon Dec 4
-    20.00     Jong Utrecht v Telstar  0-0 (0-0)   @ Sportcomplex Zoudenbalch › Utrecht
+    20:00     Jong Utrecht v Telstar  0-0 (0-0)   @ Sportcomplex Zoudenbalch › Utrecht
               Jong PSV v NAC Breda  0-5 (0-1)   @ PSV Campus De Herdgang › Eindhoven
-» Regular Season - 18
+▪ Regular Season - 18
   Fri Dec 8
-    20.00     ADO Den Haag v Willem II  1-1 (1-0)   @ Bingoal Stadion › 's-Gravenhage
+    20:00     ADO Den Haag v Willem II  1-1 (1-0)   @ Bingoal Stadion › 's-Gravenhage
               De Graafschap v Cambuur  2-3 (1-1)   @ Stadion De Vijverberg › Doetinchem
               Groningen v Telstar  2-0 (2-0)   @ Euroborg › Groningen
               NAC Breda v FC OSS  2-0 (0-0)   @ Rat Verlegh Stadion › Breda
@@ -262,11 +262,11 @@
               FC Eindhoven v Emmen  3-2 (1-2)   @ Jan Louwers Stadion › Eindhoven
               Helmond Sport v MVV  1-2 (1-0)   @ GS Staalwerken Stadion › Helmond
   Mon Dec 11
-    20.00     Jong Ajax v Jong Utrecht  2-1 (1-1)   @ Sportpark De Toekomst › Amsterdam-Duivendrecht
+    20:00     Jong Ajax v Jong Utrecht  2-1 (1-1)   @ Sportpark De Toekomst › Amsterdam-Duivendrecht
               Jong AZ v Den Bosch  0-0 (0-0)   @ AFAS Trainingscomplex › Wijdewormer
-» Regular Season - 19
+▪ Regular Season - 19
   Fri Dec 15
-    20.00     Willem II v Helmond Sport  4-1 (1-1)   @ Koning Willem II Stadion › Tilburg
+    20:00     Willem II v Helmond Sport  4-1 (1-1)   @ Koning Willem II Stadion › Tilburg
               ADO Den Haag v NAC Breda  3-1 (3-1)   @ Bingoal Stadion › 's-Gravenhage
               Emmen v Roda  0-1 (0-1)   @ De Oude Meerdijk › Emmen
               Jong PSV v Jong Ajax  2-2 (1-0)   @ PSV Campus De Herdgang › Eindhoven
@@ -276,53 +276,53 @@
               FC OSS v VVV Venlo  2-1 (2-1)   @ Frans Heesen Stadion › Oss
               Telstar v Dordrecht  0-2 (0-0)   @ 711 Stadion › Velsen-Zuid
               Jong Utrecht v FC Eindhoven  2-5 (1-1)   @ Sportcomplex Zoudenbalch › Utrecht
-» Regular Season - 20
+▪ Regular Season - 20
   Fri Dec 22
-    20.00     Groningen v Jong Utrecht  2-1 (0-1)   @ Euroborg › Groningen
+    20:00     Groningen v Jong Utrecht  2-1 (0-1)   @ Euroborg › Groningen
               NAC Breda v Willem II  1-2 (0-2)   @ Rat Verlegh Stadion › Breda
               VVV Venlo v Telstar  2-1 (1-1)   @ Covebo Stadion-De Koel › Venlo
               MVV v FC OSS  2-0 (1-0)   @ De Geusselt › Maastricht
               Den Bosch v Cambuur  3-1 (1-0)   @ Stadion De Vliert › 's-Hertogenbosch
   Sat Dec 23
-    14.00     Jong AZ v ADO Den Haag  1-2 (1-0)   @ AFAS Trainingscomplex › Wijdewormer
-    16.30     Dordrecht v Emmen  2-1 (1-1)   @ Matchoholic Stadion › Dordrecht
-    18.45     Helmond Sport v Roda  3-3 (2-1)   @ GS Staalwerken Stadion › Helmond
-    21.00     FC Eindhoven v Jong Ajax  2-2 (1-1)   @ Jan Louwers Stadion › Eindhoven
-» Regular Season - 21
+    14:00     Jong AZ v ADO Den Haag  1-2 (1-0)   @ AFAS Trainingscomplex › Wijdewormer
+    16:30     Dordrecht v Emmen  2-1 (1-1)   @ Matchoholic Stadion › Dordrecht
+    18:45     Helmond Sport v Roda  3-3 (2-1)   @ GS Staalwerken Stadion › Helmond
+    21:00     FC Eindhoven v Jong Ajax  2-2 (1-1)   @ Jan Louwers Stadion › Eindhoven
+▪ Regular Season - 21
   Fri Jan 12 2024
-    20.00     ADO Den Haag v De Graafschap  5-3 (0-2)   @ Bingoal Stadion › 's-Gravenhage
+    20:00     ADO Den Haag v De Graafschap  5-3 (0-2)   @ Bingoal Stadion › 's-Gravenhage
   Fri Jan 12
-    20.00     Dordrecht v Helmond Sport  2-0 (1-0)   @ M-Scores Stadion › Dordrecht
+    20:00     Dordrecht v Helmond Sport  2-0 (1-0)   @ M-Scores Stadion › Dordrecht
               Cambuur v MVV  5-2 (3-0)   @ Cambuur Stadion › Leeuwarden
               FC OSS v Willem II  0-5 (0-2)   @ Frans Heesen Stadion › Oss
               Telstar v Jong AZ  1-1 (1-1)   @ 711 Stadion › Velsen-Zuid
   Sat Jan 13
-    16.30     Emmen v NAC Breda  2-3 (2-0)   @ De Oude Meerdijk › Emmen
+    16:30     Emmen v NAC Breda  2-3 (2-0)   @ De Oude Meerdijk › Emmen
   Mon Jan 15
-    20.00     Jong Utrecht v VVV Venlo  0-0 (0-0)   @ Sportcomplex Zoudenbalch › Utrecht
+    20:00     Jong Utrecht v VVV Venlo  0-0 (0-0)   @ Sportcomplex Zoudenbalch › Utrecht
               Jong PSV v Den Bosch  2-2 (0-1)   @ PSV Campus De Herdgang › Eindhoven
-» Regular Season - 22
+▪ Regular Season - 22
   Fri Jan 19
-    20.00     Willem II v Jong Ajax  1-1 (1-1)   @ Koning Willem II Stadion › Tilburg
+    20:00     Willem II v Jong Ajax  1-1 (1-1)   @ Koning Willem II Stadion › Tilburg
               MVV v Jong Utrecht  3-0 (1-0)   @ De Geusselt › Maastricht
               Den Bosch v Roda  0-0 (0-0)   @ Stadion De Vliert › 's-Hertogenbosch
               FC Eindhoven v De Graafschap  0-1 (0-0)   @ Jan Louwers Stadion › Eindhoven
               FC OSS v Telstar  1-0 (0-0)   @ Frans Heesen Stadion › Oss
               Helmond Sport v Jong PSV  2-2 (2-1)   @ GS Staalwerken Stadion › Helmond
-» Regular Season - 20
+▪ Regular Season - 20
   Mon Jan 22
-    20.00     De Graafschap v Jong PSV  4-2 (3-1)   @ Stadion De Vijverberg › Doetinchem
-» Regular Season - 21
+    20:00     De Graafschap v Jong PSV  4-2 (3-1)   @ Stadion De Vijverberg › Doetinchem
+▪ Regular Season - 21
   Mon Jan 22
-    20.00     Jong Ajax v Groningen  0-1 (0-1)   @ Sportpark De Toekomst › Amsterdam-Duivendrecht
+    20:00     Jong Ajax v Groningen  0-1 (0-1)   @ Sportpark De Toekomst › Amsterdam-Duivendrecht
               Roda v FC Eindhoven  3-0 (3-0)   @ Parkstad Limburg Stadion › Kerkrade
-» Regular Season - 22
+▪ Regular Season - 22
   Mon Jan 22
-    20.00     VVV Venlo v ADO Den Haag  2-1 (2-1)   @ Covebo Stadion-De Koel › Venlo
+    20:00     VVV Venlo v ADO Den Haag  2-1 (2-1)   @ Covebo Stadion-De Koel › Venlo
               Jong AZ v Dordrecht  5-1 (3-0)   @ AFAS Trainingscomplex › Wijdewormer
-» Regular Season - 23
+▪ Regular Season - 23
   Fri Jan 26
-    20.00     ADO Den Haag v Emmen  3-0 (2-0)   @ Bingoal Stadion › 's-Gravenhage
+    20:00     ADO Den Haag v Emmen  3-0 (2-0)   @ Bingoal Stadion › 's-Gravenhage
               De Graafschap v VVV Venlo  3-0 (1-0)   @ Stadion De Vijverberg › Doetinchem
               Groningen v Jong AZ  4-1 (2-1)   @ Euroborg › Groningen
               Roda v Jong Utrecht  0-0 (0-0)   @ Parkstad Limburg Stadion › Kerkrade
@@ -330,12 +330,12 @@
               Helmond Sport v NAC Breda  1-0 (0-0)   @ GS Staalwerken Stadion › Helmond
               Telstar v Den Bosch  0-0 (0-0)   @ 711 Stadion › Velsen-Zuid
   Mon Jan 29
-    20.00     Jong PSV v Willem II  1-1 (0-0)   @ PSV Campus De Herdgang › Eindhoven
+    20:00     Jong PSV v Willem II  1-1 (0-0)   @ PSV Campus De Herdgang › Eindhoven
               Cambuur v FC OSS  1-2 (0-0)   @ Cambuur Stadion › Leeuwarden
               Jong Ajax v Dordrecht  2-2 (2-1)   @ Sportpark De Toekomst › Amsterdam-Duivendrecht
-» Regular Season - 24
+▪ Regular Season - 24
   Fri Feb 2
-    20.00     NAC Breda v De Graafschap  0-0 (0-0)   @ Rat Verlegh Stadion › Breda
+    20:00     NAC Breda v De Graafschap  0-0 (0-0)   @ Rat Verlegh Stadion › Breda
               VVV Venlo v Jong PSV  3-2 (1-1)   @ Covebo Stadion-De Koel › Venlo
               Emmen v FC Eindhoven  1-1 (0-1)   @ De Oude Meerdijk › Emmen
               Dordrecht v Groningen  1-0 (1-0)   @ M-Scores Stadion › Dordrecht
@@ -344,26 +344,26 @@
               FC OSS v ADO Den Haag  1-3 (1-3)   @ Frans Heesen Stadion › Oss
               Willem II v Cambuur  1-1 (1-1)   @ Koning Willem II Stadion › Tilburg
   Mon Feb 5
-    20.00     Jong AZ v Roda  1-0 (1-0)   @ AFAS Trainingscomplex › Wijdewormer
+    20:00     Jong AZ v Roda  1-0 (1-0)   @ AFAS Trainingscomplex › Wijdewormer
               Jong Utrecht v Jong Ajax  0-1 (0-1)   @ Sportcomplex Zoudenbalch › Utrecht
-» Regular Season - 25
+▪ Regular Season - 25
   Fri Feb 9
-    20.00     NAC Breda v FC Eindhoven  2-2 (2-0)   @ Rat Verlegh Stadion › Breda
+    20:00     NAC Breda v FC Eindhoven  2-2 (2-0)   @ Rat Verlegh Stadion › Breda
               Jong PSV v Emmen  3-0 (2-0)   @ PSV Campus De Herdgang › Eindhoven
               Roda v Dordrecht  4-1 (1-0)   @ Parkstad Limburg Stadion › Kerkrade
               Telstar v Helmond Sport  3-2 (3-1)   @ 711 Stadion › Velsen-Zuid
               De Graafschap v Willem II  0-2 (0-1)   @ Stadion De Vijverberg › Doetinchem
   Sat Feb 10
-    16.30     Cambuur v VVV Venlo  3-3 (2-2)   @ Cambuur Stadion › Leeuwarden
+    16:30     Cambuur v VVV Venlo  3-3 (2-2)   @ Cambuur Stadion › Leeuwarden
   Sun Feb 11
-    12.15     ADO Den Haag v Den Bosch  3-0 (1-0)   @ Bingoal Stadion › 's-Gravenhage
-    14.30     Groningen v FC OSS  3-0 (1-0)   @ Euroborg › Groningen
+    12:15     ADO Den Haag v Den Bosch  3-0 (1-0)   @ Bingoal Stadion › 's-Gravenhage
+    14:30     Groningen v FC OSS  3-0 (1-0)   @ Euroborg › Groningen
   Mon Feb 12
-    20.00     Jong Utrecht v Jong AZ  1-2 (0-1)   @ Sportcomplex Zoudenbalch › Utrecht
+    20:00     Jong Utrecht v Jong AZ  1-2 (0-1)   @ Sportcomplex Zoudenbalch › Utrecht
               Jong Ajax v MVV  3-0 (2-0)   @ Sportpark De Toekomst › Amsterdam-Duivendrecht
-» Regular Season - 26
+▪ Regular Season - 26
   Fri Feb 16
-    20.00     Willem II v ADO Den Haag  2-1 (2-0)   @ Koning Willem II Stadion › Tilburg
+    20:00     Willem II v ADO Den Haag  2-1 (2-0)   @ Koning Willem II Stadion › Tilburg
               Dordrecht v VVV Venlo  1-0 (0-0)   @ M-Scores Stadion › Dordrecht
               Roda v Emmen  3-2 (1-1)   @ Parkstad Limburg Stadion › Kerkrade
               Cambuur v Jong Utrecht  2-4 (1-1)   @ Cambuur Stadion › Leeuwarden
@@ -372,29 +372,29 @@
               Helmond Sport v De Graafschap  3-1 (2-1)   @ GS Staalwerken Stadion › Helmond
               Telstar v NAC Breda  1-1 (1-0)   @ 711 Stadion › Velsen-Zuid
   Sun Feb 18
-    16.45     FC Eindhoven v Groningen  0-3 (0-1)   @ Jan Louwers Stadion › Eindhoven
-» Regular Season - 22
+    16:45     FC Eindhoven v Groningen  0-3 (0-1)   @ Jan Louwers Stadion › Eindhoven
+▪ Regular Season - 22
   Mon Feb 19
-    20.00     NAC Breda v Cambuur  1-2 (0-1)   @ Rat Verlegh Stadion › Breda
-» Regular Season - 26
+    20:00     NAC Breda v Cambuur  1-2 (0-1)   @ Rat Verlegh Stadion › Breda
+▪ Regular Season - 26
   Mon Feb 19
-    20.00     MVV v Jong PSV  3-3 (1-2)   @ De Geusselt › Maastricht
-» Regular Season - 27
+    20:00     MVV v Jong PSV  3-3 (1-2)   @ De Geusselt › Maastricht
+▪ Regular Season - 27
   Fri Feb 23
-    20.00     Willem II v Roda  2-3 (2-1)   @ Koning Willem II Stadion › Tilburg
+    20:00     Willem II v Roda  2-3 (2-1)   @ Koning Willem II Stadion › Tilburg
               ADO Den Haag v MVV  2-2 (1-0)   @ Bingoal Stadion › 's-Gravenhage
               De Graafschap v Den Bosch  2-0 (1-0)   @ Stadion De Vijverberg › Doetinchem
               Groningen v Helmond Sport  0-0 (0-0)   @ Euroborg › Groningen
               VVV Venlo v FC Eindhoven  2-2 (1-0)   @ Covebo Stadion-De Koel › Venlo
               Emmen v Cambuur  2-0 (1-0)   @ De Oude Meerdijk › Emmen
   Mon Feb 26
-    20.00     Jong AZ v NAC Breda  2-3 (0-1)   @ AFAS Trainingscomplex › Wijdewormer
+    20:00     Jong AZ v NAC Breda  2-3 (0-1)   @ AFAS Trainingscomplex › Wijdewormer
               Jong Ajax v Telstar  0-3 (0-2)   @ Sportpark De Toekomst › Amsterdam-Duivendrecht
               Jong Utrecht v FC OSS  0-3 (0-0)   @ Sportcomplex Zoudenbalch › Utrecht
               Jong PSV v Dordrecht  0-1 (0-0)   @ PSV Campus De Herdgang › Eindhoven
-» Regular Season - 28
+▪ Regular Season - 28
   Fri Mar 1
-    20.00     ADO Den Haag v Jong Ajax  2-1 (1-1)   @ Bingoal Stadion › 's-Gravenhage
+    20:00     ADO Den Haag v Jong Ajax  2-1 (1-1)   @ Bingoal Stadion › 's-Gravenhage
               De Graafschap v FC OSS  2-1 (1-0)   @ Stadion De Vijverberg › Doetinchem
               NAC Breda v Jong Utrecht  3-1 (1-0)   @ Rat Verlegh Stadion › Breda
               Emmen v Willem II  2-0 (1-0)   @ De Oude Meerdijk › Emmen
@@ -402,12 +402,12 @@
               Helmond Sport v VVV Venlo  1-1 (0-1)   @ GS Staalwerken Stadion › Helmond
               Telstar v Roda  1-1 (1-0)   @ 711 Stadion › Velsen-Zuid
   Mon Mar 4
-    20.00     MVV v Dordrecht  1-3 (0-3)   @ De Geusselt › Maastricht
+    20:00     MVV v Dordrecht  1-3 (0-3)   @ De Geusselt › Maastricht
               Den Bosch v Groningen  1-4 (0-0)   @ Stadion De Vliert › 's-Hertogenbosch
               Jong PSV v Cambuur  3-1 (0-0)   @ PSV Campus De Herdgang › Eindhoven
-» Regular Season - 29
+▪ Regular Season - 29
   Fri Mar 8
-    20.00     Willem II v FC Eindhoven  3-0 (1-0)   @ Koning Willem II Stadion › Tilburg
+    20:00     Willem II v FC Eindhoven  3-0 (1-0)   @ Koning Willem II Stadion › Tilburg
               Groningen v MVV  3-0 (2-0)   @ Euroborg › Groningen
               VVV Venlo v Emmen  2-0 (0-0)   @ Covebo Stadion-De Koel › Venlo
               Dordrecht v Telstar  2-0 (1-0)   @ M-Scores Stadion › Dordrecht
@@ -417,17 +417,17 @@
               FC OSS v Den Bosch  1-2 (0-0)   @ Frans Heesen Stadion › Oss
               Jong Ajax v NAC Breda  0-1 (0-0)   @ Sportpark De Toekomst › Amsterdam-Duivendrecht
               Jong Utrecht v Helmond Sport  0-1 (0-1)   @ Sportcomplex Zoudenbalch › Utrecht
-» Regular Season - 31
+▪ Regular Season - 31
   Mon Mar 11
-    20.00     De Graafschap v Jong Ajax  0-2 (0-0)   @ Stadion De Vijverberg › Doetinchem
+    20:00     De Graafschap v Jong Ajax  0-2 (0-0)   @ Stadion De Vijverberg › Doetinchem
               Emmen v FC OSS  0-1 (0-1)   @ De Oude Meerdijk › Emmen
               Jong PSV v Groningen  2-3 (0-1)   @ PSV Campus De Herdgang › Eindhoven
               FC Eindhoven v Jong Utrecht  3-0 (2-0)   @ Jan Louwers Stadion › Eindhoven
               Helmond Sport v Jong AZ  3-1 (1-0)   @ GS Staalwerken Stadion › Helmond
               ADO Den Haag v Dordrecht  2-2 (1-2)   @ Bingoal Stadion › 's-Gravenhage
-» Regular Season - 30
+▪ Regular Season - 30
   Fri Mar 15
-    20.00     Groningen v De Graafschap  4-2 (2-2)   @ Euroborg › Groningen
+    20:00     Groningen v De Graafschap  4-2 (2-2)   @ Euroborg › Groningen
               NAC Breda v VVV Venlo  1-0 (0-0)   @ Rat Verlegh Stadion › Breda
               Dordrecht v FC Eindhoven  0-0 (0-0)   @ M-Scores Stadion › Dordrecht
               Jong AZ v Cambuur  2-0 (1-0)   @ AFAS Trainingscomplex › Wijdewormer
@@ -437,16 +437,16 @@
               Telstar v ADO Den Haag  3-1 (2-1)   @ 711 Stadion › Velsen-Zuid
               Jong Utrecht v Emmen  2-3 (1-0)   @ Sportcomplex Zoudenbalch › Utrecht
   Sun Mar 17
-    12.15     MVV v Roda  0-3 (0-1)   @ De Geusselt › Maastricht
-» Regular Season - 31
+    12:15     MVV v Roda  0-3 (0-1)   @ De Geusselt › Maastricht
+▪ Regular Season - 31
   Sat Mar 23
-    20.00     MVV v Den Bosch  1-0 (0-0)   @ De Geusselt › Maastricht
+    20:00     MVV v Den Bosch  1-0 (0-0)   @ De Geusselt › Maastricht
               Roda v NAC Breda  3-1 (1-1)   @ Parkstad Limburg Stadion › Kerkrade
               Cambuur v Telstar  1-0 (0-0)   @ Cambuur Stadion › Leeuwarden
               Willem II v VVV Venlo  2-0 (1-0)   @ Koning Willem II Stadion › Tilburg
-» Regular Season - 32
+▪ Regular Season - 32
   Fri Mar 29
-    20.00     ADO Den Haag v Groningen  0-2 (0-1)   @ Bingoal Stadion › 's-Gravenhage
+    20:00     ADO Den Haag v Groningen  0-2 (0-1)   @ Bingoal Stadion › 's-Gravenhage
               De Graafschap v Jong AZ  2-1 (1-0)   @ Stadion De Vijverberg › Doetinchem
               NAC Breda v MVV  1-2 (0-0)   @ Rat Verlegh Stadion › Breda
               VVV Venlo v FC OSS  2-0 (0-0)   @ Covebo Stadion-De Koel › Venlo
@@ -455,29 +455,29 @@
               FC Eindhoven v Cambuur  0-3 (0-2)   @ Jan Louwers Stadion › Eindhoven
               Helmond Sport v Willem II  0-2 (0-2)   @ GS Staalwerken Stadion › Helmond
               Telstar v Jong Utrecht  5-1 (2-1)   @ 711 Stadion › Velsen-Zuid
-» Regular Season - 22
+▪ Regular Season - 22
   Mon Apr 1
-    14.30     Emmen v Groningen  0-3 (0-2)   @ De Oude Meerdijk › Emmen
-» Regular Season - 32
+    14:30     Emmen v Groningen  0-3 (0-2)   @ De Oude Meerdijk › Emmen
+▪ Regular Season - 32
   Mon Apr 1
-    20.00     Jong PSV v Roda  2-3 (2-2)   @ PSV Campus De Herdgang › Eindhoven
-» Regular Season - 33
+    20:00     Jong PSV v Roda  2-3 (2-2)   @ PSV Campus De Herdgang › Eindhoven
+▪ Regular Season - 33
   Fri Apr 5
-    20.00     Dordrecht v De Graafschap  2-1 (1-1)   @ M-Scores Stadion › Dordrecht
+    20:00     Dordrecht v De Graafschap  2-1 (1-1)   @ M-Scores Stadion › Dordrecht
               MVV v Helmond Sport  3-0 (1-0)   @ De Geusselt › Maastricht
               Cambuur v ADO Den Haag  0-2 (0-0)   @ Cambuur Stadion › Leeuwarden
               FC OSS v FC Eindhoven  2-1 (0-1)   @ Frans Heesen Stadion › Oss
               Telstar v Jong PSV  3-1 (1-1)   @ 711 Stadion › Velsen-Zuid
   Sun Apr 7
-    12.15     Groningen v NAC Breda  1-1 (0-0)   @ Euroborg › Groningen
-    16.45     Roda v VVV Venlo  2-1 (1-0)   @ Parkstad Limburg Stadion › Kerkrade
+    12:15     Groningen v NAC Breda  1-1 (0-0)   @ Euroborg › Groningen
+    16:45     Roda v VVV Venlo  2-1 (1-0)   @ Parkstad Limburg Stadion › Kerkrade
   Mon Apr 8
-    20.00     Jong Ajax v Den Bosch  0-2 (0-1)   @ Sportpark De Toekomst › Amsterdam-Duivendrecht
+    20:00     Jong Ajax v Den Bosch  0-2 (0-1)   @ Sportpark De Toekomst › Amsterdam-Duivendrecht
               Jong Utrecht v Willem II  1-1 (0-0)   @ Stadion Galgenwaard › Utrecht
               Jong AZ v Emmen  3-2 (1-2)   @ AFAS Trainingscomplex › Wijdewormer
-» Regular Season - 34
+▪ Regular Season - 34
   Fri Apr 12
-    20.00     Willem II v Jong AZ  4-1 (2-1)   @ Koning Willem II Stadion › Tilburg
+    20:00     Willem II v Jong AZ  4-1 (2-1)   @ Koning Willem II Stadion › Tilburg
               ADO Den Haag v Helmond Sport  0-1 (0-0)   @ Bingoal Stadion › 's-Gravenhage
               De Graafschap v Telstar  5-1 (2-1)   @ Stadion De Vijverberg › Doetinchem
               NAC Breda v Dordrecht  1-4 (1-2)   @ Rat Verlegh Stadion › Breda
@@ -485,41 +485,41 @@
               FC Eindhoven v Jong PSV  2-5 (0-2)   @ Jan Louwers Stadion › Eindhoven
               FC OSS v Roda  1-4 (0-3)   @ Frans Heesen Stadion › Oss
   Sun Apr 14
-    16.45     VVV Venlo v Groningen  0-1 (0-0)   @ Covebo Stadion-De Koel › Venlo
+    16:45     VVV Venlo v Groningen  0-1 (0-0)   @ Covebo Stadion-De Koel › Venlo
   Mon Apr 15
-    20.00     Jong Utrecht v Den Bosch  0-2 (0-0)   @ Sportcomplex Zoudenbalch › Utrecht
+    20:00     Jong Utrecht v Den Bosch  0-2 (0-0)   @ Sportcomplex Zoudenbalch › Utrecht
               Jong Ajax v Cambuur  2-1 (0-0)   @ Sportpark De Toekomst › Amsterdam-Duivendrecht
-» Regular Season - 35
+▪ Regular Season - 35
   Fri Apr 19
-    20.00     Dordrecht v FC OSS  3-1 (1-0)   @ M-Scores Stadion › Dordrecht
+    20:00     Dordrecht v FC OSS  3-1 (1-0)   @ M-Scores Stadion › Dordrecht
               Roda v De Graafschap  1-1 (1-0)   @ Parkstad Limburg Stadion › Kerkrade
               Den Bosch v NAC Breda  2-2 (1-2)   @ Stadion De Vliert › 's-Hertogenbosch
               Helmond Sport v Jong Ajax  3-1 (2-0)   @ GS Staalwerken Stadion › Helmond
               Telstar v Emmen  2-3 (2-0)   @ 711 Stadion › Velsen-Zuid
   Sat Apr 20
-    16.30     ADO Den Haag v FC Eindhoven  1-1 (1-0)   @ Bingoal Stadion › 's-Gravenhage
-    18.45     MVV v Willem II  1-1 (1-0)   @ De Geusselt › Maastricht
-    21.00     Groningen v Cambuur  3-0 (2-0)   @ Euroborg › Groningen
+    16:30     ADO Den Haag v FC Eindhoven  1-1 (1-0)   @ Bingoal Stadion › 's-Gravenhage
+    18:45     MVV v Willem II  1-1 (1-0)   @ De Geusselt › Maastricht
+    21:00     Groningen v Cambuur  3-0 (2-0)   @ Euroborg › Groningen
   Mon Apr 22
-    20.00     Jong AZ v VVV Venlo  2-1 (0-1)   @ AFAS Trainingscomplex › Wijdewormer
+    20:00     Jong AZ v VVV Venlo  2-1 (0-1)   @ AFAS Trainingscomplex › Wijdewormer
               Jong PSV v Jong Utrecht  2-0 (1-0)   @ PSV Campus De Herdgang › Eindhoven
-» Regular Season - 36
+▪ Regular Season - 36
   Fri Apr 26
-    20.00     Willem II v Groningen  1-1 (0-0)   @ Koning Willem II Stadion › Tilburg
+    20:00     Willem II v Groningen  1-1 (0-0)   @ Koning Willem II Stadion › Tilburg
               De Graafschap v MVV  3-0 (1-0)   @ Stadion De Vijverberg › Doetinchem
               VVV Venlo v Den Bosch  2-3 (0-1)   @ Covebo Stadion-De Koel › Venlo
               Cambuur v Dordrecht  3-3 (2-1)   @ Cambuur Stadion › Leeuwarden
               FC OSS v Jong AZ  1-1 (0-1)   @ Frans Heesen Stadion › Oss
               Jong Ajax v Roda  1-1 (1-1)   @ Sportpark De Toekomst › Amsterdam-Duivendrecht
   Sun Apr 28
-    12.15     FC Eindhoven v Telstar  1-1 (1-0)   @ Jan Louwers Stadion › Eindhoven
-    16.45     NAC Breda v Jong PSV  2-0 (1-0)   @ Rat Verlegh Stadion › Breda
+    12:15     FC Eindhoven v Telstar  1-1 (1-0)   @ Jan Louwers Stadion › Eindhoven
+    16:45     NAC Breda v Jong PSV  2-0 (1-0)   @ Rat Verlegh Stadion › Breda
   Mon Apr 29
-    20.00     Emmen v Helmond Sport  3-0 (1-0)   @ De Oude Meerdijk › Emmen
+    20:00     Emmen v Helmond Sport  3-0 (1-0)   @ De Oude Meerdijk › Emmen
               Jong Utrecht v ADO Den Haag  0-2 (0-0)   @ Stadion Galgenwaard › Utrecht
-» Regular Season - 37
+▪ Regular Season - 37
   Fri May 3
-    20.00     De Graafschap v Jong Utrecht  2-2 (1-1)   @ Stadion De Vijverberg › Doetinchem
+    20:00     De Graafschap v Jong Utrecht  2-2 (1-1)   @ Stadion De Vijverberg › Doetinchem
               NAC Breda v ADO Den Haag  2-2 (0-2)   @ Rat Verlegh Stadion › Breda
               VVV Venlo v Jong Ajax  2-0 (0-0)   @ Covebo Stadion-De Koel › Venlo
               Dordrecht v Willem II  1-1 (1-0)   @ M-Scores Stadion › Dordrecht
@@ -529,9 +529,9 @@
               Den Bosch v Emmen  1-2 (0-1)   @ Stadion De Vliert › 's-Hertogenbosch
               Helmond Sport v FC Eindhoven  2-0 (1-0)   @ GS Staalwerken Stadion › Helmond
               Telstar v Groningen  1-1 (1-0)   @ 711 Stadion › Velsen-Zuid
-» Regular Season - 38
+▪ Regular Season - 38
   Fri May 10
-    20.00     Willem II v Telstar  3-2 (0-2)   @ Koning Willem II Stadion › Tilburg
+    20:00     Willem II v Telstar  3-2 (0-2)   @ Koning Willem II Stadion › Tilburg
               ADO Den Haag v Jong PSV  2-3 (1-1)   @ Bingoal Stadion › 's-Gravenhage
               Groningen v Roda  2-0 (1-0)   @ Euroborg › Groningen
               Emmen v De Graafschap  2-1 (2-1)   @ De Oude Meerdijk › Emmen

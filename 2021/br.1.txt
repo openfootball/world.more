@@ -1,561 +1,561 @@
 = Brazil | Serie A 2021
 
-  # Date       Sat May/29 - Thu Dec/9 2021 (194d)
+  # Date       Sat May 29 - Thu Dec 9 2021 (194d)
   # Teams      20
   # Matches    380
 
   # Note - All times in America/Sao_Paulo
 
-» Regular Season - 1
+▪ Regular Season - 1
   Sat May 29 2021
-    19.00     Cuiaba v Juventude  2-2 (1-2)   @ Arena Pantanal › Cuiabá, Mato Grosso
+    19:00     Cuiaba v Juventude  2-2 (1-2)   @ Arena Pantanal › Cuiabá, Mato Grosso
   Sat May 29
-    20.00     Bahia v Santos  3-0 (0-0)   @ Estádio Governador Roberto Santos › Salvador de Bahia, Bahia
-    21.00     Sao Paulo v Fluminense  0-0 (0-0)   @ Estádio Cícero Pompeu de Toledo › São Paulo, São Paulo
+    20:00     Bahia v Santos  3-0 (0-0)   @ Estádio Governador Roberto Santos › Salvador de Bahia, Bahia
+    21:00     Sao Paulo v Fluminense  0-0 (0-0)   @ Estádio Cícero Pompeu de Toledo › São Paulo, São Paulo
   Sun May 30
-    11.00     Atletico-MG v Fortaleza EC  1-2 (1-0)   @ Estádio Governador Magalhães Pinto › Belo Horizonte, Minas Gerais
-    16.00     Flamengo v Palmeiras  1-0 (0-0)   @ Estadio Jornalista Mário Filho › Rio de Janeiro, Rio de Janeiro
+    11:00     Atletico-MG v Fortaleza EC  1-2 (1-0)   @ Estádio Governador Magalhães Pinto › Belo Horizonte, Minas Gerais
+    16:00     Flamengo v Palmeiras  1-0 (0-0)   @ Estadio Jornalista Mário Filho › Rio de Janeiro, Rio de Janeiro
               Ceara v Gremio  3-2 (2-1)   @ Estádio Governador Plácido Aderaldo Castelo › Fortaleza, Ceará
-    18.15     Chapecoense-sc v RB Bragantino  0-3 (0-2)   @ Arena Condá › Chapecó, Santa Catarina
+    18:15     Chapecoense-sc v RB Bragantino  0-3 (0-2)   @ Arena Condá › Chapecó, Santa Catarina
               Atletico Paranaense v America Mineiro  1-0 (0-0)   @ Arena da Baixada › Curitiba, Paraná
               Corinthians v Atletico Goianiense  0-1 (0-1)   @ Neo Química Arena › São Paulo, São Paulo
-    20.30     Internacional v Sport Recife  2-2 (2-0)   @ Estádio José Pinheiro Borda › Porto Alegre, Rio Grande do Sul
-» Regular Season - 2
+    20:30     Internacional v Sport Recife  2-2 (2-0)   @ Estádio José Pinheiro Borda › Porto Alegre, Rio Grande do Sul
+▪ Regular Season - 2
   Sat Jun 5
-    19.00     Atletico Goianiense v Sao Paulo  2-0 (1-0)   @ Estádio Antônio Accioly › Goiânia, Goiás
-    21.00     RB Bragantino v Bahia  3-3 (1-2)   @ Estádio Nabi Abi Chedid › Bragança Paulista, São Paulo
+    19:00     Atletico Goianiense v Sao Paulo  2-0 (1-0)   @ Estádio Antônio Accioly › Goiânia, Goiás
+    21:00     RB Bragantino v Bahia  3-3 (1-2)   @ Estádio Nabi Abi Chedid › Bragança Paulista, São Paulo
               Santos v Ceara  3-1 (1-1)   @ Estádio Urbano Caldeira › Santos, São Paulo
   Sun Jun 6
-    11.00     Fluminense v Cuiaba  1-0 (1-0)   @ Estádio Club de Regatas Vasco da Gama › Rio de Janeiro, Rio de Janeiro
-    16.00     Fortaleza EC v Internacional  5-1 (2-0)   @ Estádio Governador Plácido Aderaldo Castelo › Fortaleza, Ceará
+    11:00     Fluminense v Cuiaba  1-0 (1-0)   @ Estádio Club de Regatas Vasco da Gama › Rio de Janeiro, Rio de Janeiro
+    16:00     Fortaleza EC v Internacional  5-1 (2-0)   @ Estádio Governador Plácido Aderaldo Castelo › Fortaleza, Ceará
               America Mineiro v Corinthians  0-1 (0-1)   @ Estádio Raimundo Sampaio › Belo Horizonte, Minas Gerais
-    18.15     Palmeiras v Chapecoense-sc  3-1 (3-0)   @ Allianz Parque › São Paulo, São Paulo
+    18:15     Palmeiras v Chapecoense-sc  3-1 (3-0)   @ Allianz Parque › São Paulo, São Paulo
               Juventude v Atletico Paranaense  0-3 (0-0)   @ Estádio Alfredo Jaconi › Caxias do Sul, Rio Grande do Sul
-    20.30     Sport Recife v Atletico-MG  0-1 (0-1)   @ Estádio Adelmar da Costa Carvalho › Recife, Pernambuco
-» Regular Season - 3
+    20:30     Sport Recife v Atletico-MG  0-1 (0-1)   @ Estádio Adelmar da Costa Carvalho › Recife, Pernambuco
+▪ Regular Season - 3
   Sat Jun 12
-    19.00     Santos v Juventude  0-0 (0-0)   @ Estádio Urbano Caldeira › Santos, São Paulo
+    19:00     Santos v Juventude  0-0 (0-0)   @ Estádio Urbano Caldeira › Santos, São Paulo
               Palmeiras v Corinthians  1-1 (1-0)   @ Allianz Parque › São Paulo, São Paulo
   Sun Jun 13
-    16.00     Flamengo v America Mineiro  2-0 (1-0)   @ Estadio Jornalista Mário Filho › Rio de Janeiro, Rio de Janeiro
+    16:00     Flamengo v America Mineiro  2-0 (1-0)   @ Estadio Jornalista Mário Filho › Rio de Janeiro, Rio de Janeiro
               Gremio v Atletico Paranaense  0-1 (0-1)   @ Arena do Grêmio › Porto Alegre, Rio Grande do Sul
               Atletico-MG v Sao Paulo  1-0 (1-0)   @ Estádio Governador Magalhães Pinto › Belo Horizonte, Minas Gerais
-    20.30     Chapecoense-sc v Ceara  0-0 (0-0)   @ Arena Condá › Chapecó, Santa Catarina
+    20:30     Chapecoense-sc v Ceara  0-0 (0-0)   @ Arena Condá › Chapecó, Santa Catarina
               Fortaleza EC v Sport Recife  1-0 (0-0)   @ Estádio Governador Plácido Aderaldo Castelo › Fortaleza, Ceará
               RB Bragantino v Fluminense  2-2 (2-0)   @ Estádio Nabi Abi Chedid › Bragança Paulista, São Paulo
               Bahia v Internacional  0-1 (0-1)   @ Estádio Governador Roberto Santos › Salvador de Bahia, Bahia
-» Regular Season - 4
+▪ Regular Season - 4
   Wed Jun 16
-    19.00     Internacional v Atletico-MG  0-1 (0-1)   @ Estádio José Pinheiro Borda › Porto Alegre, Rio Grande do Sul
+    19:00     Internacional v Atletico-MG  0-1 (0-1)   @ Estádio José Pinheiro Borda › Porto Alegre, Rio Grande do Sul
               Sao Paulo v Chapecoense-sc  1-1 (1-0)   @ Estádio Cícero Pompeu de Toledo › São Paulo, São Paulo
-    20.30     Corinthians v RB Bragantino  1-2 (1-0)   @ Neo Química Arena › São Paulo, São Paulo
-    21.30     Juventude v Palmeiras  0-3 (0-0)   @ Estádio Alfredo Jaconi › Caxias do Sul, Rio Grande do Sul
+    20:30     Corinthians v RB Bragantino  1-2 (1-0)   @ Neo Química Arena › São Paulo, São Paulo
+    21:30     Juventude v Palmeiras  0-3 (0-0)   @ Estádio Alfredo Jaconi › Caxias do Sul, Rio Grande do Sul
   Thu Jun 17
-    16.00     Ceara v Bahia  1-2 (1-2)   @ Estádio Governador Plácido Aderaldo Castelo › Fortaleza, Ceará
+    16:00     Ceara v Bahia  1-2 (1-2)   @ Estádio Governador Plácido Aderaldo Castelo › Fortaleza, Ceará
               America Mineiro v Cuiaba  0-0 (0-0)   @ Estádio Raimundo Sampaio › Belo Horizonte, Minas Gerais
-    19.00     Sport Recife v Gremio  1-0 (1-0)   @ Estádio Adelmar da Costa Carvalho › Recife, Pernambuco
+    19:00     Sport Recife v Gremio  1-0 (1-0)   @ Estádio Adelmar da Costa Carvalho › Recife, Pernambuco
               Fluminense v Santos  1-0 (0-0)   @ Estadio Jornalista Mário Filho › Rio de Janeiro, Rio de Janeiro
               Atletico Goianiense v Fortaleza EC  0-0 (0-0)   @ Estádio Antônio Accioly › Goiânia, Goiás
-» Regular Season - 5
+▪ Regular Season - 5
   Sat Jun 19
-    21.00     Flamengo v RB Bragantino  2-3 (1-1)   @ Estadio Jornalista Mário Filho › Rio de Janeiro, Rio de Janeiro
+    21:00     Flamengo v RB Bragantino  2-3 (1-1)   @ Estadio Jornalista Mário Filho › Rio de Janeiro, Rio de Janeiro
   Sun Jun 20
-    11.00     Palmeiras v America Mineiro  2-1 (1-1)   @ Allianz Parque › São Paulo, São Paulo
-    16.00     Internacional v Ceara  1-1 (1-1)   @ Estádio José Pinheiro Borda › Porto Alegre, Rio Grande do Sul
+    11:00     Palmeiras v America Mineiro  2-1 (1-1)   @ Allianz Parque › São Paulo, São Paulo
+    16:00     Internacional v Ceara  1-1 (1-1)   @ Estádio José Pinheiro Borda › Porto Alegre, Rio Grande do Sul
               Bahia v Corinthians  0-0 (0-0)   @ Estádio Governador Roberto Santos › Salvador de Bahia, Bahia
-    18.15     Santos v Sao Paulo  2-0 (2-0)   @ Estádio Urbano Caldeira › Santos, São Paulo
+    18:15     Santos v Sao Paulo  2-0 (2-0)   @ Estádio Urbano Caldeira › Santos, São Paulo
               Atletico Paranaense v Atletico Goianiense  2-1 (1-1)   @ Arena da Baixada › Curitiba, Paraná
               Fortaleza EC v Fluminense  1-1 (0-0)   @ Estádio Governador Plácido Aderaldo Castelo › Fortaleza, Ceará
-    20.30     Juventude v Sport Recife  1-0 (0-0)   @ Estádio Alfredo Jaconi › Caxias do Sul, Rio Grande do Sul
+    20:30     Juventude v Sport Recife  1-0 (0-0)   @ Estádio Alfredo Jaconi › Caxias do Sul, Rio Grande do Sul
   Mon Jun 21
-    20.00     Atletico-MG v Chapecoense-sc  1-1 (1-0)   @ Estádio Governador Magalhães Pinto › Belo Horizonte, Minas Gerais
-» Regular Season - 6
+    20:00     Atletico-MG v Chapecoense-sc  1-1 (1-0)   @ Estádio Governador Magalhães Pinto › Belo Horizonte, Minas Gerais
+▪ Regular Season - 6
   Wed Jun 23
-    19.00     Sao Paulo v Cuiaba  2-2 (2-2)   @ Estádio Cícero Pompeu de Toledo › São Paulo, São Paulo
+    19:00     Sao Paulo v Cuiaba  2-2 (2-2)   @ Estádio Cícero Pompeu de Toledo › São Paulo, São Paulo
               Flamengo v Fortaleza EC  2-1 (2-0)   @ Estadio Jornalista Mário Filho › Rio de Janeiro, Rio de Janeiro
               Atletico Goianiense v Fluminense  1-0 (0-0)   @ Estádio Antônio Accioly › Goiânia, Goiás
               RB Bragantino v Palmeiras  3-1 (2-0)   @ Estádio Nabi Abi Chedid › Bragança Paulista, São Paulo
   Thu Jun 24
-    16.00     America Mineiro v Juventude  1-1 (0-1)   @ Estádio Raimundo Sampaio › Belo Horizonte, Minas Gerais
-    19.00     Corinthians v Sport Recife  2-1 (1-0)   @ Neo Química Arena › São Paulo, São Paulo
+    16:00     America Mineiro v Juventude  1-1 (0-1)   @ Estádio Raimundo Sampaio › Belo Horizonte, Minas Gerais
+    19:00     Corinthians v Sport Recife  2-1 (1-0)   @ Neo Química Arena › São Paulo, São Paulo
               Chapecoense-sc v Internacional  1-2 (0-2)   @ Arena Condá › Chapecó, Santa Catarina
               Ceara v Atletico-MG  2-1 (1-0)   @ Estádio Governador Plácido Aderaldo Castelo › Fortaleza, Ceará
-    21.30     Gremio v Santos  2-2 (2-1)   @ Arena do Grêmio › Porto Alegre, Rio Grande do Sul
+    21:30     Gremio v Santos  2-2 (2-1)   @ Arena do Grêmio › Porto Alegre, Rio Grande do Sul
               Bahia v Atletico Paranaense  2-1 (1-1)   @ Estádio Governador Roberto Santos › Salvador de Bahia, Bahia
-» Regular Season - 7
+▪ Regular Season - 7
   Sun Jun 27
-    11.00     Juventude v Flamengo  1-0 (1-0)   @ Estádio Alfredo Jaconi › Caxias do Sul, Rio Grande do Sul
-    16.00     Fluminense v Corinthians  1-1 (0-1)   @ Estádio Club de Regatas Vasco da Gama › Rio de Janeiro, Rio de Janeiro
-    20.00     Palmeiras v Bahia  3-2 (1-1)   @ Allianz Parque › São Paulo, São Paulo
+    11:00     Juventude v Flamengo  1-0 (1-0)   @ Estádio Alfredo Jaconi › Caxias do Sul, Rio Grande do Sul
+    16:00     Fluminense v Corinthians  1-1 (0-1)   @ Estádio Club de Regatas Vasco da Gama › Rio de Janeiro, Rio de Janeiro
+    20:00     Palmeiras v Bahia  3-2 (1-1)   @ Allianz Parque › São Paulo, São Paulo
               Gremio v Fortaleza EC  0-0 (0-0)   @ Arena do Grêmio › Porto Alegre, Rio Grande do Sul
               Atletico Paranaense v Chapecoense-sc  2-2 (1-1)   @ Arena da Baixada › Curitiba, Paraná
-    20.30     America Mineiro v Internacional  1-1 (1-0)   @ Estádio Raimundo Sampaio › Belo Horizonte, Minas Gerais
+    20:30     America Mineiro v Internacional  1-1 (1-0)   @ Estádio Raimundo Sampaio › Belo Horizonte, Minas Gerais
               Santos v Atletico-MG  2-0 (0-0)   @ Estádio Urbano Caldeira › Santos, São Paulo
               Ceara v Sao Paulo  1-1 (1-0)   @ Estádio Governador Plácido Aderaldo Castelo › Fortaleza, Ceará
               Sport Recife v Cuiaba  0-0 (0-0)   @ Estádio Adelmar da Costa Carvalho › Recife, Pernambuco
   Mon Jun 28
-    20.00     Atletico Goianiense v RB Bragantino  0-1 (0-0)   @ Estádio Antônio Accioly › Goiânia, Goiás
-» Regular Season - 8
+    20:00     Atletico Goianiense v RB Bragantino  0-1 (0-0)   @ Estádio Antônio Accioly › Goiânia, Goiás
+▪ Regular Season - 8
   Wed Jun 30
-    16.00     Fluminense v Atletico Paranaense  1-4 (1-1)   @ Estádio Municipal General Raulino de Oliveira › Volta Redonda, Rio de Janeiro
+    16:00     Fluminense v Atletico Paranaense  1-4 (1-1)   @ Estádio Municipal General Raulino de Oliveira › Volta Redonda, Rio de Janeiro
               Fortaleza EC v Chapecoense-sc  3-2 (0-1)   @ Estádio Governador Plácido Aderaldo Castelo › Fortaleza, Ceará
-    19.00     Internacional v Palmeiras  1-2 (0-1)   @ Estádio José Pinheiro Borda › Porto Alegre, Rio Grande do Sul
+    19:00     Internacional v Palmeiras  1-2 (0-1)   @ Estádio José Pinheiro Borda › Porto Alegre, Rio Grande do Sul
               Bahia v America Mineiro  3-4 (1-2)   @ Estádio Governador Roberto Santos › Salvador de Bahia, Bahia
-    20.30     Santos v Sport Recife  0-0 (0-0)   @ Estádio Urbano Caldeira › Santos, São Paulo
-    21.30     Corinthians v Sao Paulo  0-0 (0-0)   @ Neo Química Arena › São Paulo, São Paulo
+    20:30     Santos v Sport Recife  0-0 (0-0)   @ Estádio Urbano Caldeira › Santos, São Paulo
+    21:30     Corinthians v Sao Paulo  0-0 (0-0)   @ Neo Química Arena › São Paulo, São Paulo
               Juventude v Gremio  2-0 (1-0)   @ Estádio Alfredo Jaconi › Caxias do Sul, Rio Grande do Sul
   Thu Jul 1
-    16.00     RB Bragantino v Ceara  0-0 (0-0)   @ Estádio Nabi Abi Chedid › Bragança Paulista, São Paulo
-    19.00     Atletico-MG v Atletico Goianiense  4-1 (3-1)   @ Estádio Governador Magalhães Pinto › Belo Horizonte, Minas Gerais
-    20.00     Cuiaba v Flamengo  0-2 (0-1)   @ Arena Pantanal › Cuiabá, Mato Grosso
-» Regular Season - 9
+    16:00     RB Bragantino v Ceara  0-0 (0-0)   @ Estádio Nabi Abi Chedid › Bragança Paulista, São Paulo
+    19:00     Atletico-MG v Atletico Goianiense  4-1 (3-1)   @ Estádio Governador Magalhães Pinto › Belo Horizonte, Minas Gerais
+    20:00     Cuiaba v Flamengo  0-2 (0-1)   @ Arena Pantanal › Cuiabá, Mato Grosso
+▪ Regular Season - 9
   Sat Jul 3
-    19.00     America Mineiro v Santos  2-0 (0-0)   @ Estádio Raimundo Sampaio › Belo Horizonte, Minas Gerais
+    19:00     America Mineiro v Santos  2-0 (0-0)   @ Estádio Raimundo Sampaio › Belo Horizonte, Minas Gerais
               Atletico Paranaense v Fortaleza EC  2-1 (2-0)   @ Arena da Baixada › Curitiba, Paraná
-    21.00     Corinthians v Internacional  1-1 (0-1)   @ Neo Química Arena › São Paulo, São Paulo
+    21:00     Corinthians v Internacional  1-1 (0-1)   @ Neo Química Arena › São Paulo, São Paulo
   Sun Jul 4
-    11.00     Chapecoense-sc v Bahia  0-2 (0-0)   @ Arena Condá › Chapecó, Santa Catarina
-    16.00     Flamengo v Fluminense  0-1 (0-0)   @ Neo Química Arena › São Paulo, São Paulo
+    11:00     Chapecoense-sc v Bahia  0-2 (0-0)   @ Arena Condá › Chapecó, Santa Catarina
+    16:00     Flamengo v Fluminense  0-1 (0-0)   @ Neo Química Arena › São Paulo, São Paulo
               Sport Recife v Palmeiras  0-1 (0-1)   @ Estádio Adelmar da Costa Carvalho › Recife, Pernambuco
-    18.15     Sao Paulo v RB Bragantino  1-2 (1-0)   @ Estádio Cícero Pompeu de Toledo › São Paulo, São Paulo
+    18:15     Sao Paulo v RB Bragantino  1-2 (1-0)   @ Estádio Cícero Pompeu de Toledo › São Paulo, São Paulo
               Ceara v Juventude  2-0 (0-0)   @ Estádio Governador Plácido Aderaldo Castelo › Fortaleza, Ceará
               Cuiaba v Atletico-MG  0-1 (0-1)   @ Arena Pantanal › Cuiabá, Mato Grosso
-    20.30     Gremio v Atletico Goianiense  0-1 (0-0)   @ Arena do Grêmio › Porto Alegre, Rio Grande do Sul
-» Regular Season - 10
+    20:30     Gremio v Atletico Goianiense  0-1 (0-0)   @ Arena do Grêmio › Porto Alegre, Rio Grande do Sul
+▪ Regular Season - 10
   Tue Jul 6
-    19.30     Santos v Atletico Paranaense  2-1 (1-1)   @ Estádio Urbano Caldeira › Santos, São Paulo
+    19:30     Santos v Atletico Paranaense  2-1 (1-1)   @ Estádio Urbano Caldeira › Santos, São Paulo
   Wed Jul 7
-    18.00     Fortaleza EC v America Mineiro  4-0 (1-0)   @ Estádio Governador Plácido Aderaldo Castelo › Fortaleza, Ceará
+    18:00     Fortaleza EC v America Mineiro  4-0 (1-0)   @ Estádio Governador Plácido Aderaldo Castelo › Fortaleza, Ceará
               RB Bragantino v Cuiaba  1-1 (1-0)   @ Estádio Nabi Abi Chedid › Bragança Paulista, São Paulo
               Bahia v Juventude  1-0 (0-0)   @ Estádio Governador Roberto Santos › Salvador de Bahia, Bahia
-    19.00     Palmeiras v Gremio  2-0 (2-0)   @ Allianz Parque › São Paulo, São Paulo
+    19:00     Palmeiras v Gremio  2-0 (2-0)   @ Allianz Parque › São Paulo, São Paulo
               Atletico-MG v Flamengo  2-1 (0-0)   @ Estádio Governador Magalhães Pinto › Belo Horizonte, Minas Gerais
-    19.15     Atletico Goianiense v Sport Recife  1-1 (0-0)   @ Estádio Antônio Accioly › Goiânia, Goiás
-    21.30     Fluminense v Ceara  0-0 (0-0)   @ Estádio Club de Regatas Vasco da Gama › Rio de Janeiro, Rio de Janeiro
+    19:15     Atletico Goianiense v Sport Recife  1-1 (0-0)   @ Estádio Antônio Accioly › Goiânia, Goiás
+    21:30     Fluminense v Ceara  0-0 (0-0)   @ Estádio Club de Regatas Vasco da Gama › Rio de Janeiro, Rio de Janeiro
               Internacional v Sao Paulo  0-2 (0-1)   @ Estádio José Pinheiro Borda › Porto Alegre, Rio Grande do Sul
   Thu Jul 8
-    21.00     Chapecoense-sc v Corinthians  0-1 (0-0)   @ Arena Condá › Chapecó, Santa Catarina
-» Regular Season - 11
+    21:00     Chapecoense-sc v Corinthians  0-1 (0-0)   @ Arena Condá › Chapecó, Santa Catarina
+▪ Regular Season - 11
   Sat Jul 10
-    16.30     Gremio v Internacional  0-0 (0-0)   @ Arena do Grêmio › Porto Alegre, Rio Grande do Sul
+    16:30     Gremio v Internacional  0-0 (0-0)   @ Arena do Grêmio › Porto Alegre, Rio Grande do Sul
               Palmeiras v Santos  3-2 (2-0)   @ Allianz Parque › São Paulo, São Paulo
-    17.30     Atletico Paranaense v RB Bragantino  2-2 (1-1)   @ Arena da Baixada › Curitiba, Paraná
-    19.00     Sport Recife v Fluminense  1-2 (1-0)   @ Estádio Adelmar da Costa Carvalho › Recife, Pernambuco
+    17:30     Atletico Paranaense v RB Bragantino  2-2 (1-1)   @ Arena da Baixada › Curitiba, Paraná
+    19:00     Sport Recife v Fluminense  1-2 (1-0)   @ Estádio Adelmar da Costa Carvalho › Recife, Pernambuco
               America Mineiro v Atletico-MG  0-1 (0-0)   @ Estádio Raimundo Sampaio › Belo Horizonte, Minas Gerais
               Sao Paulo v Bahia  1-0 (0-0)   @ Estádio Cícero Pompeu de Toledo › São Paulo, São Paulo
   Sun Jul 11
-    11.00     Juventude v Atletico Goianiense  1-1 (0-0)   @ Estádio Alfredo Jaconi › Caxias do Sul, Rio Grande do Sul
-    18.15     Cuiaba v Ceara  2-2 (1-0)   @ Arena Pantanal › Cuiabá, Mato Grosso
+    11:00     Juventude v Atletico Goianiense  1-1 (0-0)   @ Estádio Alfredo Jaconi › Caxias do Sul, Rio Grande do Sul
+    18:15     Cuiaba v Ceara  2-2 (1-0)   @ Arena Pantanal › Cuiabá, Mato Grosso
               Flamengo v Chapecoense-sc  2-1 (0-0)   @ Estadio Jornalista Mário Filho › Rio de Janeiro, Rio de Janeiro
-    20.30     Fortaleza EC v Corinthians  1-0 (1-0)   @ Estádio Municipal Presidente Getúlio Vargas › Fortaleza, Ceará
-» Regular Season - 12
+    20:30     Fortaleza EC v Corinthians  1-0 (1-0)   @ Estádio Municipal Presidente Getúlio Vargas › Fortaleza, Ceará
+▪ Regular Season - 12
   Sat Jul 17
-    17.00     Sao Paulo v Fortaleza EC  0-1 (0-0)   @ Estádio Cícero Pompeu de Toledo › São Paulo, São Paulo
+    17:00     Sao Paulo v Fortaleza EC  0-1 (0-0)   @ Estádio Cícero Pompeu de Toledo › São Paulo, São Paulo
               Ceara v Atletico Paranaense  1-0 (0-0)   @ Estádio Governador Plácido Aderaldo Castelo › Fortaleza, Ceará
-    19.00     Corinthians v Atletico-MG  1-2 (1-0)   @ Neo Química Arena › São Paulo, São Paulo
-    21.00     Fluminense v Gremio  0-1 (0-0)   @ Estadio Jornalista Mário Filho › Rio de Janeiro, Rio de Janeiro
+    19:00     Corinthians v Atletico-MG  1-2 (1-0)   @ Neo Química Arena › São Paulo, São Paulo
+    21:00     Fluminense v Gremio  0-1 (0-0)   @ Estadio Jornalista Mário Filho › Rio de Janeiro, Rio de Janeiro
   Sun Jul 18
-    11.00     Chapecoense-sc v Cuiaba  2-3 (2-2)   @ Arena Condá › Chapecó, Santa Catarina
-    16.00     Atletico Goianiense v Palmeiras  0-3 (0-0)   @ Estádio do Governo do Estado de Goiás › Goiânia, Goiás
-    18.15     Bahia v Flamengo  0-5 (0-2)   @ Arena Fonte Nova › Salvador, Bahia
-    20.30     Internacional v Juventude  1-0 (0-0)   @ Estádio José Pinheiro Borda › Porto Alegre, Rio Grande do Sul
+    11:00     Chapecoense-sc v Cuiaba  2-3 (2-2)   @ Arena Condá › Chapecó, Santa Catarina
+    16:00     Atletico Goianiense v Palmeiras  0-3 (0-0)   @ Estádio do Governo do Estado de Goiás › Goiânia, Goiás
+    18:15     Bahia v Flamengo  0-5 (0-2)   @ Arena Fonte Nova › Salvador, Bahia
+    20:30     Internacional v Juventude  1-0 (0-0)   @ Estádio José Pinheiro Borda › Porto Alegre, Rio Grande do Sul
               RB Bragantino v Santos  2-2 (1-0)   @ Estádio Nabi Abi Chedid › Bragança Paulista, São Paulo
   Mon Jul 19
-    20.00     America Mineiro v Sport Recife  0-1 (0-0)   @ Estádio Raimundo Sampaio › Belo Horizonte, Minas Gerais
-» Regular Season - 3
+    20:00     America Mineiro v Sport Recife  0-1 (0-0)   @ Estádio Raimundo Sampaio › Belo Horizonte, Minas Gerais
+▪ Regular Season - 3
   Wed Jul 21
-    19.00     Cuiaba v Atletico Goianiense  2-1 (1-0)   @ Arena Pantanal › Cuiabá, Mato Grosso
-» Regular Season - 13
+    19:00     Cuiaba v Atletico Goianiense  2-1 (1-0)   @ Arena Pantanal › Cuiabá, Mato Grosso
+▪ Regular Season - 13
   Sat Jul 24
-    17.00     Gremio v America Mineiro  1-1 (1-1)   @ Arena do Grêmio › Porto Alegre, Rio Grande do Sul
-    19.00     Palmeiras v Fluminense  1-0 (0-0)   @ Allianz Parque › São Paulo, São Paulo
+    17:00     Gremio v America Mineiro  1-1 (1-1)   @ Arena do Grêmio › Porto Alegre, Rio Grande do Sul
+    19:00     Palmeiras v Fluminense  1-0 (0-0)   @ Allianz Parque › São Paulo, São Paulo
   Sun Jul 25
-    11.00     Atletico-MG v Bahia  3-0 (0-0)   @ Estádio Governador Magalhães Pinto › Belo Horizonte, Minas Gerais
-    16.00     Fortaleza EC v RB Bragantino  1-0 (1-0)   @ Estádio Governador Plácido Aderaldo Castelo › Fortaleza, Ceará
+    11:00     Atletico-MG v Bahia  3-0 (0-0)   @ Estádio Governador Magalhães Pinto › Belo Horizonte, Minas Gerais
+    16:00     Fortaleza EC v RB Bragantino  1-0 (1-0)   @ Estádio Governador Plácido Aderaldo Castelo › Fortaleza, Ceará
               Flamengo v Sao Paulo  5-1 (0-0)   @ Estadio Jornalista Mário Filho › Rio de Janeiro, Rio de Janeiro
-    18.15     Atletico Paranaense v Internacional  2-1 (2-0)   @ Arena da Baixada › Curitiba, Paraná
+    18:15     Atletico Paranaense v Internacional  2-1 (2-0)   @ Arena da Baixada › Curitiba, Paraná
               Santos v Atletico Goianiense  0-1 (0-1)   @ Estádio Urbano Caldeira › Santos, São Paulo
-    20.30     Sport Recife v Ceara  0-0 (0-0)   @ Estádio Adelmar da Costa Carvalho › Recife, Pernambuco
+    20:30     Sport Recife v Ceara  0-0 (0-0)   @ Estádio Adelmar da Costa Carvalho › Recife, Pernambuco
   Mon Jul 26
-    18.00     Juventude v Chapecoense-sc  1-0 (1-0)   @ Estádio Alfredo Jaconi › Caxias do Sul, Rio Grande do Sul
-    20.00     Cuiaba v Corinthians  1-2 (0-2)   @ Arena Pantanal › Cuiabá, Mato Grosso
-» Regular Season - 14
+    18:00     Juventude v Chapecoense-sc  1-0 (1-0)   @ Estádio Alfredo Jaconi › Caxias do Sul, Rio Grande do Sul
+    20:00     Cuiaba v Corinthians  1-2 (0-2)   @ Arena Pantanal › Cuiabá, Mato Grosso
+▪ Regular Season - 14
   Sat Jul 31
-    19.00     Sao Paulo v Palmeiras  0-0 (0-0)   @ Estádio Cícero Pompeu de Toledo › São Paulo, São Paulo
-    20.00     Internacional v Cuiaba  0-0 (0-0)   @ Estádio José Pinheiro Borda › Porto Alegre, Rio Grande do Sul
-    21.00     RB Bragantino v Gremio  1-0 (0-0)   @ Estádio Nabi Abi Chedid › Bragança Paulista, São Paulo
+    19:00     Sao Paulo v Palmeiras  0-0 (0-0)   @ Estádio Cícero Pompeu de Toledo › São Paulo, São Paulo
+    20:00     Internacional v Cuiaba  0-0 (0-0)   @ Estádio José Pinheiro Borda › Porto Alegre, Rio Grande do Sul
+    21:00     RB Bragantino v Gremio  1-0 (0-0)   @ Estádio Nabi Abi Chedid › Bragança Paulista, São Paulo
   Sun Aug 1
-    16.00     Corinthians v Flamengo  1-3 (0-3)   @ Neo Química Arena › São Paulo, São Paulo
+    16:00     Corinthians v Flamengo  1-3 (0-3)   @ Neo Química Arena › São Paulo, São Paulo
               Atletico-MG v Atletico Paranaense  2-0 (0-0)   @ Estádio Governador Magalhães Pinto › Belo Horizonte, Minas Gerais
-    18.15     Chapecoense-sc v Santos  0-1 (0-1)   @ Arena Condá › Chapecó, Santa Catarina
+    18:15     Chapecoense-sc v Santos  0-1 (0-1)   @ Arena Condá › Chapecó, Santa Catarina
               Bahia v Sport Recife  0-1 (0-0)   @ Estádio Governador Roberto Santos › Salvador de Bahia, Bahia
-    20.30     Atletico Goianiense v America Mineiro  1-1 (1-1)   @ Estádio Antônio Accioly › Goiânia, Goiás
+    20:30     Atletico Goianiense v America Mineiro  1-1 (1-1)   @ Estádio Antônio Accioly › Goiânia, Goiás
               Ceara v Fortaleza EC  3-1 (1-1)   @ Estádio Governador Plácido Aderaldo Castelo › Fortaleza, Ceará
-» Regular Season - 15
+▪ Regular Season - 15
   Fri Aug 6
-    19.00     Sport Recife v RB Bragantino  0-0 (0-0)   @ Estádio Adelmar da Costa Carvalho › Recife, Pernambuco
+    19:00     Sport Recife v RB Bragantino  0-0 (0-0)   @ Estádio Adelmar da Costa Carvalho › Recife, Pernambuco
   Sat Aug 7
-    18.00     Atletico Paranaense v Sao Paulo  1-2 (1-2)   @ Arena da Baixada › Curitiba, Paraná
-    21.00     Cuiaba v Bahia  1-1 (1-1)   @ Arena Pantanal › Cuiabá, Mato Grosso
+    18:00     Atletico Paranaense v Sao Paulo  1-2 (1-2)   @ Arena da Baixada › Curitiba, Paraná
+    21:00     Cuiaba v Bahia  1-1 (1-1)   @ Arena Pantanal › Cuiabá, Mato Grosso
               Palmeiras v Fortaleza EC  2-3 (2-2)   @ Allianz Parque › São Paulo, São Paulo
   Sun Aug 8
-    16.00     Santos v Corinthians  0-0 (0-0)   @ Estádio Urbano Caldeira › Santos, São Paulo
+    16:00     Santos v Corinthians  0-0 (0-0)   @ Estádio Urbano Caldeira › Santos, São Paulo
               Juventude v Atletico-MG  1-2 (1-0)   @ Estádio Alfredo Jaconi › Caxias do Sul, Rio Grande do Sul
               America Mineiro v Fluminense  1-0 (0-0)   @ Estádio Raimundo Sampaio › Belo Horizonte, Minas Gerais
-    18.15     Flamengo v Internacional  0-4 (0-2)   @ Estadio Jornalista Mário Filho › Rio de Janeiro, Rio de Janeiro
+    18:15     Flamengo v Internacional  0-4 (0-2)   @ Estadio Jornalista Mário Filho › Rio de Janeiro, Rio de Janeiro
               Ceara v Atletico Goianiense  0-0 (0-0)   @ Estádio Governador Plácido Aderaldo Castelo › Fortaleza, Ceará
   Mon Aug 9
-    20.00     Gremio v Chapecoense-sc  2-1 (2-1)   @ Arena do Grêmio › Porto Alegre, Rio Grande do Sul
-» Regular Season - 16
+    20:00     Gremio v Chapecoense-sc  2-1 (2-1)   @ Arena do Grêmio › Porto Alegre, Rio Grande do Sul
+▪ Regular Season - 16
   Sat Aug 14
-    17.00     RB Bragantino v Juventude  1-2 (1-0)   @ Estádio Nabi Abi Chedid › Bragança Paulista, São Paulo
-    19.00     Atletico-MG v Palmeiras  2-0 (1-0)   @ Estádio Governador Magalhães Pinto › Belo Horizonte, Minas Gerais
-    21.00     Sao Paulo v Gremio  2-1 (1-1)   @ Estádio Cícero Pompeu de Toledo › São Paulo, São Paulo
+    17:00     RB Bragantino v Juventude  1-2 (1-0)   @ Estádio Nabi Abi Chedid › Bragança Paulista, São Paulo
+    19:00     Atletico-MG v Palmeiras  2-0 (1-0)   @ Estádio Governador Magalhães Pinto › Belo Horizonte, Minas Gerais
+    21:00     Sao Paulo v Gremio  2-1 (1-1)   @ Estádio Cícero Pompeu de Toledo › São Paulo, São Paulo
   Sun Aug 15
-    16.00     Flamengo v Sport Recife  2-0 (1-0)   @ Estádio Municipal General Raulino de Oliveira › Volta Redonda, Rio de Janeiro
+    16:00     Flamengo v Sport Recife  2-0 (1-0)   @ Estádio Municipal General Raulino de Oliveira › Volta Redonda, Rio de Janeiro
               Corinthians v Ceara  3-1 (2-0)   @ Neo Química Arena › São Paulo, São Paulo
-    18.15     Fortaleza EC v Santos  1-1 (1-1)   @ Estádio Governador Plácido Aderaldo Castelo › Fortaleza, Ceará
+    18:15     Fortaleza EC v Santos  1-1 (1-1)   @ Estádio Governador Plácido Aderaldo Castelo › Fortaleza, Ceará
               Cuiaba v Atletico Paranaense  1-0 (0-0)   @ Arena Pantanal › Cuiabá, Mato Grosso
               Bahia v Atletico Goianiense  1-2 (1-0)   @ Estádio Governador Roberto Santos › Salvador de Bahia, Bahia
-    20.30     Internacional v Fluminense  4-2 (1-1)   @ Estádio José Pinheiro Borda › Porto Alegre, Rio Grande do Sul
+    20:30     Internacional v Fluminense  4-2 (1-1)   @ Estádio José Pinheiro Borda › Porto Alegre, Rio Grande do Sul
   Mon Aug 16
-    20.00     Chapecoense-sc v America Mineiro  1-1 (0-0)   @ Arena Condá › Chapecó, Santa Catarina
-» Regular Season - 5
+    20:00     Chapecoense-sc v America Mineiro  1-1 (0-0)   @ Arena Condá › Chapecó, Santa Catarina
+▪ Regular Season - 5
   Wed Aug 18
-    19.00     Cuiaba v Gremio  0-1 (0-1)   @ Arena Pantanal › Cuiabá, Mato Grosso
-» Regular Season - 17
+    19:00     Cuiaba v Gremio  0-1 (0-1)   @ Arena Pantanal › Cuiabá, Mato Grosso
+▪ Regular Season - 17
   Sat Aug 21
-    17.00     Atletico Goianiense v Chapecoense-sc  1-1 (0-1)   @ Estádio Antônio Accioly › Goiânia, Goiás
-    19.00     Gremio v Bahia  2-0 (0-0)   @ Arena do Grêmio › Porto Alegre, Rio Grande do Sul
-    21.00     Juventude v Fortaleza EC  1-1 (0-1)   @ Estádio Alfredo Jaconi › Caxias do Sul, Rio Grande do Sul
+    17:00     Atletico Goianiense v Chapecoense-sc  1-1 (0-1)   @ Estádio Antônio Accioly › Goiânia, Goiás
+    19:00     Gremio v Bahia  2-0 (0-0)   @ Arena do Grêmio › Porto Alegre, Rio Grande do Sul
+    21:00     Juventude v Fortaleza EC  1-1 (0-1)   @ Estádio Alfredo Jaconi › Caxias do Sul, Rio Grande do Sul
   Sun Aug 22
-    11.00     Palmeiras v Cuiaba  0-2 (0-1)   @ Allianz Parque › São Paulo, São Paulo
-    16.00     Ceara v Flamengo  1-1 (1-0)   @ Estádio Governador Plácido Aderaldo Castelo › Fortaleza, Ceará
+    11:00     Palmeiras v Cuiaba  0-2 (0-1)   @ Allianz Parque › São Paulo, São Paulo
+    16:00     Ceara v Flamengo  1-1 (1-0)   @ Estádio Governador Plácido Aderaldo Castelo › Fortaleza, Ceará
               Atletico Paranaense v Corinthians  0-1 (0-0)   @ Arena da Baixada › Curitiba, Paraná
-    18.15     Santos v Internacional  2-2 (2-1)   @ Estádio Urbano Caldeira › Santos, São Paulo
-    20.30     Sport Recife v Sao Paulo  0-1 (0-1)   @ Estádio Adelmar da Costa Carvalho › Recife, Pernambuco
+    18:15     Santos v Internacional  2-2 (2-1)   @ Estádio Urbano Caldeira › Santos, São Paulo
+    20:30     Sport Recife v Sao Paulo  0-1 (0-1)   @ Estádio Adelmar da Costa Carvalho › Recife, Pernambuco
   Mon Aug 23
-    20.00     America Mineiro v RB Bragantino  0-2 (0-1)   @ Estádio Raimundo Sampaio › Belo Horizonte, Minas Gerais
+    20:00     America Mineiro v RB Bragantino  0-2 (0-1)   @ Estádio Raimundo Sampaio › Belo Horizonte, Minas Gerais
               Fluminense v Atletico-MG  1-1 (1-0)   @ Estádio Club de Regatas Vasco da Gama › Rio de Janeiro, Rio de Janeiro
-» Regular Season - 18
+▪ Regular Season - 18
   Sat Aug 28
-    17.00     Sport Recife v Chapecoense-sc  0-0 (0-0)   @ Estádio Adelmar da Costa Carvalho › Recife, Pernambuco
-    19.00     Santos v Flamengo  0-4 (0-0)   @ Estádio Urbano Caldeira › Santos, São Paulo
-    21.00     Gremio v Corinthians  0-1 (0-0)   @ Arena do Grêmio › Porto Alegre, Rio Grande do Sul
+    17:00     Sport Recife v Chapecoense-sc  0-0 (0-0)   @ Estádio Adelmar da Costa Carvalho › Recife, Pernambuco
+    19:00     Santos v Flamengo  0-4 (0-0)   @ Estádio Urbano Caldeira › Santos, São Paulo
+    21:00     Gremio v Corinthians  0-1 (0-0)   @ Arena do Grêmio › Porto Alegre, Rio Grande do Sul
               Palmeiras v Atletico Paranaense  2-1 (1-0)   @ Allianz Parque › São Paulo, São Paulo
   Sun Aug 29
-    11.00     America Mineiro v Ceara  2-0 (1-0)   @ Estádio Raimundo Sampaio › Belo Horizonte, Minas Gerais
-    16.00     Juventude v Sao Paulo  1-1 (0-0)   @ Estádio Alfredo Jaconi › Caxias do Sul, Rio Grande do Sul
-    18.15     Atletico Goianiense v Internacional  0-0 (0-0)   @ Estádio Antônio Accioly › Goiânia, Goiás
-    20.30     RB Bragantino v Atletico-MG  1-1 (1-0)   @ Estádio Nabi Abi Chedid › Bragança Paulista, São Paulo
+    11:00     America Mineiro v Ceara  2-0 (1-0)   @ Estádio Raimundo Sampaio › Belo Horizonte, Minas Gerais
+    16:00     Juventude v Sao Paulo  1-1 (0-0)   @ Estádio Alfredo Jaconi › Caxias do Sul, Rio Grande do Sul
+    18:15     Atletico Goianiense v Internacional  0-0 (0-0)   @ Estádio Antônio Accioly › Goiânia, Goiás
+    20:30     RB Bragantino v Atletico-MG  1-1 (1-0)   @ Estádio Nabi Abi Chedid › Bragança Paulista, São Paulo
   Mon Aug 30
-    19.00     Fluminense v Bahia  2-0 (1-0)   @ Estadio Jornalista Mário Filho › Rio de Janeiro, Rio de Janeiro
-    21.30     Fortaleza EC v Cuiaba  0-0 (0-0)   @ Estádio Governador Plácido Aderaldo Castelo › Fortaleza, Ceará
-» Regular Season - 14
+    19:00     Fluminense v Bahia  2-0 (1-0)   @ Estadio Jornalista Mário Filho › Rio de Janeiro, Rio de Janeiro
+    21:30     Fortaleza EC v Cuiaba  0-0 (0-0)   @ Estádio Governador Plácido Aderaldo Castelo › Fortaleza, Ceará
+▪ Regular Season - 14
   Thu Sep 2
-    19.00     Fluminense v Juventude  1-1 (0-0)   @ Estadio Jornalista Mário Filho › Rio de Janeiro, Rio de Janeiro
-» Regular Season - 19
+    19:00     Fluminense v Juventude  1-1 (0-0)   @ Estadio Jornalista Mário Filho › Rio de Janeiro, Rio de Janeiro
+▪ Regular Season - 19
   Sat Sep 4
-    21.00     Bahia v Fortaleza EC  4-2 (1-0)   @ Estádio Governador Roberto Santos › Salvador de Bahia, Bahia
+    21:00     Bahia v Fortaleza EC  4-2 (1-0)   @ Estádio Governador Roberto Santos › Salvador de Bahia, Bahia
               Cuiaba v Santos  2-1 (1-0)   @ Arena Pantanal › Cuiabá, Mato Grosso
   Sun Sep 5
-    18.15     Atletico Paranaense v Sport Recife  0-0 (0-0)   @ Arena da Baixada › Curitiba, Paraná
+    18:15     Atletico Paranaense v Sport Recife  0-0 (0-0)   @ Arena da Baixada › Curitiba, Paraná
   Tue Sep 7
-    21.30     Chapecoense-sc v Fluminense  1-2 (0-2)   @ Arena Condá › Chapecó, Santa Catarina
+    21:30     Chapecoense-sc v Fluminense  1-2 (0-2)   @ Arena Condá › Chapecó, Santa Catarina
               Corinthians v Juventude  1-1 (0-1)   @ Neo Química Arena › São Paulo, São Paulo
-» Regular Season - 20
+▪ Regular Season - 20
   Sat Sep 11
-    16.00     America Mineiro v Atletico Paranaense  2-0 (0-0)   @ Estádio Raimundo Sampaio › Belo Horizonte, Minas Gerais
-    17.00     Juventude v Cuiaba  1-2 (0-1)   @ Estádio Alfredo Jaconi › Caxias do Sul, Rio Grande do Sul
-    19.00     RB Bragantino v Chapecoense-sc  1-2 (1-0)   @ Estádio Nabi Abi Chedid › Bragança Paulista, São Paulo
-    21.00     Santos v Bahia  0-0 (0-0)   @ Estádio Urbano Caldeira › Santos, São Paulo
+    16:00     America Mineiro v Atletico Paranaense  2-0 (0-0)   @ Estádio Raimundo Sampaio › Belo Horizonte, Minas Gerais
+    17:00     Juventude v Cuiaba  1-2 (0-1)   @ Estádio Alfredo Jaconi › Caxias do Sul, Rio Grande do Sul
+    19:00     RB Bragantino v Chapecoense-sc  1-2 (1-0)   @ Estádio Nabi Abi Chedid › Bragança Paulista, São Paulo
+    21:00     Santos v Bahia  0-0 (0-0)   @ Estádio Urbano Caldeira › Santos, São Paulo
   Sun Sep 12
-    11.00     Gremio v Ceara  2-0 (2-0)   @ Arena do Grêmio › Porto Alegre, Rio Grande do Sul
-    16.00     Fortaleza EC v Atletico-MG  0-2 (0-0)   @ Estádio Governador Plácido Aderaldo Castelo › Fortaleza, Ceará
+    11:00     Gremio v Ceara  2-0 (2-0)   @ Arena do Grêmio › Porto Alegre, Rio Grande do Sul
+    16:00     Fortaleza EC v Atletico-MG  0-2 (0-0)   @ Estádio Governador Plácido Aderaldo Castelo › Fortaleza, Ceará
               Palmeiras v Flamengo  1-3 (1-1)   @ Allianz Parque › São Paulo, São Paulo
-    18.15     Atletico Goianiense v Corinthians  1-1 (0-0)   @ Estádio Antônio Accioly › Goiânia, Goiás
-    20.30     Fluminense v Sao Paulo  2-1 (0-0)   @ Estadio Jornalista Mário Filho › Rio de Janeiro, Rio de Janeiro
+    18:15     Atletico Goianiense v Corinthians  1-1 (0-0)   @ Estádio Antônio Accioly › Goiânia, Goiás
+    20:30     Fluminense v Sao Paulo  2-1 (0-0)   @ Estadio Jornalista Mário Filho › Rio de Janeiro, Rio de Janeiro
   Mon Sep 13
-    20.00     Sport Recife v Internacional  0-1 (0-1)   @ Estádio Adelmar da Costa Carvalho › Recife, Pernambuco
-» Regular Season - 21
+    20:00     Sport Recife v Internacional  0-1 (0-1)   @ Estádio Adelmar da Costa Carvalho › Recife, Pernambuco
+▪ Regular Season - 21
   Sat Sep 18
-    17.00     Chapecoense-sc v Palmeiras  0-2 (0-2)   @ Arena Condá › Chapecó, Santa Catarina
-    18.45     Atletico Paranaense v Juventude  2-1 (0-0)   @ Arena da Baixada › Curitiba, Paraná
-    19.00     Atletico-MG v Sport Recife  3-0 (2-0)   @ Estádio Governador Magalhães Pinto › Belo Horizonte, Minas Gerais
-    21.00     Bahia v RB Bragantino  1-1 (0-0)   @ Arena Fonte Nova › Salvador, Bahia
+    17:00     Chapecoense-sc v Palmeiras  0-2 (0-2)   @ Arena Condá › Chapecó, Santa Catarina
+    18:45     Atletico Paranaense v Juventude  2-1 (0-0)   @ Arena da Baixada › Curitiba, Paraná
+    19:00     Atletico-MG v Sport Recife  3-0 (2-0)   @ Estádio Governador Magalhães Pinto › Belo Horizonte, Minas Gerais
+    21:00     Bahia v RB Bragantino  1-1 (0-0)   @ Arena Fonte Nova › Salvador, Bahia
               Ceara v Santos  0-0 (0-0)   @ Estádio Governador Plácido Aderaldo Castelo › Fortaleza, Ceará
   Sun Sep 19
-    11.00     Internacional v Fortaleza EC  1-0 (0-0)   @ Estádio José Pinheiro Borda › Porto Alegre, Rio Grande do Sul
-    16.00     Sao Paulo v Atletico Goianiense  2-1 (1-0)   @ Estádio Cícero Pompeu de Toledo › São Paulo, São Paulo
-    18.15     Corinthians v America Mineiro  1-1 (1-1)   @ Neo Química Arena › São Paulo, São Paulo
-    20.30     Flamengo v Gremio  0-1 (0-1)   @ Estadio Jornalista Mário Filho › Rio de Janeiro, Rio de Janeiro
+    11:00     Internacional v Fortaleza EC  1-0 (0-0)   @ Estádio José Pinheiro Borda › Porto Alegre, Rio Grande do Sul
+    16:00     Sao Paulo v Atletico Goianiense  2-1 (1-0)   @ Estádio Cícero Pompeu de Toledo › São Paulo, São Paulo
+    18:15     Corinthians v America Mineiro  1-1 (1-1)   @ Neo Química Arena › São Paulo, São Paulo
+    20:30     Flamengo v Gremio  0-1 (0-1)   @ Estadio Jornalista Mário Filho › Rio de Janeiro, Rio de Janeiro
   Mon Sep 20
-    20.00     Cuiaba v Fluminense  2-2 (1-2)   @ Arena Pantanal › Cuiabá, Mato Grosso
-» Regular Season - 19
+    20:00     Cuiaba v Fluminense  2-2 (1-2)   @ Arena Pantanal › Cuiabá, Mato Grosso
+▪ Regular Season - 19
   Wed Sep 22
-    20.30     Sao Paulo v America Mineiro  0-0 (0-0)   @ Estádio Cícero Pompeu de Toledo › São Paulo, São Paulo
-» Regular Season - 22
+    20:30     Sao Paulo v America Mineiro  0-0 (0-0)   @ Estádio Cícero Pompeu de Toledo › São Paulo, São Paulo
+▪ Regular Season - 22
   Sat Sep 25
-    17.00     Ceara v Chapecoense-sc  1-0 (0-0)   @ Estádio Governador Plácido Aderaldo Castelo › Fortaleza, Ceará
-    19.00     Corinthians v Palmeiras  2-1 (1-1)   @ Neo Química Arena › São Paulo, São Paulo
-    21.00     Sao Paulo v Atletico-MG  0-0 (0-0)   @ Estádio Cícero Pompeu de Toledo › São Paulo, São Paulo
+    17:00     Ceara v Chapecoense-sc  1-0 (0-0)   @ Estádio Governador Plácido Aderaldo Castelo › Fortaleza, Ceará
+    19:00     Corinthians v Palmeiras  2-1 (1-1)   @ Neo Química Arena › São Paulo, São Paulo
+    21:00     Sao Paulo v Atletico-MG  0-0 (0-0)   @ Estádio Cícero Pompeu de Toledo › São Paulo, São Paulo
   Sun Sep 26
-    11.00     America Mineiro v Flamengo  1-1 (0-0)   @ Estádio Raimundo Sampaio › Belo Horizonte, Minas Gerais
-    16.00     Internacional v Bahia  2-0 (1-0)   @ Estádio José Pinheiro Borda › Porto Alegre, Rio Grande do Sul
+    11:00     America Mineiro v Flamengo  1-1 (0-0)   @ Estádio Raimundo Sampaio › Belo Horizonte, Minas Gerais
+    16:00     Internacional v Bahia  2-0 (1-0)   @ Estádio José Pinheiro Borda › Porto Alegre, Rio Grande do Sul
               Fluminense v RB Bragantino  2-1 (2-0)   @ Estadio Jornalista Mário Filho › Rio de Janeiro, Rio de Janeiro
               Juventude v Santos  3-0 (1-0)   @ Estádio Alfredo Jaconi › Caxias do Sul, Rio Grande do Sul
-    18.15     Atletico Paranaense v Gremio  4-2 (2-0)   @ Arena da Baixada › Curitiba, Paraná
+    18:15     Atletico Paranaense v Gremio  4-2 (2-0)   @ Arena da Baixada › Curitiba, Paraná
               Sport Recife v Fortaleza EC  0-1 (0-1)   @ Itaipava Arena Pernambuco › Recife, Pernambuco
-    20.30     Atletico Goianiense v Cuiaba  0-0 (0-0)   @ Estádio Antônio Accioly › Goiânia, Goiás
-» Regular Season - 23
+    20:30     Atletico Goianiense v Cuiaba  0-0 (0-0)   @ Estádio Antônio Accioly › Goiânia, Goiás
+▪ Regular Season - 23
   Sat Oct 2
-    17.00     Fortaleza EC v Atletico Goianiense  0-3 (0-1)   @ Estádio Governador Plácido Aderaldo Castelo › Fortaleza, Ceará
+    17:00     Fortaleza EC v Atletico Goianiense  0-3 (0-1)   @ Estádio Governador Plácido Aderaldo Castelo › Fortaleza, Ceará
               Cuiaba v America Mineiro  0-2 (0-1)   @ Arena Pantanal › Cuiabá, Mato Grosso
-    19.00     RB Bragantino v Corinthians  2-2 (0-0)   @ Estádio Nabi Abi Chedid › Bragança Paulista, São Paulo
-    21.00     Atletico-MG v Internacional  1-0 (0-0)   @ Estádio Governador Magalhães Pinto › Belo Horizonte, Minas Gerais
+    19:00     RB Bragantino v Corinthians  2-2 (0-0)   @ Estádio Nabi Abi Chedid › Bragança Paulista, São Paulo
+    21:00     Atletico-MG v Internacional  1-0 (0-0)   @ Estádio Governador Magalhães Pinto › Belo Horizonte, Minas Gerais
   Sun Oct 3
-    16.00     Chapecoense-sc v Sao Paulo  1-1 (0-1)   @ Arena Condá › Chapecó, Santa Catarina
+    16:00     Chapecoense-sc v Sao Paulo  1-1 (0-1)   @ Arena Condá › Chapecó, Santa Catarina
               Flamengo v Atletico Paranaense  3-0 (3-0)   @ Estadio Jornalista Mário Filho › Rio de Janeiro, Rio de Janeiro
-    18.15     Palmeiras v Juventude  1-1 (1-1)   @ Allianz Parque › São Paulo, São Paulo
-    20.30     Gremio v Sport Recife  1-2 (0-0)   @ Arena do Grêmio › Porto Alegre, Rio Grande do Sul
-» Regular Season - 24
+    18:15     Palmeiras v Juventude  1-1 (1-1)   @ Allianz Parque › São Paulo, São Paulo
+    20:30     Gremio v Sport Recife  1-2 (0-0)   @ Arena do Grêmio › Porto Alegre, Rio Grande do Sul
+▪ Regular Season - 24
   Tue Oct 5
-    21.30     Corinthians v Bahia  3-1 (1-1)   @ Neo Química Arena › São Paulo, São Paulo
+    21:30     Corinthians v Bahia  3-1 (1-1)   @ Neo Química Arena › São Paulo, São Paulo
   Wed Oct 6
-    19.00     Sport Recife v Juventude  3-1 (1-0)   @ Itaipava Arena Pernambuco › Recife, Pernambuco
+    19:00     Sport Recife v Juventude  3-1 (1-0)   @ Itaipava Arena Pernambuco › Recife, Pernambuco
               Ceara v Internacional  0-0 (0-0)   @ Estádio Governador Plácido Aderaldo Castelo › Fortaleza, Ceará
               Chapecoense-sc v Atletico-MG  2-2 (1-1)   @ Arena Condá › Chapecó, Santa Catarina
               Atletico Goianiense v Atletico Paranaense  0-2 (0-1)   @ Estádio Antônio Accioly › Goiânia, Goiás
-    20.30     RB Bragantino v Flamengo  1-1 (0-1)   @ Estádio Nabi Abi Chedid › Bragança Paulista, São Paulo
-    21.30     America Mineiro v Palmeiras  2-1 (0-1)   @ Estádio Raimundo Sampaio › Belo Horizonte, Minas Gerais
+    20:30     RB Bragantino v Flamengo  1-1 (0-1)   @ Estádio Nabi Abi Chedid › Bragança Paulista, São Paulo
+    21:30     America Mineiro v Palmeiras  2-1 (0-1)   @ Estádio Raimundo Sampaio › Belo Horizonte, Minas Gerais
               Gremio v Cuiaba  2-2 (0-1)   @ Arena do Grêmio › Porto Alegre, Rio Grande do Sul
               Fluminense v Fortaleza EC  0-2 (0-0)   @ Estadio Jornalista Mário Filho › Rio de Janeiro, Rio de Janeiro
   Thu Oct 7
-    18.30     Sao Paulo v Santos  1-1 (1-1)   @ Estádio Cícero Pompeu de Toledo › São Paulo, São Paulo
-» Regular Season - 25
+    18:30     Sao Paulo v Santos  1-1 (1-1)   @ Estádio Cícero Pompeu de Toledo › São Paulo, São Paulo
+▪ Regular Season - 25
   Sat Oct 9
-    16.30     Sport Recife v Corinthians  1-0 (0-0)   @ Itaipava Arena Pernambuco › Recife, Pernambuco
+    16:30     Sport Recife v Corinthians  1-0 (0-0)   @ Itaipava Arena Pernambuco › Recife, Pernambuco
               Fluminense v Atletico Goianiense  0-0 (0-0)   @ Estadio Jornalista Mário Filho › Rio de Janeiro, Rio de Janeiro
               Atletico-MG v Ceara  3-1 (2-0)   @ Estádio Governador Magalhães Pinto › Belo Horizonte, Minas Gerais
-    19.00     Fortaleza EC v Flamengo  0-3 (0-0)   @ Estádio Governador Plácido Aderaldo Castelo › Fortaleza, Ceará
+    19:00     Fortaleza EC v Flamengo  0-3 (0-0)   @ Estádio Governador Plácido Aderaldo Castelo › Fortaleza, Ceará
               Atletico Paranaense v Bahia  0-2 (0-1)   @ Arena da Baixada › Curitiba, Paraná
-    21.00     Palmeiras v RB Bragantino  2-4 (1-3)   @ Allianz Parque › São Paulo, São Paulo
+    21:00     Palmeiras v RB Bragantino  2-4 (1-3)   @ Allianz Parque › São Paulo, São Paulo
               Juventude v America Mineiro  1-1 (1-1)   @ Estádio Alfredo Jaconi › Caxias do Sul, Rio Grande do Sul
   Sun Oct 10
-    11.00     Internacional v Chapecoense-sc  5-2 (4-0)   @ Estádio José Pinheiro Borda › Porto Alegre, Rio Grande do Sul
-    16.00     Santos v Gremio  1-0 (0-0)   @ Estádio Urbano Caldeira › Santos, São Paulo
+    11:00     Internacional v Chapecoense-sc  5-2 (4-0)   @ Estádio José Pinheiro Borda › Porto Alegre, Rio Grande do Sul
+    16:00     Santos v Gremio  1-0 (0-0)   @ Estádio Urbano Caldeira › Santos, São Paulo
   Mon Oct 11
-    20.00     Cuiaba v Sao Paulo  0-0 (0-0)   @ Arena Pantanal › Cuiabá, Mato Grosso
-» Regular Season - 26
+    20:00     Cuiaba v Sao Paulo  0-0 (0-0)   @ Arena Pantanal › Cuiabá, Mato Grosso
+▪ Regular Season - 26
   Tue Oct 12
-    19.00     RB Bragantino v Atletico Goianiense  1-0 (0-0)   @ Estádio Nabi Abi Chedid › Bragança Paulista, São Paulo
-    21.30     Bahia v Palmeiras  0-0 (0-0)   @ Arena Fonte Nova › Salvador, Bahia
+    19:00     RB Bragantino v Atletico Goianiense  1-0 (0-0)   @ Estádio Nabi Abi Chedid › Bragança Paulista, São Paulo
+    21:30     Bahia v Palmeiras  0-0 (0-0)   @ Arena Fonte Nova › Salvador, Bahia
   Wed Oct 13
-    19.00     Flamengo v Juventude  3-1 (3-0)   @ Estadio Jornalista Mário Filho › Rio de Janeiro, Rio de Janeiro
+    19:00     Flamengo v Juventude  3-1 (3-0)   @ Estadio Jornalista Mário Filho › Rio de Janeiro, Rio de Janeiro
               Chapecoense-sc v Atletico Paranaense  1-1 (0-0)   @ Arena Condá › Chapecó, Santa Catarina
               Atletico-MG v Santos  3-1 (0-0)   @ Estádio Governador Magalhães Pinto › Belo Horizonte, Minas Gerais
-    20.30     Fortaleza EC v Gremio  1-0 (0-0)   @ Estádio Governador Plácido Aderaldo Castelo › Fortaleza, Ceará
-    21.00     Corinthians v Fluminense  1-0 (0-0)   @ Neo Química Arena › São Paulo, São Paulo
-    21.30     Internacional v America Mineiro  3-1 (1-1)   @ Estádio José Pinheiro Borda › Porto Alegre, Rio Grande do Sul
+    20:30     Fortaleza EC v Gremio  1-0 (0-0)   @ Estádio Governador Plácido Aderaldo Castelo › Fortaleza, Ceará
+    21:00     Corinthians v Fluminense  1-0 (0-0)   @ Neo Química Arena › São Paulo, São Paulo
+    21:30     Internacional v America Mineiro  3-1 (1-1)   @ Estádio José Pinheiro Borda › Porto Alegre, Rio Grande do Sul
   Thu Oct 14
-    19.00     Sao Paulo v Ceara  1-1 (0-1)   @ Estádio Cícero Pompeu de Toledo › São Paulo, São Paulo
+    19:00     Sao Paulo v Ceara  1-1 (0-1)   @ Estádio Cícero Pompeu de Toledo › São Paulo, São Paulo
               Cuiaba v Sport Recife  1-0 (0-0)   @ Arena Pantanal › Cuiabá, Mato Grosso
-» Regular Season - 27
+▪ Regular Season - 27
   Sat Oct 16
-    19.00     Chapecoense-sc v Fortaleza EC  1-2 (1-1)   @ Arena Condá › Chapecó, Santa Catarina
-    21.00     America Mineiro v Bahia  0-0 (0-0)   @ Estádio Raimundo Sampaio › Belo Horizonte, Minas Gerais
+    19:00     Chapecoense-sc v Fortaleza EC  1-2 (1-1)   @ Arena Condá › Chapecó, Santa Catarina
+    21:00     America Mineiro v Bahia  0-0 (0-0)   @ Estádio Raimundo Sampaio › Belo Horizonte, Minas Gerais
   Sun Oct 17
-    16.00     Atletico Paranaense v Fluminense  0-1 (0-1)   @ Arena da Baixada › Curitiba, Paraná
+    16:00     Atletico Paranaense v Fluminense  0-1 (0-1)   @ Arena da Baixada › Curitiba, Paraná
               Palmeiras v Internacional  1-0 (0-0)   @ Allianz Parque › São Paulo, São Paulo
-    18.15     Ceara v RB Bragantino  2-2 (0-1)   @ Estádio Governador Plácido Aderaldo Castelo › Fortaleza, Ceará
+    18:15     Ceara v RB Bragantino  2-2 (0-1)   @ Estádio Governador Plácido Aderaldo Castelo › Fortaleza, Ceará
               Gremio v Juventude  3-2 (2-0)   @ Arena do Grêmio › Porto Alegre, Rio Grande do Sul
               Atletico Goianiense v Atletico-MG  2-1 (0-0)   @ Estádio Antônio Accioly › Goiânia, Goiás
-    20.30     Flamengo v Cuiaba  0-0 (0-0)   @ Estadio Jornalista Mário Filho › Rio de Janeiro, Rio de Janeiro
+    20:30     Flamengo v Cuiaba  0-0 (0-0)   @ Estadio Jornalista Mário Filho › Rio de Janeiro, Rio de Janeiro
               Sport Recife v Santos  0-0 (0-0)   @ Estádio Adelmar da Costa Carvalho › Recife, Pernambuco
   Mon Oct 18
-    20.00     Sao Paulo v Corinthians  1-0 (1-0)   @ Estádio Cícero Pompeu de Toledo › São Paulo, São Paulo
-» Regular Season - 19
+    20:00     Sao Paulo v Corinthians  1-0 (1-0)   @ Estádio Cícero Pompeu de Toledo › São Paulo, São Paulo
+▪ Regular Season - 19
   Wed Oct 20
-    19.00     Ceara v Palmeiras  1-2 (0-1)   @ Estádio Governador Plácido Aderaldo Castelo › Fortaleza, Ceará
+    19:00     Ceara v Palmeiras  1-2 (0-1)   @ Estádio Governador Plácido Aderaldo Castelo › Fortaleza, Ceará
   Thu Oct 21
-    20.00     Internacional v RB Bragantino  1-1 (1-0)   @ Estádio José Pinheiro Borda › Porto Alegre, Rio Grande do Sul
-» Regular Season - 28
+    20:00     Internacional v RB Bragantino  1-1 (1-0)   @ Estádio José Pinheiro Borda › Porto Alegre, Rio Grande do Sul
+▪ Regular Season - 28
   Sat Oct 23
-    17.00     Juventude v Ceara  0-0 (0-0)   @ Estádio Alfredo Jaconi › Caxias do Sul, Rio Grande do Sul
+    17:00     Juventude v Ceara  0-0 (0-0)   @ Estádio Alfredo Jaconi › Caxias do Sul, Rio Grande do Sul
               Santos v America Mineiro  0-2 (0-1)   @ Estádio Urbano Caldeira › Santos, São Paulo
-    19.00     Fluminense v Flamengo  3-1 (1-0)   @ Estadio Jornalista Mário Filho › Rio de Janeiro, Rio de Janeiro
-    19.15     Fortaleza EC v Atletico Paranaense  3-0 (2-0)   @ Estádio Governador Plácido Aderaldo Castelo › Fortaleza, Ceará
+    19:00     Fluminense v Flamengo  3-1 (1-0)   @ Estadio Jornalista Mário Filho › Rio de Janeiro, Rio de Janeiro
+    19:15     Fortaleza EC v Atletico Paranaense  3-0 (2-0)   @ Estádio Governador Plácido Aderaldo Castelo › Fortaleza, Ceará
   Sun Oct 24
-    16.00     Internacional v Corinthians  2-2 (1-0)   @ Estádio José Pinheiro Borda › Porto Alegre, Rio Grande do Sul
+    16:00     Internacional v Corinthians  2-2 (1-0)   @ Estádio José Pinheiro Borda › Porto Alegre, Rio Grande do Sul
               Atletico-MG v Cuiaba  2-1 (2-1)   @ Estádio Governador Magalhães Pinto › Belo Horizonte, Minas Gerais
-    18.15     RB Bragantino v Sao Paulo  1-0 (0-0)   @ Estádio Nabi Abi Chedid › Bragança Paulista, São Paulo
-    20.30     Bahia v Chapecoense-sc  3-0 (2-0)   @ Arena Fonte Nova › Salvador, Bahia
+    18:15     RB Bragantino v Sao Paulo  1-0 (0-0)   @ Estádio Nabi Abi Chedid › Bragança Paulista, São Paulo
+    20:30     Bahia v Chapecoense-sc  3-0 (2-0)   @ Arena Fonte Nova › Salvador, Bahia
   Mon Oct 25
-    20.00     Atletico Goianiense v Gremio  2-0 (1-0)   @ Estádio Antônio Accioly › Goiânia, Goiás
-    21.30     Palmeiras v Sport Recife  2-1 (0-1)   @ Allianz Parque › São Paulo, São Paulo
-» Regular Season - 23
+    20:00     Atletico Goianiense v Gremio  2-0 (1-0)   @ Estádio Antônio Accioly › Goiânia, Goiás
+    21:30     Palmeiras v Sport Recife  2-1 (0-1)   @ Allianz Parque › São Paulo, São Paulo
+▪ Regular Season - 23
   Wed Oct 27
-    19.00     Bahia v Ceara  1-1 (0-0)   @ Arena Fonte Nova › Salvador, Bahia
+    19:00     Bahia v Ceara  1-1 (0-0)   @ Arena Fonte Nova › Salvador, Bahia
               Santos v Fluminense  2-0 (1-0)   @ Estádio Urbano Caldeira › Santos, São Paulo
-» Regular Season - 34
+▪ Regular Season - 34
   Thu Oct 28
-    19.00     RB Bragantino v Sport Recife  3-0 (1-0)   @ Estádio Nabi Abi Chedid › Bragança Paulista, São Paulo
-» Regular Season - 29
+    19:00     RB Bragantino v Sport Recife  3-0 (1-0)   @ Estádio Nabi Abi Chedid › Bragança Paulista, São Paulo
+▪ Regular Season - 29
   Sat Oct 30
-    17.00     Atletico Paranaense v Santos  0-1 (0-0)   @ Arena da Baixada › Curitiba, Paraná
-    20.00     Flamengo v Atletico-MG  1-0 (1-0)   @ Estadio Jornalista Mário Filho › Rio de Janeiro, Rio de Janeiro
-    20.15     Juventude v Bahia  0-0 (0-0)   @ Estádio Alfredo Jaconi › Caxias do Sul, Rio Grande do Sul
-    22.00     America Mineiro v Fortaleza EC  2-1 (1-0)   @ Estádio Raimundo Sampaio › Belo Horizonte, Minas Gerais
+    17:00     Atletico Paranaense v Santos  0-1 (0-0)   @ Arena da Baixada › Curitiba, Paraná
+    20:00     Flamengo v Atletico-MG  1-0 (1-0)   @ Estadio Jornalista Mário Filho › Rio de Janeiro, Rio de Janeiro
+    20:15     Juventude v Bahia  0-0 (0-0)   @ Estádio Alfredo Jaconi › Caxias do Sul, Rio Grande do Sul
+    22:00     America Mineiro v Fortaleza EC  2-1 (1-0)   @ Estádio Raimundo Sampaio › Belo Horizonte, Minas Gerais
   Sun Oct 31
-    16.00     Gremio v Palmeiras  1-3 (1-2)   @ Arena do Grêmio › Porto Alegre, Rio Grande do Sul
+    16:00     Gremio v Palmeiras  1-3 (1-2)   @ Arena do Grêmio › Porto Alegre, Rio Grande do Sul
               Ceara v Fluminense  1-0 (1-0)   @ Estádio Governador Plácido Aderaldo Castelo › Fortaleza, Ceará
-    18.15     Sao Paulo v Internacional  1-0 (1-0)   @ Estádio Cícero Pompeu de Toledo › São Paulo, São Paulo
-    20.30     Sport Recife v Atletico Goianiense  2-0 (0-0)   @ Itaipava Arena Pernambuco › Recife, Pernambuco
+    18:15     Sao Paulo v Internacional  1-0 (1-0)   @ Estádio Cícero Pompeu de Toledo › São Paulo, São Paulo
+    20:30     Sport Recife v Atletico Goianiense  2-0 (0-0)   @ Itaipava Arena Pernambuco › Recife, Pernambuco
   Mon Nov 1
-    20.00     Cuiaba v RB Bragantino  1-0 (0-0)   @ Arena Pantanal › Cuiabá, Mato Grosso
-    21.30     Corinthians v Chapecoense-sc  1-0 (0-0)   @ Neo Química Arena › São Paulo, São Paulo
-» Regular Season - 4
+    20:00     Cuiaba v RB Bragantino  1-0 (0-0)   @ Arena Pantanal › Cuiabá, Mato Grosso
+    21:30     Corinthians v Chapecoense-sc  1-0 (0-0)   @ Neo Química Arena › São Paulo, São Paulo
+▪ Regular Season - 4
   Tue Nov 2
-    16.00     Atletico Paranaense v Flamengo  2-2 (0-2)   @ Arena da Baixada › Curitiba, Paraná
-» Regular Season - 19
+    16:00     Atletico Paranaense v Flamengo  2-2 (0-2)   @ Arena da Baixada › Curitiba, Paraná
+▪ Regular Season - 19
   Wed Nov 3
-    21.00     Atletico-MG v Gremio  2-1 (1-0)   @ Estádio Governador Magalhães Pinto › Belo Horizonte, Minas Gerais
-» Regular Season - 31
+    21:00     Atletico-MG v Gremio  2-1 (1-0)   @ Estádio Governador Magalhães Pinto › Belo Horizonte, Minas Gerais
+▪ Regular Season - 31
   Thu Nov 4
-    21.00     Cuiaba v Chapecoense-sc  0-0 (0-0)   @ Arena Pantanal › Cuiabá, Mato Grosso
-» Regular Season - 19
+    21:00     Cuiaba v Chapecoense-sc  0-0 (0-0)   @ Arena Pantanal › Cuiabá, Mato Grosso
+▪ Regular Season - 19
   Fri Nov 5
-    21.30     Flamengo v Atletico Goianiense  2-0 (1-0)   @ Estadio Jornalista Mário Filho › Rio de Janeiro, Rio de Janeiro
-» Regular Season - 30
+    21:30     Flamengo v Atletico Goianiense  2-0 (1-0)   @ Estadio Jornalista Mário Filho › Rio de Janeiro, Rio de Janeiro
+▪ Regular Season - 30
   Sat Nov 6
-    17.00     Corinthians v Fortaleza EC  1-0 (0-0)   @ Neo Química Arena › São Paulo, São Paulo
-    19.00     Internacional v Gremio  1-0 (1-0)   @ Estádio José Pinheiro Borda › Porto Alegre, Rio Grande do Sul
-    21.00     Fluminense v Sport Recife  1-0 (0-0)   @ Estadio Jornalista Mário Filho › Rio de Janeiro, Rio de Janeiro
+    17:00     Corinthians v Fortaleza EC  1-0 (0-0)   @ Neo Química Arena › São Paulo, São Paulo
+    19:00     Internacional v Gremio  1-0 (1-0)   @ Estádio José Pinheiro Borda › Porto Alegre, Rio Grande do Sul
+    21:00     Fluminense v Sport Recife  1-0 (0-0)   @ Estadio Jornalista Mário Filho › Rio de Janeiro, Rio de Janeiro
   Sun Nov 7
-    16.00     RB Bragantino v Atletico Paranaense  0-2 (0-0)   @ Estádio Nabi Abi Chedid › Bragança Paulista, São Paulo
+    16:00     RB Bragantino v Atletico Paranaense  0-2 (0-0)   @ Estádio Nabi Abi Chedid › Bragança Paulista, São Paulo
               Atletico-MG v America Mineiro  1-0 (0-0)   @ Estádio Governador Magalhães Pinto › Belo Horizonte, Minas Gerais
               Santos v Palmeiras  0-2 (0-1)   @ Estádio Urbano Caldeira › Santos, São Paulo
-    18.15     Bahia v Sao Paulo  1-0 (0-0)   @ Arena Fonte Nova › Salvador, Bahia
-    20.30     Ceara v Cuiaba  1-0 (0-0)   @ Estádio Governador Plácido Aderaldo Castelo › Fortaleza, Ceará
+    18:15     Bahia v Sao Paulo  1-0 (0-0)   @ Arena Fonte Nova › Salvador, Bahia
+    20:30     Ceara v Cuiaba  1-0 (0-0)   @ Estádio Governador Plácido Aderaldo Castelo › Fortaleza, Ceará
   Mon Nov 8
-    20.00     Chapecoense-sc v Flamengo  2-2 (2-2)   @ Arena Condá › Chapecó, Santa Catarina
-» Regular Season - 31
+    20:00     Chapecoense-sc v Flamengo  2-2 (2-2)   @ Arena Condá › Chapecó, Santa Catarina
+▪ Regular Season - 31
   Tue Nov 9
-    21.30     Gremio v Fluminense  1-0 (0-0)   @ Arena do Grêmio › Porto Alegre, Rio Grande do Sul
+    21:30     Gremio v Fluminense  1-0 (0-0)   @ Arena do Grêmio › Porto Alegre, Rio Grande do Sul
   Wed Nov 10
-    18.30     Atletico Paranaense v Ceara  2-1 (1-0)   @ Arena da Baixada › Curitiba, Paraná
-    19.00     Santos v RB Bragantino  2-0 (1-0)   @ Estádio Urbano Caldeira › Santos, São Paulo
+    18:30     Atletico Paranaense v Ceara  2-1 (1-0)   @ Arena da Baixada › Curitiba, Paraná
+    19:00     Santos v RB Bragantino  2-0 (1-0)   @ Estádio Urbano Caldeira › Santos, São Paulo
               Atletico-MG v Corinthians  3-0 (1-0)   @ Estádio Governador Magalhães Pinto › Belo Horizonte, Minas Gerais
-    20.30     Palmeiras v Atletico Goianiense  4-0 (2-0)   @ Allianz Parque › São Paulo, São Paulo
-    21.30     Juventude v Internacional  2-1 (0-0)   @ Estádio Alfredo Jaconi › Caxias do Sul, Rio Grande do Sul
+    20:30     Palmeiras v Atletico Goianiense  4-0 (2-0)   @ Allianz Parque › São Paulo, São Paulo
+    21:30     Juventude v Internacional  2-1 (0-0)   @ Estádio Alfredo Jaconi › Caxias do Sul, Rio Grande do Sul
               Fortaleza EC v Sao Paulo  1-1 (0-0)   @ Estádio Governador Plácido Aderaldo Castelo › Fortaleza, Ceará
               Sport Recife v America Mineiro  2-3 (0-1)   @ Itaipava Arena Pernambuco › Recife, Pernambuco
   Thu Nov 11
-    19.00     Flamengo v Bahia  3-0 (1-0)   @ Estadio Jornalista Mário Filho › Rio de Janeiro, Rio de Janeiro
-» Regular Season - 32
+    19:00     Flamengo v Bahia  3-0 (1-0)   @ Estadio Jornalista Mário Filho › Rio de Janeiro, Rio de Janeiro
+▪ Regular Season - 32
   Sat Nov 13
-    17.00     Atletico Goianiense v Santos  0-0 (0-0)   @ Estádio Antônio Accioly › Goiânia, Goiás
-    18.30     America Mineiro v Gremio  3-1 (2-0)   @ Estádio Raimundo Sampaio › Belo Horizonte, Minas Gerais
-    19.00     RB Bragantino v Fortaleza EC  3-0 (2-0)   @ Estádio Nabi Abi Chedid › Bragança Paulista, São Paulo
+    17:00     Atletico Goianiense v Santos  0-0 (0-0)   @ Estádio Antônio Accioly › Goiânia, Goiás
+    18:30     America Mineiro v Gremio  3-1 (2-0)   @ Estádio Raimundo Sampaio › Belo Horizonte, Minas Gerais
+    19:00     RB Bragantino v Fortaleza EC  3-0 (2-0)   @ Estádio Nabi Abi Chedid › Bragança Paulista, São Paulo
               Internacional v Atletico Paranaense  2-1 (1-1)   @ Estádio José Pinheiro Borda › Porto Alegre, Rio Grande do Sul
-    21.00     Corinthians v Cuiaba  3-2 (1-1)   @ Neo Química Arena › São Paulo, São Paulo
+    21:00     Corinthians v Cuiaba  3-2 (1-1)   @ Neo Química Arena › São Paulo, São Paulo
   Sun Nov 14
-    16.00     Sao Paulo v Flamengo  0-4 (0-3)   @ Estádio Cícero Pompeu de Toledo › São Paulo, São Paulo
-    18.15     Fluminense v Palmeiras  2-1 (0-1)   @ Estadio Jornalista Mário Filho › Rio de Janeiro, Rio de Janeiro
-    19.00     Chapecoense-sc v Juventude  0-2 (0-2)   @ Arena Condá › Chapecó, Santa Catarina
+    16:00     Sao Paulo v Flamengo  0-4 (0-3)   @ Estádio Cícero Pompeu de Toledo › São Paulo, São Paulo
+    18:15     Fluminense v Palmeiras  2-1 (0-1)   @ Estadio Jornalista Mário Filho › Rio de Janeiro, Rio de Janeiro
+    19:00     Chapecoense-sc v Juventude  0-2 (0-2)   @ Arena Condá › Chapecó, Santa Catarina
               Ceara v Sport Recife  2-1 (1-0)   @ Estádio Governador Plácido Aderaldo Castelo › Fortaleza, Ceará
-» Regular Season - 33
+▪ Regular Season - 33
   Tue Nov 16
-    16.00     Atletico Paranaense v Atletico-MG  0-1 (0-1)   @ Arena da Baixada › Curitiba, Paraná
-    18.00     Gremio v RB Bragantino  3-0 (3-0)   @ Arena do Grêmio › Porto Alegre, Rio Grande do Sul
+    16:00     Atletico Paranaense v Atletico-MG  0-1 (0-1)   @ Arena da Baixada › Curitiba, Paraná
+    18:00     Gremio v RB Bragantino  3-0 (3-0)   @ Arena do Grêmio › Porto Alegre, Rio Grande do Sul
   Wed Nov 17
-    19.00     America Mineiro v Atletico Goianiense  0-0 (0-0)   @ Estádio Raimundo Sampaio › Belo Horizonte, Minas Gerais
+    19:00     America Mineiro v Atletico Goianiense  0-0 (0-0)   @ Estádio Raimundo Sampaio › Belo Horizonte, Minas Gerais
               Santos v Chapecoense-sc  2-0 (1-0)   @ Estádio Urbano Caldeira › Santos, São Paulo
               Cuiaba v Internacional  1-0 (0-0)   @ Arena Pantanal › Cuiabá, Mato Grosso
-    20.00     Fortaleza EC v Ceara  0-4 (0-2)   @ Estádio Governador Plácido Aderaldo Castelo › Fortaleza, Ceará
-    20.30     Juventude v Fluminense  1-0 (1-0)   @ Estádio Alfredo Jaconi › Caxias do Sul, Rio Grande do Sul
+    20:00     Fortaleza EC v Ceara  0-4 (0-2)   @ Estádio Governador Plácido Aderaldo Castelo › Fortaleza, Ceará
+    20:30     Juventude v Fluminense  1-0 (1-0)   @ Estádio Alfredo Jaconi › Caxias do Sul, Rio Grande do Sul
               Palmeiras v Sao Paulo  0-2 (0-1)   @ Allianz Parque › São Paulo, São Paulo
-    21.30     Flamengo v Corinthians  1-0 (0-0)   @ Estadio Jornalista Mário Filho › Rio de Janeiro, Rio de Janeiro
+    21:30     Flamengo v Corinthians  1-0 (0-0)   @ Estadio Jornalista Mário Filho › Rio de Janeiro, Rio de Janeiro
   Thu Nov 18
-    21.00     Sport Recife v Bahia  1-0 (0-0)   @ Itaipava Arena Pernambuco › Recife, Pernambuco
-» Regular Season - 34
+    21:00     Sport Recife v Bahia  1-0 (0-0)   @ Itaipava Arena Pernambuco › Recife, Pernambuco
+▪ Regular Season - 34
   Sat Nov 20
-    19.00     Chapecoense-sc v Gremio  1-3 (0-1)   @ Arena Condá › Chapecó, Santa Catarina
+    19:00     Chapecoense-sc v Gremio  1-3 (0-1)   @ Arena Condá › Chapecó, Santa Catarina
               Fortaleza EC v Palmeiras  1-0 (1-0)   @ Estádio Governador Plácido Aderaldo Castelo › Fortaleza, Ceará
               Atletico-MG v Juventude  2-0 (0-0)   @ Estádio Governador Magalhães Pinto › Belo Horizonte, Minas Gerais
-    21.00     Atletico Goianiense v Ceara  1-1 (0-0)   @ Estádio Antônio Accioly › Goiânia, Goiás
-    21.30     Internacional v Flamengo  1-2 (1-2)   @ Estádio José Pinheiro Borda › Porto Alegre, Rio Grande do Sul
+    21:00     Atletico Goianiense v Ceara  1-1 (0-0)   @ Estádio Antônio Accioly › Goiânia, Goiás
+    21:30     Internacional v Flamengo  1-2 (1-2)   @ Estádio José Pinheiro Borda › Porto Alegre, Rio Grande do Sul
   Sun Nov 21
-    16.00     Corinthians v Santos  2-0 (0-0)   @ Neo Química Arena › São Paulo, São Paulo
-    17.00     Fluminense v America Mineiro  2-0 (1-0)   @ Estadio Jornalista Mário Filho › Rio de Janeiro, Rio de Janeiro
-    19.00     Bahia v Cuiaba  0-0 (0-0)   @ Arena Fonte Nova › Salvador, Bahia
-» Regular Season - 2
+    16:00     Corinthians v Santos  2-0 (0-0)   @ Neo Química Arena › São Paulo, São Paulo
+    17:00     Fluminense v America Mineiro  2-0 (1-0)   @ Estadio Jornalista Mário Filho › Rio de Janeiro, Rio de Janeiro
+    19:00     Bahia v Cuiaba  0-0 (0-0)   @ Arena Fonte Nova › Salvador, Bahia
+▪ Regular Season - 2
   Tue Nov 23
-    21.00     Gremio v Flamengo  2-2 (0-0)   @ Arena do Grêmio › Porto Alegre, Rio Grande do Sul
-» Regular Season - 30
+    21:00     Gremio v Flamengo  2-2 (0-0)   @ Arena do Grêmio › Porto Alegre, Rio Grande do Sul
+▪ Regular Season - 30
   Tue Nov 23
-    19.00     Atletico Goianiense v Juventude  1-1 (0-0)   @ Estádio Antônio Accioly › Goiânia, Goiás
-» Regular Season - 35
+    19:00     Atletico Goianiense v Juventude  1-1 (0-0)   @ Estádio Antônio Accioly › Goiânia, Goiás
+▪ Regular Season - 35
   Tue Nov 23
-    21.30     Palmeiras v Atletico-MG  2-2 (1-1)   @ Allianz Parque › São Paulo, São Paulo
-» Regular Season - 34
+    21:30     Palmeiras v Atletico-MG  2-2 (1-1)   @ Allianz Parque › São Paulo, São Paulo
+▪ Regular Season - 34
   Wed Nov 24
-    21.30     Sao Paulo v Atletico Paranaense  0-0 (0-0)   @ Estádio Cícero Pompeu de Toledo › São Paulo, São Paulo
-» Regular Season - 35
+    21:30     Sao Paulo v Atletico Paranaense  0-0 (0-0)   @ Estádio Cícero Pompeu de Toledo › São Paulo, São Paulo
+▪ Regular Season - 35
   Wed Nov 24
-    21.30     Fluminense v Internacional  1-0 (1-0)   @ Estadio Jornalista Mário Filho › Rio de Janeiro, Rio de Janeiro
+    21:30     Fluminense v Internacional  1-0 (1-0)   @ Estadio Jornalista Mário Filho › Rio de Janeiro, Rio de Janeiro
   Thu Nov 25
-    19.00     Santos v Fortaleza EC  2-0 (0-0)   @ Estádio Urbano Caldeira › Santos, São Paulo
-    20.00     Ceara v Corinthians  2-1 (1-0)   @ Estádio Governador Plácido Aderaldo Castelo › Fortaleza, Ceará
-» Regular Season - 36
+    19:00     Santos v Fortaleza EC  2-0 (0-0)   @ Estádio Urbano Caldeira › Santos, São Paulo
+    20:00     Ceara v Corinthians  2-1 (1-0)   @ Estádio Governador Plácido Aderaldo Castelo › Fortaleza, Ceará
+▪ Regular Season - 36
   Fri Nov 26
-    19.00     Bahia v Gremio  3-1 (2-0)   @ Arena Fonte Nova › Salvador, Bahia
+    19:00     Bahia v Gremio  3-1 (2-0)   @ Arena Fonte Nova › Salvador, Bahia
   Sat Nov 27
-    19.30     RB Bragantino v America Mineiro  1-1 (0-0)   @ Estádio Nabi Abi Chedid › Bragança Paulista, São Paulo
-    21.30     Sao Paulo v Sport Recife  2-0 (0-0)   @ Estádio Cícero Pompeu de Toledo › São Paulo, São Paulo
+    19:30     RB Bragantino v America Mineiro  1-1 (0-0)   @ Estádio Nabi Abi Chedid › Bragança Paulista, São Paulo
+    21:30     Sao Paulo v Sport Recife  2-0 (0-0)   @ Estádio Cícero Pompeu de Toledo › São Paulo, São Paulo
   Sun Nov 28
-    16.00     Atletico-MG v Fluminense  2-1 (1-1)   @ Estádio Governador Magalhães Pinto › Belo Horizonte, Minas Gerais
+    16:00     Atletico-MG v Fluminense  2-1 (1-1)   @ Estádio Governador Magalhães Pinto › Belo Horizonte, Minas Gerais
               Corinthians v Atletico Paranaense  1-0 (0-0)   @ Neo Química Arena › São Paulo, São Paulo
-    19.00     Internacional v Santos  1-1 (1-0)   @ Estádio José Pinheiro Borda › Porto Alegre, Rio Grande do Sul
-» Regular Season - 35
+    19:00     Internacional v Santos  1-1 (1-0)   @ Estádio José Pinheiro Borda › Porto Alegre, Rio Grande do Sul
+▪ Regular Season - 35
   Mon Nov 29
-    19.00     Atletico Goianiense v Bahia  2-1 (0-0)   @ Estádio Antônio Accioly › Goiânia, Goiás
+    19:00     Atletico Goianiense v Bahia  2-1 (0-0)   @ Estádio Antônio Accioly › Goiânia, Goiás
   Tue Nov 30
-    19.00     Juventude v RB Bragantino  1-0 (1-0)   @ Estádio Alfredo Jaconi › Caxias do Sul, Rio Grande do Sul
-    21.00     America Mineiro v Chapecoense-sc  3-0 (1-0)   @ Estádio Raimundo Sampaio › Belo Horizonte, Minas Gerais
-» Regular Season - 36
+    19:00     Juventude v RB Bragantino  1-0 (1-0)   @ Estádio Alfredo Jaconi › Caxias do Sul, Rio Grande do Sul
+    21:00     America Mineiro v Chapecoense-sc  3-0 (1-0)   @ Estádio Raimundo Sampaio › Belo Horizonte, Minas Gerais
+▪ Regular Season - 36
   Tue Nov 30
-    20.00     Flamengo v Ceara  2-1 (1-0)   @ Estadio Jornalista Mário Filho › Rio de Janeiro, Rio de Janeiro
-    22.00     Cuiaba v Palmeiras  1-3 (1-2)   @ Arena Pantanal › Cuiabá, Mato Grosso
-» Regular Season - 32
+    20:00     Flamengo v Ceara  2-1 (1-0)   @ Estadio Jornalista Mário Filho › Rio de Janeiro, Rio de Janeiro
+    22:00     Cuiaba v Palmeiras  1-3 (1-2)   @ Arena Pantanal › Cuiabá, Mato Grosso
+▪ Regular Season - 32
   Thu Dec 2
-    18.00     Bahia v Atletico-MG  2-3 (0-0)   @ Arena Fonte Nova › Salvador, Bahia
-» Regular Season - 35
+    18:00     Bahia v Atletico-MG  2-3 (0-0)   @ Arena Fonte Nova › Salvador, Bahia
+▪ Regular Season - 35
   Thu Dec 2
-    20.00     Gremio v Sao Paulo  3-0 (1-0)   @ Arena do Grêmio › Porto Alegre, Rio Grande do Sul
+    20:00     Gremio v Sao Paulo  3-0 (1-0)   @ Arena do Grêmio › Porto Alegre, Rio Grande do Sul
   Fri Dec 3
-    19.00     Atletico Paranaense v Cuiaba  1-0 (0-0)   @ Arena da Baixada › Curitiba, Paraná
-    20.00     Sport Recife v Flamengo  1-1 (0-1)   @ Itaipava Arena Pernambuco › Recife, Pernambuco
-» Regular Season - 36
+    19:00     Atletico Paranaense v Cuiaba  1-0 (0-0)   @ Arena da Baixada › Curitiba, Paraná
+    20:00     Sport Recife v Flamengo  1-1 (0-1)   @ Itaipava Arena Pernambuco › Recife, Pernambuco
+▪ Regular Season - 36
   Fri Dec 3
-    20.00     Chapecoense-sc v Atletico Goianiense  0-1 (0-0)   @ Arena Condá › Chapecó, Santa Catarina
-    21.00     Fortaleza EC v Juventude  1-0 (0-0)   @ Estádio Governador Plácido Aderaldo Castelo › Fortaleza, Ceará
-» Regular Season - 37
+    20:00     Chapecoense-sc v Atletico Goianiense  0-1 (0-0)   @ Arena Condá › Chapecó, Santa Catarina
+    21:00     Fortaleza EC v Juventude  1-0 (0-0)   @ Estádio Governador Plácido Aderaldo Castelo › Fortaleza, Ceará
+▪ Regular Season - 37
   Sun Dec 5
-    16.00     Corinthians v Gremio  1-1 (0-1)   @ Neo Química Arena › São Paulo, São Paulo
+    16:00     Corinthians v Gremio  1-1 (0-1)   @ Neo Química Arena › São Paulo, São Paulo
               Atletico-MG v RB Bragantino  4-3 (1-1)   @ Estádio Governador Magalhães Pinto › Belo Horizonte, Minas Gerais
               Bahia v Fluminense  2-0 (2-0)   @ Arena Fonte Nova › Salvador, Bahia
-    19.00     Ceara v America Mineiro  0-0 (0-0)   @ Estádio Governador Plácido Aderaldo Castelo › Fortaleza, Ceará
+    19:00     Ceara v America Mineiro  0-0 (0-0)   @ Estádio Governador Plácido Aderaldo Castelo › Fortaleza, Ceará
   Mon Dec 6
-    19.00     Atletico Paranaense v Palmeiras  0-0 (0-0)   @ Arena da Baixada › Curitiba, Paraná
+    19:00     Atletico Paranaense v Palmeiras  0-0 (0-0)   @ Arena da Baixada › Curitiba, Paraná
               Sao Paulo v Juventude  3-1 (2-0)   @ Estádio Cícero Pompeu de Toledo › São Paulo, São Paulo
-    20.00     Flamengo v Santos  0-1 (0-0)   @ Estadio Jornalista Mário Filho › Rio de Janeiro, Rio de Janeiro
+    20:00     Flamengo v Santos  0-1 (0-0)   @ Estadio Jornalista Mário Filho › Rio de Janeiro, Rio de Janeiro
               Cuiaba v Fortaleza EC  1-0 (1-0)   @ Arena Pantanal › Cuiabá, Mato Grosso
               Internacional v Atletico Goianiense  1-2 (1-2)   @ Estádio José Pinheiro Borda › Porto Alegre, Rio Grande do Sul
-    21.00     Chapecoense-sc v Sport Recife  0-1 (0-0)   @ Arena Condá › Chapecó, Santa Catarina
-» Regular Season - 38
+    21:00     Chapecoense-sc v Sport Recife  0-1 (0-0)   @ Arena Condá › Chapecó, Santa Catarina
+▪ Regular Season - 38
   Thu Dec 9
-    21.30     Palmeiras v Ceara  1-0 (1-0)   @ Arena Barueri › Barueri, São Paulo
+    21:30     Palmeiras v Ceara  1-0 (1-0)   @ Arena Barueri › Barueri, São Paulo
               Sport Recife v Atletico Paranaense  1-1 (1-1)   @ Itaipava Arena Pernambuco › Recife, Pernambuco
               Fluminense v Chapecoense-sc  3-0 (0-0)   @ Estadio Jornalista Mário Filho › Rio de Janeiro, Rio de Janeiro
               America Mineiro v Sao Paulo  2-0 (0-0)   @ Estádio Raimundo Sampaio › Belo Horizonte, Minas Gerais

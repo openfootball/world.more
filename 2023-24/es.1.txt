@@ -1,556 +1,556 @@
 = Spain | La Liga 2023/24
 
-  # Date       Fri Aug/11 2023 - Sun May/26 2024 (289d)
+  # Date       Fri Aug 11 2023 - Sun May 26 2024 (289d)
   # Teams      20
   # Matches    380
 
   # Note - All times in Europe/Madrid
 
-» Regular Season - 1
+▪ Regular Season - 1
   Fri Aug 11 2023
-    19.30     Almeria v Rayo Vallecano  0-2 (0-2)   @ Power Horse Stadium › Almería
+    19:30     Almeria v Rayo Vallecano  0-2 (0-2)   @ Power Horse Stadium › Almería
   Fri Aug 11
-    22.00     Sevilla v Valencia  1-2 (0-0)   @ Estadio Ramón Sánchez Pizjuán › Sevilla
+    22:00     Sevilla v Valencia  1-2 (0-0)   @ Estadio Ramón Sánchez Pizjuán › Sevilla
   Sat Aug 12
-    17.00     Real Sociedad v Girona  1-1 (1-0)   @ Reale Arena › Donostia-San Sebastián
-    19.30     Las Palmas v Mallorca  1-1 (1-0)   @ Estadio de Gran Canaria › Las Palmas de Gran Canaria
-    21.30     Athletic Club v Real Madrid  0-2 (0-2)   @ San Mamés Barria › Bilbao
+    17:00     Real Sociedad v Girona  1-1 (1-0)   @ Reale Arena › Donostia-San Sebastián
+    19:30     Las Palmas v Mallorca  1-1 (1-0)   @ Estadio de Gran Canaria › Las Palmas de Gran Canaria
+    21:30     Athletic Club v Real Madrid  0-2 (0-2)   @ San Mamés Barria › Bilbao
   Sun Aug 13
-    17.00     Celta Vigo v Osasuna  0-2 (0-1)   @ Estadio Abanca-Balaídos › Vigo
-    19.30     Villarreal v Real Betis  1-2 (0-1)   @ Estadio de la Cerámica › Villarreal
-    21.30     Getafe v Barcelona  0-0 (0-0)   @ Estadio Coliseum › Getafe
+    17:00     Celta Vigo v Osasuna  0-2 (0-1)   @ Estadio Abanca-Balaídos › Vigo
+    19:30     Villarreal v Real Betis  1-2 (0-1)   @ Estadio de la Cerámica › Villarreal
+    21:30     Getafe v Barcelona  0-0 (0-0)   @ Estadio Coliseum › Getafe
   Mon Aug 14
-    19.30     Cadiz v Alaves  1-0 (1-0)   @ Estadio Nuevo Mirandilla › Cádiz
-    21.30     Atletico Madrid v Granada CF  3-1 (1-0)   @ Estádio Cívitas Metropolitano › Madrid
-» Regular Season - 2
+    19:30     Cadiz v Alaves  1-0 (1-0)   @ Estadio Nuevo Mirandilla › Cádiz
+    21:30     Atletico Madrid v Granada CF  3-1 (1-0)   @ Estádio Cívitas Metropolitano › Madrid
+▪ Regular Season - 2
   Fri Aug 18
-    19.30     Mallorca v Villarreal  0-1 (0-0)   @ Estadi Mallorca Son Moix › Palma de Mallorca
-    21.30     Valencia v Las Palmas  1-0 (0-0)   @ Estadio de Mestalla › Valencia
+    19:30     Mallorca v Villarreal  0-1 (0-0)   @ Estadi Mallorca Son Moix › Palma de Mallorca
+    21:30     Valencia v Las Palmas  1-0 (0-0)   @ Estadio de Mestalla › Valencia
   Sat Aug 19
-    17.00     Real Sociedad v Celta Vigo  1-1 (1-0)   @ Reale Arena › Donostia-San Sebastián
-    19.30     Almeria v Real Madrid  1-3 (1-1)   @ Power Horse Stadium › Almería
-    21.30     Osasuna v Athletic Club  0-2 (0-2)   @ Estadio El Sadar › Iruñea
+    17:00     Real Sociedad v Celta Vigo  1-1 (1-0)   @ Reale Arena › Donostia-San Sebastián
+    19:30     Almeria v Real Madrid  1-3 (1-1)   @ Power Horse Stadium › Almería
+    21:30     Osasuna v Athletic Club  0-2 (0-2)   @ Estadio El Sadar › Iruñea
   Sun Aug 20
-    19.00     Girona v Getafe  3-0 (1-0)   @ Estadi Municipal de Montilivi › Girona
-    19.30     Barcelona v Cadiz  2-0 (0-0)   @ Estadi Olímpic Lluís Companys › Barcelona
-    21.30     Real Betis v Atletico Madrid  0-0 (0-0)   @ Estadio Benito Villamarín › Sevilla
+    19:00     Girona v Getafe  3-0 (1-0)   @ Estadi Municipal de Montilivi › Girona
+    19:30     Barcelona v Cadiz  2-0 (0-0)   @ Estadi Olímpic Lluís Companys › Barcelona
+    21:30     Real Betis v Atletico Madrid  0-0 (0-0)   @ Estadio Benito Villamarín › Sevilla
   Mon Aug 21
-    19.00     Alaves v Sevilla  4-3 (2-2)   @ Estadio de Mendizorroza › Vitoria-Gasteiz
-    21.30     Granada CF v Rayo Vallecano  0-2 (0-0)   @ Estadio Nuevo Los Cármenes › Granada
-» Regular Season - 3
+    19:00     Alaves v Sevilla  4-3 (2-2)   @ Estadio de Mendizorroza › Vitoria-Gasteiz
+    21:30     Granada CF v Rayo Vallecano  0-2 (0-0)   @ Estadio Nuevo Los Cármenes › Granada
+▪ Regular Season - 3
   Fri Aug 25
-    19.30     Las Palmas v Real Sociedad  0-0 (0-0)   @ Estadio de Gran Canaria › Las Palmas de Gran Canaria
-    21.30     Celta Vigo v Real Madrid  0-1 (0-0)   @ Estadio Abanca-Balaídos › Vigo
+    19:30     Las Palmas v Real Sociedad  0-0 (0-0)   @ Estadio de Gran Canaria › Las Palmas de Gran Canaria
+    21:30     Celta Vigo v Real Madrid  0-1 (0-0)   @ Estadio Abanca-Balaídos › Vigo
   Sat Aug 26
-    19.00     Cadiz v Almeria  1-1 (0-0)   @ Estadio Nuevo Mirandilla › Cádiz
-    19.30     Granada CF v Mallorca  3-2 (1-1)   @ Estadio Nuevo Los Cármenes › Granada
-    21.30     Sevilla v Girona  1-2 (1-1)   @ Estadio Ramón Sánchez Pizjuán › Sevilla
+    19:00     Cadiz v Almeria  1-1 (0-0)   @ Estadio Nuevo Mirandilla › Cádiz
+    19:30     Granada CF v Mallorca  3-2 (1-1)   @ Estadio Nuevo Los Cármenes › Granada
+    21:30     Sevilla v Girona  1-2 (1-1)   @ Estadio Ramón Sánchez Pizjuán › Sevilla
   Sun Aug 27
-    17.30     Villarreal v Barcelona  3-4 (2-2)   @ Estadio de la Cerámica › Villarreal
-    19.30     Valencia v Osasuna  1-2 (0-1)   @ Estadio de Mestalla › Valencia
-    21.30     Athletic Club v Real Betis  4-2 (3-2)   @ San Mamés Barria › Bilbao
+    17:30     Villarreal v Barcelona  3-4 (2-2)   @ Estadio de la Cerámica › Villarreal
+    19:30     Valencia v Osasuna  1-2 (0-1)   @ Estadio de Mestalla › Valencia
+    21:30     Athletic Club v Real Betis  4-2 (3-2)   @ San Mamés Barria › Bilbao
   Mon Aug 28
-    19.30     Getafe v Alaves  1-0 (0-0)   @ Estadio Coliseum › Getafe
-    21.30     Rayo Vallecano v Atletico Madrid  0-7 (0-3)   @ Estadio de Vallecas › Madrid
-» Regular Season - 4
+    19:30     Getafe v Alaves  1-0 (0-0)   @ Estadio Coliseum › Getafe
+    21:30     Rayo Vallecano v Atletico Madrid  0-7 (0-3)   @ Estadio de Vallecas › Madrid
+▪ Regular Season - 4
   Fri Sep 1
-    19.30     Cadiz v Villarreal  3-1 (2-1)   @ Estadio Nuevo Mirandilla › Cádiz
-    22.00     Almeria v Celta Vigo  2-3 (0-2)   @ Power Horse Stadium › Almería
+    19:30     Cadiz v Villarreal  3-1 (2-1)   @ Estadio Nuevo Mirandilla › Cádiz
+    22:00     Almeria v Celta Vigo  2-3 (0-2)   @ Power Horse Stadium › Almería
   Sat Sep 2
-    14.00     Real Sociedad v Granada CF  5-3 (2-1)   @ Reale Arena › Donostia-San Sebastián
-    16.15     Real Madrid v Getafe  2-1 (0-1)   @ Estadio Santiago Bernabéu › Madrid
-    18.30     Alaves v Valencia  1-0 (1-0)   @ Estadio de Mendizorroza › Vitoria-Gasteiz
-    21.00     Real Betis v Rayo Vallecano  1-0 (0-0)   @ Estadio Benito Villamarín › Sevilla
+    14:00     Real Sociedad v Granada CF  5-3 (2-1)   @ Reale Arena › Donostia-San Sebastián
+    16:15     Real Madrid v Getafe  2-1 (0-1)   @ Estadio Santiago Bernabéu › Madrid
+    18:30     Alaves v Valencia  1-0 (1-0)   @ Estadio de Mendizorroza › Vitoria-Gasteiz
+    21:00     Real Betis v Rayo Vallecano  1-0 (0-0)   @ Estadio Benito Villamarín › Sevilla
   Sun Sep 3
-    14.00     Girona v Las Palmas  1-0 (0-0)   @ Estadi Municipal de Montilivi › Girona
-    16.15     Mallorca v Athletic Club  0-0 (0-0)   @ Estadi Mallorca Son Moix › Palma de Mallorca
-    21.00     Osasuna v Barcelona  1-2 (0-1)   @ Estadio El Sadar › Iruñea
-» Regular Season - 5
+    14:00     Girona v Las Palmas  1-0 (0-0)   @ Estadi Municipal de Montilivi › Girona
+    16:15     Mallorca v Athletic Club  0-0 (0-0)   @ Estadi Mallorca Son Moix › Palma de Mallorca
+    21:00     Osasuna v Barcelona  1-2 (0-1)   @ Estadio El Sadar › Iruñea
+▪ Regular Season - 5
   Fri Sep 15
-    21.00     Rayo Vallecano v Alaves  2-0 (1-0)   @ Estadio de Vallecas › Madrid
+    21:00     Rayo Vallecano v Alaves  2-0 (1-0)   @ Estadio de Vallecas › Madrid
   Sat Sep 16
-    14.00     Athletic Club v Cadiz  3-0 (0-0)   @ San Mamés Barria › Bilbao
-    16.15     Valencia v Atletico Madrid  3-0 (2-0)   @ Estadio de Mestalla › Valencia
-    18.30     Celta Vigo v Mallorca  0-1 (0-0)   @ Estadio Abanca-Balaídos › Vigo
-    21.00     Barcelona v Real Betis  5-0 (2-0)   @ Estadi Olímpic Lluís Companys › Barcelona
+    14:00     Athletic Club v Cadiz  3-0 (0-0)   @ San Mamés Barria › Bilbao
+    16:15     Valencia v Atletico Madrid  3-0 (2-0)   @ Estadio de Mestalla › Valencia
+    18:30     Celta Vigo v Mallorca  0-1 (0-0)   @ Estadio Abanca-Balaídos › Vigo
+    21:00     Barcelona v Real Betis  5-0 (2-0)   @ Estadi Olímpic Lluís Companys › Barcelona
   Sun Sep 17
-    14.00     Getafe v Osasuna  3-2 (1-1)   @ Estadio Coliseum › Getafe
-    16.15     Villarreal v Almeria  2-1 (1-1)   @ Estadio de la Cerámica › Villarreal
-    18.30     Sevilla v Las Palmas  1-0 (0-0)   @ Estadio Ramón Sánchez Pizjuán › Sevilla
-    21.00     Real Madrid v Real Sociedad  2-1 (0-1)   @ Estadio Santiago Bernabéu › Madrid
+    14:00     Getafe v Osasuna  3-2 (1-1)   @ Estadio Coliseum › Getafe
+    16:15     Villarreal v Almeria  2-1 (1-1)   @ Estadio de la Cerámica › Villarreal
+    18:30     Sevilla v Las Palmas  1-0 (0-0)   @ Estadio Ramón Sánchez Pizjuán › Sevilla
+    21:00     Real Madrid v Real Sociedad  2-1 (0-1)   @ Estadio Santiago Bernabéu › Madrid
   Mon Sep 18
-    21.00     Granada CF v Girona  2-4 (0-3)   @ Estadio Nuevo Los Cármenes › Granada
-» Regular Season - 6
+    21:00     Granada CF v Girona  2-4 (0-3)   @ Estadio Nuevo Los Cármenes › Granada
+▪ Regular Season - 6
   Fri Sep 22
-    21.00     Alaves v Athletic Club  0-2 (0-1)   @ Estadio de Mendizorroza › Vitoria-Gasteiz
+    21:00     Alaves v Athletic Club  0-2 (0-1)   @ Estadio de Mendizorroza › Vitoria-Gasteiz
   Sat Sep 23
-    14.00     Girona v Mallorca  5-3 (4-1)   @ Estadi Municipal de Montilivi › Girona
-    16.15     Osasuna v Sevilla  0-0 (0-0)   @ Estadio El Sadar › Iruñea
-    18.30     Barcelona v Celta Vigo  3-2 (0-1)   @ Estadi Olímpic Lluís Companys › Barcelona
-    21.00     Almeria v Valencia  2-2 (0-1)   @ Power Horse Stadium › Almería
+    14:00     Girona v Mallorca  5-3 (4-1)   @ Estadi Municipal de Montilivi › Girona
+    16:15     Osasuna v Sevilla  0-0 (0-0)   @ Estadio El Sadar › Iruñea
+    18:30     Barcelona v Celta Vigo  3-2 (0-1)   @ Estadi Olímpic Lluís Companys › Barcelona
+    21:00     Almeria v Valencia  2-2 (0-1)   @ Power Horse Stadium › Almería
   Sun Sep 24
-    14.00     Real Sociedad v Getafe  4-3 (1-2)   @ Reale Arena › Donostia-San Sebastián
-    16.15     Rayo Vallecano v Villarreal  1-1 (1-1)   @ Estadio de Vallecas › Madrid
-    18.30     Real Betis v Cadiz  1-1 (0-1)   @ Estadio Benito Villamarín › Sevilla
+    14:00     Real Sociedad v Getafe  4-3 (1-2)   @ Reale Arena › Donostia-San Sebastián
+    16:15     Rayo Vallecano v Villarreal  1-1 (1-1)   @ Estadio de Vallecas › Madrid
+    18:30     Real Betis v Cadiz  1-1 (0-1)   @ Estadio Benito Villamarín › Sevilla
               Las Palmas v Granada CF  1-0 (0-0)   @ Estadio de Gran Canaria › Las Palmas de Gran Canaria
-    21.00     Atletico Madrid v Real Madrid  3-1 (2-1)   @ Estádio Cívitas Metropolitano › Madrid
-» Regular Season - 7
+    21:00     Atletico Madrid v Real Madrid  3-1 (2-1)   @ Estádio Cívitas Metropolitano › Madrid
+▪ Regular Season - 7
   Tue Sep 26
-    19.00     Sevilla v Almeria  5-1 (3-0)   @ Estadio Ramón Sánchez Pizjuán › Sevilla
-    21.30     Mallorca v Barcelona  2-2 (2-1)   @ Estadi Mallorca Son Moix › Palma de Mallorca
+    19:00     Sevilla v Almeria  5-1 (3-0)   @ Estadio Ramón Sánchez Pizjuán › Sevilla
+    21:30     Mallorca v Barcelona  2-2 (2-1)   @ Estadi Mallorca Son Moix › Palma de Mallorca
   Wed Sep 27
-    19.00     Villarreal v Girona  1-2 (0-0)   @ Estadio de la Cerámica › Villarreal
+    19:00     Villarreal v Girona  1-2 (0-0)   @ Estadio de la Cerámica › Villarreal
               Real Madrid v Las Palmas  2-0 (1-0)   @ Estadio Santiago Bernabéu › Madrid
               Athletic Club v Getafe  2-2 (1-0)   @ San Mamés Barria › Bilbao
-    21.30     Valencia v Real Sociedad  0-1 (0-1)   @ Estadio de Mestalla › Valencia
+    21:30     Valencia v Real Sociedad  0-1 (0-1)   @ Estadio de Mestalla › Valencia
               Cadiz v Rayo Vallecano  0-0 (0-0)   @ Estadio Nuevo Mirandilla › Cádiz
   Thu Sep 28
-    19.00     Granada CF v Real Betis  1-1 (0-0)   @ Estadio Nuevo Los Cármenes › Granada
+    19:00     Granada CF v Real Betis  1-1 (0-0)   @ Estadio Nuevo Los Cármenes › Granada
               Celta Vigo v Alaves  1-1 (1-0)   @ Estadio Abanca-Balaídos › Vigo
-    21.30     Osasuna v Atletico Madrid  0-2 (0-1)   @ Estadio El Sadar › Iruñea
-» Regular Season - 8
+    21:30     Osasuna v Atletico Madrid  0-2 (0-1)   @ Estadio El Sadar › Iruñea
+▪ Regular Season - 8
   Fri Sep 29
-    21.00     Barcelona v Sevilla  1-0 (0-0)   @ Estadi Olímpic Lluís Companys › Barcelona
+    21:00     Barcelona v Sevilla  1-0 (0-0)   @ Estadi Olímpic Lluís Companys › Barcelona
   Sat Sep 30
-    14.00     Getafe v Villarreal  0-0 (0-0)   @ Estadio Coliseum › Getafe
-    16.15     Rayo Vallecano v Mallorca  2-2 (1-1)   @ Estadio de Vallecas › Madrid
-    18.30     Girona v Real Madrid  0-3 (0-2)   @ Estadi Municipal de Montilivi › Girona
-    21.00     Real Sociedad v Athletic Club  3-0 (1-0)   @ Reale Arena › Donostia-San Sebastián
+    14:00     Getafe v Villarreal  0-0 (0-0)   @ Estadio Coliseum › Getafe
+    16:15     Rayo Vallecano v Mallorca  2-2 (1-1)   @ Estadio de Vallecas › Madrid
+    18:30     Girona v Real Madrid  0-3 (0-2)   @ Estadi Municipal de Montilivi › Girona
+    21:00     Real Sociedad v Athletic Club  3-0 (1-0)   @ Reale Arena › Donostia-San Sebastián
   Sun Oct 1
-    14.00     Almeria v Granada CF  3-3 (3-0)   @ Power Horse Stadium › Almería
-    16.15     Alaves v Osasuna  0-2 (0-1)   @ Estadio de Mendizorroza › Vitoria-Gasteiz
-    21.00     Atletico Madrid v Cadiz  3-2 (1-2)   @ Estádio Cívitas Metropolitano › Madrid
+    14:00     Almeria v Granada CF  3-3 (3-0)   @ Power Horse Stadium › Almería
+    16:15     Alaves v Osasuna  0-2 (0-1)   @ Estadio de Mendizorroza › Vitoria-Gasteiz
+    21:00     Atletico Madrid v Cadiz  3-2 (1-2)   @ Estádio Cívitas Metropolitano › Madrid
               Real Betis v Valencia  3-0 (1-0)   @ Estadio Benito Villamarín › Sevilla
   Mon Oct 2
-    21.00     Las Palmas v Celta Vigo  2-1 (0-0)   @ Estadio de Gran Canaria › Las Palmas de Gran Canaria
-» Regular Season - 9
+    21:00     Las Palmas v Celta Vigo  2-1 (0-0)   @ Estadio de Gran Canaria › Las Palmas de Gran Canaria
+▪ Regular Season - 9
   Fri Oct 6
-    21.00     Athletic Club v Almeria  3-0 (1-0)   @ San Mamés Barria › Bilbao
+    21:00     Athletic Club v Almeria  3-0 (1-0)   @ San Mamés Barria › Bilbao
   Sat Oct 7
-    14.00     Cadiz v Girona  0-1 (0-0)   @ Estadio Nuevo Mirandilla › Cádiz
-    16.15     Real Madrid v Osasuna  4-0 (1-0)   @ Estadio Santiago Bernabéu › Madrid
-    18.30     Mallorca v Valencia  1-1 (1-1)   @ Estadi Mallorca Son Moix › Palma de Mallorca
-    21.00     Sevilla v Rayo Vallecano  2-2 (0-2)   @ Estadio Ramón Sánchez Pizjuán › Sevilla
+    14:00     Cadiz v Girona  0-1 (0-0)   @ Estadio Nuevo Mirandilla › Cádiz
+    16:15     Real Madrid v Osasuna  4-0 (1-0)   @ Estadio Santiago Bernabéu › Madrid
+    18:30     Mallorca v Valencia  1-1 (1-1)   @ Estadi Mallorca Son Moix › Palma de Mallorca
+    21:00     Sevilla v Rayo Vallecano  2-2 (0-2)   @ Estadio Ramón Sánchez Pizjuán › Sevilla
   Sun Oct 8
-    14.00     Villarreal v Las Palmas  1-2 (0-1)   @ Estadio de la Cerámica › Villarreal
-    16.15     Atletico Madrid v Real Sociedad  2-1 (1-0)   @ Estádio Cívitas Metropolitano › Madrid
-    18.30     Alaves v Real Betis  1-1 (1-1)   @ Estadio de Mendizorroza › Vitoria-Gasteiz
+    14:00     Villarreal v Las Palmas  1-2 (0-1)   @ Estadio de la Cerámica › Villarreal
+    16:15     Atletico Madrid v Real Sociedad  2-1 (1-0)   @ Estádio Cívitas Metropolitano › Madrid
+    18:30     Alaves v Real Betis  1-1 (1-1)   @ Estadio de Mendizorroza › Vitoria-Gasteiz
               Celta Vigo v Getafe  2-2 (2-2)   @ Estadio Abanca-Balaídos › Vigo
-    21.00     Granada CF v Barcelona  2-2 (2-1)   @ Estadio Nuevo Los Cármenes › Granada
-» Regular Season - 10
+    21:00     Granada CF v Barcelona  2-2 (2-1)   @ Estadio Nuevo Los Cármenes › Granada
+▪ Regular Season - 10
   Fri Oct 20
-    21.00     Osasuna v Granada CF  2-0 (1-0)   @ Estadio El Sadar › Iruñea
+    21:00     Osasuna v Granada CF  2-0 (1-0)   @ Estadio El Sadar › Iruñea
   Sat Oct 21
-    14.00     Real Sociedad v Mallorca  1-0 (0-0)   @ Reale Arena › Donostia-San Sebastián
-    16.15     Getafe v Real Betis  1-1 (1-1)   @ Estadio Coliseum › Getafe
-    18.30     Sevilla v Real Madrid  1-1 (0-0)   @ Estadio Ramón Sánchez Pizjuán › Sevilla
-    21.00     Celta Vigo v Atletico Madrid  0-3 (0-1)   @ Estadio Abanca-Balaídos › Vigo
+    14:00     Real Sociedad v Mallorca  1-0 (0-0)   @ Reale Arena › Donostia-San Sebastián
+    16:15     Getafe v Real Betis  1-1 (1-1)   @ Estadio Coliseum › Getafe
+    18:30     Sevilla v Real Madrid  1-1 (0-0)   @ Estadio Ramón Sánchez Pizjuán › Sevilla
+    21:00     Celta Vigo v Atletico Madrid  0-3 (0-1)   @ Estadio Abanca-Balaídos › Vigo
   Sun Oct 22
-    14.00     Las Palmas v Rayo Vallecano  0-1 (0-0)   @ Estadio de Gran Canaria › Las Palmas de Gran Canaria
-    16.15     Girona v Almeria  5-2 (3-2)   @ Estadi Municipal de Montilivi › Girona
-    18.30     Villarreal v Alaves  1-1 (0-0)   @ Estadio de la Cerámica › Villarreal
-    21.00     Barcelona v Athletic Club  1-0 (0-0)   @ Estadi Olímpic Lluís Companys › Barcelona
+    14:00     Las Palmas v Rayo Vallecano  0-1 (0-0)   @ Estadio de Gran Canaria › Las Palmas de Gran Canaria
+    16:15     Girona v Almeria  5-2 (3-2)   @ Estadi Municipal de Montilivi › Girona
+    18:30     Villarreal v Alaves  1-1 (0-0)   @ Estadio de la Cerámica › Villarreal
+    21:00     Barcelona v Athletic Club  1-0 (0-0)   @ Estadi Olímpic Lluís Companys › Barcelona
   Mon Oct 23
-    21.00     Valencia v Cadiz  2-0 (2-0)   @ Estadio de Mestalla › Valencia
-» Regular Season - 11
+    21:00     Valencia v Cadiz  2-0 (2-0)   @ Estadio de Mestalla › Valencia
+▪ Regular Season - 11
   Fri Oct 27
-    21.00     Girona v Celta Vigo  1-0 (0-0)   @ Estadi Municipal de Montilivi › Girona
+    21:00     Girona v Celta Vigo  1-0 (0-0)   @ Estadi Municipal de Montilivi › Girona
   Sat Oct 28
-    14.00     Almeria v Las Palmas  1-2 (0-1)   @ Power Horse Stadium › Almería
-    16.15     Barcelona v Real Madrid  1-2 (1-0)   @ Estadi Olímpic Lluís Companys › Barcelona
-    18.30     Mallorca v Getafe  0-0 (0-0)   @ Estadi Mallorca Son Moix › Palma de Mallorca
-    21.00     Cadiz v Sevilla  2-2 (2-1)   @ Estadio Nuevo Mirandilla › Cádiz
+    14:00     Almeria v Las Palmas  1-2 (0-1)   @ Power Horse Stadium › Almería
+    16:15     Barcelona v Real Madrid  1-2 (1-0)   @ Estadi Olímpic Lluís Companys › Barcelona
+    18:30     Mallorca v Getafe  0-0 (0-0)   @ Estadi Mallorca Son Moix › Palma de Mallorca
+    21:00     Cadiz v Sevilla  2-2 (2-1)   @ Estadio Nuevo Mirandilla › Cádiz
   Sun Oct 29
-    14.00     Real Betis v Osasuna  2-1 (1-0)   @ Estadio Benito Villamarín › Sevilla
-    16.15     Rayo Vallecano v Real Sociedad  2-2 (1-1)   @ Estadio de Vallecas › Madrid
-    18.30     Athletic Club v Valencia  2-2 (1-0)   @ San Mamés Barria › Bilbao
-    21.00     Atletico Madrid v Alaves  2-1 (2-0)   @ Estádio Cívitas Metropolitano › Madrid
+    14:00     Real Betis v Osasuna  2-1 (1-0)   @ Estadio Benito Villamarín › Sevilla
+    16:15     Rayo Vallecano v Real Sociedad  2-2 (1-1)   @ Estadio de Vallecas › Madrid
+    18:30     Athletic Club v Valencia  2-2 (1-0)   @ San Mamés Barria › Bilbao
+    21:00     Atletico Madrid v Alaves  2-1 (2-0)   @ Estádio Cívitas Metropolitano › Madrid
   Mon Oct 30
-    21.00     Granada CF v Villarreal  2-3 (2-3)   @ Estadio Nuevo Los Cármenes › Granada
-» Regular Season - 12
+    21:00     Granada CF v Villarreal  2-3 (2-3)   @ Estadio Nuevo Los Cármenes › Granada
+▪ Regular Season - 12
   Fri Nov 3
-    21.00     Las Palmas v Atletico Madrid  2-1 (0-0)   @ Estadio de Gran Canaria › Las Palmas de Gran Canaria
+    21:00     Las Palmas v Atletico Madrid  2-1 (0-0)   @ Estadio de Gran Canaria › Las Palmas de Gran Canaria
   Sat Nov 4
-    14.00     Osasuna v Girona  2-4 (1-1)   @ Estadio El Sadar › Iruñea
-    16.15     Real Betis v Mallorca  2-0 (1-0)   @ Estadio Benito Villamarín › Sevilla
-    18.30     Celta Vigo v Sevilla  1-1 (1-0)   @ Estadio Abanca-Balaídos › Vigo
-    21.00     Real Sociedad v Barcelona  0-1 (0-0)   @ Reale Arena › Donostia-San Sebastián
+    14:00     Osasuna v Girona  2-4 (1-1)   @ Estadio El Sadar › Iruñea
+    16:15     Real Betis v Mallorca  2-0 (1-0)   @ Estadio Benito Villamarín › Sevilla
+    18:30     Celta Vigo v Sevilla  1-1 (1-0)   @ Estadio Abanca-Balaídos › Vigo
+    21:00     Real Sociedad v Barcelona  0-1 (0-0)   @ Reale Arena › Donostia-San Sebastián
   Sun Nov 5
-    14.00     Alaves v Almeria  1-0 (0-0)   @ Estadio de Mendizorroza › Vitoria-Gasteiz
-    16.15     Valencia v Granada CF  1-0 (1-0)   @ Estadio de Mestalla › Valencia
-    18.30     Villarreal v Athletic Club  2-3 (0-3)   @ Estadio de la Cerámica › Villarreal
-    21.00     Real Madrid v Rayo Vallecano  0-0 (0-0)   @ Estadio Santiago Bernabéu › Madrid
+    14:00     Alaves v Almeria  1-0 (0-0)   @ Estadio de Mendizorroza › Vitoria-Gasteiz
+    16:15     Valencia v Granada CF  1-0 (1-0)   @ Estadio de Mestalla › Valencia
+    18:30     Villarreal v Athletic Club  2-3 (0-3)   @ Estadio de la Cerámica › Villarreal
+    21:00     Real Madrid v Rayo Vallecano  0-0 (0-0)   @ Estadio Santiago Bernabéu › Madrid
   Mon Nov 6
-    21.00     Getafe v Cadiz  1-0 (0-0)   @ Estadio Coliseum › Getafe
-» Regular Season - 13
+    21:00     Getafe v Cadiz  1-0 (0-0)   @ Estadio Coliseum › Getafe
+▪ Regular Season - 13
   Fri Nov 10
-    21.00     Athletic Club v Celta Vigo  4-3 (2-2)   @ San Mamés Barria › Bilbao
+    21:00     Athletic Club v Celta Vigo  4-3 (2-2)   @ San Mamés Barria › Bilbao
   Sat Nov 11
-    14.00     Rayo Vallecano v Girona  1-2 (1-1)   @ Estadio de Vallecas › Madrid
-    16.15     Almeria v Real Sociedad  1-3 (0-0)   @ Power Horse Stadium › Almería
-    18.30     Osasuna v Las Palmas  1-1 (0-0)   @ Estadio El Sadar › Iruñea
+    14:00     Rayo Vallecano v Girona  1-2 (1-1)   @ Estadio de Vallecas › Madrid
+    16:15     Almeria v Real Sociedad  1-3 (0-0)   @ Power Horse Stadium › Almería
+    18:30     Osasuna v Las Palmas  1-1 (0-0)   @ Estadio El Sadar › Iruñea
               Granada CF v Getafe  1-1 (1-1)   @ Estadio Nuevo Los Cármenes › Granada
-    21.00     Real Madrid v Valencia  5-1 (2-0)   @ Estadio Santiago Bernabéu › Madrid
+    21:00     Real Madrid v Valencia  5-1 (2-0)   @ Estadio Santiago Bernabéu › Madrid
   Sun Nov 12
-    16.15     Barcelona v Alaves  2-1 (0-1)   @ Estadi Olímpic Lluís Companys › Barcelona
-    18.30     Sevilla v Real Betis  1-1 (0-0)   @ Estadio Ramón Sánchez Pizjuán › Sevilla
-    21.00     Atletico Madrid v Villarreal  3-1 (1-1)   @ Estádio Cívitas Metropolitano › Madrid
-» Regular Season - 14
+    16:15     Barcelona v Alaves  2-1 (0-1)   @ Estadi Olímpic Lluís Companys › Barcelona
+    18:30     Sevilla v Real Betis  1-1 (0-0)   @ Estadio Ramón Sánchez Pizjuán › Sevilla
+    21:00     Atletico Madrid v Villarreal  3-1 (1-1)   @ Estádio Cívitas Metropolitano › Madrid
+▪ Regular Season - 14
   Fri Nov 24
-    21.00     Alaves v Granada CF  3-1 (2-0)   @ Estadio de Mendizorroza › Vitoria-Gasteiz
+    21:00     Alaves v Granada CF  3-1 (2-0)   @ Estadio de Mendizorroza › Vitoria-Gasteiz
   Sat Nov 25
-    14.00     Rayo Vallecano v Barcelona  1-1 (1-0)   @ Estadio de Vallecas › Madrid
-    16.15     Valencia v Celta Vigo  0-0 (0-0)   @ Estadio de Mestalla › Valencia
-    18.30     Getafe v Almeria  2-1 (2-1)   @ Estadio Coliseum › Getafe
-    21.00     Atletico Madrid v Mallorca  1-0 (0-0)   @ Estádio Cívitas Metropolitano › Madrid
+    14:00     Rayo Vallecano v Barcelona  1-1 (1-0)   @ Estadio de Vallecas › Madrid
+    16:15     Valencia v Celta Vigo  0-0 (0-0)   @ Estadio de Mestalla › Valencia
+    18:30     Getafe v Almeria  2-1 (2-1)   @ Estadio Coliseum › Getafe
+    21:00     Atletico Madrid v Mallorca  1-0 (0-0)   @ Estádio Cívitas Metropolitano › Madrid
   Sun Nov 26
-    14.00     Villarreal v Osasuna  3-1 (0-0)   @ Estadio de la Cerámica › Villarreal
-    16.15     Real Sociedad v Sevilla  2-1 (2-0)   @ Reale Arena › Donostia-San Sebastián
-    18.30     Cadiz v Real Madrid  0-3 (0-1)   @ Estadio Nuevo Mirandilla › Cádiz
-    21.00     Real Betis v Las Palmas  1-0 (1-0)   @ Estadio Benito Villamarín › Sevilla
+    14:00     Villarreal v Osasuna  3-1 (0-0)   @ Estadio de la Cerámica › Villarreal
+    16:15     Real Sociedad v Sevilla  2-1 (2-0)   @ Reale Arena › Donostia-San Sebastián
+    18:30     Cadiz v Real Madrid  0-3 (0-1)   @ Estadio Nuevo Mirandilla › Cádiz
+    21:00     Real Betis v Las Palmas  1-0 (1-0)   @ Estadio Benito Villamarín › Sevilla
   Mon Nov 27
-    21.00     Girona v Athletic Club  1-1 (0-0)   @ Estadi Municipal de Montilivi › Girona
-» Regular Season - 13
+    21:00     Girona v Athletic Club  1-1 (0-0)   @ Estadi Municipal de Montilivi › Girona
+▪ Regular Season - 13
   Wed Nov 29
-    21.00     Mallorca v Cadiz  1-1 (1-1)   @ Estadi Mallorca Son Moix › Palma de Mallorca
-» Regular Season - 15
+    21:00     Mallorca v Cadiz  1-1 (1-1)   @ Estadi Mallorca Son Moix › Palma de Mallorca
+▪ Regular Season - 15
   Fri Dec 1
-    21.00     Las Palmas v Getafe  2-0 (1-0)   @ Estadio de Gran Canaria › Las Palmas de Gran Canaria
+    21:00     Las Palmas v Getafe  2-0 (1-0)   @ Estadio de Gran Canaria › Las Palmas de Gran Canaria
   Sat Dec 2
-    14.00     Girona v Valencia  2-1 (0-0)   @ Estadi Municipal de Montilivi › Girona
-    16.15     Athletic Club v Rayo Vallecano  4-0 (1-0)   @ San Mamés Barria › Bilbao
-    18.30     Real Madrid v Granada CF  2-0 (1-0)   @ Estadio Santiago Bernabéu › Madrid
-    21.00     Osasuna v Real Sociedad  1-1 (1-1)   @ Estadio El Sadar › Iruñea
+    14:00     Girona v Valencia  2-1 (0-0)   @ Estadi Municipal de Montilivi › Girona
+    16:15     Athletic Club v Rayo Vallecano  4-0 (1-0)   @ San Mamés Barria › Bilbao
+    18:30     Real Madrid v Granada CF  2-0 (1-0)   @ Estadio Santiago Bernabéu › Madrid
+    21:00     Osasuna v Real Sociedad  1-1 (1-1)   @ Estadio El Sadar › Iruñea
   Sun Dec 3
-    14.00     Mallorca v Alaves  0-0 (0-0)   @ Estadi Mallorca Son Moix › Palma de Mallorca
-    16.15     Almeria v Real Betis  0-0 (0-0)   @ Power Horse Stadium › Almería
-    18.30     Sevilla v Villarreal  1-1 (0-0)   @ Estadio Ramón Sánchez Pizjuán › Sevilla
-    21.00     Barcelona v Atletico Madrid  1-0 (1-0)   @ Estadi Olímpic Lluís Companys › Barcelona
+    14:00     Mallorca v Alaves  0-0 (0-0)   @ Estadi Mallorca Son Moix › Palma de Mallorca
+    16:15     Almeria v Real Betis  0-0 (0-0)   @ Power Horse Stadium › Almería
+    18:30     Sevilla v Villarreal  1-1 (0-0)   @ Estadio Ramón Sánchez Pizjuán › Sevilla
+    21:00     Barcelona v Atletico Madrid  1-0 (1-0)   @ Estadi Olímpic Lluís Companys › Barcelona
   Mon Dec 4
-    21.00     Celta Vigo v Cadiz  1-1 (0-1)   @ Estadio Abanca-Balaídos › Vigo
-» Regular Season - 16
+    21:00     Celta Vigo v Cadiz  1-1 (0-1)   @ Estadio Abanca-Balaídos › Vigo
+▪ Regular Season - 16
   Fri Dec 8
-    21.00     Getafe v Valencia  1-0 (0-0)   @ Estadio Coliseum › Getafe
+    21:00     Getafe v Valencia  1-0 (0-0)   @ Estadio Coliseum › Getafe
   Sat Dec 9
-    14.00     Alaves v Las Palmas  0-1 (0-1)   @ Estadio de Mendizorroza › Vitoria-Gasteiz
-    16.15     Real Betis v Real Madrid  1-1 (0-0)   @ Estadio Benito Villamarín › Sevilla
-    18.30     Villarreal v Real Sociedad  0-3 (0-3)   @ Estadio de la Cerámica › Villarreal
-    21.00     Mallorca v Sevilla  1-0 (1-0)   @ Estadi Mallorca Son Moix › Palma de Mallorca
+    14:00     Alaves v Las Palmas  0-1 (0-1)   @ Estadio de Mendizorroza › Vitoria-Gasteiz
+    16:15     Real Betis v Real Madrid  1-1 (0-0)   @ Estadio Benito Villamarín › Sevilla
+    18:30     Villarreal v Real Sociedad  0-3 (0-3)   @ Estadio de la Cerámica › Villarreal
+    21:00     Mallorca v Sevilla  1-0 (1-0)   @ Estadi Mallorca Son Moix › Palma de Mallorca
   Sun Dec 10
-    14.00     Atletico Madrid v Almeria  2-1 (2-0)   @ Estádio Cívitas Metropolitano › Madrid
-    18.30     Cadiz v Osasuna  1-1 (1-0)   @ Estadio Nuevo Mirandilla › Cádiz
-    21.00     Barcelona v Girona  2-4 (1-2)   @ Estadi Olímpic Lluís Companys › Barcelona
+    14:00     Atletico Madrid v Almeria  2-1 (2-0)   @ Estádio Cívitas Metropolitano › Madrid
+    18:30     Cadiz v Osasuna  1-1 (1-0)   @ Estadio Nuevo Mirandilla › Cádiz
+    21:00     Barcelona v Girona  2-4 (1-2)   @ Estadi Olímpic Lluís Companys › Barcelona
   Mon Dec 11
-    16.15     Granada CF v Athletic Club  1-1 (0-1)   @ Estadio Nuevo Los Cármenes › Granada
-    21.00     Rayo Vallecano v Celta Vigo  0-0 (0-0)   @ Estadio de Vallecas › Madrid
-» Regular Season - 17
+    16:15     Granada CF v Athletic Club  1-1 (0-1)   @ Estadio Nuevo Los Cármenes › Granada
+    21:00     Rayo Vallecano v Celta Vigo  0-0 (0-0)   @ Estadio de Vallecas › Madrid
+▪ Regular Season - 17
   Fri Dec 15
-    21.00     Osasuna v Rayo Vallecano  1-0 (0-0)   @ Estadio El Sadar › Iruñea
+    21:00     Osasuna v Rayo Vallecano  1-0 (0-0)   @ Estadio El Sadar › Iruñea
   Sat Dec 16
-    14.00     Celta Vigo v Granada CF  1-0 (1-0)   @ Estadio Abanca-Balaídos › Vigo
-    16.15     Athletic Club v Atletico Madrid  2-0 (0-0)   @ San Mamés Barria › Bilbao
-    18.30     Sevilla v Getafe  0-3 (0-2)   @ Estadio Ramón Sánchez Pizjuán › Sevilla
-    21.00     Valencia v Barcelona  1-1 (0-0)   @ Estadio de Mestalla › Valencia
+    14:00     Celta Vigo v Granada CF  1-0 (1-0)   @ Estadio Abanca-Balaídos › Vigo
+    16:15     Athletic Club v Atletico Madrid  2-0 (0-0)   @ San Mamés Barria › Bilbao
+    18:30     Sevilla v Getafe  0-3 (0-2)   @ Estadio Ramón Sánchez Pizjuán › Sevilla
+    21:00     Valencia v Barcelona  1-1 (0-0)   @ Estadio de Mestalla › Valencia
   Sun Dec 17
-    14.00     Almeria v Mallorca  0-0 (0-0)   @ Power Horse Stadium › Almería
-    16.15     Real Sociedad v Real Betis  0-0 (0-0)   @ Reale Arena › Donostia-San Sebastián
-    18.30     Las Palmas v Cadiz  1-1 (1-0)   @ Estadio de Gran Canaria › Las Palmas de Gran Canaria
-    21.00     Real Madrid v Villarreal  4-1 (2-0)   @ Estadio Santiago Bernabéu › Madrid
+    14:00     Almeria v Mallorca  0-0 (0-0)   @ Power Horse Stadium › Almería
+    16:15     Real Sociedad v Real Betis  0-0 (0-0)   @ Reale Arena › Donostia-San Sebastián
+    18:30     Las Palmas v Cadiz  1-1 (1-0)   @ Estadio de Gran Canaria › Las Palmas de Gran Canaria
+    21:00     Real Madrid v Villarreal  4-1 (2-0)   @ Estadio Santiago Bernabéu › Madrid
   Mon Dec 18
-    21.00     Girona v Alaves  3-0 (2-0)   @ Estadi Municipal de Montilivi › Girona
-» Regular Season - 18
+    21:00     Girona v Alaves  3-0 (2-0)   @ Estadi Municipal de Montilivi › Girona
+▪ Regular Season - 18
   Tue Dec 19
-    19.00     Rayo Vallecano v Valencia  0-1 (0-0)   @ Estadio de Vallecas › Madrid
-    21.30     Granada CF v Sevilla  0-3 (0-2)   @ Estadio Nuevo Los Cármenes › Granada
+    19:00     Rayo Vallecano v Valencia  0-1 (0-0)   @ Estadio de Vallecas › Madrid
+    21:30     Granada CF v Sevilla  0-3 (0-2)   @ Estadio Nuevo Los Cármenes › Granada
               Atletico Madrid v Getafe  3-3 (1-0)   @ Estádio Cívitas Metropolitano › Madrid
   Wed Dec 20
-    19.00     Barcelona v Almeria  3-2 (1-1)   @ Estadi Olímpic Lluís Companys › Barcelona
-    21.30     Athletic Club v Las Palmas  1-0 (0-0)   @ San Mamés Barria › Bilbao
+    19:00     Barcelona v Almeria  3-2 (1-1)   @ Estadi Olímpic Lluís Companys › Barcelona
+    21:30     Athletic Club v Las Palmas  1-0 (0-0)   @ San Mamés Barria › Bilbao
               Villarreal v Celta Vigo  3-2 (2-0)   @ Estadio de la Cerámica › Villarreal
   Thu Dec 21
-    19.00     Cadiz v Real Sociedad  0-0 (0-0)   @ Estadio Nuevo Mirandilla › Cádiz
+    19:00     Cadiz v Real Sociedad  0-0 (0-0)   @ Estadio Nuevo Mirandilla › Cádiz
               Real Betis v Girona  1-1 (0-1)   @ Estadio Benito Villamarín › Sevilla
-    21.30     Mallorca v Osasuna  3-2 (1-1)   @ Estadi Mallorca Son Moix › Palma de Mallorca
+    21:30     Mallorca v Osasuna  3-2 (1-1)   @ Estadi Mallorca Son Moix › Palma de Mallorca
               Alaves v Real Madrid  0-1 (0-0)   @ Estadio de Mendizorroza › Vitoria-Gasteiz
-» Regular Season - 4
+▪ Regular Season - 4
   Sat Dec 23
-    16.15     Atletico Madrid v Sevilla  1-0 (0-0)   @ Estádio Cívitas Metropolitano › Madrid
-» Regular Season - 19
+    16:15     Atletico Madrid v Sevilla  1-0 (0-0)   @ Estádio Cívitas Metropolitano › Madrid
+▪ Regular Season - 19
   Tue Jan 2 2024
-    17.00     Getafe v Rayo Vallecano  0-2 (0-1)   @ Estádio Cívitas Metropolitano › Madrid
+    17:00     Getafe v Rayo Vallecano  0-2 (0-1)   @ Estádio Cívitas Metropolitano › Madrid
   Tue Jan 2
-    19.15     Real Sociedad v Alaves  1-1 (0-0)   @ Reale Arena › Donostia-San Sebastián
-    21.30     Valencia v Villarreal  3-1 (2-0)   @ Estadio de Mestalla › Valencia
+    19:15     Real Sociedad v Alaves  1-1 (0-0)   @ Reale Arena › Donostia-San Sebastián
+    21:30     Valencia v Villarreal  3-1 (2-0)   @ Estadio de Mestalla › Valencia
   Wed Jan 3
-    17.00     Granada CF v Cadiz  2-0 (1-0)   @ Estadio Nuevo Los Cármenes › Granada
-    19.15     Celta Vigo v Real Betis  2-1 (1-1)   @ Estadio Abanca-Balaídos › Vigo
+    17:00     Granada CF v Cadiz  2-0 (1-0)   @ Estadio Nuevo Los Cármenes › Granada
+    19:15     Celta Vigo v Real Betis  2-1 (1-1)   @ Estadio Abanca-Balaídos › Vigo
               Real Madrid v Mallorca  1-0 (0-0)   @ Estadio Santiago Bernabéu › Madrid
-    21.30     Girona v Atletico Madrid  4-3 (3-2)   @ Estadi Municipal de Montilivi › Girona
+    21:30     Girona v Atletico Madrid  4-3 (3-2)   @ Estadi Municipal de Montilivi › Girona
   Thu Jan 4
-    17.00     Osasuna v Almeria  1-0 (1-0)   @ Estadio El Sadar › Iruñea
-    19.15     Sevilla v Athletic Club  0-2 (0-1)   @ Estadio Ramón Sánchez Pizjuán › Sevilla
-    21.30     Las Palmas v Barcelona  1-2 (1-0)   @ Estadio de Gran Canaria › Las Palmas de Gran Canaria
-» Regular Season - 20
+    17:00     Osasuna v Almeria  1-0 (1-0)   @ Estadio El Sadar › Iruñea
+    19:15     Sevilla v Athletic Club  0-2 (0-1)   @ Estadio Ramón Sánchez Pizjuán › Sevilla
+    21:30     Las Palmas v Barcelona  1-2 (1-0)   @ Estadio de Gran Canaria › Las Palmas de Gran Canaria
+▪ Regular Season - 20
   Fri Jan 12
-    21.00     Sevilla v Alaves  2-3 (0-2)   @ Estadio Ramón Sánchez Pizjuán › Sevilla
+    21:00     Sevilla v Alaves  2-3 (0-2)   @ Estadio Ramón Sánchez Pizjuán › Sevilla
   Sat Jan 13
-    14.00     Las Palmas v Villarreal  3-0 (1-0)   @ Estadio de Gran Canaria › Las Palmas de Gran Canaria
-    16.15     Mallorca v Celta Vigo  1-1 (1-1)   @ Estadi Mallorca Son Moix › Palma de Mallorca
-    18.30     Athletic Club v Real Sociedad  2-1 (2-0)   @ San Mamés Barria › Bilbao
-    21.00     Real Betis v Granada CF  1-0 (0-0)   @ Estadio Benito Villamarín › Sevilla
+    14:00     Las Palmas v Villarreal  3-0 (1-0)   @ Estadio de Gran Canaria › Las Palmas de Gran Canaria
+    16:15     Mallorca v Celta Vigo  1-1 (1-1)   @ Estadi Mallorca Son Moix › Palma de Mallorca
+    18:30     Athletic Club v Real Sociedad  2-1 (2-0)   @ San Mamés Barria › Bilbao
+    21:00     Real Betis v Granada CF  1-0 (0-0)   @ Estadio Benito Villamarín › Sevilla
   Sun Jan 14
-    14.00     Almeria v Girona  0-0 (0-0)   @ Power Horse Stadium › Almería
-    16.15     Cadiz v Valencia  1-4 (1-1)   @ Estadio Nuevo Mirandilla › Cádiz
-» Regular Season - 21
+    14:00     Almeria v Girona  0-0 (0-0)   @ Power Horse Stadium › Almería
+    16:15     Cadiz v Valencia  1-4 (1-1)   @ Estadio Nuevo Mirandilla › Cádiz
+▪ Regular Season - 21
   Fri Jan 19
-    21.00     Alaves v Cadiz  1-0 (0-0)   @ Estadio de Mendizorroza › Vitoria-Gasteiz
+    21:00     Alaves v Cadiz  1-0 (0-0)   @ Estadio de Mendizorroza › Vitoria-Gasteiz
   Sat Jan 20
-    14.00     Rayo Vallecano v Las Palmas  0-2 (0-1)   @ Estadio de Vallecas › Madrid
-    16.15     Villarreal v Mallorca  1-1 (1-0)   @ Estadio de la Cerámica › Villarreal
-    18.30     Valencia v Athletic Club  1-0 (0-0)   @ Estadio de Mestalla › Valencia
-    21.00     Celta Vigo v Real Sociedad  0-1 (0-1)   @ Estadio Abanca-Balaídos › Vigo
+    14:00     Rayo Vallecano v Las Palmas  0-2 (0-1)   @ Estadio de Vallecas › Madrid
+    16:15     Villarreal v Mallorca  1-1 (1-0)   @ Estadio de la Cerámica › Villarreal
+    18:30     Valencia v Athletic Club  1-0 (0-0)   @ Estadio de Mestalla › Valencia
+    21:00     Celta Vigo v Real Sociedad  0-1 (0-1)   @ Estadio Abanca-Balaídos › Vigo
   Sun Jan 21
-    14.00     Osasuna v Getafe  3-2 (2-0)   @ Estadio El Sadar › Iruñea
-    16.15     Real Madrid v Almeria  3-2 (0-2)   @ Estadio Santiago Bernabéu › Madrid
-    18.30     Real Betis v Barcelona  2-4 (0-1)   @ Estadio Benito Villamarín › Sevilla
-    21.00     Girona v Sevilla  5-1 (3-1)   @ Estadi Municipal de Montilivi › Girona
+    14:00     Osasuna v Getafe  3-2 (2-0)   @ Estadio El Sadar › Iruñea
+    16:15     Real Madrid v Almeria  3-2 (0-2)   @ Estadio Santiago Bernabéu › Madrid
+    18:30     Real Betis v Barcelona  2-4 (0-1)   @ Estadio Benito Villamarín › Sevilla
+    21:00     Girona v Sevilla  5-1 (3-1)   @ Estadi Municipal de Montilivi › Girona
   Mon Jan 22
-    21.00     Granada CF v Atletico Madrid  0-1 (0-0)   @ Estadio Nuevo Los Cármenes › Granada
-» Regular Season - 22
+    21:00     Granada CF v Atletico Madrid  0-1 (0-0)   @ Estadio Nuevo Los Cármenes › Granada
+▪ Regular Season - 22
   Fri Jan 26
-    21.00     Almeria v Alaves  0-3 (0-1)   @ Power Horse Stadium › Almería
+    21:00     Almeria v Alaves  0-3 (0-1)   @ Power Horse Stadium › Almería
   Sat Jan 27
-    14.00     Real Sociedad v Rayo Vallecano  0-0 (0-0)   @ Reale Arena › Donostia-San Sebastián
-    16.15     Las Palmas v Real Madrid  1-2 (0-0)   @ Estadio de Gran Canaria › Las Palmas de Gran Canaria
-    18.30     Barcelona v Villarreal  3-5 (0-1)   @ Estadi Olímpic Lluís Companys › Barcelona
-    21.00     Mallorca v Real Betis  0-1 (0-1)   @ Estadi Mallorca Son Moix › Palma de Mallorca
+    14:00     Real Sociedad v Rayo Vallecano  0-0 (0-0)   @ Reale Arena › Donostia-San Sebastián
+    16:15     Las Palmas v Real Madrid  1-2 (0-0)   @ Estadio de Gran Canaria › Las Palmas de Gran Canaria
+    18:30     Barcelona v Villarreal  3-5 (0-1)   @ Estadi Olímpic Lluís Companys › Barcelona
+    21:00     Mallorca v Real Betis  0-1 (0-1)   @ Estadi Mallorca Son Moix › Palma de Mallorca
   Sun Jan 28
-    14.00     Celta Vigo v Girona  0-1 (0-1)   @ Estadio Abanca-Balaídos › Vigo
-    16.15     Cadiz v Athletic Club  0-0 (0-0)   @ Estadio Nuevo Mirandilla › Cádiz
-    18.30     Sevilla v Osasuna  1-1 (1-0)   @ Estadio Ramón Sánchez Pizjuán › Sevilla
-    21.00     Atletico Madrid v Valencia  2-0 (1-0)   @ Estádio Cívitas Metropolitano › Madrid
+    14:00     Celta Vigo v Girona  0-1 (0-1)   @ Estadio Abanca-Balaídos › Vigo
+    16:15     Cadiz v Athletic Club  0-0 (0-0)   @ Estadio Nuevo Mirandilla › Cádiz
+    18:30     Sevilla v Osasuna  1-1 (1-0)   @ Estadio Ramón Sánchez Pizjuán › Sevilla
+    21:00     Atletico Madrid v Valencia  2-0 (1-0)   @ Estádio Cívitas Metropolitano › Madrid
   Mon Jan 29
-    21.00     Getafe v Granada CF  2-0 (2-0)   @ Estadio Coliseum › Getafe
-» Regular Season - 20
+    21:00     Getafe v Granada CF  2-0 (2-0)   @ Estadio Coliseum › Getafe
+▪ Regular Season - 20
   Wed Jan 31
-    19.00     Barcelona v Osasuna  1-0 (0-0)   @ Estadi Olímpic Lluís Companys › Barcelona
-    21.00     Atletico Madrid v Rayo Vallecano  2-1 (1-1)   @ Estádio Cívitas Metropolitano › Madrid
+    19:00     Barcelona v Osasuna  1-0 (0-0)   @ Estadi Olímpic Lluís Companys › Barcelona
+    21:00     Atletico Madrid v Rayo Vallecano  2-1 (1-1)   @ Estádio Cívitas Metropolitano › Madrid
   Thu Feb 1
-    21.00     Getafe v Real Madrid  0-2 (0-1)   @ Estadio Coliseum › Getafe
-» Regular Season - 23
+    21:00     Getafe v Real Madrid  0-2 (0-1)   @ Estadio Coliseum › Getafe
+▪ Regular Season - 23
   Fri Feb 2
-    21.00     Athletic Club v Mallorca  4-0 (2-0)   @ San Mamés Barria › Bilbao
+    21:00     Athletic Club v Mallorca  4-0 (2-0)   @ San Mamés Barria › Bilbao
   Sat Feb 3
-    14.00     Valencia v Almeria  2-1 (2-0)   @ Estadio de Mestalla › Valencia
-    16.15     Granada CF v Las Palmas  1-1 (1-0)   @ Estadio Nuevo Los Cármenes › Granada
-    18.30     Alaves v Barcelona  1-3 (0-1)   @ Estadio de Mendizorroza › Vitoria-Gasteiz
-    21.00     Girona v Real Sociedad  0-0 (0-0)   @ Estadi Municipal de Montilivi › Girona
+    14:00     Valencia v Almeria  2-1 (2-0)   @ Estadio de Mestalla › Valencia
+    16:15     Granada CF v Las Palmas  1-1 (1-0)   @ Estadio Nuevo Los Cármenes › Granada
+    18:30     Alaves v Barcelona  1-3 (0-1)   @ Estadio de Mendizorroza › Vitoria-Gasteiz
+    21:00     Girona v Real Sociedad  0-0 (0-0)   @ Estadi Municipal de Montilivi › Girona
   Sun Feb 4
-    14.00     Villarreal v Cadiz  0-0 (0-0)   @ Estadio de la Cerámica › Villarreal
-    16.15     Osasuna v Celta Vigo  0-3 (0-2)   @ Estadio El Sadar › Iruñea
-    18.30     Real Betis v Getafe  1-1 (1-1)   @ Estadio Benito Villamarín › Sevilla
-    21.00     Real Madrid v Atletico Madrid  1-1 (1-0)   @ Estadio Santiago Bernabéu › Madrid
+    14:00     Villarreal v Cadiz  0-0 (0-0)   @ Estadio de la Cerámica › Villarreal
+    16:15     Osasuna v Celta Vigo  0-3 (0-2)   @ Estadio El Sadar › Iruñea
+    18:30     Real Betis v Getafe  1-1 (1-1)   @ Estadio Benito Villamarín › Sevilla
+    21:00     Real Madrid v Atletico Madrid  1-1 (1-0)   @ Estadio Santiago Bernabéu › Madrid
   Mon Feb 5
-    21.00     Rayo Vallecano v Sevilla  1-2 (1-2)   @ Estadio de Vallecas › Madrid
-» Regular Season - 24
+    21:00     Rayo Vallecano v Sevilla  1-2 (1-2)   @ Estadio de Vallecas › Madrid
+▪ Regular Season - 24
   Fri Feb 9
-    21.00     Cadiz v Real Betis  0-2 (0-1)   @ Estadio Nuevo Mirandilla › Cádiz
+    21:00     Cadiz v Real Betis  0-2 (0-1)   @ Estadio Nuevo Mirandilla › Cádiz
   Sat Feb 10
-    14.00     Alaves v Villarreal  1-1 (1-1)   @ Estadio de Mendizorroza › Vitoria-Gasteiz
-    16.15     Real Sociedad v Osasuna  0-1 (0-0)   @ Reale Arena › Donostia-San Sebastián
-    18.30     Real Madrid v Girona  4-0 (2-0)   @ Estadio Santiago Bernabéu › Madrid
-    21.00     Las Palmas v Valencia  2-0 (0-0)   @ Estadio de Gran Canaria › Las Palmas de Gran Canaria
+    14:00     Alaves v Villarreal  1-1 (1-1)   @ Estadio de Mendizorroza › Vitoria-Gasteiz
+    16:15     Real Sociedad v Osasuna  0-1 (0-0)   @ Reale Arena › Donostia-San Sebastián
+    18:30     Real Madrid v Girona  4-0 (2-0)   @ Estadio Santiago Bernabéu › Madrid
+    21:00     Las Palmas v Valencia  2-0 (0-0)   @ Estadio de Gran Canaria › Las Palmas de Gran Canaria
   Sun Feb 11
-    14.00     Getafe v Celta Vigo  3-2 (2-0)   @ Estadio Coliseum › Getafe
-    16.15     Mallorca v Rayo Vallecano  2-1 (0-0)   @ Estadi Mallorca Son Moix › Palma de Mallorca
-    18.30     Sevilla v Atletico Madrid  1-0 (1-0)   @ Estadio Ramón Sánchez Pizjuán › Sevilla
-    21.00     Barcelona v Granada CF  3-3 (1-1)   @ Estadi Olímpic Lluís Companys › Barcelona
+    14:00     Getafe v Celta Vigo  3-2 (2-0)   @ Estadio Coliseum › Getafe
+    16:15     Mallorca v Rayo Vallecano  2-1 (0-0)   @ Estadi Mallorca Son Moix › Palma de Mallorca
+    18:30     Sevilla v Atletico Madrid  1-0 (1-0)   @ Estadio Ramón Sánchez Pizjuán › Sevilla
+    21:00     Barcelona v Granada CF  3-3 (1-1)   @ Estadi Olímpic Lluís Companys › Barcelona
   Mon Feb 12
-    21.00     Almeria v Athletic Club  0-0 (0-0)   @ Power Horse Stadium › Almería
-» Regular Season - 25
+    21:00     Almeria v Athletic Club  0-0 (0-0)   @ Power Horse Stadium › Almería
+▪ Regular Season - 25
   Fri Feb 16
-    21.00     Villarreal v Getafe  1-1 (0-1)   @ Estadio de la Cerámica › Villarreal
+    21:00     Villarreal v Getafe  1-1 (0-1)   @ Estadio de la Cerámica › Villarreal
   Sat Feb 17
-    14.00     Atletico Madrid v Las Palmas  5-0 (2-0)   @ Estádio Cívitas Metropolitano › Madrid
-    16.15     Osasuna v Cadiz  2-0 (0-0)   @ Estadio El Sadar › Iruñea
-    18.30     Celta Vigo v Barcelona  1-2 (0-1)   @ Estadio Abanca-Balaídos › Vigo
-    21.00     Valencia v Sevilla  0-0 (0-0)   @ Estadio de Mestalla › Valencia
+    14:00     Atletico Madrid v Las Palmas  5-0 (2-0)   @ Estádio Cívitas Metropolitano › Madrid
+    16:15     Osasuna v Cadiz  2-0 (0-0)   @ Estadio El Sadar › Iruñea
+    18:30     Celta Vigo v Barcelona  1-2 (0-1)   @ Estadio Abanca-Balaídos › Vigo
+    21:00     Valencia v Sevilla  0-0 (0-0)   @ Estadio de Mestalla › Valencia
   Sun Feb 18
-    14.00     Rayo Vallecano v Real Madrid  1-1 (1-1)   @ Estadio de Vallecas › Madrid
-    16.15     Granada CF v Almeria  1-1 (0-1)   @ Estadio Nuevo Los Cármenes › Granada
-    18.30     Mallorca v Real Sociedad  1-2 (1-1)   @ Estadi Mallorca Son Moix › Palma de Mallorca
-    21.00     Real Betis v Alaves  0-0 (0-0)   @ Estadio Benito Villamarín › Sevilla
+    14:00     Rayo Vallecano v Real Madrid  1-1 (1-1)   @ Estadio de Vallecas › Madrid
+    16:15     Granada CF v Almeria  1-1 (0-1)   @ Estadio Nuevo Los Cármenes › Granada
+    18:30     Mallorca v Real Sociedad  1-2 (1-1)   @ Estadi Mallorca Son Moix › Palma de Mallorca
+    21:00     Real Betis v Alaves  0-0 (0-0)   @ Estadio Benito Villamarín › Sevilla
   Mon Feb 19
-    21.00     Athletic Club v Girona  3-2 (1-0)   @ San Mamés Barria › Bilbao
-» Regular Season - 26
+    21:00     Athletic Club v Girona  3-2 (1-0)   @ San Mamés Barria › Bilbao
+▪ Regular Season - 26
   Fri Feb 23
-    21.00     Real Sociedad v Villarreal  1-3 (0-1)   @ Reale Arena › Donostia-San Sebastián
+    21:00     Real Sociedad v Villarreal  1-3 (0-1)   @ Reale Arena › Donostia-San Sebastián
   Sat Feb 24
-    16.15     Barcelona v Getafe  4-0 (1-0)   @ Estadi Olímpic Lluís Companys › Barcelona
-    18.30     Alaves v Mallorca  1-1 (0-0)   @ Estadio de Mendizorroza › Vitoria-Gasteiz
-    21.00     Almeria v Atletico Madrid  2-2 (1-1)   @ Power Horse Stadium › Almería
+    16:15     Barcelona v Getafe  4-0 (1-0)   @ Estadi Olímpic Lluís Companys › Barcelona
+    18:30     Alaves v Mallorca  1-1 (0-0)   @ Estadio de Mendizorroza › Vitoria-Gasteiz
+    21:00     Almeria v Atletico Madrid  2-2 (1-1)   @ Power Horse Stadium › Almería
   Sun Feb 25
-    14.00     Cadiz v Celta Vigo  2-2 (0-1)   @ Estadio Nuevo Mirandilla › Cádiz
-    16.15     Real Betis v Athletic Club  3-1 (2-1)   @ Estadio Benito Villamarín › Sevilla
-    18.30     Las Palmas v Osasuna  1-1 (0-0)   @ Estadio de Gran Canaria › Las Palmas de Gran Canaria
-    21.00     Real Madrid v Sevilla  1-0 (0-0)   @ Estadio Santiago Bernabéu › Madrid
+    14:00     Cadiz v Celta Vigo  2-2 (0-1)   @ Estadio Nuevo Mirandilla › Cádiz
+    16:15     Real Betis v Athletic Club  3-1 (2-1)   @ Estadio Benito Villamarín › Sevilla
+    18:30     Las Palmas v Osasuna  1-1 (0-0)   @ Estadio de Gran Canaria › Las Palmas de Gran Canaria
+    21:00     Real Madrid v Sevilla  1-0 (0-0)   @ Estadio Santiago Bernabéu › Madrid
   Mon Feb 26
-    21.00     Girona v Rayo Vallecano  3-0 (0-0)   @ Estadi Municipal de Montilivi › Girona
-» Regular Season - 27
+    21:00     Girona v Rayo Vallecano  3-0 (0-0)   @ Estadi Municipal de Montilivi › Girona
+▪ Regular Season - 27
   Fri Mar 1
-    21.00     Celta Vigo v Almeria  1-0 (0-0)   @ Estadio Abanca-Balaídos › Vigo
+    21:00     Celta Vigo v Almeria  1-0 (0-0)   @ Estadio Abanca-Balaídos › Vigo
   Sat Mar 2
-    14.00     Sevilla v Real Sociedad  3-2 (2-1)   @ Estadio Ramón Sánchez Pizjuán › Sevilla
-    16.15     Rayo Vallecano v Cadiz  1-1 (0-0)   @ Estadio de Vallecas › Madrid
-    18.30     Getafe v Las Palmas  3-3 (3-1)   @ Estadio Coliseum › Getafe
-    21.00     Valencia v Real Madrid  2-2 (2-1)   @ Estadio de Mestalla › Valencia
+    14:00     Sevilla v Real Sociedad  3-2 (2-1)   @ Estadio Ramón Sánchez Pizjuán › Sevilla
+    16:15     Rayo Vallecano v Cadiz  1-1 (0-0)   @ Estadio de Vallecas › Madrid
+    18:30     Getafe v Las Palmas  3-3 (3-1)   @ Estadio Coliseum › Getafe
+    21:00     Valencia v Real Madrid  2-2 (2-1)   @ Estadio de Mestalla › Valencia
   Sun Mar 3
-    14.00     Villarreal v Granada CF  5-1 (3-0)   @ Estadio de la Cerámica › Villarreal
-    16.15     Atletico Madrid v Real Betis  2-1 (2-0)   @ Estádio Cívitas Metropolitano › Madrid
-    18.30     Mallorca v Girona  1-0 (1-0)   @ Estadi Mallorca Son Moix › Palma de Mallorca
-    21.00     Athletic Club v Barcelona  0-0 (0-0)   @ San Mamés Barria › Bilbao
+    14:00     Villarreal v Granada CF  5-1 (3-0)   @ Estadio de la Cerámica › Villarreal
+    16:15     Atletico Madrid v Real Betis  2-1 (2-0)   @ Estádio Cívitas Metropolitano › Madrid
+    18:30     Mallorca v Girona  1-0 (1-0)   @ Estadi Mallorca Son Moix › Palma de Mallorca
+    21:00     Athletic Club v Barcelona  0-0 (0-0)   @ San Mamés Barria › Bilbao
   Mon Mar 4
-    21.00     Osasuna v Alaves  1-0 (0-0)   @ Estadio El Sadar › Iruñea
-» Regular Season - 28
+    21:00     Osasuna v Alaves  1-0 (0-0)   @ Estadio El Sadar › Iruñea
+▪ Regular Season - 28
   Fri Mar 8
-    21.00     Barcelona v Mallorca  1-0 (0-0)   @ Estadi Olímpic Lluís Companys › Barcelona
+    21:00     Barcelona v Mallorca  1-0 (0-0)   @ Estadi Olímpic Lluís Companys › Barcelona
   Sat Mar 9
-    14.00     Valencia v Getafe  1-0 (1-0)   @ Estadio de Mestalla › Valencia
-    16.15     Cadiz v Atletico Madrid  2-0 (1-0)   @ Estadio Nuevo Mirandilla › Cádiz
-    18.30     Granada CF v Real Sociedad  2-3 (2-1)   @ Estadio Nuevo Los Cármenes › Granada
-    21.00     Girona v Osasuna  2-0 (1-0)   @ Estadi Municipal de Montilivi › Girona
+    14:00     Valencia v Getafe  1-0 (1-0)   @ Estadio de Mestalla › Valencia
+    16:15     Cadiz v Atletico Madrid  2-0 (1-0)   @ Estadio Nuevo Mirandilla › Cádiz
+    18:30     Granada CF v Real Sociedad  2-3 (2-1)   @ Estadio Nuevo Los Cármenes › Granada
+    21:00     Girona v Osasuna  2-0 (1-0)   @ Estadi Municipal de Montilivi › Girona
   Sun Mar 10
-    14.00     Alaves v Rayo Vallecano  1-0 (1-0)   @ Estadio de Mendizorroza › Vitoria-Gasteiz
-    16.15     Las Palmas v Athletic Club  0-2 (0-1)   @ Estadio de Gran Canaria › Las Palmas de Gran Canaria
-    18.30     Real Madrid v Celta Vigo  4-0 (1-0)   @ Estadio Santiago Bernabéu › Madrid
-    21.00     Real Betis v Villarreal  2-3 (2-1)   @ Estadio Benito Villamarín › Sevilla
+    14:00     Alaves v Rayo Vallecano  1-0 (1-0)   @ Estadio de Mendizorroza › Vitoria-Gasteiz
+    16:15     Las Palmas v Athletic Club  0-2 (0-1)   @ Estadio de Gran Canaria › Las Palmas de Gran Canaria
+    18:30     Real Madrid v Celta Vigo  4-0 (1-0)   @ Estadio Santiago Bernabéu › Madrid
+    21:00     Real Betis v Villarreal  2-3 (2-1)   @ Estadio Benito Villamarín › Sevilla
   Mon Mar 11
-    21.00     Almeria v Sevilla  2-2 (1-0)   @ Power Horse Stadium › Almería
-» Regular Season - 29
+    21:00     Almeria v Sevilla  2-2 (1-0)   @ Power Horse Stadium › Almería
+▪ Regular Season - 29
   Fri Mar 15
-    21.00     Real Sociedad v Cadiz  2-0 (1-0)   @ Reale Arena › Donostia-San Sebastián
+    21:00     Real Sociedad v Cadiz  2-0 (1-0)   @ Reale Arena › Donostia-San Sebastián
   Sat Mar 16
-    14.00     Mallorca v Granada CF  1-0 (0-0)   @ Estadi Mallorca Son Moix › Palma de Mallorca
-    16.15     Osasuna v Real Madrid  2-4 (1-2)   @ Estadio El Sadar › Iruñea
-    18.30     Getafe v Girona  1-0 (1-0)   @ Estadio Coliseum › Getafe
-    21.00     Athletic Club v Alaves  2-0 (2-0)   @ San Mamés Barria › Bilbao
+    14:00     Mallorca v Granada CF  1-0 (0-0)   @ Estadi Mallorca Son Moix › Palma de Mallorca
+    16:15     Osasuna v Real Madrid  2-4 (1-2)   @ Estadio El Sadar › Iruñea
+    18:30     Getafe v Girona  1-0 (1-0)   @ Estadio Coliseum › Getafe
+    21:00     Athletic Club v Alaves  2-0 (2-0)   @ San Mamés Barria › Bilbao
   Sun Mar 17
-    14.00     Sevilla v Celta Vigo  1-2 (1-0)   @ Estadio Ramón Sánchez Pizjuán › Sevilla
-    16.15     Villarreal v Valencia  1-0 (0-0)   @ Estadio de la Cerámica › Villarreal
+    14:00     Sevilla v Celta Vigo  1-2 (1-0)   @ Estadio Ramón Sánchez Pizjuán › Sevilla
+    16:15     Villarreal v Valencia  1-0 (0-0)   @ Estadio de la Cerámica › Villarreal
               Las Palmas v Almeria  0-1 (0-1)   @ Estadio de Gran Canaria › Las Palmas de Gran Canaria
-    18.30     Rayo Vallecano v Real Betis  2-0 (1-0)   @ Estadio de Vallecas › Madrid
-    21.00     Atletico Madrid v Barcelona  0-3 (0-1)   @ Estádio Cívitas Metropolitano › Madrid
-» Regular Season - 30
+    18:30     Rayo Vallecano v Real Betis  2-0 (1-0)   @ Estadio de Vallecas › Madrid
+    21:00     Atletico Madrid v Barcelona  0-3 (0-1)   @ Estádio Cívitas Metropolitano › Madrid
+▪ Regular Season - 30
   Fri Mar 29
-    21.00     Cadiz v Granada CF  1-0 (0-0)   @ Estadio Nuevo Mirandilla › Cádiz
+    21:00     Cadiz v Granada CF  1-0 (0-0)   @ Estadio Nuevo Mirandilla › Cádiz
   Sat Mar 30
-    14.00     Getafe v Sevilla  0-1 (0-1)   @ Estadio Coliseum › Getafe
-    16.15     Almeria v Osasuna  0-3 (0-2)   @ Power Horse Stadium › Almería
-    18.30     Valencia v Mallorca  0-0 (0-0)   @ Estadio de Mestalla › Valencia
-    21.00     Barcelona v Las Palmas  1-0 (0-0)   @ Estadi Olímpic Lluís Companys › Barcelona
+    14:00     Getafe v Sevilla  0-1 (0-1)   @ Estadio Coliseum › Getafe
+    16:15     Almeria v Osasuna  0-3 (0-2)   @ Power Horse Stadium › Almería
+    18:30     Valencia v Mallorca  0-0 (0-0)   @ Estadio de Mestalla › Valencia
+    21:00     Barcelona v Las Palmas  1-0 (0-0)   @ Estadi Olímpic Lluís Companys › Barcelona
   Sun Mar 31
-    14.00     Celta Vigo v Rayo Vallecano  0-0 (0-0)   @ Estadio Abanca-Balaídos › Vigo
-    16.15     Girona v Real Betis  3-2 (1-1)   @ Estadi Municipal de Montilivi › Girona
-    18.30     Alaves v Real Sociedad  0-1 (0-0)   @ Estadio de Mendizorroza › Vitoria-Gasteiz
-    21.00     Real Madrid v Athletic Club  2-0 (1-0)   @ Estadio Santiago Bernabéu › Madrid
+    14:00     Celta Vigo v Rayo Vallecano  0-0 (0-0)   @ Estadio Abanca-Balaídos › Vigo
+    16:15     Girona v Real Betis  3-2 (1-1)   @ Estadi Municipal de Montilivi › Girona
+    18:30     Alaves v Real Sociedad  0-1 (0-0)   @ Estadio de Mendizorroza › Vitoria-Gasteiz
+    21:00     Real Madrid v Athletic Club  2-0 (1-0)   @ Estadio Santiago Bernabéu › Madrid
   Mon Apr 1
-    21.00     Villarreal v Atletico Madrid  1-2 (0-1)   @ Estadio de la Cerámica › Villarreal
-» Regular Season - 26
+    21:00     Villarreal v Atletico Madrid  1-2 (0-1)   @ Estadio de la Cerámica › Villarreal
+▪ Regular Season - 26
   Thu Apr 4
-    20.00     Granada CF v Valencia  0-1 (0-0)   @ Estadio Nuevo Los Cármenes › Granada
-» Regular Season - 31
+    20:00     Granada CF v Valencia  0-1 (0-0)   @ Estadio Nuevo Los Cármenes › Granada
+▪ Regular Season - 31
   Fri Apr 12
-    21.00     Real Betis v Celta Vigo  2-1 (0-0)   @ Estadio Benito Villamarín › Sevilla
+    21:00     Real Betis v Celta Vigo  2-1 (0-0)   @ Estadio Benito Villamarín › Sevilla
   Sat Apr 13
-    14.00     Atletico Madrid v Girona  3-1 (2-1)   @ Estádio Cívitas Metropolitano › Madrid
-    16.15     Rayo Vallecano v Getafe  0-0 (0-0)   @ Estadio de Vallecas › Madrid
-    18.30     Mallorca v Real Madrid  0-1 (0-0)   @ Estadi Mallorca Son Moix › Palma de Mallorca
-    21.00     Cadiz v Barcelona  0-1 (0-1)   @ Estadio Nuevo Mirandilla › Cádiz
+    14:00     Atletico Madrid v Girona  3-1 (2-1)   @ Estádio Cívitas Metropolitano › Madrid
+    16:15     Rayo Vallecano v Getafe  0-0 (0-0)   @ Estadio de Vallecas › Madrid
+    18:30     Mallorca v Real Madrid  0-1 (0-0)   @ Estadi Mallorca Son Moix › Palma de Mallorca
+    21:00     Cadiz v Barcelona  0-1 (0-1)   @ Estadio Nuevo Mirandilla › Cádiz
   Sun Apr 14
-    14.00     Las Palmas v Sevilla  0-2 (0-1)   @ Estadio de Gran Canaria › Las Palmas de Gran Canaria
-    16.15     Granada CF v Alaves  2-0 (2-0)   @ Estadio Nuevo Los Cármenes › Granada
-    18.30     Athletic Club v Villarreal  1-1 (0-0)   @ San Mamés Barria › Bilbao
-    21.00     Real Sociedad v Almeria  2-2 (1-1)   @ Reale Arena › Donostia-San Sebastián
+    14:00     Las Palmas v Sevilla  0-2 (0-1)   @ Estadio de Gran Canaria › Las Palmas de Gran Canaria
+    16:15     Granada CF v Alaves  2-0 (2-0)   @ Estadio Nuevo Los Cármenes › Granada
+    18:30     Athletic Club v Villarreal  1-1 (0-0)   @ San Mamés Barria › Bilbao
+    21:00     Real Sociedad v Almeria  2-2 (1-1)   @ Reale Arena › Donostia-San Sebastián
   Mon Apr 15
-    21.00     Osasuna v Valencia  0-1 (0-1)   @ Estadio El Sadar › Iruñea
-» Regular Season - 32
+    21:00     Osasuna v Valencia  0-1 (0-1)   @ Estadio El Sadar › Iruñea
+▪ Regular Season - 32
   Fri Apr 19
-    21.00     Athletic Club v Granada CF  1-1 (1-1)   @ San Mamés Barria › Bilbao
+    21:00     Athletic Club v Granada CF  1-1 (1-1)   @ San Mamés Barria › Bilbao
   Sat Apr 20
-    14.00     Celta Vigo v Las Palmas  4-1 (2-1)   @ Estadio Abanca-Balaídos › Vigo
-    16.15     Rayo Vallecano v Osasuna  2-1 (0-1)   @ Estadio de Vallecas › Madrid
-    18.30     Valencia v Real Betis  1-2 (0-1)   @ Estadio de Mestalla › Valencia
-    21.00     Girona v Cadiz  4-1 (2-0)   @ Estadi Municipal de Montilivi › Girona
+    14:00     Celta Vigo v Las Palmas  4-1 (2-1)   @ Estadio Abanca-Balaídos › Vigo
+    16:15     Rayo Vallecano v Osasuna  2-1 (0-1)   @ Estadio de Vallecas › Madrid
+    18:30     Valencia v Real Betis  1-2 (0-1)   @ Estadio de Mestalla › Valencia
+    21:00     Girona v Cadiz  4-1 (2-0)   @ Estadi Municipal de Montilivi › Girona
   Sun Apr 21
-    14.00     Getafe v Real Sociedad  1-1 (1-1)   @ Estadio Coliseum › Getafe
-    16.15     Almeria v Villarreal  1-2 (1-1)   @ Power Horse Stadium › Almería
-    18.30     Alaves v Atletico Madrid  2-0 (1-0)   @ Estadio de Mendizorroza › Vitoria-Gasteiz
-    21.00     Real Madrid v Barcelona  3-2 (1-1)   @ Estadio Santiago Bernabéu › Madrid
+    14:00     Getafe v Real Sociedad  1-1 (1-1)   @ Estadio Coliseum › Getafe
+    16:15     Almeria v Villarreal  1-2 (1-1)   @ Power Horse Stadium › Almería
+    18:30     Alaves v Atletico Madrid  2-0 (1-0)   @ Estadio de Mendizorroza › Vitoria-Gasteiz
+    21:00     Real Madrid v Barcelona  3-2 (1-1)   @ Estadio Santiago Bernabéu › Madrid
   Mon Apr 22
-    21.00     Sevilla v Mallorca  2-1 (0-0)   @ Estadio Ramón Sánchez Pizjuán › Sevilla
-» Regular Season - 33
+    21:00     Sevilla v Mallorca  2-1 (0-0)   @ Estadio Ramón Sánchez Pizjuán › Sevilla
+▪ Regular Season - 33
   Fri Apr 26
-    21.00     Real Sociedad v Real Madrid  0-1 (0-1)   @ Reale Arena › Donostia-San Sebastián
+    21:00     Real Sociedad v Real Madrid  0-1 (0-1)   @ Reale Arena › Donostia-San Sebastián
   Sat Apr 27
-    14.00     Las Palmas v Girona  0-2 (0-1)   @ Estadio de Gran Canaria › Las Palmas de Gran Canaria
-    16.15     Almeria v Getafe  1-3 (1-1)   @ Power Horse Stadium › Almería
-    18.30     Alaves v Celta Vigo  3-0 (0-0)   @ Estadio de Mendizorroza › Vitoria-Gasteiz
-    21.00     Atletico Madrid v Athletic Club  3-1 (1-1)   @ Estádio Cívitas Metropolitano › Madrid
+    14:00     Las Palmas v Girona  0-2 (0-1)   @ Estadio de Gran Canaria › Las Palmas de Gran Canaria
+    16:15     Almeria v Getafe  1-3 (1-1)   @ Power Horse Stadium › Almería
+    18:30     Alaves v Celta Vigo  3-0 (0-0)   @ Estadio de Mendizorroza › Vitoria-Gasteiz
+    21:00     Atletico Madrid v Athletic Club  3-1 (1-1)   @ Estádio Cívitas Metropolitano › Madrid
   Sun Apr 28
-    14.00     Cadiz v Mallorca  1-1 (0-1)   @ Estadio Nuevo Mirandilla › Cádiz
-    16.15     Granada CF v Osasuna  3-0 (1-0)   @ Estadio Nuevo Los Cármenes › Granada
-    18.30     Villarreal v Rayo Vallecano  3-0 (1-0)   @ Estadio de la Cerámica › Villarreal
-    21.00     Real Betis v Sevilla  1-1 (1-0)   @ Estadio Benito Villamarín › Sevilla
+    14:00     Cadiz v Mallorca  1-1 (0-1)   @ Estadio Nuevo Mirandilla › Cádiz
+    16:15     Granada CF v Osasuna  3-0 (1-0)   @ Estadio Nuevo Los Cármenes › Granada
+    18:30     Villarreal v Rayo Vallecano  3-0 (1-0)   @ Estadio de la Cerámica › Villarreal
+    21:00     Real Betis v Sevilla  1-1 (1-0)   @ Estadio Benito Villamarín › Sevilla
   Mon Apr 29
-    21.00     Barcelona v Valencia  4-2 (1-2)   @ Estadi Olímpic Lluís Companys › Barcelona
-» Regular Season - 34
+    21:00     Barcelona v Valencia  4-2 (1-2)   @ Estadi Olímpic Lluís Companys › Barcelona
+▪ Regular Season - 34
   Fri May 3
-    21.00     Getafe v Athletic Club  0-2 (0-1)   @ Estadio Coliseum › Getafe
+    21:00     Getafe v Athletic Club  0-2 (0-1)   @ Estadio Coliseum › Getafe
   Sat May 4
-    14.00     Real Sociedad v Las Palmas  2-0 (2-0)   @ Reale Arena › Donostia-San Sebastián
-    16.15     Real Madrid v Cadiz  3-0 (0-0)   @ Estadio Santiago Bernabéu › Madrid
-    18.30     Girona v Barcelona  4-2 (1-2)   @ Estadi Municipal de Montilivi › Girona
-    21.00     Mallorca v Atletico Madrid  0-1 (0-1)   @ Estadi Mallorca Son Moix › Palma de Mallorca
+    14:00     Real Sociedad v Las Palmas  2-0 (2-0)   @ Reale Arena › Donostia-San Sebastián
+    16:15     Real Madrid v Cadiz  3-0 (0-0)   @ Estadio Santiago Bernabéu › Madrid
+    18:30     Girona v Barcelona  4-2 (1-2)   @ Estadi Municipal de Montilivi › Girona
+    21:00     Mallorca v Atletico Madrid  0-1 (0-1)   @ Estadi Mallorca Son Moix › Palma de Mallorca
   Sun May 5
-    14.00     Osasuna v Real Betis  0-2 (0-2)   @ Estadio El Sadar › Iruñea
-    16.15     Celta Vigo v Villarreal  3-2 (2-1)   @ Estadio Abanca-Balaídos › Vigo
-    18.30     Valencia v Alaves  0-1 (0-0)   @ Estadio de Mestalla › Valencia
-    21.00     Sevilla v Granada CF  3-0 (1-0)   @ Estadio Ramón Sánchez Pizjuán › Sevilla
+    14:00     Osasuna v Real Betis  0-2 (0-2)   @ Estadio El Sadar › Iruñea
+    16:15     Celta Vigo v Villarreal  3-2 (2-1)   @ Estadio Abanca-Balaídos › Vigo
+    18:30     Valencia v Alaves  0-1 (0-0)   @ Estadio de Mestalla › Valencia
+    21:00     Sevilla v Granada CF  3-0 (1-0)   @ Estadio Ramón Sánchez Pizjuán › Sevilla
               Rayo Vallecano v Almeria  0-1 (0-1)   @ Estadio de Vallecas › Madrid
-» Regular Season - 35
+▪ Regular Season - 35
   Fri May 10
-    21.00     Alaves v Girona  2-2 (1-2)   @ Estadio de Mendizorroza › Vitoria-Gasteiz
+    21:00     Alaves v Girona  2-2 (1-2)   @ Estadio de Mendizorroza › Vitoria-Gasteiz
   Sat May 11
-    14.00     Mallorca v Las Palmas  1-0 (1-0)   @ Estadi Mallorca Son Moix › Palma de Mallorca
-    16.15     Villarreal v Sevilla  3-2 (1-2)   @ Estadio de la Cerámica › Villarreal
-    18.30     Granada CF v Real Madrid  0-4 (0-2)   @ Estadio Nuevo Los Cármenes › Granada
-    21.00     Athletic Club v Osasuna  2-2 (0-1)   @ San Mamés Barria › Bilbao
+    14:00     Mallorca v Las Palmas  1-0 (1-0)   @ Estadi Mallorca Son Moix › Palma de Mallorca
+    16:15     Villarreal v Sevilla  3-2 (1-2)   @ Estadio de la Cerámica › Villarreal
+    18:30     Granada CF v Real Madrid  0-4 (0-2)   @ Estadio Nuevo Los Cármenes › Granada
+    21:00     Athletic Club v Osasuna  2-2 (0-1)   @ San Mamés Barria › Bilbao
   Sun May 12
-    14.00     Cadiz v Getafe  1-0 (1-0)   @ Estadio Nuevo Mirandilla › Cádiz
-    16.15     Atletico Madrid v Celta Vigo  1-0 (0-0)   @ Estádio Cívitas Metropolitano › Madrid
-    18.30     Valencia v Rayo Vallecano  0-0 (0-0)   @ Estadio de Mestalla › Valencia
-    21.00     Real Betis v Almeria  3-2 (2-1)   @ Estadio Benito Villamarín › Sevilla
+    14:00     Cadiz v Getafe  1-0 (1-0)   @ Estadio Nuevo Mirandilla › Cádiz
+    16:15     Atletico Madrid v Celta Vigo  1-0 (0-0)   @ Estádio Cívitas Metropolitano › Madrid
+    18:30     Valencia v Rayo Vallecano  0-0 (0-0)   @ Estadio de Mestalla › Valencia
+    21:00     Real Betis v Almeria  3-2 (2-1)   @ Estadio Benito Villamarín › Sevilla
   Mon May 13
-    21.00     Barcelona v Real Sociedad  2-0 (1-0)   @ Estadi Olímpic Lluís Companys › Barcelona
-» Regular Season - 36
+    21:00     Barcelona v Real Sociedad  2-0 (1-0)   @ Estadi Olímpic Lluís Companys › Barcelona
+▪ Regular Season - 36
   Tue May 14
-    19.30     Osasuna v Mallorca  1-1 (1-0)   @ Estadio El Sadar › Iruñea
-    21.30     Real Madrid v Alaves  5-0 (3-0)   @ Estadio Santiago Bernabéu › Madrid
-    22.00     Girona v Villarreal  0-1 (0-0)   @ Estadi Municipal de Montilivi › Girona
+    19:30     Osasuna v Mallorca  1-1 (1-0)   @ Estadio El Sadar › Iruñea
+    21:30     Real Madrid v Alaves  5-0 (3-0)   @ Estadio Santiago Bernabéu › Madrid
+    22:00     Girona v Villarreal  0-1 (0-0)   @ Estadi Municipal de Montilivi › Girona
   Wed May 15
-    19.30     Rayo Vallecano v Granada CF  2-1 (1-0)   @ Estadio de Vallecas › Madrid
+    19:30     Rayo Vallecano v Granada CF  2-1 (1-0)   @ Estadio de Vallecas › Madrid
               Sevilla v Cadiz  0-1 (0-0)   @ Estadio Ramón Sánchez Pizjuán › Sevilla
-    22.00     Getafe v Atletico Madrid  0-3 (0-2)   @ Estadio Coliseum › Getafe
+    22:00     Getafe v Atletico Madrid  0-3 (0-2)   @ Estadio Coliseum › Getafe
               Celta Vigo v Athletic Club  2-1 (0-1)   @ Estadio Abanca-Balaídos › Vigo
   Thu May 16
-    19.30     Las Palmas v Real Betis  2-2 (1-1)   @ Estadio de Gran Canaria › Las Palmas de Gran Canaria
-    21.30     Almeria v Barcelona  0-2 (0-1)   @ Power Horse Stadium › Almería
-    22.00     Real Sociedad v Valencia  1-0 (1-0)   @ Reale Arena › Donostia-San Sebastián
-» Regular Season - 37
+    19:30     Las Palmas v Real Betis  2-2 (1-1)   @ Estadio de Gran Canaria › Las Palmas de Gran Canaria
+    21:30     Almeria v Barcelona  0-2 (0-1)   @ Power Horse Stadium › Almería
+    22:00     Real Sociedad v Valencia  1-0 (1-0)   @ Reale Arena › Donostia-San Sebastián
+▪ Regular Season - 37
   Sat May 18
-    21.00     Alaves v Getafe  1-0 (1-0)   @ Estadio de Mendizorroza › Vitoria-Gasteiz
+    21:00     Alaves v Getafe  1-0 (1-0)   @ Estadio de Mendizorroza › Vitoria-Gasteiz
   Sun May 19
-    19.00     Barcelona v Rayo Vallecano  3-0 (1-0)   @ Estadi Olímpic Lluís Companys › Barcelona
+    19:00     Barcelona v Rayo Vallecano  3-0 (1-0)   @ Estadi Olímpic Lluís Companys › Barcelona
               Atletico Madrid v Osasuna  1-4 (0-1)   @ Estádio Cívitas Metropolitano › Madrid
               Athletic Club v Sevilla  2-0 (2-0)   @ San Mamés Barria › Bilbao
               Valencia v Girona  1-3 (0-1)   @ Estadio de Mestalla › Valencia
@@ -559,17 +559,17 @@
               Granada CF v Celta Vigo  1-2 (0-0)   @ Estadio Nuevo Los Cármenes › Granada
               Cadiz v Las Palmas  0-0 (0-0)   @ Estadio Nuevo Mirandilla › Cádiz
               Mallorca v Almeria  2-2 (1-1)   @ Estadi Mallorca Son Moix › Palma de Mallorca
-» Regular Season - 38
+▪ Regular Season - 38
   Fri May 24
-    21.00     Girona v Granada CF  7-0 (3-0)   @ Estadi Municipal de Montilivi › Girona
+    21:00     Girona v Granada CF  7-0 (3-0)   @ Estadi Municipal de Montilivi › Girona
   Sat May 25
-    14.00     Osasuna v Villarreal  1-1 (1-0)   @ Estadio El Sadar › Iruñea
-    16.15     Real Sociedad v Atletico Madrid  0-2 (0-1)   @ Reale Arena › Donostia-San Sebastián
-    18.30     Rayo Vallecano v Athletic Club  0-1 (0-0)   @ Estadio de Vallecas › Madrid
+    14:00     Osasuna v Villarreal  1-1 (1-0)   @ Estadio El Sadar › Iruñea
+    16:15     Real Sociedad v Atletico Madrid  0-2 (0-1)   @ Reale Arena › Donostia-San Sebastián
+    18:30     Rayo Vallecano v Athletic Club  0-1 (0-0)   @ Estadio de Vallecas › Madrid
               Almeria v Cadiz  6-1 (0-1)   @ Power Horse Stadium › Almería
-    21.00     Real Madrid v Real Betis  0-0 (0-0)   @ Estadio Santiago Bernabéu › Madrid
+    21:00     Real Madrid v Real Betis  0-0 (0-0)   @ Estadio Santiago Bernabéu › Madrid
   Sun May 26
-    14.00     Getafe v Mallorca  1-2 (0-0)   @ Estadio Coliseum › Getafe
-    16.15     Celta Vigo v Valencia  2-2 (0-1)   @ Abanca-Balaídos › Vigo
+    14:00     Getafe v Mallorca  1-2 (0-0)   @ Estadio Coliseum › Getafe
+    16:15     Celta Vigo v Valencia  2-2 (0-1)   @ Abanca-Balaídos › Vigo
               Las Palmas v Alaves  1-1 (0-0)   @ Estadio de Gran Canaria › Las Palmas de Gran Canaria
-    21.00     Sevilla v Barcelona  1-2 (1-1)   @ Estadio Ramón Sánchez Pizjuán › Sevilla
+    21:00     Sevilla v Barcelona  1-2 (1-1)   @ Estadio Ramón Sánchez Pizjuán › Sevilla

@@ -1,338 +1,338 @@
 = China | Super League 2023
 
-  # Date       Sat Apr/15 - Sat Nov/4 2023 (203d)
+  # Date       Sat Apr 15 - Sat Nov 4 2023 (203d)
   # Teams      16
   # Matches    240
 
   # Note - All times in Asia/Shanghai
 
-» Regular Season - 1
+▪ Regular Season - 1
   Sat Apr 15 2023
-    19.35     Hangzhou Greentown v Changchun Yatai  0-2 (0-0)   @ Huzhou Olympic Sports Center › Huzhou
+    19:35     Hangzhou Greentown v Changchun Yatai  0-2 (0-0)   @ Huzhou Olympic Sports Center › Huzhou
   Sat Apr 15
-    19.35     Wuhan Three Towns v SHANGHAI SIPG  0-2 (0-0)   @ Wuhan Sports Center Stadium › Wuhan
+    19:35     Wuhan Three Towns v SHANGHAI SIPG  0-2 (0-0)   @ Wuhan Sports Center Stadium › Wuhan
               Dalian Aerbin v Nantong Zhiyun  2-1 (2-1)   @ Dalian Sports Center › Dalian
-    20.05     Beijing Guoan v Meizhou Kejia  1-1 (0-1)   @ Workers' Stadium › Beijing
+    20:05     Beijing Guoan v Meizhou Kejia  1-1 (0-1)   @ Workers' Stadium › Beijing
   Sun Apr 16
-    19.35     Shanghai Shenhua v Shandong Luneng  1-0 (1-0)   @ Shanghai Stadium › Shanghai
+    19:35     Shanghai Shenhua v Shandong Luneng  1-0 (1-0)   @ Shanghai Stadium › Shanghai
               Tianjin Teda v Shijiazhuang Y. J.  1-1 (0-1)   @ Tianjin Olympic Center Stadium › Tianjin
               Henan Jianye v Chengdu Better City  1-1 (0-1)   @ Zhengzhou Hanghai Stadium › Zhengzhou
               Shenzhen Ruby FC v Qingdao Jonoon  2-1 (2-0)   @ Shenzhen Universiade Sports Centre › Shenzhen
-» Regular Season - 2
+▪ Regular Season - 2
   Thu Apr 20
-    19.35     Wuhan Three Towns v Beijing Guoan  1-1 (0-0)   @ Wuhan Sports Center Stadium › Wuhan
+    19:35     Wuhan Three Towns v Beijing Guoan  1-1 (0-0)   @ Wuhan Sports Center Stadium › Wuhan
   Fri Apr 21
-    17.30     Meizhou Kejia v Shanghai Shenhua  0-1 (0-1)   @ Wuhua Olympic Sports Center Huitang Stadium › Wuhua
+    17:30     Meizhou Kejia v Shanghai Shenhua  0-1 (0-1)   @ Wuhua Olympic Sports Center Huitang Stadium › Wuhua
               Tianjin Teda v Hangzhou Greentown  2-1 (2-1)   @ Tianjin Olympic Center Stadium › Tianjin
-    19.35     Shandong Luneng v Nantong Zhiyun  1-1 (0-1)   @ Jinan Olympic Sports Center Stadium › Ji'nan
+    19:35     Shandong Luneng v Nantong Zhiyun  1-1 (0-1)   @ Jinan Olympic Sports Center Stadium › Ji'nan
               Chengdu Better City v Shijiazhuang Y. J.  2-1 (2-0)   @ Chengdu Phoenix Mountain Sports Park › Chengdu
               Henan Jianye v Qingdao Jonoon  0-0 (0-0)   @ Zhengzhou Hanghai Stadium › Zhengzhou
   Sat Apr 22
-    15.30     SHANGHAI SIPG v Shenzhen Ruby FC  3-2 (1-0)   @ SAIC Motor Pudong Arena › Shanghai
-    19.35     Changchun Yatai v Dalian Aerbin  3-2 (1-0)   @ Changchun's People Stadium › Changchun
-» Regular Season - 3
+    15:30     SHANGHAI SIPG v Shenzhen Ruby FC  3-2 (1-0)   @ SAIC Motor Pudong Arena › Shanghai
+    19:35     Changchun Yatai v Dalian Aerbin  3-2 (1-0)   @ Changchun's People Stadium › Changchun
+▪ Regular Season - 3
   Tue Apr 25
-    19.35     Qingdao Jonoon v Beijing Guoan  3-1 (2-0)   @ Qingdao Youth Football Stadium › Qingdao
+    19:35     Qingdao Jonoon v Beijing Guoan  3-1 (2-0)   @ Qingdao Youth Football Stadium › Qingdao
               Meizhou Kejia v Wuhan Three Towns  1-2 (1-1)   @ Wuhua Olympic Sports Center Huitang Stadium › Wuhua
               Shandong Luneng v Hangzhou Greentown  2-1 (1-0)   @ Jinan Olympic Sports Center Stadium › Ji'nan
   Wed Apr 26
-    17.30     Shijiazhuang Y. J. v SHANGHAI SIPG  0-1 (0-1)   @ Cangzhou Stadium › Cangzhou
-    19.35     Dalian Aerbin v Chengdu Better City  0-0 (0-0)   @ Dalian Sports Center › Dalian
+    17:30     Shijiazhuang Y. J. v SHANGHAI SIPG  0-1 (0-1)   @ Cangzhou Stadium › Cangzhou
+    19:35     Dalian Aerbin v Chengdu Better City  0-0 (0-0)   @ Dalian Sports Center › Dalian
               Shanghai Shenhua v Changchun Yatai  1-0 (0-0)   @ Shanghai Stadium › Shanghai
               Shenzhen Ruby FC v Tianjin Teda  0-2 (0-2)   @ Shenzhen Universiade Sports Centre › Shenzhen
               Nantong Zhiyun v Henan Jianye  1-0 (0-0)   @ Rugao Olympic Sports Center Stadium › Rugao
-» Regular Season - 4
+▪ Regular Season - 4
   Sat Apr 29
-    19.35     Qingdao Jonoon v Wuhan Three Towns  0-3 (0-2)   @ Qingdao Youth Football Stadium › Qingdao
+    19:35     Qingdao Jonoon v Wuhan Three Towns  0-3 (0-2)   @ Qingdao Youth Football Stadium › Qingdao
               Beijing Guoan v Shandong Luneng  0-0 (0-0)   @ Workers' Stadium › Beijing
   Sun Apr 30
-    15.30     Hangzhou Greentown v Chengdu Better City  0-2 (0-1)   @ Huzhou Olympic Sports Center › Huzhou
+    15:30     Hangzhou Greentown v Chengdu Better City  0-2 (0-1)   @ Huzhou Olympic Sports Center › Huzhou
               Changchun Yatai v Tianjin Teda  1-1 (0-1)   @ Changchun's People Stadium › Changchun
-    17.30     Shenzhen Ruby FC v Henan Jianye  1-1 (0-0)   @ Shenzhen Universiade Sports Centre › Shenzhen
-    19.35     Shijiazhuang Y. J. v Nantong Zhiyun  1-1 (0-1)   @ Cangzhou Stadium › Cangzhou
+    17:30     Shenzhen Ruby FC v Henan Jianye  1-1 (0-0)   @ Shenzhen Universiade Sports Centre › Shenzhen
+    19:35     Shijiazhuang Y. J. v Nantong Zhiyun  1-1 (0-1)   @ Cangzhou Stadium › Cangzhou
               SHANGHAI SIPG v Shanghai Shenhua  1-1 (1-0)   @ SAIC Motor Pudong Arena › Shanghai
   Mon May 1
-    19.35     Dalian Aerbin v Meizhou Kejia  1-1 (0-0)   @ Dalian Sports Center › Dalian
-» Regular Season - 5
+    19:35     Dalian Aerbin v Meizhou Kejia  1-1 (0-0)   @ Dalian Sports Center › Dalian
+▪ Regular Season - 5
   Fri May 5
-    19.35     Henan Jianye v Beijing Guoan  0-1 (0-0)   @ Zhengzhou Hanghai Stadium › Zhengzhou
+    19:35     Henan Jianye v Beijing Guoan  0-1 (0-0)   @ Zhengzhou Hanghai Stadium › Zhengzhou
               Shenzhen Ruby FC v Shijiazhuang Y. J.  0-1 (0-1)   @ Shenzhen Universiade Sports Centre › Shenzhen
               Wuhan Three Towns v Hangzhou Greentown  0-0 (0-0)   @ Wuhan Sports Center Stadium › Wuhan
               Shanghai Shenhua v Dalian Aerbin  1-0 (0-0)   @ Shanghai Stadium › Shanghai
   Sat May 6
-    15.30     Meizhou Kejia v Shandong Luneng  2-1 (0-1)   @ Wuhua Olympic Sports Center Huitang Stadium › Wuhua
-    19.35     Nantong Zhiyun v Changchun Yatai  0-1 (0-1)   @ Rugao Olympic Sports Center Stadium › Rugao
+    15:30     Meizhou Kejia v Shandong Luneng  2-1 (0-1)   @ Wuhua Olympic Sports Center Huitang Stadium › Wuhua
+    19:35     Nantong Zhiyun v Changchun Yatai  0-1 (0-1)   @ Rugao Olympic Sports Center Stadium › Rugao
               Chengdu Better City v Qingdao Jonoon  3-2 (2-0)   @ Chengdu Phoenix Mountain Sports Park › Chengdu
               Tianjin Teda v SHANGHAI SIPG  0-0 (0-0)   @ Tianjin Olympic Center Stadium › Tianjin
-» Regular Season - 6
+▪ Regular Season - 6
   Tue May 9
-    19.35     Henan Jianye v Wuhan Three Towns  1-1 (1-0)   @ Zhengzhou Hanghai Stadium › Zhengzhou
+    19:35     Henan Jianye v Wuhan Three Towns  1-1 (1-0)   @ Zhengzhou Hanghai Stadium › Zhengzhou
               Shenzhen Ruby FC v Shanghai Shenhua  1-3 (0-1)   @ Shenzhen Universiade Sports Centre › Shenzhen
               Dalian Aerbin v Shijiazhuang Y. J.  1-1 (0-0)   @ Dalian Sports Center › Dalian
   Wed May 10
-    19.35     Beijing Guoan v Tianjin Teda  1-1 (0-0)   @ Workers' Stadium › Beijing
+    19:35     Beijing Guoan v Tianjin Teda  1-1 (0-0)   @ Workers' Stadium › Beijing
               Changchun Yatai v Meizhou Kejia  2-4 (2-1)   @ Changchun's People Stadium › Changchun
               SHANGHAI SIPG v Qingdao Jonoon  2-1 (0-0)   @ SAIC Motor Pudong Arena › Shanghai
               Nantong Zhiyun v Hangzhou Greentown  1-2 (0-1)   @ Rugao Olympic Sports Center Stadium › Rugao
               Chengdu Better City v Shandong Luneng  2-2 (0-0)   @ Chengdu Phoenix Mountain Sports Park › Chengdu
-» Regular Season - 7
+▪ Regular Season - 7
   Sat May 13
-    15.30     Shanghai Shenhua v Wuhan Three Towns  1-1 (1-1)   @ Shanghai Stadium › Shanghai
-    19.35     Shenzhen Ruby FC v Dalian Aerbin  2-1 (1-1)   @ Shenzhen Universiade Sports Centre › Shenzhen
+    15:30     Shanghai Shenhua v Wuhan Three Towns  1-1 (1-1)   @ Shanghai Stadium › Shanghai
+    19:35     Shenzhen Ruby FC v Dalian Aerbin  2-1 (1-1)   @ Shenzhen Universiade Sports Centre › Shenzhen
   Sun May 14
-    15.30     Qingdao Jonoon v Meizhou Kejia  2-0 (0-0)   @ Qingdao Youth Football Stadium › Qingdao
-    17.30     Chengdu Better City v Changchun Yatai  2-2 (2-0)   @ Chengdu Phoenix Mountain Sports Park › Chengdu
-    19.35     Tianjin Teda v Henan Jianye  1-0 (0-0)   @ Tianjin Olympic Center Stadium › Tianjin
+    15:30     Qingdao Jonoon v Meizhou Kejia  2-0 (0-0)   @ Qingdao Youth Football Stadium › Qingdao
+    17:30     Chengdu Better City v Changchun Yatai  2-2 (2-0)   @ Chengdu Phoenix Mountain Sports Park › Chengdu
+    19:35     Tianjin Teda v Henan Jianye  1-0 (0-0)   @ Tianjin Olympic Center Stadium › Tianjin
               Hangzhou Greentown v SHANGHAI SIPG  1-2 (0-0)   @ Huzhou Olympic Sports Center › Huzhou
               Shijiazhuang Y. J. v Shandong Luneng  1-1 (1-0)   @ Cangzhou Stadium › Cangzhou
   Mon May 15
-    19.35     Beijing Guoan v Nantong Zhiyun  1-0 (1-0)   @ Workers' Stadium › Beijing
-» Regular Season - 8
+    19:35     Beijing Guoan v Nantong Zhiyun  1-0 (1-0)   @ Workers' Stadium › Beijing
+▪ Regular Season - 8
   Fri May 19
-    17.30     Wuhan Three Towns v Chengdu Better City  3-3 (1-1)   @ Wuhan Sports Center Stadium › Wuhan
-    19.35     Shanghai Shenhua v Beijing Guoan  1-1 (1-0)   @ Shanghai Stadium › Shanghai
+    17:30     Wuhan Three Towns v Chengdu Better City  3-3 (1-1)   @ Wuhan Sports Center Stadium › Wuhan
+    19:35     Shanghai Shenhua v Beijing Guoan  1-1 (1-0)   @ Shanghai Stadium › Shanghai
               Shijiazhuang Y. J. v Changchun Yatai  2-4 (0-1)   @ Cangzhou Stadium › Cangzhou
               Qingdao Jonoon v Hangzhou Greentown  2-2 (2-0)   @ Qingdao Youth Football Stadium › Qingdao
               Nantong Zhiyun v Shenzhen Ruby FC  1-1 (1-0)   @ Rugao Olympic Sports Center Stadium › Rugao
   Sat May 20
-    19.35     Henan Jianye v Dalian Aerbin  1-0 (1-0)   @ Zhengzhou Hanghai Stadium › Zhengzhou
+    19:35     Henan Jianye v Dalian Aerbin  1-0 (1-0)   @ Zhengzhou Hanghai Stadium › Zhengzhou
               Meizhou Kejia v SHANGHAI SIPG  0-2 (0-1)   @ Wuhua Olympic Sports Center Huitang Stadium › Wuhua
               Tianjin Teda v Shandong Luneng  3-3 (2-3)   @ Tianjin Olympic Center Stadium › Tianjin
-» Regular Season - 9
+▪ Regular Season - 9
   Tue May 23
-    19.35     Beijing Guoan v Shijiazhuang Y. J.  6-2 (3-2)   @ Workers' Stadium › Beijing
+    19:35     Beijing Guoan v Shijiazhuang Y. J.  6-2 (3-2)   @ Workers' Stadium › Beijing
               Changchun Yatai v Qingdao Jonoon  1-0 (1-0)   @ Changchun's People Stadium › Changchun
               Nantong Zhiyun v Wuhan Three Towns  0-5 (0-2)   @ Rugao Olympic Sports Center Stadium › Rugao
               Chengdu Better City v Shanghai Shenhua  2-1 (1-1)   @ Chengdu Phoenix Mountain Sports Park › Chengdu
   Wed May 24
-    19.35     SHANGHAI SIPG v Henan Jianye  3-2 (2-1)   @ SAIC Motor Pudong Arena › Shanghai
+    19:35     SHANGHAI SIPG v Henan Jianye  3-2 (2-1)   @ SAIC Motor Pudong Arena › Shanghai
               Shandong Luneng v Shenzhen Ruby FC  3-0 (1-0)   @ Jinan Olympic Sports Center Stadium › Ji'nan
               Meizhou Kejia v Tianjin Teda  1-1 (1-0)   @ Wuhua Olympic Sports Center Huitang Stadium › Wuhua
               Dalian Aerbin v Hangzhou Greentown  1-2 (0-2)   @ Dalian Sports Center › Dalian
-» Regular Season - 10
+▪ Regular Season - 10
   Sat May 27
-    15.00     Chengdu Better City v Nantong Zhiyun  1-0 (0-0)   @ Chengdu Phoenix Mountain Sports Park › Chengdu
-    19.35     Shijiazhuang Y. J. v Wuhan Three Towns  2-1 (0-1)   @ Cangzhou Stadium › Cangzhou
+    15:00     Chengdu Better City v Nantong Zhiyun  1-0 (0-0)   @ Chengdu Phoenix Mountain Sports Park › Chengdu
+    19:35     Shijiazhuang Y. J. v Wuhan Three Towns  2-1 (0-1)   @ Cangzhou Stadium › Cangzhou
   Sun May 28
-    17.30     Hangzhou Greentown v Beijing Guoan  3-2 (1-1)   @ Huzhou Olympic Sports Center › Huzhou
+    17:30     Hangzhou Greentown v Beijing Guoan  3-2 (1-1)   @ Huzhou Olympic Sports Center › Huzhou
               Qingdao Jonoon v Shandong Luneng  0-1 (0-1)   @ Qingdao Youth Football Stadium › Qingdao
-    19.35     Shanghai Shenhua v Henan Jianye  1-1 (0-1)   @ Shanghai Stadium › Shanghai
+    19:35     Shanghai Shenhua v Henan Jianye  1-1 (0-1)   @ Shanghai Stadium › Shanghai
               Shenzhen Ruby FC v Meizhou Kejia  3-2 (0-2)   @ Shenzhen Universiade Sports Centre › Shenzhen
               Dalian Aerbin v Tianjin Teda  0-1 (0-0)   @ Dalian Sports Center › Dalian
   Mon May 29
-    19.35     Changchun Yatai v SHANGHAI SIPG  0-3 (0-3)   @ Changchun's People Stadium › Changchun
-» Regular Season - 11
+    19:35     Changchun Yatai v SHANGHAI SIPG  0-3 (0-3)   @ Changchun's People Stadium › Changchun
+▪ Regular Season - 11
   Fri Jun 2
-    19.35     Hangzhou Greentown v Shenzhen Ruby FC  3-0 (0-0)   @ Huzhou Olympic Sports Center › Huzhou
+    19:35     Hangzhou Greentown v Shenzhen Ruby FC  3-0 (0-0)   @ Huzhou Olympic Sports Center › Huzhou
               Beijing Guoan v Changchun Yatai  4-3 (2-1)   @ Workers' Stadium › Beijing
   Sat Jun 3
-    17.30     SHANGHAI SIPG v Chengdu Better City  0-1 (0-0)   @ SAIC Motor Pudong Arena › Shanghai
-    19.35     Shandong Luneng v Dalian Aerbin  2-0 (2-0)   @ Jinan Olympic Sports Center Stadium › Ji'nan
+    17:30     SHANGHAI SIPG v Chengdu Better City  0-1 (0-0)   @ SAIC Motor Pudong Arena › Shanghai
+    19:35     Shandong Luneng v Dalian Aerbin  2-0 (2-0)   @ Jinan Olympic Sports Center Stadium › Ji'nan
               Henan Jianye v Meizhou Kejia  2-1 (0-1)   @ Zhengzhou Hanghai Stadium › Zhengzhou
   Sun Jun 4
-    15.30     Shijiazhuang Y. J. v Shanghai Shenhua  0-1 (0-0)   @ Cangzhou Stadium › Cangzhou
-    17.30     Nantong Zhiyun v Qingdao Jonoon  1-0 (0-0)   @ Rugao Olympic Sports Center Stadium › Rugao
-    19.35     Tianjin Teda v Wuhan Three Towns  1-1 (1-1)   @ Tianjin Olympic Center Stadium › Tianjin
-» Regular Season - 12
+    15:30     Shijiazhuang Y. J. v Shanghai Shenhua  0-1 (0-0)   @ Cangzhou Stadium › Cangzhou
+    17:30     Nantong Zhiyun v Qingdao Jonoon  1-0 (0-0)   @ Rugao Olympic Sports Center Stadium › Rugao
+    19:35     Tianjin Teda v Wuhan Three Towns  1-1 (1-1)   @ Tianjin Olympic Center Stadium › Tianjin
+▪ Regular Season - 12
   Thu Jun 8
-    19.35     Changchun Yatai v Shenzhen Ruby FC  4-1 (3-0)   @ Changchun's People Stadium › Changchun
+    19:35     Changchun Yatai v Shenzhen Ruby FC  4-1 (3-0)   @ Changchun's People Stadium › Changchun
               Qingdao Jonoon v Shanghai Shenhua  0-1 (0-0)   @ Qingdao Youth Football Stadium › Qingdao
               Chengdu Better City v Tianjin Teda  0-0 (0-0)   @ Chengdu Phoenix Mountain Sports Park › Chengdu
   Fri Jun 9
-    17.30     Henan Jianye v Hangzhou Greentown  2-2 (0-1)   @ Zhengzhou Hanghai Stadium › Zhengzhou
-    19.35     SHANGHAI SIPG v Nantong Zhiyun  2-1 (0-1)   @ SAIC Motor Pudong Arena › Shanghai
+    17:30     Henan Jianye v Hangzhou Greentown  2-2 (0-1)   @ Zhengzhou Hanghai Stadium › Zhengzhou
+    19:35     SHANGHAI SIPG v Nantong Zhiyun  2-1 (0-1)   @ SAIC Motor Pudong Arena › Shanghai
               Meizhou Kejia v Shijiazhuang Y. J.  2-3 (1-1)   @ Wuhua Olympic Sports Center Huitang Stadium › Wuhua
               Wuhan Three Towns v Shandong Luneng  1-1 (1-1)   @ Wuhan Sports Center Stadium › Wuhan
               Dalian Aerbin v Beijing Guoan  2-2 (2-0)   @ Dalian Sports Center › Dalian
-» Regular Season - 13
+▪ Regular Season - 13
   Wed Jun 28
-    19.35     Shanghai Shenhua v Nantong Zhiyun  1-0 (1-0)   @ Shanghai Stadium › Shanghai
+    19:35     Shanghai Shenhua v Nantong Zhiyun  1-0 (1-0)   @ Shanghai Stadium › Shanghai
               Tianjin Teda v Qingdao Jonoon  3-2 (2-1)   @ Tianjin Olympic Center Stadium › Tianjin
               Hangzhou Greentown v Meizhou Kejia  3-0 (1-0)   @ Huzhou Olympic Sports Center › Huzhou
               Shijiazhuang Y. J. v Henan Jianye  0-1 (0-0)   @ Cangzhou Stadium › Cangzhou
               Wuhan Three Towns v Dalian Aerbin  0-0 (0-0)   @ Wuhan Sports Center Stadium › Wuhan
   Thu Jun 29
-    19.35     Shandong Luneng v Changchun Yatai  4-1 (2-0)   @ Jinan Olympic Sports Center Stadium › Ji'nan
+    19:35     Shandong Luneng v Changchun Yatai  4-1 (2-0)   @ Jinan Olympic Sports Center Stadium › Ji'nan
               Shenzhen Ruby FC v Chengdu Better City  0-3 (0-1)   @ Shenzhen Universiade Sports Centre › Shenzhen
               Beijing Guoan v SHANGHAI SIPG  1-2 (0-1)   @ Workers' Stadium › Beijing
-» Regular Season - 14
+▪ Regular Season - 14
   Sun Jul 2
-    17.30     Shanghai Shenhua v Tianjin Teda  1-2 (1-0)   @ Shanghai Stadium › Shanghai
-    19.35     Dalian Aerbin v Qingdao Jonoon  1-1 (0-0)   @ Dalian Suoyuwan Football Stadium › Dalian
+    17:30     Shanghai Shenhua v Tianjin Teda  1-2 (1-0)   @ Shanghai Stadium › Shanghai
+    19:35     Dalian Aerbin v Qingdao Jonoon  1-1 (0-0)   @ Dalian Suoyuwan Football Stadium › Dalian
               Shijiazhuang Y. J. v Hangzhou Greentown  2-1 (2-0)   @ Cangzhou Stadium › Cangzhou
               Nantong Zhiyun v Meizhou Kejia  2-2 (0-1)   @ Rugao Olympic Sports Center Stadium › Rugao
   Mon Jul 3
-    19.35     Shandong Luneng v SHANGHAI SIPG  1-1 (1-0)   @ Jinan Olympic Sports Center Stadium › Ji'nan
+    19:35     Shandong Luneng v SHANGHAI SIPG  1-1 (1-0)   @ Jinan Olympic Sports Center Stadium › Ji'nan
               Shenzhen Ruby FC v Wuhan Three Towns  1-3 (1-1)   @ Shenzhen Bao'an Stadium › Shenzhen
               Chengdu Better City v Beijing Guoan  0-1 (0-1)   @ Chengdu Phoenix Mountain Sports Park › Chengdu
               Changchun Yatai v Henan Jianye  3-1 (2-1)   @ Changchun's People Stadium › Changchun
-» Regular Season - 15
+▪ Regular Season - 15
   Fri Jul 7
-    19.35     Tianjin Teda v Nantong Zhiyun  1-1 (0-0)   @ Tianjin Olympic Center Stadium › Tianjin
+    19:35     Tianjin Teda v Nantong Zhiyun  1-1 (0-0)   @ Tianjin Olympic Center Stadium › Tianjin
               Henan Jianye v Shandong Luneng  0-1 (0-0)   @ Zhengzhou Hanghai Stadium › Zhengzhou
               Hangzhou Greentown v Shanghai Shenhua  0-1 (0-1)   @ Huzhou Olympic Sports Center › Huzhou
               Qingdao Jonoon v Shijiazhuang Y. J.  1-1 (0-0)   @ Qingdao Youth Football Stadium › Qingdao
               Meizhou Kejia v Chengdu Better City  3-1 (1-0)   @ Wuhua Olympic Sports Center Huitang Stadium › Wuhua
   Sat Jul 8
-    19.35     SHANGHAI SIPG v Dalian Aerbin  1-1 (1-1)   @ SAIC Motor Pudong Arena › Shanghai
+    19:35     SHANGHAI SIPG v Dalian Aerbin  1-1 (1-1)   @ SAIC Motor Pudong Arena › Shanghai
               Wuhan Three Towns v Changchun Yatai  2-1 (0-0)   @ Wuhan Sports Center Stadium › Wuhan
               Beijing Guoan v Shenzhen Ruby FC  5-0 (2-0)   @ Workers' Stadium › Beijing
-» Regular Season - 16
+▪ Regular Season - 16
   Tue Jul 11
-    19.35     Shandong Luneng v Shanghai Shenhua  3-0 (3-0)   @ Jinan Olympic Sports Center Stadium › Ji'nan
+    19:35     Shandong Luneng v Shanghai Shenhua  3-0 (3-0)   @ Jinan Olympic Sports Center Stadium › Ji'nan
               Shijiazhuang Y. J. v Tianjin Teda  1-1 (1-1)   @ Cangzhou Stadium › Cangzhou
               Chengdu Better City v Henan Jianye  2-0 (0-0)   @ Leshan Olympic Sports Center Stadium › Leshan
   Wed Jul 12
-    19.35     SHANGHAI SIPG v Wuhan Three Towns  3-1 (0-0)   @ SAIC Motor Pudong Arena › Shanghai
+    19:35     SHANGHAI SIPG v Wuhan Three Towns  3-1 (0-0)   @ SAIC Motor Pudong Arena › Shanghai
               Qingdao Jonoon v Shenzhen Ruby FC  5-0 (1-0)   @ Qingdao Youth Football Stadium › Qingdao
               Meizhou Kejia v Beijing Guoan  3-1 (3-0)   @ Wuhua Olympic Sports Center Huitang Stadium › Wuhua
               Nantong Zhiyun v Dalian Aerbin  1-1 (0-0)   @ Rugao Olympic Sports Center Stadium › Rugao
               Changchun Yatai v Hangzhou Greentown  2-2 (1-1)   @ Changchun's People Stadium › Changchun
-» Regular Season - 17
+▪ Regular Season - 17
   Sun Jul 16
-    19.35     Beijing Guoan v Wuhan Three Towns  1-1 (1-0)   @ Workers' Stadium › Beijing
+    19:35     Beijing Guoan v Wuhan Three Towns  1-1 (1-0)   @ Workers' Stadium › Beijing
               Dalian Aerbin v Changchun Yatai  0-0 (0-0)   @ Dalian Suoyuwan Football Stadium › Dalian
               Hangzhou Greentown v Tianjin Teda  2-1 (0-1)   @ Huzhou Olympic Sports Center › Huzhou
               Shenzhen Ruby FC v SHANGHAI SIPG  1-4 (1-1)   @ Shenzhen Bao'an Stadium › Shenzhen
               Nantong Zhiyun v Shandong Luneng  1-1 (0-0)   @ Rugao Olympic Sports Center Stadium › Rugao
   Mon Jul 17
-    19.35     Shijiazhuang Y. J. v Chengdu Better City  2-1 (1-1)   @ Cangzhou Stadium › Cangzhou
+    19:35     Shijiazhuang Y. J. v Chengdu Better City  2-1 (1-1)   @ Cangzhou Stadium › Cangzhou
               Qingdao Jonoon v Henan Jianye  2-0 (1-0)   @ Qingdao Youth Football Stadium › Qingdao
               Shanghai Shenhua v Meizhou Kejia  2-1 (1-1)   @ Shanghai Stadium › Shanghai
-» Regular Season - 18
+▪ Regular Season - 18
   Fri Jul 21
-    19.35     SHANGHAI SIPG v Shijiazhuang Y. J.  3-0 (1-0)   @ SAIC Motor Pudong Arena › Shanghai
+    19:35     SHANGHAI SIPG v Shijiazhuang Y. J.  3-0 (1-0)   @ SAIC Motor Pudong Arena › Shanghai
               Tianjin Teda v Shenzhen Ruby FC  3-3 (0-1)   @ TEDA Football Stadium › Tianjin
               Henan Jianye v Nantong Zhiyun  1-1 (1-0)   @ Zhengzhou Hanghai Stadium › Zhengzhou
   Sat Jul 22
-    19.35     Changchun Yatai v Shanghai Shenhua  1-1 (1-0)   @ Changchun's People Stadium › Changchun
+    19:35     Changchun Yatai v Shanghai Shenhua  1-1 (1-0)   @ Changchun's People Stadium › Changchun
               Hangzhou Greentown v Shandong Luneng  2-1 (0-0)   @ Huzhou Olympic Sports Center › Huzhou
               Chengdu Better City v Dalian Aerbin  4-1 (2-1)   @ Leshan Olympic Sports Center Stadium › Leshan
               Beijing Guoan v Qingdao Jonoon  2-0 (0-0)   @ Workers' Stadium › Beijing
   Sun Jul 23
-    19.35     Wuhan Three Towns v Meizhou Kejia  2-1 (1-1)   @ Wuhan Sports Center Stadium › Wuhan
-» Regular Season - 19
+    19:35     Wuhan Three Towns v Meizhou Kejia  2-1 (1-1)   @ Wuhan Sports Center Stadium › Wuhan
+▪ Regular Season - 19
   Fri Jul 28
-    19.35     Henan Jianye v Shenzhen Ruby FC  3-1 (2-1)   @ Zhengzhou Hanghai Stadium › Zhengzhou
+    19:35     Henan Jianye v Shenzhen Ruby FC  3-1 (2-1)   @ Zhengzhou Hanghai Stadium › Zhengzhou
   Sat Jul 29
-    19.35     Tianjin Teda v Changchun Yatai  0-0 (0-0)   @ TEDA Football Stadium › Tianjin
+    19:35     Tianjin Teda v Changchun Yatai  0-0 (0-0)   @ TEDA Football Stadium › Tianjin
               Meizhou Kejia v Dalian Aerbin  2-1 (2-1)   @ Wuhua Olympic Sports Center Huitang Stadium › Wuhua
               Nantong Zhiyun v Shijiazhuang Y. J.  1-2 (1-2)   @ Rugao Olympic Sports Center Stadium › Rugao
               Chengdu Better City v Hangzhou Greentown  1-2 (1-1)   @ Leshan Olympic Sports Center Stadium › Leshan
               Shanghai Shenhua v SHANGHAI SIPG  0-5 (0-2)   @ Shanghai Stadium › Shanghai
   Sun Jul 30
-    19.35     Shandong Luneng v Beijing Guoan  3-0 (0-0)   @ Jinan Olympic Sports Center Stadium › Ji'nan
+    19:35     Shandong Luneng v Beijing Guoan  3-0 (0-0)   @ Jinan Olympic Sports Center Stadium › Ji'nan
               Wuhan Three Towns v Qingdao Jonoon  1-0 (0-0)   @ Wuhan Sports Center Stadium › Wuhan
-» Regular Season - 20
+▪ Regular Season - 20
   Thu Aug 3
-    19.35     SHANGHAI SIPG v Tianjin Teda  2-1 (1-1)   @ SAIC Motor Pudong Arena › Shanghai
+    19:35     SHANGHAI SIPG v Tianjin Teda  2-1 (1-1)   @ SAIC Motor Pudong Arena › Shanghai
   Fri Aug 4
-    19.35     Changchun Yatai v Nantong Zhiyun  1-1 (1-0)   @ Changchun's People Stadium › Changchun
+    19:35     Changchun Yatai v Nantong Zhiyun  1-1 (1-0)   @ Changchun's People Stadium › Changchun
               Shandong Luneng v Meizhou Kejia  6-1 (3-0)   @ Jinan Olympic Sports Center Stadium › Ji'nan
               Hangzhou Greentown v Wuhan Three Towns  2-1 (2-1)   @ Huzhou Olympic Sports Center › Huzhou
               Qingdao Jonoon v Chengdu Better City  3-2 (3-0)   @ Qingdao Youth Football Stadium › Qingdao
               Beijing Guoan v Henan Jianye  3-1 (2-1)   @ Workers' Stadium › Beijing
   Sat Aug 5
-    19.35     Dalian Aerbin v Shanghai Shenhua  2-1 (2-0)   @ Dalian Sports Center › Dalian
+    19:35     Dalian Aerbin v Shanghai Shenhua  2-1 (2-0)   @ Dalian Sports Center › Dalian
               Shijiazhuang Y. J. v Shenzhen Ruby FC  1-0 (0-0)   @ Cangzhou Stadium › Cangzhou
-» Regular Season - 21
+▪ Regular Season - 21
   Tue Aug 8
-    19.35     Hangzhou Greentown v Nantong Zhiyun  1-1 (1-1)   @ Huzhou Olympic Sports Center › Huzhou
+    19:35     Hangzhou Greentown v Nantong Zhiyun  1-1 (1-1)   @ Huzhou Olympic Sports Center › Huzhou
               Qingdao Jonoon v SHANGHAI SIPG  0-5 (0-1)   @ Qingdao Youth Football Stadium › Qingdao
               Meizhou Kejia v Changchun Yatai  4-2 (2-1)   @ Wuhua Olympic Sports Center Huitang Stadium › Wuhua
               Shandong Luneng v Chengdu Better City  0-1 (0-1)   @ Jinan Olympic Sports Center Stadium › Ji'nan
   Wed Aug 9
-    19.35     Shanghai Shenhua v Shenzhen Ruby FC  3-0 (2-0)   @ Shanghai Stadium › Shanghai
+    19:35     Shanghai Shenhua v Shenzhen Ruby FC  3-0 (2-0)   @ Shanghai Stadium › Shanghai
               Tianjin Teda v Beijing Guoan  0-0 (0-0)   @ TEDA Football Stadium › Tianjin
               Shijiazhuang Y. J. v Dalian Aerbin  2-1 (1-0)   @ Cangzhou Stadium › Cangzhou
               Wuhan Three Towns v Henan Jianye  4-2 (1-0)   @ Wuhan Sports Center Stadium › Wuhan
-» Regular Season - 22
+▪ Regular Season - 22
   Sat Aug 12
-    19.35     SHANGHAI SIPG v Hangzhou Greentown  3-4 (2-1)   @ SAIC Motor Pudong Arena › Shanghai
+    19:35     SHANGHAI SIPG v Hangzhou Greentown  3-4 (2-1)   @ SAIC Motor Pudong Arena › Shanghai
               Meizhou Kejia v Qingdao Jonoon  1-0 (1-0)   @ Wuhua Olympic Sports Center Huitang Stadium › Wuhua
               Changchun Yatai v Chengdu Better City  1-0 (1-0)   @ Changchun's People Stadium › Changchun
   Sun Aug 13
-    19.35     Dalian Aerbin v Shenzhen Ruby FC  2-1 (1-1)   @ Puwan Stadium › Dalian
+    19:35     Dalian Aerbin v Shenzhen Ruby FC  2-1 (1-1)   @ Puwan Stadium › Dalian
               Henan Jianye v Tianjin Teda  1-0 (1-0)   @ Zhengzhou Hanghai Stadium › Zhengzhou
               Shandong Luneng v Shijiazhuang Y. J.  4-0 (0-0)   @ Jinan Olympic Sports Center Stadium › Ji'nan
               Nantong Zhiyun v Beijing Guoan  0-1 (0-0)   @ Rugao Olympic Sports Center Stadium › Rugao
               Wuhan Three Towns v Shanghai Shenhua  1-2 (1-1)   @ Wuhan Sports Center Stadium › Wuhan
-» Regular Season - 23
+▪ Regular Season - 23
   Fri Aug 18
-    19.35     Shandong Luneng v Tianjin Teda  1-0 (0-0)   @ Jinan Olympic Sports Center Stadium › Ji'nan
+    19:35     Shandong Luneng v Tianjin Teda  1-0 (0-0)   @ Jinan Olympic Sports Center Stadium › Ji'nan
               Hangzhou Greentown v Qingdao Jonoon  0-0 (0-0)   @ Huzhou Olympic Sports Center › Huzhou
               SHANGHAI SIPG v Meizhou Kejia  1-1 (0-0)   @ SAIC Motor Pudong Arena › Shanghai
   Sat Aug 19
-    19.35     Beijing Guoan v Shanghai Shenhua  2-1 (2-1)   @ Workers' Stadium › Beijing
+    19:35     Beijing Guoan v Shanghai Shenhua  2-1 (2-1)   @ Workers' Stadium › Beijing
               Dalian Aerbin v Henan Jianye  0-3 (0-3)   @ Puwan Stadium › Dalian
               Shenzhen Ruby FC v Nantong Zhiyun  0-1 (0-0)   @ Shenzhen Bao'an Stadium › Shenzhen
               Chengdu Better City v Wuhan Three Towns  0-1 (0-1)   @ Chengdu Phoenix Mountain Sports Park › Chengdu
   Sun Aug 20
-    19.35     Changchun Yatai v Shijiazhuang Y. J.  3-1 (1-0)   @ Changchun's People Stadium › Changchun
-» Regular Season - 24
+    19:35     Changchun Yatai v Shijiazhuang Y. J.  3-1 (1-0)   @ Changchun's People Stadium › Changchun
+▪ Regular Season - 24
   Fri Aug 25
-    19.35     Shenzhen Ruby FC v Shandong Luneng  1-2 (1-0)   @ Shenzhen Bao'an Stadium › Shenzhen
+    19:35     Shenzhen Ruby FC v Shandong Luneng  1-2 (1-0)   @ Shenzhen Bao'an Stadium › Shenzhen
               Henan Jianye v SHANGHAI SIPG  3-1 (1-0)   @ Zhengzhou Hanghai Stadium › Zhengzhou
   Sat Aug 26
-    19.35     Shanghai Shenhua v Chengdu Better City  1-1 (1-1)   @ Shanghai Stadium › Shanghai
+    19:35     Shanghai Shenhua v Chengdu Better City  1-1 (1-1)   @ Shanghai Stadium › Shanghai
               Tianjin Teda v Meizhou Kejia  3-1 (2-0)   @ TEDA Football Stadium › Tianjin
               Hangzhou Greentown v Dalian Aerbin  3-0 (1-0)   @ Huzhou Olympic Sports Center › Huzhou
               Shijiazhuang Y. J. v Beijing Guoan  1-5 (0-3)   @ Cangzhou Stadium › Cangzhou
               Qingdao Jonoon v Changchun Yatai  1-0 (0-0)   @ Qingdao Youth Football Stadium › Qingdao
   Sun Aug 27
-    19.35     Wuhan Three Towns v Nantong Zhiyun  4-2 (3-1)   @ Wuhan Sports Center Stadium › Wuhan
-» Regular Season - 25
+    19:35     Wuhan Three Towns v Nantong Zhiyun  4-2 (3-1)   @ Wuhan Sports Center Stadium › Wuhan
+▪ Regular Season - 25
   Fri Sep 15
-    19.35     SHANGHAI SIPG v Changchun Yatai  2-0 (0-0)   @ SAIC Motor Pudong Arena › Shanghai
+    19:35     SHANGHAI SIPG v Changchun Yatai  2-0 (0-0)   @ SAIC Motor Pudong Arena › Shanghai
               Shandong Luneng v Qingdao Jonoon  4-2 (3-0)   @ Jinan Olympic Sports Center Stadium › Ji'nan
               Wuhan Three Towns v Shijiazhuang Y. J.  2-0 (2-0)   @ Wuhan Sports Center Stadium › Wuhan
               Beijing Guoan v Hangzhou Greentown  0-1 (0-0)   @ Workers' Stadium › Beijing
   Sat Sep 16
-    17.30     Henan Jianye v Shanghai Shenhua  3-0 (0-0)   @ Zhengzhou Hanghai Stadium › Zhengzhou
-    19.35     Meizhou Kejia v Shenzhen Ruby FC  5-1 (2-0)   @ Wuhua Olympic Sports Center Huitang Stadium › Wuhua
+    17:30     Henan Jianye v Shanghai Shenhua  3-0 (0-0)   @ Zhengzhou Hanghai Stadium › Zhengzhou
+    19:35     Meizhou Kejia v Shenzhen Ruby FC  5-1 (2-0)   @ Wuhua Olympic Sports Center Huitang Stadium › Wuhua
   Sun Sep 17
-    15.30     Nantong Zhiyun v Chengdu Better City  0-2 (0-1)   @ Rugao Olympic Sports Center Stadium › Rugao
-    17.30     Tianjin Teda v Dalian Aerbin  1-0 (1-0)   @ TEDA Football Stadium › Tianjin
-» Regular Season - 26
+    15:30     Nantong Zhiyun v Chengdu Better City  0-2 (0-1)   @ Rugao Olympic Sports Center Stadium › Rugao
+    17:30     Tianjin Teda v Dalian Aerbin  1-0 (1-0)   @ TEDA Football Stadium › Tianjin
+▪ Regular Season - 26
   Fri Sep 22
-    19.35     Changchun Yatai v Beijing Guoan  1-1 (1-1)   @ Changchun's People Stadium › Changchun
+    19:35     Changchun Yatai v Beijing Guoan  1-1 (1-1)   @ Changchun's People Stadium › Changchun
               Shanghai Shenhua v Shijiazhuang Y. J.  2-0 (1-0)   @ Shanghai Stadium › Shanghai
   Sat Sep 23
-    17.30     Dalian Aerbin v Shandong Luneng  0-0 (0-0)   @ Puwan Stadium › Dalian
-    19.35     Meizhou Kejia v Henan Jianye  0-0 (0-0)   @ Wuhua Olympic Sports Center Huitang Stadium › Wuhua
+    17:30     Dalian Aerbin v Shandong Luneng  0-0 (0-0)   @ Puwan Stadium › Dalian
+    19:35     Meizhou Kejia v Henan Jianye  0-0 (0-0)   @ Wuhua Olympic Sports Center Huitang Stadium › Wuhua
               Chengdu Better City v SHANGHAI SIPG  2-1 (1-0)   @ Chengdu Phoenix Mountain Sports Park › Chengdu
               Wuhan Three Towns v Tianjin Teda  0-1 (0-0)   @ Wuhan Sports Center Stadium › Wuhan
   Sun Sep 24
-    19.35     Shenzhen Ruby FC v Hangzhou Greentown  0-5 (0-3)   @ Shenzhen Bao'an Stadium › Shenzhen
+    19:35     Shenzhen Ruby FC v Hangzhou Greentown  0-5 (0-3)   @ Shenzhen Bao'an Stadium › Shenzhen
               Qingdao Jonoon v Nantong Zhiyun  3-1 (0-0)   @ Qingdao Youth Football Stadium › Qingdao
-» Regular Season - 27
+▪ Regular Season - 27
   Fri Sep 29
-    17.30     Shijiazhuang Y. J. v Meizhou Kejia  0-1 (0-0)   @ Cangzhou Stadium › Cangzhou
-    19.35     Tianjin Teda v Chengdu Better City  2-2 (1-1)   @ TEDA Football Stadium › Tianjin
+    17:30     Shijiazhuang Y. J. v Meizhou Kejia  0-1 (0-0)   @ Cangzhou Stadium › Cangzhou
+    19:35     Tianjin Teda v Chengdu Better City  2-2 (1-1)   @ TEDA Football Stadium › Tianjin
               Shandong Luneng v Wuhan Three Towns  2-1 (0-0)   @ Jinan Olympic Sports Center Stadium › Ji'nan
               Shenzhen Ruby FC v Changchun Yatai  0-1 (0-0)   @ Shenzhen Bao'an Stadium › Shenzhen
               Nantong Zhiyun v SHANGHAI SIPG  0-1 (0-1)   @ Rugao Olympic Sports Center Stadium › Rugao
   Sat Sep 30
-    17.30     Beijing Guoan v Dalian Aerbin  2-0 (0-0)   @ Workers' Stadium › Beijing
-    19.35     Hangzhou Greentown v Henan Jianye  3-0 (1-0)   @ Huzhou Olympic Sports Center › Huzhou
+    17:30     Beijing Guoan v Dalian Aerbin  2-0 (0-0)   @ Workers' Stadium › Beijing
+    19:35     Hangzhou Greentown v Henan Jianye  3-0 (1-0)   @ Huzhou Olympic Sports Center › Huzhou
               Shanghai Shenhua v Qingdao Jonoon  1-0 (1-0)   @ Shanghai Stadium › Shanghai
-» Regular Season - 28
+▪ Regular Season - 28
   Thu Oct 19
-    19.35     Meizhou Kejia v Hangzhou Greentown  1-1 (1-0)   @ Wuhua Olympic Sports Center Huitang Stadium › Wuhua
+    19:35     Meizhou Kejia v Hangzhou Greentown  1-1 (1-0)   @ Wuhua Olympic Sports Center Huitang Stadium › Wuhua
   Fri Oct 20
-    15.30     Dalian Aerbin v Wuhan Three Towns  1-3 (1-2)   @ Dalian Suoyuwan Football Stadium › Dalian
+    15:30     Dalian Aerbin v Wuhan Three Towns  1-3 (1-2)   @ Dalian Suoyuwan Football Stadium › Dalian
               Changchun Yatai v Shandong Luneng  0-3 (0-3)   @ Changchun's People Stadium › Changchun
-    19.35     SHANGHAI SIPG v Beijing Guoan  1-2 (0-1)   @ SAIC Motor Pudong Arena › Shanghai
+    19:35     SHANGHAI SIPG v Beijing Guoan  1-2 (0-1)   @ SAIC Motor Pudong Arena › Shanghai
   Sat Oct 21
-    15.30     Henan Jianye v Shijiazhuang Y. J.  6-0 (3-0)   @ Zhengzhou Hanghai Stadium › Zhengzhou
-    19.35     Nantong Zhiyun v Shanghai Shenhua  0-1 (0-1)   @ Rugao Olympic Sports Center Stadium › Rugao
+    15:30     Henan Jianye v Shijiazhuang Y. J.  6-0 (3-0)   @ Zhengzhou Hanghai Stadium › Zhengzhou
+    19:35     Nantong Zhiyun v Shanghai Shenhua  0-1 (0-1)   @ Rugao Olympic Sports Center Stadium › Rugao
   Sun Oct 22
-    15.30     Qingdao Jonoon v Tianjin Teda  1-4 (0-2)   @ Qingdao Youth Football Stadium › Qingdao
+    15:30     Qingdao Jonoon v Tianjin Teda  1-4 (0-2)   @ Qingdao Youth Football Stadium › Qingdao
   Mon Oct 23
-    19.35     Chengdu Better City v Shenzhen Ruby FC  4-0 (2-0)   @ Chengdu Phoenix Mountain Sports Park › Chengdu
-» Regular Season - 29
+    19:35     Chengdu Better City v Shenzhen Ruby FC  4-0 (2-0)   @ Chengdu Phoenix Mountain Sports Park › Chengdu
+▪ Regular Season - 29
   Sun Oct 29
-    15.30     Beijing Guoan v Chengdu Better City  2-3 (1-1)   @ Workers' Stadium › Beijing
+    15:30     Beijing Guoan v Chengdu Better City  2-3 (1-1)   @ Workers' Stadium › Beijing
               SHANGHAI SIPG v Shandong Luneng  1-1 (1-0)   @ SAIC Motor Pudong Arena › Shanghai
               Tianjin Teda v Shanghai Shenhua  1-1 (1-0)   @ TEDA Football Stadium › Tianjin
               Henan Jianye v Changchun Yatai  1-1 (0-0)   @ Zhengzhou Hanghai Stadium › Zhengzhou
@@ -340,9 +340,9 @@
               Qingdao Jonoon v Dalian Aerbin  2-2 (2-0)   @ Qingdao Youth Football Stadium › Qingdao
               Meizhou Kejia v Nantong Zhiyun  0-4 (0-1)   @ Wuhua Olympic Sports Center Huitang Stadium › Wuhua
               Wuhan Three Towns v Shenzhen Ruby FC  1-0 (0-0)   @ Wuhan Sports Center Stadium › Wuhan
-» Regular Season - 30
+▪ Regular Season - 30
   Sat Nov 4
-    15.30     Shanghai Shenhua v Hangzhou Greentown  1-2 (0-0)   @ Shanghai Stadium › Shanghai
+    15:30     Shanghai Shenhua v Hangzhou Greentown  1-2 (0-0)   @ Shanghai Stadium › Shanghai
               Changchun Yatai v Wuhan Three Towns  3-4 (1-4)   @ Changchun's People Stadium › Changchun
               Shandong Luneng v Henan Jianye  5-1 (2-0)   @ Jinan Olympic Sports Center Stadium › Ji'nan
               Shijiazhuang Y. J. v Qingdao Jonoon  0-0 (0-0)   @ Cangzhou Stadium › Cangzhou

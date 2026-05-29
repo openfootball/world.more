@@ -1,529 +1,529 @@
 = Argentina | Liga Profesional Argentina 2023
 
-  # Date       Thu Jan/26 - Sun Jul/30 2023 (185d)
+  # Date       Thu Jan 26 - Sun Jul 30 2023 (185d)
   # Teams      28
   # Matches    378
 
   # Note - All times in America/Argentina/Buenos_Aires
 
-» Round - 1
+▪ Round - 1
   Thu Jan 26 2023
-    19.15     Rosario Central v Argentinos JRS  1-0 (1-0)   @ Estadio Gigante de Arroyito › Rosario, Provincia de Santa Fe
+    19:15     Rosario Central v Argentinos JRS  1-0 (1-0)   @ Estadio Gigante de Arroyito › Rosario, Provincia de Santa Fe
   Fri Jan 27
-    19.15     Talleres Cordoba v Independiente  0-1 (0-0)   @ Estadio Mario Alberto Kempes › Ciudad de Córdoba, Provincia de Córdoba
+    19:15     Talleres Cordoba v Independiente  0-1 (0-0)   @ Estadio Mario Alberto Kempes › Ciudad de Córdoba, Provincia de Córdoba
               Estudiantes L.P. v Tigre  1-2 (0-1)   @ Estadio Jorge Luis Hirschi › La Plata, Provincia de Buenos Aires
-    21.30     Defensa Y Justicia v Huracan  2-4 (1-2)   @ Estadio Norberto Tito Tomaghello › Florencio Varela, Provincia de Buenos Aires
+    21:30     Defensa Y Justicia v Huracan  2-4 (1-2)   @ Estadio Norberto Tito Tomaghello › Florencio Varela, Provincia de Buenos Aires
   Sat Jan 28
-    17.00     San Lorenzo v Arsenal Sarandi  1-0 (0-0)   @ Estadio Pedro Bidegaín › Capital Federal, Ciudad de Buenos Aires
-    19.15     Racing Club v Belgrano Cordoba  0-0 (0-0)   @ Estadio Presidente Juan Domingo Perón › Avellaneda, Provincia de Buenos Aires
+    17:00     San Lorenzo v Arsenal Sarandi  1-0 (0-0)   @ Estadio Pedro Bidegaín › Capital Federal, Ciudad de Buenos Aires
+    19:15     Racing Club v Belgrano Cordoba  0-0 (0-0)   @ Estadio Presidente Juan Domingo Perón › Avellaneda, Provincia de Buenos Aires
               Colon Santa Fe v Lanus  1-2 (0-1)   @ Estadio Brigadier General Estanislao López › Ciudad de Santa Fe, Provincia de Santa Fe
               Instituto Cordoba v Sarmiento Junin  0-0 (0-0)   @ Estadio Juan Domingo Perón › Ciudad de Córdoba, Provincia de Córdoba
-    21.30     Central Cordoba de Santiago v River Plate  0-2 (0-1)   @ Estadio Único Madre de Ciudades › Santiago del Estero, Prov. de Santiago del Estero
+    21:30     Central Cordoba de Santiago v River Plate  0-2 (0-1)   @ Estadio Único Madre de Ciudades › Santiago del Estero, Prov. de Santiago del Estero
   Sun Jan 29
-    17.00     Platense v Newells Old Boys  2-2 (1-1)   @ Estadio Ciudad de Vicente López › Vicente López, Provincia de Buenos Aires
-    21.30     Boca Juniors v Atletico Tucuman  1-0 (0-0)   @ Estadio Alberto José Armando › Ciudad de Buenos Aires
+    17:00     Platense v Newells Old Boys  2-2 (1-1)   @ Estadio Ciudad de Vicente López › Vicente López, Provincia de Buenos Aires
+    21:30     Boca Juniors v Atletico Tucuman  1-0 (0-0)   @ Estadio Alberto José Armando › Ciudad de Buenos Aires
   Mon Jan 30
-    17.00     Barracas Central v Godoy Cruz  0-1 (0-1)   @ Estadio Claudio Fabián Tapia › Capital Federal, Ciudad de Buenos Aires
-    20.00     Banfield v Union Santa Fe  0-0 (0-0)   @ Estadio Florencio Solá › Lomas de Zamora, Provincia de Buenos Aires
+    17:00     Barracas Central v Godoy Cruz  0-1 (0-1)   @ Estadio Claudio Fabián Tapia › Capital Federal, Ciudad de Buenos Aires
+    20:00     Banfield v Union Santa Fe  0-0 (0-0)   @ Estadio Florencio Solá › Lomas de Zamora, Provincia de Buenos Aires
               Velez Sarsfield v Gimnasia L.P.  3-1 (1-0)   @ Estadio José Amalfitani › Capital Federal, Ciudad de Buenos Aires
-» Round - 2
+▪ Round - 2
   Fri Feb 3
-    20.00     Newells Old Boys v Velez Sarsfield  1-0 (0-0)   @ Estadio Marcelo Alberto Bielsa › Rosario, Provincia de Santa Fe
+    20:00     Newells Old Boys v Velez Sarsfield  1-0 (0-0)   @ Estadio Marcelo Alberto Bielsa › Rosario, Provincia de Santa Fe
               Tigre v Rosario Central  2-2 (1-1)   @ Estadio José Dellagiovanna › San Fernando, Provincia de Buenos Aires
   Sat Feb 4
-    17.00     Arsenal Sarandi v Estudiantes L.P.  1-1 (1-1)   @ Estadio Julio Humberto Grondona › Avellaneda, Provincia de Buenos Aires
+    17:00     Arsenal Sarandi v Estudiantes L.P.  1-1 (1-1)   @ Estadio Julio Humberto Grondona › Avellaneda, Provincia de Buenos Aires
               Sarmiento Junin v Barracas Central  3-5 (1-2)   @ Estadio Eva Perón de Junín › Junín, Provincia de Buenos Aires
-    19.15     Belgrano Cordoba v River Plate  2-1 (1-0)   @ Estadio Julio César Villagra › Ciudad de Córdoba, Provincia de Córdoba
-    21.30     Argentinos JRS v Racing Club  1-0 (0-0)   @ Estadio Diego Armando Maradona › Capital Federal, Ciudad de Buenos Aires
+    19:15     Belgrano Cordoba v River Plate  2-1 (1-0)   @ Estadio Julio César Villagra › Ciudad de Córdoba, Provincia de Córdoba
+    21:30     Argentinos JRS v Racing Club  1-0 (0-0)   @ Estadio Diego Armando Maradona › Capital Federal, Ciudad de Buenos Aires
               Lanus v San Lorenzo  2-1 (2-0)   @ Estadio Ciudad de Lanús-Néstor Díaz Pérez › Lanús, Provincia de Buenos Aires
   Sun Feb 5
-    17.00     Independiente v Platense  1-2 (0-1)   @ Estadio Libertadores de América › Avellaneda, Provincia de Buenos Aires
-    19.15     Boca Juniors v Central Cordoba de Santiago  0-0 (0-0)   @ Estadio Alberto José Armando › Ciudad de Buenos Aires
-    21.30     Godoy Cruz v Colon Santa Fe  1-0 (0-0)   @ Estadio Malvinas Argentinas › Mendoza, Provincia de Mendoza
+    17:00     Independiente v Platense  1-2 (0-1)   @ Estadio Libertadores de América › Avellaneda, Provincia de Buenos Aires
+    19:15     Boca Juniors v Central Cordoba de Santiago  0-0 (0-0)   @ Estadio Alberto José Armando › Ciudad de Buenos Aires
+    21:30     Godoy Cruz v Colon Santa Fe  1-0 (0-0)   @ Estadio Malvinas Argentinas › Mendoza, Provincia de Mendoza
               Union Santa Fe v Instituto Cordoba  0-2 (0-2)   @ Estadio 15 de Abril › Ciudad de Santa Fe, Provincia de Santa Fe
               Atletico Tucuman v Talleres Cordoba  0-2 (0-0)   @ Estadio Monumental Presidente José Fierro › San Miguel de Tucumán, Provincia de Tucumán
   Mon Feb 6
-    18.00     Gimnasia L.P. v Defensa Y Justicia  0-2 (0-0)   @ Estadio Juan Carmelo Zerillo › La Plata, Provincia de Buenos Aires
-    21.30     Huracan v Banfield  3-2 (3-1)   @ Estadio Tomás Adolfo Ducó › Capital Federal, Ciudad de Buenos Aires
-» Round - 3
+    18:00     Gimnasia L.P. v Defensa Y Justicia  0-2 (0-0)   @ Estadio Juan Carmelo Zerillo › La Plata, Provincia de Buenos Aires
+    21:30     Huracan v Banfield  3-2 (3-1)   @ Estadio Tomás Adolfo Ducó › Capital Federal, Ciudad de Buenos Aires
+▪ Round - 3
   Fri Feb 10
-    21.30     Central Cordoba de Santiago v Belgrano Cordoba  0-1 (0-0)   @ Estadio Alfredo Terrera › Santiago del Estero, Provincia de Santiago del Est
+    21:30     Central Cordoba de Santiago v Belgrano Cordoba  0-1 (0-0)   @ Estadio Alfredo Terrera › Santiago del Estero, Provincia de Santiago del Est
               Colon Santa Fe v Sarmiento Junin  0-2 (0-1)   @ Estadio Brigadier General Estanislao López › Ciudad de Santa Fe, Provincia de Santa Fe
   Sat Feb 11
-    17.00     Defensa Y Justicia v Newells Old Boys  1-0 (1-0)   @ Estadio Norberto Tito Tomaghello › Florencio Varela, Provincia de Buenos Aires
+    17:00     Defensa Y Justicia v Newells Old Boys  1-0 (1-0)   @ Estadio Norberto Tito Tomaghello › Florencio Varela, Provincia de Buenos Aires
               San Lorenzo v Godoy Cruz  1-0 (0-0)   @ Estadio Pedro Bidegaín › Capital Federal, Ciudad de Buenos Aires
-    19.15     Platense v Atletico Tucuman  1-1 (1-0)   @ Estadio Ciudad de Vicente López › Vicente López, Provincia de Buenos Aires
-    21.30     Talleres Cordoba v Boca Juniors  2-1 (1-0)   @ Estadio Mario Alberto Kempes › Ciudad de Córdoba, Provincia de Córdoba
+    19:15     Platense v Atletico Tucuman  1-1 (1-0)   @ Estadio Ciudad de Vicente López › Vicente López, Provincia de Buenos Aires
+    21:30     Talleres Cordoba v Boca Juniors  2-1 (1-0)   @ Estadio Mario Alberto Kempes › Ciudad de Córdoba, Provincia de Córdoba
               Velez Sarsfield v Independiente  0-0 (0-0)   @ Estadio José Amalfitani › Capital Federal, Ciudad de Buenos Aires
   Sun Feb 12
-    17.00     Rosario Central v Arsenal Sarandi  2-1 (1-1)   @ Estadio Gigante de Arroyito › Rosario, Provincia de Santa Fe
+    17:00     Rosario Central v Arsenal Sarandi  2-1 (1-1)   @ Estadio Gigante de Arroyito › Rosario, Provincia de Santa Fe
               Banfield v Gimnasia L.P.  0-0 (0-0)   @ Estadio Florencio Solá › Lomas de Zamora, Provincia de Buenos Aires
-    19.15     River Plate v Argentinos JRS  2-1 (0-1)   @ Estadio Monumental Antonio Vespucio Liberti › Capital Federal, Ciudad de Buenos Aires
-    21.30     Instituto Cordoba v Huracan  0-0 (0-0)   @ Estadio Juan Domingo Perón › Ciudad de Córdoba, Provincia de Córdoba
+    19:15     River Plate v Argentinos JRS  2-1 (0-1)   @ Estadio Monumental Antonio Vespucio Liberti › Capital Federal, Ciudad de Buenos Aires
+    21:30     Instituto Cordoba v Huracan  0-0 (0-0)   @ Estadio Juan Domingo Perón › Ciudad de Córdoba, Provincia de Córdoba
               Racing Club v Tigre  2-2 (1-1)   @ Estadio Presidente Juan Domingo Perón › Avellaneda, Provincia de Buenos Aires
   Mon Feb 13
-    17.00     Barracas Central v Union Santa Fe  1-1 (1-1)   @ Estadio Claudio Fabián Tapia › Capital Federal, Ciudad de Buenos Aires
-    20.00     Estudiantes L.P. v Lanus  0-2 (0-1)   @ Estadio Jorge Luis Hirschi › La Plata, Provincia de Buenos Aires
-» Round - 4
+    17:00     Barracas Central v Union Santa Fe  1-1 (1-1)   @ Estadio Claudio Fabián Tapia › Capital Federal, Ciudad de Buenos Aires
+    20:00     Estudiantes L.P. v Lanus  0-2 (0-1)   @ Estadio Jorge Luis Hirschi › La Plata, Provincia de Buenos Aires
+▪ Round - 4
   Fri Feb 17
-    18.00     Gimnasia L.P. v Instituto Cordoba  2-0 (1-0)   @ Estadio Juan Carmelo Zerillo › La Plata, Provincia de Buenos Aires
-    21.30     Arsenal Sarandi v Racing Club  0-3 (0-3)   @ Estadio Julio Humberto Grondona › Avellaneda, Provincia de Buenos Aires
+    18:00     Gimnasia L.P. v Instituto Cordoba  2-0 (1-0)   @ Estadio Juan Carmelo Zerillo › La Plata, Provincia de Buenos Aires
+    21:30     Arsenal Sarandi v Racing Club  0-3 (0-3)   @ Estadio Julio Humberto Grondona › Avellaneda, Provincia de Buenos Aires
               Huracan v Barracas Central  2-0 (1-0)   @ Estadio Tomás Adolfo Ducó › Capital Federal, Ciudad de Buenos Aires
   Sat Feb 18
-    17.00     Lanus v Rosario Central  3-0 (0-0)   @ Estadio Ciudad de Lanús-Néstor Díaz Pérez › Lanús, Provincia de Buenos Aires
-    18.00     Tigre v River Plate  0-1 (0-0)   @ Estadio José Dellagiovanna › San Fernando, Provincia de Buenos Aires
-    19.15     Godoy Cruz v Estudiantes L.P.  0-1 (0-1)   @ Estadio Malvinas Argentinas › Mendoza, Provincia de Mendoza
+    17:00     Lanus v Rosario Central  3-0 (0-0)   @ Estadio Ciudad de Lanús-Néstor Díaz Pérez › Lanús, Provincia de Buenos Aires
+    18:00     Tigre v River Plate  0-1 (0-0)   @ Estadio José Dellagiovanna › San Fernando, Provincia de Buenos Aires
+    19:15     Godoy Cruz v Estudiantes L.P.  0-1 (0-1)   @ Estadio Malvinas Argentinas › Mendoza, Provincia de Mendoza
               Argentinos JRS v Belgrano Cordoba  3-0 (1-0)   @ Estadio Diego Armando Maradona › Capital Federal, Ciudad de Buenos Aires
-    21.00     Newells Old Boys v Banfield  2-0 (0-0)   @ Estadio Marcelo Alberto Bielsa › Rosario, Provincia de Santa Fe
+    21:00     Newells Old Boys v Banfield  2-0 (0-0)   @ Estadio Marcelo Alberto Bielsa › Rosario, Provincia de Santa Fe
   Sun Feb 19
-    17.00     Union Santa Fe v Colon Santa Fe  1-1 (1-0)   @ Estadio 15 de Abril › Ciudad de Santa Fe, Provincia de Santa Fe
-    19.15     Boca Juniors v Platense  3-1 (2-1)   @ Estadio Alberto José Armando › Ciudad de Buenos Aires
-    21.30     Talleres Cordoba v Central Cordoba de Santiago  2-0 (2-0)   @ Estadio Mario Alberto Kempes › Ciudad de Córdoba, Provincia de Córdoba
+    17:00     Union Santa Fe v Colon Santa Fe  1-1 (1-0)   @ Estadio 15 de Abril › Ciudad de Santa Fe, Provincia de Santa Fe
+    19:15     Boca Juniors v Platense  3-1 (2-1)   @ Estadio Alberto José Armando › Ciudad de Buenos Aires
+    21:30     Talleres Cordoba v Central Cordoba de Santiago  2-0 (2-0)   @ Estadio Mario Alberto Kempes › Ciudad de Córdoba, Provincia de Córdoba
               Independiente v Defensa Y Justicia  0-2 (0-2)   @ Estadio Libertadores de América › Avellaneda, Provincia de Buenos Aires
   Mon Feb 20
-    19.15     Sarmiento Junin v San Lorenzo  0-1 (0-0)   @ Estadio Eva Perón de Junín › Junín, Provincia de Buenos Aires
-    21.30     Atletico Tucuman v Velez Sarsfield  1-1 (0-0)   @ Estadio Monumental Presidente José Fierro › San Miguel de Tucumán, Provincia de Tucumán
-» Round - 5
+    19:15     Sarmiento Junin v San Lorenzo  0-1 (0-0)   @ Estadio Eva Perón de Junín › Junín, Provincia de Buenos Aires
+    21:30     Atletico Tucuman v Velez Sarsfield  1-1 (0-0)   @ Estadio Monumental Presidente José Fierro › San Miguel de Tucumán, Provincia de Tucumán
+▪ Round - 5
   Fri Feb 24
-    21.00     Belgrano Cordoba v Tigre  0-2 (0-0)   @ Estadio Julio César Villagra › Ciudad de Córdoba, Provincia de Córdoba
+    21:00     Belgrano Cordoba v Tigre  0-2 (0-0)   @ Estadio Julio César Villagra › Ciudad de Córdoba, Provincia de Córdoba
               Rosario Central v Godoy Cruz  1-0 (1-0)   @ Estadio Gigante de Arroyito › Rosario, Provincia de Santa Fe
   Sat Feb 25
-    17.00     San Lorenzo v Union Santa Fe  1-0 (0-0)   @ Estadio Pedro Bidegaín › Capital Federal, Ciudad de Buenos Aires
-    19.15     Estudiantes L.P. v Sarmiento Junin  1-1 (0-0)   @ Estadio Jorge Luis Hirschi › La Plata, Provincia de Buenos Aires
+    17:00     San Lorenzo v Union Santa Fe  1-0 (0-0)   @ Estadio Pedro Bidegaín › Capital Federal, Ciudad de Buenos Aires
+    19:15     Estudiantes L.P. v Sarmiento Junin  1-1 (0-0)   @ Estadio Jorge Luis Hirschi › La Plata, Provincia de Buenos Aires
               Platense v Talleres Cordoba  2-4 (0-3)   @ Estadio Ciudad de Vicente López › Vicente López, Provincia de Buenos Aires
-    21.30     Velez Sarsfield v Boca Juniors  1-2 (0-1)   @ Estadio José Amalfitani › Capital Federal, Ciudad de Buenos Aires
+    21:30     Velez Sarsfield v Boca Juniors  1-2 (0-1)   @ Estadio José Amalfitani › Capital Federal, Ciudad de Buenos Aires
   Sun Feb 26
-    17.00     Colon Santa Fe v Huracan  1-1 (1-1)   @ Estadio Brigadier General Estanislao López › Ciudad de Santa Fe, Provincia de Santa Fe
+    17:00     Colon Santa Fe v Huracan  1-1 (1-1)   @ Estadio Brigadier General Estanislao López › Ciudad de Santa Fe, Provincia de Santa Fe
               Defensa Y Justicia v Atletico Tucuman  3-0 (3-0)   @ Estadio Norberto Tito Tomaghello › Florencio Varela, Provincia de Buenos Aires
-    19.15     River Plate v Arsenal Sarandi  1-2 (1-0)   @ Estadio Mâs Monumental › Capital Federal, Ciudad de Buenos Aires
-    21.30     Banfield v Independiente  0-0 (0-0)   @ Estadio Florencio Solá › Lomas de Zamora, Provincia de Buenos Aires
+    19:15     River Plate v Arsenal Sarandi  1-2 (1-0)   @ Estadio Mâs Monumental › Capital Federal, Ciudad de Buenos Aires
+    21:30     Banfield v Independiente  0-0 (0-0)   @ Estadio Florencio Solá › Lomas de Zamora, Provincia de Buenos Aires
               Instituto Cordoba v Newells Old Boys  3-1 (2-0)   @ Estadio Juan Domingo Perón › Ciudad de Córdoba, Provincia de Córdoba
   Mon Feb 27
-    17.00     Barracas Central v Gimnasia L.P.  1-0 (1-0)   @ Estadio Claudio Fabián Tapia › Capital Federal, Ciudad de Buenos Aires
-    19.15     Racing Club v Lanus  2-1 (1-1)   @ Estadio Presidente Juan Domingo Perón › Avellaneda, Provincia de Buenos Aires
-    21.30     Central Cordoba de Santiago v Argentinos JRS  1-0 (1-0)   @ Estadio Único Madre de Ciudades › Santiago del Estero, Prov. de Santiago del Estero
-» Round - 6
+    17:00     Barracas Central v Gimnasia L.P.  1-0 (1-0)   @ Estadio Claudio Fabián Tapia › Capital Federal, Ciudad de Buenos Aires
+    19:15     Racing Club v Lanus  2-1 (1-1)   @ Estadio Presidente Juan Domingo Perón › Avellaneda, Provincia de Buenos Aires
+    21:30     Central Cordoba de Santiago v Argentinos JRS  1-0 (1-0)   @ Estadio Único Madre de Ciudades › Santiago del Estero, Prov. de Santiago del Estero
+▪ Round - 6
   Fri Mar 3
-    20.00     Union Santa Fe v Estudiantes L.P.  2-0 (0-0)   @ Estadio 15 de Abril › Ciudad de Santa Fe, Provincia de Santa Fe
+    20:00     Union Santa Fe v Estudiantes L.P.  2-0 (0-0)   @ Estadio 15 de Abril › Ciudad de Santa Fe, Provincia de Santa Fe
               Sarmiento Junin v Rosario Central  4-1 (0-1)   @ Estadio Eva Perón de Junín › Junín, Provincia de Buenos Aires
   Sat Mar 4
-    17.00     Platense v Central Cordoba de Santiago  1-1 (0-0)   @ Estadio Ciudad de Vicente López › Vicente López, Provincia de Buenos Aires
+    17:00     Platense v Central Cordoba de Santiago  1-1 (0-0)   @ Estadio Ciudad de Vicente López › Vicente López, Provincia de Buenos Aires
               Gimnasia L.P. v Colon Santa Fe  0-0 (0-0)   @ Estadio Juan Carmelo Zerillo › La Plata, Provincia de Buenos Aires
-    19.15     Lanus v River Plate  0-2 (0-1)   @ Estadio Ciudad de Lanús-Néstor Díaz Pérez › Lanús, Provincia de Buenos Aires
-    21.30     Newells Old Boys v Barracas Central  1-0 (1-0)   @ Estadio Marcelo Alberto Bielsa › Rosario, Provincia de Santa Fe
+    19:15     Lanus v River Plate  0-2 (0-1)   @ Estadio Ciudad de Lanús-Néstor Díaz Pérez › Lanús, Provincia de Buenos Aires
+    21:30     Newells Old Boys v Barracas Central  1-0 (1-0)   @ Estadio Marcelo Alberto Bielsa › Rosario, Provincia de Santa Fe
               Atletico Tucuman v Banfield  1-0 (1-0)   @ Estadio Monumental Presidente José Fierro › San Miguel de Tucumán, Provincia de Tucumán
   Sun Mar 5
-    17.00     Independiente v Instituto Cordoba  2-2 (2-1)   @ Estadio Libertadores de América › Avellaneda, Provincia de Buenos Aires
-    19.15     Huracan v San Lorenzo  1-1 (1-1)   @ Estadio Tomás Adolfo Ducó › Capital Federal, Ciudad de Buenos Aires
-    21.30     Talleres Cordoba v Velez Sarsfield  1-2 (0-2)   @ Estadio Mario Alberto Kempes › Ciudad de Córdoba, Provincia de Córdoba
+    17:00     Independiente v Instituto Cordoba  2-2 (2-1)   @ Estadio Libertadores de América › Avellaneda, Provincia de Buenos Aires
+    19:15     Huracan v San Lorenzo  1-1 (1-1)   @ Estadio Tomás Adolfo Ducó › Capital Federal, Ciudad de Buenos Aires
+    21:30     Talleres Cordoba v Velez Sarsfield  1-2 (0-2)   @ Estadio Mario Alberto Kempes › Ciudad de Córdoba, Provincia de Córdoba
               Tigre v Argentinos JRS  0-1 (0-1)   @ Estadio José Dellagiovanna › San Fernando, Provincia de Buenos Aires
   Mon Mar 6
-    17.00     Arsenal Sarandi v Belgrano Cordoba  0-1 (0-1)   @ Estadio Julio Humberto Grondona › Avellaneda, Provincia de Buenos Aires
+    17:00     Arsenal Sarandi v Belgrano Cordoba  0-1 (0-1)   @ Estadio Julio Humberto Grondona › Avellaneda, Provincia de Buenos Aires
               Godoy Cruz v Racing Club  2-0 (1-0)   @ Estadio Malvinas Argentinas › Mendoza, Provincia de Mendoza
-    21.00     Boca Juniors v Defensa Y Justicia  0-0 (0-0)   @ Estadio Alberto José Armando › Ciudad de Buenos Aires
-» Round - 7
+    21:00     Boca Juniors v Defensa Y Justicia  0-0 (0-0)   @ Estadio Alberto José Armando › Ciudad de Buenos Aires
+▪ Round - 7
   Fri Mar 10
-    17.00     Barracas Central v Independiente  1-1 (1-1)   @ Estadio Claudio Fabián Tapia › Capital Federal, Ciudad de Buenos Aires
-    21.00     Instituto Cordoba v Atletico Tucuman  1-1 (1-0)   @ Estadio Juan Domingo Perón › Ciudad de Córdoba, Provincia de Córdoba
+    17:00     Barracas Central v Independiente  1-1 (1-1)   @ Estadio Claudio Fabián Tapia › Capital Federal, Ciudad de Buenos Aires
+    21:00     Instituto Cordoba v Atletico Tucuman  1-1 (1-0)   @ Estadio Juan Domingo Perón › Ciudad de Córdoba, Provincia de Córdoba
               Argentinos JRS v Arsenal Sarandi  1-1 (0-0)   @ Estadio Diego Armando Maradona › Capital Federal, Ciudad de Buenos Aires
   Sat Mar 11
-    17.00     San Lorenzo v Gimnasia L.P.  4-0 (1-0)   @ Estadio Pedro Bidegaín › Capital Federal, Ciudad de Buenos Aires
-    19.15     Defensa Y Justicia v Talleres Cordoba  1-1 (1-1)   @ Estadio Norberto Tito Tomaghello › Florencio Varela, Provincia de Buenos Aires
-    21.30     Belgrano Cordoba v Lanus  0-0 (0-0)   @ Estadio Julio César Villagra › Ciudad de Córdoba, Provincia de Córdoba
+    17:00     San Lorenzo v Gimnasia L.P.  4-0 (1-0)   @ Estadio Pedro Bidegaín › Capital Federal, Ciudad de Buenos Aires
+    19:15     Defensa Y Justicia v Talleres Cordoba  1-1 (1-1)   @ Estadio Norberto Tito Tomaghello › Florencio Varela, Provincia de Buenos Aires
+    21:30     Belgrano Cordoba v Lanus  0-0 (0-0)   @ Estadio Julio César Villagra › Ciudad de Córdoba, Provincia de Córdoba
               Central Cordoba de Santiago v Tigre  2-0 (0-0)   @ Estadio Único Madre de Ciudades › Santiago del Estero, Prov. de Santiago del Estero
   Sun Mar 12
-    17.00     Racing Club v Sarmiento Junin  1-0 (1-0)   @ Estadio Presidente Juan Domingo Perón › Avellaneda, Provincia de Buenos Aires
-    19.15     Estudiantes L.P. v Huracan  2-1 (1-0)   @ Estadio Jorge Luis Hirschi › La Plata, Provincia de Buenos Aires
+    17:00     Racing Club v Sarmiento Junin  1-0 (1-0)   @ Estadio Presidente Juan Domingo Perón › Avellaneda, Provincia de Buenos Aires
+    19:15     Estudiantes L.P. v Huracan  2-1 (1-0)   @ Estadio Jorge Luis Hirschi › La Plata, Provincia de Buenos Aires
               River Plate v Godoy Cruz  3-0 (1-0)   @ Estadio Mâs Monumental › Capital Federal, Ciudad de Buenos Aires
-    21.30     Rosario Central v Union Santa Fe  1-1 (0-1)   @ Estadio Gigante de Arroyito › Rosario, Provincia de Santa Fe
+    21:30     Rosario Central v Union Santa Fe  1-1 (0-1)   @ Estadio Gigante de Arroyito › Rosario, Provincia de Santa Fe
               Banfield v Boca Juniors  1-0 (1-0)   @ Estadio Florencio Solá › Lomas de Zamora, Provincia de Buenos Aires
   Mon Mar 13
-    21.00     Colon Santa Fe v Newells Old Boys  1-1 (1-0)   @ Estadio Brigadier General Estanislao López › Ciudad de Santa Fe, Provincia de Santa Fe
+    21:00     Colon Santa Fe v Newells Old Boys  1-1 (1-0)   @ Estadio Brigadier General Estanislao López › Ciudad de Santa Fe, Provincia de Santa Fe
               Velez Sarsfield v Platense  1-1 (1-0)   @ Estadio José Amalfitani › Capital Federal, Ciudad de Buenos Aires
-» Round - 8
+▪ Round - 8
   Fri Mar 17
-    21.00     Union Santa Fe v Racing Club  1-3 (0-1)   @ Estadio 15 de Abril › Ciudad de Santa Fe, Provincia de Santa Fe
+    21:00     Union Santa Fe v Racing Club  1-3 (0-1)   @ Estadio 15 de Abril › Ciudad de Santa Fe, Provincia de Santa Fe
   Sat Mar 18
-    16.30     Arsenal Sarandi v Tigre  2-0 (0-0)   @ Estadio Julio Humberto Grondona › Avellaneda, Provincia de Buenos Aires
-    19.00     Independiente v Colon Santa Fe  2-2 (1-1)   @ Estadio Libertadores de América › Avellaneda, Provincia de Buenos Aires
+    16:30     Arsenal Sarandi v Tigre  2-0 (0-0)   @ Estadio Julio Humberto Grondona › Avellaneda, Provincia de Buenos Aires
+    19:00     Independiente v Colon Santa Fe  2-2 (1-1)   @ Estadio Libertadores de América › Avellaneda, Provincia de Buenos Aires
               Platense v Defensa Y Justicia  1-0 (1-0)   @ Estadio Ciudad de Vicente López › Vicente López, Provincia de Buenos Aires
-    21.30     Atletico Tucuman v Barracas Central  1-1 (1-0)   @ Estadio Monumental Presidente José Fierro › San Miguel de Tucumán, Provincia de Tucumán
+    21:30     Atletico Tucuman v Barracas Central  1-1 (1-0)   @ Estadio Monumental Presidente José Fierro › San Miguel de Tucumán, Provincia de Tucumán
               Godoy Cruz v Belgrano Cordoba  3-1 (2-1)   @ Estadio Malvinas Argentinas › Mendoza, Provincia de Mendoza
   Sun Mar 19
-    16.30     Gimnasia L.P. v Estudiantes L.P.  2-1 (0-1)   @ Estadio Juan Carmelo Zerillo › La Plata, Provincia de Buenos Aires
-    19.00     Boca Juniors v Instituto Cordoba  2-3 (1-2)   @ Estadio Alberto José Armando › Ciudad de Buenos Aires
-    21.30     Talleres Cordoba v Banfield  0-1 (0-0)   @ Estadio Mario Alberto Kempes › Ciudad de Córdoba, Provincia de Córdoba
+    16:30     Gimnasia L.P. v Estudiantes L.P.  2-1 (0-1)   @ Estadio Juan Carmelo Zerillo › La Plata, Provincia de Buenos Aires
+    19:00     Boca Juniors v Instituto Cordoba  2-3 (1-2)   @ Estadio Alberto José Armando › Ciudad de Buenos Aires
+    21:30     Talleres Cordoba v Banfield  0-1 (0-0)   @ Estadio Mario Alberto Kempes › Ciudad de Córdoba, Provincia de Córdoba
               Sarmiento Junin v River Plate  0-2 (0-1)   @ Estadio Eva Perón de Junín › Junín, Provincia de Buenos Aires
   Mon Mar 20
-    18.30     Newells Old Boys v San Lorenzo  1-0 (0-0)   @ Estadio Marcelo Alberto Bielsa › Rosario, Provincia de Santa Fe
-    21.00     Lanus v Argentinos JRS  0-0 (0-0)   @ Estadio Ciudad de Lanús-Néstor Díaz Pérez › Lanús, Provincia de Buenos Aires
+    18:30     Newells Old Boys v San Lorenzo  1-0 (0-0)   @ Estadio Marcelo Alberto Bielsa › Rosario, Provincia de Santa Fe
+    21:00     Lanus v Argentinos JRS  0-0 (0-0)   @ Estadio Ciudad de Lanús-Néstor Díaz Pérez › Lanús, Provincia de Buenos Aires
               Huracan v Rosario Central  0-2 (0-2)   @ Estadio Tomás Adolfo Ducó › Capital Federal, Ciudad de Buenos Aires
   Tue Mar 21
-    21.00     Velez Sarsfield v Central Cordoba de Santiago  4-0 (1-0)   @ Estadio José Amalfitani › Capital Federal, Ciudad de Buenos Aires
-» Round - 9
+    21:00     Velez Sarsfield v Central Cordoba de Santiago  4-0 (1-0)   @ Estadio José Amalfitani › Capital Federal, Ciudad de Buenos Aires
+▪ Round - 9
   Thu Mar 30
-    20.00     Defensa Y Justicia v Velez Sarsfield  0-0 (0-0)   @ Estadio Norberto Tito Tomaghello › Florencio Varela, Provincia de Buenos Aires
-    21.30     Argentinos JRS v Godoy Cruz  3-0 (0-0)   @ Estadio Diego Armando Maradona › Capital Federal, Ciudad de Buenos Aires
+    20:00     Defensa Y Justicia v Velez Sarsfield  0-0 (0-0)   @ Estadio Norberto Tito Tomaghello › Florencio Varela, Provincia de Buenos Aires
+    21:30     Argentinos JRS v Godoy Cruz  3-0 (0-0)   @ Estadio Diego Armando Maradona › Capital Federal, Ciudad de Buenos Aires
   Fri Mar 31
-    19.00     Estudiantes L.P. v Newells Old Boys  3-0 (2-0)   @ Estadio Jorge Luis Hirschi › La Plata, Provincia de Buenos Aires
+    19:00     Estudiantes L.P. v Newells Old Boys  3-0 (2-0)   @ Estadio Jorge Luis Hirschi › La Plata, Provincia de Buenos Aires
               Rosario Central v Gimnasia L.P.  3-1 (1-1)   @ Estadio Gigante de Arroyito › Rosario, Provincia de Santa Fe
-    21.30     River Plate v Union Santa Fe  1-0 (1-0)   @ Estadio Mâs Monumental › Capital Federal, Ciudad de Buenos Aires
+    21:30     River Plate v Union Santa Fe  1-0 (1-0)   @ Estadio Mâs Monumental › Capital Federal, Ciudad de Buenos Aires
   Sat Apr 1
-    15.30     Barracas Central v Boca Juniors  0-3 (0-3)   @ Estadio Claudio Fabián Tapia › Capital Federal, Ciudad de Buenos Aires
-    19.00     San Lorenzo v Independiente  0-0 (0-0)   @ Estadio Pedro Bidegaín › Capital Federal, Ciudad de Buenos Aires
-    19.30     Racing Club v Huracan  2-1 (0-0)   @ Estadio Presidente Juan Domingo Perón › Avellaneda, Provincia de Buenos Aires
-    21.30     Tigre v Lanus  2-1 (1-0)   @ Estadio José Dellagiovanna › San Fernando, Provincia de Buenos Aires
+    15:30     Barracas Central v Boca Juniors  0-3 (0-3)   @ Estadio Claudio Fabián Tapia › Capital Federal, Ciudad de Buenos Aires
+    19:00     San Lorenzo v Independiente  0-0 (0-0)   @ Estadio Pedro Bidegaín › Capital Federal, Ciudad de Buenos Aires
+    19:30     Racing Club v Huracan  2-1 (0-0)   @ Estadio Presidente Juan Domingo Perón › Avellaneda, Provincia de Buenos Aires
+    21:30     Tigre v Lanus  2-1 (1-0)   @ Estadio José Dellagiovanna › San Fernando, Provincia de Buenos Aires
   Sun Apr 2
-    16.30     Instituto Cordoba v Talleres Cordoba  0-3 (0-1)   @ Estadio Juan Domingo Perón › Ciudad de Córdoba, Provincia de Córdoba
-    19.00     Colon Santa Fe v Atletico Tucuman  0-0 (0-0)   @ Estadio Brigadier General Estanislao López › Ciudad de Santa Fe, Provincia de Santa Fe
-    21.30     Banfield v Platense  0-2 (0-2)   @ Estadio Florencio Solá › Lomas de Zamora, Provincia de Buenos Aires
+    16:30     Instituto Cordoba v Talleres Cordoba  0-3 (0-1)   @ Estadio Juan Domingo Perón › Ciudad de Córdoba, Provincia de Córdoba
+    19:00     Colon Santa Fe v Atletico Tucuman  0-0 (0-0)   @ Estadio Brigadier General Estanislao López › Ciudad de Santa Fe, Provincia de Santa Fe
+    21:30     Banfield v Platense  0-2 (0-2)   @ Estadio Florencio Solá › Lomas de Zamora, Provincia de Buenos Aires
   Mon Apr 3
-    20.00     Belgrano Cordoba v Sarmiento Junin  0-0 (0-0)   @ Estadio Julio César Villagra › Ciudad de Córdoba, Provincia de Córdoba
-    21.30     Central Cordoba de Santiago v Arsenal Sarandi  1-0 (1-0)   @ Estadio Alfredo Terrera › Santiago del Estero, Provincia de Santiago del Est
-» Round - 10
+    20:00     Belgrano Cordoba v Sarmiento Junin  0-0 (0-0)   @ Estadio Julio César Villagra › Ciudad de Córdoba, Provincia de Córdoba
+    21:30     Central Cordoba de Santiago v Arsenal Sarandi  1-0 (1-0)   @ Estadio Alfredo Terrera › Santiago del Estero, Provincia de Santiago del Est
+▪ Round - 10
   Fri Apr 7
-    19.00     Platense v Instituto Cordoba  1-0 (0-0)   @ Estadio Ciudad de Vicente López › Vicente López, Provincia de Buenos Aires
+    19:00     Platense v Instituto Cordoba  1-0 (0-0)   @ Estadio Ciudad de Vicente López › Vicente López, Provincia de Buenos Aires
               Lanus v Arsenal Sarandi  3-0 (2-0)   @ Estadio Ciudad de Lanús-Néstor Díaz Pérez › Lanús, Provincia de Buenos Aires
-    21.30     Talleres Cordoba v Barracas Central  3-0 (0-0)   @ Estadio Mario Alberto Kempes › Ciudad de Córdoba, Provincia de Córdoba
+    21:30     Talleres Cordoba v Barracas Central  3-0 (0-0)   @ Estadio Mario Alberto Kempes › Ciudad de Córdoba, Provincia de Córdoba
               Velez Sarsfield v Banfield  3-3 (3-1)   @ Estadio José Amalfitani › Capital Federal, Ciudad de Buenos Aires
   Sat Apr 8
-    15.30     Sarmiento Junin v Argentinos JRS  2-0 (0-0)   @ Estadio Eva Perón de Junín › Junín, Provincia de Buenos Aires
-    18.00     Gimnasia L.P. v Racing Club  3-1 (1-0)   @ Estadio Juan Carmelo Zerillo › La Plata, Provincia de Buenos Aires
+    15:30     Sarmiento Junin v Argentinos JRS  2-0 (0-0)   @ Estadio Eva Perón de Junín › Junín, Provincia de Buenos Aires
+    18:00     Gimnasia L.P. v Racing Club  3-1 (1-0)   @ Estadio Juan Carmelo Zerillo › La Plata, Provincia de Buenos Aires
               Union Santa Fe v Belgrano Cordoba  0-3 (0-2)   @ Estadio 15 de Abril › Ciudad de Santa Fe, Provincia de Santa Fe
-    20.30     Atletico Tucuman v San Lorenzo  1-3 (1-2)   @ Estadio Monumental Presidente José Fierro › San Miguel de Tucumán, Provincia de Tucumán
+    20:30     Atletico Tucuman v San Lorenzo  1-3 (1-2)   @ Estadio Monumental Presidente José Fierro › San Miguel de Tucumán, Provincia de Tucumán
               Defensa Y Justicia v Central Cordoba de Santiago  1-2 (0-1)   @ Estadio Norberto Tito Tomaghello › Florencio Varela, Provincia de Buenos Aires
   Sun Apr 9
-    14.00     Independiente v Estudiantes L.P.  1-2 (0-0)   @ Estadio Libertadores de América › Avellaneda, Provincia de Buenos Aires
+    14:00     Independiente v Estudiantes L.P.  1-2 (0-0)   @ Estadio Libertadores de América › Avellaneda, Provincia de Buenos Aires
               Godoy Cruz v Tigre  1-1 (1-1)   @ Estadio Malvinas Argentinas › Mendoza, Provincia de Mendoza
-    16.30     Newells Old Boys v Rosario Central  0-0 (0-0)   @ Estadio Marcelo Alberto Bielsa › Rosario, Provincia de Santa Fe
-    19.00     Huracan v River Plate  0-3 (0-2)   @ Estadio Tomás Adolfo Ducó › Capital Federal, Ciudad de Buenos Aires
-    21.30     Boca Juniors v Colon Santa Fe  1-2 (0-1)   @ Estadio Alberto José Armando › Ciudad de Buenos Aires
-» Round - 11
+    16:30     Newells Old Boys v Rosario Central  0-0 (0-0)   @ Estadio Marcelo Alberto Bielsa › Rosario, Provincia de Santa Fe
+    19:00     Huracan v River Plate  0-3 (0-2)   @ Estadio Tomás Adolfo Ducó › Capital Federal, Ciudad de Buenos Aires
+    21:30     Boca Juniors v Colon Santa Fe  1-2 (0-1)   @ Estadio Alberto José Armando › Ciudad de Buenos Aires
+▪ Round - 11
   Tue Apr 11
-    14.00     Barracas Central v Platense  1-0 (1-0)   @ Estadio Claudio Fabián Tapia › Capital Federal, Ciudad de Buenos Aires
-    19.00     Argentinos JRS v Union Santa Fe  5-1 (3-0)   @ Estadio Diego Armando Maradona › Capital Federal, Ciudad de Buenos Aires
-    21.30     Banfield v Defensa Y Justicia  0-3 (0-1)   @ Estadio Florencio Solá › Lomas de Zamora, Provincia de Buenos Aires
+    14:00     Barracas Central v Platense  1-0 (1-0)   @ Estadio Claudio Fabián Tapia › Capital Federal, Ciudad de Buenos Aires
+    19:00     Argentinos JRS v Union Santa Fe  5-1 (3-0)   @ Estadio Diego Armando Maradona › Capital Federal, Ciudad de Buenos Aires
+    21:30     Banfield v Defensa Y Justicia  0-3 (0-1)   @ Estadio Florencio Solá › Lomas de Zamora, Provincia de Buenos Aires
               Instituto Cordoba v Velez Sarsfield  1-0 (1-0)   @ Estadio Juan Domingo Perón › Ciudad de Córdoba, Provincia de Córdoba
               Central Cordoba de Santiago v Lanus  1-1 (1-0)   @ Estadio Alfredo Terrera › Santiago del Estero, Provincia de Santiago del Est
   Wed Apr 12
-    17.30     San Lorenzo v Boca Juniors  1-0 (1-0)   @ Estadio Pedro Bidegaín › Capital Federal, Ciudad de Buenos Aires
-    19.00     Belgrano Cordoba v Huracan  2-0 (1-0)   @ Estadio Julio César Villagra › Ciudad de Córdoba, Provincia de Córdoba
-    19.30     Racing Club v Newells Old Boys  0-1 (0-0)   @ Estadio Presidente Juan Domingo Perón › Avellaneda, Provincia de Buenos Aires
-    21.30     Estudiantes L.P. v Atletico Tucuman  0-0 (0-0)   @ Estadio Jorge Luis Hirschi › La Plata, Provincia de Buenos Aires
+    17:30     San Lorenzo v Boca Juniors  1-0 (1-0)   @ Estadio Pedro Bidegaín › Capital Federal, Ciudad de Buenos Aires
+    19:00     Belgrano Cordoba v Huracan  2-0 (1-0)   @ Estadio Julio César Villagra › Ciudad de Córdoba, Provincia de Córdoba
+    19:30     Racing Club v Newells Old Boys  0-1 (0-0)   @ Estadio Presidente Juan Domingo Perón › Avellaneda, Provincia de Buenos Aires
+    21:30     Estudiantes L.P. v Atletico Tucuman  0-0 (0-0)   @ Estadio Jorge Luis Hirschi › La Plata, Provincia de Buenos Aires
               Rosario Central v Independiente  1-0 (1-0)   @ Estadio Gigante de Arroyito › Rosario, Provincia de Santa Fe
   Thu Apr 13
-    14.00     Arsenal Sarandi v Godoy Cruz  2-3 (1-0)   @ Estadio Julio Humberto Grondona › Avellaneda, Provincia de Buenos Aires
-    16.30     Colon Santa Fe v Talleres Cordoba  2-2 (2-0)   @ Estadio Brigadier General Estanislao López › Ciudad de Santa Fe, Provincia de Santa Fe
-    19.30     River Plate v Gimnasia L.P.  3-0 (1-0)   @ Estadio Mâs Monumental › Capital Federal, Ciudad de Buenos Aires
-    21.30     Tigre v Sarmiento Junin  1-0 (1-0)   @ Estadio José Dellagiovanna › San Fernando, Provincia de Buenos Aires
-» Round - 12
+    14:00     Arsenal Sarandi v Godoy Cruz  2-3 (1-0)   @ Estadio Julio Humberto Grondona › Avellaneda, Provincia de Buenos Aires
+    16:30     Colon Santa Fe v Talleres Cordoba  2-2 (2-0)   @ Estadio Brigadier General Estanislao López › Ciudad de Santa Fe, Provincia de Santa Fe
+    19:30     River Plate v Gimnasia L.P.  3-0 (1-0)   @ Estadio Mâs Monumental › Capital Federal, Ciudad de Buenos Aires
+    21:30     Tigre v Sarmiento Junin  1-0 (1-0)   @ Estadio José Dellagiovanna › San Fernando, Provincia de Buenos Aires
+▪ Round - 12
   Sat Apr 15
-    16.30     Defensa Y Justicia v Instituto Cordoba  1-0 (0-0)   @ Estadio Norberto Tito Tomaghello › Florencio Varela, Provincia de Buenos Aires
-    19.00     Boca Juniors v Estudiantes L.P.  0-1 (0-0)   @ Estadio Alberto José Armando › Ciudad de Buenos Aires
-    21.30     Huracan v Argentinos JRS  0-0 (0-0)   @ Estadio Tomás Adolfo Ducó › Capital Federal, Ciudad de Buenos Aires
+    16:30     Defensa Y Justicia v Instituto Cordoba  1-0 (0-0)   @ Estadio Norberto Tito Tomaghello › Florencio Varela, Provincia de Buenos Aires
+    19:00     Boca Juniors v Estudiantes L.P.  0-1 (0-0)   @ Estadio Alberto José Armando › Ciudad de Buenos Aires
+    21:30     Huracan v Argentinos JRS  0-0 (0-0)   @ Estadio Tomás Adolfo Ducó › Capital Federal, Ciudad de Buenos Aires
               Gimnasia L.P. v Belgrano Cordoba  0-2 (0-1)   @ Estadio Juan Carmelo Zerillo › La Plata, Provincia de Buenos Aires
   Sun Apr 16
-    14.00     Union Santa Fe v Tigre  0-0 (0-0)   @ Estadio 15 de Abril › Ciudad de Santa Fe, Provincia de Santa Fe
+    14:00     Union Santa Fe v Tigre  0-0 (0-0)   @ Estadio 15 de Abril › Ciudad de Santa Fe, Provincia de Santa Fe
               Velez Sarsfield v Barracas Central  0-0 (0-0)   @ Estadio José Amalfitani › Capital Federal, Ciudad de Buenos Aires
-    16.30     Independiente v Racing Club  1-1 (1-1)   @ Estadio Libertadores de América › Avellaneda, Provincia de Buenos Aires
-    19.00     Newells Old Boys v River Plate  0-1 (0-0)   @ Estadio Marcelo Alberto Bielsa › Rosario, Provincia de Santa Fe
-    21.30     Talleres Cordoba v San Lorenzo  0-0 (0-0)   @ Estadio Mario Alberto Kempes › Ciudad de Córdoba, Provincia de Córdoba
+    16:30     Independiente v Racing Club  1-1 (1-1)   @ Estadio Libertadores de América › Avellaneda, Provincia de Buenos Aires
+    19:00     Newells Old Boys v River Plate  0-1 (0-0)   @ Estadio Marcelo Alberto Bielsa › Rosario, Provincia de Santa Fe
+    21:30     Talleres Cordoba v San Lorenzo  0-0 (0-0)   @ Estadio Mario Alberto Kempes › Ciudad de Córdoba, Provincia de Córdoba
   Mon Apr 17
-    16.30     Platense v Colon Santa Fe  0-0 (0-0)   @ Estadio Ciudad de Vicente López › Vicente López, Provincia de Buenos Aires
-    19.00     Sarmiento Junin v Arsenal Sarandi  1-0 (1-0)   @ Estadio Eva Perón de Junín › Junín, Provincia de Buenos Aires
+    16:30     Platense v Colon Santa Fe  0-0 (0-0)   @ Estadio Ciudad de Vicente López › Vicente López, Provincia de Buenos Aires
+    19:00     Sarmiento Junin v Arsenal Sarandi  1-0 (1-0)   @ Estadio Eva Perón de Junín › Junín, Provincia de Buenos Aires
               Banfield v Central Cordoba de Santiago  1-0 (1-0)   @ Estadio Florencio Solá › Lomas de Zamora, Provincia de Buenos Aires
-    21.30     Godoy Cruz v Lanus  4-4 (3-4)   @ Estadio Malvinas Argentinas › Mendoza, Provincia de Mendoza
+    21:30     Godoy Cruz v Lanus  4-4 (3-4)   @ Estadio Malvinas Argentinas › Mendoza, Provincia de Mendoza
               Atletico Tucuman v Rosario Central  2-2 (1-0)   @ Estadio Monumental Presidente José Fierro › San Miguel de Tucumán, Provincia de Tucumán
-» Round - 13
+▪ Round - 13
   Fri Apr 21
-    20.30     Colon Santa Fe v Velez Sarsfield  2-1 (2-0)   @ Estadio Brigadier General Estanislao López › Ciudad de Santa Fe, Provincia de Santa Fe
+    20:30     Colon Santa Fe v Velez Sarsfield  2-1 (2-0)   @ Estadio Brigadier General Estanislao López › Ciudad de Santa Fe, Provincia de Santa Fe
   Sat Apr 22
-    15.30     Arsenal Sarandi v Union Santa Fe  2-1 (0-0)   @ Estadio Julio Humberto Grondona › Avellaneda, Provincia de Buenos Aires
+    15:30     Arsenal Sarandi v Union Santa Fe  2-1 (0-0)   @ Estadio Julio Humberto Grondona › Avellaneda, Provincia de Buenos Aires
               Lanus v Sarmiento Junin  2-1 (2-0)   @ Estadio Ciudad de Lanús-Néstor Díaz Pérez › Lanús, Provincia de Buenos Aires
-    20.30     Central Cordoba de Santiago v Godoy Cruz  0-2 (0-0)   @ Estadio Único Madre de Ciudades › Santiago del Estero, Prov. de Santiago del Estero
+    20:30     Central Cordoba de Santiago v Godoy Cruz  0-2 (0-0)   @ Estadio Único Madre de Ciudades › Santiago del Estero, Prov. de Santiago del Estero
               Belgrano Cordoba v Newells Old Boys  1-0 (1-0)   @ Estadio Julio César Villagra › Ciudad de Córdoba, Provincia de Córdoba
   Sun Apr 23
-    11.00     San Lorenzo v Platense  1-0 (0-0)   @ Estadio Pedro Bidegaín › Capital Federal, Ciudad de Buenos Aires
-    15.30     Rosario Central v Boca Juniors  2-2 (1-0)   @ Estadio Gigante de Arroyito › Rosario, Provincia de Santa Fe
-    17.30     Instituto Cordoba v Banfield  1-1 (0-1)   @ Estadio Juan Domingo Perón › Ciudad de Córdoba, Provincia de Córdoba
-    18.00     Estudiantes L.P. v Talleres Cordoba  1-0 (0-0)   @ Estadio Jorge Luis Hirschi › La Plata, Provincia de Buenos Aires
-    20.30     River Plate v Independiente  2-0 (1-0)   @ Estadio Mâs Monumental › Capital Federal, Ciudad de Buenos Aires
+    11:00     San Lorenzo v Platense  1-0 (0-0)   @ Estadio Pedro Bidegaín › Capital Federal, Ciudad de Buenos Aires
+    15:30     Rosario Central v Boca Juniors  2-2 (1-0)   @ Estadio Gigante de Arroyito › Rosario, Provincia de Santa Fe
+    17:30     Instituto Cordoba v Banfield  1-1 (0-1)   @ Estadio Juan Domingo Perón › Ciudad de Córdoba, Provincia de Córdoba
+    18:00     Estudiantes L.P. v Talleres Cordoba  1-0 (0-0)   @ Estadio Jorge Luis Hirschi › La Plata, Provincia de Buenos Aires
+    20:30     River Plate v Independiente  2-0 (1-0)   @ Estadio Mâs Monumental › Capital Federal, Ciudad de Buenos Aires
   Mon Apr 24
-    15.30     Barracas Central v Defensa Y Justicia  0-2 (0-0)   @ Estadio Claudio Fabián Tapia › Capital Federal, Ciudad de Buenos Aires
-    19.00     Racing Club v Atletico Tucuman  1-3 (0-1)   @ Estadio Presidente Juan Domingo Perón › Avellaneda, Provincia de Buenos Aires
-    21.30     Argentinos JRS v Gimnasia L.P.  2-4 (1-2)   @ Estadio Diego Armando Maradona › Capital Federal, Ciudad de Buenos Aires
+    15:30     Barracas Central v Defensa Y Justicia  0-2 (0-0)   @ Estadio Claudio Fabián Tapia › Capital Federal, Ciudad de Buenos Aires
+    19:00     Racing Club v Atletico Tucuman  1-3 (0-1)   @ Estadio Presidente Juan Domingo Perón › Avellaneda, Provincia de Buenos Aires
+    21:30     Argentinos JRS v Gimnasia L.P.  2-4 (1-2)   @ Estadio Diego Armando Maradona › Capital Federal, Ciudad de Buenos Aires
   Tue Apr 25
-    19.30     Tigre v Huracan  1-0 (1-0)   @ Estadio José Dellagiovanna › San Fernando, Provincia de Buenos Aires
-» Round - 14
+    19:30     Tigre v Huracan  1-0 (1-0)   @ Estadio José Dellagiovanna › San Fernando, Provincia de Buenos Aires
+▪ Round - 14
   Thu Apr 27
-    20.00     Platense v Estudiantes L.P.  1-2 (1-2)   @ Estadio Ciudad de Vicente López › Vicente López, Provincia de Buenos Aires
+    20:00     Platense v Estudiantes L.P.  1-2 (1-2)   @ Estadio Ciudad de Vicente López › Vicente López, Provincia de Buenos Aires
               Sarmiento Junin v Godoy Cruz  1-1 (1-0)   @ Estadio Eva Perón de Junín › Junín, Provincia de Buenos Aires
   Fri Apr 28
-    19.00     Huracan v Arsenal Sarandi  2-1 (2-1)   @ Estadio Tomás Adolfo Ducó › Capital Federal, Ciudad de Buenos Aires
+    19:00     Huracan v Arsenal Sarandi  2-1 (2-1)   @ Estadio Tomás Adolfo Ducó › Capital Federal, Ciudad de Buenos Aires
               Newells Old Boys v Argentinos JRS  0-0 (0-0)   @ Estadio Marcelo Alberto Bielsa › Rosario, Provincia de Santa Fe
-    21.30     Atletico Tucuman v River Plate  1-1 (1-0)   @ Estadio Monumental Presidente José Fierro › San Miguel de Tucumán, Provincia de Tucumán
+    21:30     Atletico Tucuman v River Plate  1-1 (1-0)   @ Estadio Monumental Presidente José Fierro › San Miguel de Tucumán, Provincia de Tucumán
   Sat Apr 29
-    14.00     Velez Sarsfield v San Lorenzo  0-0 (0-0)   @ Estadio José Amalfitani › Capital Federal, Ciudad de Buenos Aires
-    16.30     Gimnasia L.P. v Tigre  1-1 (1-0)   @ Estadio Juan Carmelo Zerillo › La Plata, Provincia de Buenos Aires
-    19.00     Banfield v Barracas Central  0-0 (0-0)   @ Estadio de Excursionistas › Capital Federal, Ciudad de Buenos Aires
+    14:00     Velez Sarsfield v San Lorenzo  0-0 (0-0)   @ Estadio José Amalfitani › Capital Federal, Ciudad de Buenos Aires
+    16:30     Gimnasia L.P. v Tigre  1-1 (1-0)   @ Estadio Juan Carmelo Zerillo › La Plata, Provincia de Buenos Aires
+    19:00     Banfield v Barracas Central  0-0 (0-0)   @ Estadio de Excursionistas › Capital Federal, Ciudad de Buenos Aires
               Instituto Cordoba v Central Cordoba de Santiago  0-2 (0-0)   @ Estadio Juan Domingo Perón › Ciudad de Córdoba, Provincia de Córdoba
-    21.30     Boca Juniors v Racing Club  3-1 (2-0)   @ Estadio Alberto José Armando › Ciudad de Buenos Aires
+    21:30     Boca Juniors v Racing Club  3-1 (2-0)   @ Estadio Alberto José Armando › Ciudad de Buenos Aires
   Sun Apr 30
-    15.30     Defensa Y Justicia v Colon Santa Fe  2-0 (1-0)   @ Estadio Norberto Tito Tomaghello › Florencio Varela, Provincia de Buenos Aires
-    18.00     Independiente v Belgrano Cordoba  2-0 (1-0)   @ Estadio Libertadores de América › Avellaneda, Provincia de Buenos Aires
-    20.30     Talleres Cordoba v Rosario Central  3-1 (1-1)   @ Estadio Mario Alberto Kempes › Ciudad de Córdoba, Provincia de Córdoba
-» Round - 15
+    15:30     Defensa Y Justicia v Colon Santa Fe  2-0 (1-0)   @ Estadio Norberto Tito Tomaghello › Florencio Varela, Provincia de Buenos Aires
+    18:00     Independiente v Belgrano Cordoba  2-0 (1-0)   @ Estadio Libertadores de América › Avellaneda, Provincia de Buenos Aires
+    20:30     Talleres Cordoba v Rosario Central  3-1 (1-1)   @ Estadio Mario Alberto Kempes › Ciudad de Córdoba, Provincia de Córdoba
+▪ Round - 15
   Fri May 5
-    15.30     Godoy Cruz v Union Santa Fe  0-0 (0-0)   @ Estadio Víctor Antonio Legrotaglie › Mendoza, Provincia de Mendoza
+    15:30     Godoy Cruz v Union Santa Fe  0-0 (0-0)   @ Estadio Víctor Antonio Legrotaglie › Mendoza, Provincia de Mendoza
               Barracas Central v Instituto Cordoba  3-0 (1-0)   @ Estadio Claudio Fabián Tapia › Capital Federal, Ciudad de Buenos Aires
   Sat May 6
-    15.30     Lanus v Huracan  1-0 (1-0)   @ Estadio Ciudad de Lanús-Néstor Díaz Pérez › Lanús, Provincia de Buenos Aires
-    18.00     Colon Santa Fe v Banfield  2-0 (2-0)   @ Estadio Brigadier General Estanislao López › Ciudad de Santa Fe, Provincia de Santa Fe
+    15:30     Lanus v Huracan  1-0 (1-0)   @ Estadio Ciudad de Lanús-Néstor Díaz Pérez › Lanús, Provincia de Buenos Aires
+    18:00     Colon Santa Fe v Banfield  2-0 (2-0)   @ Estadio Brigadier General Estanislao López › Ciudad de Santa Fe, Provincia de Santa Fe
               Belgrano Cordoba v Atletico Tucuman  1-0 (1-0)   @ Estadio Julio César Villagra › Ciudad de Córdoba, Provincia de Córdoba
-    20.30     Argentinos JRS v Independiente  2-2 (0-1)   @ Estadio Diego Armando Maradona › Capital Federal, Ciudad de Buenos Aires
+    20:30     Argentinos JRS v Independiente  2-2 (0-1)   @ Estadio Diego Armando Maradona › Capital Federal, Ciudad de Buenos Aires
   Sun May 7
-    14.00     Rosario Central v Platense  4-0 (2-0)   @ Estadio Gigante de Arroyito › Rosario, Provincia de Santa Fe
-    17.30     River Plate v Boca Juniors  1-0 (0-0)   @ Estadio Mâs Monumental › Capital Federal, Ciudad de Buenos Aires
-    21.00     Tigre v Newells Old Boys  2-2 (2-1)   @ Estadio José Dellagiovanna › San Fernando, Provincia de Buenos Aires
+    14:00     Rosario Central v Platense  4-0 (2-0)   @ Estadio Gigante de Arroyito › Rosario, Provincia de Santa Fe
+    17:30     River Plate v Boca Juniors  1-0 (0-0)   @ Estadio Mâs Monumental › Capital Federal, Ciudad de Buenos Aires
+    21:00     Tigre v Newells Old Boys  2-2 (2-1)   @ Estadio José Dellagiovanna › San Fernando, Provincia de Buenos Aires
               Estudiantes L.P. v Velez Sarsfield  2-0 (0-0)   @ Estadio Jorge Luis Hirschi › La Plata, Provincia de Buenos Aires
   Mon May 8
-    15.30     Arsenal Sarandi v Gimnasia L.P.  0-1 (0-1)   @ Estadio Julio Humberto Grondona › Avellaneda, Provincia de Buenos Aires
-    17.00     San Lorenzo v Defensa Y Justicia  0-0 (0-0)   @ Estadio Pedro Bidegaín › Capital Federal, Ciudad de Buenos Aires
-    19.30     Racing Club v Talleres Cordoba  2-4 (0-2)   @ Estadio Presidente Juan Domingo Perón › Avellaneda, Provincia de Buenos Aires
-    21.30     Central Cordoba de Santiago v Sarmiento Junin  0-1 (0-1)   @ Estadio Alfredo Terrera › Santiago del Estero, Provincia de Santiago del Est
-» Round - 16
+    15:30     Arsenal Sarandi v Gimnasia L.P.  0-1 (0-1)   @ Estadio Julio Humberto Grondona › Avellaneda, Provincia de Buenos Aires
+    17:00     San Lorenzo v Defensa Y Justicia  0-0 (0-0)   @ Estadio Pedro Bidegaín › Capital Federal, Ciudad de Buenos Aires
+    19:30     Racing Club v Talleres Cordoba  2-4 (0-2)   @ Estadio Presidente Juan Domingo Perón › Avellaneda, Provincia de Buenos Aires
+    21:30     Central Cordoba de Santiago v Sarmiento Junin  0-1 (0-1)   @ Estadio Alfredo Terrera › Santiago del Estero, Provincia de Santiago del Est
+▪ Round - 16
   Fri May 12
-    20.00     Huracan v Godoy Cruz  0-0 (0-0)   @ Estadio Tomás Adolfo Ducó › Capital Federal, Ciudad de Buenos Aires
-    21.30     Atletico Tucuman v Argentinos JRS  1-2 (1-1)   @ Estadio Monumental Presidente José Fierro › San Miguel de Tucumán, Provincia de Tucumán
+    20:00     Huracan v Godoy Cruz  0-0 (0-0)   @ Estadio Tomás Adolfo Ducó › Capital Federal, Ciudad de Buenos Aires
+    21:30     Atletico Tucuman v Argentinos JRS  1-2 (1-1)   @ Estadio Monumental Presidente José Fierro › San Miguel de Tucumán, Provincia de Tucumán
   Sat May 13
-    15.30     Independiente v Tigre  2-1 (1-1)   @ Estadio Libertadores de América › Avellaneda, Provincia de Buenos Aires
-    18.00     Banfield v San Lorenzo  1-2 (1-1)   @ Estadio Florencio Solá › Lomas de Zamora, Provincia de Buenos Aires
-    20.30     Newells Old Boys v Arsenal Sarandi  2-0 (1-0)   @ Estadio Marcelo Alberto Bielsa › Rosario, Provincia de Santa Fe
+    15:30     Independiente v Tigre  2-1 (1-1)   @ Estadio Libertadores de América › Avellaneda, Provincia de Buenos Aires
+    18:00     Banfield v San Lorenzo  1-2 (1-1)   @ Estadio Florencio Solá › Lomas de Zamora, Provincia de Buenos Aires
+    20:30     Newells Old Boys v Arsenal Sarandi  2-0 (1-0)   @ Estadio Marcelo Alberto Bielsa › Rosario, Provincia de Santa Fe
               Instituto Cordoba v Colon Santa Fe  1-0 (0-0)   @ Estadio Juan Domingo Perón › Ciudad de Córdoba, Provincia de Córdoba
   Sun May 14
-    14.00     Defensa Y Justicia v Estudiantes L.P.  1-1 (1-1)   @ Estadio Norberto Tito Tomaghello › Florencio Varela, Provincia de Buenos Aires
-    16.30     Platense v Racing Club  3-0 (2-0)   @ Estadio Ciudad de Vicente López › Vicente López, Provincia de Buenos Aires
-    19.00     Boca Juniors v Belgrano Cordoba  2-0 (0-0)   @ Estadio Alberto José Armando › Ciudad de Buenos Aires
-    21.30     Talleres Cordoba v River Plate  2-1 (0-0)   @ Estadio Mario Alberto Kempes › Ciudad de Córdoba, Provincia de Córdoba
+    14:00     Defensa Y Justicia v Estudiantes L.P.  1-1 (1-1)   @ Estadio Norberto Tito Tomaghello › Florencio Varela, Provincia de Buenos Aires
+    16:30     Platense v Racing Club  3-0 (2-0)   @ Estadio Ciudad de Vicente López › Vicente López, Provincia de Buenos Aires
+    19:00     Boca Juniors v Belgrano Cordoba  2-0 (0-0)   @ Estadio Alberto José Armando › Ciudad de Buenos Aires
+    21:30     Talleres Cordoba v River Plate  2-1 (0-0)   @ Estadio Mario Alberto Kempes › Ciudad de Córdoba, Provincia de Córdoba
   Mon May 15
-    15.30     Union Santa Fe v Sarmiento Junin  0-2 (0-1)   @ Estadio 15 de Abril › Ciudad de Santa Fe, Provincia de Santa Fe
+    15:30     Union Santa Fe v Sarmiento Junin  0-2 (0-1)   @ Estadio 15 de Abril › Ciudad de Santa Fe, Provincia de Santa Fe
               Barracas Central v Central Cordoba de Santiago  2-2 (0-2)   @ Estadio Claudio Fabián Tapia › Capital Federal, Ciudad de Buenos Aires
-    18.00     Gimnasia L.P. v Lanus  1-0 (0-0)   @ Estadio Juan Carmelo Zerillo › La Plata, Provincia de Buenos Aires
-    20.30     Velez Sarsfield v Rosario Central  0-0 (0-0)   @ Estadio José Amalfitani › Capital Federal, Ciudad de Buenos Aires
-» Round - 17
+    18:00     Gimnasia L.P. v Lanus  1-0 (0-0)   @ Estadio Juan Carmelo Zerillo › La Plata, Provincia de Buenos Aires
+    20:30     Velez Sarsfield v Rosario Central  0-0 (0-0)   @ Estadio José Amalfitani › Capital Federal, Ciudad de Buenos Aires
+▪ Round - 17
   Thu May 18
-    21.00     Arsenal Sarandi v Independiente  2-1 (1-0)   @ Estadio Julio Humberto Grondona › Avellaneda, Provincia de Buenos Aires
+    21:00     Arsenal Sarandi v Independiente  2-1 (1-0)   @ Estadio Julio Humberto Grondona › Avellaneda, Provincia de Buenos Aires
   Fri May 19
-    15.30     Godoy Cruz v Gimnasia L.P.  2-0 (1-0)   @ Estadio Víctor Antonio Legrotaglie › Mendoza, Provincia de Mendoza
-    19.00     Rosario Central v Defensa Y Justicia  2-1 (1-1)   @ Estadio Gigante de Arroyito › Rosario, Provincia de Santa Fe
+    15:30     Godoy Cruz v Gimnasia L.P.  2-0 (1-0)   @ Estadio Víctor Antonio Legrotaglie › Mendoza, Provincia de Mendoza
+    19:00     Rosario Central v Defensa Y Justicia  2-1 (1-1)   @ Estadio Gigante de Arroyito › Rosario, Provincia de Santa Fe
               Estudiantes L.P. v Banfield  1-0 (0-0)   @ Estadio Jorge Luis Hirschi › La Plata, Provincia de Buenos Aires
               Central Cordoba de Santiago v Union Santa Fe  0-1 (0-0)   @ Estadio Alfredo Terrera › Santiago del Estero, Provincia de Santiago del Est
-    21.30     Argentinos JRS v Boca Juniors  0-1 (0-0)   @ Estadio Diego Armando Maradona › Capital Federal, Ciudad de Buenos Aires
+    21:30     Argentinos JRS v Boca Juniors  0-1 (0-0)   @ Estadio Diego Armando Maradona › Capital Federal, Ciudad de Buenos Aires
   Sat May 20
-    14.00     San Lorenzo v Instituto Cordoba  2-0 (0-0)   @ Estadio Pedro Bidegaín › Capital Federal, Ciudad de Buenos Aires
-    21.30     Tigre v Atletico Tucuman  0-0 (0-0)   @ Estadio José Dellagiovanna › San Fernando, Provincia de Buenos Aires
+    14:00     San Lorenzo v Instituto Cordoba  2-0 (0-0)   @ Estadio Pedro Bidegaín › Capital Federal, Ciudad de Buenos Aires
+    21:30     Tigre v Atletico Tucuman  0-0 (0-0)   @ Estadio José Dellagiovanna › San Fernando, Provincia de Buenos Aires
               Lanus v Newells Old Boys  1-0 (1-0)   @ Estadio Ciudad de Lanús-Néstor Díaz Pérez › Lanús, Provincia de Buenos Aires
   Sun May 21
-    15.30     Belgrano Cordoba v Talleres Cordoba  1-1 (1-0)   @ Estadio Julio César Villagra › Ciudad de Córdoba, Provincia de Córdoba
-    18.00     Sarmiento Junin v Huracan  0-0 (0-0)   @ Estadio Eva Perón de Junín › Junín, Provincia de Buenos Aires
+    15:30     Belgrano Cordoba v Talleres Cordoba  1-1 (1-0)   @ Estadio Julio César Villagra › Ciudad de Córdoba, Provincia de Córdoba
+    18:00     Sarmiento Junin v Huracan  0-0 (0-0)   @ Estadio Eva Perón de Junín › Junín, Provincia de Buenos Aires
               Colon Santa Fe v Barracas Central  1-1 (1-0)   @ Estadio Brigadier General Estanislao López › Ciudad de Santa Fe, Provincia de Santa Fe
-    20.30     River Plate v Platense  2-1 (1-1)   @ Estadio Mâs Monumental › Capital Federal, Ciudad de Buenos Aires
-» Round - 18
+    20:30     River Plate v Platense  2-1 (1-1)   @ Estadio Mâs Monumental › Capital Federal, Ciudad de Buenos Aires
+▪ Round - 18
   Fri May 26
-    21.30     Atletico Tucuman v Arsenal Sarandi  1-0 (0-0)   @ Estadio Monumental Presidente José Fierro › San Miguel de Tucumán, Provincia de Tucumán
+    21:30     Atletico Tucuman v Arsenal Sarandi  1-0 (0-0)   @ Estadio Monumental Presidente José Fierro › San Miguel de Tucumán, Provincia de Tucumán
   Sat May 27
-    11.00     Gimnasia L.P. v Sarmiento Junin  0-0 (0-0)   @ Estadio Juan Carmelo Zerillo › La Plata, Provincia de Buenos Aires
-    18.00     Platense v Belgrano Cordoba  1-0 (1-0)   @ Estadio Ciudad de Vicente López › Vicente López, Provincia de Buenos Aires
-    20.30     Independiente v Lanus  1-1 (1-0)   @ Estadio Libertadores de América › Avellaneda, Provincia de Buenos Aires
+    11:00     Gimnasia L.P. v Sarmiento Junin  0-0 (0-0)   @ Estadio Juan Carmelo Zerillo › La Plata, Provincia de Buenos Aires
+    18:00     Platense v Belgrano Cordoba  1-0 (1-0)   @ Estadio Ciudad de Vicente López › Vicente López, Provincia de Buenos Aires
+    20:30     Independiente v Lanus  1-1 (1-0)   @ Estadio Libertadores de América › Avellaneda, Provincia de Buenos Aires
   Sun May 28
-    14.00     Barracas Central v San Lorenzo  1-0 (1-0)   @ Estadio Claudio Fabián Tapia › Capital Federal, Ciudad de Buenos Aires
-    16.30     Talleres Cordoba v Argentinos JRS  1-0 (0-0)   @ Estadio Mario Alberto Kempes › Ciudad de Córdoba, Provincia de Córdoba
+    14:00     Barracas Central v San Lorenzo  1-0 (1-0)   @ Estadio Claudio Fabián Tapia › Capital Federal, Ciudad de Buenos Aires
+    16:30     Talleres Cordoba v Argentinos JRS  1-0 (0-0)   @ Estadio Mario Alberto Kempes › Ciudad de Córdoba, Provincia de Córdoba
               Defensa Y Justicia v Racing Club  1-1 (1-0)   @ Estadio Norberto Tito Tomaghello › Florencio Varela, Provincia de Buenos Aires
-    19.00     Boca Juniors v Tigre  1-0 (1-0)   @ Estadio Alberto José Armando › Ciudad de Buenos Aires
-    21.30     Newells Old Boys v Godoy Cruz  2-0 (1-0)   @ Estadio Marcelo Alberto Bielsa › Rosario, Provincia de Santa Fe
+    19:00     Boca Juniors v Tigre  1-0 (1-0)   @ Estadio Alberto José Armando › Ciudad de Buenos Aires
+    21:30     Newells Old Boys v Godoy Cruz  2-0 (1-0)   @ Estadio Marcelo Alberto Bielsa › Rosario, Provincia de Santa Fe
   Mon May 29
-    16.30     Colon Santa Fe v Central Cordoba de Santiago  2-2 (0-2)   @ Estadio Brigadier General Estanislao López › Ciudad de Santa Fe, Provincia de Santa Fe
-    19.00     Banfield v Rosario Central  2-0 (1-0)   @ Estadio Florencio Solá › Lomas de Zamora, Provincia de Buenos Aires
+    16:30     Colon Santa Fe v Central Cordoba de Santiago  2-2 (0-2)   @ Estadio Brigadier General Estanislao López › Ciudad de Santa Fe, Provincia de Santa Fe
+    19:00     Banfield v Rosario Central  2-0 (1-0)   @ Estadio Florencio Solá › Lomas de Zamora, Provincia de Buenos Aires
               Huracan v Union Santa Fe  0-1 (0-1)   @ Estadio Tomás Adolfo Ducó › Capital Federal, Ciudad de Buenos Aires
-    20.00     Instituto Cordoba v Estudiantes L.P.  0-0 (0-0)   @ Estadio Juan Domingo Perón › Ciudad de Córdoba, Provincia de Córdoba
-    21.30     Velez Sarsfield v River Plate  2-2 (0-1)   @ Estadio José Amalfitani › Capital Federal, Ciudad de Buenos Aires
-» Round - 19
+    20:00     Instituto Cordoba v Estudiantes L.P.  0-0 (0-0)   @ Estadio Juan Domingo Perón › Ciudad de Córdoba, Provincia de Córdoba
+    21:30     Velez Sarsfield v River Plate  2-2 (0-1)   @ Estadio José Amalfitani › Capital Federal, Ciudad de Buenos Aires
+▪ Round - 19
   Thu Jun 1
-    20.00     Sarmiento Junin v Newells Old Boys  0-0 (0-0)   @ Estadio Eva Perón de Junín › Junín, Provincia de Buenos Aires
-    21.30     Arsenal Sarandi v Boca Juniors  1-0 (1-0)   @ Estadio Julio Humberto Grondona › Avellaneda, Provincia de Buenos Aires
+    20:00     Sarmiento Junin v Newells Old Boys  0-0 (0-0)   @ Estadio Eva Perón de Junín › Junín, Provincia de Buenos Aires
+    21:30     Arsenal Sarandi v Boca Juniors  1-0 (1-0)   @ Estadio Julio Humberto Grondona › Avellaneda, Provincia de Buenos Aires
   Fri Jun 2
-    19.00     Estudiantes L.P. v Barracas Central  5-2 (3-1)   @ Estadio Jorge Luis Hirschi › La Plata, Provincia de Buenos Aires
-    21.30     Argentinos JRS v Platense  1-0 (0-0)   @ Estadio Diego Armando Maradona › Capital Federal, Ciudad de Buenos Aires
+    19:00     Estudiantes L.P. v Barracas Central  5-2 (3-1)   @ Estadio Jorge Luis Hirschi › La Plata, Provincia de Buenos Aires
+    21:30     Argentinos JRS v Platense  1-0 (0-0)   @ Estadio Diego Armando Maradona › Capital Federal, Ciudad de Buenos Aires
               Tigre v Talleres Cordoba  1-3 (1-1)   @ Estadio José Dellagiovanna › San Fernando, Provincia de Buenos Aires
   Sat Jun 3
-    14.00     Belgrano Cordoba v Velez Sarsfield  2-0 (2-0)   @ Estadio Julio César Villagra › Ciudad de Córdoba, Provincia de Córdoba
-    19.00     Central Cordoba de Santiago v Huracan  2-0 (2-0)   @ Estadio Alfredo Terrera › Santiago del Estero, Provincia de Santiago del Est
+    14:00     Belgrano Cordoba v Velez Sarsfield  2-0 (2-0)   @ Estadio Julio César Villagra › Ciudad de Córdoba, Provincia de Córdoba
+    19:00     Central Cordoba de Santiago v Huracan  2-0 (2-0)   @ Estadio Alfredo Terrera › Santiago del Estero, Provincia de Santiago del Est
               Rosario Central v Instituto Cordoba  4-1 (1-0)   @ Estadio Gigante de Arroyito › Rosario, Provincia de Santa Fe
-    21.30     Racing Club v Banfield  2-0 (1-0)   @ Estadio Presidente Juan Domingo Perón › Avellaneda, Provincia de Buenos Aires
+    21:30     Racing Club v Banfield  2-0 (1-0)   @ Estadio Presidente Juan Domingo Perón › Avellaneda, Provincia de Buenos Aires
   Sun Jun 4
-    11.00     Union Santa Fe v Gimnasia L.P.  2-0 (0-0)   @ Estadio 15 de Abril › Ciudad de Santa Fe, Provincia de Santa Fe
-    14.00     San Lorenzo v Colon Santa Fe  0-0 (0-0)   @ Estadio Pedro Bidegaín › Capital Federal, Ciudad de Buenos Aires
-    17.00     Godoy Cruz v Independiente  2-1 (2-0)   @ Estadio Malvinas Argentinas › Mendoza, Provincia de Mendoza
-    21.30     Lanus v Atletico Tucuman  2-1 (2-1)   @ Estadio Ciudad de Lanús-Néstor Díaz Pérez › Lanús, Provincia de Buenos Aires
-» Round - 20
+    11:00     Union Santa Fe v Gimnasia L.P.  2-0 (0-0)   @ Estadio 15 de Abril › Ciudad de Santa Fe, Provincia de Santa Fe
+    14:00     San Lorenzo v Colon Santa Fe  0-0 (0-0)   @ Estadio Pedro Bidegaín › Capital Federal, Ciudad de Buenos Aires
+    17:00     Godoy Cruz v Independiente  2-1 (2-0)   @ Estadio Malvinas Argentinas › Mendoza, Provincia de Mendoza
+    21:30     Lanus v Atletico Tucuman  2-1 (2-1)   @ Estadio Ciudad de Lanús-Néstor Díaz Pérez › Lanús, Provincia de Buenos Aires
+▪ Round - 20
   Fri Jun 9
-    15.30     Barracas Central v Rosario Central  0-0 (0-0)   @ Estadio Claudio Fabián Tapia › Capital Federal, Ciudad de Buenos Aires
-    20.00     Independiente v Sarmiento Junin  2-0 (1-0)   @ Estadio Libertadores de América › Avellaneda, Provincia de Buenos Aires
+    15:30     Barracas Central v Rosario Central  0-0 (0-0)   @ Estadio Claudio Fabián Tapia › Capital Federal, Ciudad de Buenos Aires
+    20:00     Independiente v Sarmiento Junin  2-0 (1-0)   @ Estadio Libertadores de América › Avellaneda, Provincia de Buenos Aires
   Sat Jun 10
-    19.00     Platense v Tigre  1-0 (0-0)   @ Estadio Ciudad de Vicente López › Vicente López, Provincia de Buenos Aires
-    20.00     Boca Juniors v Lanus  1-1 (0-1)   @ Estadio Alberto José Armando › Ciudad de Buenos Aires
-    21.30     Talleres Cordoba v Arsenal Sarandi  1-0 (1-0)   @ Estadio Mario Alberto Kempes › Ciudad de Córdoba, Provincia de Córdoba
+    19:00     Platense v Tigre  1-0 (0-0)   @ Estadio Ciudad de Vicente López › Vicente López, Provincia de Buenos Aires
+    20:00     Boca Juniors v Lanus  1-1 (0-1)   @ Estadio Alberto José Armando › Ciudad de Buenos Aires
+    21:30     Talleres Cordoba v Arsenal Sarandi  1-0 (1-0)   @ Estadio Mario Alberto Kempes › Ciudad de Córdoba, Provincia de Córdoba
   Mon Jun 12
-    14.00     Newells Old Boys v Union Santa Fe  1-1 (1-0)   @ Estadio Marcelo Alberto Bielsa › Rosario, Provincia de Santa Fe
-    17.00     San Lorenzo v Central Cordoba de Santiago  0-0 (0-0)   @ Estadio Pedro Bidegaín › Capital Federal, Ciudad de Buenos Aires
-    19.15     Banfield v River Plate  1-4 (1-2)   @ Estadio Florencio Solá › Lomas de Zamora, Provincia de Buenos Aires
-    21.45     Instituto Cordoba v Racing Club  1-1 (1-0)   @ Estadio Juan Domingo Perón › Ciudad de Córdoba, Provincia de Córdoba
+    14:00     Newells Old Boys v Union Santa Fe  1-1 (1-0)   @ Estadio Marcelo Alberto Bielsa › Rosario, Provincia de Santa Fe
+    17:00     San Lorenzo v Central Cordoba de Santiago  0-0 (0-0)   @ Estadio Pedro Bidegaín › Capital Federal, Ciudad de Buenos Aires
+    19:15     Banfield v River Plate  1-4 (1-2)   @ Estadio Florencio Solá › Lomas de Zamora, Provincia de Buenos Aires
+    21:45     Instituto Cordoba v Racing Club  1-1 (1-0)   @ Estadio Juan Domingo Perón › Ciudad de Córdoba, Provincia de Córdoba
               Velez Sarsfield v Argentinos JRS  0-1 (0-0)   @ Estadio José Amalfitani › Capital Federal, Ciudad de Buenos Aires
   Tue Jun 13
-    18.00     Defensa Y Justicia v Belgrano Cordoba  2-0 (1-0)   @ Estadio Norberto Tito Tomaghello › Florencio Varela, Provincia de Buenos Aires
+    18:00     Defensa Y Justicia v Belgrano Cordoba  2-0 (1-0)   @ Estadio Norberto Tito Tomaghello › Florencio Varela, Provincia de Buenos Aires
               Colon Santa Fe v Estudiantes L.P.  1-0 (1-0)   @ Estadio Brigadier General Estanislao López › Ciudad de Santa Fe, Provincia de Santa Fe
-    20.30     Atletico Tucuman v Godoy Cruz  2-1 (1-0)   @ Estadio Monumental Presidente José Fierro › San Miguel de Tucumán, Provincia de Tucumán
+    20:30     Atletico Tucuman v Godoy Cruz  2-1 (1-0)   @ Estadio Monumental Presidente José Fierro › San Miguel de Tucumán, Provincia de Tucumán
               Gimnasia L.P. v Huracan  1-0 (0-0)   @ Estadio Juan Carmelo Zerillo › La Plata, Provincia de Buenos Aires
-» Round - 14
+▪ Round - 14
   Sat Jun 17
-    15.30     Union Santa Fe v Lanus  1-1 (0-0)   @ Estadio 15 de Abril › Ciudad de Santa Fe, Provincia de Santa Fe
-» Round - 17
+    15:30     Union Santa Fe v Lanus  1-1 (0-0)   @ Estadio 15 de Abril › Ciudad de Santa Fe, Provincia de Santa Fe
+▪ Round - 17
   Sat Jun 17
-    18.00     Racing Club v Velez Sarsfield  2-1 (2-1)   @ Estadio Presidente Juan Domingo Perón › Avellaneda, Provincia de Buenos Aires
-» Round - 19
+    18:00     Racing Club v Velez Sarsfield  2-1 (2-1)   @ Estadio Presidente Juan Domingo Perón › Avellaneda, Provincia de Buenos Aires
+▪ Round - 19
   Sun Jun 18
-    16.30     River Plate v Defensa Y Justicia  1-0 (0-0)   @ Estadio Mâs Monumental › Capital Federal, Ciudad de Buenos Aires
-» Round - 21
+    16:30     River Plate v Defensa Y Justicia  1-0 (0-0)   @ Estadio Mâs Monumental › Capital Federal, Ciudad de Buenos Aires
+▪ Round - 21
   Wed Jun 21
-    19.00     Estudiantes L.P. v San Lorenzo  1-1 (1-0)   @ Estadio Jorge Luis Hirschi › La Plata, Provincia de Buenos Aires
-    21.30     Central Cordoba de Santiago v Gimnasia L.P.  0-0 (0-0)   @ Estadio Alfredo Terrera › Santiago del Estero, Provincia de Santiago del Est
+    19:00     Estudiantes L.P. v San Lorenzo  1-1 (1-0)   @ Estadio Jorge Luis Hirschi › La Plata, Provincia de Buenos Aires
+    21:30     Central Cordoba de Santiago v Gimnasia L.P.  0-0 (0-0)   @ Estadio Alfredo Terrera › Santiago del Estero, Provincia de Santiago del Est
   Thu Jun 22
-    17.00     Tigre v Velez Sarsfield  2-1 (0-0)   @ Estadio José Dellagiovanna › San Fernando, Provincia de Buenos Aires
-    18.00     Racing Club v Barracas Central  1-1 (1-0)   @ Estadio Presidente Juan Domingo Perón › Avellaneda, Provincia de Buenos Aires
-    19.45     River Plate v Instituto Cordoba  3-1 (1-1)   @ Estadio Mâs Monumental › Capital Federal, Ciudad de Buenos Aires
-    21.45     Godoy Cruz v Boca Juniors  4-0 (2-0)   @ Estadio Malvinas Argentinas › Mendoza, Provincia de Mendoza
+    17:00     Tigre v Velez Sarsfield  2-1 (0-0)   @ Estadio José Dellagiovanna › San Fernando, Provincia de Buenos Aires
+    18:00     Racing Club v Barracas Central  1-1 (1-0)   @ Estadio Presidente Juan Domingo Perón › Avellaneda, Provincia de Buenos Aires
+    19:45     River Plate v Instituto Cordoba  3-1 (1-1)   @ Estadio Mâs Monumental › Capital Federal, Ciudad de Buenos Aires
+    21:45     Godoy Cruz v Boca Juniors  4-0 (2-0)   @ Estadio Malvinas Argentinas › Mendoza, Provincia de Mendoza
   Fri Jun 23
-    19.00     Huracan v Newells Old Boys  1-1 (1-1)   @ Estadio Tomás Adolfo Ducó › Capital Federal, Ciudad de Buenos Aires
-    21.30     Argentinos JRS v Defensa Y Justicia  3-1 (1-0)   @ Estadio Diego Armando Maradona › Capital Federal, Ciudad de Buenos Aires
+    19:00     Huracan v Newells Old Boys  1-1 (1-1)   @ Estadio Tomás Adolfo Ducó › Capital Federal, Ciudad de Buenos Aires
+    21:30     Argentinos JRS v Defensa Y Justicia  3-1 (1-0)   @ Estadio Diego Armando Maradona › Capital Federal, Ciudad de Buenos Aires
   Sat Jun 24
-    17.00     Union Santa Fe v Independiente  3-0 (1-0)   @ Estadio 15 de Abril › Ciudad de Santa Fe, Provincia de Santa Fe
-    20.00     Lanus v Talleres Cordoba  2-1 (0-1)   @ Estadio Ciudad de Lanús-Néstor Díaz Pérez › Lanús, Provincia de Buenos Aires
+    17:00     Union Santa Fe v Independiente  3-0 (1-0)   @ Estadio 15 de Abril › Ciudad de Santa Fe, Provincia de Santa Fe
+    20:00     Lanus v Talleres Cordoba  2-1 (0-1)   @ Estadio Ciudad de Lanús-Néstor Díaz Pérez › Lanús, Provincia de Buenos Aires
   Sun Jun 25
-    15.30     Arsenal Sarandi v Platense  0-2 (0-1)   @ Estadio Julio Humberto Grondona › Avellaneda, Provincia de Buenos Aires
-    19.00     Rosario Central v Colon Santa Fe  1-1 (0-0)   @ Estadio Gigante de Arroyito › Rosario, Provincia de Santa Fe
-    20.30     Sarmiento Junin v Atletico Tucuman  4-1 (3-0)   @ Estadio Eva Perón de Junín › Junín, Provincia de Buenos Aires
+    15:30     Arsenal Sarandi v Platense  0-2 (0-1)   @ Estadio Julio Humberto Grondona › Avellaneda, Provincia de Buenos Aires
+    19:00     Rosario Central v Colon Santa Fe  1-1 (0-0)   @ Estadio Gigante de Arroyito › Rosario, Provincia de Santa Fe
+    20:30     Sarmiento Junin v Atletico Tucuman  4-1 (3-0)   @ Estadio Eva Perón de Junín › Junín, Provincia de Buenos Aires
   Mon Jun 26
-    20.00     Belgrano Cordoba v Banfield  3-1 (1-0)   @ Estadio Julio César Villagra › Ciudad de Córdoba, Provincia de Córdoba
-» Round - 22
+    20:00     Belgrano Cordoba v Banfield  3-1 (1-0)   @ Estadio Julio César Villagra › Ciudad de Córdoba, Provincia de Córdoba
+▪ Round - 22
   Fri Jun 30
-    19.00     Platense v Lanus  0-1 (0-0)   @ Estadio Ciudad de Vicente López › Vicente López, Provincia de Buenos Aires
-    21.30     Velez Sarsfield v Arsenal Sarandi  1-0 (0-0)   @ Estadio José Amalfitani › Capital Federal, Ciudad de Buenos Aires
+    19:00     Platense v Lanus  0-1 (0-0)   @ Estadio Ciudad de Vicente López › Vicente López, Provincia de Buenos Aires
+    21:30     Velez Sarsfield v Arsenal Sarandi  1-0 (0-0)   @ Estadio José Amalfitani › Capital Federal, Ciudad de Buenos Aires
               Atletico Tucuman v Union Santa Fe  1-0 (1-0)   @ Estadio Monumental Presidente José Fierro › San Miguel de Tucumán, Provincia de Tucumán
   Sat Jul 1
-    15.00     Barracas Central v River Plate  2-1 (1-0)   @ Estadio Claudio Fabián Tapia › Capital Federal, Ciudad de Buenos Aires
-    17.30     San Lorenzo v Rosario Central  1-0 (0-0)   @ Estadio Pedro Bidegaín › Capital Federal, Ciudad de Buenos Aires
-    19.00     Estudiantes L.P. v Central Cordoba de Santiago  1-1 (1-1)   @ Estadio Jorge Luis Hirschi › La Plata, Provincia de Buenos Aires
-    21.30     Talleres Cordoba v Godoy Cruz  1-1 (1-0)   @ Estadio Mario Alberto Kempes › Ciudad de Córdoba, Provincia de Córdoba
+    15:00     Barracas Central v River Plate  2-1 (1-0)   @ Estadio Claudio Fabián Tapia › Capital Federal, Ciudad de Buenos Aires
+    17:30     San Lorenzo v Rosario Central  1-0 (0-0)   @ Estadio Pedro Bidegaín › Capital Federal, Ciudad de Buenos Aires
+    19:00     Estudiantes L.P. v Central Cordoba de Santiago  1-1 (1-1)   @ Estadio Jorge Luis Hirschi › La Plata, Provincia de Buenos Aires
+    21:30     Talleres Cordoba v Godoy Cruz  1-1 (1-0)   @ Estadio Mario Alberto Kempes › Ciudad de Córdoba, Provincia de Córdoba
   Sun Jul 2
-    15.00     Independiente v Huracan  1-0 (1-0)   @ Estadio Libertadores de América › Avellaneda, Provincia de Buenos Aires
-    17.00     Colon Santa Fe v Racing Club  0-4 (0-3)   @ Estadio Brigadier General Estanislao López › Ciudad de Santa Fe, Provincia de Santa Fe
-    19.00     Instituto Cordoba v Belgrano Cordoba  1-0 (1-0)   @ Estadio Mario Alberto Kempes › Ciudad de Córdoba, Provincia de Córdoba
-    19.30     Banfield v Argentinos JRS  1-0 (0-0)   @ Estadio Florencio Solá › Lomas de Zamora, Provincia de Buenos Aires
+    15:00     Independiente v Huracan  1-0 (1-0)   @ Estadio Libertadores de América › Avellaneda, Provincia de Buenos Aires
+    17:00     Colon Santa Fe v Racing Club  0-4 (0-3)   @ Estadio Brigadier General Estanislao López › Ciudad de Santa Fe, Provincia de Santa Fe
+    19:00     Instituto Cordoba v Belgrano Cordoba  1-0 (1-0)   @ Estadio Mario Alberto Kempes › Ciudad de Córdoba, Provincia de Córdoba
+    19:30     Banfield v Argentinos JRS  1-0 (0-0)   @ Estadio Florencio Solá › Lomas de Zamora, Provincia de Buenos Aires
               Defensa Y Justicia v Tigre  1-0 (0-0)   @ Estadio Norberto Tito Tomaghello › Florencio Varela, Provincia de Buenos Aires
-    21.30     Boca Juniors v Sarmiento Junin  2-0 (0-0)   @ Estadio Alberto José Armando › Ciudad de Buenos Aires
+    21:30     Boca Juniors v Sarmiento Junin  2-0 (0-0)   @ Estadio Alberto José Armando › Ciudad de Buenos Aires
   Mon Jul 3
-    20.00     Newells Old Boys v Gimnasia L.P.  2-2 (1-2)   @ Estadio Marcelo Alberto Bielsa › Rosario, Provincia de Santa Fe
-» Round - 23
+    20:00     Newells Old Boys v Gimnasia L.P.  2-2 (1-2)   @ Estadio Marcelo Alberto Bielsa › Rosario, Provincia de Santa Fe
+▪ Round - 23
   Tue Jul 4
-    20.00     Lanus v Velez Sarsfield  0-1 (0-1)   @ Estadio Ciudad de Lanús-Néstor Díaz Pérez › Lanús, Provincia de Buenos Aires
+    20:00     Lanus v Velez Sarsfield  0-1 (0-1)   @ Estadio Ciudad de Lanús-Néstor Díaz Pérez › Lanús, Provincia de Buenos Aires
   Wed Jul 5
-    15.30     Godoy Cruz v Platense  2-1 (1-0)   @ Estadio Víctor Antonio Legrotaglie › Mendoza, Provincia de Mendoza
-    17.00     Tigre v Banfield  1-2 (0-1)   @ Estadio José Dellagiovanna › San Fernando, Provincia de Buenos Aires
-    18.00     Rosario Central v Estudiantes L.P.  0-0 (0-0)   @ Estadio Gigante de Arroyito › Rosario, Provincia de Santa Fe
-    19.30     Racing Club v San Lorenzo  1-1 (1-0)   @ Estadio Presidente Juan Domingo Perón › Avellaneda, Provincia de Buenos Aires
-    21.30     River Plate v Colon Santa Fe  2-0 (1-0)   @ Estadio Mâs Monumental › Capital Federal, Ciudad de Buenos Aires
+    15:30     Godoy Cruz v Platense  2-1 (1-0)   @ Estadio Víctor Antonio Legrotaglie › Mendoza, Provincia de Mendoza
+    17:00     Tigre v Banfield  1-2 (0-1)   @ Estadio José Dellagiovanna › San Fernando, Provincia de Buenos Aires
+    18:00     Rosario Central v Estudiantes L.P.  0-0 (0-0)   @ Estadio Gigante de Arroyito › Rosario, Provincia de Santa Fe
+    19:30     Racing Club v San Lorenzo  1-1 (1-0)   @ Estadio Presidente Juan Domingo Perón › Avellaneda, Provincia de Buenos Aires
+    21:30     River Plate v Colon Santa Fe  2-0 (1-0)   @ Estadio Mâs Monumental › Capital Federal, Ciudad de Buenos Aires
   Thu Jul 6
-    14.00     Arsenal Sarandi v Defensa Y Justicia  1-2 (1-0)   @ Estadio Julio Humberto Grondona › Avellaneda, Provincia de Buenos Aires
-    17.00     Union Santa Fe v Boca Juniors  0-0 (0-0)   @ Estadio 15 de Abril › Ciudad de Santa Fe, Provincia de Santa Fe
-    19.00     Sarmiento Junin v Talleres Cordoba  0-1 (0-1)   @ Estadio Eva Perón de Junín › Junín, Provincia de Buenos Aires
+    14:00     Arsenal Sarandi v Defensa Y Justicia  1-2 (1-0)   @ Estadio Julio Humberto Grondona › Avellaneda, Provincia de Buenos Aires
+    17:00     Union Santa Fe v Boca Juniors  0-0 (0-0)   @ Estadio 15 de Abril › Ciudad de Santa Fe, Provincia de Santa Fe
+    19:00     Sarmiento Junin v Talleres Cordoba  0-1 (0-1)   @ Estadio Eva Perón de Junín › Junín, Provincia de Buenos Aires
               Argentinos JRS v Instituto Cordoba  0-0 (0-0)   @ Estadio Diego Armando Maradona › Capital Federal, Ciudad de Buenos Aires
-    21.30     Huracan v Atletico Tucuman  0-1 (0-0)   @ Estadio Tomás Adolfo Ducó › Capital Federal, Ciudad de Buenos Aires
+    21:30     Huracan v Atletico Tucuman  0-1 (0-0)   @ Estadio Tomás Adolfo Ducó › Capital Federal, Ciudad de Buenos Aires
               Belgrano Cordoba v Barracas Central  0-2 (0-1)   @ Estadio Julio César Villagra › Ciudad de Córdoba, Provincia de Córdoba
   Fri Jul 7
-    19.00     Gimnasia L.P. v Independiente  1-1 (0-0)   @ Estadio Juan Carmelo Zerillo › La Plata, Provincia de Buenos Aires
-    21.30     Central Cordoba de Santiago v Newells Old Boys  2-0 (1-0)   @ Estadio Único Madre de Ciudades › Santiago del Estero, Prov. de Santiago del Estero
-» Round - 24
+    19:00     Gimnasia L.P. v Independiente  1-1 (0-0)   @ Estadio Juan Carmelo Zerillo › La Plata, Provincia de Buenos Aires
+    21:30     Central Cordoba de Santiago v Newells Old Boys  2-0 (1-0)   @ Estadio Único Madre de Ciudades › Santiago del Estero, Prov. de Santiago del Estero
+▪ Round - 24
   Sat Jul 8
-    18.00     Estudiantes L.P. v Racing Club  0-0 (0-0)   @ Estadio Jorge Luis Hirschi › La Plata, Provincia de Buenos Aires
-    20.30     San Lorenzo v River Plate  0-0 (0-0)   @ Estadio Pedro Bidegaín › Capital Federal, Ciudad de Buenos Aires
+    18:00     Estudiantes L.P. v Racing Club  0-0 (0-0)   @ Estadio Jorge Luis Hirschi › La Plata, Provincia de Buenos Aires
+    20:30     San Lorenzo v River Plate  0-0 (0-0)   @ Estadio Pedro Bidegaín › Capital Federal, Ciudad de Buenos Aires
   Sun Jul 9
-    15.30     Platense v Sarmiento Junin  1-0 (0-0)   @ Estadio Ciudad de Vicente López › Vicente López, Provincia de Buenos Aires
+    15:30     Platense v Sarmiento Junin  1-0 (0-0)   @ Estadio Ciudad de Vicente López › Vicente López, Provincia de Buenos Aires
               Instituto Cordoba v Tigre  0-1 (0-1)   @ Estadio Juan Domingo Perón › Ciudad de Córdoba, Provincia de Córdoba
-    18.00     Velez Sarsfield v Godoy Cruz  1-1 (0-0)   @ Estadio José Amalfitani › Capital Federal, Ciudad de Buenos Aires
-    20.30     Banfield v Arsenal Sarandi  0-0 (0-0)   @ Estadio Florencio Solá › Lomas de Zamora, Provincia de Buenos Aires
+    18:00     Velez Sarsfield v Godoy Cruz  1-1 (0-0)   @ Estadio José Amalfitani › Capital Federal, Ciudad de Buenos Aires
+    20:30     Banfield v Arsenal Sarandi  0-0 (0-0)   @ Estadio Florencio Solá › Lomas de Zamora, Provincia de Buenos Aires
               Defensa Y Justicia v Lanus  2-2 (0-1)   @ Estadio Norberto Tito Tomaghello › Florencio Varela, Provincia de Buenos Aires
   Mon Jul 10
-    14.00     Barracas Central v Argentinos JRS  0-0 (0-0)   @ Estadio Claudio Fabián Tapia › Capital Federal, Ciudad de Buenos Aires
-    16.30     Colon Santa Fe v Belgrano Cordoba  0-0 (0-0)   @ Estadio Brigadier General Estanislao López › Ciudad de Santa Fe, Provincia de Santa Fe
-    19.30     Boca Juniors v Huracan  1-0 (0-0)   @ Estadio Alberto José Armando › Ciudad de Buenos Aires
-    21.30     Talleres Cordoba v Union Santa Fe  0-0 (0-0)   @ Estadio Mario Alberto Kempes › Ciudad de Córdoba, Provincia de Córdoba
+    14:00     Barracas Central v Argentinos JRS  0-0 (0-0)   @ Estadio Claudio Fabián Tapia › Capital Federal, Ciudad de Buenos Aires
+    16:30     Colon Santa Fe v Belgrano Cordoba  0-0 (0-0)   @ Estadio Brigadier General Estanislao López › Ciudad de Santa Fe, Provincia de Santa Fe
+    19:30     Boca Juniors v Huracan  1-0 (0-0)   @ Estadio Alberto José Armando › Ciudad de Buenos Aires
+    21:30     Talleres Cordoba v Union Santa Fe  0-0 (0-0)   @ Estadio Mario Alberto Kempes › Ciudad de Córdoba, Provincia de Córdoba
   Tue Jul 11
-    18.45     Rosario Central v Central Cordoba de Santiago  2-0 (1-0)   @ Estadio Gigante de Arroyito › Rosario, Provincia de Santa Fe
-    20.00     Independiente v Newells Old Boys  0-2 (0-1)   @ Estadio Libertadores de América › Avellaneda, Provincia de Buenos Aires
-    21.30     Atletico Tucuman v Gimnasia L.P.  2-0 (2-0)   @ Estadio Monumental Presidente José Fierro › San Miguel de Tucumán, Provincia de Tucumán
-» Round - 25
+    18:45     Rosario Central v Central Cordoba de Santiago  2-0 (1-0)   @ Estadio Gigante de Arroyito › Rosario, Provincia de Santa Fe
+    20:00     Independiente v Newells Old Boys  0-2 (0-1)   @ Estadio Libertadores de América › Avellaneda, Provincia de Buenos Aires
+    21:30     Atletico Tucuman v Gimnasia L.P.  2-0 (2-0)   @ Estadio Monumental Presidente José Fierro › San Miguel de Tucumán, Provincia de Tucumán
+▪ Round - 25
   Fri Jul 14
-    19.00     Godoy Cruz v Defensa Y Justicia  2-2 (0-0)   @ Estadio Malvinas Argentinas › Mendoza, Provincia de Mendoza
+    19:00     Godoy Cruz v Defensa Y Justicia  2-2 (0-0)   @ Estadio Malvinas Argentinas › Mendoza, Provincia de Mendoza
               Sarmiento Junin v Velez Sarsfield  1-1 (0-0)   @ Estadio Eva Perón de Junín › Junín, Provincia de Buenos Aires
-    21.30     Huracan v Talleres Cordoba  0-1 (0-0)   @ Estadio Tomás Adolfo Ducó › Capital Federal, Ciudad de Buenos Aires
+    21:30     Huracan v Talleres Cordoba  0-1 (0-0)   @ Estadio Tomás Adolfo Ducó › Capital Federal, Ciudad de Buenos Aires
   Sat Jul 15
-    14.00     Union Santa Fe v Platense  0-0 (0-0)   @ Estadio 15 de Abril › Ciudad de Santa Fe, Provincia de Santa Fe
-    16.00     Racing Club v Rosario Central  1-1 (1-1)   @ Estadio Presidente Juan Domingo Perón › Avellaneda, Provincia de Buenos Aires
-    19.00     River Plate v Estudiantes L.P.  3-1 (3-0)   @ Estadio Mâs Monumental › Capital Federal, Ciudad de Buenos Aires
+    14:00     Union Santa Fe v Platense  0-0 (0-0)   @ Estadio 15 de Abril › Ciudad de Santa Fe, Provincia de Santa Fe
+    16:00     Racing Club v Rosario Central  1-1 (1-1)   @ Estadio Presidente Juan Domingo Perón › Avellaneda, Provincia de Buenos Aires
+    19:00     River Plate v Estudiantes L.P.  3-1 (3-0)   @ Estadio Mâs Monumental › Capital Federal, Ciudad de Buenos Aires
   Sun Jul 16
-    14.00     Belgrano Cordoba v San Lorenzo  0-1 (0-1)   @ Estadio Julio César Villagra › Ciudad de Córdoba, Provincia de Córdoba
-    16.30     Gimnasia L.P. v Boca Juniors  1-3 (0-1)   @ Estadio Juan Carmelo Zerillo › La Plata, Provincia de Buenos Aires
-    19.00     Lanus v Banfield  2-2 (1-1)   @ Estadio Ciudad de Lanús-Néstor Díaz Pérez › Lanús, Provincia de Buenos Aires
-    21.30     Central Cordoba de Santiago v Independiente  0-1 (0-1)   @ Estadio Alfredo Terrera › Santiago del Estero, Provincia de Santiago del Est
+    14:00     Belgrano Cordoba v San Lorenzo  0-1 (0-1)   @ Estadio Julio César Villagra › Ciudad de Córdoba, Provincia de Córdoba
+    16:30     Gimnasia L.P. v Boca Juniors  1-3 (0-1)   @ Estadio Juan Carmelo Zerillo › La Plata, Provincia de Buenos Aires
+    19:00     Lanus v Banfield  2-2 (1-1)   @ Estadio Ciudad de Lanús-Néstor Díaz Pérez › Lanús, Provincia de Buenos Aires
+    21:30     Central Cordoba de Santiago v Independiente  0-1 (0-1)   @ Estadio Alfredo Terrera › Santiago del Estero, Provincia de Santiago del Est
               Argentinos JRS v Colon Santa Fe  1-0 (0-0)   @ Estadio Diego Armando Maradona › Capital Federal, Ciudad de Buenos Aires
   Mon Jul 17
-    18.00     Arsenal Sarandi v Instituto Cordoba  0-2 (0-0)   @ Estadio Julio Humberto Grondona › Avellaneda, Provincia de Buenos Aires
+    18:00     Arsenal Sarandi v Instituto Cordoba  0-2 (0-0)   @ Estadio Julio Humberto Grondona › Avellaneda, Provincia de Buenos Aires
               Tigre v Barracas Central  0-1 (0-0)   @ Estadio José Dellagiovanna › San Fernando, Provincia de Buenos Aires
-    20.30     Newells Old Boys v Atletico Tucuman  0-0 (0-0)   @ Estadio Marcelo Alberto Bielsa › Rosario, Provincia de Santa Fe
-» Round - 26
+    20:30     Newells Old Boys v Atletico Tucuman  0-0 (0-0)   @ Estadio Marcelo Alberto Bielsa › Rosario, Provincia de Santa Fe
+▪ Round - 26
   Sat Jul 22
-    15.30     San Lorenzo v Argentinos JRS  0-2 (0-1)   @ Estadio Pedro Bidegaín › Capital Federal, Ciudad de Buenos Aires
-    18.00     Estudiantes L.P. v Belgrano Cordoba  4-0 (2-0)   @ Estadio Jorge Luis Hirschi › La Plata, Provincia de Buenos Aires
-    20.30     Platense v Huracan  0-1 (0-0)   @ Estadio Ciudad de Vicente López › Vicente López, Provincia de Buenos Aires
+    15:30     San Lorenzo v Argentinos JRS  0-2 (0-1)   @ Estadio Pedro Bidegaín › Capital Federal, Ciudad de Buenos Aires
+    18:00     Estudiantes L.P. v Belgrano Cordoba  4-0 (2-0)   @ Estadio Jorge Luis Hirschi › La Plata, Provincia de Buenos Aires
+    20:30     Platense v Huracan  0-1 (0-0)   @ Estadio Ciudad de Vicente López › Vicente López, Provincia de Buenos Aires
   Sun Jul 23
-    16.30     Atletico Tucuman v Independiente  1-0 (1-0)   @ Estadio Monumental Presidente José Fierro › San Miguel de Tucumán, Provincia de Tucumán
-    18.45     Defensa Y Justicia v Sarmiento Junin  3-0 (1-0)   @ Estadio Norberto Tito Tomaghello › Florencio Varela, Provincia de Buenos Aires
-    21.00     Rosario Central v River Plate  3-3 (1-0)   @ Estadio Gigante de Arroyito › Rosario, Provincia de Santa Fe
+    16:30     Atletico Tucuman v Independiente  1-0 (1-0)   @ Estadio Monumental Presidente José Fierro › San Miguel de Tucumán, Provincia de Tucumán
+    18:45     Defensa Y Justicia v Sarmiento Junin  3-0 (1-0)   @ Estadio Norberto Tito Tomaghello › Florencio Varela, Provincia de Buenos Aires
+    21:00     Rosario Central v River Plate  3-3 (1-0)   @ Estadio Gigante de Arroyito › Rosario, Provincia de Santa Fe
   Mon Jul 24
-    16.30     Talleres Cordoba v Gimnasia L.P.  2-2 (2-1)   @ Estadio Mario Alberto Kempes › Ciudad de Córdoba, Provincia de Córdoba
+    16:30     Talleres Cordoba v Gimnasia L.P.  2-2 (2-1)   @ Estadio Mario Alberto Kempes › Ciudad de Córdoba, Provincia de Córdoba
               Velez Sarsfield v Union Santa Fe  0-0 (0-0)   @ Estadio José Amalfitani › Capital Federal, Ciudad de Buenos Aires
-    18.30     Banfield v Godoy Cruz  2-0 (1-0)   @ Estadio Florencio Solá › Lomas de Zamora, Provincia de Buenos Aires
-    19.30     Racing Club v Central Cordoba de Santiago  3-1 (2-0)   @ Estadio Presidente Juan Domingo Perón › Avellaneda, Provincia de Buenos Aires
-    20.45     Boca Juniors v Newells Old Boys  2-1 (1-0)   @ Estadio Alberto José Armando › Ciudad de Buenos Aires
+    18:30     Banfield v Godoy Cruz  2-0 (1-0)   @ Estadio Florencio Solá › Lomas de Zamora, Provincia de Buenos Aires
+    19:30     Racing Club v Central Cordoba de Santiago  3-1 (2-0)   @ Estadio Presidente Juan Domingo Perón › Avellaneda, Provincia de Buenos Aires
+    20:45     Boca Juniors v Newells Old Boys  2-1 (1-0)   @ Estadio Alberto José Armando › Ciudad de Buenos Aires
   Tue Jul 25
-    15.30     Barracas Central v Arsenal Sarandi  0-0 (0-0)   @ Estadio Claudio Fabián Tapia › Capital Federal, Ciudad de Buenos Aires
-    18.00     Colon Santa Fe v Tigre  1-3 (0-1)   @ Estadio Brigadier General Estanislao López › Ciudad de Santa Fe, Provincia de Santa Fe
-    20.30     Instituto Cordoba v Lanus  2-1 (1-1)   @ Estadio Juan Domingo Perón › Ciudad de Córdoba, Provincia de Córdoba
-» Round - 27
+    15:30     Barracas Central v Arsenal Sarandi  0-0 (0-0)   @ Estadio Claudio Fabián Tapia › Capital Federal, Ciudad de Buenos Aires
+    18:00     Colon Santa Fe v Tigre  1-3 (0-1)   @ Estadio Brigadier General Estanislao López › Ciudad de Santa Fe, Provincia de Santa Fe
+    20:30     Instituto Cordoba v Lanus  2-1 (1-1)   @ Estadio Juan Domingo Perón › Ciudad de Córdoba, Provincia de Córdoba
+▪ Round - 27
   Fri Jul 28
-    16.30     Argentinos JRS v Estudiantes L.P.  2-3 (0-1)   @ Estadio Diego Armando Maradona › Capital Federal, Ciudad de Buenos Aires
+    16:30     Argentinos JRS v Estudiantes L.P.  2-3 (0-1)   @ Estadio Diego Armando Maradona › Capital Federal, Ciudad de Buenos Aires
               Union Santa Fe v Defensa Y Justicia  2-0 (0-0)   @ Estadio 15 de Abril › Ciudad de Santa Fe, Provincia de Santa Fe
-    19.00     Belgrano Cordoba v Rosario Central  0-0 (0-0)   @ Estadio Julio César Villagra › Ciudad de Córdoba, Provincia de Córdoba
+    19:00     Belgrano Cordoba v Rosario Central  0-0 (0-0)   @ Estadio Julio César Villagra › Ciudad de Córdoba, Provincia de Córdoba
               Newells Old Boys v Talleres Cordoba  1-1 (1-1)   @ Estadio Marcelo Alberto Bielsa › Rosario, Provincia de Santa Fe
-    21.30     River Plate v Racing Club  2-1 (1-0)   @ Estadio Mâs Monumental › Capital Federal, Ciudad de Buenos Aires
+    21:30     River Plate v Racing Club  2-1 (1-0)   @ Estadio Mâs Monumental › Capital Federal, Ciudad de Buenos Aires
   Sat Jul 29
-    14.30     Central Cordoba de Santiago v Atletico Tucuman  0-2 (0-0)   @ Estadio Alfredo Terrera › Santiago del Estero, Provincia de Santiago del Est
-    15.00     Sarmiento Junin v Banfield  0-0 (0-0)   @ Estadio Eva Perón de Junín › Junín, Provincia de Buenos Aires
-    17.00     Independiente v Boca Juniors  0-2 (0-0)   @ Estadio Libertadores de América › Avellaneda, Provincia de Buenos Aires
-    20.00     Tigre v San Lorenzo  2-0 (1-0)   @ Estadio José Dellagiovanna › San Fernando, Provincia de Buenos Aires
+    14:30     Central Cordoba de Santiago v Atletico Tucuman  0-2 (0-0)   @ Estadio Alfredo Terrera › Santiago del Estero, Provincia de Santiago del Est
+    15:00     Sarmiento Junin v Banfield  0-0 (0-0)   @ Estadio Eva Perón de Junín › Junín, Provincia de Buenos Aires
+    17:00     Independiente v Boca Juniors  0-2 (0-0)   @ Estadio Libertadores de América › Avellaneda, Provincia de Buenos Aires
+    20:00     Tigre v San Lorenzo  2-0 (1-0)   @ Estadio José Dellagiovanna › San Fernando, Provincia de Buenos Aires
   Sun Jul 30
-    15.00     Lanus v Barracas Central  2-0 (1-0)   @ Estadio Ciudad de Lanús-Néstor Díaz Pérez › Lanús, Provincia de Buenos Aires
+    15:00     Lanus v Barracas Central  2-0 (1-0)   @ Estadio Ciudad de Lanús-Néstor Díaz Pérez › Lanús, Provincia de Buenos Aires
               Arsenal Sarandi v Colon Santa Fe  2-0 (1-0)   @ Estadio Julio Humberto Grondona › Avellaneda, Provincia de Buenos Aires
-    17.30     Huracan v Velez Sarsfield  1-0 (1-0)   @ Estadio Tomás Adolfo Ducó › Capital Federal, Ciudad de Buenos Aires
+    17:30     Huracan v Velez Sarsfield  1-0 (1-0)   @ Estadio Tomás Adolfo Ducó › Capital Federal, Ciudad de Buenos Aires
               Gimnasia L.P. v Platense  1-1 (1-0)   @ Estadio Juan Carmelo Zerillo › La Plata, Provincia de Buenos Aires
-    20.00     Godoy Cruz v Instituto Cordoba  4-2 (3-1)   @ Estadio Malvinas Argentinas › Mendoza, Provincia de Mendoza
+    20:00     Godoy Cruz v Instituto Cordoba  4-2 (3-1)   @ Estadio Malvinas Argentinas › Mendoza, Provincia de Mendoza

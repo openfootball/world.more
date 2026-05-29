@@ -1,95 +1,95 @@
 = Austria | Cup 2022/23
 
-  # Date       Fri Jul/15 2022 - Sun Apr/30 2023 (289d)
+  # Date       Fri Jul 15 2022 - Sun Apr 30 2023 (289d)
   # Teams      63
   # Matches    63
 
   # Note - All times in Europe/Vienna
 
-» 1st Round
+▪ 1st Round
   Fri Jul 15 2022
-    16.30     Fügen v Red Bull Salzburg  0-3 (0-1)   @ Parkstadion Zell am Ziller › Zell am Ziller
+    16:30     Fügen v Red Bull Salzburg  0-3 (0-1)   @ Parkstadion Zell am Ziller › Zell am Ziller
   Fri Jul 15
-    17.30     Fach-Donaufeld v SKU Amstetten  0-4 (0-1)   @ Sportplatz Donaufeld › Wien
-    18.00     Admira Dornbirn v SAK Klagenfurt  1-8 (1-4)   @ Sportplatz Admira Dornbirn › Dornbirn
-    18.30     Treibach v Rapid Vienna  0-1 (0-0)   @ Turnerwald-Stadion › Althofen
-    19.00     Draßburg v SV Horn  0-3 (0-2)   @ Sportplatz Draßburg › Draßburg
+    17:30     Fach-Donaufeld v SKU Amstetten  0-4 (0-1)   @ Sportplatz Donaufeld › Wien
+    18:00     Admira Dornbirn v SAK Klagenfurt  1-8 (1-4)   @ Sportplatz Admira Dornbirn › Dornbirn
+    18:30     Treibach v Rapid Vienna  0-1 (0-0)   @ Turnerwald-Stadion › Althofen
+    19:00     Draßburg v SV Horn  0-3 (0-2)   @ Sportplatz Draßburg › Draßburg
               Neusiedl v WSG Wattens  1-3 aet (1-1, 0-0)   @ Sportzentrum Neusiedl › Neusiedl am See
               Union Vöcklamarkt v Dornbirn  0-5 (0-2)   @ Sportzentrum Union Volksbank Vöcklamarkt › Vöcklamarkt
               Deutschlandsberger SC v Scheiblingkirchen  2-0 (1-0)   @ Koralmstadion › Deutschlandsberg
               Leoben v TSV Hartberg  1-2 (1-2)   @ Stadion Donawitz › Leoben
               SAK Klagenfurt v Wiener SC  0-3 (0-1)   @ Sportplatz Welzenegg › Klagenfurt am Wörthersee
-    19.30     Parndorf v SV Lafnitz  2-3 (1-0)   @ Heidebodenstadion › Parndorf
+    19:30     Parndorf v SV Lafnitz  2-3 (1-0)   @ Heidebodenstadion › Parndorf
               Gurten v St. Martin i.M.  3-2 (1-1)   @ Park21-Arena Gurten › Gurten
   Sat Jul 16
-    10.30     Röthis v Sturm Graz  0-6 (0-4)   @ Sportplatz an der Ratz › Röthis
-    17.00     Stadlau v Ried  0-4 (0-3)   @ OMV-Sportanlage Stadlau › Wien
+    10:30     Röthis v Sturm Graz  0-6 (0-4)   @ Sportplatz an der Ratz › Röthis
+    17:00     Stadlau v Ried  0-4 (0-3)   @ OMV-Sportanlage Stadlau › Wien
               Mannsdorf-Großenzersdorf v Austria Lustenau  2-3 (1-0)   @ Aulandstadion › Mannsdorf
-    17.15     Wels v Austria Vienna  0-7 (0-3)   @ HUBER Arena › Wels
-    17.30     Schwarz-Weiß Bregenz v Seekirchen  3-0 (2-0)   @ ImmoAgentur Stadion Bregenz › Bregenz
+    17:15     Wels v Austria Vienna  0-7 (0-3)   @ HUBER Arena › Wels
+    17:30     Schwarz-Weiß Bregenz v Seekirchen  3-0 (2-0)   @ ImmoAgentur Stadion Bregenz › Bregenz
               Frauental v Allerheiligen  0-5 (0-3)   @ Sportplatz SV Frauental › Frauental
               Köttmannsdorf v Grazer AK  1-3 (1-1)   @ Sportplatz ASKÖ Köttmannsdorf › Köttmannsdorf
-    18.00     Stripfing v Traiskirchen  0-1 (0-0)   @ Sportplatz Stripfing SV › Stripfing
+    18:00     Stripfing v Traiskirchen  0-1 (0-0)   @ Sportplatz Stripfing SV › Stripfing
               TWL Elektra v SCR Altach  1-3 (1-2)   @ Sportplatz Rax › Wien
               Schwaz v Lask Linz  1-9 (1-3)   @ Silberstadt Arena Schwaz › Schwaz
-    18.30     Leobendorf v SKN ST. Polten  1-2 (0-0)   @ Sportplatz Leobendorf › Leobendorf
-    19.00     Hohenems v FC BW Linz  1-10 (0-4)   @ Herrenriedstadion › Hohenems
-    19.30     Siegendorf v First Vienna  2-2 aet (1-1, 0-1)   @ Sportplatz Siegendorf › Siegendorf
+    18:30     Leobendorf v SKN ST. Polten  1-2 (0-0)   @ Sportplatz Leobendorf › Leobendorf
+    19:00     Hohenems v FC BW Linz  1-10 (0-4)   @ Herrenriedstadion › Hohenems
+    19:30     Siegendorf v First Vienna  2-2 aet (1-1, 0-1)   @ Sportplatz Siegendorf › Siegendorf
   Sun Jul 17
-    16.00     Purgstall v Admira Wacker  2-4 (0-2)   @ Fliederstadion › Purgstall an der Erlauf
-    17.00     Imst v TSV St. Johann  2-0 (1-0)   @ Velly Arena Imst › Imst
+    16:00     Purgstall v Admira Wacker  2-4 (0-2)   @ Fliederstadion › Purgstall an der Erlauf
+    17:00     Imst v TSV St. Johann  2-0 (1-0)   @ Velly Arena Imst › Imst
               Kuchl v Wolfsberger AC  1-4 (1-2)   @ Sportplatz Kuchl › Kuchl
               Telfs v Austria Salzburg  2-4 (0-0)   @ Sportplatz Telfs Emat › Telfs
-    18.00     Hertha v SK Vorwarts Steyr  1-0 (1-0)   @ Mauth Stadion › Wels
+    18:00     Hertha v SK Vorwarts Steyr  1-0 (1-0)   @ Mauth Stadion › Wels
   Tue Jul 19
-    18.30     Bad Gleichenberg v Floridsdorfer AC  0-2 (0-1)   @ Bad Gleichenberg Arena › Bad Gleichenberg
-    19.30     Dellach im Gailtal v SV Kapfenberg  1-2 (0-0)   @ Sportplatz SV Dellach/Gail › Dellach/Gail
-» 2nd Round
+    18:30     Bad Gleichenberg v Floridsdorfer AC  0-2 (0-1)   @ Bad Gleichenberg Arena › Bad Gleichenberg
+    19:30     Dellach im Gailtal v SV Kapfenberg  1-2 (0-0)   @ Sportplatz SV Dellach/Gail › Dellach/Gail
+▪ 2nd Round
   Tue Aug 30
-    18.00     Admira Wacker v SCR Altach  3-0 (3-0)   @ motion_invest Arena › Maria Enzersdorf
-    18.30     SV Kapfenberg v Floridsdorfer AC  1-2 aet (1-1, 1-0)   @ Franz-Fekete-Stadion › Kapfenberg
-    19.00     Wiener SC v Austria Lustenau  2-0 (2-0)   @ Sportclub-Platz › Wien
+    18:00     Admira Wacker v SCR Altach  3-0 (3-0)   @ motion_invest Arena › Maria Enzersdorf
+    18:30     SV Kapfenberg v Floridsdorfer AC  1-2 aet (1-1, 1-0)   @ Franz-Fekete-Stadion › Kapfenberg
+    19:00     Wiener SC v Austria Lustenau  2-0 (2-0)   @ Sportclub-Platz › Wien
               SV Lafnitz v Grazer AK  1-2 (0-0)   @ Sportplatz Lafnitz › Lafnitz
-    19.30     SV Horn v SKN ST. Polten  3-1 (2-0)   @ Sparkasse Horn Arena › Horn
-    20.30     Gurten v Red Bull Salzburg  0-3 (0-1)   @ josko ARENA › Ried Im Innkreis
+    19:30     SV Horn v SKN ST. Polten  3-1 (2-0)   @ Sparkasse Horn Arena › Horn
+    20:30     Gurten v Red Bull Salzburg  0-3 (0-1)   @ josko ARENA › Ried Im Innkreis
   Wed Aug 31
-    18.00     Sturm Graz v Austria Salzburg  3-1 (2-0)   @ Merkur Arena › Graz
+    18:00     Sturm Graz v Austria Salzburg  3-1 (2-0)   @ Merkur Arena › Graz
               Imst v Lask Linz  1-4 aet (1-1, 0-0)   @ Velly Arena Imst › Imst
-    18.30     Deutschlandsberger SC v Wolfsberger AC  1-5 (0-2)   @ Koralmstadion › Deutschlandsberg
-    19.00     Dornbirn v TSV Hartberg  3-2 (2-1)   @ Stadion Birkenwiese › Dornbirn
+    18:30     Deutschlandsberger SC v Wolfsberger AC  1-5 (0-2)   @ Koralmstadion › Deutschlandsberg
+    19:00     Dornbirn v TSV Hartberg  3-2 (2-1)   @ Stadion Birkenwiese › Dornbirn
               Traiskirchen v WSG Wattens  0-5 (0-3)   @ Sport- und Freizeitzentrum Traiskirchen › Traiskirchen
               Schwarz-Weiß Bregenz v SAK Klagenfurt  0-5 (0-3)   @ ImmoAgentur Stadion Bregenz › Bregenz
               SKU Amstetten v FC BW Linz  0-3 (0-2)   @ Ertl Glas-Stadion › Amstetten
-    19.30     Hertha v Ried  2-4 (2-1)   @ Mauth Stadion › Wels
-    20.30     Siegendorf v Austria Vienna  0-5 (0-4)   @ Naturarena Hohe Warte › Wien
+    19:30     Hertha v Ried  2-4 (2-1)   @ Mauth Stadion › Wels
+    20:30     Siegendorf v Austria Vienna  0-5 (0-4)   @ Naturarena Hohe Warte › Wien
   Thu Sep 1
-    17.30     Allerheiligen v Rapid Vienna  0-2 (0-0)   @ Sportanlage Allerheiligen › Allerheiligen bei Wildon
-» Round of 16
+    17:30     Allerheiligen v Rapid Vienna  0-2 (0-0)   @ Sportanlage Allerheiligen › Allerheiligen bei Wildon
+▪ Round of 16
   Tue Oct 18
-    18.00     WSG Wattens v Rapid Vienna  1-4 (1-1)   @ Gernot Langes Stadion › Wattens
-    19.00     Dornbirn v SAK Klagenfurt  1-2 (1-1)   @ Stadion Birkenwiese › Dornbirn
-    19.30     SV Horn v Ried  2-3 (2-0)   @ Sparkasse Horn Arena › Horn
-    20.15     Floridsdorfer AC v Lask Linz  1-2 (1-1)   @ Job Consulting Arena › Wien
+    18:00     WSG Wattens v Rapid Vienna  1-4 (1-1)   @ Gernot Langes Stadion › Wattens
+    19:00     Dornbirn v SAK Klagenfurt  1-2 (1-1)   @ Stadion Birkenwiese › Dornbirn
+    19:30     SV Horn v Ried  2-3 (2-0)   @ Sparkasse Horn Arena › Horn
+    20:15     Floridsdorfer AC v Lask Linz  1-2 (1-1)   @ Job Consulting Arena › Wien
   Wed Oct 19
-    18.00     Grazer AK v Sturm Graz  0-1 (0-0)   @ Merkur Arena › Graz
+    18:00     Grazer AK v Sturm Graz  0-1 (0-0)   @ Merkur Arena › Graz
               FC BW Linz v Wolfsberger AC  1-3 (0-1)   @ Hofmann-Personal Stadion › Linz
-    20.30     Admira Wacker v Red Bull Salzburg  1-6 (0-4)   @ motion_invest Arena › Maria Enzersdorf
+    20:30     Admira Wacker v Red Bull Salzburg  1-6 (0-4)   @ motion_invest Arena › Maria Enzersdorf
   Thu Oct 20
-    20.30     Wiener SC v Austria Vienna  3-1 (1-1)   @ Sportclub-Platz › Wien
-» Quarter-finals
+    20:30     Wiener SC v Austria Vienna  3-1 (1-1)   @ Sportclub-Platz › Wien
+▪ Quarter-finals
   Fri Feb 3 2023
-    18.00     Wolfsberger AC v Rapid Vienna  1-3 aet (1-1, 0-0)   @ Lavanttal Arena › Wolfsberg
+    18:00     Wolfsberger AC v Rapid Vienna  1-3 aet (1-1, 0-0)   @ Lavanttal Arena › Wolfsberg
   Fri Feb 3
-    20.45     Red Bull Salzburg v Sturm Graz  4-5 pen (1-1, 1-1, 0-1)   @ Red Bull Arena › Wals-Siezenheim
+    20:45     Red Bull Salzburg v Sturm Graz  4-5 pen (1-1, 1-1, 0-1)   @ Red Bull Arena › Wals-Siezenheim
   Sat Feb 4
-    18.00     Wiener SC v Ried  0-2 (0-0)   @ Sportclub-Platz › Wien
+    18:00     Wiener SC v Ried  0-2 (0-0)   @ Sportclub-Platz › Wien
   Sun Feb 5
-    18.00     Lask Linz v SAK Klagenfurt  1-0 (0-0)   @ Raiffeisen Arena › Pasching
-» Semi-finals
+    18:00     Lask Linz v SAK Klagenfurt  1-0 (0-0)   @ Raiffeisen Arena › Pasching
+▪ Semi-finals
   Wed Apr 5
-    20.30     Rapid Vienna v Ried  2-1 (1-0)   @ Allianz Stadion › Wien
+    20:30     Rapid Vienna v Ried  2-1 (1-0)   @ Allianz Stadion › Wien
   Thu Apr 6
-    20.30     Sturm Graz v Lask Linz  1-0 (0-0)   @ Merkur Arena › Graz
-» Final
+    20:30     Sturm Graz v Lask Linz  1-0 (0-0)   @ Merkur Arena › Graz
+▪ Final
   Sun Apr 30
-    20.30     Rapid Vienna v Sturm Graz  0-2 (0-0)   @ 28 Black Arena › Klagenfurt am Wörthersee
+    20:30     Rapid Vienna v Sturm Graz  0-2 (0-0)   @ 28 Black Arena › Klagenfurt am Wörthersee

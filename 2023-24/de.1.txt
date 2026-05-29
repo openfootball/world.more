@@ -1,444 +1,444 @@
 = Germany | Bundesliga 2023/24
 
-  # Date       Fri Aug/18 2023 - Mon May/27 2024 (283d)
+  # Date       Fri Aug 18 2023 - Mon May 27 2024 (283d)
   # Teams      19
   # Matches    308
 
   # Note - All times in Europe/Berlin
 
-» Regular Season - 1
+▪ Regular Season - 1
   Fri Aug 18 2023
-    20.30     Werder Bremen v Bayern Munich  0-4 (0-1)   @ wohninvest WESERSTADION › Bremen
+    20:30     Werder Bremen v Bayern Munich  0-4 (0-1)   @ wohninvest WESERSTADION › Bremen
   Sat Aug 19
-    15.30     VfL Wolfsburg v FC Heidenheim  2-0 (2-0)   @ Volkswagen Arena › Wolfsburg
+    15:30     VfL Wolfsburg v FC Heidenheim  2-0 (2-0)   @ Volkswagen Arena › Wolfsburg
               1899 Hoffenheim v SC Freiburg  1-2 (0-2)   @ PreZero Arena › Sinsheim
               Bayer Leverkusen v RB Leipzig  3-2 (2-1)   @ BayArena › Leverkusen
               FC Augsburg v Borussia Monchengladbach  4-4 (3-3)   @ WWK Arena › Augsburg
               VfB Stuttgart v Vfl Bochum  5-0 (2-0)   @ Stuttgart Arena › Stuttgart
-    18.30     Borussia Dortmund v 1.FC Köln  1-0 (0-0)   @ BVB Stadion Dortmund › Dortmund
+    18:30     Borussia Dortmund v 1.FC Köln  1-0 (0-0)   @ BVB Stadion Dortmund › Dortmund
   Sun Aug 20
-    15.30     Union Berlin v FSV Mainz 05  4-1 (2-0)   @ Stadion An der Alten Försterei › Berlin
-    17.30     Eintracht Frankfurt v SV Darmstadt 98  1-0 (1-0)   @ Frankfurt Arena › Frankfurt am Main
-» Regular Season - 2
+    15:30     Union Berlin v FSV Mainz 05  4-1 (2-0)   @ Stadion An der Alten Försterei › Berlin
+    17:30     Eintracht Frankfurt v SV Darmstadt 98  1-0 (1-0)   @ Frankfurt Arena › Frankfurt am Main
+▪ Regular Season - 2
   Fri Aug 25
-    20.30     RB Leipzig v VfB Stuttgart  5-1 (0-1)   @ Leipzig Stadium › Leipzig
+    20:30     RB Leipzig v VfB Stuttgart  5-1 (0-1)   @ Leipzig Stadium › Leipzig
   Sat Aug 26
-    15.30     Vfl Bochum v Borussia Dortmund  1-1 (1-0)   @ Vonovia Ruhrstadion › Bochum
+    15:30     Vfl Bochum v Borussia Dortmund  1-1 (1-0)   @ Vonovia Ruhrstadion › Bochum
               FC Heidenheim v 1899 Hoffenheim  2-3 (1-0)   @ Voith-Arena › Heidenheim an der Brenz
               SV Darmstadt 98 v Union Berlin  1-4 (1-3)   @ Merck-Stadion am Böllenfalltor › Darmstadt
               1.FC Köln v VfL Wolfsburg  1-2 (0-0)   @ Cologne Stadium › Köln
               SC Freiburg v Werder Bremen  1-0 (0-0)   @ Europa-Park Stadion › Freiburg im Breisgau
-    18.30     Borussia Monchengladbach v Bayer Leverkusen  0-3 (0-2)   @ BORUSSIA-PARK › Mönchengladbach
+    18:30     Borussia Monchengladbach v Bayer Leverkusen  0-3 (0-2)   @ BORUSSIA-PARK › Mönchengladbach
   Sun Aug 27
-    15.30     FSV Mainz 05 v Eintracht Frankfurt  1-1 (1-0)   @ MEWA ARENA › Mainz
-    17.30     Bayern Munich v FC Augsburg  3-1 (2-0)   @ Fußball Arena München › München
-» Regular Season - 3
+    15:30     FSV Mainz 05 v Eintracht Frankfurt  1-1 (1-0)   @ MEWA ARENA › Mainz
+    17:30     Bayern Munich v FC Augsburg  3-1 (2-0)   @ Fußball Arena München › München
+▪ Regular Season - 3
   Fri Sep 1
-    20.30     Borussia Dortmund v FC Heidenheim  2-2 (2-0)   @ BVB Stadion Dortmund › Dortmund
+    20:30     Borussia Dortmund v FC Heidenheim  2-2 (2-0)   @ BVB Stadion Dortmund › Dortmund
   Sat Sep 2
-    15.30     1899 Hoffenheim v VfL Wolfsburg  3-1 (1-1)   @ PreZero Arena › Sinsheim
+    15:30     1899 Hoffenheim v VfL Wolfsburg  3-1 (1-1)   @ PreZero Arena › Sinsheim
               Bayer Leverkusen v SV Darmstadt 98  5-1 (1-1)   @ BayArena › Leverkusen
               FC Augsburg v Vfl Bochum  2-2 (1-1)   @ WWK Arena › Augsburg
               VfB Stuttgart v SC Freiburg  5-0 (3-0)   @ Stuttgart Arena › Stuttgart
               Werder Bremen v FSV Mainz 05  4-0 (1-0)   @ wohninvest WESERSTADION › Bremen
-    18.30     Borussia Monchengladbach v Bayern Munich  1-2 (1-0)   @ BORUSSIA-PARK › Mönchengladbach
+    18:30     Borussia Monchengladbach v Bayern Munich  1-2 (1-0)   @ BORUSSIA-PARK › Mönchengladbach
   Sun Sep 3
-    15.30     Eintracht Frankfurt v 1.FC Köln  1-1 (0-1)   @ Frankfurt Arena › Frankfurt am Main
-    17.30     Union Berlin v RB Leipzig  0-3 (0-0)   @ Stadion An der Alten Försterei › Berlin
-» Regular Season - 4
+    15:30     Eintracht Frankfurt v 1.FC Köln  1-1 (0-1)   @ Frankfurt Arena › Frankfurt am Main
+    17:30     Union Berlin v RB Leipzig  0-3 (0-0)   @ Stadion An der Alten Försterei › Berlin
+▪ Regular Season - 4
   Fri Sep 15
-    20.30     Bayern Munich v Bayer Leverkusen  2-2 (1-1)   @ Fußball Arena München › München
+    20:30     Bayern Munich v Bayer Leverkusen  2-2 (1-1)   @ Fußball Arena München › München
   Sat Sep 16
-    15.30     VfL Wolfsburg v Union Berlin  2-1 (2-1)   @ Volkswagen Arena › Wolfsburg
+    15:30     VfL Wolfsburg v Union Berlin  2-1 (2-1)   @ Volkswagen Arena › Wolfsburg
               FSV Mainz 05 v VfB Stuttgart  1-3 (0-0)   @ MEWA ARENA › Mainz
               RB Leipzig v FC Augsburg  3-0 (3-0)   @ Leipzig Stadium › Leipzig
               1.FC Köln v 1899 Hoffenheim  1-3 (0-2)   @ Cologne Stadium › Köln
               SC Freiburg v Borussia Dortmund  2-4 (2-1)   @ Europa-Park Stadion › Freiburg im Breisgau
-    18.30     Vfl Bochum v Eintracht Frankfurt  1-1 (0-0)   @ Vonovia Ruhrstadion › Bochum
+    18:30     Vfl Bochum v Eintracht Frankfurt  1-1 (0-0)   @ Vonovia Ruhrstadion › Bochum
   Sun Sep 17
-    15.30     FC Heidenheim v Werder Bremen  4-2 (2-0)   @ Voith-Arena › Heidenheim an der Brenz
-    17.30     SV Darmstadt 98 v Borussia Monchengladbach  3-3 (3-0)   @ Merck-Stadion am Böllenfalltor › Darmstadt
-» Regular Season - 5
+    15:30     FC Heidenheim v Werder Bremen  4-2 (2-0)   @ Voith-Arena › Heidenheim an der Brenz
+    17:30     SV Darmstadt 98 v Borussia Monchengladbach  3-3 (3-0)   @ Merck-Stadion am Böllenfalltor › Darmstadt
+▪ Regular Season - 5
   Fri Sep 22
-    20.30     VfB Stuttgart v SV Darmstadt 98  3-1 (2-1)   @ Stuttgart Arena › Stuttgart
+    20:30     VfB Stuttgart v SV Darmstadt 98  3-1 (2-1)   @ Stuttgart Arena › Stuttgart
   Sat Sep 23
-    15.30     Bayern Munich v Vfl Bochum  7-0 (4-0)   @ Fußball Arena München › München
+    15:30     Bayern Munich v Vfl Bochum  7-0 (4-0)   @ Fußball Arena München › München
               Borussia Monchengladbach v RB Leipzig  0-1 (0-0)   @ BORUSSIA-PARK › Mönchengladbach
               Borussia Dortmund v VfL Wolfsburg  1-0 (0-0)   @ BVB Stadion Dortmund › Dortmund
               FC Augsburg v FSV Mainz 05  2-1 (2-1)   @ WWK Arena › Augsburg
               Union Berlin v 1899 Hoffenheim  0-2 (0-2)   @ Stadion An der Alten Försterei › Berlin
-    18.30     Werder Bremen v 1.FC Köln  2-1 (1-1)   @ wohninvest WESERSTADION › Bremen
+    18:30     Werder Bremen v 1.FC Köln  2-1 (1-1)   @ wohninvest WESERSTADION › Bremen
   Sun Sep 24
-    15.30     Bayer Leverkusen v FC Heidenheim  4-1 (1-0)   @ BayArena › Leverkusen
-    17.30     Eintracht Frankfurt v SC Freiburg  0-0 (0-0)   @ Frankfurt Arena › Frankfurt am Main
-» Regular Season - 6
+    15:30     Bayer Leverkusen v FC Heidenheim  4-1 (1-0)   @ BayArena › Leverkusen
+    17:30     Eintracht Frankfurt v SC Freiburg  0-0 (0-0)   @ Frankfurt Arena › Frankfurt am Main
+▪ Regular Season - 6
   Fri Sep 29
-    20.30     1899 Hoffenheim v Borussia Dortmund  1-3 (1-2)   @ PreZero Arena › Sinsheim
+    20:30     1899 Hoffenheim v Borussia Dortmund  1-3 (1-2)   @ PreZero Arena › Sinsheim
   Sat Sep 30
-    15.30     VfL Wolfsburg v Eintracht Frankfurt  2-0 (1-0)   @ Volkswagen Arena › Wolfsburg
+    15:30     VfL Wolfsburg v Eintracht Frankfurt  2-0 (1-0)   @ Volkswagen Arena › Wolfsburg
               FSV Mainz 05 v Bayer Leverkusen  0-3 (0-1)   @ MEWA ARENA › Mainz
               Vfl Bochum v Borussia Monchengladbach  1-3 (0-3)   @ Vonovia Ruhrstadion › Bochum
               FC Heidenheim v Union Berlin  1-0 (0-0)   @ Voith-Arena › Heidenheim an der Brenz
               1.FC Köln v VfB Stuttgart  0-2 (0-0)   @ Cologne Stadium › Köln
-    18.30     RB Leipzig v Bayern Munich  2-2 (2-0)   @ Leipzig Stadium › Leipzig
+    18:30     RB Leipzig v Bayern Munich  2-2 (2-0)   @ Leipzig Stadium › Leipzig
   Sun Oct 1
-    15.30     SV Darmstadt 98 v Werder Bremen  4-2 (2-0)   @ Merck-Stadion am Böllenfalltor › Darmstadt
-    17.30     SC Freiburg v FC Augsburg  2-0 (1-0)   @ Europa-Park Stadion › Freiburg im Breisgau
-» Regular Season - 7
+    15:30     SV Darmstadt 98 v Werder Bremen  4-2 (2-0)   @ Merck-Stadion am Böllenfalltor › Darmstadt
+    17:30     SC Freiburg v FC Augsburg  2-0 (1-0)   @ Europa-Park Stadion › Freiburg im Breisgau
+▪ Regular Season - 7
   Fri Oct 6
-    20.30     Borussia Monchengladbach v FSV Mainz 05  2-2 (1-1)   @ BORUSSIA-PARK › Mönchengladbach
+    20:30     Borussia Monchengladbach v FSV Mainz 05  2-2 (1-1)   @ BORUSSIA-PARK › Mönchengladbach
   Sat Oct 7
-    15.30     Borussia Dortmund v Union Berlin  4-2 (1-2)   @ BVB Stadion Dortmund › Dortmund
+    15:30     Borussia Dortmund v Union Berlin  4-2 (1-2)   @ BVB Stadion Dortmund › Dortmund
               FC Augsburg v SV Darmstadt 98  1-2 (0-0)   @ WWK Arena › Augsburg
               VfB Stuttgart v VfL Wolfsburg  3-1 (0-1)   @ Stuttgart Arena › Stuttgart
               RB Leipzig v Vfl Bochum  0-0 (0-0)   @ Leipzig Stadium › Leipzig
-    18.30     Werder Bremen v 1899 Hoffenheim  2-3 (1-2)   @ wohninvest WESERSTADION › Bremen
+    18:30     Werder Bremen v 1899 Hoffenheim  2-3 (1-2)   @ wohninvest WESERSTADION › Bremen
   Sun Oct 8
-    15.30     Bayer Leverkusen v 1.FC Köln  3-0 (2-0)   @ BayArena › Leverkusen
-    17.30     Bayern Munich v SC Freiburg  3-0 (2-0)   @ Fußball Arena München › München
-    19.30     Eintracht Frankfurt v FC Heidenheim  2-0 (1-0)   @ Frankfurt Arena › Frankfurt am Main
-» Regular Season - 8
+    15:30     Bayer Leverkusen v 1.FC Köln  3-0 (2-0)   @ BayArena › Leverkusen
+    17:30     Bayern Munich v SC Freiburg  3-0 (2-0)   @ Fußball Arena München › München
+    19:30     Eintracht Frankfurt v FC Heidenheim  2-0 (1-0)   @ Frankfurt Arena › Frankfurt am Main
+▪ Regular Season - 8
   Fri Oct 20
-    20.30     Borussia Dortmund v Werder Bremen  1-0 (0-0)   @ BVB Stadion Dortmund › Dortmund
+    20:30     Borussia Dortmund v Werder Bremen  1-0 (0-0)   @ BVB Stadion Dortmund › Dortmund
   Sat Oct 21
-    15.30     SC Freiburg v Vfl Bochum  2-1 (2-1)   @ Europa-Park Stadion › Freiburg im Breisgau
+    15:30     SC Freiburg v Vfl Bochum  2-1 (2-1)   @ Europa-Park Stadion › Freiburg im Breisgau
               VfL Wolfsburg v Bayer Leverkusen  1-2 (1-1)   @ Volkswagen Arena › Wolfsburg
               1899 Hoffenheim v Eintracht Frankfurt  1-3 (1-3)   @ PreZero Arena › Sinsheim
               SV Darmstadt 98 v RB Leipzig  1-3 (1-2)   @ Merck-Stadion am Böllenfalltor › Darmstadt
               Union Berlin v VfB Stuttgart  0-3 (0-1)   @ Stadion An der Alten Försterei › Berlin
-    18.30     FSV Mainz 05 v Bayern Munich  1-3 (1-2)   @ MEWA ARENA › Mainz
+    18:30     FSV Mainz 05 v Bayern Munich  1-3 (1-2)   @ MEWA ARENA › Mainz
   Sun Oct 22
-    15.30     1.FC Köln v Borussia Monchengladbach  3-1 (1-0)   @ Cologne Stadium › Köln
-    17.30     FC Heidenheim v FC Augsburg  2-5 (2-3)   @ Voith-Arena › Heidenheim an der Brenz
-» Regular Season - 9
+    15:30     1.FC Köln v Borussia Monchengladbach  3-1 (1-0)   @ Cologne Stadium › Köln
+    17:30     FC Heidenheim v FC Augsburg  2-5 (2-3)   @ Voith-Arena › Heidenheim an der Brenz
+▪ Regular Season - 9
   Fri Oct 27
-    20.30     Vfl Bochum v FSV Mainz 05  2-2 (1-0)   @ Vonovia Ruhrstadion › Bochum
+    20:30     Vfl Bochum v FSV Mainz 05  2-2 (1-0)   @ Vonovia Ruhrstadion › Bochum
   Sat Oct 28
-    15.30     Bayern Munich v SV Darmstadt 98  8-0 (0-0)   @ Fußball Arena München › München
+    15:30     Bayern Munich v SV Darmstadt 98  8-0 (0-0)   @ Fußball Arena München › München
               Werder Bremen v Union Berlin  2-0 (1-0)   @ wohninvest WESERSTADION › Bremen
               Borussia Monchengladbach v FC Heidenheim  2-1 (1-1)   @ BORUSSIA-PARK › Mönchengladbach
               FC Augsburg v VfL Wolfsburg  3-2 (1-2)   @ WWK Arena › Augsburg
               VfB Stuttgart v 1899 Hoffenheim  2-3 (0-2)   @ Stuttgart Arena › Stuttgart
-    18.30     RB Leipzig v 1.FC Köln  6-0 (4-0)   @ Leipzig Stadium › Leipzig
+    18:30     RB Leipzig v 1.FC Köln  6-0 (4-0)   @ Leipzig Stadium › Leipzig
   Sun Oct 29
-    15.30     Eintracht Frankfurt v Borussia Dortmund  3-3 (2-1)   @ Frankfurt Arena › Frankfurt am Main
-    17.30     Bayer Leverkusen v SC Freiburg  2-1 (1-0)   @ BayArena › Leverkusen
-» Regular Season - 10
+    15:30     Eintracht Frankfurt v Borussia Dortmund  3-3 (2-1)   @ Frankfurt Arena › Frankfurt am Main
+    17:30     Bayer Leverkusen v SC Freiburg  2-1 (1-0)   @ BayArena › Leverkusen
+▪ Regular Season - 10
   Fri Nov 3
-    20.30     SV Darmstadt 98 v Vfl Bochum  1-2 (1-1)   @ Merck-Stadion am Böllenfalltor › Darmstadt
+    20:30     SV Darmstadt 98 v Vfl Bochum  1-2 (1-1)   @ Merck-Stadion am Böllenfalltor › Darmstadt
   Sat Nov 4
-    15.30     SC Freiburg v Borussia Monchengladbach  3-3 (1-3)   @ Europa-Park Stadion › Freiburg im Breisgau
+    15:30     SC Freiburg v Borussia Monchengladbach  3-3 (1-3)   @ Europa-Park Stadion › Freiburg im Breisgau
               FSV Mainz 05 v RB Leipzig  2-0 (0-0)   @ MEWA ARENA › Mainz
               1899 Hoffenheim v Bayer Leverkusen  2-3 (0-2)   @ PreZero Arena › Sinsheim
               Union Berlin v Eintracht Frankfurt  0-3 (0-2)   @ Stadion An der Alten Försterei › Berlin
               1.FC Köln v FC Augsburg  1-1 (1-1)   @ Cologne Stadium › Köln
-    18.30     Borussia Dortmund v Bayern Munich  0-4 (0-2)   @ BVB Stadion Dortmund › Dortmund
+    18:30     Borussia Dortmund v Bayern Munich  0-4 (0-2)   @ BVB Stadion Dortmund › Dortmund
   Sun Nov 5
-    15.30     VfL Wolfsburg v Werder Bremen  2-2 (1-1)   @ Volkswagen Arena › Wolfsburg
-    17.30     FC Heidenheim v VfB Stuttgart  2-0 (0-0)   @ Voith-Arena › Heidenheim an der Brenz
-» Regular Season - 11
+    15:30     VfL Wolfsburg v Werder Bremen  2-2 (1-1)   @ Volkswagen Arena › Wolfsburg
+    17:30     FC Heidenheim v VfB Stuttgart  2-0 (0-0)   @ Voith-Arena › Heidenheim an der Brenz
+▪ Regular Season - 11
   Fri Nov 10
-    20.30     Borussia Monchengladbach v VfL Wolfsburg  4-0 (2-0)   @ BORUSSIA-PARK › Mönchengladbach
+    20:30     Borussia Monchengladbach v VfL Wolfsburg  4-0 (2-0)   @ BORUSSIA-PARK › Mönchengladbach
   Sat Nov 11
-    15.30     FC Augsburg v 1899 Hoffenheim  1-1 (0-1)   @ WWK Arena › Augsburg
+    15:30     FC Augsburg v 1899 Hoffenheim  1-1 (0-1)   @ WWK Arena › Augsburg
               VfB Stuttgart v Borussia Dortmund  2-1 (1-1)   @ Stuttgart Arena › Stuttgart
               SV Darmstadt 98 v FSV Mainz 05  0-0 (0-0)   @ Merck-Stadion am Böllenfalltor › Darmstadt
               Bayern Munich v FC Heidenheim  4-2 (2-0)   @ Fußball Arena München › München
-    18.30     Vfl Bochum v 1.FC Köln  1-1 (1-0)   @ Vonovia Ruhrstadion › Bochum
+    18:30     Vfl Bochum v 1.FC Köln  1-1 (1-0)   @ Vonovia Ruhrstadion › Bochum
   Sun Nov 12
-    15.30     Bayer Leverkusen v Union Berlin  4-0 (1-0)   @ BayArena › Leverkusen
-    17.30     Werder Bremen v Eintracht Frankfurt  2-2 (1-0)   @ wohninvest WESERSTADION › Bremen
-    19.30     RB Leipzig v SC Freiburg  3-1 (1-1)   @ Leipzig Stadium › Leipzig
-» Regular Season - 12
+    15:30     Bayer Leverkusen v Union Berlin  4-0 (1-0)   @ BayArena › Leverkusen
+    17:30     Werder Bremen v Eintracht Frankfurt  2-2 (1-0)   @ wohninvest WESERSTADION › Bremen
+    19:30     RB Leipzig v SC Freiburg  3-1 (1-1)   @ Leipzig Stadium › Leipzig
+▪ Regular Season - 12
   Fri Nov 24
-    20.30     1.FC Köln v Bayern Munich  0-1 (0-1)   @ Cologne Stadium › Köln
+    20:30     1.FC Köln v Bayern Munich  0-1 (0-1)   @ Cologne Stadium › Köln
   Sat Nov 25
-    15.30     SC Freiburg v SV Darmstadt 98  1-1 (1-1)   @ Europa-Park Stadion › Freiburg im Breisgau
+    15:30     SC Freiburg v SV Darmstadt 98  1-1 (1-1)   @ Europa-Park Stadion › Freiburg im Breisgau
               VfL Wolfsburg v RB Leipzig  2-1 (1-0)   @ Volkswagen Arena › Wolfsburg
               Werder Bremen v Bayer Leverkusen  0-3 (0-2)   @ wohninvest WESERSTADION › Bremen
               Borussia Dortmund v Borussia Monchengladbach  4-2 (3-2)   @ BVB Stadion Dortmund › Dortmund
               Union Berlin v FC Augsburg  1-1 (0-1)   @ Stadion An der Alten Försterei › Berlin
-    18.30     Eintracht Frankfurt v VfB Stuttgart  1-2 (1-2)   @ Frankfurt Arena › Frankfurt am Main
+    18:30     Eintracht Frankfurt v VfB Stuttgart  1-2 (1-2)   @ Frankfurt Arena › Frankfurt am Main
   Sun Nov 26
-    15.30     FC Heidenheim v Vfl Bochum  0-0 (0-0)   @ Voith-Arena › Heidenheim an der Brenz
-    17.30     1899 Hoffenheim v FSV Mainz 05  1-1 (0-1)   @ PreZero Arena › Sinsheim
-» Regular Season - 13
+    15:30     FC Heidenheim v Vfl Bochum  0-0 (0-0)   @ Voith-Arena › Heidenheim an der Brenz
+    17:30     1899 Hoffenheim v FSV Mainz 05  1-1 (0-1)   @ PreZero Arena › Sinsheim
+▪ Regular Season - 13
   Fri Dec 1
-    20.30     SV Darmstadt 98 v 1.FC Köln  0-1 (0-0)   @ Merck-Stadion am Böllenfalltor › Darmstadt
+    20:30     SV Darmstadt 98 v 1.FC Köln  0-1 (0-0)   @ Merck-Stadion am Böllenfalltor › Darmstadt
   Sat Dec 2
-    15.30     RB Leipzig v FC Heidenheim  2-1 (2-1)   @ Leipzig Stadium › Leipzig
+    15:30     RB Leipzig v FC Heidenheim  2-1 (2-1)   @ Leipzig Stadium › Leipzig
               Vfl Bochum v VfL Wolfsburg  3-1 (2-1)   @ Vonovia Ruhrstadion › Bochum
               Borussia Monchengladbach v 1899 Hoffenheim  2-1 (0-0)   @ BORUSSIA-PARK › Mönchengladbach
-    18.30     VfB Stuttgart v Werder Bremen  2-0 (1-0)   @ Stuttgart Arena › Stuttgart
+    18:30     VfB Stuttgart v Werder Bremen  2-0 (1-0)   @ Stuttgart Arena › Stuttgart
   Sun Dec 3
-    15.30     FSV Mainz 05 v SC Freiburg  0-1 (0-0)   @ MEWA ARENA › Mainz
-    17.30     Bayer Leverkusen v Borussia Dortmund  1-1 (0-1)   @ BayArena › Leverkusen
-    19.30     FC Augsburg v Eintracht Frankfurt  2-1 (1-0)   @ WWK Arena › Augsburg
-» Regular Season - 14
+    15:30     FSV Mainz 05 v SC Freiburg  0-1 (0-0)   @ MEWA ARENA › Mainz
+    17:30     Bayer Leverkusen v Borussia Dortmund  1-1 (0-1)   @ BayArena › Leverkusen
+    19:30     FC Augsburg v Eintracht Frankfurt  2-1 (1-0)   @ WWK Arena › Augsburg
+▪ Regular Season - 14
   Fri Dec 8
-    20.30     1899 Hoffenheim v Vfl Bochum  3-1 (2-0)   @ PreZero Arena › Sinsheim
+    20:30     1899 Hoffenheim v Vfl Bochum  3-1 (2-0)   @ PreZero Arena › Sinsheim
   Sat Dec 9
-    15.30     VfL Wolfsburg v SC Freiburg  0-1 (0-0)   @ Volkswagen Arena › Wolfsburg
+    15:30     VfL Wolfsburg v SC Freiburg  0-1 (0-0)   @ Volkswagen Arena › Wolfsburg
               Werder Bremen v FC Augsburg  2-0 (1-0)   @ wohninvest WESERSTADION › Bremen
               Eintracht Frankfurt v Bayern Munich  5-1 (3-1)   @ Frankfurt Arena › Frankfurt am Main
               FC Heidenheim v SV Darmstadt 98  3-2 (1-0)   @ Voith-Arena › Heidenheim an der Brenz
               Union Berlin v Borussia Monchengladbach  3-1 (1-0)   @ Stadion An der Alten Försterei › Berlin
-    18.30     Borussia Dortmund v RB Leipzig  2-3 (1-1)   @ BVB Stadion Dortmund › Dortmund
+    18:30     Borussia Dortmund v RB Leipzig  2-3 (1-1)   @ BVB Stadion Dortmund › Dortmund
   Sun Dec 10
-    15.30     VfB Stuttgart v Bayer Leverkusen  1-1 (1-0)   @ Stuttgart Arena › Stuttgart
-    17.30     1.FC Köln v FSV Mainz 05  0-0 (0-0)   @ Cologne Stadium › Köln
-» Regular Season - 15
+    15:30     VfB Stuttgart v Bayer Leverkusen  1-1 (1-0)   @ Stuttgart Arena › Stuttgart
+    17:30     1.FC Köln v FSV Mainz 05  0-0 (0-0)   @ Cologne Stadium › Köln
+▪ Regular Season - 15
   Fri Dec 15
-    20.30     Borussia Monchengladbach v Werder Bremen  2-2 (1-1)   @ BORUSSIA-PARK › Mönchengladbach
+    20:30     Borussia Monchengladbach v Werder Bremen  2-2 (1-1)   @ BORUSSIA-PARK › Mönchengladbach
   Sat Dec 16
-    15.30     FC Augsburg v Borussia Dortmund  1-1 (1-1)   @ WWK Arena › Augsburg
+    15:30     FC Augsburg v Borussia Dortmund  1-1 (1-1)   @ WWK Arena › Augsburg
               Vfl Bochum v Union Berlin  3-0 (1-0)   @ Vonovia Ruhrstadion › Bochum
               SV Darmstadt 98 v VfL Wolfsburg  0-1 (0-0)   @ Merck-Stadion am Böllenfalltor › Darmstadt
               FSV Mainz 05 v FC Heidenheim  0-1 (0-1)   @ MEWA ARENA › Mainz
-    18.30     RB Leipzig v 1899 Hoffenheim  3-1 (1-1)   @ Leipzig Stadium › Leipzig
+    18:30     RB Leipzig v 1899 Hoffenheim  3-1 (1-1)   @ Leipzig Stadium › Leipzig
   Sun Dec 17
-    15.30     SC Freiburg v 1.FC Köln  2-0 (0-0)   @ Europa-Park Stadion › Freiburg im Breisgau
-    17.30     Bayer Leverkusen v Eintracht Frankfurt  3-0 (1-0)   @ BayArena › Leverkusen
-    19.30     Bayern Munich v VfB Stuttgart  3-0 (1-0)   @ Fußball Arena München › München
-» Regular Season - 16
+    15:30     SC Freiburg v 1.FC Köln  2-0 (0-0)   @ Europa-Park Stadion › Freiburg im Breisgau
+    17:30     Bayer Leverkusen v Eintracht Frankfurt  3-0 (1-0)   @ BayArena › Leverkusen
+    19:30     Bayern Munich v VfB Stuttgart  3-0 (1-0)   @ Fußball Arena München › München
+▪ Regular Season - 16
   Tue Dec 19
-    18.30     Werder Bremen v RB Leipzig  1-1 (0-0)   @ wohninvest WESERSTADION › Bremen
-    20.30     1899 Hoffenheim v SV Darmstadt 98  3-3 (2-1)   @ PreZero Arena › Sinsheim
+    18:30     Werder Bremen v RB Leipzig  1-1 (0-0)   @ wohninvest WESERSTADION › Bremen
+    20:30     1899 Hoffenheim v SV Darmstadt 98  3-3 (2-1)   @ PreZero Arena › Sinsheim
               Borussia Dortmund v FSV Mainz 05  1-1 (1-1)   @ BVB Stadion Dortmund › Dortmund
   Wed Dec 20
-    18.30     Union Berlin v 1.FC Köln  2-0 (0-0)   @ Stadion An der Alten Försterei › Berlin
-    20.30     Bayer Leverkusen v Vfl Bochum  4-0 (3-0)   @ BayArena › Leverkusen
+    18:30     Union Berlin v 1.FC Köln  2-0 (0-0)   @ Stadion An der Alten Försterei › Berlin
+    20:30     Bayer Leverkusen v Vfl Bochum  4-0 (3-0)   @ BayArena › Leverkusen
               Eintracht Frankfurt v Borussia Monchengladbach  2-1 (0-1)   @ Frankfurt Arena › Frankfurt am Main
               VfB Stuttgart v FC Augsburg  3-0 (2-0)   @ Stuttgart Arena › Stuttgart
               FC Heidenheim v SC Freiburg  3-2 (0-1)   @ Voith-Arena › Heidenheim an der Brenz
               VfL Wolfsburg v Bayern Munich  1-2 (1-2)   @ Volkswagen Arena › Wolfsburg
-» Regular Season - 17
+▪ Regular Season - 17
   Fri Jan 12 2024
-    20.30     Bayern Munich v 1899 Hoffenheim  3-0 (1-0)   @ Fußball Arena München › München
+    20:30     Bayern Munich v 1899 Hoffenheim  3-0 (1-0)   @ Fußball Arena München › München
   Sat Jan 13
-    15.30     FSV Mainz 05 v VfL Wolfsburg  1-1 (0-1)   @ MEWA ARENA › Mainz
+    15:30     FSV Mainz 05 v VfL Wolfsburg  1-1 (0-1)   @ MEWA ARENA › Mainz
               FC Augsburg v Bayer Leverkusen  0-1 (0-0)   @ WWK Arena › Augsburg
               RB Leipzig v Eintracht Frankfurt  0-1 (0-1)   @ Leipzig Stadium › Leipzig
               1.FC Köln v FC Heidenheim  1-1 (1-0)   @ Cologne Stadium › Köln
               SC Freiburg v Union Berlin  0-0 (0-0)   @ Europa-Park Stadion › Freiburg im Breisgau
-    18.30     SV Darmstadt 98 v Borussia Dortmund  0-3 (0-1)   @ Merck-Stadion am Böllenfalltor › Darmstadt
+    18:30     SV Darmstadt 98 v Borussia Dortmund  0-3 (0-1)   @ Merck-Stadion am Böllenfalltor › Darmstadt
   Sun Jan 14
-    15.30     Vfl Bochum v Werder Bremen  1-1 (0-0)   @ Vonovia Ruhrstadion › Bochum
-    17.30     Borussia Monchengladbach v VfB Stuttgart  3-1 (2-0)   @ BORUSSIA-PARK › Mönchengladbach
-» Regular Season - 18
+    15:30     Vfl Bochum v Werder Bremen  1-1 (0-0)   @ Vonovia Ruhrstadion › Bochum
+    17:30     Borussia Monchengladbach v VfB Stuttgart  3-1 (2-0)   @ BORUSSIA-PARK › Mönchengladbach
+▪ Regular Season - 18
   Sat Jan 20
-    15.30     SC Freiburg v 1899 Hoffenheim  3-2 (1-0)   @ Europa-Park Stadion › Freiburg im Breisgau
+    15:30     SC Freiburg v 1899 Hoffenheim  3-2 (1-0)   @ Europa-Park Stadion › Freiburg im Breisgau
               Vfl Bochum v VfB Stuttgart  1-0 (0-0)   @ Vonovia Ruhrstadion › Bochum
               FC Heidenheim v VfL Wolfsburg  1-1 (1-1)   @ Voith-Arena › Heidenheim an der Brenz
               SV Darmstadt 98 v Eintracht Frankfurt  2-2 (0-1)   @ Merck-Stadion am Böllenfalltor › Darmstadt
               1.FC Köln v Borussia Dortmund  0-4 (0-1)   @ Cologne Stadium › Köln
-    18.30     RB Leipzig v Bayer Leverkusen  2-3 (1-0)   @ Leipzig Stadium › Leipzig
+    18:30     RB Leipzig v Bayer Leverkusen  2-3 (1-0)   @ Leipzig Stadium › Leipzig
   Sun Jan 21
-    15.30     Bayern Munich v Werder Bremen  0-1 (0-0)   @ Fußball Arena München › München
-    17.30     Borussia Monchengladbach v FC Augsburg  1-2 (1-0)   @ BORUSSIA-PARK › Mönchengladbach
-» Regular Season - 13
+    15:30     Bayern Munich v Werder Bremen  0-1 (0-0)   @ Fußball Arena München › München
+    17:30     Borussia Monchengladbach v FC Augsburg  1-2 (1-0)   @ BORUSSIA-PARK › Mönchengladbach
+▪ Regular Season - 13
   Wed Jan 24
-    20.30     Bayern Munich v Union Berlin  1-0 (0-0)   @ Fußball Arena München › München
-» Regular Season - 19
+    20:30     Bayern Munich v Union Berlin  1-0 (0-0)   @ Fußball Arena München › München
+▪ Regular Season - 19
   Fri Jan 26
-    20.30     Eintracht Frankfurt v FSV Mainz 05  1-0 (0-0)   @ Frankfurt Arena › Frankfurt am Main
+    20:30     Eintracht Frankfurt v FSV Mainz 05  1-0 (0-0)   @ Frankfurt Arena › Frankfurt am Main
   Sat Jan 27
-    15.30     VfL Wolfsburg v 1.FC Köln  1-1 (1-1)   @ Volkswagen Arena › Wolfsburg
+    15:30     VfL Wolfsburg v 1.FC Köln  1-1 (1-1)   @ Volkswagen Arena › Wolfsburg
               Werder Bremen v SC Freiburg  3-1 (1-1)   @ wohninvest WESERSTADION › Bremen
               1899 Hoffenheim v FC Heidenheim  1-1 (1-1)   @ PreZero Arena › Sinsheim
               FC Augsburg v Bayern Munich  2-3 (0-2)   @ WWK Arena › Augsburg
               VfB Stuttgart v RB Leipzig  5-2 (2-1)   @ Stuttgart Arena › Stuttgart
-    18.30     Bayer Leverkusen v Borussia Monchengladbach  0-0 (0-0)   @ BayArena › Leverkusen
+    18:30     Bayer Leverkusen v Borussia Monchengladbach  0-0 (0-0)   @ BayArena › Leverkusen
   Sun Jan 28
-    15.30     Union Berlin v SV Darmstadt 98  1-0 (0-0)   @ Stadion An der Alten Försterei › Berlin
-    17.30     Borussia Dortmund v Vfl Bochum  3-1 (1-1)   @ BVB Stadion Dortmund › Dortmund
-» Regular Season - 20
+    15:30     Union Berlin v SV Darmstadt 98  1-0 (0-0)   @ Stadion An der Alten Försterei › Berlin
+    17:30     Borussia Dortmund v Vfl Bochum  3-1 (1-1)   @ BVB Stadion Dortmund › Dortmund
+▪ Regular Season - 20
   Fri Feb 2
-    20.30     FC Heidenheim v Borussia Dortmund  0-0 (0-0)   @ Voith-Arena › Heidenheim an der Brenz
+    20:30     FC Heidenheim v Borussia Dortmund  0-0 (0-0)   @ Voith-Arena › Heidenheim an der Brenz
   Sat Feb 3
-    15.30     Bayern Munich v Borussia Monchengladbach  3-1 (1-1)   @ Fußball Arena München › München
+    15:30     Bayern Munich v Borussia Monchengladbach  3-1 (1-1)   @ Fußball Arena München › München
               SC Freiburg v VfB Stuttgart  1-3 (1-2)   @ Europa-Park Stadion › Freiburg im Breisgau
               FSV Mainz 05 v Werder Bremen  0-1 (0-1)   @ MEWA ARENA › Mainz
               Vfl Bochum v FC Augsburg  1-1 (1-0)   @ Vonovia Ruhrstadion › Bochum
               SV Darmstadt 98 v Bayer Leverkusen  0-2 (0-1)   @ Merck-Stadion am Böllenfalltor › Darmstadt
-    18.30     1.FC Köln v Eintracht Frankfurt  2-0 (0-0)   @ Cologne Stadium › Köln
+    18:30     1.FC Köln v Eintracht Frankfurt  2-0 (0-0)   @ Cologne Stadium › Köln
   Sun Feb 4
-    15.30     VfL Wolfsburg v 1899 Hoffenheim  2-2 (0-1)   @ Volkswagen Arena › Wolfsburg
-    17.30     RB Leipzig v Union Berlin  2-0 (1-0)   @ Leipzig Stadium › Leipzig
-» Regular Season - 18
+    15:30     VfL Wolfsburg v 1899 Hoffenheim  2-2 (0-1)   @ Volkswagen Arena › Wolfsburg
+    17:30     RB Leipzig v Union Berlin  2-0 (1-0)   @ Leipzig Stadium › Leipzig
+▪ Regular Season - 18
   Wed Feb 7
-    18.30     FSV Mainz 05 v Union Berlin  1-1 (1-1)   @ MEWA ARENA › Mainz
-» Regular Season - 21
+    18:30     FSV Mainz 05 v Union Berlin  1-1 (1-1)   @ MEWA ARENA › Mainz
+▪ Regular Season - 21
   Fri Feb 9
-    20.30     Borussia Dortmund v SC Freiburg  3-0 (2-0)   @ BVB Stadion Dortmund › Dortmund
+    20:30     Borussia Dortmund v SC Freiburg  3-0 (2-0)   @ BVB Stadion Dortmund › Dortmund
   Sat Feb 10
-    15.30     Werder Bremen v FC Heidenheim  1-2 (1-2)   @ wohninvest WESERSTADION › Bremen
+    15:30     Werder Bremen v FC Heidenheim  1-2 (1-2)   @ wohninvest WESERSTADION › Bremen
               Borussia Monchengladbach v SV Darmstadt 98  0-0 (0-0)   @ BORUSSIA-PARK › Mönchengladbach
               Eintracht Frankfurt v Vfl Bochum  1-1 (1-1)   @ Frankfurt Arena › Frankfurt am Main
               FC Augsburg v RB Leipzig  2-2 (1-1)   @ WWK Arena › Augsburg
               Union Berlin v VfL Wolfsburg  1-0 (1-0)   @ Stadion An der Alten Försterei › Berlin
-    18.30     Bayer Leverkusen v Bayern Munich  3-0 (1-0)   @ BayArena › Leverkusen
+    18:30     Bayer Leverkusen v Bayern Munich  3-0 (1-0)   @ BayArena › Leverkusen
   Sun Feb 11
-    15.30     VfB Stuttgart v FSV Mainz 05  3-1 (2-0)   @ Stuttgart Arena › Stuttgart
-    17.30     1899 Hoffenheim v 1.FC Köln  1-1 (0-0)   @ PreZero Arena › Sinsheim
-» Regular Season - 22
+    15:30     VfB Stuttgart v FSV Mainz 05  3-1 (2-0)   @ Stuttgart Arena › Stuttgart
+    17:30     1899 Hoffenheim v 1.FC Köln  1-1 (0-0)   @ PreZero Arena › Sinsheim
+▪ Regular Season - 22
   Fri Feb 16
-    20.30     1.FC Köln v Werder Bremen  0-1 (0-0)   @ Cologne Stadium › Köln
+    20:30     1.FC Köln v Werder Bremen  0-1 (0-0)   @ Cologne Stadium › Köln
   Sat Feb 17
-    15.30     VfL Wolfsburg v Borussia Dortmund  1-1 (0-1)   @ Volkswagen Arena › Wolfsburg
+    15:30     VfL Wolfsburg v Borussia Dortmund  1-1 (0-1)   @ Volkswagen Arena › Wolfsburg
               FSV Mainz 05 v FC Augsburg  1-0 (1-0)   @ MEWA ARENA › Mainz
               1899 Hoffenheim v Union Berlin  0-1 (0-0)   @ PreZero Arena › Sinsheim
               FC Heidenheim v Bayer Leverkusen  1-2 (0-1)   @ Voith-Arena › Heidenheim an der Brenz
               SV Darmstadt 98 v VfB Stuttgart  1-2 (0-1)   @ Merck-Stadion am Böllenfalltor › Darmstadt
-    18.30     RB Leipzig v Borussia Monchengladbach  2-0 (1-0)   @ Leipzig Stadium › Leipzig
+    18:30     RB Leipzig v Borussia Monchengladbach  2-0 (1-0)   @ Leipzig Stadium › Leipzig
   Sun Feb 18
-    15.30     SC Freiburg v Eintracht Frankfurt  3-3 (2-2)   @ Europa-Park Stadion › Freiburg im Breisgau
-    17.30     Vfl Bochum v Bayern Munich  3-2 (2-1)   @ Vonovia Ruhrstadion › Bochum
-» Regular Season - 23
+    15:30     SC Freiburg v Eintracht Frankfurt  3-3 (2-2)   @ Europa-Park Stadion › Freiburg im Breisgau
+    17:30     Vfl Bochum v Bayern Munich  3-2 (2-1)   @ Vonovia Ruhrstadion › Bochum
+▪ Regular Season - 23
   Fri Feb 23
-    20.30     Bayer Leverkusen v FSV Mainz 05  2-1 (1-1)   @ BayArena › Leverkusen
+    20:30     Bayer Leverkusen v FSV Mainz 05  2-1 (1-1)   @ BayArena › Leverkusen
   Sat Feb 24
-    15.30     Werder Bremen v SV Darmstadt 98  1-1 (1-1)   @ wohninvest WESERSTADION › Bremen
+    15:30     Werder Bremen v SV Darmstadt 98  1-1 (1-1)   @ wohninvest WESERSTADION › Bremen
               Borussia Monchengladbach v Vfl Bochum  5-2 (2-0)   @ BORUSSIA-PARK › Mönchengladbach
               VfB Stuttgart v 1.FC Köln  1-1 (0-0)   @ Stuttgart Arena › Stuttgart
               Union Berlin v FC Heidenheim  2-2 (2-1)   @ Stadion An der Alten Försterei › Berlin
-    18.30     Bayern Munich v RB Leipzig  2-1 (0-0)   @ Fußball Arena München › München
+    18:30     Bayern Munich v RB Leipzig  2-1 (0-0)   @ Fußball Arena München › München
   Sun Feb 25
-    15.30     Eintracht Frankfurt v VfL Wolfsburg  2-2 (1-2)   @ Frankfurt Arena › Frankfurt am Main
-    17.30     Borussia Dortmund v 1899 Hoffenheim  2-3 (2-1)   @ BVB Stadion Dortmund › Dortmund
-    19.30     FC Augsburg v SC Freiburg  2-1 (0-1)   @ WWK Arena › Augsburg
-» Regular Season - 24
+    15:30     Eintracht Frankfurt v VfL Wolfsburg  2-2 (1-2)   @ Frankfurt Arena › Frankfurt am Main
+    17:30     Borussia Dortmund v 1899 Hoffenheim  2-3 (2-1)   @ BVB Stadion Dortmund › Dortmund
+    19:30     FC Augsburg v SC Freiburg  2-1 (0-1)   @ WWK Arena › Augsburg
+▪ Regular Season - 24
   Fri Mar 1
-    20.30     SC Freiburg v Bayern Munich  2-2 (1-1)   @ Europa-Park Stadion › Freiburg im Breisgau
+    20:30     SC Freiburg v Bayern Munich  2-2 (1-1)   @ Europa-Park Stadion › Freiburg im Breisgau
   Sat Mar 2
-    15.30     Vfl Bochum v RB Leipzig  1-4 (1-1)   @ Vonovia Ruhrstadion › Bochum
+    15:30     Vfl Bochum v RB Leipzig  1-4 (1-1)   @ Vonovia Ruhrstadion › Bochum
               FC Heidenheim v Eintracht Frankfurt  1-2 (0-1)   @ Voith-Arena › Heidenheim an der Brenz
               SV Darmstadt 98 v FC Augsburg  0-6 (0-5)   @ Merck-Stadion am Böllenfalltor › Darmstadt
               Union Berlin v Borussia Dortmund  0-2 (0-1)   @ Stadion An der Alten Försterei › Berlin
               FSV Mainz 05 v Borussia Monchengladbach  1-1 (1-0)   @ MEWA ARENA › Mainz
-    18.30     VfL Wolfsburg v VfB Stuttgart  2-3 (0-1)   @ Volkswagen Arena › Wolfsburg
+    18:30     VfL Wolfsburg v VfB Stuttgart  2-3 (0-1)   @ Volkswagen Arena › Wolfsburg
   Sun Mar 3
-    15.30     1.FC Köln v Bayer Leverkusen  0-2 (0-1)   @ Cologne Stadium › Köln
-    17.30     1899 Hoffenheim v Werder Bremen  2-1 (2-0)   @ PreZero Arena › Sinsheim
-» Regular Season - 25
+    15:30     1.FC Köln v Bayer Leverkusen  0-2 (0-1)   @ Cologne Stadium › Köln
+    17:30     1899 Hoffenheim v Werder Bremen  2-1 (2-0)   @ PreZero Arena › Sinsheim
+▪ Regular Season - 25
   Fri Mar 8
-    20.30     VfB Stuttgart v Union Berlin  2-0 (1-0)   @ Stuttgart Arena › Stuttgart
+    20:30     VfB Stuttgart v Union Berlin  2-0 (1-0)   @ Stuttgart Arena › Stuttgart
   Sat Mar 9
-    15.30     Bayern Munich v FSV Mainz 05  8-1 (3-1)   @ Fußball Arena München › München
+    15:30     Bayern Munich v FSV Mainz 05  8-1 (3-1)   @ Fußball Arena München › München
               Borussia Monchengladbach v 1.FC Köln  3-3 (1-1)   @ BORUSSIA-PARK › Mönchengladbach
               FC Augsburg v FC Heidenheim  1-0 (1-0)   @ WWK Arena › Augsburg
               RB Leipzig v SV Darmstadt 98  2-0 (1-0)   @ Leipzig Stadium › Leipzig
-    18.30     Werder Bremen v Borussia Dortmund  1-2 (0-2)   @ wohninvest WESERSTADION › Bremen
+    18:30     Werder Bremen v Borussia Dortmund  1-2 (0-2)   @ wohninvest WESERSTADION › Bremen
   Sun Mar 10
-    15.30     Vfl Bochum v SC Freiburg  1-2 (0-1)   @ Vonovia Ruhrstadion › Bochum
-    17.30     Eintracht Frankfurt v 1899 Hoffenheim  3-1 (1-1)   @ Frankfurt Arena › Frankfurt am Main
-    19.30     Bayer Leverkusen v VfL Wolfsburg  2-0 (1-0)   @ BayArena › Leverkusen
-» Regular Season - 26
+    15:30     Vfl Bochum v SC Freiburg  1-2 (0-1)   @ Vonovia Ruhrstadion › Bochum
+    17:30     Eintracht Frankfurt v 1899 Hoffenheim  3-1 (1-1)   @ Frankfurt Arena › Frankfurt am Main
+    19:30     Bayer Leverkusen v VfL Wolfsburg  2-0 (1-0)   @ BayArena › Leverkusen
+▪ Regular Season - 26
   Fri Mar 15
-    20.30     1.FC Köln v RB Leipzig  1-5 (1-1)   @ Cologne Stadium › Köln
+    20:30     1.FC Köln v RB Leipzig  1-5 (1-1)   @ Cologne Stadium › Köln
   Sat Mar 16
-    15.30     FSV Mainz 05 v Vfl Bochum  2-0 (1-0)   @ MEWA ARENA › Mainz
+    15:30     FSV Mainz 05 v Vfl Bochum  2-0 (1-0)   @ MEWA ARENA › Mainz
               FC Heidenheim v Borussia Monchengladbach  1-1 (0-1)   @ Voith-Arena › Heidenheim an der Brenz
               SV Darmstadt 98 v Bayern Munich  2-5 (1-2)   @ Merck-Stadion am Böllenfalltor › Darmstadt
               Union Berlin v Werder Bremen  2-1 (0-0)   @ Stadion An der Alten Försterei › Berlin
               VfL Wolfsburg v FC Augsburg  1-3 (1-1)   @ Volkswagen Arena › Wolfsburg
-    18.30     1899 Hoffenheim v VfB Stuttgart  0-3 (0-2)   @ PreZero Arena › Sinsheim
+    18:30     1899 Hoffenheim v VfB Stuttgart  0-3 (0-2)   @ PreZero Arena › Sinsheim
   Sun Mar 17
-    15.30     SC Freiburg v Bayer Leverkusen  2-3 (1-2)   @ Europa-Park Stadion › Freiburg im Breisgau
-    17.30     Borussia Dortmund v Eintracht Frankfurt  3-1 (1-1)   @ BVB Stadion Dortmund › Dortmund
-» Regular Season - 27
+    15:30     SC Freiburg v Bayer Leverkusen  2-3 (1-2)   @ Europa-Park Stadion › Freiburg im Breisgau
+    17:30     Borussia Dortmund v Eintracht Frankfurt  3-1 (1-1)   @ BVB Stadion Dortmund › Dortmund
+▪ Regular Season - 27
   Sat Mar 30
-    15.30     Werder Bremen v VfL Wolfsburg  0-2 (0-1)   @ wohninvest WESERSTADION › Bremen
+    15:30     Werder Bremen v VfL Wolfsburg  0-2 (0-1)   @ wohninvest WESERSTADION › Bremen
               Borussia Monchengladbach v SC Freiburg  0-3 (0-1)   @ BORUSSIA-PARK › Mönchengladbach
               Bayer Leverkusen v 1899 Hoffenheim  2-1 (0-1)   @ BayArena › Leverkusen
               Eintracht Frankfurt v Union Berlin  0-0 (0-0)   @ Frankfurt Arena › Frankfurt am Main
               RB Leipzig v FSV Mainz 05  0-0 (0-0)   @ Leipzig Stadium › Leipzig
-    18.30     Bayern Munich v Borussia Dortmund  0-2 (0-1)   @ Fußball Arena München › München
+    18:30     Bayern Munich v Borussia Dortmund  0-2 (0-1)   @ Fußball Arena München › München
   Sun Mar 31
-    15.30     FC Augsburg v 1.FC Köln  1-1 (1-1)   @ WWK Arena › Augsburg
-    17.30     VfB Stuttgart v FC Heidenheim  3-3 (1-0)   @ Stuttgart Arena › Stuttgart
-    19.30     Vfl Bochum v SV Darmstadt 98  2-2 (1-0)   @ Vonovia Ruhrstadion › Bochum
-» Regular Season - 28
+    15:30     FC Augsburg v 1.FC Köln  1-1 (1-1)   @ WWK Arena › Augsburg
+    17:30     VfB Stuttgart v FC Heidenheim  3-3 (1-0)   @ Stuttgart Arena › Stuttgart
+    19:30     Vfl Bochum v SV Darmstadt 98  2-2 (1-0)   @ Vonovia Ruhrstadion › Bochum
+▪ Regular Season - 28
   Fri Apr 5
-    20.30     Eintracht Frankfurt v Werder Bremen  1-1 (0-0)   @ Frankfurt Arena › Frankfurt am Main
+    20:30     Eintracht Frankfurt v Werder Bremen  1-1 (0-0)   @ Frankfurt Arena › Frankfurt am Main
   Sat Apr 6
-    15.30     FSV Mainz 05 v SV Darmstadt 98  4-0 (1-0)   @ MEWA ARENA › Mainz
+    15:30     FSV Mainz 05 v SV Darmstadt 98  4-0 (1-0)   @ MEWA ARENA › Mainz
               FC Heidenheim v Bayern Munich  3-2 (0-2)   @ Voith-Arena › Heidenheim an der Brenz
               Union Berlin v Bayer Leverkusen  0-1 (0-1)   @ Stadion An der Alten Försterei › Berlin
               1.FC Köln v Vfl Bochum  2-1 (0-0)   @ Cologne Stadium › Köln
               SC Freiburg v RB Leipzig  1-4 (0-3)   @ Europa-Park Stadion › Freiburg im Breisgau
-    18.30     Borussia Dortmund v VfB Stuttgart  0-1 (0-0)   @ BVB Stadion Dortmund › Dortmund
+    18:30     Borussia Dortmund v VfB Stuttgart  0-1 (0-0)   @ BVB Stadion Dortmund › Dortmund
   Sun Apr 7
-    15.30     1899 Hoffenheim v FC Augsburg  3-1 (2-0)   @ PreZero Arena › Sinsheim
-    17.30     VfL Wolfsburg v Borussia Monchengladbach  1-3 (1-0)   @ Volkswagen Arena › Wolfsburg
-» Regular Season - 29
+    15:30     1899 Hoffenheim v FC Augsburg  3-1 (2-0)   @ PreZero Arena › Sinsheim
+    17:30     VfL Wolfsburg v Borussia Monchengladbach  1-3 (1-0)   @ Volkswagen Arena › Wolfsburg
+▪ Regular Season - 29
   Fri Apr 12
-    20.30     FC Augsburg v Union Berlin  2-0 (0-0)   @ WWK Arena › Augsburg
+    20:30     FC Augsburg v Union Berlin  2-0 (0-0)   @ WWK Arena › Augsburg
   Sat Apr 13
-    15.30     Bayern Munich v 1.FC Köln  2-0 (0-0)   @ Fußball Arena München › München
+    15:30     Bayern Munich v 1.FC Köln  2-0 (0-0)   @ Fußball Arena München › München
               Borussia Monchengladbach v Borussia Dortmund  1-2 (1-2)   @ BORUSSIA-PARK › Mönchengladbach
               FSV Mainz 05 v 1899 Hoffenheim  4-1 (0-1)   @ MEWA ARENA › Mainz
               RB Leipzig v VfL Wolfsburg  3-0 (1-0)   @ Leipzig Stadium › Leipzig
               Vfl Bochum v FC Heidenheim  1-1 (0-0)   @ Vonovia Ruhrstadion › Bochum
-    18.30     VfB Stuttgart v Eintracht Frankfurt  3-0 (3-0)   @ Stuttgart Arena › Stuttgart
+    18:30     VfB Stuttgart v Eintracht Frankfurt  3-0 (3-0)   @ Stuttgart Arena › Stuttgart
   Sun Apr 14
-    15.30     SV Darmstadt 98 v SC Freiburg  0-1 (0-1)   @ Merck-Stadion am Böllenfalltor › Darmstadt
-    17.30     Bayer Leverkusen v Werder Bremen  5-0 (1-0)   @ BayArena › Leverkusen
-» Regular Season - 30
+    15:30     SV Darmstadt 98 v SC Freiburg  0-1 (0-1)   @ Merck-Stadion am Böllenfalltor › Darmstadt
+    17:30     Bayer Leverkusen v Werder Bremen  5-0 (1-0)   @ BayArena › Leverkusen
+▪ Regular Season - 30
   Fri Apr 19
-    20.30     Eintracht Frankfurt v FC Augsburg  3-1 (0-1)   @ Frankfurt Arena › Frankfurt am Main
+    20:30     Eintracht Frankfurt v FC Augsburg  3-1 (0-1)   @ Frankfurt Arena › Frankfurt am Main
   Sat Apr 20
-    15.30     1899 Hoffenheim v Borussia Monchengladbach  4-3 (1-1)   @ PreZero Arena › Sinsheim
+    15:30     1899 Hoffenheim v Borussia Monchengladbach  4-3 (1-1)   @ PreZero Arena › Sinsheim
               FC Heidenheim v RB Leipzig  1-2 (0-1)   @ Voith-Arena › Heidenheim an der Brenz
               1.FC Köln v SV Darmstadt 98  0-2 (0-0)   @ Cologne Stadium › Köln
               VfL Wolfsburg v Vfl Bochum  1-0 (1-0)   @ Volkswagen Arena › Wolfsburg
-    18.30     Union Berlin v Bayern Munich  1-5 (0-2)   @ Stadion An der Alten Försterei › Berlin
+    18:30     Union Berlin v Bayern Munich  1-5 (0-2)   @ Stadion An der Alten Försterei › Berlin
   Sun Apr 21
-    15.30     Werder Bremen v VfB Stuttgart  2-1 (1-0)   @ wohninvest WESERSTADION › Bremen
-    17.30     Borussia Dortmund v Bayer Leverkusen  1-1 (0-0)   @ BVB Stadion Dortmund › Dortmund
-    19.30     SC Freiburg v FSV Mainz 05  1-1 (1-1)   @ Europa-Park Stadion › Freiburg im Breisgau
-» Regular Season - 31
+    15:30     Werder Bremen v VfB Stuttgart  2-1 (1-0)   @ wohninvest WESERSTADION › Bremen
+    17:30     Borussia Dortmund v Bayer Leverkusen  1-1 (0-0)   @ BVB Stadion Dortmund › Dortmund
+    19:30     SC Freiburg v FSV Mainz 05  1-1 (1-1)   @ Europa-Park Stadion › Freiburg im Breisgau
+▪ Regular Season - 31
   Fri Apr 26
-    20.30     Vfl Bochum v 1899 Hoffenheim  3-2 (2-0)   @ Vonovia Ruhrstadion › Bochum
+    20:30     Vfl Bochum v 1899 Hoffenheim  3-2 (2-0)   @ Vonovia Ruhrstadion › Bochum
   Sat Apr 27
-    15.30     SC Freiburg v VfL Wolfsburg  1-2 (1-0)   @ Europa-Park Stadion › Freiburg im Breisgau
+    15:30     SC Freiburg v VfL Wolfsburg  1-2 (1-0)   @ Europa-Park Stadion › Freiburg im Breisgau
               FC Augsburg v Werder Bremen  0-3 (0-0)   @ WWK Arena › Augsburg
               RB Leipzig v Borussia Dortmund  4-1 (2-1)   @ Leipzig Stadium › Leipzig
               Bayern Munich v Eintracht Frankfurt  2-1 (1-1)   @ Fußball Arena München › München
-    18.30     Bayer Leverkusen v VfB Stuttgart  2-2 (0-0)   @ BayArena › Leverkusen
+    18:30     Bayer Leverkusen v VfB Stuttgart  2-2 (0-0)   @ BayArena › Leverkusen
   Sun Apr 28
-    15.30     Borussia Monchengladbach v Union Berlin  0-0 (0-0)   @ BORUSSIA-PARK › Mönchengladbach
-    17.30     FSV Mainz 05 v 1.FC Köln  1-1 (1-0)   @ MEWA ARENA › Mainz
-    19.30     SV Darmstadt 98 v FC Heidenheim  0-1 (0-0)   @ Merck-Stadion am Böllenfalltor › Darmstadt
-» Regular Season - 32
+    15:30     Borussia Monchengladbach v Union Berlin  0-0 (0-0)   @ BORUSSIA-PARK › Mönchengladbach
+    17:30     FSV Mainz 05 v 1.FC Köln  1-1 (1-0)   @ MEWA ARENA › Mainz
+    19:30     SV Darmstadt 98 v FC Heidenheim  0-1 (0-0)   @ Merck-Stadion am Böllenfalltor › Darmstadt
+▪ Regular Season - 32
   Fri May 3
-    20.30     1899 Hoffenheim v RB Leipzig  1-1 (0-1)   @ PreZero Arena › Sinsheim
+    20:30     1899 Hoffenheim v RB Leipzig  1-1 (0-1)   @ PreZero Arena › Sinsheim
   Sat May 4
-    15.30     VfL Wolfsburg v SV Darmstadt 98  3-0 (2-0)   @ Volkswagen Arena › Wolfsburg
+    15:30     VfL Wolfsburg v SV Darmstadt 98  3-0 (2-0)   @ Volkswagen Arena › Wolfsburg
               Werder Bremen v Borussia Monchengladbach  2-2 (1-1)   @ wohninvest WESERSTADION › Bremen
               Borussia Dortmund v FC Augsburg  5-1 (4-1)   @ BVB Stadion Dortmund › Dortmund
               VfB Stuttgart v Bayern Munich  3-1 (1-1)   @ Stuttgart Arena › Stuttgart
-    18.30     1.FC Köln v SC Freiburg  0-0 (0-0)   @ Cologne Stadium › Köln
+    18:30     1.FC Köln v SC Freiburg  0-0 (0-0)   @ Cologne Stadium › Köln
   Sun May 5
-    15.30     Union Berlin v Vfl Bochum  3-4 (0-3)   @ Stadion An der Alten Försterei › Berlin
-    17.30     Eintracht Frankfurt v Bayer Leverkusen  1-5 (1-2)   @ Frankfurt Arena › Frankfurt am Main
-    19.30     FC Heidenheim v FSV Mainz 05  1-1 (0-1)   @ Voith-Arena › Heidenheim an der Brenz
-» Regular Season - 33
+    15:30     Union Berlin v Vfl Bochum  3-4 (0-3)   @ Stadion An der Alten Försterei › Berlin
+    17:30     Eintracht Frankfurt v Bayer Leverkusen  1-5 (1-2)   @ Frankfurt Arena › Frankfurt am Main
+    19:30     FC Heidenheim v FSV Mainz 05  1-1 (0-1)   @ Voith-Arena › Heidenheim an der Brenz
+▪ Regular Season - 33
   Fri May 10
-    20.30     FC Augsburg v VfB Stuttgart  0-1 (0-0)   @ WWK Arena › Augsburg
+    20:30     FC Augsburg v VfB Stuttgart  0-1 (0-0)   @ WWK Arena › Augsburg
   Sat May 11
-    15.30     SC Freiburg v FC Heidenheim  1-1 (1-1)   @ Europa-Park Stadion › Freiburg im Breisgau
+    15:30     SC Freiburg v FC Heidenheim  1-1 (1-1)   @ Europa-Park Stadion › Freiburg im Breisgau
               Borussia Monchengladbach v Eintracht Frankfurt  1-1 (1-1)   @ BORUSSIA-PARK › Mönchengladbach
               RB Leipzig v Werder Bremen  1-1 (0-1)   @ Red Bull Arena › Leipzig
               1.FC Köln v Union Berlin  3-2 (1-2)   @ RheinEnergieSTADION › Köln
-    18.30     FSV Mainz 05 v Borussia Dortmund  3-0 (3-0)   @ MEWA ARENA › Mainz
+    18:30     FSV Mainz 05 v Borussia Dortmund  3-0 (3-0)   @ MEWA ARENA › Mainz
   Sun May 12
-    15.30     SV Darmstadt 98 v 1899 Hoffenheim  0-6 (0-5)   @ Merck-Stadion am Böllenfalltor › Darmstadt
-    17.30     Bayern Munich v VfL Wolfsburg  2-0 (2-0)   @ Allianz Arena › München
-    19.30     Vfl Bochum v Bayer Leverkusen  0-5 (0-2)   @ Vonovia Ruhrstadion › Bochum
-» Regular Season - 34
+    15:30     SV Darmstadt 98 v 1899 Hoffenheim  0-6 (0-5)   @ Merck-Stadion am Böllenfalltor › Darmstadt
+    17:30     Bayern Munich v VfL Wolfsburg  2-0 (2-0)   @ Allianz Arena › München
+    19:30     Vfl Bochum v Bayer Leverkusen  0-5 (0-2)   @ Vonovia Ruhrstadion › Bochum
+▪ Regular Season - 34
   Sat May 18
-    15.30     VfL Wolfsburg v FSV Mainz 05  1-3 (1-1)   @ Volkswagen Arena › Wolfsburg
+    15:30     VfL Wolfsburg v FSV Mainz 05  1-3 (1-1)   @ Volkswagen Arena › Wolfsburg
               Werder Bremen v Vfl Bochum  4-1 (1-0)   @ wohninvest WESERSTADION › Bremen
               Borussia Dortmund v SV Darmstadt 98  4-0 (2-0)   @ BVB Stadion Dortmund › Dortmund
               1899 Hoffenheim v Bayern Munich  4-2 (1-2)   @ PreZero Arena › Sinsheim
@@ -447,8 +447,8 @@
               VfB Stuttgart v Borussia Monchengladbach  4-0 (2-0)   @ Stuttgart Arena › Stuttgart
               FC Heidenheim v 1.FC Köln  4-1 (3-0)   @ Voith-Arena › Heidenheim an der Brenz
               Union Berlin v SC Freiburg  2-1 (0-0)   @ Stadion An der Alten Försterei › Berlin
-» Relegation Round
+▪ Relegation Round
   Thu May 23
-    20.30     Vfl Bochum v Fortuna Dusseldorf  0-3 (0-1)   @ Vonovia Ruhrstadion › Bochum
+    20:30     Vfl Bochum v Fortuna Dusseldorf  0-3 (0-1)   @ Vonovia Ruhrstadion › Bochum
   Mon May 27
-    20.30     Fortuna Dusseldorf v Vfl Bochum  5-6 pen (0-3, 0-3, 0-1)   @ Düsseldorf Arena › Düsseldorf
+    20:30     Fortuna Dusseldorf v Vfl Bochum  5-6 pen (0-3, 0-3, 0-1)   @ Düsseldorf Arena › Düsseldorf

@@ -1,16 +1,16 @@
 = England | Championship 2022/23
 
-  # Date       Fri Jul/29 2022 - Sat May/27 2023 (302d)
+  # Date       Fri Jul 29 2022 - Sat May 27 2023 (302d)
   # Teams      24
   # Matches    557
 
   # Note - All times in Europe/London
 
-» Regular Season - 1
+▪ Regular Season - 1
   Fri Jul 29 2022
-    20.00     Huddersfield v Burnley  0-1 (0-1)   @ John Smith's Stadium › Huddersfield, West Yorkshire
+    20:00     Huddersfield v Burnley  0-1 (0-1)   @ John Smith's Stadium › Huddersfield, West Yorkshire
   Sat Jul 30
-    15.00     Cardiff v Norwich  1-0 (0-0)   @ Cardiff City Stadium › Caerdydd
+    15:00     Cardiff v Norwich  1-0 (0-0)   @ Cardiff City Stadium › Caerdydd
               Millwall v Stoke City  2-0 (1-0)   @ The Den › London
               Wigan v Preston  0-0 (0-0)   @ DW Stadium › Wigan
               Hull City v Bristol City  2-1 (0-1)   @ The MKM Stadium › Hull
@@ -18,17 +18,17 @@
               Rotherham v Swansea  1-1 (1-1)   @ AESSEAL New York Stadium › Rotherham, South Yorkshire
               Blackpool v Reading  1-0 (1-0)   @ Bloomfield Road › Blackpool, Lancashire
               Luton v Birmingham  0-0 (0-0)   @ Kenilworth Road › Luton, Bedfordshire
-    17.30     Middlesbrough v West Brom  1-1 (1-0)   @ Riverside Stadium › Middlesbrough
+    17:30     Middlesbrough v West Brom  1-1 (1-0)   @ Riverside Stadium › Middlesbrough
   Sun Jul 31
-    12.00     Sunderland v Coventry  1-1 (1-0)   @ Stadium of Light › Sunderland
+    12:00     Sunderland v Coventry  1-1 (1-0)   @ Stadium of Light › Sunderland
   Mon Aug 1
-    20.00     Watford v Sheffield Utd  1-0 (0-0)   @ Vicarage Road › Watford
-» Regular Season - 2
+    20:00     Watford v Sheffield Utd  1-0 (0-0)   @ Vicarage Road › Watford
+▪ Regular Season - 2
   Fri Aug 5
-    19.45     Birmingham v Huddersfield  2-1 (2-0)   @ St Andrew's Stadium › Birmingham
+    19:45     Birmingham v Huddersfield  2-1 (2-0)   @ St Andrew's Stadium › Birmingham
   Sat Aug 6
-    12.30     Norwich v Wigan  1-1 (0-1)   @ Carrow Road › Norwich, Norfolk
-    15.00     Burnley v Luton  1-1 (0-1)   @ Turf Moor › Burnley
+    12:30     Norwich v Wigan  1-1 (0-1)   @ Carrow Road › Norwich, Norfolk
+    15:00     Burnley v Luton  1-1 (0-1)   @ Turf Moor › Burnley
               Reading v Cardiff  2-1 (1-1)   @ Select Car Leasing Stadium › Reading, Berkshire
               Bristol City v Sunderland  2-3 (1-1)   @ Ashton Gate › Bristol
               Preston v Hull City  0-0 (0-0)   @ Deepdale › Preston
@@ -37,13 +37,13 @@
               Stoke City v Blackpool  2-0 (1-0)   @ bet365 Stadium › Stoke-on-Trent, Staffordshire
               Swansea v Blackburn  0-3 (0-1)   @ Swansea.com Stadium › Swansea
   Mon Aug 8
-    20.00     West Brom v Watford  1-1 (1-1)   @ The Hawthorns › West Bromwich
-» Regular Season - 3
+    20:00     West Brom v Watford  1-1 (1-1)   @ The Hawthorns › West Bromwich
+▪ Regular Season - 3
   Fri Aug 12
-    20.00     Watford v Burnley  1-0 (1-0)   @ Vicarage Road › Watford
+    20:00     Watford v Burnley  1-0 (1-0)   @ Vicarage Road › Watford
   Sat Aug 13
-    12.30     Cardiff v Birmingham  1-0 (1-0)   @ Cardiff City Stadium › Caerdydd
-    15.00     Huddersfield v Stoke City  3-1 (1-0)   @ John Smith's Stadium › Huddersfield, West Yorkshire
+    12:30     Cardiff v Birmingham  1-0 (1-0)   @ Cardiff City Stadium › Caerdydd
+    15:00     Huddersfield v Stoke City  3-1 (1-0)   @ John Smith's Stadium › Huddersfield, West Yorkshire
               Millwall v Coventry  3-2 (1-2)   @ The Den › London
               Wigan v Bristol City  1-1 (0-1)   @ DW Stadium › Wigan
               Hull City v Norwich  2-1 (1-0)   @ The MKM Stadium › Hull
@@ -52,27 +52,27 @@
               Blackpool v Swansea  0-1 (0-0)   @ Bloomfield Road › Blackpool, Lancashire
               Luton v Preston  0-1 (0-1)   @ Kenilworth Road › Luton, Bedfordshire
   Sun Aug 14
-    14.00     Middlesbrough v Sheffield Utd  2-2 (1-1)   @ Riverside Stadium › Middlesbrough
-    15.00     Blackburn v West Brom  2-1 (1-0)   @ Ewood Park › Blackburn, Lancashire
-» Regular Season - 4
+    14:00     Middlesbrough v Sheffield Utd  2-2 (1-1)   @ Riverside Stadium › Middlesbrough
+    15:00     Blackburn v West Brom  2-1 (1-0)   @ Ewood Park › Blackburn, Lancashire
+▪ Regular Season - 4
   Tue Aug 16
-    19.45     Burnley v Hull City  1-1 (1-1)   @ Turf Moor › Burnley
+    19:45     Burnley v Hull City  1-1 (1-1)   @ Turf Moor › Burnley
               Birmingham v Watford  1-1 (1-0)   @ St Andrew's Stadium › Birmingham
               Bristol City v Luton  2-0 (2-0)   @ Ashton Gate › Bristol
               Preston v Rotherham  0-0 (0-0)   @ Deepdale › Preston
               Norwich v Huddersfield  2-1 (2-0)   @ Carrow Road › Norwich, Norfolk
               Swansea v Millwall  2-2 (2-0)   @ Swansea.com Stadium › Swansea
-    20.00     QPR v Blackpool  0-1 (0-1)   @ Loftus Road › London
+    20:00     QPR v Blackpool  0-1 (0-1)   @ Loftus Road › London
   Wed Aug 17
-    19.45     Stoke City v Middlesbrough  2-2 (1-1)   @ bet365 Stadium › Stoke-on-Trent, Staffordshire
-    20.00     West Brom v Cardiff  0-0 (0-0)   @ The Hawthorns › West Bromwich
+    19:45     Stoke City v Middlesbrough  2-2 (1-1)   @ bet365 Stadium › Stoke-on-Trent, Staffordshire
+    20:00     West Brom v Cardiff  0-0 (0-0)   @ The Hawthorns › West Bromwich
               Sheffield Utd v Sunderland  2-1 (1-0)   @ Bramall Lane › Sheffield
               Reading v Blackburn  3-0 (1-0)   @ Select Car Leasing Stadium › Reading, Berkshire
-» Regular Season - 5
+▪ Regular Season - 5
   Fri Aug 19
-    20.00     Norwich v Millwall  2-0 (0-0)   @ Carrow Road › Norwich, Norfolk
+    20:00     Norwich v Millwall  2-0 (0-0)   @ Carrow Road › Norwich, Norfolk
   Sat Aug 20
-    15.00     Burnley v Blackpool  3-3 (3-1)   @ Turf Moor › Burnley
+    15:00     Burnley v Blackpool  3-3 (3-1)   @ Turf Moor › Burnley
               Reading v Middlesbrough  1-0 (1-0)   @ Select Car Leasing Stadium › Reading, Berkshire
               Birmingham v Wigan  0-1 (0-0)   @ St Andrew's Stadium › Birmingham
               Preston v Watford  0-0 (0-0)   @ Deepdale › Preston
@@ -82,13 +82,13 @@
               Stoke City v Sunderland  0-1 (0-1)   @ bet365 Stadium › Stoke-on-Trent, Staffordshire
               Swansea v Luton  0-2 (0-1)   @ Swansea.com Stadium › Swansea
   Sun Aug 21
-    12.00     Bristol City v Cardiff  2-0 (1-0)   @ Ashton Gate › Bristol
-» Regular Season - 6
+    12:00     Bristol City v Cardiff  2-0 (1-0)   @ Ashton Gate › Bristol
+▪ Regular Season - 6
   Fri Aug 26
-    20.00     Luton v Sheffield Utd  1-1 (1-0)   @ Kenilworth Road › Luton, Bedfordshire
+    20:00     Luton v Sheffield Utd  1-1 (1-0)   @ Kenilworth Road › Luton, Bedfordshire
   Sat Aug 27
-    12.30     Sunderland v Norwich  0-1 (0-0)   @ Stadium of Light › Sunderland
-    15.00     Huddersfield v West Brom  2-2 (2-1)   @ John Smith's Stadium › Huddersfield, West Yorkshire
+    12:30     Sunderland v Norwich  0-1 (0-0)   @ Stadium of Light › Sunderland
+    15:00     Huddersfield v West Brom  2-2 (2-1)   @ John Smith's Stadium › Huddersfield, West Yorkshire
               Watford v QPR  2-3 (1-2)   @ Vicarage Road › Watford
               Cardiff v Preston  0-0 (0-0)   @ Cardiff City Stadium › Caerdydd
               Millwall v Reading  0-1 (0-1)   @ The Den › London
@@ -98,26 +98,26 @@
               Middlesbrough v Swansea  2-1 (2-0)   @ Riverside Stadium › Middlesbrough
               Rotherham v Birmingham  2-0 (1-0)   @ AESSEAL New York Stadium › Rotherham, South Yorkshire
               Blackpool v Bristol City  3-3 (1-1)   @ Bloomfield Road › Blackpool, Lancashire
-» Regular Season - 7
+▪ Regular Season - 7
   Tue Aug 30
-    19.45     Burnley v Millwall  2-0 (0-0)   @ Turf Moor › Burnley
+    19:45     Burnley v Millwall  2-0 (0-0)   @ Turf Moor › Burnley
               Birmingham v Norwich  1-2 (0-0)   @ St Andrew's Stadium › Birmingham
               Wigan v West Brom  1-1 (1-1)   @ DW Stadium › Wigan
               Sheffield Utd v Reading  4-0 (1-0)   @ Bramall Lane › Sheffield
               QPR v Hull City  3-1 (3-0)   @ Loftus Road › London
               Cardiff v Luton  1-2 (0-0)   @ Cardiff City Stadium › Caerdydd
-    20.00     Watford v Middlesbrough  2-1 (1-1)   @ Vicarage Road › Watford
+    20:00     Watford v Middlesbrough  2-1 (1-1)   @ Vicarage Road › Watford
   Wed Aug 31
-    19.45     Stoke City v Swansea  1-1 (0-1)   @ bet365 Stadium › Stoke-on-Trent, Staffordshire
+    19:45     Stoke City v Swansea  1-1 (0-1)   @ bet365 Stadium › Stoke-on-Trent, Staffordshire
               Sunderland v Rotherham  3-0 (0-0)   @ Stadium of Light › Sunderland
               Coventry v Preston  0-1 (0-0)   @ The Coventry Building Society Arena › Coventry, West Midlands
               Bristol City v Huddersfield  2-0 (1-0)   @ Ashton Gate › Bristol
-    20.00     Blackpool v Blackburn  0-1 (0-1)   @ Bloomfield Road › Blackpool, Lancashire
-» Regular Season - 8
+    20:00     Blackpool v Blackburn  0-1 (0-1)   @ Bloomfield Road › Blackpool, Lancashire
+▪ Regular Season - 8
   Fri Sep 2
-    20.00     West Brom v Burnley  1-1 (0-1)   @ The Hawthorns › West Bromwich
+    20:00     West Brom v Burnley  1-1 (0-1)   @ The Hawthorns › West Bromwich
   Sat Sep 3
-    15.00     Millwall v Cardiff  2-0 (0-0)   @ The Den › London
+    15:00     Millwall v Cardiff  2-0 (0-0)   @ The Den › London
               Preston v Birmingham  0-1 (0-1)   @ Deepdale › Preston
               Blackburn v Bristol City  2-3 (0-1)   @ Ewood Park › Blackburn, Lancashire
               Norwich v Coventry  3-0 (2-0)   @ Carrow Road › Norwich, Norfolk
@@ -125,30 +125,30 @@
               Swansea v QPR  1-0 (1-0)   @ Swansea.com Stadium › Swansea
               Luton v Wigan  1-2 (1-0)   @ Kenilworth Road › Luton, Bedfordshire
   Sun Sep 4
-    12.00     Reading v Stoke City  2-1 (1-1)   @ Select Car Leasing Stadium › Reading, Berkshire
-    15.00     Hull City v Sheffield Utd  0-2 (0-1)   @ The MKM Stadium › Hull
+    12:00     Reading v Stoke City  2-1 (1-1)   @ Select Car Leasing Stadium › Reading, Berkshire
+    15:00     Hull City v Sheffield Utd  0-2 (0-1)   @ The MKM Stadium › Hull
               Huddersfield v Blackpool  0-1 (0-1)   @ John Smith's Stadium › Huddersfield, West Yorkshire
   Mon Sep 5
-    20.00     Middlesbrough v Sunderland  1-0 (1-0)   @ Riverside Stadium › Middlesbrough
-» Regular Season - 10
+    20:00     Middlesbrough v Sunderland  1-0 (1-0)   @ Riverside Stadium › Middlesbrough
+▪ Regular Season - 10
   Tue Sep 13
-    19.45     Huddersfield v Wigan  1-2 (0-1)   @ John Smith's Stadium › Huddersfield, West Yorkshire
+    19:45     Huddersfield v Wigan  1-2 (0-1)   @ John Smith's Stadium › Huddersfield, West Yorkshire
               Hull City v Stoke City  0-3 (0-2)   @ The MKM Stadium › Hull
               Blackburn v Watford  2-0 (1-0)   @ Ewood Park › Blackburn, Lancashire
               Middlesbrough v Cardiff  2-3 (0-3)   @ Riverside Stadium › Middlesbrough
               Swansea v Sheffield Utd  0-1 (0-0)   @ Swansea.com Stadium › Swansea
-    20.00     Preston v Burnley  1-1 (1-1)   @ Deepdale › Preston
+    20:00     Preston v Burnley  1-1 (1-1)   @ Deepdale › Preston
   Wed Sep 14
-    19.45     Millwall v QPR  0-2 (0-0)   @ The Den › London
+    19:45     Millwall v QPR  0-2 (0-0)   @ The Den › London
               Norwich v Bristol City  3-2 (2-1)   @ Carrow Road › Norwich, Norfolk
               Rotherham v Blackpool  3-0 (1-0)   @ AESSEAL New York Stadium › Rotherham, South Yorkshire
               Luton v Coventry  2-2 (2-1)   @ Kenilworth Road › Luton, Bedfordshire
-    20.00     West Brom v Birmingham  2-3 (1-1)   @ The Hawthorns › West Bromwich
+    20:00     West Brom v Birmingham  2-3 (1-1)   @ The Hawthorns › West Bromwich
               Reading v Sunderland  0-3 (0-2)   @ Select Car Leasing Stadium › Reading, Berkshire
-» Regular Season - 11
+▪ Regular Season - 11
   Sat Sep 17
-    12.30     Swansea v Hull City  3-0 (0-0)   @ Swansea.com Stadium › Swansea
-    15.00     Huddersfield v Cardiff  1-0 (1-0)   @ John Smith's Stadium › Huddersfield, West Yorkshire
+    12:30     Swansea v Hull City  3-0 (0-0)   @ Swansea.com Stadium › Swansea
+    15:00     Huddersfield v Cardiff  1-0 (1-0)   @ John Smith's Stadium › Huddersfield, West Yorkshire
               Watford v Sunderland  2-2 (1-1)   @ Vicarage Road › Watford
               Burnley v Bristol City  2-1 (1-1)   @ Turf Moor › Burnley
               Birmingham v Coventry  0-0 (0-0)   @ St Andrew's Stadium › Birmingham
@@ -158,12 +158,12 @@
               Norwich v West Brom  1-1 (0-1)   @ Carrow Road › Norwich, Norfolk
               QPR v Stoke City  0-0 (0-0)   @ Loftus Road › London
               Luton v Blackburn  2-0 (0-0)   @ Kenilworth Road › Luton, Bedfordshire
-    19.45     Middlesbrough v Rotherham  0-0 (0-0)   @ Riverside Stadium › Middlesbrough
-» Regular Season - 12
+    19:45     Middlesbrough v Rotherham  0-0 (0-0)   @ Riverside Stadium › Middlesbrough
+▪ Regular Season - 12
   Fri Sep 30
-    20.00     Hull City v Luton  0-2 (0-2)   @ The MKM Stadium › Hull
+    20:00     Hull City v Luton  0-2 (0-2)   @ The MKM Stadium › Hull
   Sat Oct 1
-    15.00     Cardiff v Burnley  1-1 (0-0)   @ Cardiff City Stadium › Caerdydd
+    15:00     Cardiff v Burnley  1-1 (0-0)   @ Cardiff City Stadium › Caerdydd
               Reading v Huddersfield  3-1 (2-0)   @ Select Car Leasing Stadium › Reading, Berkshire
               Bristol City v QPR  1-2 (0-2)   @ Ashton Gate › Bristol
               West Brom v Swansea  2-3 (0-1)   @ The Hawthorns › West Bromwich
@@ -174,27 +174,27 @@
               Coventry v Middlesbrough  1-0 (1-0)   @ The Coventry Building Society Arena › Coventry, West Midlands
               Blackpool v Norwich  0-1 (0-1)   @ Bloomfield Road › Blackpool, Lancashire
   Sun Oct 2
-    12.00     Stoke City v Watford  0-4 (0-1)   @ bet365 Stadium › Stoke-on-Trent, Staffordshire
-» Regular Season - 13
+    12:00     Stoke City v Watford  0-4 (0-1)   @ bet365 Stadium › Stoke-on-Trent, Staffordshire
+▪ Regular Season - 13
   Tue Oct 4
-    19.45     Sheffield Utd v QPR  0-1 (0-0)   @ Bramall Lane › Sheffield
+    19:45     Sheffield Utd v QPR  0-1 (0-0)   @ Bramall Lane › Sheffield
               Sunderland v Blackpool  0-0 (0-0)   @ Stadium of Light › Sunderland
               Luton v Huddersfield  3-3 (3-2)   @ Kenilworth Road › Luton, Bedfordshire
               Bristol City v Coventry  0-0 (0-0)   @ Ashton Gate › Bristol
-    20.00     Reading v Norwich  1-1 (0-0)   @ Select Car Leasing Stadium › Reading, Berkshire
+    20:00     Reading v Norwich  1-1 (0-0)   @ Select Car Leasing Stadium › Reading, Berkshire
               Cardiff v Blackburn  1-0 (0-0)   @ Cardiff City Stadium › Caerdydd
   Wed Oct 5
-    19.45     Watford v Swansea  1-2 (1-0)   @ Vicarage Road › Watford
+    19:45     Watford v Swansea  1-2 (1-0)   @ Vicarage Road › Watford
               Burnley v Stoke City  1-1 (0-0)   @ Turf Moor › Burnley
               Hull City v Wigan  2-1 (1-1)   @ The MKM Stadium › Hull
               Middlesbrough v Birmingham  1-0 (1-0)   @ Riverside Stadium › Middlesbrough
               Rotherham v Millwall  1-1 (1-1)   @ AESSEAL New York Stadium › Rotherham, South Yorkshire
-    20.00     Preston v West Brom  1-0 (1-0)   @ Deepdale › Preston
-» Regular Season - 14
+    20:00     Preston v West Brom  1-0 (1-0)   @ Deepdale › Preston
+▪ Regular Season - 14
   Fri Oct 7
-    20.00     QPR v Reading  2-1 (1-1)   @ Loftus Road › London
+    20:00     QPR v Reading  2-1 (1-1)   @ Loftus Road › London
   Sat Oct 8
-    15.00     Birmingham v Bristol City  3-0 (2-0)   @ St Andrew's Stadium › Birmingham
+    15:00     Birmingham v Bristol City  3-0 (2-0)   @ St Andrew's Stadium › Birmingham
               Millwall v Middlesbrough  2-0 (1-0)   @ The Den › London
               West Brom v Luton  0-0 (0-0)   @ The Hawthorns › West Bromwich
               Wigan v Cardiff  1-3 (0-1)   @ DW Stadium › Wigan
@@ -205,17 +205,17 @@
               Coventry v Burnley  0-1 (0-1)   @ The Coventry Building Society Arena › Coventry, West Midlands
               Blackpool v Watford  3-1 (1-1)   @ Bloomfield Road › Blackpool, Lancashire
   Sun Oct 9
-    12.00     Huddersfield v Hull City  2-0 (1-0)   @ John Smith's Stadium › Huddersfield, West Yorkshire
-» Regular Season - 9
+    12:00     Huddersfield v Hull City  2-0 (1-0)   @ John Smith's Stadium › Huddersfield, West Yorkshire
+▪ Regular Season - 9
   Tue Oct 11
-    19.45     Wigan v Blackburn  1-0 (0-0)   @ DW Stadium › Wigan
+    19:45     Wigan v Blackburn  1-0 (0-0)   @ DW Stadium › Wigan
   Wed Oct 12
-    19.45     Bristol City v Preston  2-1 (0-0)   @ Ashton Gate › Bristol
-» Regular Season - 15
+    19:45     Bristol City v Preston  2-1 (0-0)   @ Ashton Gate › Bristol
+▪ Regular Season - 15
   Sat Oct 15
-    12.30     Rotherham v Huddersfield  2-1 (1-1)   @ AESSEAL New York Stadium › Rotherham, South Yorkshire
+    12:30     Rotherham v Huddersfield  2-1 (1-1)   @ AESSEAL New York Stadium › Rotherham, South Yorkshire
               Luton v QPR  3-1 (1-0)   @ Kenilworth Road › Luton, Bedfordshire
-    15.00     Cardiff v Coventry  0-1 (0-1)   @ Cardiff City Stadium › Caerdydd
+    15:00     Cardiff v Coventry  0-1 (0-1)   @ Cardiff City Stadium › Caerdydd
               Burnley v Swansea  4-0 (3-0)   @ Turf Moor › Burnley
               Reading v West Brom  0-2 (0-1)   @ Select Car Leasing Stadium › Reading, Berkshire
               Bristol City v Millwall  1-2 (0-1)   @ Ashton Gate › Bristol
@@ -223,28 +223,28 @@
               Sheffield Utd v Blackpool  3-3 (2-2)   @ Bramall Lane › Sheffield
               Middlesbrough v Blackburn  1-2 (1-2)   @ Riverside Stadium › Middlesbrough
               Sunderland v Wigan  2-1 (0-1)   @ Stadium of Light › Sunderland
-    19.45     Watford v Norwich  2-1 (2-1)   @ Vicarage Road › Watford
+    19:45     Watford v Norwich  2-1 (2-1)   @ Vicarage Road › Watford
   Sun Oct 16
-    15.00     Hull City v Birmingham  0-2 (0-1)   @ The MKM Stadium › Hull
-» Regular Season - 16
+    15:00     Hull City v Birmingham  0-2 (0-1)   @ The MKM Stadium › Hull
+▪ Regular Season - 16
   Tue Oct 18
-    19.45     Norwich v Luton  0-1 (0-0)   @ Carrow Road › Norwich, Norfolk
+    19:45     Norwich v Luton  0-1 (0-0)   @ Carrow Road › Norwich, Norfolk
               Swansea v Reading  3-2 (1-2)   @ Swansea.com Stadium › Swansea
               Huddersfield v Preston  0-1 (0-0)   @ John Smith's Stadium › Huddersfield, West Yorkshire
-    20.00     West Brom v Bristol City  0-2 (0-2)   @ The Hawthorns › West Bromwich
+    20:00     West Brom v Bristol City  0-2 (0-2)   @ The Hawthorns › West Bromwich
               Blackburn v Sunderland  2-0 (1-0)   @ Ewood Park › Blackburn, Lancashire
               Stoke City v Rotherham  0-1 (0-1)   @ bet365 Stadium › Stoke-on-Trent, Staffordshire
   Wed Oct 19
-    19.45     Wigan v Middlesbrough  1-4 (1-1)   @ DW Stadium › Wigan
+    19:45     Wigan v Middlesbrough  1-4 (1-1)   @ DW Stadium › Wigan
               QPR v Cardiff  3-0 (2-0)   @ Loftus Road › London
               Coventry v Sheffield Utd  1-0 (0-0)   @ The Coventry Building Society Arena › Coventry, West Midlands
               Blackpool v Hull City  1-3 (1-2)   @ Bloomfield Road › Blackpool, Lancashire
               Birmingham v Burnley  1-1 (0-0)   @ St Andrew's Stadium › Birmingham
-    20.00     Millwall v Watford  3-0 (3-0)   @ The Den › London
-» Regular Season - 17
+    20:00     Millwall v Watford  3-0 (3-0)   @ The Den › London
+▪ Regular Season - 17
   Sat Oct 22
-    12.30     Blackpool v Preston  4-2 (1-1)   @ Bloomfield Road › Blackpool, Lancashire
-    15.00     Reading v Bristol City  2-0 (0-0)   @ Select Car Leasing Stadium › Reading, Berkshire
+    12:30     Blackpool v Preston  4-2 (1-1)   @ Bloomfield Road › Blackpool, Lancashire
+    15:00     Reading v Bristol City  2-0 (0-0)   @ Select Car Leasing Stadium › Reading, Berkshire
               Millwall v West Brom  2-1 (1-1)   @ The Den › London
               Sheffield Utd v Norwich  2-2 (0-2)   @ Bramall Lane › Sheffield
               Blackburn v Birmingham  2-1 (2-0)   @ Ewood Park › Blackburn, Lancashire
@@ -254,21 +254,21 @@
               Stoke City v Coventry  0-2 (0-0)   @ bet365 Stadium › Stoke-on-Trent, Staffordshire
               Sunderland v Burnley  2-4 (2-0)   @ Stadium of Light › Sunderland
   Sun Oct 23
-    12.00     Watford v Luton  4-0 (2-0)   @ Vicarage Road › Watford
+    12:00     Watford v Luton  4-0 (2-0)   @ Vicarage Road › Watford
               Swansea v Cardiff  2-0 (1-0)   @ Swansea.com Stadium › Swansea
-» Regular Season - 2
+▪ Regular Season - 2
   Tue Oct 25
-    19.45     Coventry v Rotherham  2-2 (0-1)   @ The Coventry Building Society Arena › Coventry, West Midlands
-» Regular Season - 9
+    19:45     Coventry v Rotherham  2-2 (0-1)   @ The Coventry Building Society Arena › Coventry, West Midlands
+▪ Regular Season - 9
   Tue Oct 25
-    20.00     Burnley v Norwich  1-0 (0-0)   @ Turf Moor › Burnley
-» Regular Season - 18
+    20:00     Burnley v Norwich  1-0 (0-0)   @ Turf Moor › Burnley
+▪ Regular Season - 18
   Fri Oct 28
-    20.00     Birmingham v QPR  2-0 (2-0)   @ St Andrew's Stadium › Birmingham
+    20:00     Birmingham v QPR  2-0 (2-0)   @ St Andrew's Stadium › Birmingham
   Sat Oct 29
-    12.00     Bristol City v Swansea  1-1 (1-0)   @ Ashton Gate › Bristol
-    12.30     West Brom v Sheffield Utd  0-2 (0-2)   @ The Hawthorns › West Bromwich
-    15.00     Huddersfield v Millwall  1-0 (1-0)   @ John Smith's Stadium › Huddersfield, West Yorkshire
+    12:00     Bristol City v Swansea  1-1 (1-0)   @ Ashton Gate › Bristol
+    12:30     West Brom v Sheffield Utd  0-2 (0-2)   @ The Hawthorns › West Bromwich
+    15:00     Huddersfield v Millwall  1-0 (1-0)   @ John Smith's Stadium › Huddersfield, West Yorkshire
               Cardiff v Rotherham  1-0 (0-0)   @ Cardiff City Stadium › Caerdydd
               Burnley v Reading  2-1 (0-0)   @ Turf Moor › Burnley
               Preston v Middlesbrough  2-1 (1-1)   @ Deepdale › Preston
@@ -277,27 +277,27 @@
               Norwich v Stoke City  3-1 (1-0)   @ Carrow Road › Norwich, Norfolk
               Coventry v Blackpool  1-2 (1-0)   @ The Coventry Building Society Arena › Coventry, West Midlands
               Luton v Sunderland  1-1 (1-0)   @ Kenilworth Road › Luton, Bedfordshire
-» Regular Season - 19
+▪ Regular Season - 19
   Tue Nov 1
-    19.45     Preston v Swansea  1-0 (1-0)   @ Deepdale › Preston
+    19:45     Preston v Swansea  1-0 (1-0)   @ Deepdale › Preston
               Hull City v Middlesbrough  1-3 (0-1)   @ The MKM Stadium › Hull
               Coventry v Blackburn  1-0 (1-0)   @ The Coventry Building Society Arena › Coventry, West Midlands
               Luton v Reading  0-0 (0-0)   @ Kenilworth Road › Luton, Bedfordshire
-    20.00     West Brom v Blackpool  1-0 (0-0)   @ The Hawthorns › West Bromwich
+    20:00     West Brom v Blackpool  1-0 (0-0)   @ The Hawthorns › West Bromwich
               Bristol City v Sheffield Utd  0-1 (0-0)   @ Ashton Gate › Bristol
   Wed Nov 2
-    19.45     Huddersfield v Sunderland  0-2 (0-0)   @ John Smith's Stadium › Huddersfield, West Yorkshire
+    19:45     Huddersfield v Sunderland  0-2 (0-0)   @ John Smith's Stadium › Huddersfield, West Yorkshire
               Cardiff v Watford  1-2 (1-1)   @ Cardiff City Stadium › Caerdydd
               Burnley v Rotherham  3-2 (1-1)   @ Turf Moor › Burnley
               Birmingham v Millwall  0-0 (0-0)   @ St Andrew's Stadium › Birmingham
               Wigan v Stoke City  0-1 (0-0)   @ DW Stadium › Wigan
               Norwich v QPR  0-0 (0-0)   @ Carrow Road › Norwich, Norfolk
-» Regular Season - 20
+▪ Regular Season - 20
   Fri Nov 4
-    20.00     Reading v Preston  1-2 (0-0)   @ Select Car Leasing Stadium › Reading, Berkshire
+    20:00     Reading v Preston  1-2 (0-0)   @ Select Car Leasing Stadium › Reading, Berkshire
   Sat Nov 5
-    12.30     Sheffield Utd v Burnley  5-2 (1-2)   @ Bramall Lane › Sheffield
-    15.00     Watford v Coventry  0-1 (0-0)   @ Vicarage Road › Watford
+    12:30     Sheffield Utd v Burnley  5-2 (1-2)   @ Bramall Lane › Sheffield
+    15:00     Watford v Coventry  0-1 (0-0)   @ Vicarage Road › Watford
               Millwall v Hull City  0-0 (0-0)   @ The Den › London
               Blackburn v Huddersfield  1-0 (1-0)   @ Ewood Park › Blackburn, Lancashire
               Middlesbrough v Bristol City  1-1 (0-1)   @ Riverside Stadium › Middlesbrough
@@ -307,23 +307,23 @@
               Swansea v Wigan  2-2 (1-2)   @ Swansea.com Stadium › Swansea
               Sunderland v Cardiff  0-1 (0-0)   @ Stadium of Light › Sunderland
               Blackpool v Luton  0-1 (0-0)   @ Bloomfield Road › Blackpool, Lancashire
-» Regular Season - 4
+▪ Regular Season - 4
   Tue Nov 8
-    19.45     Coventry v Wigan  2-0 (0-0)   @ The Coventry Building Society Arena › Coventry, West Midlands
-» Regular Season - 9
+    19:45     Coventry v Wigan  2-0 (0-0)   @ The Coventry Building Society Arena › Coventry, West Midlands
+▪ Regular Season - 9
   Tue Nov 8
-    19.45     Sheffield Utd v Rotherham  0-1 (0-1)   @ Bramall Lane › Sheffield
+    19:45     Sheffield Utd v Rotherham  0-1 (0-1)   @ Bramall Lane › Sheffield
               QPR v Huddersfield  1-2 (1-2)   @ Loftus Road › London
               Stoke City v Luton  2-0 (2-0)   @ bet365 Stadium › Stoke-on-Trent, Staffordshire
               Birmingham v Swansea  2-2 (1-2)   @ St Andrew's Stadium › Birmingham
               Cardiff v Hull City  2-3 (0-1)   @ Cardiff City Stadium › Caerdydd
               Blackpool v Middlesbrough  0-3 (0-1)   @ Bloomfield Road › Blackpool, Lancashire
-    20.00     Watford v Reading  2-0 (1-0)   @ Vicarage Road › Watford
-» Regular Season - 21
+    20:00     Watford v Reading  2-0 (1-0)   @ Vicarage Road › Watford
+▪ Regular Season - 21
   Fri Nov 11
-    20.00     Birmingham v Sunderland  1-2 (0-1)   @ St Andrew's Stadium › Birmingham
+    20:00     Birmingham v Sunderland  1-2 (0-1)   @ St Andrew's Stadium › Birmingham
   Sat Nov 12
-    15.00     Huddersfield v Swansea  0-0 (0-0)   @ John Smith's Stadium › Huddersfield, West Yorkshire
+    15:00     Huddersfield v Swansea  0-0 (0-0)   @ John Smith's Stadium › Huddersfield, West Yorkshire
               Cardiff v Sheffield Utd  0-1 (0-0)   @ Cardiff City Stadium › Caerdydd
               Bristol City v Watford  0-0 (0-0)   @ Ashton Gate › Bristol
               Preston v Millwall  2-4 (2-2)   @ Deepdale › Preston
@@ -334,31 +334,31 @@
               Coventry v QPR  2-0 (1-0)   @ The Coventry Building Society Arena › Coventry, West Midlands
               Luton v Rotherham  1-1 (0-1)   @ Kenilworth Road › Luton, Bedfordshire
   Sun Nov 13
-    12.30     Burnley v Blackburn  3-0 (0-0)   @ Turf Moor › Burnley
-» Regular Season - 9
+    12:30     Burnley v Blackburn  3-0 (0-0)   @ Turf Moor › Burnley
+▪ Regular Season - 9
   Sat Dec 3
-    12.30     Sunderland v Millwall  3-0 (0-0)   @ Stadium of Light › Sunderland
-» Regular Season - 22
+    12:30     Sunderland v Millwall  3-0 (0-0)   @ Stadium of Light › Sunderland
+▪ Regular Season - 22
   Sat Dec 10
-    12.00     Blackburn v Preston  1-4 (0-1)   @ Ewood Park › Blackburn, Lancashire
-    12.30     Rotherham v Bristol City  1-3 (1-2)   @ AESSEAL New York Stadium › Rotherham, South Yorkshire
-    14.00     Reading v Coventry  1-0 (0-0)   @ Select Car Leasing Stadium › Reading, Berkshire
-    15.00     Millwall v Wigan  1-1 (1-1)   @ The Den › London
+    12:00     Blackburn v Preston  1-4 (0-1)   @ Ewood Park › Blackburn, Lancashire
+    12:30     Rotherham v Bristol City  1-3 (1-2)   @ AESSEAL New York Stadium › Rotherham, South Yorkshire
+    14:00     Reading v Coventry  1-0 (0-0)   @ Select Car Leasing Stadium › Reading, Berkshire
+    15:00     Millwall v Wigan  1-1 (1-1)   @ The Den › London
               Sheffield Utd v Huddersfield  1-0 (1-0)   @ Bramall Lane › Sheffield
               Middlesbrough v Luton  2-1 (1-1)   @ Riverside Stadium › Middlesbrough
               Stoke City v Cardiff  2-2 (2-1)   @ bet365 Stadium › Stoke-on-Trent, Staffordshire
               Swansea v Norwich  0-1 (0-1)   @ Swansea.com Stadium › Swansea
               Blackpool v Birmingham  0-0 (0-0)   @ Bloomfield Road › Blackpool, Lancashire
   Sun Dec 11
-    13.00     QPR v Burnley  0-3 (0-2)   @ Loftus Road › London
-    15.00     Watford v Hull City  0-0 (0-0)   @ Vicarage Road › Watford
+    13:00     QPR v Burnley  0-3 (0-2)   @ Loftus Road › London
+    15:00     Watford v Hull City  0-0 (0-0)   @ Vicarage Road › Watford
   Mon Dec 12
-    20.00     Sunderland v West Brom  1-2 (1-0)   @ Stadium of Light › Sunderland
-» Regular Season - 23
+    20:00     Sunderland v West Brom  1-2 (1-0)   @ Stadium of Light › Sunderland
+▪ Regular Season - 23
   Fri Dec 16
-    20.00     Birmingham v Reading  3-2 (3-0)   @ St Andrew's Stadium › Birmingham
+    20:00     Birmingham v Reading  3-2 (3-0)   @ St Andrew's Stadium › Birmingham
   Sat Dec 17
-    15.00     Huddersfield v Watford  0-2 (0-0)   @ John Smith's Stadium › Huddersfield, West Yorkshire
+    15:00     Huddersfield v Watford  0-2 (0-0)   @ John Smith's Stadium › Huddersfield, West Yorkshire
               Cardiff v Blackpool  1-1 (1-0)   @ Cardiff City Stadium › Caerdydd
               Burnley v Middlesbrough  3-1 (0-0)   @ Turf Moor › Burnley
               Bristol City v Stoke City  1-2 (1-1)   @ Ashton Gate › Bristol
@@ -366,62 +366,62 @@
               West Brom v Rotherham  3-0 (1-0)   @ The Hawthorns › West Bromwich
               Hull City v Sunderland  1-1 (0-0)   @ The MKM Stadium › Hull
               Coventry v Swansea  3-3 (1-0)   @ The Coventry Building Society Arena › Coventry, West Midlands
-    17.30     Norwich v Blackburn  0-2 (0-1)   @ Carrow Road › Norwich, Norfolk
+    17:30     Norwich v Blackburn  0-2 (0-1)   @ Carrow Road › Norwich, Norfolk
   Mon Dec 19
-    20.00     Wigan v Sheffield Utd  1-2 (0-1)   @ DW Stadium › Wigan
-» Regular Season - 9
+    20:00     Wigan v Sheffield Utd  1-2 (0-1)   @ DW Stadium › Wigan
+▪ Regular Season - 9
   Wed Dec 21
-    19.45     Coventry v West Brom  1-0 (0-0)   @ The Coventry Building Society Arena › Coventry, West Midlands
-» Regular Season - 24
+    19:45     Coventry v West Brom  1-0 (0-0)   @ The Coventry Building Society Arena › Coventry, West Midlands
+▪ Regular Season - 24
   Mon Dec 26
-    12.00     Watford v Millwall  0-2 (0-1)   @ Vicarage Road › Watford
-    12.30     Sunderland v Blackburn  2-1 (1-1)   @ Stadium of Light › Sunderland
-    15.00     Bristol City v West Brom  0-2 (0-1)   @ Ashton Gate › Bristol
+    12:00     Watford v Millwall  0-2 (0-1)   @ Vicarage Road › Watford
+    12:30     Sunderland v Blackburn  2-1 (1-1)   @ Stadium of Light › Sunderland
+    15:00     Bristol City v West Brom  0-2 (0-1)   @ Ashton Gate › Bristol
               Preston v Huddersfield  1-2 (1-0)   @ Deepdale › Preston
               Sheffield Utd v Coventry  3-1 (1-0)   @ Bramall Lane › Sheffield
               Hull City v Blackpool  1-1 (0-1)   @ The MKM Stadium › Hull
               Middlesbrough v Wigan  4-1 (1-0)   @ Riverside Stadium › Middlesbrough
               Rotherham v Stoke City  2-2 (1-0)   @ AESSEAL New York Stadium › Rotherham, South Yorkshire
-    17.15     Cardiff v QPR  0-0 (0-0)   @ Cardiff City Stadium › Caerdydd
-    19.45     Luton v Norwich  2-1 (0-0)   @ Kenilworth Road › Luton, Bedfordshire
+    17:15     Cardiff v QPR  0-0 (0-0)   @ Cardiff City Stadium › Caerdydd
+    19:45     Luton v Norwich  2-1 (0-0)   @ Kenilworth Road › Luton, Bedfordshire
   Tue Dec 27
-    17.15     Reading v Swansea  2-1 (1-0)   @ Select Car Leasing Stadium › Reading, Berkshire
-    20.00     Burnley v Birmingham  3-0 (2-0)   @ Turf Moor › Burnley
-» Regular Season - 25
+    17:15     Reading v Swansea  2-1 (1-0)   @ Select Car Leasing Stadium › Reading, Berkshire
+    20:00     Burnley v Birmingham  3-0 (2-0)   @ Turf Moor › Burnley
+▪ Regular Season - 25
   Thu Dec 29
-    18.00     QPR v Luton  0-3 (0-1)   @ Loftus Road › London
-    19.45     Huddersfield v Rotherham  2-0 (1-0)   @ John Smith's Stadium › Huddersfield, West Yorkshire
+    18:00     QPR v Luton  0-3 (0-1)   @ Loftus Road › London
+    19:45     Huddersfield v Rotherham  2-0 (1-0)   @ John Smith's Stadium › Huddersfield, West Yorkshire
               Millwall v Bristol City  0-0 (0-0)   @ The Den › London
               Wigan v Sunderland  1-4 (1-1)   @ DW Stadium › Wigan
               Blackburn v Middlesbrough  1-2 (1-0)   @ Ewood Park › Blackburn, Lancashire
               Coventry v Cardiff  0-0 (0-0)   @ The Coventry Building Society Arena › Coventry, West Midlands
-    20.00     West Brom v Preston  2-0 (1-0)   @ The Hawthorns › West Bromwich
-    20.15     Blackpool v Sheffield Utd  1-2 (0-1)   @ Bloomfield Road › Blackpool, Lancashire
+    20:00     West Brom v Preston  2-0 (1-0)   @ The Hawthorns › West Bromwich
+    20:15     Blackpool v Sheffield Utd  1-2 (0-1)   @ Bloomfield Road › Blackpool, Lancashire
   Fri Dec 30
-    19.45     Birmingham v Hull City  0-1 (0-0)   @ St Andrew's Stadium › Birmingham
+    19:45     Birmingham v Hull City  0-1 (0-0)   @ St Andrew's Stadium › Birmingham
               Norwich v Reading  1-1 (0-0)   @ Carrow Road › Norwich, Norfolk
               Stoke City v Burnley  0-1 (0-0)   @ bet365 Stadium › Stoke-on-Trent, Staffordshire
               Swansea v Watford  4-0 (1-0)   @ Swansea.com Stadium › Swansea
-» Regular Season - 26
+▪ Regular Season - 26
   Sun Jan 1 2023
-    12.00     Blackburn v Cardiff  1-0 (0-0)   @ Ewood Park › Blackburn, Lancashire
+    12:00     Blackburn v Cardiff  1-0 (0-0)   @ Ewood Park › Blackburn, Lancashire
   Sun Jan 1
-    15.00     Millwall v Rotherham  3-0 (1-0)   @ The Den › London
+    15:00     Millwall v Rotherham  3-0 (1-0)   @ The Den › London
               Coventry v Bristol City  1-1 (1-1)   @ The Coventry Building Society Arena › Coventry, West Midlands
               Blackpool v Sunderland  1-1 (1-0)   @ Bloomfield Road › Blackpool, Lancashire
               Huddersfield v Luton  1-2 (1-1)   @ John Smith's Stadium › Huddersfield, West Yorkshire
   Mon Jan 2
-    15.00     Birmingham v Middlesbrough  1-3 (0-0)   @ St Andrew's Stadium › Birmingham
+    15:00     Birmingham v Middlesbrough  1-3 (0-0)   @ St Andrew's Stadium › Birmingham
               West Brom v Reading  1-0 (0-0)   @ The Hawthorns › West Bromwich
               Wigan v Hull City  1-4 (0-1)   @ DW Stadium › Wigan
               Norwich v Watford  0-1 (0-0)   @ Carrow Road › Norwich, Norfolk
               Stoke City v Preston  0-1 (0-0)   @ bet365 Stadium › Stoke-on-Trent, Staffordshire
               Swansea v Burnley  1-2 (1-2)   @ Swansea.com Stadium › Swansea
-    20.00     QPR v Sheffield Utd  1-1 (1-0)   @ Loftus Road › London
-» Regular Season - 27
+    20:00     QPR v Sheffield Utd  1-1 (1-0)   @ Loftus Road › London
+▪ Regular Season - 27
   Sat Jan 14
-    12.30     Rotherham v Blackburn  4-0 (1-0)   @ AESSEAL New York Stadium › Rotherham, South Yorkshire
-    15.00     Watford v Blackpool  2-0 (0-0)   @ Vicarage Road › Watford
+    12:30     Rotherham v Blackburn  4-0 (1-0)   @ AESSEAL New York Stadium › Rotherham, South Yorkshire
+    15:00     Watford v Blackpool  2-0 (0-0)   @ Vicarage Road › Watford
               Cardiff v Wigan  1-1 (0-0)   @ Cardiff City Stadium › Caerdydd
               Burnley v Coventry  1-0 (0-0)   @ Turf Moor › Burnley
               Reading v QPR  2-2 (2-0)   @ Select Car Leasing Stadium › Reading, Berkshire
@@ -432,13 +432,13 @@
               Middlesbrough v Millwall  1-0 (0-0)   @ Riverside Stadium › Middlesbrough
               Sunderland v Swansea  1-3 (0-0)   @ Stadium of Light › Sunderland
               Luton v West Brom  2-3 (2-1)   @ Kenilworth Road › Luton, Bedfordshire
-» Regular Season - 28
+▪ Regular Season - 28
   Fri Jan 20
-    19.45     Sheffield Utd v Hull City  1-0 (1-0)   @ Bramall Lane › Sheffield
-    20.00     Burnley v West Brom  2-1 (0-1)   @ Turf Moor › Burnley
+    19:45     Sheffield Utd v Hull City  1-0 (1-0)   @ Bramall Lane › Sheffield
+    20:00     Burnley v West Brom  2-1 (0-1)   @ Turf Moor › Burnley
   Sat Jan 21
-    12.30     Coventry v Norwich  2-4 (2-3)   @ The Coventry Building Society Arena › Coventry, West Midlands
-    15.00     Watford v Rotherham  1-1 (0-1)   @ Vicarage Road › Watford
+    12:30     Coventry v Norwich  2-4 (2-3)   @ The Coventry Building Society Arena › Coventry, West Midlands
+    15:00     Watford v Rotherham  1-1 (0-1)   @ Vicarage Road › Watford
               Cardiff v Millwall  0-1 (0-1)   @ Cardiff City Stadium › Caerdydd
               Birmingham v Preston  1-2 (0-2)   @ St Andrew's Stadium › Birmingham
               Bristol City v Blackburn  1-1 (0-0)   @ Ashton Gate › Bristol
@@ -446,23 +446,23 @@
               QPR v Swansea  1-1 (1-0)   @ Loftus Road › London
               Stoke City v Reading  4-0 (1-0)   @ bet365 Stadium › Stoke-on-Trent, Staffordshire
   Sun Jan 22
-    12.00     Sunderland v Middlesbrough  2-0 (0-0)   @ Stadium of Light › Sunderland
-» Regular Season - 5
+    12:00     Sunderland v Middlesbrough  2-0 (0-0)   @ Stadium of Light › Sunderland
+▪ Regular Season - 5
   Sat Jan 28
-    15.00     Coventry v Huddersfield  2-0 (0-0)   @ The Coventry Building Society Arena › Coventry, West Midlands
-» Regular Season - 29
+    15:00     Coventry v Huddersfield  2-0 (0-0)   @ The Coventry Building Society Arena › Coventry, West Midlands
+▪ Regular Season - 29
   Sat Jan 28
-    15.00     Middlesbrough v Watford  2-0 (2-0)   @ Riverside Stadium › Middlesbrough
+    15:00     Middlesbrough v Watford  2-0 (2-0)   @ Riverside Stadium › Middlesbrough
               Hull City v QPR  3-0 (1-0)   @ The MKM Stadium › Hull
   Tue Jan 31
-    19.45     Luton v Cardiff  1-0 (0-0)   @ Kenilworth Road › Luton, Bedfordshire
-» Regular Season - 30
+    19:45     Luton v Cardiff  1-0 (0-0)   @ Kenilworth Road › Luton, Bedfordshire
+▪ Regular Season - 30
   Fri Feb 3
-    20.00     West Brom v Coventry  1-0 (1-0)   @ The Hawthorns › West Bromwich
+    20:00     West Brom v Coventry  1-0 (1-0)   @ The Hawthorns › West Bromwich
   Sat Feb 4
-    12.30     Rotherham v Sheffield Utd  0-0 (0-0)   @ AESSEAL New York Stadium › Rotherham, South Yorkshire
+    12:30     Rotherham v Sheffield Utd  0-0 (0-0)   @ AESSEAL New York Stadium › Rotherham, South Yorkshire
               Norwich v Burnley  0-3 (0-1)   @ Carrow Road › Norwich, Norfolk
-    15.00     Huddersfield v QPR  1-1 (1-1)   @ John Smith's Stadium › Huddersfield, West Yorkshire
+    15:00     Huddersfield v QPR  1-1 (1-1)   @ John Smith's Stadium › Huddersfield, West Yorkshire
               Reading v Watford  2-2 (0-1)   @ Select Car Leasing Stadium › Reading, Berkshire
               Millwall v Sunderland  1-1 (0-0)   @ The Den › London
               Preston v Bristol City  1-2 (0-2)   @ Deepdale › Preston
@@ -471,15 +471,15 @@
               Swansea v Birmingham  3-4 (2-1)   @ Swansea.com Stadium › Swansea
               Luton v Stoke City  1-0 (1-0)   @ Kenilworth Road › Luton, Bedfordshire
   Mon Feb 6
-    20.00     Blackburn v Wigan  0-0 (0-0)   @ Ewood Park › Blackburn, Lancashire
-» Regular Season - 28
+    20:00     Blackburn v Wigan  0-0 (0-0)   @ Ewood Park › Blackburn, Lancashire
+▪ Regular Season - 28
   Tue Feb 7
-    19.45     Blackpool v Huddersfield  2-2 (0-1)   @ Bloomfield Road › Blackpool, Lancashire
-» Regular Season - 31
+    19:45     Blackpool v Huddersfield  2-2 (0-1)   @ Bloomfield Road › Blackpool, Lancashire
+▪ Regular Season - 31
   Fri Feb 10
-    20.00     Birmingham v West Brom  2-0 (1-0)   @ St Andrew's Stadium › Birmingham
+    20:00     Birmingham v West Brom  2-0 (1-0)   @ St Andrew's Stadium › Birmingham
   Sat Feb 11
-    15.00     Watford v Blackburn  1-1 (0-1)   @ Vicarage Road › Watford
+    15:00     Watford v Blackburn  1-1 (0-1)   @ Vicarage Road › Watford
               Cardiff v Middlesbrough  1-3 (1-2)   @ Cardiff City Stadium › Caerdydd
               Burnley v Preston  3-0 (1-0)   @ Turf Moor › Burnley
               Bristol City v Norwich  1-0 (1-0)   @ Ashton Gate › Bristol
@@ -490,27 +490,27 @@
               Sunderland v Reading  1-0 (0-0)   @ Stadium of Light › Sunderland
               Coventry v Luton  1-1 (1-1)   @ The Coventry Building Society Arena › Coventry, West Midlands
               Blackpool v Rotherham  0-0 (0-0)   @ Bloomfield Road › Blackpool, Lancashire
-» Regular Season - 32
+▪ Regular Season - 32
   Tue Feb 14
-    19.45     Birmingham v Cardiff  0-2 (0-0)   @ St Andrew's Stadium › Birmingham
+    19:45     Birmingham v Cardiff  0-2 (0-0)   @ St Andrew's Stadium › Birmingham
               Norwich v Hull City  3-1 (1-1)   @ Carrow Road › Norwich, Norfolk
               QPR v Sunderland  0-3 (0-1)   @ Loftus Road › London
               Coventry v Millwall  1-0 (0-0)   @ The Coventry Building Society Arena › Coventry, West Midlands
-    20.00     Reading v Rotherham  2-1 (0-1)   @ Select Car Leasing Stadium › Reading, Berkshire
+    20:00     Reading v Rotherham  2-1 (0-1)   @ Select Car Leasing Stadium › Reading, Berkshire
               Burnley v Watford  1-1 (0-1)   @ Turf Moor › Burnley
   Wed Feb 15
-    19.45     Bristol City v Wigan  1-1 (1-0)   @ Ashton Gate › Bristol
+    19:45     Bristol City v Wigan  1-1 (1-0)   @ Ashton Gate › Bristol
               Preston v Luton  1-1 (0-0)   @ Deepdale › Preston
               Stoke City v Huddersfield  3-0 (1-0)   @ bet365 Stadium › Stoke-on-Trent, Staffordshire
               Swansea v Blackpool  2-1 (1-0)   @ Swansea.com Stadium › Swansea
-    20.00     Sheffield Utd v Middlesbrough  1-3 (1-1)   @ Bramall Lane › Sheffield
+    20:00     Sheffield Utd v Middlesbrough  1-3 (1-1)   @ Bramall Lane › Sheffield
               West Brom v Blackburn  1-1 (0-0)   @ The Hawthorns › West Bromwich
-» Regular Season - 33
+▪ Regular Season - 33
   Fri Feb 17
-    20.00     Cardiff v Reading  1-0 (0-0)   @ Cardiff City Stadium › Caerdydd
+    20:00     Cardiff v Reading  1-0 (0-0)   @ Cardiff City Stadium › Caerdydd
   Sat Feb 18
-    12.30     Millwall v Sheffield Utd  3-2 (1-1)   @ The Den › London
-    15.00     Huddersfield v Birmingham  2-1 (1-1)   @ John Smith's Stadium › Huddersfield, West Yorkshire
+    12:30     Millwall v Sheffield Utd  3-2 (1-1)   @ The Den › London
+    15:00     Huddersfield v Birmingham  2-1 (1-1)   @ John Smith's Stadium › Huddersfield, West Yorkshire
               Wigan v Norwich  0-0 (0-0)   @ DW Stadium › Wigan
               Hull City v Preston  0-0 (0-0)   @ The MKM Stadium › Hull
               Blackburn v Swansea  1-0 (0-0)   @ Ewood Park › Blackburn, Lancashire
@@ -520,18 +520,18 @@
               Blackpool v Stoke City  1-0 (1-0)   @ Bloomfield Road › Blackpool, Lancashire
               Luton v Burnley  0-1 (0-0)   @ Kenilworth Road › Luton, Bedfordshire
   Mon Feb 20
-    20.00     Watford v West Brom  3-2 (1-0)   @ Vicarage Road › Watford
-» Regular Season - 29
+    20:00     Watford v West Brom  3-2 (1-0)   @ Vicarage Road › Watford
+▪ Regular Season - 29
   Tue Feb 21
-    19.45     Blackburn v Blackpool  1-0 (1-0)   @ Ewood Park › Blackburn, Lancashire
+    19:45     Blackburn v Blackpool  1-0 (1-0)   @ Ewood Park › Blackburn, Lancashire
               Norwich v Birmingham  3-1 (2-0)   @ Carrow Road › Norwich, Norfolk
               Rotherham v Sunderland  2-1 (1-0)   @ AESSEAL New York Stadium › Rotherham, South Yorkshire
               Swansea v Stoke City  1-3 (1-2)   @ Swansea.com Stadium › Swansea
               Millwall v Burnley  1-1 (0-0)   @ The Den › London
-» Regular Season - 34
+▪ Regular Season - 34
   Sat Feb 25
-    12.30     Coventry v Sunderland  2-1 (1-0)   @ The Coventry Building Society Arena › Coventry, West Midlands
-    15.00     Burnley v Huddersfield  4-0 (3-0)   @ Turf Moor › Burnley
+    12:30     Coventry v Sunderland  2-1 (1-0)   @ The Coventry Building Society Arena › Coventry, West Midlands
+    15:00     Burnley v Huddersfield  4-0 (3-0)   @ Turf Moor › Burnley
               Reading v Blackpool  3-1 (1-0)   @ Select Car Leasing Stadium › Reading, Berkshire
               Birmingham v Luton  0-1 (0-0)   @ St Andrew's Stadium › Birmingham
               Bristol City v Hull City  1-0 (0-0)   @ Ashton Gate › Bristol
@@ -542,20 +542,20 @@
               QPR v Blackburn  1-3 (1-2)   @ Loftus Road › London
               Stoke City v Millwall  0-1 (0-1)   @ bet365 Stadium › Stoke-on-Trent, Staffordshire
   Mon Feb 27
-    20.00     Swansea v Rotherham  1-1 (1-0)   @ Swansea.com Stadium › Swansea
-» Regular Season - 23
+    20:00     Swansea v Rotherham  1-1 (1-0)   @ Swansea.com Stadium › Swansea
+▪ Regular Season - 23
   Tue Feb 28
-    20.00     Luton v Millwall  2-2 (0-1)   @ Kenilworth Road › Luton, Bedfordshire
-» Regular Season - 29
+    20:00     Luton v Millwall  2-2 (0-1)   @ Kenilworth Road › Luton, Bedfordshire
+▪ Regular Season - 29
   Tue Feb 28
-    19.45     Preston v Coventry  0-0 (0-0)   @ Deepdale › Preston
-» Regular Season - 35
+    19:45     Preston v Coventry  0-0 (0-0)   @ Deepdale › Preston
+▪ Regular Season - 35
   Fri Mar 3
-    20.00     Hull City v West Brom  2-0 (1-0)   @ The MKM Stadium › Hull
+    20:00     Hull City v West Brom  2-0 (1-0)   @ The MKM Stadium › Hull
   Sat Mar 4
-    12.30     Blackburn v Sheffield Utd  1-0 (1-0)   @ Ewood Park › Blackburn, Lancashire
+    12:30     Blackburn v Sheffield Utd  1-0 (1-0)   @ Ewood Park › Blackburn, Lancashire
               Cardiff v Bristol City  2-0 (0-0)   @ Cardiff City Stadium › Caerdydd
-    15.00     Huddersfield v Coventry  0-4 (0-1)   @ John Smith's Stadium › Huddersfield, West Yorkshire
+    15:00     Huddersfield v Coventry  0-4 (0-1)   @ John Smith's Stadium › Huddersfield, West Yorkshire
               Watford v Preston  0-0 (0-0)   @ Vicarage Road › Watford
               Millwall v Norwich  2-3 (1-1)   @ The Den › London
               Wigan v Birmingham  1-1 (0-1)   @ DW Stadium › Wigan
@@ -564,17 +564,17 @@
               Sunderland v Stoke City  1-5 (0-1)   @ Stadium of Light › Sunderland
               Blackpool v Burnley  0-0 (0-0)   @ Bloomfield Road › Blackpool, Lancashire
               Luton v Swansea  1-0 (1-0)   @ Kenilworth Road › Luton, Bedfordshire
-» Regular Season - 29
+▪ Regular Season - 29
   Tue Mar 7
-    19.45     Huddersfield v Bristol City  0-0 (0-0)   @ John Smith's Stadium › Huddersfield, West Yorkshire
-    20.00     Reading v Sheffield Utd  0-1 (0-0)   @ Select Car Leasing Stadium › Reading, Berkshire
+    19:45     Huddersfield v Bristol City  0-0 (0-0)   @ John Smith's Stadium › Huddersfield, West Yorkshire
+    20:00     Reading v Sheffield Utd  0-1 (0-0)   @ Select Car Leasing Stadium › Reading, Berkshire
               West Brom v Wigan  1-0 (1-0)   @ The Hawthorns › West Bromwich
-» Regular Season - 36
+▪ Regular Season - 36
   Fri Mar 10
-    20.00     Stoke City v Blackburn  3-2 (2-0)   @ bet365 Stadium › Stoke-on-Trent, Staffordshire
+    20:00     Stoke City v Blackburn  3-2 (2-0)   @ bet365 Stadium › Stoke-on-Trent, Staffordshire
   Sat Mar 11
-    12.30     Bristol City v Blackpool  2-0 (0-0)   @ Ashton Gate › Bristol
-    15.00     Burnley v Wigan  3-0 (1-0)   @ Turf Moor › Burnley
+    12:30     Bristol City v Blackpool  2-0 (0-0)   @ Ashton Gate › Bristol
+    15:00     Burnley v Wigan  3-0 (1-0)   @ Turf Moor › Burnley
               Reading v Millwall  0-1 (0-1)   @ Select Car Leasing Stadium › Reading, Berkshire
               Birmingham v Rotherham  2-0 (2-0)   @ St Andrew's Stadium › Birmingham
               Preston v Cardiff  2-0 (0-0)   @ Deepdale › Preston
@@ -584,25 +584,25 @@
               Swansea v Middlesbrough  1-3 (1-0)   @ Swansea.com Stadium › Swansea
               Coventry v Hull City  1-1 (0-0)   @ The Coventry Building Society Arena › Coventry, West Midlands
   Sun Mar 12
-    12.00     Norwich v Sunderland  0-1 (0-1)   @ Carrow Road › Norwich, Norfolk
-» Regular Season - 37
+    12:00     Norwich v Sunderland  0-1 (0-1)   @ Carrow Road › Norwich, Norfolk
+▪ Regular Season - 37
   Tue Mar 14
-    19.45     Millwall v Swansea  2-1 (0-0)   @ The Den › London
+    19:45     Millwall v Swansea  2-1 (0-0)   @ The Den › London
               Wigan v Coventry  1-1 (0-0)   @ DW Stadium › Wigan
               Rotherham v Preston  1-2 (1-2)   @ AESSEAL New York Stadium › Rotherham, South Yorkshire
               Blackpool v QPR  6-1 (4-1)   @ Bloomfield Road › Blackpool, Lancashire
               Watford v Birmingham  3-0 (2-0)   @ Vicarage Road › Watford
-    20.00     Middlesbrough v Stoke City  1-1 (1-1)   @ Riverside Stadium › Middlesbrough
+    20:00     Middlesbrough v Stoke City  1-1 (1-1)   @ Riverside Stadium › Middlesbrough
   Wed Mar 15
-    19.45     Cardiff v West Brom  1-1 (0-1)   @ Cardiff City Stadium › Caerdydd
+    19:45     Cardiff v West Brom  1-1 (0-1)   @ Cardiff City Stadium › Caerdydd
               Hull City v Burnley  1-3 (0-1)   @ The MKM Stadium › Hull
               Blackburn v Reading  2-1 (1-0)   @ Ewood Park › Blackburn, Lancashire
               Luton v Bristol City  1-0 (1-0)   @ Kenilworth Road › Luton, Bedfordshire
               Huddersfield v Norwich  1-1 (0-1)   @ John Smith's Stadium › Huddersfield, West Yorkshire
-    20.00     Sunderland v Sheffield Utd  1-2 (1-1)   @ Stadium of Light › Sunderland
-» Regular Season - 38
+    20:00     Sunderland v Sheffield Utd  1-2 (1-1)   @ Stadium of Light › Sunderland
+▪ Regular Season - 38
   Sat Mar 18
-    15.00     Watford v Wigan  1-1 (1-0)   @ Vicarage Road › Watford
+    15:00     Watford v Wigan  1-1 (1-0)   @ Vicarage Road › Watford
               Reading v Hull City  1-1 (1-1)   @ Select Car Leasing Stadium › Reading, Berkshire
               Millwall v Huddersfield  0-1 (0-0)   @ The Den › London
               Middlesbrough v Preston  4-0 (1-0)   @ Riverside Stadium › Middlesbrough
@@ -611,14 +611,14 @@
               Sunderland v Luton  1-1 (0-0)   @ Stadium of Light › Sunderland
               Blackpool v Coventry  1-4 (1-2)   @ Bloomfield Road › Blackpool, Lancashire
   Sun Mar 19
-    12.30     Swansea v Bristol City  2-0 (1-0)   @ Swansea.com Stadium › Swansea
-» Regular Season - 39
+    12:30     Swansea v Bristol City  2-0 (1-0)   @ Swansea.com Stadium › Swansea
+▪ Regular Season - 39
   Fri Mar 31
-    20.00     Burnley v Sunderland  0-0 (0-0)   @ Turf Moor › Burnley
+    20:00     Burnley v Sunderland  0-0 (0-0)   @ Turf Moor › Burnley
   Sat Apr 1
-    12.30     Preston v Blackpool  3-1 (2-0)   @ Deepdale › Preston
+    12:30     Preston v Blackpool  3-1 (2-0)   @ Deepdale › Preston
               Luton v Watford  2-0 (1-0)   @ Kenilworth Road › Luton, Bedfordshire
-    15.00     Huddersfield v Middlesbrough  4-2 (0-1)   @ John Smith's Stadium › Huddersfield, West Yorkshire
+    15:00     Huddersfield v Middlesbrough  4-2 (0-1)   @ John Smith's Stadium › Huddersfield, West Yorkshire
               Cardiff v Swansea  2-3 (1-2)   @ Cardiff City Stadium › Caerdydd
               Birmingham v Blackburn  1-0 (0-0)   @ St Andrew's Stadium › Birmingham
               Bristol City v Reading  1-1 (1-0)   @ Ashton Gate › Bristol
@@ -627,11 +627,11 @@
               Hull City v Rotherham  0-0 (0-0)   @ The MKM Stadium › Hull
               Norwich v Sheffield Utd  0-1 (0-0)   @ Carrow Road › Norwich, Norfolk
               Coventry v Stoke City  0-4 (0-2)   @ The Coventry Building Society Arena › Coventry, West Midlands
-» Regular Season - 40
+▪ Regular Season - 40
   Fri Apr 7
-    12.30     Millwall v Luton  0-0 (0-0)   @ The Den › London
-    13.00     Rotherham v West Brom  3-1 (1-1)   @ AESSEAL New York Stadium › Rotherham, South Yorkshire
-    15.00     Watford v Huddersfield  2-3 (1-1)   @ Vicarage Road › Watford
+    12:30     Millwall v Luton  0-0 (0-0)   @ The Den › London
+    13:00     Rotherham v West Brom  3-1 (1-1)   @ AESSEAL New York Stadium › Rotherham, South Yorkshire
+    15:00     Watford v Huddersfield  2-3 (1-1)   @ Vicarage Road › Watford
               Reading v Birmingham  1-1 (1-1)   @ Select Car Leasing Stadium › Reading, Berkshire
               Sheffield Utd v Wigan  1-0 (1-0)   @ Bramall Lane › Sheffield
               Blackburn v Norwich  0-2 (0-1)   @ Ewood Park › Blackburn, Lancashire
@@ -639,12 +639,12 @@
               Stoke City v Bristol City  1-2 (1-0)   @ bet365 Stadium › Stoke-on-Trent, Staffordshire
               Swansea v Coventry  0-0 (0-0)   @ Swansea.com Stadium › Swansea
               Blackpool v Cardiff  1-3 (0-3)   @ Bloomfield Road › Blackpool, Lancashire
-    17.30     Sunderland v Hull City  4-4 (2-2)   @ Stadium of Light › Sunderland
-    20.00     Middlesbrough v Burnley  1-2 (0-1)   @ Riverside Stadium › Middlesbrough
-» Regular Season - 41
+    17:30     Sunderland v Hull City  4-4 (2-2)   @ Stadium of Light › Sunderland
+    20:00     Middlesbrough v Burnley  1-2 (0-1)   @ Riverside Stadium › Middlesbrough
+▪ Regular Season - 41
   Mon Apr 10
-    12.30     Huddersfield v Blackburn  2-2 (2-0)   @ John Smith's Stadium › Huddersfield, West Yorkshire
-    15.00     Cardiff v Sunderland  0-1 (0-0)   @ Cardiff City Stadium › Caerdydd
+    12:30     Huddersfield v Blackburn  2-2 (2-0)   @ John Smith's Stadium › Huddersfield, West Yorkshire
+    15:00     Cardiff v Sunderland  0-1 (0-0)   @ Cardiff City Stadium › Caerdydd
               Birmingham v Stoke City  0-0 (0-0)   @ St Andrew's Stadium › Birmingham
               Preston v Reading  2-1 (0-0)   @ Deepdale › Preston
               West Brom v QPR  2-2 (2-1)   @ The Hawthorns › West Bromwich
@@ -653,14 +653,14 @@
               Norwich v Rotherham  0-0 (0-0)   @ Carrow Road › Norwich, Norfolk
               Coventry v Watford  2-2 (0-2)   @ The Coventry Building Society Arena › Coventry, West Midlands
               Luton v Blackpool  3-1 (1-1)   @ Kenilworth Road › Luton, Bedfordshire
-    17.30     Bristol City v Middlesbrough  2-2 (1-0)   @ Ashton Gate › Bristol
-    20.00     Burnley v Sheffield Utd  2-0 (0-0)   @ Turf Moor › Burnley
-» Regular Season - 42
+    17:30     Bristol City v Middlesbrough  2-2 (1-0)   @ Ashton Gate › Bristol
+    20:00     Burnley v Sheffield Utd  2-0 (0-0)   @ Turf Moor › Burnley
+▪ Regular Season - 42
   Fri Apr 14
-    20.00     Middlesbrough v Norwich  5-1 (4-1)   @ Riverside Stadium › Middlesbrough
+    20:00     Middlesbrough v Norwich  5-1 (4-1)   @ Riverside Stadium › Middlesbrough
   Sat Apr 15
-    12.30     Sheffield Utd v Cardiff  4-1 (1-1)   @ Bramall Lane › Sheffield
-    15.00     Watford v Bristol City  2-0 (1-0)   @ Vicarage Road › Watford
+    12:30     Sheffield Utd v Cardiff  4-1 (1-1)   @ Bramall Lane › Sheffield
+    15:00     Watford v Bristol City  2-0 (1-0)   @ Vicarage Road › Watford
               Reading v Burnley  0-0 (0-0)   @ Select Car Leasing Stadium › Reading, Berkshire
               Millwall v Preston  2-0 (1-0)   @ The Den › London
               QPR v Coventry  0-3 (0-1)   @ Loftus Road › London
@@ -669,25 +669,25 @@
               Swansea v Huddersfield  1-0 (0-0)   @ Swansea.com Stadium › Swansea
               Sunderland v Birmingham  2-1 (1-1)   @ Stadium of Light › Sunderland
               Blackpool v Wigan  1-0 (1-0)   @ Bloomfield Road › Blackpool, Lancashire
-    19.45     Blackburn v Hull City  0-0 (0-0)   @ Ewood Park › Blackburn, Lancashire
-» Regular Season - 43
+    19:45     Blackburn v Hull City  0-0 (0-0)   @ Ewood Park › Blackburn, Lancashire
+▪ Regular Season - 43
   Tue Apr 18
-    19.45     Rotherham v Burnley  2-2 (1-1)   @ AESSEAL New York Stadium › Rotherham, South Yorkshire
+    19:45     Rotherham v Burnley  2-2 (1-1)   @ AESSEAL New York Stadium › Rotherham, South Yorkshire
               Stoke City v Wigan  0-1 (0-0)   @ bet365 Stadium › Stoke-on-Trent, Staffordshire
               Sunderland v Huddersfield  1-1 (1-0)   @ Stadium of Light › Sunderland
               Blackpool v West Brom  0-2 (0-1)   @ Bloomfield Road › Blackpool, Lancashire
               Sheffield Utd v Bristol City  1-0 (0-0)   @ Bramall Lane › Sheffield
-    20.00     Millwall v Birmingham  0-1 (0-1)   @ The Den › London
+    20:00     Millwall v Birmingham  0-1 (0-1)   @ The Den › London
   Wed Apr 19
-    19.45     Blackburn v Coventry  1-1 (1-0)   @ Ewood Park › Blackburn, Lancashire
+    19:45     Blackburn v Coventry  1-1 (1-0)   @ Ewood Park › Blackburn, Lancashire
               QPR v Norwich  1-1 (1-0)   @ Loftus Road › London
               Swansea v Preston  4-2 (3-0)   @ Swansea.com Stadium › Swansea
               Watford v Cardiff  1-3 (1-3)   @ Vicarage Road › Watford
-    20.00     Middlesbrough v Hull City  3-1 (0-1)   @ Riverside Stadium › Middlesbrough
+    20:00     Middlesbrough v Hull City  3-1 (0-1)   @ Riverside Stadium › Middlesbrough
               Reading v Luton  1-1 (0-0)   @ Select Car Leasing Stadium › Reading, Berkshire
-» Regular Season - 44
+▪ Regular Season - 44
   Sat Apr 22
-    15.00     Cardiff v Stoke City  1-1 (1-1)   @ Cardiff City Stadium › Caerdydd
+    15:00     Cardiff v Stoke City  1-1 (1-1)   @ Cardiff City Stadium › Caerdydd
               Burnley v QPR  1-2 (0-0)   @ Turf Moor › Burnley
               Birmingham v Blackpool  0-1 (0-0)   @ St Andrew's Stadium › Birmingham
               Bristol City v Rotherham  2-1 (1-0)   @ Ashton Gate › Bristol
@@ -695,41 +695,41 @@
               Hull City v Watford  1-0 (1-0)   @ The MKM Stadium › Hull
               Norwich v Swansea  0-3 (0-2)   @ Carrow Road › Norwich, Norfolk
               Coventry v Reading  2-1 (1-0)   @ The Coventry Building Society Arena › Coventry, West Midlands
-    17.30     Preston v Blackburn  1-1 (0-0)   @ Deepdale › Preston
+    17:30     Preston v Blackburn  1-1 (0-0)   @ Deepdale › Preston
   Sun Apr 23
-    12.00     West Brom v Sunderland  1-2 (1-0)   @ The Hawthorns › West Bromwich
+    12:00     West Brom v Sunderland  1-2 (1-0)   @ The Hawthorns › West Bromwich
   Mon Apr 24
-    20.00     Luton v Middlesbrough  2-1 (0-1)   @ Kenilworth Road › Luton, Bedfordshire
-» Regular Season - 38
+    20:00     Luton v Middlesbrough  2-1 (0-1)   @ Kenilworth Road › Luton, Bedfordshire
+▪ Regular Season - 38
   Tue Apr 25
-    20.00     Blackburn v Burnley  0-1 (0-0)   @ Ewood Park › Blackburn, Lancashire
+    20:00     Blackburn v Burnley  0-1 (0-0)   @ Ewood Park › Blackburn, Lancashire
   Wed Apr 26
-    20.00     Sheffield Utd v West Brom  2-0 (0-0)   @ Bramall Lane › Sheffield
+    20:00     Sheffield Utd v West Brom  2-0 (0-0)   @ Bramall Lane › Sheffield
   Thu Apr 27
-    20.00     Rotherham v Cardiff  1-2 (1-1)   @ AESSEAL New York Stadium › Rotherham, South Yorkshire
-» Regular Season - 45
+    20:00     Rotherham v Cardiff  1-2 (1-1)   @ AESSEAL New York Stadium › Rotherham, South Yorkshire
+▪ Regular Season - 45
   Fri Apr 28
-    20.00     Blackpool v Millwall  2-3 (1-1)   @ Bloomfield Road › Blackpool, Lancashire
+    20:00     Blackpool v Millwall  2-3 (1-1)   @ Bloomfield Road › Blackpool, Lancashire
   Sat Apr 29
-    15.00     Reading v Wigan  1-1 (0-0)   @ Select Car Leasing Stadium › Reading, Berkshire
+    15:00     Reading v Wigan  1-1 (0-0)   @ Select Car Leasing Stadium › Reading, Berkshire
               Bristol City v Burnley  1-2 (0-1)   @ Ashton Gate › Bristol
               Sheffield Utd v Preston  4-1 (1-0)   @ Bramall Lane › Sheffield
               Hull City v Swansea  1-1 (1-1)   @ The MKM Stadium › Hull
               Stoke City v QPR  0-1 (0-0)   @ bet365 Stadium › Stoke-on-Trent, Staffordshire
               Sunderland v Watford  2-2 (0-1)   @ Stadium of Light › Sunderland
               Coventry v Birmingham  2-0 (2-0)   @ The Coventry Building Society Arena › Coventry, West Midlands
-    17.30     West Brom v Norwich  2-1 (1-1)   @ The Hawthorns › West Bromwich
+    17:30     West Brom v Norwich  2-1 (1-1)   @ The Hawthorns › West Bromwich
   Sun Apr 30
-    12.00     Cardiff v Huddersfield  1-2 (0-0)   @ Cardiff City Stadium › Caerdydd
+    12:00     Cardiff v Huddersfield  1-2 (0-0)   @ Cardiff City Stadium › Caerdydd
   Mon May 1
-    13.00     Rotherham v Middlesbrough  1-0 (0-0)   @ AESSEAL New York Stadium › Rotherham, South Yorkshire
-    17.30     Blackburn v Luton  1-1 (0-0)   @ Ewood Park › Blackburn, Lancashire
-» Regular Season - 44
+    13:00     Rotherham v Middlesbrough  1-0 (0-0)   @ AESSEAL New York Stadium › Rotherham, South Yorkshire
+    17:30     Blackburn v Luton  1-1 (0-0)   @ Ewood Park › Blackburn, Lancashire
+▪ Regular Season - 44
   Thu May 4
-    19.45     Huddersfield v Sheffield Utd  1-0 (0-0)   @ John Smith's Stadium › Huddersfield, West Yorkshire
-» Regular Season - 46
+    19:45     Huddersfield v Sheffield Utd  1-0 (0-0)   @ John Smith's Stadium › Huddersfield, West Yorkshire
+▪ Regular Season - 46
   Mon May 8
-    15.00     Huddersfield v Reading  2-0 (0-0)   @ John Smith's Stadium › Huddersfield, West Yorkshire
+    15:00     Huddersfield v Reading  2-0 (0-0)   @ John Smith's Stadium › Huddersfield, West Yorkshire
               Watford v Stoke City  2-0 (0-0)   @ Vicarage Road › Watford
               Burnley v Cardiff  3-0 (2-0)   @ Turf Moor › Burnley
               Birmingham v Sheffield Utd  1-2 (0-0)   @ St Andrew's Stadium › Birmingham
@@ -741,15 +741,15 @@
               QPR v Bristol City  0-2 (0-1)   @ Loftus Road › London
               Swansea v West Brom  3-2 (1-1)   @ Swansea.com Stadium › Swansea
               Luton v Hull City  0-0 (0-0)   @ Kenilworth Road › Luton, Bedfordshire
-» Promotion Play-offs - Semi-finals
+▪ Promotion Play-offs - Semi-finals
   Sat May 13
-    17.30     Sunderland v Luton  2-1 (1-1)   @ Stadium of Light › Sunderland
+    17:30     Sunderland v Luton  2-1 (1-1)   @ Stadium of Light › Sunderland
   Sun May 14
-    12.00     Coventry v Middlesbrough  0-0 (0-0)   @ The Coventry Building Society Arena › Coventry, West Midlands
+    12:00     Coventry v Middlesbrough  0-0 (0-0)   @ The Coventry Building Society Arena › Coventry, West Midlands
   Tue May 16
-    20.00     Luton v Sunderland  2-0 (2-0)   @ Kenilworth Road › Luton, Bedfordshire
+    20:00     Luton v Sunderland  2-0 (2-0)   @ Kenilworth Road › Luton, Bedfordshire
   Wed May 17
-    20.00     Middlesbrough v Coventry  0-1 (0-0)   @ Riverside Stadium › Middlesbrough
-» Promotion Play-offs - Final
+    20:00     Middlesbrough v Coventry  0-1 (0-0)   @ Riverside Stadium › Middlesbrough
+▪ Promotion Play-offs - Final
   Sat May 27
-    16.45     Coventry v Luton  5-6 pen (1-1, 1-1, 0-1)   @ Wembley Stadium › London
+    16:45     Coventry v Luton  5-6 pen (1-1, 1-1, 0-1)   @ Wembley Stadium › London

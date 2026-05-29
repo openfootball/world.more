@@ -1,91 +1,91 @@
 = Luxembourg | National Division 2022/23
 
-  # Date       Sat Aug/6 2022 - Sat May/27 2023 (294d)
+  # Date       Sat Aug 6 2022 - Sat May 27 2023 (294d)
   # Teams      18
   # Matches    242
 
   # Note - All times in Europe/Luxembourg
 
-» Regular Season - 1
+▪ Regular Season - 1
   Sat Aug 6 2022
-    19.00     Etzella Ettelbruck v Union Titus Petange  2-0 (0-0)   @ Centre Sportif du Deich › Ettelbrück
+    19:00     Etzella Ettelbruck v Union Titus Petange  2-0 (0-0)   @ Centre Sportif du Deich › Ettelbrück
   Sun Aug 7
-    16.00     FC Differdange 03 v Racing FC Union Luxembourg  2-3 (1-0)   @ Stade Parc des Sports › Differdange
+    16:00     FC Differdange 03 v Racing FC Union Luxembourg  2-3 (1-0)   @ Stade Parc des Sports › Differdange
               UN Kaerjeng 97 v Wiltz  1-1 (1-1)   @ Terrain Jos Bloes › Bascharage
               US Mondorf-les-bains v US Hostert  2-0 (0-0)   @ Stade John Grün › Mondorf-les-Bains
               Mondercange v Victoria Rosport  5-1 (3-1)   @ Stade Communal › Mondercange
               Fola Esch v UNA Strassen  2-1 (1-1)   @ Stade Émile Mayrisch › Esch-sur-Alzette
-    19.00     Swift Hesperange v Progres Niederkorn  4-2 (1-1)   @ Stade Alphonse Theis › Hesperange
+    19:00     Swift Hesperange v Progres Niederkorn  4-2 (1-1)   @ Stade Alphonse Theis › Hesperange
   Mon Aug 8
-    19.30     F91 Dudelange v AS Jeunesse Esch  5-0 (4-0)   @ Stade Jos Nosbaum › Dudelange
-» Regular Season - 2
+    19:30     F91 Dudelange v AS Jeunesse Esch  5-0 (4-0)   @ Stade Jos Nosbaum › Dudelange
+▪ Regular Season - 2
   Sat Aug 13
-    17.00     Racing FC Union Luxembourg v US Mondorf-les-bains  1-0 (0-0)   @ Stade Achille Hammerel › Luxembourg
-    19.00     Union Titus Petange v Fola Esch  2-3 (2-1)   @ Stade Municipal de Pétange › Pétange
+    17:00     Racing FC Union Luxembourg v US Mondorf-les-bains  1-0 (0-0)   @ Stade Achille Hammerel › Luxembourg
+    19:00     Union Titus Petange v Fola Esch  2-3 (2-1)   @ Stade Municipal de Pétange › Pétange
   Sun Aug 14
-    16.00     Wiltz v Victoria Rosport  3-1 (1-1)   @ Stade am Petz › Weidingen
-    18.00     UNA Strassen v FC Differdange 03  3-2 (2-1)   @ Complexe Sportif Jean Wirtz › Strossen
-    18.30     Progres Niederkorn v F91 Dudelange  2-3 (1-1)   @ Stade Jos Haupert › Niedercorn
-    19.00     US Hostert v Swift Hesperange  0-4 (0-1)   @ Stade Jos Becker › Hostert
+    16:00     Wiltz v Victoria Rosport  3-1 (1-1)   @ Stade am Petz › Weidingen
+    18:00     UNA Strassen v FC Differdange 03  3-2 (2-1)   @ Complexe Sportif Jean Wirtz › Strossen
+    18:30     Progres Niederkorn v F91 Dudelange  2-3 (1-1)   @ Stade Jos Haupert › Niedercorn
+    19:00     US Hostert v Swift Hesperange  0-4 (0-1)   @ Stade Jos Becker › Hostert
               AS Jeunesse Esch v UN Kaerjeng 97  0-0 (0-0)   @ Stade de la Frontière › Esch-sur-Alzette
-    19.30     Mondercange v Etzella Ettelbruck  1-2 (1-0)   @ Stade Communal › Mondercange
-» Regular Season - 3
+    19:30     Mondercange v Etzella Ettelbruck  1-2 (1-0)   @ Stade Communal › Mondercange
+▪ Regular Season - 3
   Sat Aug 20
-    16.00     Victoria Rosport v AS Jeunesse Esch  1-1 (0-1)   @ Party-Rent-Arena › Rosport
-    19.00     Swift Hesperange v Racing FC Union Luxembourg  2-0 (1-0)   @ Stade Alphonse Theis › Hesperange
+    16:00     Victoria Rosport v AS Jeunesse Esch  1-1 (0-1)   @ Party-Rent-Arena › Rosport
+    19:00     Swift Hesperange v Racing FC Union Luxembourg  2-0 (1-0)   @ Stade Alphonse Theis › Hesperange
               Fola Esch v Etzella Ettelbruck  0-0 (0-0)   @ Stade Émile Mayrisch › Esch-sur-Alzette
   Sun Aug 21
-    16.00     FC Differdange 03 v Union Titus Petange  1-1 (1-0)   @ Stade Parc des Sports › Differdange
+    16:00     FC Differdange 03 v Union Titus Petange  1-1 (1-0)   @ Stade Parc des Sports › Differdange
               UN Kaerjeng 97 v Progres Niederkorn  1-1 (0-0)   @ Terrain Jos Bloes › Bascharage
               US Mondorf-les-bains v UNA Strassen  1-2 (1-0)   @ Stade John Grün › Mondorf-les-Bains
               Wiltz v Mondercange  1-4 (0-1)   @ Stade am Petz › Weidingen
-    18.30     F91 Dudelange v US Hostert  3-1 (0-1)   @ Stade Jos Nosbaum › Dudelange
-» Regular Season - 4
+    18:30     F91 Dudelange v US Hostert  3-1 (0-1)   @ Stade Jos Nosbaum › Dudelange
+▪ Regular Season - 4
   Fri Aug 26
-    20.00     US Hostert v UN Kaerjeng 97  0-1 (0-1)   @ Stade Jos Becker › Hostert
+    20:00     US Hostert v UN Kaerjeng 97  0-1 (0-1)   @ Stade Jos Becker › Hostert
   Sun Aug 28
-    16.00     Progres Niederkorn v Victoria Rosport  1-0 (1-0)   @ Stade Jos Haupert › Niedercorn
+    16:00     Progres Niederkorn v Victoria Rosport  1-0 (1-0)   @ Stade Jos Haupert › Niedercorn
               Union Titus Petange v US Mondorf-les-bains  4-1 (2-0)   @ Stade Municipal de Pétange › Pétange
               AS Jeunesse Esch v Wiltz  1-0 (1-0)   @ Stade de la Frontière › Esch-sur-Alzette
               UNA Strassen v Swift Hesperange  0-4 (0-1)   @ Complexe Sportif Jean Wirtz › Strossen
               Etzella Ettelbruck v FC Differdange 03  0-2 (0-0)   @ Centre Sportif du Deich › Ettelbrück
-    18.30     Mondercange v Fola Esch  3-0 (0-0)   @ Stade Communal › Mondercange
+    18:30     Mondercange v Fola Esch  3-0 (0-0)   @ Stade Communal › Mondercange
               Racing FC Union Luxembourg v F91 Dudelange  2-4 (1-2)   @ Stade Achille Hammerel › Luxembourg
-» Regular Season - 5
+▪ Regular Season - 5
   Sat Sep 3
-    19.00     Swift Hesperange v Union Titus Petange  3-3 (1-3)   @ Stade Alphonse Theis › Hesperange
+    19:00     Swift Hesperange v Union Titus Petange  3-3 (1-3)   @ Stade Alphonse Theis › Hesperange
   Sun Sep 4
-    16.00     F91 Dudelange v UNA Strassen  3-1 (1-1)   @ Stade Jos Nosbaum › Dudelange
+    16:00     F91 Dudelange v UNA Strassen  3-1 (1-1)   @ Stade Jos Nosbaum › Dudelange
               FC Differdange 03 v Fola Esch  6-0 (3-0)   @ Stade Parc des Sports › Differdange
               AS Jeunesse Esch v Mondercange  1-1 (0-0)   @ Stade de la Frontière › Esch-sur-Alzette
               UN Kaerjeng 97 v Racing FC Union Luxembourg  0-5 (0-1)   @ Terrain Um Bëchel › Uewerkäerjeng
               US Mondorf-les-bains v Etzella Ettelbruck  3-0 (1-0)   @ Stade John Grün › Mondorf-les-Bains
               Victoria Rosport v US Hostert  2-2 (0-0)   @ Party-Rent-Arena › Rosport
               Wiltz v Progres Niederkorn  1-2 (0-1)   @ Stade am Petz › Weidingen
-» Regular Season - 6
+▪ Regular Season - 6
   Sat Sep 10
-    18.30     Racing FC Union Luxembourg v Victoria Rosport  2-2 (1-1)   @ Stade Achille Hammerel › Luxembourg
-    19.00     Etzella Ettelbruck v Swift Hesperange  0-4 (0-2)   @ Centre Sportif du Deich › Ettelbrück
+    18:30     Racing FC Union Luxembourg v Victoria Rosport  2-2 (1-1)   @ Stade Achille Hammerel › Luxembourg
+    19:00     Etzella Ettelbruck v Swift Hesperange  0-4 (0-2)   @ Centre Sportif du Deich › Ettelbrück
   Sun Sep 11
-    16.00     Union Titus Petange v F91 Dudelange  1-2 (0-2)   @ Stade Municipal de Pétange › Pétange
+    16:00     Union Titus Petange v F91 Dudelange  1-2 (0-2)   @ Stade Municipal de Pétange › Pétange
               UNA Strassen v UN Kaerjeng 97  0-2 (0-0)   @ Complexe Sportif Jean Wirtz › Strossen
               US Hostert v Wiltz  2-3 (0-2)   @ Stade Jos Becker › Hostert
               Mondercange v FC Differdange 03  0-0 (0-0)   @ Stade Communal › Mondercange
-    17.00     Fola Esch v US Mondorf-les-bains  0-1 (0-0)   @ Stade Émile Mayrisch › Esch-sur-Alzette
-    18.30     Progres Niederkorn v AS Jeunesse Esch  2-1 (2-0)   @ Stade Jos Haupert › Niedercorn
-» Regular Season - 7
+    17:00     Fola Esch v US Mondorf-les-bains  0-1 (0-0)   @ Stade Émile Mayrisch › Esch-sur-Alzette
+    18:30     Progres Niederkorn v AS Jeunesse Esch  2-1 (2-0)   @ Stade Jos Haupert › Niedercorn
+▪ Regular Season - 7
   Sun Sep 18
-    16.00     F91 Dudelange v Etzella Ettelbruck  4-0 (2-0)   @ Stade Jos Nosbaum › Dudelange
+    16:00     F91 Dudelange v Etzella Ettelbruck  4-0 (2-0)   @ Stade Jos Nosbaum › Dudelange
               AS Jeunesse Esch v US Hostert  1-2 (0-0)   @ Stade de la Frontière › Esch-sur-Alzette
               UN Kaerjeng 97 v Union Titus Petange  0-1 (0-0)   @ Terrain Jos Bloes › Bascharage
               US Mondorf-les-bains v FC Differdange 03  0-1 (0-1)   @ Stade John Grün › Mondorf-les-Bains
               Victoria Rosport v UNA Strassen  0-0 (0-0)   @ Party-Rent-Arena › Rosport
               Wiltz v Racing FC Union Luxembourg  1-1 (0-0)   @ Stade am Petz › Weidingen
               Swift Hesperange v Fola Esch  8-1 (2-0)   @ Stade Alphonse Theis › Hesperange
-    18.30     Progres Niederkorn v Mondercange  4-0 (2-0)   @ Stade Jos Haupert › Niedercorn
-» Regular Season - 8
+    18:30     Progres Niederkorn v Mondercange  4-0 (2-0)   @ Stade Jos Haupert › Niedercorn
+▪ Regular Season - 8
   Sun Oct 9
-    15.00     Fola Esch v F91 Dudelange  0-2 (0-2)   @ Stade Émile Mayrisch › Esch-sur-Alzette
+    15:00     Fola Esch v F91 Dudelange  0-2 (0-2)   @ Stade Émile Mayrisch › Esch-sur-Alzette
               FC Differdange 03 v Swift Hesperange  1-2 (0-2)   @ Stade Parc des Sports › Differdange
               Racing FC Union Luxembourg v AS Jeunesse Esch  2-1 (1-0)   @ Stade Achille Hammerel › Luxembourg
               Union Titus Petange v Victoria Rosport  5-1 (3-0)   @ Stade Municipal de Pétange › Pétange
@@ -93,156 +93,156 @@
               US Hostert v Progres Niederkorn  1-0 (1-0)   @ Stade Jos Becker › Hostert
               Etzella Ettelbruck v UN Kaerjeng 97  1-1 (0-0)   @ Centre Sportif du Deich › Ettelbrück
               Mondercange v US Mondorf-les-bains  1-2 (0-1)   @ Stade Communal › Mondercange
-» Regular Season - 9
+▪ Regular Season - 9
   Sun Oct 16
-    15.00     Progres Niederkorn v Racing FC Union Luxembourg  0-0 (0-0)   @ Stade Jos Haupert › Niedercorn
+    15:00     Progres Niederkorn v Racing FC Union Luxembourg  0-0 (0-0)   @ Stade Jos Haupert › Niedercorn
               AS Jeunesse Esch v UNA Strassen  2-0 (2-0)   @ Stade de la Frontière › Esch-sur-Alzette
               UN Kaerjeng 97 v Fola Esch  3-2 (2-0)   @ Terrain Jos Bloes › Bascharage
               Victoria Rosport v Etzella Ettelbruck  3-1 (1-0)   @ Party-Rent-Arena › Rosport
               US Hostert v Mondercange  0-0 (0-0)   @ Stade Jos Becker › Hostert
               Wiltz v Union Titus Petange  0-2 (0-1)   @ Stade am Petz › Weidingen
               F91 Dudelange v FC Differdange 03  3-1 (1-0)   @ Stade Jos Nosbaum › Dudelange
-    16.00     Swift Hesperange v US Mondorf-les-bains  4-2 (2-0)   @ Stade Alphonse Theis › Hesperange
-» Regular Season - 10
+    16:00     Swift Hesperange v US Mondorf-les-bains  4-2 (2-0)   @ Stade Alphonse Theis › Hesperange
+▪ Regular Season - 10
   Sun Oct 23
-    15.00     Fola Esch v Victoria Rosport  4-1 (3-0)   @ Stade Émile Mayrisch › Esch-sur-Alzette
+    15:00     Fola Esch v Victoria Rosport  4-1 (3-0)   @ Stade Émile Mayrisch › Esch-sur-Alzette
               FC Differdange 03 v UN Kaerjeng 97  2-2 (0-1)   @ Stade Parc des Sports › Differdange
               Racing FC Union Luxembourg v US Hostert  2-1 (2-0)   @ Stade Achille Hammerel › Luxembourg
               Union Titus Petange v AS Jeunesse Esch  0-0 (0-0)   @ Stade Municipal de Pétange › Pétange
               UNA Strassen v Progres Niederkorn  0-1 (0-0)   @ Complexe Sportif Jean Wirtz › Strossen
               Etzella Ettelbruck v Wiltz  1-2 (0-0)   @ Centre Sportif du Deich › Ettelbrück
-    16.00     Mondercange v Swift Hesperange  1-2 (0-1)   @ Stade Communal › Mondercange
+    16:00     Mondercange v Swift Hesperange  1-2 (0-1)   @ Stade Communal › Mondercange
               US Mondorf-les-bains v F91 Dudelange  0-7 (0-4)   @ Stade John Grün › Mondorf-les-Bains
-» Regular Season - 11
+▪ Regular Season - 11
   Sun Nov 6
-    15.00     Racing FC Union Luxembourg v Mondercange  2-2 (0-1)   @ Stade Achille Hammerel › Luxembourg
+    15:00     Racing FC Union Luxembourg v Mondercange  2-2 (0-1)   @ Stade Achille Hammerel › Luxembourg
               AS Jeunesse Esch v Etzella Ettelbruck  6-0 (3-0)   @ Stade de la Frontière › Esch-sur-Alzette
               Victoria Rosport v FC Differdange 03  2-3 (1-0)   @ Party-Rent-Arena › Rosport
               US Hostert v UNA Strassen  1-0 (0-0)   @ Stade Jos Becker › Hostert
               Wiltz v Fola Esch  5-1 (1-1)   @ Stade am Petz › Weidingen
-    15.30     Progres Niederkorn v Union Titus Petange  2-3 (1-2)   @ Stade Jos Haupert › Niedercorn
-    16.00     UN Kaerjeng 97 v US Mondorf-les-bains  0-2 (0-2)   @ Terrain Jos Bloes › Bascharage
-    18.00     F91 Dudelange v Swift Hesperange  0-4 (0-2)   @ Stade Jos Nosbaum › Dudelange
-» Regular Season - 12
+    15:30     Progres Niederkorn v Union Titus Petange  2-3 (1-2)   @ Stade Jos Haupert › Niedercorn
+    16:00     UN Kaerjeng 97 v US Mondorf-les-bains  0-2 (0-2)   @ Terrain Jos Bloes › Bascharage
+    18:00     F91 Dudelange v Swift Hesperange  0-4 (0-2)   @ Stade Jos Nosbaum › Dudelange
+▪ Regular Season - 12
   Sun Nov 13
-    15.00     Fola Esch v AS Jeunesse Esch  1-3 (1-2)   @ Stade Émile Mayrisch › Esch-sur-Alzette
+    15:00     Fola Esch v AS Jeunesse Esch  1-3 (1-2)   @ Stade Émile Mayrisch › Esch-sur-Alzette
               FC Differdange 03 v Wiltz  2-1 (1-1)   @ Stade Parc des Sports › Differdange
               Union Titus Petange v US Hostert  4-1 (3-0)   @ Stade Municipal de Pétange › Pétange
               UNA Strassen v Racing FC Union Luxembourg  1-4 (0-1)   @ Complexe Sportif Jean Wirtz › Strossen
               US Mondorf-les-bains v Victoria Rosport  1-6 (0-3)   @ Stade John Grün › Mondorf-les-Bains
               Etzella Ettelbruck v Progres Niederkorn  0-1 (0-0)   @ Centre Sportif du Deich › Ettelbrück
-    16.00     Mondercange v F91 Dudelange  2-3 (1-1)   @ Stade Communal › Mondercange
+    16:00     Mondercange v F91 Dudelange  2-3 (1-1)   @ Stade Communal › Mondercange
               Swift Hesperange v UN Kaerjeng 97  4-2 (1-2)   @ Stade Alphonse Theis › Hesperange
-» Regular Season - 13
+▪ Regular Season - 13
   Sat Nov 26
-    16.00     AS Jeunesse Esch v FC Differdange 03  1-0 (0-0)   @ Stade de la Frontière › Esch-sur-Alzette
+    16:00     AS Jeunesse Esch v FC Differdange 03  1-0 (0-0)   @ Stade de la Frontière › Esch-sur-Alzette
   Sun Nov 27
-    15.00     Progres Niederkorn v Fola Esch  3-2 (2-0)   @ Stade Jos Haupert › Niedercorn
+    15:00     Progres Niederkorn v Fola Esch  3-2 (2-0)   @ Stade Jos Haupert › Niedercorn
               Racing FC Union Luxembourg v Union Titus Petange  0-2 (0-1)   @ Stade Josy Barthel › Luxembourg
               UNA Strassen v Mondercange  2-0 (0-0)   @ Complexe Sportif Jean Wirtz › Strossen
               Victoria Rosport v Swift Hesperange  0-0 (0-0)   @ Party-Rent-Arena › Rosport
-    15.30     Wiltz v US Mondorf-les-bains  4-4 (2-2)   @ Stade am Petz › Weidingen
-    16.00     US Hostert v Etzella Ettelbruck  0-3 (0-0)   @ Stade Jos Becker › Hostert
+    15:30     Wiltz v US Mondorf-les-bains  4-4 (2-2)   @ Stade am Petz › Weidingen
+    16:00     US Hostert v Etzella Ettelbruck  0-3 (0-0)   @ Stade Jos Becker › Hostert
               UN Kaerjeng 97 v F91 Dudelange  2-4 (1-2)   @ Terrain Jos Bloes › Bascharage
-» Regular Season - 14
+▪ Regular Season - 14
   Sat Dec 3
-    16.00     Etzella Ettelbruck v Racing FC Union Luxembourg  0-1 (0-1)   @ Centre Sportif du Deich › Ettelbrück
-    18.00     Mondercange v UN Kaerjeng 97  1-1 (0-1)   @ Stade Communal › Mondercange
+    16:00     Etzella Ettelbruck v Racing FC Union Luxembourg  0-1 (0-1)   @ Centre Sportif du Deich › Ettelbrück
+    18:00     Mondercange v UN Kaerjeng 97  1-1 (0-1)   @ Stade Communal › Mondercange
   Sun Dec 4
-    14.30     F91 Dudelange v Victoria Rosport  2-0 (0-0)   @ Stade Jos Nosbaum › Dudelange
-    15.00     Fola Esch v US Hostert  0-1 (0-1)   @ Stade Émile Mayrisch › Esch-sur-Alzette
+    14:30     F91 Dudelange v Victoria Rosport  2-0 (0-0)   @ Stade Jos Nosbaum › Dudelange
+    15:00     Fola Esch v US Hostert  0-1 (0-1)   @ Stade Émile Mayrisch › Esch-sur-Alzette
               FC Differdange 03 v Progres Niederkorn  2-3 (2-1)   @ Stade Parc des Sports › Differdange
               Union Titus Petange v UNA Strassen  0-1 (0-0)   @ Stade Municipal de Pétange › Pétange
-    16.00     Swift Hesperange v Wiltz  4-2 (2-2)   @ Stade Alphonse Theis › Hesperange
+    16:00     Swift Hesperange v Wiltz  4-2 (2-2)   @ Stade Alphonse Theis › Hesperange
               US Mondorf-les-bains v AS Jeunesse Esch  3-1 (1-1)   @ Stade John Grün › Mondorf-les-Bains
-» Regular Season - 15
+▪ Regular Season - 15
   Sat Dec 10
-    15.00     US Hostert v FC Differdange 03  0-5 (0-1)   @ Stade Jos Becker › Hostert
-    15.30     Union Titus Petange v Mondercange  5-2 (4-2)   @ Stade Municipal de Pétange › Pétange
-    16.00     Swift Hesperange v AS Jeunesse Esch  2-0 (1-0)   @ Stade Alphonse Theis › Hesperange
-    17.00     Victoria Rosport v UN Kaerjeng 97  3-0 (1-0)   @ Party-Rent-Arena › Rosport
+    15:00     US Hostert v FC Differdange 03  0-5 (0-1)   @ Stade Jos Becker › Hostert
+    15:30     Union Titus Petange v Mondercange  5-2 (4-2)   @ Stade Municipal de Pétange › Pétange
+    16:00     Swift Hesperange v AS Jeunesse Esch  2-0 (1-0)   @ Stade Alphonse Theis › Hesperange
+    17:00     Victoria Rosport v UN Kaerjeng 97  3-0 (1-0)   @ Party-Rent-Arena › Rosport
   Sun Dec 11
-    15.00     UNA Strassen v Etzella Ettelbruck  4-1 (2-0)   @ Complexe Sportif Jean Wirtz › Strossen
+    15:00     UNA Strassen v Etzella Ettelbruck  4-1 (2-0)   @ Complexe Sportif Jean Wirtz › Strossen
               Wiltz v F91 Dudelange  0-3 (0-0)   @ Stade am Petz › Weidingen
               Racing FC Union Luxembourg v Fola Esch  4-2 (3-0)   @ Stade Achille Hammerel › Luxembourg
-    16.00     Progres Niederkorn v US Mondorf-les-bains  4-2 (2-0)   @ Stade Jos Haupert › Niedercorn
-» Regular Season - 16
+    16:00     Progres Niederkorn v US Mondorf-les-bains  4-2 (2-0)   @ Stade Jos Haupert › Niedercorn
+▪ Regular Season - 16
   Sun Feb 12 2023
-    14.30     F91 Dudelange v Progres Niederkorn  1-4 (0-2)   @ Stade Jos Nosbaum › Dudelange
+    14:30     F91 Dudelange v Progres Niederkorn  1-4 (0-2)   @ Stade Jos Nosbaum › Dudelange
   Sun Feb 12
-    16.00     Fola Esch v Union Titus Petange  1-2 (1-1)   @ Stade Émile Mayrisch › Esch-sur-Alzette
+    16:00     Fola Esch v Union Titus Petange  1-2 (1-1)   @ Stade Émile Mayrisch › Esch-sur-Alzette
               FC Differdange 03 v UNA Strassen  0-1 (0-1)   @ Stade Parc des Sports › Differdange
               UN Kaerjeng 97 v AS Jeunesse Esch  1-4 (0-3)   @ Terrain Jos Bloes › Bascharage
               US Mondorf-les-bains v Racing FC Union Luxembourg  0-1 (0-1)   @ Stade John Grün › Mondorf-les-Bains
               Victoria Rosport v Wiltz  0-0 (0-0)   @ Party-Rent-Arena › Rosport
               Etzella Ettelbruck v Mondercange  1-2 (0-0)   @ Centre Sportif du Deich › Ettelbrück
               Swift Hesperange v US Hostert  5-1 (3-1)   @ Stade Alphonse Theis › Hesperange
-» Regular Season - 17
+▪ Regular Season - 17
   Sat Feb 18
-    18.00     Mondercange v Wiltz  0-3 (0-2)   @ Stade Communal › Mondercange
+    18:00     Mondercange v Wiltz  0-3 (0-2)   @ Stade Communal › Mondercange
   Sun Feb 19
-    15.00     Progres Niederkorn v UN Kaerjeng 97  1-0 (0-0)   @ Stade Jos Haupert › Niedercorn
-    16.00     Racing FC Union Luxembourg v Swift Hesperange  1-3 (0-1)   @ Stade Achille Hammerel › Luxembourg
+    15:00     Progres Niederkorn v UN Kaerjeng 97  1-0 (0-0)   @ Stade Jos Haupert › Niedercorn
+    16:00     Racing FC Union Luxembourg v Swift Hesperange  1-3 (0-1)   @ Stade Achille Hammerel › Luxembourg
               Union Titus Petange v FC Differdange 03  4-2 (1-2)   @ Stade Municipal de Pétange › Pétange
               AS Jeunesse Esch v Victoria Rosport  2-0 (0-0)   @ Stade de la Frontière › Esch-sur-Alzette
               UNA Strassen v US Mondorf-les-bains  0-1 (0-0)   @ Complexe Sportif Jean Wirtz › Strossen
               US Hostert v F91 Dudelange  0-4 (0-2)   @ Stade Jos Becker › Hostert
               Etzella Ettelbruck v Fola Esch  0-4 (0-2)   @ Centre Sportif du Deich › Ettelbrück
-» Regular Season - 18
+▪ Regular Season - 18
   Sun Feb 26
-    15.00     F91 Dudelange v Racing FC Union Luxembourg  0-1 (0-0)   @ Stade Jos Nosbaum › Dudelange
-    16.00     Fola Esch v Mondercange  2-0 (1-0)   @ Stade Émile Mayrisch › Esch-sur-Alzette
+    15:00     F91 Dudelange v Racing FC Union Luxembourg  0-1 (0-0)   @ Stade Jos Nosbaum › Dudelange
+    16:00     Fola Esch v Mondercange  2-0 (1-0)   @ Stade Émile Mayrisch › Esch-sur-Alzette
               FC Differdange 03 v Etzella Ettelbruck  6-0 (2-0)   @ Stade Parc des Sports › Differdange
               UN Kaerjeng 97 v US Hostert  0-0 (0-0)   @ Terrain Jos Bloes › Bascharage
               US Mondorf-les-bains v Union Titus Petange  2-0 (2-0)   @ Stade John Grün › Mondorf-les-Bains
               Victoria Rosport v Progres Niederkorn  2-3 (2-0)   @ Party-Rent-Arena › Rosport
               Wiltz v AS Jeunesse Esch  3-2 (2-0)   @ Stade am Petz › Weidingen
               Swift Hesperange v UNA Strassen  3-0 (3-0)   @ Stade Alphonse Theis › Hesperange
-» Regular Season - 19
+▪ Regular Season - 19
   Sat Mar 4
-    18.00     Mondercange v AS Jeunesse Esch  1-2 (0-1)   @ Stade Communal › Mondercange
+    18:00     Mondercange v AS Jeunesse Esch  1-2 (0-1)   @ Stade Communal › Mondercange
               Fola Esch v FC Differdange 03  3-2 (1-1)   @ Stade Émile Mayrisch › Esch-sur-Alzette
   Sun Mar 5
-    16.00     Progres Niederkorn v Wiltz  3-0 (3-0)   @ Stade Jos Haupert › Niedercorn
+    16:00     Progres Niederkorn v Wiltz  3-0 (3-0)   @ Stade Jos Haupert › Niedercorn
               Racing FC Union Luxembourg v UN Kaerjeng 97  1-1 (1-1)   @ Stade Achille Hammerel › Luxembourg
               Union Titus Petange v Swift Hesperange  2-1 (2-1)   @ Stade Municipal de Pétange › Pétange
               UNA Strassen v F91 Dudelange  1-2 (1-1)   @ Complexe Sportif Jean Wirtz › Strossen
               US Hostert v Victoria Rosport  1-3 (1-2)   @ Stade Jos Becker › Hostert
               Etzella Ettelbruck v US Mondorf-les-bains  0-3 (0-1)   @ Centre Sportif du Deich › Ettelbrück
-» Regular Season - 20
+▪ Regular Season - 20
   Sat Mar 11
-    15.00     F91 Dudelange v Union Titus Petange  0-1 (0-0)   @ Stade Jos Nosbaum › Dudelange
+    15:00     F91 Dudelange v Union Titus Petange  0-1 (0-0)   @ Stade Jos Nosbaum › Dudelange
   Sun Mar 12
-    16.00     FC Differdange 03 v Mondercange  2-0 (1-0)   @ Stade Parc des Sports › Differdange
+    16:00     FC Differdange 03 v Mondercange  2-0 (1-0)   @ Stade Parc des Sports › Differdange
               AS Jeunesse Esch v Progres Niederkorn  0-1 (0-0)   @ Stade de la Frontière › Esch-sur-Alzette
               UN Kaerjeng 97 v UNA Strassen  1-2 (1-1)   @ Terrain Jos Bloes › Bascharage
               US Mondorf-les-bains v Fola Esch  5-0 (2-0)   @ Stade John Grün › Mondorf-les-Bains
               Victoria Rosport v Racing FC Union Luxembourg  4-2 (2-1)   @ Party-Rent-Arena › Rosport
               Wiltz v US Hostert  2-2 (0-1)   @ Stade am Petz › Weidingen
               Swift Hesperange v Etzella Ettelbruck  2-2 (1-1)   @ Stade Alphonse Theis › Hesperange
-» Regular Season - 21
+▪ Regular Season - 21
   Fri Mar 17
-    20.00     Union Titus Petange v UN Kaerjeng 97  4-1 (2-0)   @ Stade Municipal de Pétange › Pétange
+    20:00     Union Titus Petange v UN Kaerjeng 97  4-1 (2-0)   @ Stade Municipal de Pétange › Pétange
   Sun Mar 19
-    16.00     FC Differdange 03 v US Mondorf-les-bains  2-1 (0-0)   @ Stade Parc des Sports › Differdange
+    16:00     FC Differdange 03 v US Mondorf-les-bains  2-1 (0-0)   @ Stade Parc des Sports › Differdange
               Racing FC Union Luxembourg v Wiltz  0-1 (0-0)   @ Stade Achille Hammerel › Luxembourg
               UNA Strassen v Victoria Rosport  2-2 (1-1)   @ Complexe Sportif Jean Wirtz › Strossen
               US Hostert v AS Jeunesse Esch  0-1 (0-1)   @ Stade Jos Becker › Hostert
               Etzella Ettelbruck v F91 Dudelange  2-5 (1-5)   @ Centre Sportif du Deich › Ettelbrück
               Mondercange v Progres Niederkorn  3-3 (1-1)   @ Stade Communal › Mondercange
               Fola Esch v Swift Hesperange  0-1 (0-0)   @ Stade Émile Mayrisch › Esch-sur-Alzette
-» Regular Season - 22
+▪ Regular Season - 22
   Wed Mar 29
-    20.00     F91 Dudelange v Fola Esch  2-1 (1-0)   @ Stade Jos Nosbaum › Dudelange
+    20:00     F91 Dudelange v Fola Esch  2-1 (1-0)   @ Stade Jos Nosbaum › Dudelange
               Progres Niederkorn v US Hostert  6-0 (3-0)   @ Stade Jos Haupert › Niedercorn
               AS Jeunesse Esch v Racing FC Union Luxembourg  1-1 (1-1)   @ Stade de la Frontière › Esch-sur-Alzette
               US Mondorf-les-bains v Mondercange  4-1 (1-1)   @ Stade John Grün › Mondorf-les-Bains
               Victoria Rosport v Union Titus Petange  0-2 (0-2)   @ Party-Rent-Arena › Rosport
               Wiltz v UNA Strassen  2-1 (1-0)   @ Stade am Petz › Weidingen
               Swift Hesperange v FC Differdange 03  4-0 (0-0)   @ Stade Alphonse Theis › Hesperange
-» Regular Season - 23
+▪ Regular Season - 23
   Sun Apr 2
-    16.00     Fola Esch v UN Kaerjeng 97  3-2 (0-0)   @ Stade Émile Mayrisch › Esch-sur-Alzette
+    16:00     Fola Esch v UN Kaerjeng 97  3-2 (0-0)   @ Stade Émile Mayrisch › Esch-sur-Alzette
               FC Differdange 03 v F91 Dudelange  0-4 (0-2)   @ Stade Parc des Sports › Differdange
               Racing FC Union Luxembourg v Progres Niederkorn  1-2 (0-0)   @ Stade Achille Hammerel › Luxembourg
               Union Titus Petange v Wiltz  2-1 (1-0)   @ Stade Municipal de Pétange › Pétange
@@ -250,22 +250,22 @@
               US Mondorf-les-bains v Swift Hesperange  0-4 (0-2)   @ Stade John Grün › Mondorf-les-Bains
               Etzella Ettelbruck v Victoria Rosport  1-5 (0-3)   @ Centre Sportif du Deich › Ettelbrück
               Mondercange v US Hostert  1-0 (0-0)   @ Stade Communal › Mondercange
-» Regular Season - 22
+▪ Regular Season - 22
   Wed Apr 5
-    20.00     UN Kaerjeng 97 v Etzella Ettelbruck  0-3 (0-1)   @ Terrain Jos Bloes › Bascharage
-» Regular Season - 24
+    20:00     UN Kaerjeng 97 v Etzella Ettelbruck  0-3 (0-1)   @ Terrain Jos Bloes › Bascharage
+▪ Regular Season - 24
   Sat Apr 8
-    16.00     F91 Dudelange v US Mondorf-les-bains  4-0 (3-0)   @ Stade Jos Nosbaum › Dudelange
+    16:00     F91 Dudelange v US Mondorf-les-bains  4-0 (3-0)   @ Stade Jos Nosbaum › Dudelange
               AS Jeunesse Esch v Union Titus Petange  2-2 (0-0)   @ Stade de la Frontière › Esch-sur-Alzette
-    18.00     UN Kaerjeng 97 v FC Differdange 03  0-8 (0-4)   @ Terrain Jos Bloes › Bascharage
+    18:00     UN Kaerjeng 97 v FC Differdange 03  0-8 (0-4)   @ Terrain Jos Bloes › Bascharage
               Victoria Rosport v Fola Esch  3-0 (2-0)   @ Party-Rent-Arena › Rosport
               US Hostert v Racing FC Union Luxembourg  1-1 (0-0)   @ Stade Jos Becker › Hostert
               Wiltz v Etzella Ettelbruck  3-0 (1-0)   @ Stade am Petz › Weidingen
               Swift Hesperange v Mondercange  2-1 (1-1)   @ Stade Alphonse Theis › Hesperange
               Progres Niederkorn v UNA Strassen  2-1 (2-1)   @ Stade Jos Haupert › Niedercorn
-» Regular Season - 25
+▪ Regular Season - 25
   Sun Apr 16
-    16.00     Fola Esch v Wiltz  1-2 (1-1)   @ Stade Émile Mayrisch › Esch-sur-Alzette
+    16:00     Fola Esch v Wiltz  1-2 (1-1)   @ Stade Émile Mayrisch › Esch-sur-Alzette
               FC Differdange 03 v Victoria Rosport  4-0 (2-0)   @ Stade Parc des Sports › Differdange
               Union Titus Petange v Progres Niederkorn  0-2 (0-0)   @ Stade Municipal de Pétange › Pétange
               UNA Strassen v US Hostert  2-0 (1-0)   @ Complexe Sportif Jean Wirtz › Strossen
@@ -273,43 +273,43 @@
               Etzella Ettelbruck v AS Jeunesse Esch  3-0 (0-0)   @ Centre Sportif du Deich › Ettelbrück
               Swift Hesperange v F91 Dudelange  4-3 (1-1)   @ Stade Alphonse Theis › Hesperange
               Mondercange v Racing FC Union Luxembourg  0-1 (0-0)   @ Stade Communal › Mondercange
-» Regular Season - 26
+▪ Regular Season - 26
   Sat Apr 22
-    16.00     Victoria Rosport v US Mondorf-les-bains  1-1 (0-0)   @ Party-Rent-Arena › Rosport
-    18.00     Wiltz v FC Differdange 03  1-2 (0-0)   @ Stade am Petz › Weidingen
+    16:00     Victoria Rosport v US Mondorf-les-bains  1-1 (0-0)   @ Party-Rent-Arena › Rosport
+    18:00     Wiltz v FC Differdange 03  1-2 (0-0)   @ Stade am Petz › Weidingen
   Sun Apr 23
-    16.00     F91 Dudelange v Mondercange  5-1 (1-1)   @ Stade Jos Nosbaum › Dudelange
+    16:00     F91 Dudelange v Mondercange  5-1 (1-1)   @ Stade Jos Nosbaum › Dudelange
               Progres Niederkorn v Etzella Ettelbruck  3-1 (1-0)   @ Stade Jos Haupert › Niedercorn
               Racing FC Union Luxembourg v UNA Strassen  0-1 (0-0)   @ Stade Achille Hammerel › Luxembourg
               AS Jeunesse Esch v Fola Esch  3-1 (3-0)   @ Stade de la Frontière › Esch-sur-Alzette
               UN Kaerjeng 97 v Swift Hesperange  0-6 (0-4)   @ Terrain Jos Bloes › Bascharage
               US Hostert v Union Titus Petange  0-2 (0-2)   @ Stade Jos Becker › Hostert
-» Regular Season - 27
+▪ Regular Season - 27
   Sat Apr 29
-    19.30     Mondercange v UNA Strassen  0-0 (0-0)   @ Stade Communal › Mondercange
+    19:30     Mondercange v UNA Strassen  0-0 (0-0)   @ Stade Communal › Mondercange
   Sun Apr 30
-    16.00     F91 Dudelange v UN Kaerjeng 97  4-0 (1-0)   @ Stade Jos Nosbaum › Dudelange
+    16:00     F91 Dudelange v UN Kaerjeng 97  4-0 (1-0)   @ Stade Jos Nosbaum › Dudelange
               Fola Esch v Progres Niederkorn  0-4 (0-3)   @ Stade Émile Mayrisch › Esch-sur-Alzette
               FC Differdange 03 v AS Jeunesse Esch  0-2 (0-1)   @ Stade Parc des Sports › Differdange
               Union Titus Petange v Racing FC Union Luxembourg  1-1 (1-0)   @ Stade Municipal de Pétange › Pétange
               US Mondorf-les-bains v Wiltz  3-0 (0-0)   @ Stade John Grün › Mondorf-les-Bains
               Etzella Ettelbruck v US Hostert  1-1 (1-0)   @ Centre Sportif du Deich › Ettelbrück
               Swift Hesperange v Victoria Rosport  5-1 (3-1)   @ Stade Alphonse Theis › Hesperange
-» Regular Season - 28
+▪ Regular Season - 28
   Fri May 5
-    20.00     AS Jeunesse Esch v US Mondorf-les-bains  0-2 (0-2)   @ Stade de la Frontière › Esch-sur-Alzette
+    20:00     AS Jeunesse Esch v US Mondorf-les-bains  0-2 (0-2)   @ Stade de la Frontière › Esch-sur-Alzette
   Sat May 6
-    18.00     Progres Niederkorn v FC Differdange 03  2-0 (0-0)   @ Stade Jos Haupert › Niedercorn
+    18:00     Progres Niederkorn v FC Differdange 03  2-0 (0-0)   @ Stade Jos Haupert › Niedercorn
   Sun May 7
-    16.00     UN Kaerjeng 97 v Mondercange  2-2 (0-1)   @ Terrain Jos Bloes › Bascharage
+    16:00     UN Kaerjeng 97 v Mondercange  2-2 (0-1)   @ Terrain Jos Bloes › Bascharage
               UNA Strassen v Union Titus Petange  0-3 (0-3)   @ Complexe Sportif Jean Wirtz › Strossen
               Victoria Rosport v F91 Dudelange  2-1 (0-0)   @ Party-Rent-Arena › Rosport
               US Hostert v Fola Esch  0-1 (0-1)   @ Stade Jos Becker › Hostert
               Wiltz v Swift Hesperange  0-6 (0-3)   @ Stade am Petz › Weidingen
               Racing FC Union Luxembourg v Etzella Ettelbruck  2-2 (1-1)   @ Stade Achille Hammerel › Luxembourg
-» Regular Season - 29
+▪ Regular Season - 29
   Sun May 14
-    16.00     F91 Dudelange v Wiltz  1-1 (1-0)   @ Stade Jos Nosbaum › Dudelange
+    16:00     F91 Dudelange v Wiltz  1-1 (1-0)   @ Stade Jos Nosbaum › Dudelange
               Fola Esch v Racing FC Union Luxembourg  1-1 (1-0)   @ Stade Émile Mayrisch › Esch-sur-Alzette
               FC Differdange 03 v US Hostert  1-0 (0-0)   @ Stade Parc des Sports › Differdange
               AS Jeunesse Esch v Swift Hesperange  1-1 (0-0)   @ Stade de la Frontière › Esch-sur-Alzette
@@ -317,9 +317,9 @@
               US Mondorf-les-bains v Progres Niederkorn  0-1 (0-1)   @ Stade John Grün › Mondorf-les-Bains
               Etzella Ettelbruck v UNA Strassen  3-0 (1-0)   @ Centre Sportif du Deich › Ettelbrück
               Mondercange v Union Titus Petange  4-1 (2-1)   @ Stade Communal › Mondercange
-» Regular Season - 30
+▪ Regular Season - 30
   Sun May 21
-    16.00     Progres Niederkorn v Swift Hesperange  2-2 (1-1)   @ Stade Jos Haupert › Niedercorn
+    16:00     Progres Niederkorn v Swift Hesperange  2-2 (1-1)   @ Stade Jos Haupert › Niedercorn
               Racing FC Union Luxembourg v FC Differdange 03  0-1 (0-0)   @ Stade Achille Hammerel › Luxembourg
               Union Titus Petange v Etzella Ettelbruck  3-2 (1-0)   @ Stade Municipal de Pétange › Pétange
               AS Jeunesse Esch v F91 Dudelange  4-2 (3-1)   @ Stade de la Frontière › Esch-sur-Alzette
@@ -327,8 +327,8 @@
               Victoria Rosport v Mondercange  1-2 (0-1)   @ Party-Rent-Arena › Rosport
               US Hostert v US Mondorf-les-bains  2-5 (0-3)   @ Stade Jos Becker › Hostert
               Wiltz v UN Kaerjeng 97  2-3 (0-2)   @ Stade am Petz › Weidingen
-» Finals
+▪ Finals
   Thu May 25
-    19.30     Fola Esch v Jeunesse Canach  4-3 aet (3-3, 1-1)   @ Stade Achille Hammerel › Luxembourg
+    19:30     Fola Esch v Jeunesse Canach  4-3 aet (3-3, 1-1)   @ Stade Achille Hammerel › Luxembourg
   Sat May 27
-    19.00     UN Kaerjeng 97 v Bettembourg  3-2 (1-1)   @ Stade Jos Haupert › Niedercorn
+    19:00     UN Kaerjeng 97 v Bettembourg  3-2 (1-1)   @ Stade Jos Haupert › Niedercorn

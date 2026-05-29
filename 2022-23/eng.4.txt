@@ -1,16 +1,16 @@
 = England | League Two 2022/23
 
-  # Date       Sat Jul/30 2022 - Sun May/28 2023 (302d)
+  # Date       Sat Jul 30 2022 - Sun May 28 2023 (302d)
   # Teams      24
   # Matches    557
 
   # Note - All times in Europe/London
 
-» Regular Season - 1
+▪ Regular Season - 1
   Sat Jul 30 2022
-    15.00     AFC Wimbledon v Gillingham  2-0 (1-0)   @ The Cherry Red Records Stadium › London
+    15:00     AFC Wimbledon v Gillingham  2-0 (1-0)   @ The Cherry Red Records Stadium › London
   Sat Jul 30
-    15.00     Northampton v Colchester  3-2 (1-1)   @ Sixfields Stadium › Northampton, East Midlands
+    15:00     Northampton v Colchester  3-2 (1-1)   @ Sixfields Stadium › Northampton, East Midlands
               Rochdale v Crewe  1-2 (0-2)   @ Crown Oil Arena › Rochdale, Greater Manchester
               Walsall v Hartlepool  4-0 (2-0)   @ Poundland Bescot Stadium › Walsall, West Midlands
               Bradford v Doncaster  0-0 (0-0)   @ University of Bradford Stadium › Bradford, West Yorkshire
@@ -21,9 +21,9 @@
               Harrogate Town v Swindon Town  3-0 (1-0)   @ EnviroVent Stadium › Harrogate, North Yorkshire
               Salford City v Mansfield Town  2-0 (2-0)   @ The Peninsula Stadium › Salford, Greater Manchester
               Stockport County v Barrow  2-3 (0-3)   @ Edgeley Park › Stockport, Greater Manchester
-» Regular Season - 2
+▪ Regular Season - 2
   Sat Aug 6
-    15.00     Gillingham v Rochdale  1-0 (1-0)   @ Priestfield Stadium › Gillingham, Kent
+    15:00     Gillingham v Rochdale  1-0 (1-0)   @ Priestfield Stadium › Gillingham, Kent
               Swindon Town v Salford City  0-0 (0-0)   @ The County Ground › Swindon, Wiltshire
               Doncaster v Sutton Utd  2-1 (0-1)   @ Eco-Power Stadium › Doncaster, South Yorkshire
               Colchester v Carlisle  1-1 (1-1)   @ JobServe Community Stadium › Colchester, Essex
@@ -35,9 +35,9 @@
               Stevenage v Stockport County  2-1 (0-0)   @ The Lamex Stadium › Stevenage, Hertfordshire
               Mansfield Town v Tranmere  1-0 (0-0)   @ One Call Stadium › Mansfield, Nottinghamshire
               Barrow v Bradford  3-2 (0-0)   @ SO Legal Stadium › Barrow-in-Furness, Cumbria
-» Regular Season - 3
+▪ Regular Season - 3
   Sat Aug 13
-    15.00     AFC Wimbledon v Doncaster  2-2 (0-0)   @ The Cherry Red Records Stadium › London
+    15:00     AFC Wimbledon v Doncaster  2-2 (0-0)   @ The Cherry Red Records Stadium › London
               Northampton v Hartlepool  2-1 (1-1)   @ Sixfields Stadium › Northampton, East Midlands
               Rochdale v Grimsby  0-1 (0-0)   @ Crown Oil Arena › Rochdale, Greater Manchester
               Walsall v Stevenage  1-1 (1-0)   @ Poundland Bescot Stadium › Walsall, West Midlands
@@ -49,9 +49,9 @@
               Harrogate Town v Crawley Town  0-0 (0-0)   @ EnviroVent Stadium › Harrogate, North Yorkshire
               Salford City v Crewe  3-0 (1-0)   @ The Peninsula Stadium › Salford, Greater Manchester
               Stockport County v Colchester  1-0 (0-0)   @ Edgeley Park › Stockport, Greater Manchester
-» Regular Season - 4
+▪ Regular Season - 4
   Tue Aug 16
-    19.45     Gillingham v Harrogate Town  0-2 (0-1)   @ MEMS Priestfield Stadium › Gillingham, Kent
+    19:45     Gillingham v Harrogate Town  0-2 (0-1)   @ MEMS Priestfield Stadium › Gillingham, Kent
               Swindon Town v Leyton Orient  1-1 (1-1)   @ The County Ground › Swindon, Wiltshire
               Doncaster v Stockport County  2-1 (1-0)   @ Eco-Power Stadium › Doncaster, South Yorkshire
               Colchester v Bradford  1-0 (0-0)   @ JobServe Community Stadium › Colchester, Essex
@@ -62,10 +62,10 @@
               Stevenage v Rochdale  1-0 (1-0)   @ The Lamex Stadium › Stevenage, Hertfordshire
               Mansfield Town v AFC Wimbledon  5-2 (2-2)   @ One Call Stadium › Mansfield, Nottinghamshire
               Barrow v Walsall  2-1 (2-0)   @ SO Legal Stadium › Barrow-in-Furness, Cumbria
-» Regular Season - 5
+▪ Regular Season - 5
   Sat Aug 20
-    13.00     Hartlepool v Bradford  1-3 (1-1)   @ The Suit Direct Stadium › Hartlepool, County Durham
-    15.00     Gillingham v Walsall  0-0 (0-0)   @ MEMS Priestfield Stadium › Gillingham, Kent
+    13:00     Hartlepool v Bradford  1-3 (1-1)   @ The Suit Direct Stadium › Hartlepool, County Durham
+    15:00     Gillingham v Walsall  0-0 (0-0)   @ MEMS Priestfield Stadium › Gillingham, Kent
               Swindon Town v Rochdale  3-0 (1-0)   @ The County Ground › Swindon, Wiltshire
               Doncaster v Salford City  2-1 (1-1)   @ Eco-Power Stadium › Doncaster, South Yorkshire
               Colchester v Leyton Orient  1-3 (0-1)   @ JobServe Community Stadium › Colchester, Essex
@@ -76,9 +76,9 @@
               Stevenage v Carlisle  2-1 (2-1)   @ The Lamex Stadium › Stevenage, Hertfordshire
               Mansfield Town v Stockport County  2-1 (0-0)   @ One Call Stadium › Mansfield, Nottinghamshire
               Barrow v Harrogate Town  1-0 (1-0)   @ SO Legal Stadium › Barrow-in-Furness, Cumbria
-» Regular Season - 6
+▪ Regular Season - 6
   Sat Aug 27
-    15.00     AFC Wimbledon v Barrow  0-1 (0-1)   @ The Cherry Red Records Stadium › London
+    15:00     AFC Wimbledon v Barrow  0-1 (0-1)   @ The Cherry Red Records Stadium › London
               Northampton v Doncaster  0-1 (0-0)   @ Sixfields Stadium › Northampton, East Midlands
               Rochdale v Crawley Town  1-1 (0-1)   @ Crown Oil Arena › Rochdale, Greater Manchester
               Walsall v Grimsby  1-2 (1-0)   @ Poundland Bescot Stadium › Walsall, West Midlands
@@ -90,9 +90,9 @@
               Harrogate Town v Newport County  0-4 (0-4)   @ EnviroVent Stadium › Harrogate, North Yorkshire
               Salford City v Stevenage  1-0 (0-0)   @ The Peninsula Stadium › Salford, Greater Manchester
               Stockport County v Swindon Town  1-1 (0-0)   @ Edgeley Park › Stockport, Greater Manchester
-» Regular Season - 7
+▪ Regular Season - 7
   Sat Sep 3
-    15.00     Northampton v Barrow  3-1 (1-1)   @ Sixfields Stadium › Northampton, East Midlands
+    15:00     Northampton v Barrow  3-1 (1-1)   @ Sixfields Stadium › Northampton, East Midlands
               Bradford v Walsall  2-1 (2-0)   @ University of Bradford Stadium › Bradford, West Yorkshire
               Gillingham v Swindon Town  0-0 (0-0)   @ MEMS Priestfield Stadium › Gillingham, Kent
               Doncaster v Mansfield Town  1-3 (1-1)   @ Eco-Power Stadium › Doncaster, South Yorkshire
@@ -104,9 +104,9 @@
               Sutton Utd v Harrogate Town  2-1 (1-1)   @ VBS Community Stadium › Sutton, Surrey
               Salford City v Crawley Town  2-2 (1-1)   @ The Peninsula Stadium › Salford, Greater Manchester
               Stockport County v AFC Wimbledon  1-0 (1-0)   @ Edgeley Park › Stockport, Greater Manchester
-» Regular Season - 9
+▪ Regular Season - 9
   Tue Sep 13
-    19.45     AFC Wimbledon v Northampton  0-2 (0-1)   @ The Cherry Red Records Stadium › London
+    19:45     AFC Wimbledon v Northampton  0-2 (0-1)   @ The Cherry Red Records Stadium › London
               Rochdale v Leyton Orient  0-1 (0-1)   @ Crown Oil Arena › Rochdale, Greater Manchester
               Walsall v Colchester  1-1 (0-1)   @ Poundland Bescot Stadium › Walsall, West Midlands
               Swindon Town v Sutton Utd  3-2 (2-2)   @ The County Ground › Swindon, Wiltshire
@@ -118,9 +118,9 @@
               Tranmere v Bradford  1-2 (0-1)   @ Prenton Park › Birkenhead, Merseyside
               Barrow v Doncaster  2-0 (1-0)   @ SO Legal Stadium › Barrow-in-Furness, Cumbria
               Harrogate Town v Salford City  0-1 (0-0)   @ EnviroVent Stadium › Harrogate, North Yorkshire
-» Regular Season - 10
+▪ Regular Season - 10
   Sat Sep 17
-    15.00     Northampton v Rochdale  3-0 (1-0)   @ Sixfields Stadium › Northampton, East Midlands
+    15:00     Northampton v Rochdale  3-0 (1-0)   @ Sixfields Stadium › Northampton, East Midlands
               Bradford v Stevenage  3-0 (1-0)   @ University of Bradford Stadium › Bradford, West Yorkshire
               Gillingham v Mansfield Town  0-2 (0-2)   @ MEMS Priestfield Stadium › Gillingham, Kent
               Doncaster v Swindon Town  0-1 (0-0)   @ Eco-Power Stadium › Doncaster, South Yorkshire
@@ -132,10 +132,10 @@
               Sutton Utd v Hartlepool  2-0 (0-0)   @ VBS Community Stadium › Sutton, Surrey
               Salford City v Tranmere  0-1 (0-1)   @ The Peninsula Stadium › Salford, Greater Manchester
               Stockport County v Harrogate Town  0-0 (0-0)   @ Edgeley Park › Stockport, Greater Manchester
-» Regular Season - 11
+▪ Regular Season - 11
   Sat Sep 24
-    14.00     Northampton v Stockport County  2-1 (0-1)   @ Sixfields Stadium › Northampton, East Midlands
-    15.00     Walsall v Tranmere  0-1 (0-0)   @ Poundland Bescot Stadium › Walsall, West Midlands
+    14:00     Northampton v Stockport County  2-1 (0-1)   @ Sixfields Stadium › Northampton, East Midlands
+    15:00     Walsall v Tranmere  0-1 (0-0)   @ Poundland Bescot Stadium › Walsall, West Midlands
               Bradford v AFC Wimbledon  2-2 (1-0)   @ University of Bradford Stadium › Bradford, West Yorkshire
               Doncaster v Crawley Town  4-1 (1-1)   @ Eco-Power Stadium › Doncaster, South Yorkshire
               Colchester v Rochdale  0-1 (0-1)   @ JobServe Community Stadium › Colchester, Essex
@@ -146,15 +146,15 @@
               Stevenage v Harrogate Town  1-0 (0-0)   @ The Lamex Stadium › Stevenage, Hertfordshire
               Barrow v Leyton Orient  0-2 (0-1)   @ SO Legal Stadium › Barrow-in-Furness, Cumbria
               Sutton Utd v Salford City  1-2 (0-0)   @ VBS Community Stadium › Sutton, Surrey
-» Regular Season - 4
+▪ Regular Season - 4
   Tue Sep 27
-    19.45     Grimsby v Carlisle  1-2 (0-2)   @ Blundell Park › Cleethorpes, North East Lincolnshire
-» Regular Season - 12
+    19:45     Grimsby v Carlisle  1-2 (0-2)   @ Blundell Park › Cleethorpes, North East Lincolnshire
+▪ Regular Season - 12
   Fri Sep 30
-    19.45     Mansfield Town v Hartlepool  2-2 (0-0)   @ One Call Stadium › Mansfield, Nottinghamshire
+    19:45     Mansfield Town v Hartlepool  2-2 (0-0)   @ One Call Stadium › Mansfield, Nottinghamshire
   Sat Oct 1
-    13.00     Harrogate Town v Bradford  1-2 (0-1)   @ EnviroVent Stadium › Harrogate, North Yorkshire
-    15.00     AFC Wimbledon v Colchester  2-1 (0-1)   @ The Cherry Red Records Stadium › London
+    13:00     Harrogate Town v Bradford  1-2 (0-1)   @ EnviroVent Stadium › Harrogate, North Yorkshire
+    15:00     AFC Wimbledon v Colchester  2-1 (0-1)   @ The Cherry Red Records Stadium › London
               Rochdale v Doncaster  1-2 (1-1)   @ Crown Oil Arena › Rochdale, Greater Manchester
               Gillingham v Sutton Utd  1-0 (0-0)   @ MEMS Priestfield Stadium › Gillingham, Kent
               Swindon Town v Northampton  1-2 (0-0)   @ The County Ground › Swindon, Wiltshire
@@ -164,15 +164,15 @@
               Tranmere v Barrow  1-0 (1-0)   @ Prenton Park › Birkenhead, Merseyside
               Salford City v Grimsby  1-1 (1-1)   @ The Peninsula Stadium › Salford, Greater Manchester
               Stockport County v Walsall  1-1 (1-0)   @ Edgeley Park › Stockport, Greater Manchester
-» Regular Season - 8
+▪ Regular Season - 8
   Tue Oct 4
-    19.45     Swindon Town v Newport County  1-0 (0-0)   @ The County Ground › Swindon, Wiltshire
+    19:45     Swindon Town v Newport County  1-0 (0-0)   @ The County Ground › Swindon, Wiltshire
               Hartlepool v Doncaster  2-1 (1-0)   @ The Suit Direct Stadium › Hartlepool, County Durham
               Stevenage v Sutton Utd  3-0 (1-0)   @ The Lamex Stadium › Stevenage, Hertfordshire
               Walsall v Northampton  1-0 (1-0)   @ Poundland Bescot Stadium › Walsall, West Midlands
-» Regular Season - 14
+▪ Regular Season - 14
   Sat Oct 8
-    15.00     Northampton v Salford City  0-1 (0-1)   @ Sixfields Stadium › Northampton, East Midlands
+    15:00     Northampton v Salford City  0-1 (0-1)   @ Sixfields Stadium › Northampton, East Midlands
               Walsall v AFC Wimbledon  3-1 (1-1)   @ Poundland Bescot Stadium › Walsall, West Midlands
               Bradford v Stockport County  0-1 (0-1)   @ University of Bradford Stadium › Bradford, West Yorkshire
               Doncaster v Leyton Orient  1-1 (0-1)   @ Eco-Power Stadium › Doncaster, South Yorkshire
@@ -184,13 +184,13 @@
               Stevenage v Swindon Town  2-0 (1-0)   @ The Lamex Stadium › Stevenage, Hertfordshire
               Barrow v Mansfield Town  0-1 (0-0)   @ SO Legal Stadium › Barrow-in-Furness, Cumbria
               Sutton Utd v Tranmere  0-2 (0-2)   @ VBS Community Stadium › Sutton, Surrey
-» Regular Season - 15
+▪ Regular Season - 15
   Fri Oct 14
-    19.45     Tranmere v Crewe  3-0 (1-0)   @ Prenton Park › Birkenhead, Merseyside
+    19:45     Tranmere v Crewe  3-0 (1-0)   @ Prenton Park › Birkenhead, Merseyside
   Sat Oct 15
-    12.30     Harrogate Town v Hartlepool  2-1 (2-0)   @ EnviroVent Stadium › Harrogate, North Yorkshire
-    13.00     Mansfield Town v Walsall  2-1 (1-1)   @ One Call Stadium › Mansfield, Nottinghamshire
-    15.00     AFC Wimbledon v Sutton Utd  0-1 (0-1)   @ The Cherry Red Records Stadium › London
+    12:30     Harrogate Town v Hartlepool  2-1 (2-0)   @ EnviroVent Stadium › Harrogate, North Yorkshire
+    13:00     Mansfield Town v Walsall  2-1 (1-1)   @ One Call Stadium › Mansfield, Nottinghamshire
+    15:00     AFC Wimbledon v Sutton Utd  0-1 (0-1)   @ The Cherry Red Records Stadium › London
               Rochdale v Barrow  2-1 (1-0)   @ Crown Oil Arena › Rochdale, Greater Manchester
               Gillingham v Stevenage  1-1 (1-1)   @ MEMS Priestfield Stadium › Gillingham, Kent
               Swindon Town v Colchester  1-0 (0-0)   @ The County Ground › Swindon, Wiltshire
@@ -199,9 +199,9 @@
               Leyton Orient v Northampton  0-0 (0-0)   @ Brisbane Road › London
               Salford City v Bradford  0-1 (0-1)   @ The Peninsula Stadium › Salford, Greater Manchester
               Stockport County v Grimsby  1-3 (1-2)   @ Edgeley Park › Stockport, Greater Manchester
-» Regular Season - 16
+▪ Regular Season - 16
   Sat Oct 22
-    15.00     Rochdale v AFC Wimbledon  1-2 (0-1)   @ Crown Oil Arena › Rochdale, Greater Manchester
+    15:00     Rochdale v AFC Wimbledon  1-2 (0-1)   @ Crown Oil Arena › Rochdale, Greater Manchester
               Gillingham v Barrow  1-1 (0-1)   @ MEMS Priestfield Stadium › Gillingham, Kent
               Swindon Town v Hartlepool  2-1 (2-1)   @ The County Ground › Swindon, Wiltshire
               Crawley Town v Mansfield Town  3-2 (2-2)   @ Broadfield Stadium › Crawley, West Sussex
@@ -213,9 +213,9 @@
               Sutton Utd v Walsall  1-1 (0-0)   @ VBS Community Stadium › Sutton, Surrey
               Harrogate Town v Tranmere  1-1 (1-0)   @ EnviroVent Stadium › Harrogate, North Yorkshire
               Salford City v Stockport County  0-2 (0-1)   @ The Peninsula Stadium › Salford, Greater Manchester
-» Regular Season - 13
+▪ Regular Season - 13
   Tue Oct 25
-    19.45     AFC Wimbledon v Crewe  1-1 (1-0)   @ The Cherry Red Records Stadium › London
+    19:45     AFC Wimbledon v Crewe  1-1 (1-0)   @ The Cherry Red Records Stadium › London
               Northampton v Sutton Utd  2-2 (2-0)   @ Sixfields Stadium › Northampton, East Midlands
               Walsall v Harrogate Town  3-1 (3-0)   @ Poundland Bescot Stadium › Walsall, West Midlands
               Bradford v Swindon Town  1-1 (1-0)   @ University of Bradford Stadium › Bradford, West Yorkshire
@@ -227,10 +227,10 @@
               Tranmere v Rochdale  1-1 (1-1)   @ Prenton Park › Birkenhead, Merseyside
               Barrow v Grimsby  1-0 (0-0)   @ SO Legal Stadium › Barrow-in-Furness, Cumbria
               Stockport County v Carlisle  2-0 (1-0)   @ Edgeley Park › Stockport, Greater Manchester
-» Regular Season - 17
+▪ Regular Season - 17
   Sat Oct 29
-    14.00     Northampton v Newport County  1-1 (0-1)   @ Sixfields Stadium › Northampton, East Midlands
-    15.00     AFC Wimbledon v Harrogate Town  3-2 (1-0)   @ The Cherry Red Records Stadium › London
+    14:00     Northampton v Newport County  1-1 (0-1)   @ Sixfields Stadium › Northampton, East Midlands
+    15:00     AFC Wimbledon v Harrogate Town  3-2 (1-0)   @ The Cherry Red Records Stadium › London
               Walsall v Rochdale  1-0 (1-0)   @ Poundland Bescot Stadium › Walsall, West Midlands
               Bradford v Crawley Town  1-1 (0-0)   @ University of Bradford Stadium › Bradford, West Yorkshire
               Doncaster v Gillingham  1-0 (0-0)   @ Eco-Power Stadium › Doncaster, South Yorkshire
@@ -241,18 +241,18 @@
               Tranmere v Carlisle  0-2 (0-1)   @ Prenton Park › Birkenhead, Merseyside
               Barrow v Crewe  3-0 (2-0)   @ SO Legal Stadium › Barrow-in-Furness, Cumbria
               Stockport County v Sutton Utd  3-0 (1-0)   @ Edgeley Park › Stockport, Greater Manchester
-» Regular Season - 8
+▪ Regular Season - 8
   Tue Nov 1
-    19.45     Barrow v Colchester  3-1 (2-0)   @ SO Legal Stadium › Barrow-in-Furness, Cumbria
+    19:45     Barrow v Colchester  3-1 (2-0)   @ SO Legal Stadium › Barrow-in-Furness, Cumbria
               Tranmere v Stockport County  0-0 (0-0)   @ Prenton Park › Birkenhead, Merseyside
   Tue Nov 8
-    19.45     Rochdale v Salford City  1-0 (0-0)   @ Crown Oil Arena › Rochdale, Greater Manchester
+    19:45     Rochdale v Salford City  1-0 (0-0)   @ Crown Oil Arena › Rochdale, Greater Manchester
               Mansfield Town v Bradford  1-2 (0-1)   @ One Call Stadium › Mansfield, Nottinghamshire
               Harrogate Town v Carlisle  3-3 (1-1)   @ EnviroVent Stadium › Harrogate, North Yorkshire
               AFC Wimbledon v Leyton Orient  2-0 (2-0)   @ The Cherry Red Records Stadium › London
-» Regular Season - 18
+▪ Regular Season - 18
   Sat Nov 12
-    15.00     Rochdale v Mansfield Town  0-1 (0-0)   @ Crown Oil Arena › Rochdale, Greater Manchester
+    15:00     Rochdale v Mansfield Town  0-1 (0-0)   @ Crown Oil Arena › Rochdale, Greater Manchester
               Gillingham v Northampton  0-2 (0-1)   @ MEMS Priestfield Stadium › Gillingham, Kent
               Swindon Town v Tranmere  1-1 (1-1)   @ The County Ground › Swindon, Wiltshire
               Crawley Town v Barrow  1-0 (1-0)   @ Broadfield Stadium › Crawley, West Sussex
@@ -264,9 +264,9 @@
               Sutton Utd v Bradford  0-2 (0-1)   @ VBS Community Stadium › Sutton, Surrey
               Harrogate Town v Leyton Orient  0-2 (0-2)   @ EnviroVent Stadium › Harrogate, North Yorkshire
               Salford City v AFC Wimbledon  0-0 (0-0)   @ The Peninsula Stadium › Salford, Greater Manchester
-» Regular Season - 19
+▪ Regular Season - 19
   Sat Nov 19
-    15.00     Walsall v Crawley Town  2-1 (1-1)   @ Poundland Bescot Stadium › Walsall, West Midlands
+    15:00     Walsall v Crawley Town  2-1 (1-1)   @ Poundland Bescot Stadium › Walsall, West Midlands
               Bradford v Northampton  1-3 (0-2)   @ University of Bradford Stadium › Bradford, West Yorkshire
               Swindon Town v Crewe  0-1 (0-1)   @ The County Ground › Swindon, Wiltshire
               Colchester v Doncaster  3-0 (1-0)   @ JobServe Community Stadium › Colchester, Essex
@@ -278,42 +278,42 @@
               Harrogate Town v Mansfield Town  3-0 (3-0)   @ EnviroVent Stadium › Harrogate, North Yorkshire
               Salford City v Carlisle  1-4 (0-1)   @ The Peninsula Stadium › Salford, Greater Manchester
               Stockport County v Leyton Orient  1-2 (1-1)   @ Edgeley Park › Stockport, Greater Manchester
-» Regular Season - 8
+▪ Regular Season - 8
   Tue Nov 22
-    19.45     Crawley Town v Gillingham  0-0 (0-0)   @ Broadfield Stadium › Crawley, West Sussex
-» Regular Season - 20
+    19:45     Crawley Town v Gillingham  0-0 (0-0)   @ Broadfield Stadium › Crawley, West Sussex
+▪ Regular Season - 20
   Fri Dec 2
-    19.45     Doncaster v Walsall  0-2 (0-0)   @ Eco-Power Stadium › Doncaster, South Yorkshire
+    19:45     Doncaster v Walsall  0-2 (0-0)   @ Eco-Power Stadium › Doncaster, South Yorkshire
               Crewe v Newport County  1-2 (1-0)   @ Mornflake Stadium › Crewe, Cheshire
               Stevenage v Barrow  5-0 (1-0)   @ The Lamex Stadium › Stevenage, Hertfordshire
   Sat Dec 3
-    12.30     Gillingham v Salford City  0-3 (0-0)   @ MEMS Priestfield Stadium › Gillingham, Kent
+    12:30     Gillingham v Salford City  0-3 (0-0)   @ MEMS Priestfield Stadium › Gillingham, Kent
               Leyton Orient v Bradford  3-0 (2-0)   @ Brisbane Road › London
               AFC Wimbledon v Grimsby  1-0 (0-0)   @ The Cherry Red Records Stadium › London
-    13.00     Carlisle v Sutton Utd  1-1 (1-1)   @ Brunton Park › Carlisle, Cumbria
-    15.00     Northampton v Tranmere  0-0 (0-0)   @ Sixfields Stadium › Northampton, East Midlands
+    13:00     Carlisle v Sutton Utd  1-1 (1-1)   @ Brunton Park › Carlisle, Cumbria
+    15:00     Northampton v Tranmere  0-0 (0-0)   @ Sixfields Stadium › Northampton, East Midlands
               Rochdale v Harrogate Town  1-4 (1-1)   @ Crown Oil Arena › Rochdale, Greater Manchester
               Crawley Town v Swindon Town  2-0 (0-0)   @ Broadfield Stadium › Crawley, West Sussex
               Hartlepool v Stockport County  0-5 (0-2)   @ The Suit Direct Stadium › Hartlepool, County Durham
               Mansfield Town v Colchester  2-1 (1-1)   @ One Call Stadium › Mansfield, Nottinghamshire
-» Regular Season - 21
+▪ Regular Season - 21
   Fri Dec 9
-    19.45     Crawley Town v Hartlepool  0-2 (0-0)   @ Broadfield Stadium › Crawley, West Sussex
+    19:45     Crawley Town v Hartlepool  0-2 (0-0)   @ Broadfield Stadium › Crawley, West Sussex
   Sat Dec 10
-    15.00     Swindon Town v AFC Wimbledon  0-0 (0-0)   @ The County Ground › Swindon, Wiltshire
+    15:00     Swindon Town v AFC Wimbledon  0-0 (0-0)   @ The County Ground › Swindon, Wiltshire
               Grimsby v Tranmere  2-1 (1-0)   @ Blundell Park › Cleethorpes, North East Lincolnshire
               Newport County v Doncaster  0-1 (0-0)   @ Rodney Parade › Casnewydd
               Stevenage v Mansfield Town  0-0 (0-0)   @ The Lamex Stadium › Stevenage, Hertfordshire
               Sutton Utd v Colchester  1-0 (1-0)   @ VBS Community Stadium › Sutton, Surrey
-» Regular Season - 22
+▪ Regular Season - 22
   Sat Dec 17
-    15.00     Barrow v Swindon Town  0-1 (0-1)   @ SO Legal Stadium › Barrow-in-Furness, Cumbria
+    15:00     Barrow v Swindon Town  0-1 (0-1)   @ SO Legal Stadium › Barrow-in-Furness, Cumbria
               Leyton Orient v Sutton Utd  2-0 (0-0)   @ Brisbane Road › London
   Tue Dec 20
-    19.45     Northampton v Carlisle  2-1 (0-0)   @ Sixfields Stadium › Northampton, East Midlands
-» Regular Season - 23
+    19:45     Northampton v Carlisle  2-1 (0-0)   @ Sixfields Stadium › Northampton, East Midlands
+▪ Regular Season - 23
   Mon Dec 26
-    15.00     AFC Wimbledon v Newport County  1-1 (0-0)   @ The Cherry Red Records Stadium › London
+    15:00     AFC Wimbledon v Newport County  1-1 (0-0)   @ The Cherry Red Records Stadium › London
               Rochdale v Hartlepool  1-2 (0-1)   @ Crown Oil Arena › Rochdale, Greater Manchester
               Gillingham v Colchester  0-1 (0-1)   @ MEMS Priestfield Stadium › Gillingham, Kent
               Swindon Town v Walsall  1-2 (1-1)   @ The County Ground › Swindon, Wiltshire
@@ -325,11 +325,11 @@
               Salford City v Barrow  1-1 (1-0)   @ The Peninsula Stadium › Salford, Greater Manchester
               Stockport County v Crewe  2-0 (0-0)   @ Edgeley Park › Stockport, Greater Manchester
   Tue Dec 27
-    12.30     Leyton Orient v Stevenage  0-0 (0-0)   @ Brisbane Road › London
-» Regular Season - 24
+    12:30     Leyton Orient v Stevenage  0-0 (0-0)   @ Brisbane Road › London
+▪ Regular Season - 24
   Thu Dec 29
-    19.00     Crewe v Carlisle  0-3 (0-1)   @ Mornflake Stadium › Crewe, Cheshire
-    19.45     Northampton v Swindon Town  1-2 (0-1)   @ Sixfields Stadium › Northampton, East Midlands
+    19:00     Crewe v Carlisle  0-3 (0-1)   @ Mornflake Stadium › Crewe, Cheshire
+    19:45     Northampton v Swindon Town  1-2 (0-1)   @ Sixfields Stadium › Northampton, East Midlands
               Walsall v Stockport County  0-2 (0-1)   @ Poundland Bescot Stadium › Walsall, West Midlands
               Bradford v Harrogate Town  1-0 (1-0)   @ University of Bradford Stadium › Bradford, West Yorkshire
               Doncaster v Rochdale  4-3 (3-2)   @ Eco-Power Stadium › Doncaster, South Yorkshire
@@ -339,13 +339,13 @@
               Barrow v Tranmere  1-2 (1-1)   @ SO Legal Stadium › Barrow-in-Furness, Cumbria
               Sutton Utd v Gillingham  2-1 (1-0)   @ VBS Community Stadium › Sutton, Surrey
   Fri Dec 30
-    19.45     Stevenage v Crawley Town  3-1 (2-0)   @ The Lamex Stadium › Stevenage, Hertfordshire
+    19:45     Stevenage v Crawley Town  3-1 (2-0)   @ The Lamex Stadium › Stevenage, Hertfordshire
               Newport County v Leyton Orient  0-0 (0-0)   @ Rodney Parade › Casnewydd
-» Regular Season - 25
+▪ Regular Season - 25
   Sun Jan 1 2023
-    15.00     Walsall v Mansfield Town  2-1 (1-0)   @ Poundland Bescot Stadium › Walsall, West Midlands
+    15:00     Walsall v Mansfield Town  2-1 (1-0)   @ Poundland Bescot Stadium › Walsall, West Midlands
   Sun Jan 1
-    15.00     Bradford v Salford City  3-2 (2-1)   @ University of Bradford Stadium › Bradford, West Yorkshire
+    15:00     Bradford v Salford City  3-2 (2-1)   @ University of Bradford Stadium › Bradford, West Yorkshire
               Doncaster v Carlisle  2-1 (1-0)   @ Eco-Power Stadium › Doncaster, South Yorkshire
               Colchester v Swindon Town  1-0 (1-0)   @ JobServe Community Stadium › Colchester, Essex
               Crewe v Tranmere  1-0 (1-0)   @ Mornflake Stadium › Crewe, Cheshire
@@ -353,27 +353,27 @@
               Hartlepool v Harrogate Town  3-3 (1-1)   @ The Suit Direct Stadium › Hartlepool, County Durham
               Sutton Utd v AFC Wimbledon  2-1 (1-1)   @ VBS Community Stadium › Sutton, Surrey
   Mon Jan 2
-    15.00     Newport County v Crawley Town  2-2 (0-1)   @ Rodney Parade › Casnewydd
+    15:00     Newport County v Crawley Town  2-2 (0-1)   @ Rodney Parade › Casnewydd
               Stevenage v Gillingham  1-0 (1-0)   @ The Lamex Stadium › Stevenage, Hertfordshire
               Barrow v Rochdale  0-0 (0-0)   @ SO Legal Stadium › Barrow-in-Furness, Cumbria
               Northampton v Leyton Orient  1-0 (0-0)   @ Sixfields Stadium › Northampton, East Midlands
-» Regular Season - 26
+▪ Regular Season - 26
   Sat Jan 7
-    12.30     Salford City v Northampton  2-1 (2-1)   @ The Peninsula Stadium › Salford, Greater Manchester
-    15.00     Rochdale v Newport County  1-1 (1-0)   @ Crown Oil Arena › Rochdale, Greater Manchester
+    12:30     Salford City v Northampton  2-1 (2-1)   @ The Peninsula Stadium › Salford, Greater Manchester
+    15:00     Rochdale v Newport County  1-1 (1-0)   @ Crown Oil Arena › Rochdale, Greater Manchester
               Tranmere v Sutton Utd  2-2 (1-1)   @ Prenton Park › Birkenhead, Merseyside
               Leyton Orient v Doncaster  1-0 (0-0)   @ Brisbane Road › London
               Mansfield Town v Barrow  2-3 (2-1)   @ One Call Stadium › Mansfield, Nottinghamshire
               Harrogate Town v Colchester  1-3 (0-2)   @ EnviroVent Stadium › Harrogate, North Yorkshire
-» Regular Season - 43
+▪ Regular Season - 43
   Sat Jan 7
-    15.00     Crewe v AFC Wimbledon  0-0 (0-0)   @ Mornflake Stadium › Crewe, Cheshire
-» Regular Season - 22
+    15:00     Crewe v AFC Wimbledon  0-0 (0-0)   @ Mornflake Stadium › Crewe, Cheshire
+▪ Regular Season - 22
   Tue Jan 10
-    19.45     Bradford v Rochdale  1-2 (1-0)   @ University of Bradford Stadium › Bradford, West Yorkshire
-» Regular Season - 27
+    19:45     Bradford v Rochdale  1-2 (1-0)   @ University of Bradford Stadium › Bradford, West Yorkshire
+▪ Regular Season - 27
   Sat Jan 14
-    15.00     AFC Wimbledon v Bradford  0-0 (0-0)   @ The Cherry Red Records Stadium › London
+    15:00     AFC Wimbledon v Bradford  0-0 (0-0)   @ The Cherry Red Records Stadium › London
               Rochdale v Colchester  1-2 (1-1)   @ Crown Oil Arena › Rochdale, Greater Manchester
               Gillingham v Hartlepool  2-0 (1-0)   @ MEMS Priestfield Stadium › Gillingham, Kent
               Swindon Town v Grimsby  5-0 (1-0)   @ The County Ground › Swindon, Wiltshire
@@ -384,21 +384,21 @@
               Harrogate Town v Stevenage  1-1 (0-0)   @ EnviroVent Stadium › Harrogate, North Yorkshire
               Salford City v Sutton Utd  2-0 (2-0)   @ The Peninsula Stadium › Salford, Greater Manchester
               Stockport County v Northampton  2-0 (1-0)   @ Edgeley Park › Stockport, Greater Manchester
-» Regular Season - 28
+▪ Regular Season - 28
   Sat Jan 21
-    15.00     Hartlepool v Rochdale  2-0 (0-0)   @ The Suit Direct Stadium › Hartlepool, County Durham
+    15:00     Hartlepool v Rochdale  2-0 (0-0)   @ The Suit Direct Stadium › Hartlepool, County Durham
               Stevenage v Leyton Orient  3-0 (2-0)   @ The Lamex Stadium › Stevenage, Hertfordshire
               Colchester v Gillingham  0-2 (0-2)   @ JobServe Community Stadium › Colchester, Essex
-» Regular Season - 22
+▪ Regular Season - 22
   Tue Jan 24
-    19.45     Colchester v Salford City  1-1 (0-0)   @ JobServe Community Stadium › Colchester, Essex
-» Regular Season - 26
+    19:45     Colchester v Salford City  1-1 (0-0)   @ JobServe Community Stadium › Colchester, Essex
+▪ Regular Season - 26
   Tue Jan 24
-    19.45     Carlisle v Hartlepool  3-1 (2-1)   @ Brunton Park › Carlisle, Cumbria
+    19:45     Carlisle v Hartlepool  3-1 (2-1)   @ Brunton Park › Carlisle, Cumbria
               Stockport County v Bradford  0-0 (0-0)   @ Edgeley Park › Stockport, Greater Manchester
-» Regular Season - 29
+▪ Regular Season - 29
   Sat Jan 28
-    15.00     AFC Wimbledon v Stockport County  1-0 (0-0)   @ The Cherry Red Records Stadium › London
+    15:00     AFC Wimbledon v Stockport County  1-0 (0-0)   @ The Cherry Red Records Stadium › London
               Rochdale v Carlisle  0-1 (0-1)   @ Crown Oil Arena › Rochdale, Greater Manchester
               Swindon Town v Gillingham  3-3 (1-3)   @ The County Ground › Swindon, Wiltshire
               Crawley Town v Salford City  3-2 (2-0)   @ Broadfield Stadium › Crawley, West Sussex
@@ -407,17 +407,17 @@
               Tranmere v Leyton Orient  1-0 (0-0)   @ Prenton Park › Birkenhead, Merseyside
               Barrow v Northampton  0-2 (0-0)   @ SO Legal Stadium › Barrow-in-Furness, Cumbria
               Harrogate Town v Sutton Utd  0-1 (0-1)   @ EnviroVent Stadium › Harrogate, North Yorkshire
-» Regular Season - 21
+▪ Regular Season - 21
   Tue Jan 31
-    19.45     Carlisle v Barrow  5-1 (1-0)   @ Brunton Park › Carlisle, Cumbria
+    19:45     Carlisle v Barrow  5-1 (1-0)   @ Brunton Park › Carlisle, Cumbria
               Salford City v Walsall  1-0 (1-0)   @ The Peninsula Stadium › Salford, Greater Manchester
-» Regular Season - 28
+▪ Regular Season - 28
   Tue Jan 31
-    19.45     Crewe v Stockport County  1-1 (1-0)   @ Mornflake Stadium › Crewe, Cheshire
-» Regular Season - 30
+    19:45     Crewe v Stockport County  1-1 (1-0)   @ Mornflake Stadium › Crewe, Cheshire
+▪ Regular Season - 30
   Sat Feb 4
-    12.45     Newport County v Swindon Town  2-1 (0-0)   @ Rodney Parade › Casnewydd
-    15.00     Northampton v Walsall  0-0 (0-0)   @ Sixfields Stadium › Northampton, East Midlands
+    12:45     Newport County v Swindon Town  2-1 (0-0)   @ Rodney Parade › Casnewydd
+    15:00     Northampton v Walsall  0-0 (0-0)   @ Sixfields Stadium › Northampton, East Midlands
               Bradford v Mansfield Town  1-1 (1-0)   @ University of Bradford Stadium › Bradford, West Yorkshire
               Gillingham v Crawley Town  1-0 (0-0)   @ MEMS Priestfield Stadium › Gillingham, Kent
               Doncaster v Hartlepool  0-1 (0-0)   @ Eco-Power Stadium › Doncaster, South Yorkshire
@@ -428,15 +428,15 @@
               Sutton Utd v Stevenage  0-0 (0-0)   @ VBS Community Stadium › Sutton, Surrey
               Salford City v Rochdale  2-1 (1-0)   @ The Peninsula Stadium › Salford, Greater Manchester
               Stockport County v Tranmere  3-2 (2-1)   @ Edgeley Park › Stockport, Greater Manchester
-» Regular Season - 21
+▪ Regular Season - 21
   Tue Feb 7
-    19.45     Crewe v Leyton Orient  0-2 (0-1)   @ Mornflake Stadium › Crewe, Cheshire
-» Regular Season - 28
+    19:45     Crewe v Leyton Orient  0-2 (0-1)   @ Mornflake Stadium › Crewe, Cheshire
+▪ Regular Season - 28
   Tue Feb 7
-    19.45     Doncaster v Tranmere  2-0 (0-0)   @ Eco-Power Stadium › Doncaster, South Yorkshire
-» Regular Season - 31
+    19:45     Doncaster v Tranmere  2-0 (0-0)   @ Eco-Power Stadium › Doncaster, South Yorkshire
+▪ Regular Season - 31
   Sat Feb 11
-    15.00     AFC Wimbledon v Carlisle  0-0 (0-0)   @ The Cherry Red Records Stadium › London
+    15:00     AFC Wimbledon v Carlisle  0-0 (0-0)   @ The Cherry Red Records Stadium › London
               Rochdale v Northampton  1-1 (0-0)   @ Crown Oil Arena › Rochdale, Greater Manchester
               Walsall v Leyton Orient  1-1 (1-0)   @ Poundland Bescot Stadium › Walsall, West Midlands
               Swindon Town v Doncaster  0-2 (0-0)   @ The County Ground › Swindon, Wiltshire
@@ -448,9 +448,9 @@
               Tranmere v Salford City  1-0 (1-0)   @ Prenton Park › Birkenhead, Merseyside
               Barrow v Newport County  0-1 (0-0)   @ SO Legal Stadium › Barrow-in-Furness, Cumbria
               Harrogate Town v Stockport County  1-3 (0-2)   @ EnviroVent Stadium › Harrogate, North Yorkshire
-» Regular Season - 32
+▪ Regular Season - 32
   Tue Feb 14
-    19.45     Northampton v AFC Wimbledon  0-0 (0-0)   @ Sixfields Stadium › Northampton, East Midlands
+    19:45     Northampton v AFC Wimbledon  0-0 (0-0)   @ Sixfields Stadium › Northampton, East Midlands
               Bradford v Tranmere  2-0 (1-0)   @ University of Bradford Stadium › Bradford, West Yorkshire
               Gillingham v Grimsby  2-1 (0-0)   @ MEMS Priestfield Stadium › Gillingham, Kent
               Doncaster v Barrow  1-0 (1-0)   @ Eco-Power Stadium › Doncaster, South Yorkshire
@@ -462,10 +462,10 @@
               Sutton Utd v Swindon Town  2-1 (0-1)   @ VBS Community Stadium › Sutton, Surrey
               Salford City v Harrogate Town  1-1 (0-0)   @ The Peninsula Stadium › Salford, Greater Manchester
               Stockport County v Crawley Town  2-1 (1-1)   @ Edgeley Park › Stockport, Greater Manchester
-» Regular Season - 33
+▪ Regular Season - 33
   Sat Feb 18
-    14.00     Northampton v Grimsby  1-2 (1-0)   @ Sixfields Stadium › Northampton, East Midlands
-    15.00     AFC Wimbledon v Hartlepool  2-2 (1-0)   @ The Cherry Red Records Stadium › London
+    14:00     Northampton v Grimsby  1-2 (1-0)   @ Sixfields Stadium › Northampton, East Midlands
+    15:00     AFC Wimbledon v Hartlepool  2-2 (1-0)   @ The Cherry Red Records Stadium › London
               Rochdale v Gillingham  0-2 (0-1)   @ Crown Oil Arena › Rochdale, Greater Manchester
               Walsall v Newport County  1-1 (1-0)   @ Poundland Bescot Stadium › Walsall, West Midlands
               Bradford v Barrow  0-1 (0-1)   @ University of Bradford Stadium › Bradford, West Yorkshire
@@ -476,19 +476,19 @@
               Harrogate Town v Crewe  2-2 (1-0)   @ EnviroVent Stadium › Harrogate, North Yorkshire
               Salford City v Swindon Town  1-2 (1-1)   @ The Peninsula Stadium › Salford, Greater Manchester
               Stockport County v Stevenage  2-0 (1-0)   @ Edgeley Park › Stockport, Greater Manchester
-» Regular Season - 21
+▪ Regular Season - 21
   Tue Feb 21
-    19.45     Rochdale v Stockport County  1-2 (0-0)   @ Crown Oil Arena › Rochdale, Greater Manchester
-» Regular Season - 22
+    19:45     Rochdale v Stockport County  1-2 (0-0)   @ Crown Oil Arena › Rochdale, Greater Manchester
+▪ Regular Season - 22
   Tue Feb 21
-    19.45     Hartlepool v Newport County  0-1 (0-0)   @ The Suit Direct Stadium › Hartlepool, County Durham
+    19:45     Hartlepool v Newport County  0-1 (0-0)   @ The Suit Direct Stadium › Hartlepool, County Durham
               Walsall v Crewe  0-0 (0-0)   @ Poundland Bescot Stadium › Walsall, West Midlands
-» Regular Season - 28
+▪ Regular Season - 28
   Tue Feb 21
-    19.45     Grimsby v Harrogate Town  0-0 (0-0)   @ Blundell Park › Cleethorpes, North East Lincolnshire
-» Regular Season - 34
+    19:45     Grimsby v Harrogate Town  0-0 (0-0)   @ Blundell Park › Cleethorpes, North East Lincolnshire
+▪ Regular Season - 34
   Sat Feb 25
-    15.00     Gillingham v AFC Wimbledon  2-1 (0-0)   @ MEMS Priestfield Stadium › Gillingham, Kent
+    15:00     Gillingham v AFC Wimbledon  2-1 (0-0)   @ MEMS Priestfield Stadium › Gillingham, Kent
               Swindon Town v Harrogate Town  3-0 (2-0)   @ The County Ground › Swindon, Wiltshire
               Doncaster v Bradford  0-1 (0-0)   @ Eco-Power Stadium › Doncaster, South Yorkshire
               Colchester v Northampton  0-1 (0-1)   @ JobServe Community Stadium › Colchester, Essex
@@ -500,20 +500,20 @@
               Stevenage v Tranmere  0-1 (0-0)   @ The Lamex Stadium › Stevenage, Hertfordshire
               Mansfield Town v Salford City  2-5 (1-2)   @ One Call Stadium › Mansfield, Nottinghamshire
               Barrow v Stockport County  1-0 (0-0)   @ SO Legal Stadium › Barrow-in-Furness, Cumbria
-» Regular Season - 21
+▪ Regular Season - 21
   Tue Feb 28
-    19.45     Gillingham v Bradford  0-2 (0-1)   @ MEMS Priestfield Stadium › Gillingham, Kent
+    19:45     Gillingham v Bradford  0-2 (0-1)   @ MEMS Priestfield Stadium › Gillingham, Kent
               Harrogate Town v Northampton  1-1 (0-0)   @ EnviroVent Stadium › Harrogate, North Yorkshire
-» Regular Season - 22
+▪ Regular Season - 22
   Tue Feb 28
-    19.45     Tranmere v Crawley Town  1-0 (0-0)   @ Prenton Park › Birkenhead, Merseyside
+    19:45     Tranmere v Crawley Town  1-0 (0-0)   @ Prenton Park › Birkenhead, Merseyside
               AFC Wimbledon v Stevenage  2-3 (1-0)   @ The Cherry Red Records Stadium › London
-» Regular Season - 28
+▪ Regular Season - 28
   Tue Feb 28
-    19.45     Barrow v Salford City  1-1 (0-1)   @ SO Legal Stadium › Barrow-in-Furness, Cumbria
-» Regular Season - 35
+    19:45     Barrow v Salford City  1-1 (0-1)   @ SO Legal Stadium › Barrow-in-Furness, Cumbria
+▪ Regular Season - 35
   Sat Mar 4
-    15.00     AFC Wimbledon v Mansfield Town  1-3 (1-1)   @ The Cherry Red Records Stadium › London
+    15:00     AFC Wimbledon v Mansfield Town  1-3 (1-1)   @ The Cherry Red Records Stadium › London
               Northampton v Crawley Town  1-0 (0-0)   @ Sixfields Stadium › Northampton, East Midlands
               Rochdale v Stevenage  2-0 (2-0)   @ Crown Oil Arena › Rochdale, Greater Manchester
               Walsall v Barrow  0-1 (0-1)   @ Poundland Bescot Stadium › Walsall, West Midlands
@@ -525,22 +525,22 @@
               Harrogate Town v Gillingham  0-0 (0-0)   @ EnviroVent Stadium › Harrogate, North Yorkshire
               Salford City v Newport County  3-1 (1-1)   @ The Peninsula Stadium › Salford, Greater Manchester
               Stockport County v Doncaster  0-0 (0-0)   @ Edgeley Park › Stockport, Greater Manchester
-» Regular Season - 22
+▪ Regular Season - 22
   Tue Mar 7
-    19.45     Doncaster v Harrogate Town  0-2 (0-0)   @ Eco-Power Stadium › Doncaster, South Yorkshire
+    19:45     Doncaster v Harrogate Town  0-2 (0-0)   @ Eco-Power Stadium › Doncaster, South Yorkshire
               Stockport County v Gillingham  0-0 (0-0)   @ Edgeley Park › Stockport, Greater Manchester
-» Regular Season - 28
+▪ Regular Season - 28
   Tue Mar 7
-    19.45     Sutton Utd v Crawley Town  3-0 (1-0)   @ VBS Community Stadium › Sutton, Surrey
-» Regular Season - 29
+    19:45     Sutton Utd v Crawley Town  3-0 (1-0)   @ VBS Community Stadium › Sutton, Surrey
+▪ Regular Season - 29
   Tue Mar 7
-    19.45     Grimsby v Newport County  1-1 (1-0)   @ Blundell Park › Cleethorpes, North East Lincolnshire
+    19:45     Grimsby v Newport County  1-1 (1-0)   @ Blundell Park › Cleethorpes, North East Lincolnshire
               Walsall v Bradford  0-0 (0-0)   @ Poundland Bescot Stadium › Walsall, West Midlands
-» Regular Season - 36
+▪ Regular Season - 36
   Fri Mar 10
-    19.45     Crewe v Salford City  4-3 (2-2)   @ Mornflake Stadium › Crewe, Cheshire
+    19:45     Crewe v Salford City  4-3 (2-2)   @ Mornflake Stadium › Crewe, Cheshire
   Sat Mar 11
-    15.00     Gillingham v Tranmere  2-0 (1-0)   @ MEMS Priestfield Stadium › Gillingham, Kent
+    15:00     Gillingham v Tranmere  2-0 (1-0)   @ MEMS Priestfield Stadium › Gillingham, Kent
               Swindon Town v Carlisle  1-2 (0-0)   @ The County Ground › Swindon, Wiltshire
               Doncaster v AFC Wimbledon  2-1 (2-1)   @ Eco-Power Stadium › Doncaster, South Yorkshire
               Colchester v Stockport County  0-1 (0-1)   @ JobServe Community Stadium › Colchester, Essex
@@ -550,20 +550,20 @@
               Newport County v Bradford  1-1 (0-1)   @ Rodney Parade › Casnewydd
               Stevenage v Walsall  3-1 (3-1)   @ The Lamex Stadium › Stevenage, Hertfordshire
               Barrow v Sutton Utd  0-0 (0-0)   @ SO Legal Stadium › Barrow-in-Furness, Cumbria
-» Regular Season - 28
+▪ Regular Season - 28
   Tue Mar 14
-    19.45     Walsall v Swindon Town  0-0 (0-0)   @ Poundland Bescot Stadium › Walsall, West Midlands
+    19:45     Walsall v Swindon Town  0-0 (0-0)   @ Poundland Bescot Stadium › Walsall, West Midlands
               Newport County v AFC Wimbledon  1-1 (0-1)   @ Rodney Parade › Casnewydd
               Northampton v Mansfield Town  1-0 (1-0)   @ Sixfields Stadium › Northampton, East Midlands
-» Regular Season - 29
+▪ Regular Season - 29
   Tue Mar 14
-    19.45     Stevenage v Crewe  1-0 (0-0)   @ The Lamex Stadium › Stevenage, Hertfordshire
-» Regular Season - 37
+    19:45     Stevenage v Crewe  1-0 (0-0)   @ The Lamex Stadium › Stevenage, Hertfordshire
+▪ Regular Season - 37
   Tue Mar 14
-    19.45     Sutton Utd v Grimsby  0-1 (0-1)   @ VBS Community Stadium › Sutton, Surrey
+    19:45     Sutton Utd v Grimsby  0-1 (0-1)   @ VBS Community Stadium › Sutton, Surrey
   Sat Mar 18
-    13.00     Bradford v Hartlepool  2-2 (0-1)   @ University of Bradford Stadium › Bradford, West Yorkshire
-    15.00     AFC Wimbledon v Crawley Town  0-1 (0-1)   @ The Cherry Red Records Stadium › London
+    13:00     Bradford v Hartlepool  2-2 (0-1)   @ University of Bradford Stadium › Bradford, West Yorkshire
+    15:00     AFC Wimbledon v Crawley Town  0-1 (0-1)   @ The Cherry Red Records Stadium › London
               Northampton v Crewe  1-0 (1-0)   @ Sixfields Stadium › Northampton, East Midlands
               Rochdale v Swindon Town  4-4 (2-2)   @ Crown Oil Arena › Rochdale, Greater Manchester
               Walsall v Gillingham  2-0 (0-0)   @ Poundland Bescot Stadium › Walsall, West Midlands
@@ -573,21 +573,21 @@
               Harrogate Town v Barrow  1-0 (0-0)   @ EnviroVent Stadium › Harrogate, North Yorkshire
               Salford City v Doncaster  3-1 (2-1)   @ The Peninsula Stadium › Salford, Greater Manchester
               Stockport County v Mansfield Town  1-1 (1-0)   @ Edgeley Park › Stockport, Greater Manchester
-» Regular Season - 26
+▪ Regular Season - 26
   Tue Mar 21
-    19.45     Gillingham v Crewe  2-1 (0-0)   @ MEMS Priestfield Stadium › Gillingham, Kent
-» Regular Season - 27
+    19:45     Gillingham v Crewe  2-1 (0-0)   @ MEMS Priestfield Stadium › Gillingham, Kent
+▪ Regular Season - 27
   Tue Mar 21
-    19.45     Crawley Town v Doncaster  1-1 (0-1)   @ Broadfield Stadium › Crawley, West Sussex
-» Regular Season - 28
+    19:45     Crawley Town v Doncaster  1-1 (0-1)   @ Broadfield Stadium › Crawley, West Sussex
+▪ Regular Season - 28
   Tue Mar 21
-    19.45     Bradford v Carlisle  0-0 (0-0)   @ University of Bradford Stadium › Bradford, West Yorkshire
-» Regular Season - 22
+    19:45     Bradford v Carlisle  0-0 (0-0)   @ University of Bradford Stadium › Bradford, West Yorkshire
+▪ Regular Season - 22
   Wed Mar 22
-    19.45     Mansfield Town v Grimsby  0-0 (0-0)   @ One Call Stadium › Mansfield, Nottinghamshire
-» Regular Season - 38
+    19:45     Mansfield Town v Grimsby  0-0 (0-0)   @ One Call Stadium › Mansfield, Nottinghamshire
+▪ Regular Season - 38
   Sat Mar 25
-    15.00     Gillingham v Carlisle  1-0 (0-0)   @ MEMS Priestfield Stadium › Gillingham, Kent
+    15:00     Gillingham v Carlisle  1-0 (0-0)   @ MEMS Priestfield Stadium › Gillingham, Kent
               Swindon Town v Stockport County  0-1 (0-0)   @ The County Ground › Swindon, Wiltshire
               Doncaster v Northampton  0-2 (0-1)   @ Eco-Power Stadium › Doncaster, South Yorkshire
               Colchester v Tranmere  1-1 (0-1)   @ JobServe Community Stadium › Colchester, Essex
@@ -597,17 +597,17 @@
               Stevenage v Salford City  1-3 (0-0)   @ The Lamex Stadium › Stevenage, Hertfordshire
               Mansfield Town v Sutton Utd  0-0 (0-0)   @ One Call Stadium › Mansfield, Nottinghamshire
               Barrow v AFC Wimbledon  2-1 (0-1)   @ SO Legal Stadium › Barrow-in-Furness, Cumbria
-» Regular Season - 26
+▪ Regular Season - 26
   Tue Mar 28
-    19.45     Crawley Town v Grimsby  1-1 (0-1)   @ Broadfield Stadium › Crawley, West Sussex
+    19:45     Crawley Town v Grimsby  1-1 (0-1)   @ Broadfield Stadium › Crawley, West Sussex
               AFC Wimbledon v Walsall  2-0 (0-0)   @ The Cherry Red Records Stadium › London
-» Regular Season - 39
+▪ Regular Season - 39
   Fri Mar 31
-    19.45     Stockport County v Salford City  1-1 (1-0)   @ Edgeley Park › Stockport, Greater Manchester
+    19:45     Stockport County v Salford City  1-1 (1-0)   @ Edgeley Park › Stockport, Greater Manchester
               Tranmere v Harrogate Town  1-1 (1-1)   @ Prenton Park › Birkenhead, Merseyside
   Sat Apr 1
-    13.00     Bradford v Grimsby  3-2 (1-2)   @ University of Bradford Stadium › Bradford, West Yorkshire
-    15.00     AFC Wimbledon v Rochdale  0-1 (0-0)   @ The Cherry Red Records Stadium › London
+    13:00     Bradford v Grimsby  3-2 (1-2)   @ University of Bradford Stadium › Bradford, West Yorkshire
+    15:00     AFC Wimbledon v Rochdale  0-1 (0-0)   @ The Cherry Red Records Stadium › London
               Northampton v Stevenage  1-1 (1-0)   @ Sixfields Stadium › Northampton, East Midlands
               Walsall v Sutton Utd  1-1 (0-1)   @ Poundland Bescot Stadium › Walsall, West Midlands
               Doncaster v Crewe  0-2 (0-2)   @ Eco-Power Stadium › Doncaster, South Yorkshire
@@ -616,9 +616,9 @@
               Leyton Orient v Carlisle  1-0 (0-0)   @ Brisbane Road › London
               Mansfield Town v Crawley Town  4-1 (1-0)   @ One Call Stadium › Mansfield, Nottinghamshire
               Barrow v Gillingham  2-1 (1-0)   @ SO Legal Stadium › Barrow-in-Furness, Cumbria
-» Regular Season - 40
+▪ Regular Season - 40
   Fri Apr 7
-    15.00     Rochdale v Walsall  4-2 (2-1)   @ Crown Oil Arena › Rochdale, Greater Manchester
+    15:00     Rochdale v Walsall  4-2 (2-1)   @ Crown Oil Arena › Rochdale, Greater Manchester
               Gillingham v Doncaster  1-0 (1-0)   @ MEMS Priestfield Stadium › Gillingham, Kent
               Swindon Town v Mansfield Town  2-4 (1-3)   @ The County Ground › Swindon, Wiltshire
               Crawley Town v Bradford  0-0 (0-0)   @ Broadfield Stadium › Crawley, West Sussex
@@ -630,9 +630,9 @@
               Sutton Utd v Stockport County  0-1 (0-0)   @ VBS Community Stadium › Sutton, Surrey
               Harrogate Town v AFC Wimbledon  2-2 (0-1)   @ EnviroVent Stadium › Harrogate, North Yorkshire
               Salford City v Leyton Orient  0-2 (0-2)   @ The Peninsula Stadium › Salford, Greater Manchester
-» Regular Season - 41
+▪ Regular Season - 41
   Mon Apr 10
-    15.00     AFC Wimbledon v Salford City  2-3 (1-0)   @ The Cherry Red Records Stadium › London
+    15:00     AFC Wimbledon v Salford City  2-3 (1-0)   @ The Cherry Red Records Stadium › London
               Northampton v Gillingham  2-1 (1-0)   @ Sixfields Stadium › Northampton, East Midlands
               Walsall v Carlisle  0-0 (0-0)   @ Poundland Bescot Stadium › Walsall, West Midlands
               Bradford v Sutton Utd  3-1 (1-0)   @ University of Bradford Stadium › Bradford, West Yorkshire
@@ -644,9 +644,9 @@
               Tranmere v Swindon Town  1-0 (1-0)   @ Prenton Park › Birkenhead, Merseyside
               Barrow v Crawley Town  4-0 (1-0)   @ SO Legal Stadium › Barrow-in-Furness, Cumbria
               Stockport County v Newport County  4-0 (2-0)   @ Edgeley Park › Stockport, Greater Manchester
-» Regular Season - 42
+▪ Regular Season - 42
   Sat Apr 15
-    15.00     Rochdale v Bradford  0-3 (0-1)   @ Crown Oil Arena › Rochdale, Greater Manchester
+    15:00     Rochdale v Bradford  0-3 (0-1)   @ Crown Oil Arena › Rochdale, Greater Manchester
               Gillingham v Stockport County  1-1 (0-0)   @ MEMS Priestfield Stadium › Gillingham, Kent
               Swindon Town v Barrow  0-0 (0-0)   @ The County Ground › Swindon, Wiltshire
               Crawley Town v Tranmere  2-1 (2-1)   @ Broadfield Stadium › Crawley, West Sussex
@@ -658,9 +658,9 @@
               Sutton Utd v Leyton Orient  0-2 (0-2)   @ VBS Community Stadium › Sutton, Surrey
               Harrogate Town v Doncaster  2-2 (0-1)   @ EnviroVent Stadium › Harrogate, North Yorkshire
               Salford City v Colchester  0-1 (0-1)   @ The Peninsula Stadium › Salford, Greater Manchester
-» Regular Season - 43
+▪ Regular Season - 43
   Tue Apr 18
-    19.45     Rochdale v Tranmere  2-2 (0-1)   @ Crown Oil Arena › Rochdale, Greater Manchester
+    19:45     Rochdale v Tranmere  2-2 (0-1)   @ Crown Oil Arena › Rochdale, Greater Manchester
               Gillingham v Leyton Orient  2-0 (1-0)   @ MEMS Priestfield Stadium › Gillingham, Kent
               Swindon Town v Bradford  1-0 (0-0)   @ The County Ground › Swindon, Wiltshire
               Crawley Town v Colchester  0-0 (0-0)   @ Broadfield Stadium › Crawley, West Sussex
@@ -671,9 +671,9 @@
               Sutton Utd v Northampton  1-2 (1-1)   @ VBS Community Stadium › Sutton, Surrey
               Harrogate Town v Walsall  3-0 (1-0)   @ EnviroVent Stadium › Harrogate, North Yorkshire
               Salford City v Hartlepool  2-0 (2-0)   @ The Peninsula Stadium › Salford, Greater Manchester
-» Regular Season - 44
+▪ Regular Season - 44
   Sat Apr 22
-    15.00     AFC Wimbledon v Swindon Town  1-5 (1-3)   @ The Cherry Red Records Stadium › London
+    15:00     AFC Wimbledon v Swindon Town  1-5 (1-3)   @ The Cherry Red Records Stadium › London
               Northampton v Harrogate Town  3-1 (3-1)   @ Sixfields Stadium › Northampton, East Midlands
               Walsall v Salford City  2-3 (0-1)   @ Poundland Bescot Stadium › Walsall, West Midlands
               Bradford v Gillingham  2-2 (0-1)   @ University of Bradford Stadium › Bradford, West Yorkshire
@@ -685,21 +685,21 @@
               Tranmere v Grimsby  2-0 (1-0)   @ Prenton Park › Birkenhead, Merseyside
               Barrow v Carlisle  0-1 (0-1)   @ SO Legal Stadium › Barrow-in-Furness, Cumbria
               Stockport County v Rochdale  1-0 (1-0)   @ Edgeley Park › Stockport, Greater Manchester
-» Regular Season - 8
+▪ Regular Season - 8
   Tue Apr 25
-    19.45     Grimsby v Crewe  2-0 (1-0)   @ Blundell Park › Cleethorpes, North East Lincolnshire
-» Regular Season - 26
+    19:45     Grimsby v Crewe  2-0 (1-0)   @ Blundell Park › Cleethorpes, North East Lincolnshire
+▪ Regular Season - 26
   Tue Apr 25
-    19.45     Swindon Town v Stevenage  0-1 (0-1)   @ The County Ground › Swindon, Wiltshire
-» Regular Season - 36
+    19:45     Swindon Town v Stevenage  0-1 (0-1)   @ The County Ground › Swindon, Wiltshire
+▪ Regular Season - 36
   Tue Apr 25
-    19.45     Mansfield Town v Leyton Orient  1-2 (1-2)   @ One Call Stadium › Mansfield, Nottinghamshire
-» Regular Season - 38
+    19:45     Mansfield Town v Leyton Orient  1-2 (1-2)   @ One Call Stadium › Mansfield, Nottinghamshire
+▪ Regular Season - 38
   Tue Apr 25
-    19.45     Newport County v Harrogate Town  2-3 (1-2)   @ Rodney Parade › Casnewydd
-» Regular Season - 45
+    19:45     Newport County v Harrogate Town  2-3 (1-2)   @ Rodney Parade › Casnewydd
+▪ Regular Season - 45
   Sat Apr 29
-    15.00     AFC Wimbledon v Tranmere  1-1 (0-0)   @ The Cherry Red Records Stadium › London
+    15:00     AFC Wimbledon v Tranmere  1-1 (0-0)   @ The Cherry Red Records Stadium › London
               Northampton v Bradford  1-2 (0-1)   @ Sixfields Stadium › Northampton, East Midlands
               Rochdale v Sutton Utd  4-1 (2-1)   @ Crown Oil Arena › Rochdale, Greater Manchester
               Gillingham v Newport County  1-2 (1-1)   @ MEMS Priestfield Stadium › Gillingham, Kent
@@ -711,12 +711,12 @@
               Carlisle v Salford City  2-3 (0-2)   @ Brunton Park › Carlisle, Cumbria
               Leyton Orient v Stockport County  0-3 (0-2)   @ Brisbane Road › London
               Mansfield Town v Harrogate Town  1-2 (0-2)   @ One Call Stadium › Mansfield, Nottinghamshire
-» Regular Season - 38
+▪ Regular Season - 38
   Wed May 3
-    19.45     Crewe v Bradford  3-2 (2-0)   @ Mornflake Stadium › Crewe, Cheshire
-» Regular Season - 46
+    19:45     Crewe v Bradford  3-2 (2-0)   @ Mornflake Stadium › Crewe, Cheshire
+▪ Regular Season - 46
   Mon May 8
-    12.30     Walsall v Doncaster  2-1 (0-0)   @ Poundland Bescot Stadium › Walsall, West Midlands
+    12:30     Walsall v Doncaster  2-1 (0-0)   @ Poundland Bescot Stadium › Walsall, West Midlands
               Bradford v Leyton Orient  1-1 (1-1)   @ University of Bradford Stadium › Bradford, West Yorkshire
               Swindon Town v Crawley Town  2-1 (2-0)   @ The County Ground › Swindon, Wiltshire
               Colchester v Mansfield Town  0-2 (0-1)   @ JobServe Community Stadium › Colchester, Essex
@@ -728,14 +728,14 @@
               Harrogate Town v Rochdale  1-1 (0-1)   @ EnviroVent Stadium › Harrogate, North Yorkshire
               Salford City v Gillingham  0-1 (0-0)   @ The Peninsula Stadium › Salford, Greater Manchester
               Stockport County v Hartlepool  1-1 (1-0)   @ Edgeley Park › Stockport, Greater Manchester
-» Promotion Play-offs - Semi-finals
+▪ Promotion Play-offs - Semi-finals
   Sat May 13
-    19.45     Salford City v Stockport County  1-0 (1-0)   @ The Peninsula Stadium › Salford, Greater Manchester
+    19:45     Salford City v Stockport County  1-0 (1-0)   @ The Peninsula Stadium › Salford, Greater Manchester
   Sun May 14
-    19.00     Bradford v Carlisle  1-0 (1-0)   @ University of Bradford Stadium › Bradford, West Yorkshire
+    19:00     Bradford v Carlisle  1-0 (1-0)   @ University of Bradford Stadium › Bradford, West Yorkshire
   Sat May 20
-    12.30     Stockport County v Salford City  3-1 pen (2-1, 1-0, 0-0)   @ Edgeley Park › Stockport, Greater Manchester
-    15.00     Carlisle v Bradford  3-1 aet (1-0, 1-0)   @ Brunton Park › Carlisle, Cumbria
-» Promotion Play-offs - Final
+    12:30     Stockport County v Salford City  3-1 pen (2-1, 1-0, 0-0)   @ Edgeley Park › Stockport, Greater Manchester
+    15:00     Carlisle v Bradford  3-1 aet (1-0, 1-0)   @ Brunton Park › Carlisle, Cumbria
+▪ Promotion Play-offs - Final
   Sun May 28
-    13.30     Carlisle v Stockport County  5-4 pen (1-1, 1-1, 0-1)   @ Wembley Stadium › London
+    13:30     Carlisle v Stockport County  5-4 pen (1-1, 1-1, 0-1)   @ Wembley Stadium › London

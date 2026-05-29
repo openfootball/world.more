@@ -1,503 +1,503 @@
 = Egypt | Premier League 2021/22
 
-  # Date       Mon Oct/25 2021 - Tue Aug/30 2022 (309d)
+  # Date       Mon Oct 25 2021 - Tue Aug 30 2022 (309d)
   # Teams      18
   # Matches    306
 
   # Note - All times in Africa/Cairo
 
-» Regular Season - 1
+▪ Regular Season - 1
   Mon Oct 25 2021
-    15.00     National Bank of Egypt v El Geish  3-0 (1-0)   @ Petrosport Stadium › Cairo
+    15:00     National Bank of Egypt v El Geish  3-0 (1-0)   @ Petrosport Stadium › Cairo
   Mon Oct 25
-    17.30     Smouha SC v Al Ittihad  4-4 (3-0)   @ Alexandria Stadium › Alexandria
-    20.00     Coca-Cola v Pharco  1-0 (0-0)   @ WE Al-Ahly Stadium › Cairo
+    17:30     Smouha SC v Al Ittihad  4-4 (3-0)   @ Alexandria Stadium › Alexandria
+    20:00     Coca-Cola v Pharco  1-0 (0-0)   @ WE Al-Ahly Stadium › Cairo
   Tue Oct 26
-    15.00     El Mokawloon v El Sharqia Dokhan  1-0 (1-0)   @ Arab Contractors Stadium › Cairo
-    17.30     El Gouna FC v Ceramica Cleopatra  1-1 (0-1)   @ Khaled Bichara Stadium › El-Gouna
-    20.00     Enppi v Zamalek SC  0-2 (0-1)   @ Petrosport Stadium › Cairo
+    15:00     El Mokawloon v El Sharqia Dokhan  1-0 (1-0)   @ Arab Contractors Stadium › Cairo
+    17:30     El Gouna FC v Ceramica Cleopatra  1-1 (0-1)   @ Khaled Bichara Stadium › El-Gouna
+    20:00     Enppi v Zamalek SC  0-2 (0-1)   @ Petrosport Stadium › Cairo
   Wed Oct 27
-    17.30     Pyramids FC v Misr EL Makasa  2-1 (1-0)   @ 30 June Air Defence Stadium › Cairo
-    20.00     Ismaily SC v Al Ahly  0-4 (0-3)   @ Borg El Arab Stadium › Borg El Arab
+    17:30     Pyramids FC v Misr EL Makasa  2-1 (1-0)   @ 30 June Air Defence Stadium › Cairo
+    20:00     Ismaily SC v Al Ahly  0-4 (0-3)   @ Borg El Arab Stadium › Borg El Arab
   Thu Oct 28
-    17.30     Ghazl El Mehalla v AL Masry  1-1 (1-0)   @ Borg El Arab Stadium › Borg El Arab
-» Regular Season - 2
+    17:30     Ghazl El Mehalla v AL Masry  1-1 (1-0)   @ Borg El Arab Stadium › Borg El Arab
+▪ Regular Season - 2
   Sat Oct 30
-    17.30     Al Ittihad v Coca-Cola  3-2 (1-1)   @ Alexandria Stadium › Alexandria
-    20.00     Enppi v El Mokawloon  3-2 (1-0)   @ Petrosport Stadium › Cairo
+    17:30     Al Ittihad v Coca-Cola  3-2 (1-1)   @ Alexandria Stadium › Alexandria
+    20:00     Enppi v El Mokawloon  3-2 (1-0)   @ Petrosport Stadium › Cairo
   Sun Oct 31
-    15.00     Ceramica Cleopatra v Ismaily SC  2-1 (1-1)   @ Arab Contractors Stadium › Cairo
+    15:00     Ceramica Cleopatra v Ismaily SC  2-1 (1-1)   @ Arab Contractors Stadium › Cairo
               Misr EL Makasa v El Gouna FC  2-0 (0-0)   @ Cairo Military Academy Stadium › Cairo
-    17.30     Pharco v Pyramids FC  1-2 (0-0)   @ Alexandria Stadium › Alexandria
+    17:30     Pharco v Pyramids FC  1-2 (0-0)   @ Alexandria Stadium › Alexandria
               El Geish v Zamalek SC  0-2 (0-1)   @ Borg El Arab Stadium › Borg El Arab
-    20.00     Al Ahly v National Bank of Egypt  1-0 (0-0)   @ WE Al-Ahly Stadium › Cairo
+    20:00     Al Ahly v National Bank of Egypt  1-0 (0-0)   @ WE Al-Ahly Stadium › Cairo
   Mon Nov 1
-    17.30     AL Masry v Smouha SC  0-0 (0-0)   @ Borg El Arab Stadium › Borg El Arab
-    20.00     El Sharqia Dokhan v Ghazl El Mehalla  2-3 (1-3)   @ Petrosport Stadium › Cairo
-» Regular Season - 3
+    17:30     AL Masry v Smouha SC  0-0 (0-0)   @ Borg El Arab Stadium › Borg El Arab
+    20:00     El Sharqia Dokhan v Ghazl El Mehalla  2-3 (1-3)   @ Petrosport Stadium › Cairo
+▪ Regular Season - 3
   Thu Nov 4
-    15.00     Misr EL Makasa v Ceramica Cleopatra  0-0 (0-0)   @ Cairo Military Academy Stadium › Cairo
+    15:00     Misr EL Makasa v Ceramica Cleopatra  0-0 (0-0)   @ Cairo Military Academy Stadium › Cairo
               National Bank of Egypt v Ismaily SC  1-0 (0-0)   @ Petrosport Stadium › Cairo
-    17.30     El Mokawloon v El Geish  1-1 (1-0)   @ Arab Contractors Stadium › Cairo
+    17:30     El Mokawloon v El Geish  1-1 (1-0)   @ Arab Contractors Stadium › Cairo
               El Gouna FC v Pharco  1-0 (0-0)   @ Khaled Bichara Stadium › El-Gouna
-    20.00     Pyramids FC v Al Ittihad  3-0 (0-0)   @ 30 June Air Defence Stadium › Cairo
+    20:00     Pyramids FC v Al Ittihad  3-0 (0-0)   @ 30 June Air Defence Stadium › Cairo
   Fri Nov 5
-    15.00     Smouha SC v El Sharqia Dokhan  3-0 (1-0)   @ Alexandria Stadium › Alexandria
-    17.30     Ghazl El Mehalla v Enppi  3-0 (2-0)   @ El Mahalla Stadium › El-Mahalla El-Kubra
+    15:00     Smouha SC v El Sharqia Dokhan  3-0 (1-0)   @ Alexandria Stadium › Alexandria
+    17:30     Ghazl El Mehalla v Enppi  3-0 (2-0)   @ El Mahalla Stadium › El-Mahalla El-Kubra
               Coca-Cola v AL Masry  1-1 (1-0)   @ Borg El Arab Stadium › Borg El Arab
-    20.00     Zamalek SC v Al Ahly  3-5 (0-3)   @ Cairo International Stadium › Cairo
-» Regular Season - 4
+    20:00     Zamalek SC v Al Ahly  3-5 (0-3)   @ Cairo International Stadium › Cairo
+▪ Regular Season - 4
   Thu Nov 18
-    15.00     Pharco v Misr EL Makasa  2-0 (1-0)   @ Borg El Arab Stadium › Borg El Arab
-    17.30     El Sharqia Dokhan v Coca-Cola  1-4 (0-3)   @ Petrosport Stadium › Cairo
-    20.00     Al Ittihad v El Gouna FC  1-0 (0-0)   @ Alexandria Stadium › Alexandria
+    15:00     Pharco v Misr EL Makasa  2-0 (1-0)   @ Borg El Arab Stadium › Borg El Arab
+    17:30     El Sharqia Dokhan v Coca-Cola  1-4 (0-3)   @ Petrosport Stadium › Cairo
+    20:00     Al Ittihad v El Gouna FC  1-0 (0-0)   @ Alexandria Stadium › Alexandria
               Ceramica Cleopatra v National Bank of Egypt  1-0 (1-0)   @ Arab Contractors Stadium › Cairo
   Fri Nov 19
-    15.00     El Geish v Ghazl El Mehalla  0-0 (0-0)   @ Gehaz El Reyada Stadium › Cairo
+    15:00     El Geish v Ghazl El Mehalla  0-0 (0-0)   @ Gehaz El Reyada Stadium › Cairo
               AL Masry v Pyramids FC  2-2 (0-2)   @ Borg El Arab Stadium › Borg El Arab
-    17.30     Enppi v Smouha SC  1-1 (1-1)   @ Petrosport Stadium › Cairo
+    17:30     Enppi v Smouha SC  1-1 (1-1)   @ Petrosport Stadium › Cairo
               Ismaily SC v Zamalek SC  0-2 (0-0)   @ Ismaïlia Stadium › Ismailia
-    20.00     Al Ahly v El Mokawloon  1-0 (0-0)   @ WE Al-Ahly Stadium › Cairo
-» Regular Season - 5
+    20:00     Al Ahly v El Mokawloon  1-0 (0-0)   @ WE Al-Ahly Stadium › Cairo
+▪ Regular Season - 5
   Sun Nov 21
-    17.30     Pharco v Ceramica Cleopatra  1-0 (0-0)   @ Alexandria Stadium › Alexandria
-    20.00     Misr EL Makasa v Al Ittihad  0-0 (0-0)   @ Cairo Military Academy Stadium › Cairo
+    17:30     Pharco v Ceramica Cleopatra  1-0 (0-0)   @ Alexandria Stadium › Alexandria
+    20:00     Misr EL Makasa v Al Ittihad  0-0 (0-0)   @ Cairo Military Academy Stadium › Cairo
   Mon Nov 22
-    15.00     Pyramids FC v El Sharqia Dokhan  3-0 (1-0)   @ 30 June Air Defence Stadium › Cairo
-    17.30     Ghazl El Mehalla v Al Ahly  2-3 (0-1)   @ El Mahalla Stadium › El-Mahalla El-Kubra
-    20.00     El Gouna FC v AL Masry  0-3 (0-0)   @ Borg El Arab Stadium › Borg El Arab
+    15:00     Pyramids FC v El Sharqia Dokhan  3-0 (1-0)   @ 30 June Air Defence Stadium › Cairo
+    17:30     Ghazl El Mehalla v Al Ahly  2-3 (0-1)   @ El Mahalla Stadium › El-Mahalla El-Kubra
+    20:00     El Gouna FC v AL Masry  0-3 (0-0)   @ Borg El Arab Stadium › Borg El Arab
               Zamalek SC v National Bank of Egypt  1-1 (0-1)   @ Cairo International Stadium › Cairo
   Tue Nov 23
-    17.30     El Mokawloon v Ismaily SC  1-1 (0-0)   @ Arab Contractors Stadium › Cairo
-    20.00     Coca-Cola v Enppi  1-2 (0-1)   @ WE Al-Ahly Stadium › Cairo
-» Regular Season - 6
+    17:30     El Mokawloon v Ismaily SC  1-1 (0-0)   @ Arab Contractors Stadium › Cairo
+    20:00     Coca-Cola v Enppi  1-2 (0-1)   @ WE Al-Ahly Stadium › Cairo
+▪ Regular Season - 6
   Thu Nov 25
-    15.00     Al Ittihad v Pharco  1-2 (1-1)   @ Alexandria Stadium › Alexandria
-    16.00     Ceramica Cleopatra v Zamalek SC  0-1 (0-1)   @ Arab Contractors Stadium › Cairo
+    15:00     Al Ittihad v Pharco  1-2 (1-1)   @ Alexandria Stadium › Alexandria
+    16:00     Ceramica Cleopatra v Zamalek SC  0-1 (0-1)   @ Arab Contractors Stadium › Cairo
               Al Ahly v Smouha SC  4-1 (2-0)   @ WE Al-Ahly Stadium › Cairo
   Fri Nov 26
-    15.00     National Bank of Egypt v El Mokawloon  2-1 (0-0)   @ Petrosport Stadium › Cairo
-    17.30     Ismaily SC v Ghazl El Mehalla  0-0 (0-0)   @ Ismaïlia Stadium › Ismailia
-    20.00     El Geish v Coca-Cola  1-0 (0-0)   @ Gehaz El Reyada Stadium › Cairo
+    15:00     National Bank of Egypt v El Mokawloon  2-1 (0-0)   @ Petrosport Stadium › Cairo
+    17:30     Ismaily SC v Ghazl El Mehalla  0-0 (0-0)   @ Ismaïlia Stadium › Ismailia
+    20:00     El Geish v Coca-Cola  1-0 (0-0)   @ Gehaz El Reyada Stadium › Cairo
   Sat Nov 27
-    17.30     El Sharqia Dokhan v El Gouna FC  0-2 (0-1)   @ Petrosport Stadium › Cairo
+    17:30     El Sharqia Dokhan v El Gouna FC  0-2 (0-1)   @ Petrosport Stadium › Cairo
   Mon Dec 13
-    17.30     AL Masry v Misr EL Makasa  3-2 (2-0)   @ Borg El Arab Stadium › Borg El Arab
-» Regular Season - 7
+    17:30     AL Masry v Misr EL Makasa  3-2 (2-0)   @ Borg El Arab Stadium › Borg El Arab
+▪ Regular Season - 7
   Mon Dec 20
-    15.00     Pharco v AL Masry  0-1 (0-1)   @ Borg El Arab Stadium › Borg El Arab
-    17.30     Ghazl El Mehalla v National Bank of Egypt  1-1 (1-1)   @ El Mahalla Stadium › El-Mahalla El-Kubra
+    15:00     Pharco v AL Masry  0-1 (0-1)   @ Borg El Arab Stadium › Borg El Arab
+    17:30     Ghazl El Mehalla v National Bank of Egypt  1-1 (1-1)   @ El Mahalla Stadium › El-Mahalla El-Kubra
               El Gouna FC v Enppi  1-1 (0-1)   @ Khaled Bichara Stadium › El-Gouna
-    20.00     Al Ittihad v Ceramica Cleopatra  4-4 (4-2)   @ Alexandria Stadium › Alexandria
+    20:00     Al Ittihad v Ceramica Cleopatra  4-4 (4-2)   @ Alexandria Stadium › Alexandria
               Misr EL Makasa v El Sharqia Dokhan  0-0 (0-0)   @ Cairo Military Academy Stadium › Cairo
   Tue Dec 21
-    15.00     Smouha SC v Ismaily SC  2-1 (1-1)   @ Alexandria Stadium › Alexandria
-    17.30     Pyramids FC v El Geish  3-0 (2-0)   @ 30 June Air Defence Stadium › Cairo
-    20.00     El Mokawloon v Zamalek SC  1-2 (0-0)   @ Arab Contractors Stadium › Cairo
-» Regular Season - 8
+    15:00     Smouha SC v Ismaily SC  2-1 (1-1)   @ Alexandria Stadium › Alexandria
+    17:30     Pyramids FC v El Geish  3-0 (2-0)   @ 30 June Air Defence Stadium › Cairo
+    20:00     El Mokawloon v Zamalek SC  1-2 (0-0)   @ Arab Contractors Stadium › Cairo
+▪ Regular Season - 8
   Fri Dec 24
-    15.00     Ceramica Cleopatra v El Mokawloon  2-2 (1-2)   @ Arab Contractors Stadium › Cairo
-    17.30     El Sharqia Dokhan v Pharco  0-3 (0-0)   @ Petrosport Stadium › Cairo
-    20.00     AL Masry v Al Ittihad  0-1 (0-0)   @ Borg El Arab Stadium › Borg El Arab
-» Regular Season - 5
+    15:00     Ceramica Cleopatra v El Mokawloon  2-2 (1-2)   @ Arab Contractors Stadium › Cairo
+    17:30     El Sharqia Dokhan v Pharco  0-3 (0-0)   @ Petrosport Stadium › Cairo
+    20:00     AL Masry v Al Ittihad  0-1 (0-0)   @ Borg El Arab Stadium › Borg El Arab
+▪ Regular Season - 5
   Sat Dec 25
-    17.30     Smouha SC v El Geish  1-0 (1-0)   @ Alexandria Stadium › Alexandria
-» Regular Season - 6
+    17:30     Smouha SC v El Geish  1-0 (1-0)   @ Alexandria Stadium › Alexandria
+▪ Regular Season - 6
   Sat Dec 25
-    15.00     Enppi v Pyramids FC  1-1 (0-1)   @ Petrosport Stadium › Cairo
-» Regular Season - 8
+    15:00     Enppi v Pyramids FC  1-1 (0-1)   @ Petrosport Stadium › Cairo
+▪ Regular Season - 8
   Sat Dec 25
-    20.00     Zamalek SC v Ghazl El Mehalla  4-0 (2-0)   @ Cairo International Stadium › Cairo
-» Regular Season - 7
+    20:00     Zamalek SC v Ghazl El Mehalla  4-0 (2-0)   @ Cairo International Stadium › Cairo
+▪ Regular Season - 7
   Sun Dec 26
-    20.00     Coca-Cola v Al Ahly  1-1 (0-1)   @ WE Al-Ahly Stadium › Cairo
-» Regular Season - 8
+    20:00     Coca-Cola v Al Ahly  1-1 (0-1)   @ WE Al-Ahly Stadium › Cairo
+▪ Regular Season - 8
   Wed Feb 9 2022
-    17.30     Enppi v Misr EL Makasa  0-0 (0-0)   @ Petrosport Stadium › Cairo
+    17:30     Enppi v Misr EL Makasa  0-0 (0-0)   @ Petrosport Stadium › Cairo
   Wed Feb 9
-    20.00     El Geish v El Gouna FC  0-1 (0-1)   @ Gehaz El Reyada Stadium › Cairo
+    20:00     El Geish v El Gouna FC  0-1 (0-1)   @ Gehaz El Reyada Stadium › Cairo
   Thu Feb 10
-    17.30     National Bank of Egypt v Smouha SC  1-2 (0-1)   @ Petrosport Stadium › Cairo
-    20.00     Ismaily SC v Coca-Cola  0-0 (0-0)   @ Ismaïlia Stadium › Ismailia
-» Regular Season - 9
+    17:30     National Bank of Egypt v Smouha SC  1-2 (0-1)   @ Petrosport Stadium › Cairo
+    20:00     Ismaily SC v Coca-Cola  0-0 (0-0)   @ Ismaïlia Stadium › Ismailia
+▪ Regular Season - 9
   Mon Feb 14
-    15.00     Al Ittihad v El Sharqia Dokhan  1-1 (1-0)   @ Alexandria Stadium › Alexandria
-    20.00     Misr EL Makasa v El Geish  0-0 (0-0)   @ Cairo Military Academy Stadium › Cairo
+    15:00     Al Ittihad v El Sharqia Dokhan  1-1 (1-0)   @ Alexandria Stadium › Alexandria
+    20:00     Misr EL Makasa v El Geish  0-0 (0-0)   @ Cairo Military Academy Stadium › Cairo
   Tue Feb 15
-    15.00     Ghazl El Mehalla v El Mokawloon  1-1 (0-1)   @ El Mahalla Stadium › El-Mahalla El-Kubra
-    17.30     Smouha SC v Zamalek SC  2-0 (0-0)   @ Borg El Arab Stadium › Borg El Arab
+    15:00     Ghazl El Mehalla v El Mokawloon  1-1 (0-1)   @ El Mahalla Stadium › El-Mahalla El-Kubra
+    17:30     Smouha SC v Zamalek SC  2-0 (0-0)   @ Borg El Arab Stadium › Borg El Arab
   Wed Feb 16
-    15.00     Pharco v Enppi  1-0 (0-0)   @ Alexandria Stadium › Alexandria
-    17.30     Pyramids FC v Ismaily SC  1-0 (0-0)   @ 30 June Air Defence Stadium › Cairo
-    20.00     Coca-Cola v National Bank of Egypt  2-0 (1-0)   @ WE Al-Ahly Stadium › Cairo
+    15:00     Pharco v Enppi  1-0 (0-0)   @ Alexandria Stadium › Alexandria
+    17:30     Pyramids FC v Ismaily SC  1-0 (0-0)   @ 30 June Air Defence Stadium › Cairo
+    20:00     Coca-Cola v National Bank of Egypt  2-0 (1-0)   @ WE Al-Ahly Stadium › Cairo
   Thu Feb 17
-    17.30     AL Masry v Ceramica Cleopatra  1-1 (1-1)   @ Borg El Arab Stadium › Borg El Arab
-» Regular Season - 10
+    17:30     AL Masry v Ceramica Cleopatra  1-1 (1-1)   @ Borg El Arab Stadium › Borg El Arab
+▪ Regular Season - 10
   Mon Feb 21
-    17.30     El Mokawloon v Smouha SC  0-0 (0-0)   @ Arab Contractors Stadium › Cairo
-    20.00     El Geish v Pharco  1-0 (0-0)   @ Gehaz El Reyada Stadium › Cairo
+    17:30     El Mokawloon v Smouha SC  0-0 (0-0)   @ Arab Contractors Stadium › Cairo
+    20:00     El Geish v Pharco  1-0 (0-0)   @ Gehaz El Reyada Stadium › Cairo
   Tue Feb 22
-    15.00     Ceramica Cleopatra v Ghazl El Mehalla  0-0 (0-0)   @ New Suez Stadium › Suez
-    17.30     Enppi v Al Ittihad  1-0 (1-0)   @ Petrosport Stadium › Cairo
-    20.00     Al Ahly v Misr EL Makasa  4-0 (3-0)   @ WE Al-Ahly Stadium › Cairo
+    15:00     Ceramica Cleopatra v Ghazl El Mehalla  0-0 (0-0)   @ New Suez Stadium › Suez
+    17:30     Enppi v Al Ittihad  1-0 (1-0)   @ Petrosport Stadium › Cairo
+    20:00     Al Ahly v Misr EL Makasa  4-0 (3-0)   @ WE Al-Ahly Stadium › Cairo
   Wed Feb 23
-    15.00     El Sharqia Dokhan v AL Masry  2-2 (1-1)   @ Borg El Arab Stadium › Borg El Arab
-    17.30     Ismaily SC v El Gouna FC  0-1 (0-0)   @ Ismaïlia Stadium › Ismailia
+    15:00     El Sharqia Dokhan v AL Masry  2-2 (1-1)   @ Borg El Arab Stadium › Borg El Arab
+    17:30     Ismaily SC v El Gouna FC  0-1 (0-0)   @ Ismaïlia Stadium › Ismailia
   Thu Feb 24
-    17.30     National Bank of Egypt v Pyramids FC  0-1 (0-0)   @ Petrosport Stadium › Cairo
-» Regular Season - 11
+    17:30     National Bank of Egypt v Pyramids FC  0-1 (0-0)   @ Petrosport Stadium › Cairo
+▪ Regular Season - 11
   Fri Feb 25
-    17.30     Coca-Cola v El Mokawloon  1-0 (0-0)   @ WE Al-Ahly Stadium › Cairo
+    17:30     Coca-Cola v El Mokawloon  1-0 (0-0)   @ WE Al-Ahly Stadium › Cairo
   Sun Feb 27
-    17.30     Smouha SC v Ghazl El Mehalla  2-0 (0-0)   @ Borg El Arab Stadium › Borg El Arab
+    17:30     Smouha SC v Ghazl El Mehalla  2-0 (0-0)   @ Borg El Arab Stadium › Borg El Arab
   Mon Feb 28
-    15.00     El Sharqia Dokhan v Ceramica Cleopatra  1-0 (0-0)   @ Petrosport Stadium › Cairo
-    17.30     Al Ittihad v El Geish  1-1 (1-0)   @ Borg El Arab Stadium › Borg El Arab
+    15:00     El Sharqia Dokhan v Ceramica Cleopatra  1-0 (0-0)   @ Petrosport Stadium › Cairo
+    17:30     Al Ittihad v El Geish  1-1 (1-0)   @ Borg El Arab Stadium › Borg El Arab
   Tue Mar 1
-    15.00     El Gouna FC v National Bank of Egypt  1-2 (1-1)   @ Khaled Bichara Stadium › El-Gouna
-    17.30     Misr EL Makasa v Ismaily SC  2-2 (0-2)   @ Cairo Military Academy Stadium › Cairo
-    20.00     Pharco v Al Ahly  1-4 (1-3)   @ Alexandria Stadium › Alexandria
-» Regular Season - 10
+    15:00     El Gouna FC v National Bank of Egypt  1-2 (1-1)   @ Khaled Bichara Stadium › El-Gouna
+    17:30     Misr EL Makasa v Ismaily SC  2-2 (0-2)   @ Cairo Military Academy Stadium › Cairo
+    20:00     Pharco v Al Ahly  1-4 (1-3)   @ Alexandria Stadium › Alexandria
+▪ Regular Season - 10
   Wed Mar 2
-    20.00     Zamalek SC v Coca-Cola  3-2 (1-2)   @ Cairo International Stadium › Cairo
-» Regular Season - 11
+    20:00     Zamalek SC v Coca-Cola  3-2 (1-2)   @ Cairo International Stadium › Cairo
+▪ Regular Season - 11
   Thu Mar 3
-    15.00     AL Masry v Enppi  2-2 (1-2)   @ Borg El Arab Stadium › Alexandria
-» Regular Season - 12
+    15:00     AL Masry v Enppi  2-2 (1-2)   @ Borg El Arab Stadium › Alexandria
+▪ Regular Season - 12
   Fri Mar 4
-    17.30     El Mokawloon v Pyramids FC  0-2 (0-1)   @ Arab Contractors Stadium › Cairo
+    17:30     El Mokawloon v Pyramids FC  0-2 (0-1)   @ Arab Contractors Stadium › Cairo
   Mon Mar 7
-    15.00     National Bank of Egypt v Misr EL Makasa  1-0 (0-0)   @ Petrosport Stadium › Cairo
-    17.30     Ismaily SC v Pharco  0-0 (0-0)   @ Ismaïlia Stadium › Ismailia
-    20.00     Zamalek SC v El Gouna FC  2-1 (2-1)   @ Cairo International Stadium › Cairo
-» Regular Season - 8
+    15:00     National Bank of Egypt v Misr EL Makasa  1-0 (0-0)   @ Petrosport Stadium › Cairo
+    17:30     Ismaily SC v Pharco  0-0 (0-0)   @ Ismaïlia Stadium › Ismailia
+    20:00     Zamalek SC v El Gouna FC  2-1 (2-1)   @ Cairo International Stadium › Cairo
+▪ Regular Season - 8
   Tue Mar 8
-    20.00     Al Ahly v Pyramids FC  3-0 (0-0)   @ WE Al-Ahly Stadium › Cairo
-» Regular Season - 12
+    20:00     Al Ahly v Pyramids FC  3-0 (0-0)   @ WE Al-Ahly Stadium › Cairo
+▪ Regular Season - 12
   Tue Mar 8
-    15.00     Enppi v El Sharqia Dokhan  1-2 (0-1)   @ Petrosport Stadium › Cairo
-    17.30     Ceramica Cleopatra v Smouha SC  1-1 (1-1)   @ Arab Contractors Stadium › Cairo
+    15:00     Enppi v El Sharqia Dokhan  1-2 (0-1)   @ Petrosport Stadium › Cairo
+    17:30     Ceramica Cleopatra v Smouha SC  1-1 (1-1)   @ Arab Contractors Stadium › Cairo
   Wed Mar 9
-    15.00     Ghazl El Mehalla v Coca-Cola  0-0 (0-0)   @ El Mahalla Stadium › El-Mahalla El-Kubra
-    17.30     El Geish v AL Masry  1-0 (1-0)   @ Borg El Arab Stadium › Alexandria
-» Regular Season - 13
+    15:00     Ghazl El Mehalla v Coca-Cola  0-0 (0-0)   @ El Mahalla Stadium › El-Mahalla El-Kubra
+    17:30     El Geish v AL Masry  1-0 (1-0)   @ Borg El Arab Stadium › Alexandria
+▪ Regular Season - 13
   Tue Mar 15
-    20.00     Coca-Cola v Smouha SC  4-0 (1-0)   @ WE Al-Ahly Stadium › Cairo
+    20:00     Coca-Cola v Smouha SC  4-0 (1-0)   @ WE Al-Ahly Stadium › Cairo
   Wed Mar 16
-    15.00     El Gouna FC v El Mokawloon  1-2 (0-0)   @ Khaled Bichara Stadium › El-Gouna
-    17.30     Al Ittihad v Ismaily SC  1-2 (1-1)   @ Alexandria Stadium › Alexandria
-    20.00     Enppi v Ceramica Cleopatra  0-0 (0-0)   @ Petrosport Stadium › Cairo
+    15:00     El Gouna FC v El Mokawloon  1-2 (0-0)   @ Khaled Bichara Stadium › El-Gouna
+    17:30     Al Ittihad v Ismaily SC  1-2 (1-1)   @ Alexandria Stadium › Alexandria
+    20:00     Enppi v Ceramica Cleopatra  0-0 (0-0)   @ Petrosport Stadium › Cairo
   Thu Mar 17
-    15.00     Pharco v National Bank of Egypt  2-2 (0-0)   @ Alexandria Stadium › Alexandria
-    17.30     El Sharqia Dokhan v El Geish  0-0 (0-0)   @ Petrosport Stadium › Cairo
-» Regular Season - 11
+    15:00     Pharco v National Bank of Egypt  2-2 (0-0)   @ Alexandria Stadium › Alexandria
+    17:30     El Sharqia Dokhan v El Geish  0-0 (0-0)   @ Petrosport Stadium › Cairo
+▪ Regular Season - 11
   Wed Apr 6
-    21.30     Pyramids FC v Zamalek SC  2-3 (2-2)   @ 30 June Air Defence Stadium › Cairo
-» Regular Season - 12
+    21:30     Pyramids FC v Zamalek SC  2-3 (2-2)   @ 30 June Air Defence Stadium › Cairo
+▪ Regular Season - 12
   Wed Apr 6
-    21.30     Al Ahly v Al Ittihad  1-0 (1-0)   @ WE Al-Ahly Stadium › Cairo
-» Regular Season - 13
+    21:30     Al Ahly v Al Ittihad  1-0 (1-0)   @ WE Al-Ahly Stadium › Cairo
+▪ Regular Season - 13
   Sat Apr 9
-    21.30     AL Masry v Al Ahly  1-0 (1-0)   @ Borg El Arab Stadium › Alexandria
+    21:30     AL Masry v Al Ahly  1-0 (1-0)   @ Borg El Arab Stadium › Alexandria
               Pyramids FC v Ghazl El Mehalla  1-0 (0-0)   @ 30 June Air Defence Stadium › Cairo
               Misr EL Makasa v Zamalek SC  0-1 (0-1)   @ Cairo Military Academy Stadium › Cairo
-» Regular Season - 14
+▪ Regular Season - 14
   Tue Apr 12
-    21.30     Zamalek SC v Pharco  0-0 (0-0)   @ Cairo International Stadium › Cairo
+    21:30     Zamalek SC v Pharco  0-0 (0-0)   @ Cairo International Stadium › Cairo
   Thu Apr 14
-    21.30     El Mokawloon v Misr EL Makasa  1-1 (1-0)   @ Arab Contractors Stadium › Cairo
+    21:30     El Mokawloon v Misr EL Makasa  1-1 (1-0)   @ Arab Contractors Stadium › Cairo
               National Bank of Egypt v Al Ittihad  1-1 (1-0)   @ Petrosport Stadium › Cairo
               El Geish v Enppi  1-1 (0-1)   @ Gehaz El Reyada Stadium › Cairo
   Fri Apr 15
-    21.30     Ghazl El Mehalla v El Gouna FC  2-1 (0-0)   @ El Mahalla Stadium › El-Mahalla El-Kubra
+    21:30     Ghazl El Mehalla v El Gouna FC  2-1 (0-0)   @ El Mahalla Stadium › El-Mahalla El-Kubra
               Ceramica Cleopatra v Coca-Cola  0-3 (0-2)   @ Arab Contractors Stadium › Cairo
-» Regular Season - 15
+▪ Regular Season - 15
   Mon Apr 18
-    21.30     Pharco v El Mokawloon  1-0 (0-0)   @ Alexandria Stadium › Alexandria
+    21:30     Pharco v El Mokawloon  1-0 (0-0)   @ Alexandria Stadium › Alexandria
               El Sharqia Dokhan v Ismaily SC  0-2 (0-0)   @ Petrosport Stadium › Cairo
               Misr EL Makasa v Ghazl El Mehalla  0-1 (0-0)   @ Cairo Military Academy Stadium › Cairo
   Tue Apr 19
-    21.30     El Geish v Ceramica Cleopatra  1-0 (1-0)   @ Gehaz El Reyada Stadium › Cairo
+    21:30     El Geish v Ceramica Cleopatra  1-0 (1-0)   @ Gehaz El Reyada Stadium › Cairo
               Al Ittihad v Zamalek SC  0-2 (0-1)   @ Borg El Arab Stadium › Alexandria
   Wed Apr 20
-    21.30     El Gouna FC v Smouha SC  1-0 (0-0)   @ Khaled Bichara Stadium › El-Gouna
-» Regular Season - 16
+    21:30     El Gouna FC v Smouha SC  1-0 (0-0)   @ Khaled Bichara Stadium › El-Gouna
+▪ Regular Season - 16
   Mon Apr 25
-    21.30     Ghazl El Mehalla v Pharco  1-1 (0-1)   @ El Mahalla Stadium › El-Mahalla El-Kubra
+    21:30     Ghazl El Mehalla v Pharco  1-1 (0-1)   @ El Mahalla Stadium › El-Mahalla El-Kubra
               Coca-Cola v El Gouna FC  3-2 (1-1)   @ WE Al-Ahly Stadium › Cairo
               Smouha SC v Misr EL Makasa  1-0 (0-0)   @ Alexandria Stadium › Alexandria
   Tue Apr 26
-    21.30     El Mokawloon v Al Ittihad  1-1 (1-0)   @ Arab Contractors Stadium › Cairo
+    21:30     El Mokawloon v Al Ittihad  1-1 (1-0)   @ Arab Contractors Stadium › Cairo
               National Bank of Egypt v El Sharqia Dokhan  2-1 (1-1)   @ Petrosport Stadium › Cairo
               Ismaily SC v Enppi  0-2 (0-0)   @ Ismaïlia Stadium › Ismailia
   Wed Apr 27
-    21.30     Pyramids FC v Ceramica Cleopatra  0-1 (0-1)   @ 30 June Air Defence Stadium › Cairo
+    21:30     Pyramids FC v Ceramica Cleopatra  0-1 (0-1)   @ 30 June Air Defence Stadium › Cairo
               Al Ahly v El Geish  0-0 (0-0)   @ WE Al-Ahly Stadium › Cairo
   Thu Apr 28
-    21.30     Zamalek SC v AL Masry  2-1 (0-1)   @ Borg El Arab Stadium › Alexandria
-» Regular Season - 17
+    21:30     Zamalek SC v AL Masry  2-1 (0-1)   @ Borg El Arab Stadium › Alexandria
+▪ Regular Season - 17
   Fri Apr 29
-    21.30     Misr EL Makasa v Coca-Cola  0-3 (0-2)   @ Cairo Military Academy Stadium › Cairo
+    21:30     Misr EL Makasa v Coca-Cola  0-3 (0-2)   @ Cairo Military Academy Stadium › Cairo
               Pharco v Smouha SC  0-0 (0-0)   @ Alexandria Stadium › Alexandria
               Enppi v National Bank of Egypt  2-2 (0-2)   @ Petrosport Stadium › Cairo
   Sat Apr 30
-    21.30     Al Ittihad v Ghazl El Mehalla  3-0 (1-0)   @ Alexandria Stadium › Alexandria
+    21:30     Al Ittihad v Ghazl El Mehalla  3-0 (1-0)   @ Alexandria Stadium › Alexandria
               Ceramica Cleopatra v Al Ahly  1-1 (0-0)   @ Arab Contractors Stadium › Cairo
               El Geish v Ismaily SC  1-0 (0-0)   @ Gehaz El Reyada Stadium › Cairo
   Sun May 1
-    21.30     AL Masry v El Mokawloon  0-2 (0-1)   @ Borg El Arab Stadium › Alexandria
+    21:30     AL Masry v El Mokawloon  0-2 (0-1)   @ Borg El Arab Stadium › Alexandria
               El Gouna FC v Pyramids FC  1-2 (1-1)   @ Khaled Bichara Stadium › El-Gouna
               El Sharqia Dokhan v Zamalek SC  1-2 (0-1)   @ Arab Contractors Stadium › Cairo
-» Regular Season - 14
+▪ Regular Season - 14
   Fri May 6
-    18.30     Ismaily SC v AL Masry  3-2 (1-1)   @ Borg El Arab Stadium › Alexandria
-    21.00     Smouha SC v Pyramids FC  0-2 (0-1)   @ Alexandria Stadium › Alexandria
-» Regular Season - 18
+    18:30     Ismaily SC v AL Masry  3-2 (1-1)   @ Borg El Arab Stadium › Alexandria
+    21:00     Smouha SC v Pyramids FC  0-2 (0-1)   @ Alexandria Stadium › Alexandria
+▪ Regular Season - 18
   Mon May 9
-    16.00     El Sharqia Dokhan v El Mokawloon  1-1 (0-1)   @ Petrosport Stadium › Cairo
-    18.30     Pharco v Coca-Cola  1-0 (1-0)   @ Alexandria Stadium › Alexandria
-    21.00     El Geish v National Bank of Egypt  1-1 (1-1)   @ Gehaz El Reyada Stadium › Cairo
+    16:00     El Sharqia Dokhan v El Mokawloon  1-1 (0-1)   @ Petrosport Stadium › Cairo
+    18:30     Pharco v Coca-Cola  1-0 (1-0)   @ Alexandria Stadium › Alexandria
+    21:00     El Geish v National Bank of Egypt  1-1 (1-1)   @ Gehaz El Reyada Stadium › Cairo
   Tue May 10
-    18.30     Ceramica Cleopatra v El Gouna FC  3-2 (0-1)   @ Arab Contractors Stadium › Cairo
-    21.00     Zamalek SC v Enppi  0-2 (0-1)   @ Cairo International Stadium › Cairo
+    18:30     Ceramica Cleopatra v El Gouna FC  3-2 (0-1)   @ Arab Contractors Stadium › Cairo
+    21:00     Zamalek SC v Enppi  0-2 (0-1)   @ Cairo International Stadium › Cairo
   Wed May 11
-    16.00     AL Masry v Ghazl El Mehalla  1-1 (0-0)   @ Borg El Arab Stadium › Alexandria
-    18.30     Al Ittihad v Smouha SC  2-5 (0-2)   @ Alexandria Stadium › Alexandria
-    21.00     Misr EL Makasa v Pyramids FC  0-2 (0-0)   @ Cairo Military Academy Stadium › Cairo
-» Regular Season - 19
+    16:00     AL Masry v Ghazl El Mehalla  1-1 (0-0)   @ Borg El Arab Stadium › Alexandria
+    18:30     Al Ittihad v Smouha SC  2-5 (0-2)   @ Alexandria Stadium › Alexandria
+    21:00     Misr EL Makasa v Pyramids FC  0-2 (0-0)   @ Cairo Military Academy Stadium › Cairo
+▪ Regular Season - 19
   Sun May 15
-    16.00     Ismaily SC v Ceramica Cleopatra  2-0 (1-0)   @ Ismaïlia Stadium › Ismailia
-    18.30     El Mokawloon v Enppi  2-2 (1-1)   @ Arab Contractors Stadium › Cairo
-    21.00     Pyramids FC v Pharco  0-0 (0-0)   @ 30 June Air Defence Stadium › Cairo
+    16:00     Ismaily SC v Ceramica Cleopatra  2-0 (1-0)   @ Ismaïlia Stadium › Ismailia
+    18:30     El Mokawloon v Enppi  2-2 (1-1)   @ Arab Contractors Stadium › Cairo
+    21:00     Pyramids FC v Pharco  0-0 (0-0)   @ 30 June Air Defence Stadium › Cairo
   Mon May 16
-    18.30     Ghazl El Mehalla v El Sharqia Dokhan  1-0 (1-0)   @ El Mahalla Stadium › El-Mahalla El-Kubra
-    21.00     Smouha SC v AL Masry  2-1 (2-0)   @ Borg El Arab Stadium › Alexandria
+    18:30     Ghazl El Mehalla v El Sharqia Dokhan  1-0 (1-0)   @ El Mahalla Stadium › El-Mahalla El-Kubra
+    21:00     Smouha SC v AL Masry  2-1 (2-0)   @ Borg El Arab Stadium › Alexandria
   Tue May 17
-    16.00     El Gouna FC v Misr EL Makasa  0-1 (0-1)   @ Khaled Bichara Stadium › El-Gouna
-    18.30     Coca-Cola v Al Ittihad  4-3 (3-0)   @ WE Al-Ahly Stadium › Cairo
-    21.00     Zamalek SC v El Geish  0-1 (0-0)   @ Cairo International Stadium › Cairo
+    16:00     El Gouna FC v Misr EL Makasa  0-1 (0-1)   @ Khaled Bichara Stadium › El-Gouna
+    18:30     Coca-Cola v Al Ittihad  4-3 (3-0)   @ WE Al-Ahly Stadium › Cairo
+    21:00     Zamalek SC v El Geish  0-1 (0-0)   @ Cairo International Stadium › Cairo
   Wed May 18
-    20.00     National Bank of Egypt v Al Ahly  0-0 (0-0)   @ Arab Contractors Stadium › Cairo
-» Regular Season - 15
+    20:00     National Bank of Egypt v Al Ahly  0-0 (0-0)   @ Arab Contractors Stadium › Cairo
+▪ Regular Season - 15
   Sat May 21
-    21.00     Enppi v Al Ahly  1-2 (0-0)   @ Petrosport Stadium › Cairo
-» Regular Season - 20
+    21:00     Enppi v Al Ahly  1-2 (0-0)   @ Petrosport Stadium › Cairo
+▪ Regular Season - 20
   Sat May 21
-    16.00     El Sharqia Dokhan v Smouha SC  2-2 (1-0)   @ Eastern Company Stadium › Giza
-    18.30     El Geish v El Mokawloon  1-0 (0-0)   @ Gehaz El Reyada Stadium › Cairo
+    16:00     El Sharqia Dokhan v Smouha SC  2-2 (1-0)   @ Eastern Company Stadium › Giza
+    18:30     El Geish v El Mokawloon  1-0 (0-0)   @ Gehaz El Reyada Stadium › Cairo
   Sun May 22
-    16.00     Ismaily SC v National Bank of Egypt  2-2 (1-0)   @ Ismaïlia Stadium › Ismailia
-    18.30     Ceramica Cleopatra v Misr EL Makasa  4-1 (1-1)   @ New Suez Stadium › Suez
+    16:00     Ismaily SC v National Bank of Egypt  2-2 (1-0)   @ Ismaïlia Stadium › Ismailia
+    18:30     Ceramica Cleopatra v Misr EL Makasa  4-1 (1-1)   @ New Suez Stadium › Suez
               AL Masry v Coca-Cola  0-1 (0-0)   @ Borg El Arab Stadium › Alexandria
-    21.00     Al Ittihad v Pyramids FC  1-0 (0-0)   @ Alexandria Stadium › Alexandria
+    21:00     Al Ittihad v Pyramids FC  1-0 (0-0)   @ Alexandria Stadium › Alexandria
   Mon May 23
-    18.30     Pharco v El Gouna FC  0-0 (0-0)   @ Haras El Hodoud Stadium › Alexandria
+    18:30     Pharco v El Gouna FC  0-0 (0-0)   @ Haras El Hodoud Stadium › Alexandria
   Tue May 24
-    18.30     Enppi v Ghazl El Mehalla  2-2 (1-2)   @ Petrosport Stadium › Cairo
-» Regular Season - 15
+    18:30     Enppi v Ghazl El Mehalla  2-2 (1-2)   @ Petrosport Stadium › Cairo
+▪ Regular Season - 15
   Thu May 26
-    18.30     AL Masry v National Bank of Egypt  1-3 (0-1)   @ Borg El Arab Stadium › Alexandria
-    21.00     Pyramids FC v Coca-Cola  0-0 (0-0)   @ 30 June Air Defence Stadium › Cairo
-» Regular Season - 21
+    18:30     AL Masry v National Bank of Egypt  1-3 (0-1)   @ Borg El Arab Stadium › Alexandria
+    21:00     Pyramids FC v Coca-Cola  0-0 (0-0)   @ 30 June Air Defence Stadium › Cairo
+▪ Regular Season - 21
   Fri May 27
-    18.30     El Gouna FC v Al Ittihad  1-0 (0-0)   @ Khaled Bichara Stadium › El-Gouna
-    21.00     Misr EL Makasa v Pharco  0-0 (0-0)   @ Cairo Military Academy Stadium › Cairo
+    18:30     El Gouna FC v Al Ittihad  1-0 (0-0)   @ Khaled Bichara Stadium › El-Gouna
+    21:00     Misr EL Makasa v Pharco  0-0 (0-0)   @ Cairo Military Academy Stadium › Cairo
   Sat May 28
-    16.00     Ghazl El Mehalla v El Geish  0-1 (0-1)   @ El Mahalla Stadium › El-Mahalla El-Kubra
-    18.30     Smouha SC v Enppi  1-1 (1-0)   @ Alexandria Stadium › Alexandria
+    16:00     Ghazl El Mehalla v El Geish  0-1 (0-1)   @ El Mahalla Stadium › El-Mahalla El-Kubra
+    18:30     Smouha SC v Enppi  1-1 (1-0)   @ Alexandria Stadium › Alexandria
               Zamalek SC v Ismaily SC  2-1 (1-0)   @ Cairo International Stadium › Cairo
   Sun May 29
-    16.00     Coca-Cola v El Sharqia Dokhan  1-1 (1-1)   @ Al-Sekka Al-Hadid Stadium › Cairo
-    18.30     Pyramids FC v AL Masry  3-1 (0-0)   @ 30 June Air Defence Stadium › Cairo
+    16:00     Coca-Cola v El Sharqia Dokhan  1-1 (1-1)   @ Al-Sekka Al-Hadid Stadium › Cairo
+    18:30     Pyramids FC v AL Masry  3-1 (0-0)   @ 30 June Air Defence Stadium › Cairo
   Mon May 30
-    18.30     National Bank of Egypt v Ceramica Cleopatra  0-0 (0-0)   @ Petrosport Stadium › Cairo
-» Regular Season - 14
+    18:30     National Bank of Egypt v Ceramica Cleopatra  0-0 (0-0)   @ Petrosport Stadium › Cairo
+▪ Regular Season - 14
   Wed Jun 15
-    21.00     Al Ahly v El Sharqia Dokhan  4-1 (2-0)   @ WE Al-Ahly Stadium › Cairo
-» Regular Season - 22
+    21:00     Al Ahly v El Sharqia Dokhan  4-1 (2-0)   @ WE Al-Ahly Stadium › Cairo
+▪ Regular Season - 22
   Fri Jun 17
-    19.00     Ceramica Cleopatra v Pharco  1-1 (1-1)   @ Arab Contractors Stadium › Cairo
+    19:00     Ceramica Cleopatra v Pharco  1-1 (1-1)   @ Arab Contractors Stadium › Cairo
               Ismaily SC v El Mokawloon  0-0 (0-0)   @ Ismaïlia Stadium › Ismailia
-    21.30     El Geish v Smouha SC  3-3 (1-0)   @ Gehaz El Reyada Stadium › Cairo
+    21:30     El Geish v Smouha SC  3-3 (1-0)   @ Gehaz El Reyada Stadium › Cairo
   Sat Jun 18
-    19.00     Enppi v Coca-Cola  1-2 (0-2)   @ Petrosport Stadium › Cairo
+    19:00     Enppi v Coca-Cola  1-2 (0-2)   @ Petrosport Stadium › Cairo
               AL Masry v El Gouna FC  1-0 (0-0)   @ Borg El Arab Stadium › Alexandria
-    21.30     Al Ittihad v Misr EL Makasa  1-0 (1-0)   @ Alexandria Stadium › Alexandria
-» Regular Season - 20
+    21:30     Al Ittihad v Misr EL Makasa  1-0 (1-0)   @ Alexandria Stadium › Alexandria
+▪ Regular Season - 20
   Sun Jun 19
-    20.00     Al Ahly v Zamalek SC  2-2 (1-0)   @ WE Al-Ahly Stadium › Cairo
-» Regular Season - 22
+    20:00     Al Ahly v Zamalek SC  2-2 (1-0)   @ WE Al-Ahly Stadium › Cairo
+▪ Regular Season - 22
   Wed Jun 22
-    19.00     El Sharqia Dokhan v Pyramids FC  0-3 (0-2)   @ Eastern Company Stadium › Giza
+    19:00     El Sharqia Dokhan v Pyramids FC  0-3 (0-2)   @ Eastern Company Stadium › Giza
               National Bank of Egypt v Zamalek SC  1-2 (0-0)   @ Al-Shorta Stadium › Cairo
-    21.30     Al Ahly v Ghazl El Mehalla  2-1 (1-0)   @ WE Al-Ahly Stadium › Cairo
-» Regular Season - 23
+    21:30     Al Ahly v Ghazl El Mehalla  2-1 (1-0)   @ WE Al-Ahly Stadium › Cairo
+▪ Regular Season - 23
   Sun Jun 26
-    19.00     Misr EL Makasa v AL Masry  0-2 (0-2)   @ Arab Contractors Stadium › Cairo
+    19:00     Misr EL Makasa v AL Masry  0-2 (0-2)   @ Arab Contractors Stadium › Cairo
   Mon Jun 27
-    19.00     Pharco v Al Ittihad  0-1 (0-1)   @ Alexandria Stadium › Alexandria
+    19:00     Pharco v Al Ittihad  0-1 (0-1)   @ Alexandria Stadium › Alexandria
               El Gouna FC v El Sharqia Dokhan  2-3 (1-1)   @ Khaled Bichara Stadium › El-Gouna
-    21.30     Coca-Cola v El Geish  0-1 (0-0)   @ WE Al-Ahly Stadium › Cairo
+    21:30     Coca-Cola v El Geish  0-1 (0-0)   @ WE Al-Ahly Stadium › Cairo
   Tue Jun 28
-    19.00     El Mokawloon v National Bank of Egypt  1-1 (0-1)   @ Arab Contractors Stadium › Cairo
+    19:00     El Mokawloon v National Bank of Egypt  1-1 (0-1)   @ Arab Contractors Stadium › Cairo
               Ghazl El Mehalla v Ismaily SC  0-0 (0-0)   @ El Mahalla Stadium › El-Mahalla El-Kubra
-    21.30     Zamalek SC v Ceramica Cleopatra  3-2 (2-0)   @ Cairo International Stadium › Cairo
+    21:30     Zamalek SC v Ceramica Cleopatra  3-2 (2-0)   @ Cairo International Stadium › Cairo
   Wed Jun 29
-    19.00     Pyramids FC v Enppi  1-0 (0-0)   @ 30 June Air Defence Stadium › Cairo
-    21.30     Smouha SC v Al Ahly  3-2 (2-0)   @ Alexandria Stadium › Alexandria
-» Regular Season - 9
+    19:00     Pyramids FC v Enppi  1-0 (0-0)   @ 30 June Air Defence Stadium › Cairo
+    21:30     Smouha SC v Al Ahly  3-2 (2-0)   @ Alexandria Stadium › Alexandria
+▪ Regular Season - 9
   Tue Jul 5
-    21.00     El Gouna FC v Al Ahly  0-0 (0-0)   @ Khaled Bichara Stadium › El-Gouna
-» Regular Season - 24
+    21:00     El Gouna FC v Al Ahly  0-0 (0-0)   @ Khaled Bichara Stadium › El-Gouna
+▪ Regular Season - 24
   Tue Jul 12
-    16.30     National Bank of Egypt v Ghazl El Mehalla  2-1 (1-1)   @ Al-Shorta Stadium › Cairo
-    18.30     Zamalek SC v El Geish  1-0 (1-0)   @ Cairo International Stadium › Cairo
+    16:30     National Bank of Egypt v Ghazl El Mehalla  2-1 (1-1)   @ Al-Shorta Stadium › Cairo
+    18:30     Zamalek SC v El Geish  1-0 (1-0)   @ Cairo International Stadium › Cairo
               El Geish v Pyramids FC  2-2 (1-0)   @ Gehaz El Reyada Stadium › Cairo
-    21.00     Al Ahly v Coca-Cola  4-0 (3-0)   @ WE Al-Ahly Stadium › Cairo
+    21:00     Al Ahly v Coca-Cola  4-0 (3-0)   @ WE Al-Ahly Stadium › Cairo
   Wed Jul 13
-    18.30     Ismaily SC v Smouha SC  1-0 (0-0)   @ Ismaïlia Stadium › Ismailia
+    18:30     Ismaily SC v Smouha SC  1-0 (0-0)   @ Ismaïlia Stadium › Ismailia
               AL Masry v Pharco  0-0 (0-0)   @ Borg El Arab Stadium › Alexandria
-    21.00     Enppi v El Gouna FC  2-2 (2-1)   @ Petrosport Stadium › Cairo
+    21:00     Enppi v El Gouna FC  2-2 (2-1)   @ Petrosport Stadium › Cairo
   Thu Jul 14
-    18.30     El Sharqia Dokhan v Misr EL Makasa  2-1 (2-1)   @ Petrosport Stadium › Cairo
-    21.00     Ceramica Cleopatra v Al Ittihad  5-0 (1-0)   @ Arab Contractors Stadium › Cairo
-» Regular Season - 25
+    18:30     El Sharqia Dokhan v Misr EL Makasa  2-1 (2-1)   @ Petrosport Stadium › Cairo
+    21:00     Ceramica Cleopatra v Al Ittihad  5-0 (1-0)   @ Arab Contractors Stadium › Cairo
+▪ Regular Season - 25
   Sat Jul 16
-    18.30     Ghazl El Mehalla v Zamalek SC  0-2 (0-0)   @ El Mahalla Stadium › El-Mahalla El-Kubra
+    18:30     Ghazl El Mehalla v Zamalek SC  0-2 (0-0)   @ El Mahalla Stadium › El-Mahalla El-Kubra
               Coca-Cola v Ismaily SC  1-2 (0-0)   @ WE Al-Ahly Stadium › Cairo
-    21.00     Pyramids FC v Al Ahly  2-0 (1-0)   @ 30 June Air Defence Stadium › Cairo
+    21:00     Pyramids FC v Al Ahly  2-0 (1-0)   @ 30 June Air Defence Stadium › Cairo
   Sun Jul 17
-    18.30     El Gouna FC v El Geish  2-1 (1-0)   @ Khaled Bichara Stadium › El-Gouna
+    18:30     El Gouna FC v El Geish  2-1 (1-0)   @ Khaled Bichara Stadium › El-Gouna
               Smouha SC v National Bank of Egypt  0-1 (0-1)   @ Alexandria Stadium › Alexandria
-    21.00     El Mokawloon v Ceramica Cleopatra  0-1 (0-1)   @ Arab Contractors Stadium › Cairo
+    21:00     El Mokawloon v Ceramica Cleopatra  0-1 (0-1)   @ Arab Contractors Stadium › Cairo
   Mon Jul 18
-    18.30     Misr EL Makasa v Enppi  0-2 (0-1)   @ Cairo Military Academy Stadium › Cairo
+    18:30     Misr EL Makasa v Enppi  0-2 (0-1)   @ Cairo Military Academy Stadium › Cairo
               Pharco v El Sharqia Dokhan  1-1 (0-0)   @ Alexandria Stadium › Alexandria
-    21.00     Al Ittihad v AL Masry  0-0 (0-0)   @ Borg El Arab Stadium › Alexandria
-» Regular Season - 26
+    21:00     Al Ittihad v AL Masry  0-0 (0-0)   @ Borg El Arab Stadium › Alexandria
+▪ Regular Season - 26
   Thu Jul 21
-    18.30     El Sharqia Dokhan v Al Ittihad  2-2 (1-2)   @ Eastern Company Stadium › Giza
+    18:30     El Sharqia Dokhan v Al Ittihad  2-2 (1-2)   @ Eastern Company Stadium › Giza
   Fri Jul 22
-    18.30     Ceramica Cleopatra v AL Masry  1-4 (1-2)   @ Borg El Arab Stadium › Alexandria
+    18:30     Ceramica Cleopatra v AL Masry  1-4 (1-2)   @ Borg El Arab Stadium › Alexandria
               El Mokawloon v Ghazl El Mehalla  1-0 (0-0)   @ Arab Contractors Stadium › Cairo
-    21.00     Enppi v Pharco  0-1 (0-1)   @ Petrosport Stadium › Cairo
+    21:00     Enppi v Pharco  0-1 (0-1)   @ Petrosport Stadium › Cairo
   Sat Jul 23
-    18.30     El Geish v Misr EL Makasa  0-0 (0-0)   @ Gehaz El Reyada Stadium › Cairo
-    21.00     National Bank of Egypt v Coca-Cola  1-4 (1-2)   @ Petrosport Stadium › Cairo
+    18:30     El Geish v Misr EL Makasa  0-0 (0-0)   @ Gehaz El Reyada Stadium › Cairo
+    21:00     National Bank of Egypt v Coca-Cola  1-4 (1-2)   @ Petrosport Stadium › Cairo
   Sun Jul 24
-    18.30     Ismaily SC v Pyramids FC  0-4 (0-3)   @ Ismaïlia Stadium › Ismailia
+    18:30     Ismaily SC v Pyramids FC  0-4 (0-3)   @ Ismaïlia Stadium › Ismailia
               Al Ahly v El Gouna FC  2-0 (0-0)   @ WE Al-Ahly Stadium › Cairo
-    21.00     Zamalek SC v Smouha SC  2-0 (1-0)   @ Cairo International Stadium › Cairo
-» Regular Season - 27
+    21:00     Zamalek SC v Smouha SC  2-0 (1-0)   @ Cairo International Stadium › Cairo
+▪ Regular Season - 27
   Tue Jul 26
-    18.30     Ghazl El Mehalla v Ceramica Cleopatra  0-0 (0-0)   @ El Mahalla Stadium › El-Mahalla El-Kubra
+    18:30     Ghazl El Mehalla v Ceramica Cleopatra  0-0 (0-0)   @ El Mahalla Stadium › El-Mahalla El-Kubra
               AL Masry v El Sharqia Dokhan  1-2 (0-1)   @ Borg El Arab Stadium › Alexandria
-    21.00     Al Ittihad v Enppi  2-1 (1-1)   @ Alexandria Stadium › Alexandria
+    21:00     Al Ittihad v Enppi  2-1 (1-1)   @ Alexandria Stadium › Alexandria
   Wed Jul 27
-    18.30     Pyramids FC v National Bank of Egypt  1-0 (0-0)   @ 30 June Air Defence Stadium › Cairo
+    18:30     Pyramids FC v National Bank of Egypt  1-0 (0-0)   @ 30 June Air Defence Stadium › Cairo
               Smouha SC v El Mokawloon  1-1 (1-1)   @ Alexandria Stadium › Alexandria
-    21.00     Misr EL Makasa v Al Ahly  0-1 (0-1)   @ Arab Contractors Stadium › Cairo
+    21:00     Misr EL Makasa v Al Ahly  0-1 (0-1)   @ Arab Contractors Stadium › Cairo
   Thu Jul 28
-    18.30     Pharco v El Geish  0-1 (0-1)   @ Haras El Hodoud Stadium › Alexandria
+    18:30     Pharco v El Geish  0-1 (0-1)   @ Haras El Hodoud Stadium › Alexandria
               El Gouna FC v Ismaily SC  0-3 (0-0)   @ Khaled Bichara Stadium › El-Gouna
-    21.00     Coca-Cola v Zamalek SC  0-1 (0-0)   @ Al-Sekka Al-Hadid Stadium › Cairo
-» Regular Season - 21
+    21:00     Coca-Cola v Zamalek SC  0-1 (0-0)   @ Al-Sekka Al-Hadid Stadium › Cairo
+▪ Regular Season - 21
   Sat Jul 30
-    21.00     El Mokawloon v Al Ahly  0-0 (0-0)   @ Arab Contractors Stadium › Cairo
-» Regular Season - 28
+    21:00     El Mokawloon v Al Ahly  0-0 (0-0)   @ Arab Contractors Stadium › Cairo
+▪ Regular Season - 28
   Sat Jul 30
-    18.30     Enppi v AL Masry  1-1 (0-1)   @ Petrosport Stadium › Cairo
+    18:30     Enppi v AL Masry  1-1 (0-1)   @ Petrosport Stadium › Cairo
   Sun Jul 31
-    18.30     Ceramica Cleopatra v El Sharqia Dokhan  0-1 (0-1)   @ New Suez Stadium › Suez
+    18:30     Ceramica Cleopatra v El Sharqia Dokhan  0-1 (0-1)   @ New Suez Stadium › Suez
               Ghazl El Mehalla v Smouha SC  1-0 (0-0)   @ El Mahalla Stadium › El-Mahalla El-Kubra
-    21.00     El Geish v Al Ittihad  2-1 (2-0)   @ Gehaz El Reyada Stadium › Cairo
+    21:00     El Geish v Al Ittihad  2-1 (2-0)   @ Gehaz El Reyada Stadium › Cairo
   Mon Aug 1
-    18.30     National Bank of Egypt v El Gouna FC  1-1 (0-1)   @ Petrosport Stadium › Cairo
+    18:30     National Bank of Egypt v El Gouna FC  1-1 (0-1)   @ Petrosport Stadium › Cairo
               Ismaily SC v Misr EL Makasa  1-0 (1-0)   @ Ismaïlia Stadium › Ismailia
-    21.00     Zamalek SC v Pyramids FC  3-0 (2-0)   @ Cairo International Stadium › Cairo
+    21:00     Zamalek SC v Pyramids FC  3-0 (2-0)   @ Cairo International Stadium › Cairo
   Tue Aug 2
-    18.30     El Mokawloon v Coca-Cola  0-1 (0-1)   @ Arab Contractors Stadium › Cairo
+    18:30     El Mokawloon v Coca-Cola  0-1 (0-1)   @ Arab Contractors Stadium › Cairo
   Wed Aug 3
-    21.00     Al Ahly v Pharco  0-0 (0-0)   @ WE Al-Ahly Stadium › Cairo
-» Regular Season - 29
+    21:00     Al Ahly v Pharco  0-0 (0-0)   @ WE Al-Ahly Stadium › Cairo
+▪ Regular Season - 29
   Thu Aug 4
-    18.30     El Sharqia Dokhan v Enppi  0-2 (0-0)   @ Petrosport Stadium › Cairo
+    18:30     El Sharqia Dokhan v Enppi  0-2 (0-0)   @ Petrosport Stadium › Cairo
               Smouha SC v Ceramica Cleopatra  1-1 (0-0)   @ Alexandria Stadium › Alexandria
-    21.00     AL Masry v El Geish  0-0 (0-0)   @ Borg El Arab Stadium › Alexandria
+    21:00     AL Masry v El Geish  0-0 (0-0)   @ Borg El Arab Stadium › Alexandria
   Fri Aug 5
-    18.30     Misr EL Makasa v National Bank of Egypt  1-2 (0-2)   @ Cairo Military Academy Stadium › Cairo
-    21.00     El Gouna FC v Zamalek SC  1-4 (0-2)   @ Khaled Bichara Stadium › El-Gouna
+    18:30     Misr EL Makasa v National Bank of Egypt  1-2 (0-2)   @ Cairo Military Academy Stadium › Cairo
+    21:00     El Gouna FC v Zamalek SC  1-4 (0-2)   @ Khaled Bichara Stadium › El-Gouna
   Sat Aug 6
-    18.30     Coca-Cola v Ghazl El Mehalla  2-1 (1-1)   @ WE Al-Ahly Stadium › Cairo
+    18:30     Coca-Cola v Ghazl El Mehalla  2-1 (1-1)   @ WE Al-Ahly Stadium › Cairo
               Pharco v Ismaily SC  0-0 (0-0)   @ Alexandria Stadium › Alexandria
-    21.00     Pyramids FC v El Mokawloon  1-0 (0-0)   @ 30 June Air Defence Stadium › Cairo
+    21:00     Pyramids FC v El Mokawloon  1-0 (0-0)   @ 30 June Air Defence Stadium › Cairo
   Sun Aug 7
-    21.00     Al Ittihad v Al Ahly  0-3 (0-2)   @ Borg El Arab Stadium › Alexandria
-» Regular Season - 30
+    21:00     Al Ittihad v Al Ahly  0-3 (0-2)   @ Borg El Arab Stadium › Alexandria
+▪ Regular Season - 30
   Mon Aug 8
-    18.30     Ceramica Cleopatra v Enppi  0-0 (0-0)   @ Arab Contractors Stadium › Cairo
+    18:30     Ceramica Cleopatra v Enppi  0-0 (0-0)   @ Arab Contractors Stadium › Cairo
               El Geish v El Sharqia Dokhan  1-1 (0-0)   @ Gehaz El Reyada Stadium › Cairo
   Tue Aug 9
-    18.30     Ghazl El Mehalla v Pyramids FC  0-2 (0-1)   @ El Mahalla Stadium › El-Mahalla El-Kubra
-    21.00     National Bank of Egypt v Pharco  0-1 (0-1)   @ Petrosport Stadium › Cairo
+    18:30     Ghazl El Mehalla v Pyramids FC  0-2 (0-1)   @ El Mahalla Stadium › El-Mahalla El-Kubra
+    21:00     National Bank of Egypt v Pharco  0-1 (0-1)   @ Petrosport Stadium › Cairo
               Zamalek SC v Misr EL Makasa  5-0 (2-0)   @ Cairo International Stadium › Cairo
   Wed Aug 10
-    18.30     El Mokawloon v El Gouna FC  0-0 (0-0)   @ Arab Contractors Stadium › Cairo
+    18:30     El Mokawloon v El Gouna FC  0-0 (0-0)   @ Arab Contractors Stadium › Cairo
               Smouha SC v Coca-Cola  1-1 (0-0)   @ Alexandria Stadium › Alexandria
-    21.00     Al Ahly v AL Masry  2-0 (0-0)   @ WE Al-Ahly Stadium › Cairo
+    21:00     Al Ahly v AL Masry  2-0 (0-0)   @ WE Al-Ahly Stadium › Cairo
   Thu Aug 11
-    18.30     Ismaily SC v Al Ittihad  1-0 (0-0)   @ Ismaïlia Stadium › Ismailia
-» Regular Season - 31
+    18:30     Ismaily SC v Al Ittihad  1-0 (0-0)   @ Ismaïlia Stadium › Ismailia
+▪ Regular Season - 31
   Wed Aug 17
-    18.30     Enppi v El Geish  0-1 (0-1)   @ Petrosport Stadium › Cairo
-    21.00     El Sharqia Dokhan v Al Ahly  0-0 (0-0)   @ Eastern Company Stadium › Giza
+    18:30     Enppi v El Geish  0-1 (0-1)   @ Petrosport Stadium › Cairo
+    21:00     El Sharqia Dokhan v Al Ahly  0-0 (0-0)   @ Eastern Company Stadium › Giza
   Thu Aug 18
-    18.30     El Gouna FC v Ghazl El Mehalla  0-0 (0-0)   @ Khaled Bichara Stadium › El-Gouna
+    18:30     El Gouna FC v Ghazl El Mehalla  0-0 (0-0)   @ Khaled Bichara Stadium › El-Gouna
               AL Masry v Ismaily SC  4-1 (3-0)   @ Borg El Arab Stadium › Alexandria
-    21.00     Coca-Cola v Ceramica Cleopatra  1-1 (1-0)   @ WE Al-Ahly Stadium › Cairo
+    21:00     Coca-Cola v Ceramica Cleopatra  1-1 (1-0)   @ WE Al-Ahly Stadium › Cairo
   Fri Aug 19
-    18.30     Pharco v Zamalek SC  0-1 (0-1)   @ Haras El Hodoud Stadium › Alexandria
+    18:30     Pharco v Zamalek SC  0-1 (0-1)   @ Haras El Hodoud Stadium › Alexandria
               Misr EL Makasa v El Mokawloon  0-3 (0-2)   @ Cairo Military Academy Stadium › Cairo
-    21.00     Pyramids FC v Smouha SC  5-1 (1-1)   @ 30 June Air Defence Stadium › Cairo
+    21:00     Pyramids FC v Smouha SC  5-1 (1-1)   @ 30 June Air Defence Stadium › Cairo
   Sat Aug 20
-    18.30     Al Ittihad v National Bank of Egypt  3-0 (1-0)   @ Alexandria Stadium › Alexandria
-» Regular Season - 18
+    18:30     Al Ittihad v National Bank of Egypt  3-0 (1-0)   @ Alexandria Stadium › Alexandria
+▪ Regular Season - 18
   Sun Aug 21
-    21.00     Al Ahly v Ismaily SC  0-0 (0-0)   @ WE Al-Ahly Stadium › Cairo
-» Regular Season - 32
+    21:00     Al Ahly v Ismaily SC  0-0 (0-0)   @ WE Al-Ahly Stadium › Cairo
+▪ Regular Season - 32
   Mon Aug 22
-    17.30     Ceramica Cleopatra v El Geish  1-1 (0-0)   @ Arab Contractors Stadium › Cairo
+    17:30     Ceramica Cleopatra v El Geish  1-1 (0-0)   @ Arab Contractors Stadium › Cairo
               Ghazl El Mehalla v Misr EL Makasa  1-0 (0-0)   @ El Mahalla Stadium › El-Mahalla El-Kubra
-    20.00     Coca-Cola v Pyramids FC  1-0 (0-0)   @ WE Al-Ahly Stadium › Cairo
+    20:00     Coca-Cola v Pyramids FC  1-0 (0-0)   @ WE Al-Ahly Stadium › Cairo
   Tue Aug 23
-    17.30     El Mokawloon v Pharco  2-0 (0-0)   @ Arab Contractors Stadium › Cairo
+    17:30     El Mokawloon v Pharco  2-0 (0-0)   @ Arab Contractors Stadium › Cairo
               Smouha SC v El Gouna FC  2-2 (1-2)   @ Alexandria Stadium › Alexandria
-    20.00     National Bank of Egypt v AL Masry  2-2 (1-0)   @ Al-Shorta Stadium › Cairo
+    20:00     National Bank of Egypt v AL Masry  2-2 (1-0)   @ Al-Shorta Stadium › Cairo
               Zamalek SC v Al Ittihad  1-1 (0-1)   @ Cairo International Stadium › Cairo
   Wed Aug 24
-    17.30     Ismaily SC v El Sharqia Dokhan  1-1 (1-0)   @ Ismaïlia Stadium › Ismailia
-    20.00     Al Ahly v Enppi  2-0 (0-0)   @ WE Al-Ahly Stadium › Cairo
-» Regular Season - 33
+    17:30     Ismaily SC v El Sharqia Dokhan  1-1 (1-0)   @ Ismaïlia Stadium › Ismailia
+    20:00     Al Ahly v Enppi  2-0 (0-0)   @ WE Al-Ahly Stadium › Cairo
+▪ Regular Season - 33
   Fri Aug 26
-    16.00     Misr EL Makasa v Smouha SC  0-2 (0-1)   @ Cairo Military Academy Stadium › Cairo
-    18.30     El Gouna FC v Coca-Cola  2-1 (0-0)   @ Khaled Bichara Stadium › El-Gouna
+    16:00     Misr EL Makasa v Smouha SC  0-2 (0-1)   @ Cairo Military Academy Stadium › Cairo
+    18:30     El Gouna FC v Coca-Cola  2-1 (0-0)   @ Khaled Bichara Stadium › El-Gouna
               Al Ittihad v El Mokawloon  0-1 (0-1)   @ Alexandria Stadium › Alexandria
-    21.00     AL Masry v Zamalek SC  0-0 (0-0)   @ Borg El Arab Stadium › Alexandria
+    21:00     AL Masry v Zamalek SC  0-0 (0-0)   @ Borg El Arab Stadium › Alexandria
               Ceramica Cleopatra v Pyramids FC  0-2 (0-1)   @ Arab Contractors Stadium › Cairo
   Sat Aug 27
-    16.00     Enppi v Ismaily SC  2-0 (1-0)   @ Petrosport Stadium › Cairo
-    17.30     Pharco v Ghazl El Mehalla  1-1 (0-1)   @ Haras El Hodoud Stadium › Alexandria
-    20.00     El Sharqia Dokhan v National Bank of Egypt  2-3 (1-1)   @ Eastern Company Stadium › Giza
+    16:00     Enppi v Ismaily SC  2-0 (1-0)   @ Petrosport Stadium › Cairo
+    17:30     Pharco v Ghazl El Mehalla  1-1 (0-1)   @ Haras El Hodoud Stadium › Alexandria
+    20:00     El Sharqia Dokhan v National Bank of Egypt  2-3 (1-1)   @ Eastern Company Stadium › Giza
               El Geish v Al Ahly  1-0 (0-0)   @ Gehaz El Reyada Stadium › Cairo
-» Regular Season - 34
+▪ Regular Season - 34
   Mon Aug 29
-    19.00     Coca-Cola v Misr EL Makasa  1-0 (1-0)   @ WE Al-Ahly Stadium › Cairo
+    19:00     Coca-Cola v Misr EL Makasa  1-0 (1-0)   @ WE Al-Ahly Stadium › Cairo
   Tue Aug 30
-    16.30     Al Ahly v Ceramica Cleopatra  4-0 (1-0)   @ WE Al-Ahly Stadium › Cairo
+    16:30     Al Ahly v Ceramica Cleopatra  4-0 (1-0)   @ WE Al-Ahly Stadium › Cairo
               National Bank of Egypt v Enppi  1-1 (1-0)   @ Petrosport Stadium › Cairo
               Smouha SC v Pharco  0-0 (0-0)   @ Alexandria Stadium › Alexandria
-    18.30     Ismaily SC v El Geish  0-1 (0-1)   @ Ismaïlia Stadium › Ismailia
-    21.30     Zamalek SC v El Sharqia Dokhan  1-2 (0-1)   @ Cairo International Stadium › Cairo
+    18:30     Ismaily SC v El Geish  0-1 (0-1)   @ Ismaïlia Stadium › Ismailia
+    21:30     Zamalek SC v El Sharqia Dokhan  1-2 (0-1)   @ Cairo International Stadium › Cairo
               El Mokawloon v AL Masry  2-1 (2-0)   @ Borg El Arab Stadium › Alexandria
               Ghazl El Mehalla v Al Ittihad  1-1 (1-0)   @ El Mahalla Stadium › El-Mahalla El-Kubra
               Pyramids FC v El Gouna FC  1-3 (0-1)   @ 30 June Air Defence Stadium › Cairo

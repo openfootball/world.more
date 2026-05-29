@@ -1,95 +1,95 @@
 = Germany | DFB Pokal 2023/24
 
-  # Date       Fri Aug/11 2023 - Sat May/25 2024 (288d)
+  # Date       Fri Aug 11 2023 - Sat May 25 2024 (288d)
   # Teams      64
   # Matches    63
 
   # Note - All times in Europe/Berlin
 
-» 1st Round
+▪ 1st Round
   Fri Aug 11 2023
-    18.00     FC Saarbrücken v Karlsruher SC  2-1 (0-0)   @ Stadion Ludwigspark › Saarbrücken
+    18:00     FC Saarbrücken v Karlsruher SC  2-1 (0-0)   @ Stadion Ludwigspark › Saarbrücken
   Fri Aug 11
-    18.00     Bersenbrück v Borussia Monchengladbach  0-7 (0-4)   @ Bremer Brücke › Osnabrück
+    18:00     Bersenbrück v Borussia Monchengladbach  0-7 (0-4)   @ Bremer Brücke › Osnabrück
               SV Sandhausen v Hannover 96  4-2 pen (3-3, 3-3, 1-2)   @ GP Stadion am Hardtwald › Sandhausen
-    20.45     Eintracht Braunschweig v FC Schalke 04  1-3 (1-2)   @ Eintracht-Stadion › Braunschweig
+    20:45     Eintracht Braunschweig v FC Schalke 04  1-3 (1-2)   @ Eintracht-Stadion › Braunschweig
   Sat Aug 12
-    13.00     Balingen v VfB Stuttgart  0-4 (0-3)   @ Stadion an der Kreuzeiche › Reutlingen
+    13:00     Balingen v VfB Stuttgart  0-4 (0-3)   @ Stadion an der Kreuzeiche › Reutlingen
               Carl Zeiss Jena v Hertha Berlin  0-5 (0-1)   @ Ernst-Abbe-Sportfeld › Jena
-    15.30     FC Viktoria Koln v Werder Bremen  3-2 (0-1)   @ Sportpark Höhenberg › Köln
+    15:30     FC Viktoria Koln v Werder Bremen  3-2 (0-1)   @ Sportpark Höhenberg › Köln
               Atlas Delmenhorst v FC St. Pauli  0-5 (0-1)   @ Stadion an der Düsternortstraße › Delmenhorst
               Oberneuland v FC Nurnberg  1-9 (0-6)   @ Marko Mock Arena › Bremen
               Teutonia Ottensen v Bayer Leverkusen  0-8 (0-3)   @ Millerntor-Stadion › Hamburg
               FC Gutersloh v Holstein Kiel  0-2 (0-0)   @ Heidewaldstadion › Gütersloh
               Schott Mainz v Borussia Dortmund  1-6 (1-3)   @ MEWA ARENA › Mainz
-    18.00     Hallescher FC v SpVgg Greuther Furth  0-1 (0-1)   @ Leuna Chemie Stadion › Saale
+    18:00     Hallescher FC v SpVgg Greuther Furth  0-1 (0-1)   @ Leuna Chemie Stadion › Saale
               SV Elversberg v FSV Mainz 05  0-1 (0-0)   @ URSAPHARM-Arena an der Kaiserlinde › Spiesen-Elversberg
               Arminia Bielefeld v Vfl Bochum  4-1 pen (2-2, 2-2, 2-1)   @ SchücoArena › Bielefeld
   Sun Aug 13
-    13.00     Rot-weiss Essen v Hamburger SV  3-4 aet (3-3, 1-1)   @ Stadion an der Hafenstraße › Essen
+    13:00     Rot-weiss Essen v Hamburger SV  3-4 aet (3-3, 1-1)   @ Stadion an der Hafenstraße › Essen
               Rostocker FC v FC Heidenheim  0-8 (0-5)   @ Ostseestadion › Rostock
-    15.30     TuS RW Koblenz v FC Kaiserslautern  0-5 (0-3)   @ Stadion Oberwerth › Koblenz
+    15:30     TuS RW Koblenz v FC Kaiserslautern  0-5 (0-3)   @ Stadion Oberwerth › Koblenz
               Illertissen v Fortuna Dusseldorf  1-3 (1-2)   @ Vöhlin-Stadion › Illertissen
               Lokomotive Leipzig v Eintracht Frankfurt  0-7 (0-1)   @ Bruno-Plache-Stadion › Leipzig
               Oberachern v SC Freiburg  0-2 (0-0)   @ Dreisamstadion › Freiburg im Breisgau
               Makkabi v VfL Wolfsburg  0-6 (0-2)   @ Mommsenstadion › Berlin
               SpVgg Unterhaching v FC Augsburg  2-0 (1-0)   @ Alpenbauer Sportpark › Unterhaching
-    18.00     Energie Cottbus v SC Paderborn 07  0-7 (0-3)   @ Stadion der Freundschaft › Cottbus
+    18:00     Energie Cottbus v SC Paderborn 07  0-7 (0-3)   @ Stadion der Freundschaft › Cottbus
               FSV Frankfurt v Hansa Rostock  0-3 pen (1-1, 1-1, 1-0)   @ PSD Bank Arena › Frankfurt am Main
               FC Astoria Walldorf v Union Berlin  0-4 (0-3)   @ Dietmar-Hopp-Sportpark › Walldorf
   Mon Aug 14
-    18.00     VfB Lubeck v 1899 Hoffenheim  1-4 (1-1)   @ Dietmar-Scholze-Stadion an der Lohmühle › Lübeck
+    18:00     VfB Lubeck v 1899 Hoffenheim  1-4 (1-1)   @ Dietmar-Scholze-Stadion an der Lohmühle › Lübeck
               FC 08 Homburg v SV Darmstadt 98  3-0 (1-0)   @ Waldstadion Homburg › Homburg
               Jahn Regensburg v FC Magdeburg  1-2 (0-1)   @ Jahnstadion Regensburg › Regensburg
-    20.45     VfL Osnabruck v 1.FC Köln  1-3 aet (1-1, 0-1)   @ Bremer Brücke › Osnabrück
+    20:45     VfL Osnabruck v 1.FC Köln  1-3 aet (1-1, 0-1)   @ Bremer Brücke › Osnabrück
   Tue Sep 26
-    20.45     Preussen Munster v Bayern Munich  0-4 (0-3)   @ Preußen-Stadion › Münster
+    20:45     Preussen Munster v Bayern Munich  0-4 (0-3)   @ Preußen-Stadion › Münster
   Wed Sep 27
-    20.45     SV Wehen v RB Leipzig  2-3 (1-2)   @ BRITA-Arena › Wiesbaden
-» 2nd Round
+    20:45     SV Wehen v RB Leipzig  2-3 (1-2)   @ BRITA-Arena › Wiesbaden
+▪ 2nd Round
   Tue Oct 31
-    18.00     VfB Stuttgart v Union Berlin  1-0 (1-0)   @ MHP Arena › Stuttgart
+    18:00     VfB Stuttgart v Union Berlin  1-0 (1-0)   @ MHP Arena › Stuttgart
               FC St. Pauli v FC Schalke 04  2-1 aet (1-1, 0-1)   @ Millerntor-Stadion › Hamburg
               FC 08 Homburg v SpVgg Greuther Furth  2-1 (1-0)   @ Waldstadion Homburg › Homburg
               VfL Wolfsburg v RB Leipzig  1-0 (1-0)   @ VOLKSWAGEN ARENA › Wolfsburg
-    20.45     Borussia Monchengladbach v FC Heidenheim  3-1 (3-0)   @ Stadion im BORUSSIA-PARK › Mönchengladbach
+    20:45     Borussia Monchengladbach v FC Heidenheim  3-1 (3-0)   @ Stadion im BORUSSIA-PARK › Mönchengladbach
               Arminia Bielefeld v Hamburger SV  3-4 pen (1-1, 1-1, 1-0)   @ SchücoArena › Bielefeld
               FC Kaiserslautern v 1.FC Köln  3-2 (1-0)   @ Fritz-Walter-Stadion › Kaiserslautern
               SpVgg Unterhaching v Fortuna Dusseldorf  3-6 aet (3-3, 1-0)   @ Uhlsport Park › Unterhaching
   Wed Nov 1
-    18.00     Borussia Dortmund v 1899 Hoffenheim  1-0 (1-0)   @ SIGNAL IDUNA PARK › Dortmund
+    18:00     Borussia Dortmund v 1899 Hoffenheim  1-0 (1-0)   @ SIGNAL IDUNA PARK › Dortmund
               SV Sandhausen v Bayer Leverkusen  2-5 (0-1)   @ GP Stadion am Hardtwald › Sandhausen
               Holstein Kiel v FC Magdeburg  3-4 pen (3-3, 2-2, 0-2)   @ Holstein-Stadion › Kiel
               SC Freiburg v SC Paderborn 07  1-3 (0-2)   @ Europa-Park Stadion › Freiburg im Breisgau
-    20.45     Hertha Berlin v FSV Mainz 05  3-0 (1-0)   @ Olympiastadion Berlin › Berlin
+    20:45     Hertha Berlin v FSV Mainz 05  3-0 (1-0)   @ Olympiastadion Berlin › Berlin
               FC Nurnberg v Hansa Rostock  3-2 aet (2-2, 0-0)   @ Max-Morlock-Stadion › Nürnberg
               FC Viktoria Koln v Eintracht Frankfurt  0-2 (0-1)   @ Sportpark Höhenberg › Köln
               FC Saarbrücken v Bayern Munich  2-1 (1-1)   @ Stadion Ludwigspark › Saarbrücken
-» Round of 16
+▪ Round of 16
   Tue Dec 5
-    18.00     FC Kaiserslautern v FC Nurnberg  2-0 (0-0)   @ Fritz-Walter-Stadion › Kaiserslautern
+    18:00     FC Kaiserslautern v FC Nurnberg  2-0 (0-0)   @ Fritz-Walter-Stadion › Kaiserslautern
               FC Magdeburg v Fortuna Dusseldorf  1-2 (1-0)   @ MDCC-Arena › Magdeburg
-    20.45     FC 08 Homburg v FC St. Pauli  1-4 (1-1)   @ Waldstadion Homburg › Homburg
+    20:45     FC 08 Homburg v FC St. Pauli  1-4 (1-1)   @ Waldstadion Homburg › Homburg
               Borussia Monchengladbach v VfL Wolfsburg  1-0 aet (0-0, 0-0)   @ Stadion im BORUSSIA-PARK › Mönchengladbach
   Wed Dec 6
-    18.00     FC Saarbrücken v Eintracht Frankfurt  2-0 (0-0)   @ Stadion Ludwigspark › Saarbrücken
+    18:00     FC Saarbrücken v Eintracht Frankfurt  2-0 (0-0)   @ Stadion Ludwigspark › Saarbrücken
               Bayer Leverkusen v SC Paderborn 07  3-1 (2-0)   @ BayArena › Leverkusen
-    20.45     Hertha Berlin v Hamburger SV  5-3 pen (3-3, 2-2, 1-2)   @ Olympiastadion Berlin › Berlin
+    20:45     Hertha Berlin v Hamburger SV  5-3 pen (3-3, 2-2, 1-2)   @ Olympiastadion Berlin › Berlin
               VfB Stuttgart v Borussia Dortmund  2-0 (0-0)   @ MHP Arena › Stuttgart
-» Quarter-finals
+▪ Quarter-finals
   Tue Jan 30 2024
-    20.45     FC St. Pauli v Fortuna Dusseldorf  3-4 pen (2-2, 1-1, 0-1)   @ Millerntor-Stadion › Hamburg
+    20:45     FC St. Pauli v Fortuna Dusseldorf  3-4 pen (2-2, 1-1, 0-1)   @ Millerntor-Stadion › Hamburg
   Wed Jan 31
-    20.45     Hertha Berlin v FC Kaiserslautern  1-3 (0-2)   @ Olympiastadion Berlin › Berlin
+    20:45     Hertha Berlin v FC Kaiserslautern  1-3 (0-2)   @ Olympiastadion Berlin › Berlin
   Tue Feb 6
-    20.45     Bayer Leverkusen v VfB Stuttgart  3-2 (0-1)   @ BayArena › Leverkusen
+    20:45     Bayer Leverkusen v VfB Stuttgart  3-2 (0-1)   @ BayArena › Leverkusen
   Tue Mar 12
-    20.30     FC Saarbrücken v Borussia Monchengladbach  2-1 (1-1)   @ Stadion Ludwigspark › Saarbrücken
-» Semi-finals
+    20:30     FC Saarbrücken v Borussia Monchengladbach  2-1 (1-1)   @ Stadion Ludwigspark › Saarbrücken
+▪ Semi-finals
   Tue Apr 2
-    20.45     FC Saarbrücken v FC Kaiserslautern  0-2 (0-0)   @ Stadion Ludwigspark › Saarbrücken
+    20:45     FC Saarbrücken v FC Kaiserslautern  0-2 (0-0)   @ Stadion Ludwigspark › Saarbrücken
   Wed Apr 3
-    20.45     Bayer Leverkusen v Fortuna Dusseldorf  4-0 (3-0)   @ BayArena › Leverkusen
-» Final
+    20:45     Bayer Leverkusen v Fortuna Dusseldorf  4-0 (3-0)   @ BayArena › Leverkusen
+▪ Final
   Sat May 25
-    20.00     FC Kaiserslautern v Bayer Leverkusen  0-1 (0-1)   @ Olympiastadion Berlin › Berlin
+    20:00     FC Kaiserslautern v Bayer Leverkusen  0-1 (0-1)   @ Olympiastadion Berlin › Berlin

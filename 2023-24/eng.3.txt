@@ -1,16 +1,16 @@
 = England | League One 2023/24
 
-  # Date       Sat Aug/5 2023 - Sat May/18 2024 (287d)
+  # Date       Sat Aug 5 2023 - Sat May 18 2024 (287d)
   # Teams      24
   # Matches    557
 
   # Note - All times in Europe/London
 
-» Regular Season - 1
+▪ Regular Season - 1
   Sat Aug 5 2023
-    15.00     Reading v Peterborough  0-1 (0-1)   @ Select Car Leasing Stadium › Reading, Berkshire
+    15:00     Reading v Peterborough  0-1 (0-1)   @ Select Car Leasing Stadium › Reading, Berkshire
   Sat Aug 5
-    15.00     Bolton v Lincoln  3-0 (1-0)   @ Toughsheet Community Stadium › Bolton
+    15:00     Bolton v Lincoln  3-0 (1-0)   @ Toughsheet Community Stadium › Bolton
               Derby v Wigan  1-2 (0-1)   @ Pride Park Stadium › Derby
               Barnsley v Port Vale  7-0 (2-0)   @ Oakwell › Barnsley, South Yorkshire
               Charlton v Leyton Orient  1-0 (1-0)   @ The Valley › London
@@ -21,9 +21,9 @@
               Wycombe v Exeter City  0-3 (0-2)   @ Adams Park › High Wycombe, Buckinghamshire
               Cambridge United v Oxford United  2-0 (2-0)   @ Abbey Stadium › Cambridge, Cambridgeshire
               Carlisle v Fleetwood Town  1-1 (1-1)   @ Brunton Park › Carlisle, Cumbria
-» Regular Season - 2
+▪ Regular Season - 2
   Sat Aug 12
-    15.00     Wigan v Northampton  2-1 (0-1)   @ DW Stadium › Wigan
+    15:00     Wigan v Northampton  2-1 (0-1)   @ DW Stadium › Wigan
               Burton Albion v Derby  0-3 (0-1)   @ Pirelli Stadium › Burton-upon-Trent, Staffordshire
               Bristol Rovers v Barnsley  1-1 (0-1)   @ Memorial Stadium › Bristol, Gloucestershire
               Fleetwood Town v Cambridge United  0-2 (0-1)   @ Highbury Stadium › Fleetwood, Lancashire
@@ -35,9 +35,9 @@
               Cheltenham v Bolton  0-3 (0-3)   @ Completely-Suzuki Stadium › Cheltenham, Gloucestershire
               Leyton Orient v Portsmouth  0-4 (0-2)   @ Brisbane Road › London
               Lincoln v Wycombe  3-0 (0-0)   @ LNER Stadium › Lincoln, Lincolnshire
-» Regular Season - 3
+▪ Regular Season - 3
   Tue Aug 15
-    19.45     Bolton v Fleetwood Town  3-1 (3-0)   @ Toughsheet Community Stadium › Bolton
+    19:45     Bolton v Fleetwood Town  3-1 (3-0)   @ Toughsheet Community Stadium › Bolton
               Derby v Oxford United  1-2 (0-1)   @ Pride Park Stadium › Derby
               Barnsley v Peterborough  1-3 (0-0)   @ Oakwell › Barnsley, South Yorkshire
               Charlton v Bristol Rovers  1-2 (0-0)   @ The Valley › London
@@ -47,12 +47,12 @@
               Wycombe v Leyton Orient  3-2 (1-1)   @ Adams Park › High Wycombe, Buckinghamshire
               Cambridge United v Stevenage  1-2 (0-1)   @ Abbey Stadium › Cambridge, Cambridgeshire
               Carlisle v Wigan  1-1 (0-1)   @ Brunton Park › Carlisle, Cumbria
-    20.00     Portsmouth v Exeter City  1-0 (0-0)   @ Fratton Park › Portsmouth
+    20:00     Portsmouth v Exeter City  1-0 (0-0)   @ Fratton Park › Portsmouth
               Reading v Cheltenham  1-0 (1-0)   @ Select Car Leasing Stadium › Reading, Berkshire
-» Regular Season - 4
+▪ Regular Season - 4
   Sat Aug 19
-    12.30     Bolton v Wigan  0-4 (0-3)   @ Toughsheet Community Stadium › Bolton
-    15.00     Reading v Stevenage  2-0 (1-0)   @ Select Car Leasing Stadium › Reading, Berkshire
+    12:30     Bolton v Wigan  0-4 (0-3)   @ Toughsheet Community Stadium › Bolton
+    15:00     Reading v Stevenage  2-0 (1-0)   @ Select Car Leasing Stadium › Reading, Berkshire
               Derby v Fleetwood Town  1-0 (1-0)   @ Pride Park Stadium › Derby
               Barnsley v Oxford United  1-3 (0-1)   @ Oakwell › Barnsley, South Yorkshire
               Charlton v Port Vale  2-3 (1-0)   @ The Valley › London
@@ -63,9 +63,9 @@
               Wycombe v Burton Albion  0-0 (0-0)   @ Adams Park › High Wycombe, Buckinghamshire
               Cambridge United v Bristol Rovers  2-0 (0-0)   @ Abbey Stadium › Cambridge, Cambridgeshire
               Carlisle v Exeter City  0-2 (0-0)   @ Brunton Park › Carlisle, Cumbria
-» Regular Season - 5
+▪ Regular Season - 5
   Sat Aug 26
-    15.00     Wigan v Barnsley  0-2 (0-1)   @ DW Stadium › Wigan
+    15:00     Wigan v Barnsley  0-2 (0-1)   @ DW Stadium › Wigan
               Burton Albion v Bolton  1-1 (0-0)   @ Pirelli Stadium › Burton-upon-Trent, Staffordshire
               Bristol Rovers v Wycombe  1-2 (0-1)   @ Memorial Stadium › Bristol, Gloucestershire
               Fleetwood Town v Shrewsbury  0-1 (0-1)   @ Highbury Stadium › Fleetwood, Lancashire
@@ -77,9 +77,9 @@
               Cheltenham v Northampton  0-1 (0-0)   @ Completely-Suzuki Stadium › Cheltenham, Gloucestershire
               Leyton Orient v Cambridge United  2-0 (1-0)   @ Brisbane Road › London
               Lincoln v Blackpool  3-0 (2-0)   @ LNER Stadium › Lincoln, Lincolnshire
-» Regular Season - 6
+▪ Regular Season - 6
   Sat Sep 2
-    15.00     Bolton v Derby  2-1 (1-1)   @ Toughsheet Community Stadium › Bolton
+    15:00     Bolton v Derby  2-1 (1-1)   @ Toughsheet Community Stadium › Bolton
               Burton Albion v Exeter City  0-1 (0-0)   @ Pirelli Stadium › Burton-upon-Trent, Staffordshire
               Bristol Rovers v Lincoln  1-1 (0-0)   @ Memorial Stadium › Bristol, Gloucestershire
               Charlton v Fleetwood Town  2-1 (1-1)   @ The Valley › London
@@ -91,14 +91,14 @@
               Cheltenham v Barnsley  0-2 (0-0)   @ Completely-Suzuki Stadium › Cheltenham, Gloucestershire
               Leyton Orient v Stevenage  0-3 (0-2)   @ Brisbane Road › London
   Mon Sep 4
-    20.00     Cambridge United v Reading  1-0 (0-0)   @ Abbey Stadium › Cambridge, Cambridgeshire
-» Regular Season - 7
+    20:00     Cambridge United v Reading  1-0 (0-0)   @ Abbey Stadium › Cambridge, Cambridgeshire
+▪ Regular Season - 7
   Sat Sep 9
-    15.00     Stevenage v Carlisle  2-2 (1-1)   @ The Lamex Stadium › Stevenage, Hertfordshire
+    15:00     Stevenage v Carlisle  2-2 (1-1)   @ The Lamex Stadium › Stevenage, Hertfordshire
               Exeter City v Leyton Orient  1-2 (0-0)   @ St James Park › Exeter, Devon
-» Regular Season - 8
+▪ Regular Season - 8
   Sat Sep 16
-    15.00     Reading v Bolton  2-1 (0-1)   @ Select Car Leasing Stadium › Reading, Berkshire
+    15:00     Reading v Bolton  2-1 (0-1)   @ Select Car Leasing Stadium › Reading, Berkshire
               Wigan v Cambridge United  2-1 (0-0)   @ DW Stadium › Wigan
               Derby v Portsmouth  1-1 (0-0)   @ Pride Park Stadium › Derby
               Barnsley v Burton Albion  2-0 (1-0)   @ Oakwell › Barnsley, South Yorkshire
@@ -110,14 +110,14 @@
               Exeter City v Cheltenham  1-0 (0-0)   @ St James Park › Exeter, Devon
               Stevenage v Charlton  1-1 (1-0)   @ The Lamex Stadium › Stevenage, Hertfordshire
               Lincoln v Carlisle  1-1 (0-1)   @ LNER Stadium › Lincoln, Lincolnshire
-» Regular Season - 7
+▪ Regular Season - 7
   Tue Sep 19
-    19.45     Barnsley v Portsmouth  2-3 (0-3)   @ Oakwell › Barnsley, South Yorkshire
+    19:45     Barnsley v Portsmouth  2-3 (0-3)   @ Oakwell › Barnsley, South Yorkshire
               Peterborough v Cheltenham  3-0 (0-0)   @ Weston Homes Stadium › Peterborough
               Port Vale v Burton Albion  2-3 (1-1)   @ Vale Park › Stoke-on-Trent, Staffordshire
-» Regular Season - 9
+▪ Regular Season - 9
   Sat Sep 23
-    15.00     Bolton v Peterborough  1-1 (1-1)   @ Toughsheet Community Stadium › Bolton
+    15:00     Bolton v Peterborough  1-1 (1-1)   @ Toughsheet Community Stadium › Bolton
               Burton Albion v Fleetwood Town  1-1 (1-1)   @ Pirelli Stadium › Burton-upon-Trent, Staffordshire
               Bristol Rovers v Wigan  4-1 (2-1)   @ Memorial Stadium › Bristol, Gloucestershire
               Charlton v Wycombe  3-1 (1-0)   @ The Valley › London
@@ -129,9 +129,9 @@
               Carlisle v Derby  0-2 (0-1)   @ Brunton Park › Carlisle, Cumbria
               Cheltenham v Stevenage  0-3 (0-1)   @ Completely-Suzuki Stadium › Cheltenham, Gloucestershire
               Leyton Orient v Shrewsbury  1-0 (1-0)   @ Brisbane Road › London
-» Regular Season - 10
+▪ Regular Season - 10
   Sat Sep 30
-    15.00     Reading v Burton Albion  0-0 (0-0)   @ Select Car Leasing Stadium › Reading, Berkshire
+    15:00     Reading v Burton Albion  0-0 (0-0)   @ Select Car Leasing Stadium › Reading, Berkshire
               Wigan v Portsmouth  1-2 (1-2)   @ DW Stadium › Wigan
               Derby v Cambridge United  0-0 (0-0)   @ Pride Park Stadium › Derby
               Barnsley v Blackpool  0-1 (0-1)   @ Oakwell › Barnsley, South Yorkshire
@@ -143,9 +143,9 @@
               Exeter City v Northampton  0-2 (0-1)   @ St James Park › Exeter, Devon
               Stevenage v Oxford United  1-3 (1-1)   @ The Lamex Stadium › Stevenage, Hertfordshire
               Lincoln v Cheltenham  2-0 (2-0)   @ LNER Stadium › Lincoln, Lincolnshire
-» Regular Season - 11
+▪ Regular Season - 11
   Tue Oct 3
-    19.45     Bolton v Stevenage  3-2 (1-1)   @ Toughsheet Community Stadium › Bolton
+    19:45     Bolton v Stevenage  3-2 (1-1)   @ Toughsheet Community Stadium › Bolton
               Burton Albion v Wigan  2-1 (0-1)   @ Pirelli Stadium › Burton-upon-Trent, Staffordshire
               Bristol Rovers v Port Vale  3-0 (2-0)   @ Memorial Stadium › Bristol, Gloucestershire
               Charlton v Exeter City  4-1 (1-1)   @ The Valley › London
@@ -156,10 +156,10 @@
               Cambridge United v Barnsley  0-4 (0-2)   @ Abbey Stadium › Cambridge, Cambridgeshire
               Carlisle v Peterborough  1-1 (0-0)   @ Brunton Park › Carlisle, Cumbria
               Cheltenham v Fleetwood Town  0-2 (0-1)   @ Completely-Suzuki Stadium › Cheltenham, Gloucestershire
-» Regular Season - 12
+▪ Regular Season - 12
   Sat Oct 7
-    12.30     Oxford United v Bristol Rovers  2-1 (1-0)   @ The Kassam Stadium › Oxford, Oxfordshire
-    15.00     Bolton v Carlisle  1-3 (1-1)   @ Toughsheet Community Stadium › Bolton
+    12:30     Oxford United v Bristol Rovers  2-1 (1-0)   @ The Kassam Stadium › Oxford, Oxfordshire
+    15:00     Bolton v Carlisle  1-3 (1-1)   @ Toughsheet Community Stadium › Bolton
               Charlton v Blackpool  2-2 (0-1)   @ The Valley › London
               Fleetwood Town v Wycombe  1-4 (0-3)   @ Highbury Stadium › Fleetwood, Lancashire
               Peterborough v Lincoln  2-0 (0-0)   @ Weston Homes Stadium › Peterborough
@@ -170,16 +170,16 @@
               Cheltenham v Derby  1-1 (1-1)   @ Completely-Suzuki Stadium › Cheltenham, Gloucestershire
               Leyton Orient v Reading  2-1 (1-1)   @ Brisbane Road › London
   Mon Oct 9
-    20.00     Burton Albion v Cambridge United  2-1 (2-0)   @ Pirelli Stadium › Burton-upon-Trent, Staffordshire
-» Regular Season - 13
+    20:00     Burton Albion v Cambridge United  2-1 (2-0)   @ Pirelli Stadium › Burton-upon-Trent, Staffordshire
+▪ Regular Season - 13
   Sat Oct 14
-    15.00     Blackpool v Stevenage  3-0 (1-0)   @ Bloomfield Road › Blackpool, Lancashire
+    15:00     Blackpool v Stevenage  3-0 (1-0)   @ Bloomfield Road › Blackpool, Lancashire
               Cambridge United v Shrewsbury  1-1 (0-0)   @ Abbey Stadium › Cambridge, Cambridgeshire
               Carlisle v Leyton Orient  0-1 (0-1)   @ Brunton Park › Carlisle, Cumbria
               Lincoln v Burton Albion  0-1 (0-0)   @ LNER Stadium › Lincoln, Lincolnshire
-» Regular Season - 14
+▪ Regular Season - 14
   Sat Oct 21
-    15.00     Bolton v Northampton  2-1 (2-0)   @ Toughsheet Community Stadium › Bolton
+    15:00     Bolton v Northampton  2-1 (2-0)   @ Toughsheet Community Stadium › Bolton
               Burton Albion v Bristol Rovers  4-1 (2-1)   @ Pirelli Stadium › Burton-upon-Trent, Staffordshire
               Charlton v Reading  4-0 (0-0)   @ The Valley › London
               Fleetwood Town v Lincoln  0-1 (0-1)   @ Highbury Stadium › Fleetwood, Lancashire
@@ -191,9 +191,9 @@
               Stevenage v Port Vale  0-0 (0-0)   @ The Lamex Stadium › Stevenage, Hertfordshire
               Cheltenham v Cambridge United  1-0 (1-0)   @ Completely-Suzuki Stadium › Cheltenham, Gloucestershire
               Leyton Orient v Barnsley  1-1 (1-0)   @ Brisbane Road › London
-» Regular Season - 15
+▪ Regular Season - 15
   Tue Oct 24
-    19.45     Wigan v Oxford United  2-0 (1-0)   @ DW Stadium › Wigan
+    19:45     Wigan v Oxford United  2-0 (1-0)   @ DW Stadium › Wigan
               Derby v Exeter City  2-0 (1-0)   @ Pride Park Stadium › Derby
               Barnsley v Shrewsbury  3-0 (2-0)   @ Oakwell › Barnsley, South Yorkshire
               Bristol Rovers v Stevenage  1-1 (0-1)   @ Memorial Stadium › Bristol, Gloucestershire
@@ -204,10 +204,10 @@
               Cambridge United v Portsmouth  0-0 (0-0)   @ Abbey Stadium › Cambridge, Cambridgeshire
               Carlisle v Burton Albion  2-1 (0-1)   @ Brunton Park › Carlisle, Cumbria
               Lincoln v Charlton  3-1 (1-1)   @ LNER Stadium › Lincoln, Lincolnshire
-    20.00     Reading v Fleetwood Town  1-2 (0-1)   @ Select Car Leasing Stadium › Reading, Berkshire
-» Regular Season - 16
+    20:00     Reading v Fleetwood Town  1-2 (0-1)   @ Select Car Leasing Stadium › Reading, Berkshire
+▪ Regular Season - 16
   Sat Oct 28
-    15.00     Reading v Portsmouth  2-3 (2-2)   @ Select Car Leasing Stadium › Reading, Berkshire
+    15:00     Reading v Portsmouth  2-3 (2-2)   @ Select Car Leasing Stadium › Reading, Berkshire
               Wigan v Shrewsbury  2-0 (1-0)   @ DW Stadium › Wigan
               Barnsley v Fleetwood Town  2-2 (1-2)   @ Oakwell › Barnsley, South Yorkshire
               Burton Albion v Leyton Orient  0-0 (0-0)   @ Pirelli Stadium › Burton-upon-Trent, Staffordshire
@@ -219,24 +219,24 @@
               Exeter City v Lincoln  1-1 (0-1)   @ St James Park › Exeter, Devon
               Stevenage v Derby  3-1 (2-1)   @ The Lamex Stadium › Stevenage, Hertfordshire
               Cambridge United v Carlisle  1-0 (0-0)   @ Abbey Stadium › Cambridge, Cambridgeshire
-» Regular Season - 7
+▪ Regular Season - 7
   Tue Oct 31
-    19.45     Derby v Northampton  4-0 (3-0)   @ Pride Park Stadium › Derby
+    19:45     Derby v Northampton  4-0 (3-0)   @ Pride Park Stadium › Derby
               Wycombe v Cambridge United  0-0 (0-0)   @ Adams Park › High Wycombe, Buckinghamshire
               Lincoln v Oxford United  0-2 (0-1)   @ LNER Stadium › Lincoln, Lincolnshire
               Wigan v Charlton  2-3 (0-3)   @ DW Stadium › Wigan
   Wed Nov 1
-    19.45     Fleetwood Town v Blackpool  3-3 (2-0)   @ Highbury Stadium › Fleetwood, Lancashire
+    19:45     Fleetwood Town v Blackpool  3-3 (2-0)   @ Highbury Stadium › Fleetwood, Lancashire
   Tue Nov 7
-    19.45     Shrewsbury v Bolton  0-2 (0-0)   @ The Croud Meadow › Shrewsbury, Shropshire
-    20.00     Reading v Bristol Rovers  1-1 (1-0)   @ Select Car Leasing Stadium › Reading, Berkshire
-» Regular Season - 13
+    19:45     Shrewsbury v Bolton  0-2 (0-0)   @ The Croud Meadow › Shrewsbury, Shropshire
+    20:00     Reading v Bristol Rovers  1-1 (1-0)   @ Select Car Leasing Stadium › Reading, Berkshire
+▪ Regular Season - 13
   Tue Nov 7
-    19.45     Wigan v Peterborough  2-1 (1-0)   @ DW Stadium › Wigan
-» Regular Season - 17
+    19:45     Wigan v Peterborough  2-1 (1-0)   @ DW Stadium › Wigan
+▪ Regular Season - 17
   Sat Nov 11
-    12.00     Peterborough v Cambridge United  5-0 (3-0)   @ Weston Homes Stadium › Peterborough
-    15.00     Bolton v Blackpool  1-0 (0-0)   @ Toughsheet Community Stadium › Bolton
+    12:00     Peterborough v Cambridge United  5-0 (3-0)   @ Weston Homes Stadium › Peterborough
+    15:00     Bolton v Blackpool  1-0 (0-0)   @ Toughsheet Community Stadium › Bolton
               Derby v Barnsley  3-0 (1-0)   @ Pride Park Stadium › Derby
               Fleetwood Town v Exeter City  3-0 (3-0)   @ Highbury Stadium › Fleetwood, Lancashire
               Northampton v Burton Albion  2-0 (0-0)   @ Sixfields Stadium › Northampton, East Midlands
@@ -247,16 +247,16 @@
               Cheltenham v Wigan  1-1 (1-1)   @ Completely-Suzuki Stadium › Cheltenham, Gloucestershire
               Leyton Orient v Oxford United  2-3 (0-2)   @ Brisbane Road › London
               Lincoln v Port Vale  1-1 (0-1)   @ LNER Stadium › Lincoln, Lincolnshire
-» Regular Season - 18
+▪ Regular Season - 18
   Sat Nov 18
-    15.00     Stevenage v Lincoln  1-0 (0-0)   @ The Lamex Stadium › Stevenage, Hertfordshire
+    15:00     Stevenage v Lincoln  1-0 (0-0)   @ The Lamex Stadium › Stevenage, Hertfordshire
               Blackpool v Shrewsbury  4-0 (2-0)   @ Bloomfield Road › Blackpool, Lancashire
-» Regular Season - 11
+▪ Regular Season - 11
   Tue Nov 21
-    19.45     Leyton Orient v Lincoln  0-1 (0-0)   @ Brisbane Road › London
-» Regular Season - 19
+    19:45     Leyton Orient v Lincoln  0-1 (0-0)   @ Brisbane Road › London
+▪ Regular Season - 19
   Sat Nov 25
-    15.00     Bolton v Exeter City  7-0 (2-0)   @ Toughsheet Community Stadium › Bolton
+    15:00     Bolton v Exeter City  7-0 (2-0)   @ Toughsheet Community Stadium › Bolton
               Derby v Bristol Rovers  2-1 (0-0)   @ Pride Park Stadium › Derby
               Fleetwood Town v Stevenage  0-3 (0-1)   @ Highbury Stadium › Fleetwood, Lancashire
               Northampton v Cambridge United  2-1 (0-0)   @ Sixfields Stadium › Northampton, East Midlands
@@ -268,9 +268,9 @@
               Cheltenham v Oxford United  2-0 (1-0)   @ Completely-Suzuki Stadium › Cheltenham, Gloucestershire
               Leyton Orient v Wigan  1-1 (1-1)   @ Brisbane Road › London
               Lincoln v Barnsley  2-2 (1-0)   @ LNER Stadium › Lincoln, Lincolnshire
-» Regular Season - 20
+▪ Regular Season - 20
   Tue Nov 28
-    19.45     Wigan v Fleetwood Town  3-0 (2-0)   @ DW Stadium › Wigan
+    19:45     Wigan v Fleetwood Town  3-0 (2-0)   @ DW Stadium › Wigan
               Barnsley v Wycombe  1-0 (0-0)   @ Oakwell › Barnsley, South Yorkshire
               Burton Albion v Portsmouth  0-2 (0-1)   @ Pirelli Stadium › Burton-upon-Trent, Staffordshire
               Bristol Rovers v Leyton Orient  1-1 (1-0)   @ Memorial Stadium › Bristol, Gloucestershire
@@ -281,13 +281,13 @@
               Exeter City v Shrewsbury  0-0 (0-0)   @ St James Park › Exeter, Devon
               Stevenage v Peterborough  2-2 (2-0)   @ The Lamex Stadium › Stevenage, Hertfordshire
               Cambridge United v Lincoln  0-3 (0-2)   @ Abbey Stadium › Cambridge, Cambridgeshire
-    20.00     Reading v Carlisle  5-1 (3-1)   @ Select Car Leasing Stadium › Reading, Berkshire
-» Regular Season - 13
+    20:00     Reading v Carlisle  5-1 (3-1)   @ Select Car Leasing Stadium › Reading, Berkshire
+▪ Regular Season - 13
   Sat Dec 2
-    15.00     Northampton v Portsmouth  0-3 (0-2)   @ Sixfields Stadium › Northampton, East Midlands
-» Regular Season - 21
+    15:00     Northampton v Portsmouth  0-3 (0-2)   @ Sixfields Stadium › Northampton, East Midlands
+▪ Regular Season - 21
   Sat Dec 9
-    15.00     Reading v Barnsley  1-3 (1-1)   @ Select Car Leasing Stadium › Reading, Berkshire
+    15:00     Reading v Barnsley  1-3 (1-1)   @ Select Car Leasing Stadium › Reading, Berkshire
               Wigan v Lincoln  0-0 (0-0)   @ DW Stadium › Wigan
               Burton Albion v Stevenage  1-2 (1-1)   @ Pirelli Stadium › Burton-upon-Trent, Staffordshire
               Bristol Rovers v Cheltenham  1-1 (0-1)   @ Memorial Stadium › Bristol, Gloucestershire
@@ -299,13 +299,13 @@
               Exeter City v Port Vale  0-1 (0-1)   @ St James Park › Exeter, Devon
               Leyton Orient v Derby  0-3 (0-1)   @ Gaughan Group Stadium › London
   Mon Dec 11
-    20.00     Portsmouth v Bolton  2-0 (1-0)   @ Fratton Park › Portsmouth
-» Regular Season - 13
+    20:00     Portsmouth v Bolton  2-0 (1-0)   @ Fratton Park › Portsmouth
+▪ Regular Season - 13
   Tue Dec 12
-    20.00     Reading v Oxford United  1-1 (1-1)   @ Select Car Leasing Stadium › Reading, Berkshire
-» Regular Season - 22
+    20:00     Reading v Oxford United  1-1 (1-1)   @ Select Car Leasing Stadium › Reading, Berkshire
+▪ Regular Season - 22
   Sat Dec 16
-    15.00     Bolton v Bristol Rovers  1-2 (0-2)   @ Toughsheet Community Stadium › Bolton
+    15:00     Bolton v Bristol Rovers  1-2 (0-2)   @ Toughsheet Community Stadium › Bolton
               Derby v Wycombe  1-1 (0-0)   @ Pride Park Stadium › Derby
               Barnsley v Charlton  1-1 (1-0)   @ Oakwell › Barnsley, South Yorkshire
               Fleetwood Town v Peterborough  0-1 (0-1)   @ Highbury Stadium › Fleetwood, Lancashire
@@ -317,13 +317,13 @@
               Carlisle v Northampton  2-2 (0-1)   @ Brunton Park › Carlisle, Cumbria
               Cheltenham v Leyton Orient  1-2 (0-0)   @ Completely-Suzuki Stadium › Cheltenham, Gloucestershire
               Lincoln v Reading  1-1 (1-0)   @ LNER Stadium › Lincoln, Lincolnshire
-» Regular Season - 23
+▪ Regular Season - 23
   Thu Dec 21
-    19.45     Derby v Lincoln  3-1 (1-1)   @ Pride Park Stadium › Derby
+    19:45     Derby v Lincoln  3-1 (1-1)   @ Pride Park Stadium › Derby
   Fri Dec 22
-    19.45     Cambridge United v Exeter City  2-0 (1-0)   @ Abbey Stadium › Cambridge, Cambridgeshire
+    19:45     Cambridge United v Exeter City  2-0 (1-0)   @ Abbey Stadium › Cambridge, Cambridgeshire
   Sat Dec 23
-    15.00     Reading v Wigan  2-0 (1-0)   @ Select Car Leasing Stadium › Reading, Berkshire
+    15:00     Reading v Wigan  2-0 (1-0)   @ Select Car Leasing Stadium › Reading, Berkshire
               Bolton v Leyton Orient  3-2 (3-0)   @ Toughsheet Community Stadium › Bolton
               Barnsley v Stevenage  2-1 (1-1)   @ Oakwell › Barnsley, South Yorkshire
               Charlton v Burton Albion  1-1 (1-0)   @ The Valley › London
@@ -333,10 +333,10 @@
               Blackpool v Bristol Rovers  3-1 (1-1)   @ Bloomfield Road › Blackpool, Lancashire
               Wycombe v Port Vale  1-1 (0-0)   @ Adams Park › High Wycombe, Buckinghamshire
               Carlisle v Cheltenham  0-1 (0-1)   @ Brunton Park › Carlisle, Cumbria
-» Regular Season - 24
+▪ Regular Season - 24
   Tue Dec 26
-    13.00     Leyton Orient v Charlton  1-0 (0-0)   @ Gaughan Group Stadium › London
-    15.00     Wigan v Derby  0-1 (0-1)   @ DW Stadium › Wigan
+    13:00     Leyton Orient v Charlton  1-0 (0-0)   @ Gaughan Group Stadium › London
+    15:00     Wigan v Derby  0-1 (0-1)   @ DW Stadium › Wigan
               Burton Albion v Blackpool  1-0 (1-0)   @ Pirelli Stadium › Burton-upon-Trent, Staffordshire
               Bristol Rovers v Portsmouth  2-1 (0-0)   @ Memorial Stadium › Bristol, Gloucestershire
               Fleetwood Town v Carlisle  1-1 (1-1)   @ Highbury Stadium › Fleetwood, Lancashire
@@ -347,10 +347,10 @@
               Stevenage v Northampton  3-0 (2-0)   @ The Lamex Stadium › Stevenage, Hertfordshire
               Cheltenham v Shrewsbury  2-0 (1-0)   @ Completely-Suzuki Stadium › Cheltenham, Gloucestershire
               Lincoln v Bolton  0-1 (0-0)   @ LNER Stadium › Lincoln, Lincolnshire
-» Regular Season - 25
+▪ Regular Season - 25
   Fri Dec 29
-    19.00     Wigan v Carlisle  2-0 (2-0)   @ DW Stadium › Wigan
-    19.45     Burton Albion v Shrewsbury  1-0 (1-0)   @ Pirelli Stadium › Burton-upon-Trent, Staffordshire
+    19:00     Wigan v Carlisle  2-0 (2-0)   @ DW Stadium › Wigan
+    19:45     Burton Albion v Shrewsbury  1-0 (1-0)   @ Pirelli Stadium › Burton-upon-Trent, Staffordshire
               Bristol Rovers v Charlton  2-1 (0-0)   @ Memorial Stadium › Bristol, Gloucestershire
               Fleetwood Town v Bolton  0-2 (0-0)   @ Highbury Stadium › Fleetwood, Lancashire
               Oxford United v Derby  2-3 (2-1)   @ The Kassam Stadium › Oxford, Oxfordshire
@@ -360,11 +360,11 @@
               Cheltenham v Reading  2-2 (2-2)   @ Completely-Suzuki Stadium › Cheltenham, Gloucestershire
               Leyton Orient v Wycombe  0-0 (0-0)   @ Gaughan Group Stadium › London
               Lincoln v Northampton  1-2 (0-1)   @ LNER Stadium › Lincoln, Lincolnshire
-» Regular Season - 26
+▪ Regular Season - 26
   Mon Jan 1 2024
-    15.00     Reading v Exeter City  3-2 (2-1)   @ Select Car Leasing Stadium › Reading, Berkshire
+    15:00     Reading v Exeter City  3-2 (2-1)   @ Select Car Leasing Stadium › Reading, Berkshire
   Mon Jan 1
-    15.00     Bolton v Burton Albion  1-0 (0-0)   @ Toughsheet Community Stadium › Bolton
+    15:00     Bolton v Burton Albion  1-0 (0-0)   @ Toughsheet Community Stadium › Bolton
               Derby v Peterborough  2-3 (1-1)   @ Pride Park Stadium › Derby
               Barnsley v Wigan  1-1 (1-0)   @ Oakwell › Barnsley, South Yorkshire
               Charlton v Oxford United  1-2 (1-1)   @ The Valley › London
@@ -375,16 +375,16 @@
               Wycombe v Bristol Rovers  3-2 (1-0)   @ Adams Park › High Wycombe, Buckinghamshire
               Cambridge United v Leyton Orient  0-2 (0-0)   @ Cledara Abbey Stadium › Cambridge, Cambridgeshire
               Carlisle v Port Vale  2-1 (0-0)   @ Brunton Park › Carlisle, Cumbria
-» Regular Season - 27
+▪ Regular Season - 27
   Sat Jan 6
-    12.30     Fleetwood Town v Derby  1-3 (0-2)   @ Highbury Stadium › Fleetwood, Lancashire
-    15.00     Burton Albion v Wycombe  1-1 (0-0)   @ Pirelli Stadium › Burton-upon-Trent, Staffordshire
+    12:30     Fleetwood Town v Derby  1-3 (0-2)   @ Highbury Stadium › Fleetwood, Lancashire
+    15:00     Burton Albion v Wycombe  1-1 (0-0)   @ Pirelli Stadium › Burton-upon-Trent, Staffordshire
               Port Vale v Charlton  3-3 (1-1)   @ Vale Park › Stoke-on-Trent, Staffordshire
               Exeter City v Carlisle  2-1 (0-0)   @ St James Park › Exeter, Devon
               Cheltenham v Portsmouth  2-1 (0-0)   @ Completely-Suzuki Stadium › Cheltenham, Gloucestershire
-» Regular Season - 28
+▪ Regular Season - 28
   Sat Jan 13
-    15.00     Barnsley v Bristol Rovers  2-1 (1-0)   @ Oakwell › Barnsley, South Yorkshire
+    15:00     Barnsley v Bristol Rovers  2-1 (1-0)   @ Oakwell › Barnsley, South Yorkshire
               Charlton v Peterborough  1-2 (0-1)   @ The Valley › London
               Northampton v Wigan  1-1 (1-0)   @ Sixfields Stadium › Northampton, East Midlands
               Shrewsbury v Stevenage  0-1 (0-0)   @ The Croud Meadow › Shrewsbury, Shropshire
@@ -394,13 +394,13 @@
               Cambridge United v Fleetwood Town  2-1 (0-0)   @ Cledara Abbey Stadium › Cambridge, Cambridgeshire
               Carlisle v Oxford United  1-3 (0-1)   @ Brunton Park › Carlisle, Cumbria
   Mon Jan 15
-    20.00     Derby v Burton Albion  3-2 (1-0)   @ Pride Park Stadium › Derby
-» Regular Season - 18
+    20:00     Derby v Burton Albion  3-2 (1-0)   @ Pride Park Stadium › Derby
+▪ Regular Season - 18
   Tue Jan 16
-    19.45     Barnsley v Carlisle  2-1 (0-1)   @ Oakwell › Barnsley, South Yorkshire
-» Regular Season - 29
+    19:45     Barnsley v Carlisle  2-1 (0-1)   @ Oakwell › Barnsley, South Yorkshire
+▪ Regular Season - 29
   Sat Jan 20
-    15.00     Wigan v Reading  1-0 (1-0)   @ DW Stadium › Wigan
+    15:00     Wigan v Reading  1-0 (1-0)   @ DW Stadium › Wigan
               Burton Albion v Charlton  2-0 (1-0)   @ Pirelli Stadium › Burton-upon-Trent, Staffordshire
               Bristol Rovers v Blackpool  1-2 (1-2)   @ Memorial Stadium › Bristol, Gloucestershire
               Fleetwood Town v Portsmouth  0-1 (0-1)   @ Highbury Stadium › Fleetwood, Lancashire
@@ -408,23 +408,23 @@
               Exeter City v Cambridge United  0-0 (0-0)   @ St James Park › Exeter, Devon
               Leyton Orient v Bolton  1-0 (0-0)   @ Gaughan Group Stadium › London
               Lincoln v Derby  0-0 (0-0)   @ LNER Stadium › Lincoln, Lincolnshire
-» Regular Season - 13
+▪ Regular Season - 13
   Tue Jan 23
-    19.45     Bristol Rovers v Exeter City  0-1 (0-1)   @ Memorial Stadium › Bristol, Gloucestershire
-» Regular Season - 18
+    19:45     Bristol Rovers v Exeter City  0-1 (0-1)   @ Memorial Stadium › Bristol, Gloucestershire
+▪ Regular Season - 18
   Tue Jan 23
-    19.45     Charlton v Northampton  2-3 (2-2)   @ The Valley › London
+    19:45     Charlton v Northampton  2-3 (2-2)   @ The Valley › London
               Wigan v Wycombe  1-0 (0-0)   @ DW Stadium › Wigan
-    20.00     Reading v Derby  1-0 (0-0)   @ Select Car Leasing Stadium › Reading, Berkshire
-» Regular Season - 27
+    20:00     Reading v Derby  1-0 (0-0)   @ Select Car Leasing Stadium › Reading, Berkshire
+▪ Regular Season - 27
   Tue Jan 23
-    19.45     Oxford United v Barnsley  0-1 (0-1)   @ The Kassam Stadium › Oxford, Oxfordshire
-» Regular Season - 28
+    19:45     Oxford United v Barnsley  0-1 (0-1)   @ The Kassam Stadium › Oxford, Oxfordshire
+▪ Regular Season - 28
   Tue Jan 23
-    19.45     Bolton v Cheltenham  1-0 (1-0)   @ Toughsheet Community Stadium › Bolton
-» Regular Season - 30
+    19:45     Bolton v Cheltenham  1-0 (1-0)   @ Toughsheet Community Stadium › Bolton
+▪ Regular Season - 30
   Sat Jan 27
-    15.00     Reading v Leyton Orient  1-1 (1-1)   @ Select Car Leasing Stadium › Reading, Berkshire
+    15:00     Reading v Leyton Orient  1-1 (1-1)   @ Select Car Leasing Stadium › Reading, Berkshire
               Wigan v Stevenage  2-3 (2-1)   @ DW Stadium › Wigan
               Derby v Cheltenham  2-1 (0-0)   @ Pride Park Stadium › Derby
               Barnsley v Exeter City  1-2 (0-2)   @ Oakwell › Barnsley, South Yorkshire
@@ -436,13 +436,13 @@
               Cambridge United v Burton Albion  0-0 (0-0)   @ Cledara Abbey Stadium › Cambridge, Cambridgeshire
               Carlisle v Bolton  1-4 (0-2)   @ Brunton Park › Carlisle, Cumbria
               Lincoln v Peterborough  0-0 (0-0)   @ LNER Stadium › Lincoln, Lincolnshire
-» Regular Season - 18
+▪ Regular Season - 18
   Tue Jan 30
-    19.45     Oxford United v Portsmouth  2-2 (1-0)   @ The Kassam Stadium › Oxford, Oxfordshire
-» Regular Season - 31
+    19:45     Oxford United v Portsmouth  2-2 (1-0)   @ The Kassam Stadium › Oxford, Oxfordshire
+▪ Regular Season - 31
   Sat Feb 3
-    12.30     Oxford United v Reading  1-1 (1-0)   @ The Kassam Stadium › Oxford, Oxfordshire
-    15.00     Bolton v Barnsley  1-1 (0-1)   @ Toughsheet Community Stadium › Bolton
+    12:30     Oxford United v Reading  1-1 (1-0)   @ The Kassam Stadium › Oxford, Oxfordshire
+    15:00     Bolton v Barnsley  1-1 (0-1)   @ Toughsheet Community Stadium › Bolton
               Burton Albion v Lincoln  0-1 (0-0)   @ Pirelli Stadium › Burton-upon-Trent, Staffordshire
               Charlton v Derby  0-1 (0-1)   @ The Valley › London
               Fleetwood Town v Port Vale  3-0 (1-0)   @ Highbury Stadium › Fleetwood, Lancashire
@@ -453,17 +453,17 @@
               Stevenage v Blackpool  1-0 (0-0)   @ The Lamex Stadium › Stevenage, Hertfordshire
               Cheltenham v Wycombe  1-3 (0-2)   @ Completely-Suzuki Stadium › Cheltenham, Gloucestershire
               Leyton Orient v Carlisle  3-2 (2-1)   @ Gaughan Group Stadium › London
-» Regular Season - 18
+▪ Regular Season - 18
   Tue Feb 6
-    19.45     Port Vale v Leyton Orient  0-1 (0-0)   @ Vale Park › Stoke-on-Trent, Staffordshire
+    19:45     Port Vale v Leyton Orient  0-1 (0-0)   @ Vale Park › Stoke-on-Trent, Staffordshire
               Exeter City v Peterborough  2-1 (0-1)   @ St James Park › Exeter, Devon
               Bristol Rovers v Fleetwood Town  0-2 (0-1)   @ Memorial Stadium › Bristol, Gloucestershire
-» Regular Season - 27
+▪ Regular Season - 27
   Tue Feb 6
-    19.45     Stevenage v Reading  0-1 (0-1)   @ The Lamex Stadium › Stevenage, Hertfordshire
-» Regular Season - 32
+    19:45     Stevenage v Reading  0-1 (0-1)   @ The Lamex Stadium › Stevenage, Hertfordshire
+▪ Regular Season - 32
   Sat Feb 10
-    15.00     Reading v Charlton  2-0 (0-0)   @ Select Car Leasing Stadium › Reading, Berkshire
+    15:00     Reading v Charlton  2-0 (0-0)   @ Select Car Leasing Stadium › Reading, Berkshire
               Wigan v Exeter City  1-2 (0-1)   @ DW Stadium › Wigan
               Derby v Shrewsbury  1-1 (0-0)   @ Pride Park Stadium › Derby
               Barnsley v Leyton Orient  2-1 (0-1)   @ Oakwell › Barnsley, South Yorkshire
@@ -475,9 +475,9 @@
               Cambridge United v Cheltenham  0-1 (0-0)   @ Cledara Abbey Stadium › Cambridge, Cambridgeshire
               Carlisle v Portsmouth  0-1 (0-0)   @ Brunton Park › Carlisle, Cumbria
               Lincoln v Fleetwood Town  2-1 (0-1)   @ LNER Stadium › Lincoln, Lincolnshire
-» Regular Season - 33
+▪ Regular Season - 33
   Tue Feb 13
-    19.45     Bolton v Wycombe  2-1 (1-0)   @ Toughsheet Community Stadium › Bolton
+    19:45     Bolton v Wycombe  2-1 (1-0)   @ Toughsheet Community Stadium › Bolton
               Charlton v Lincoln  1-1 (0-1)   @ The Valley › London
               Fleetwood Town v Reading  1-1 (0-0)   @ Highbury Stadium › Fleetwood, Lancashire
               Oxford United v Wigan  4-2 (1-1)   @ The Kassam Stadium › Oxford, Oxfordshire
@@ -487,9 +487,9 @@
               Stevenage v Bristol Rovers  2-3 (2-1)   @ The Lamex Stadium › Stevenage, Hertfordshire
               Cheltenham v Blackpool  2-0 (1-0)   @ Completely-Suzuki Stadium › Cheltenham, Gloucestershire
               Leyton Orient v Northampton  4-3 (1-1)   @ Gaughan Group Stadium › London
-» Regular Season - 34
+▪ Regular Season - 34
   Sat Feb 17
-    15.00     Bolton v Charlton  3-3 (1-2)   @ Toughsheet Community Stadium › Bolton
+    15:00     Bolton v Charlton  3-3 (1-2)   @ Toughsheet Community Stadium › Bolton
               Derby v Stevenage  1-0 (0-0)   @ Pride Park Stadium › Derby
               Fleetwood Town v Barnsley  1-2 (1-1)   @ Highbury Stadium › Fleetwood, Lancashire
               Northampton v Bristol Rovers  3-1 (2-0)   @ Sixfields Stadium › Northampton, East Midlands
@@ -501,21 +501,21 @@
               Cheltenham v Port Vale  3-2 (1-1)   @ Completely-Suzuki Stadium › Cheltenham, Gloucestershire
               Leyton Orient v Burton Albion  1-2 (1-0)   @ Gaughan Group Stadium › London
               Lincoln v Exeter City  1-0 (0-0)   @ LNER Stadium › Lincoln, Lincolnshire
-» Regular Season - 18
+▪ Regular Season - 18
   Tue Feb 20
-    19.45     Cambridge United v Bolton  1-2 (1-0)   @ Cledara Abbey Stadium › Cambridge, Cambridgeshire
-» Regular Season - 28
+    19:45     Cambridge United v Bolton  1-2 (1-0)   @ Cledara Abbey Stadium › Cambridge, Cambridgeshire
+▪ Regular Season - 28
   Tue Feb 20
-    20.00     Reading v Port Vale  2-0 (0-0)   @ Select Car Leasing Stadium › Reading, Berkshire
-» Regular Season - 29
+    20:00     Reading v Port Vale  2-0 (0-0)   @ Select Car Leasing Stadium › Reading, Berkshire
+▪ Regular Season - 29
   Tue Feb 20
-    19.45     Oxford United v Northampton  2-2 (1-1)   @ The Kassam Stadium › Oxford, Oxfordshire
-» Regular Season - 35
+    19:45     Oxford United v Northampton  2-2 (1-1)   @ The Kassam Stadium › Oxford, Oxfordshire
+▪ Regular Season - 35
   Fri Feb 23
-    19.45     Wigan v Cheltenham  1-1 (0-1)   @ DW Stadium › Wigan
+    19:45     Wigan v Cheltenham  1-1 (0-1)   @ DW Stadium › Wigan
   Sat Feb 24
-    12.00     Cambridge United v Peterborough  0-1 (0-0)   @ Cledara Abbey Stadium › Cambridge, Cambridgeshire
-    15.00     Reading v Shrewsbury  2-3 (2-3)   @ Select Car Leasing Stadium › Reading, Berkshire
+    12:00     Cambridge United v Peterborough  0-1 (0-0)   @ Cledara Abbey Stadium › Cambridge, Cambridgeshire
+    15:00     Reading v Shrewsbury  2-3 (2-3)   @ Select Car Leasing Stadium › Reading, Berkshire
               Barnsley v Derby  2-1 (1-1)   @ Oakwell › Barnsley, South Yorkshire
               Burton Albion v Northampton  0-2 (0-2)   @ Pirelli Stadium › Burton-upon-Trent, Staffordshire
               Bristol Rovers v Carlisle  2-1 (1-1)   @ Memorial Stadium › Bristol, Gloucestershire
@@ -525,25 +525,25 @@
               Blackpool v Bolton  4-1 (2-1)   @ Bloomfield Road › Blackpool, Lancashire
               Exeter City v Fleetwood Town  1-1 (1-0)   @ St James Park › Exeter, Devon
               Stevenage v Wycombe  1-0 (1-0)   @ The Lamex Stadium › Stevenage, Hertfordshire
-» Regular Season - 13
+▪ Regular Season - 13
   Tue Feb 27
-    19.45     Derby v Charlton  1-2 (1-0)   @ Pride Park Stadium › Derby
+    19:45     Derby v Charlton  1-2 (1-0)   @ Pride Park Stadium › Derby
               Wycombe v Cheltenham  2-0 (0-0)   @ Adams Park › High Wycombe, Buckinghamshire
               Port Vale v Fleetwood Town  2-2 (2-0)   @ Vale Park › Stoke-on-Trent, Staffordshire
-» Regular Season - 25
+▪ Regular Season - 25
   Tue Feb 27
-    19.45     Stevenage v Cambridge United  1-0 (1-0)   @ The Lamex Stadium › Stevenage, Hertfordshire
-» Regular Season - 27
+    19:45     Stevenage v Cambridge United  1-0 (1-0)   @ The Lamex Stadium › Stevenage, Hertfordshire
+▪ Regular Season - 27
   Tue Feb 27
-    19.45     Lincoln v Shrewsbury  3-0 (1-0)   @ LNER Stadium › Lincoln, Lincolnshire
+    19:45     Lincoln v Shrewsbury  3-0 (1-0)   @ LNER Stadium › Lincoln, Lincolnshire
               Leyton Orient v Blackpool  1-0 (0-0)   @ Gaughan Group Stadium › London
               Wigan v Bolton  1-0 (0-0)   @ DW Stadium › Wigan
-» Regular Season - 33
+▪ Regular Season - 33
   Tue Feb 27
-    19.45     Burton Albion v Carlisle  0-1 (0-1)   @ Pirelli Stadium › Burton-upon-Trent, Staffordshire
-» Regular Season - 36
+    19:45     Burton Albion v Carlisle  0-1 (0-1)   @ Pirelli Stadium › Burton-upon-Trent, Staffordshire
+▪ Regular Season - 36
   Sat Mar 2
-    15.00     Bolton v Cambridge United  2-0 (1-0)   @ Toughsheet Community Stadium › Bolton
+    15:00     Bolton v Cambridge United  2-0 (1-0)   @ Toughsheet Community Stadium › Bolton
               Derby v Port Vale  3-0 (2-0)   @ Pride Park Stadium › Derby
               Fleetwood Town v Wigan  4-2 (2-2)   @ Highbury Stadium › Fleetwood, Lancashire
               Northampton v Charlton  1-1 (0-1)   @ Sixfields Stadium › Northampton, East Midlands
@@ -555,18 +555,18 @@
               Cheltenham v Burton Albion  0-0 (0-0)   @ Completely-Suzuki Stadium › Cheltenham, Gloucestershire
               Leyton Orient v Bristol Rovers  0-1 (0-1)   @ Gaughan Group Stadium › London
               Lincoln v Stevenage  0-0 (0-0)   @ LNER Stadium › Lincoln, Lincolnshire
-» Regular Season - 13
+▪ Regular Season - 13
   Tue Mar 5
-    19.45     Barnsley v Bolton  2-2 (1-0)   @ Oakwell › Barnsley, South Yorkshire
-» Regular Season - 27
+    19:45     Barnsley v Bolton  2-2 (1-0)   @ Oakwell › Barnsley, South Yorkshire
+▪ Regular Season - 27
   Tue Mar 5
-    19.45     Peterborough v Northampton  5-1 (3-1)   @ Weston Homes Stadium › Peterborough
-» Regular Season - 38
+    19:45     Peterborough v Northampton  5-1 (3-1)   @ Weston Homes Stadium › Peterborough
+▪ Regular Season - 38
   Tue Mar 5
-    19.45     Cheltenham v Charlton  1-3 (0-1)   @ Completely-Suzuki Stadium › Cheltenham, Gloucestershire
-» Regular Season - 37
+    19:45     Cheltenham v Charlton  1-3 (0-1)   @ Completely-Suzuki Stadium › Cheltenham, Gloucestershire
+▪ Regular Season - 37
   Sat Mar 9
-    15.00     Reading v Wycombe  1-2 (0-1)   @ Select Car Leasing Stadium › Reading, Berkshire
+    15:00     Reading v Wycombe  1-2 (0-1)   @ Select Car Leasing Stadium › Reading, Berkshire
               Wigan v Leyton Orient  1-0 (0-0)   @ DW Stadium › Wigan
               Barnsley v Lincoln  1-5 (0-1)   @ Oakwell › Barnsley, South Yorkshire
               Burton Albion v Peterborough  1-3 (0-0)   @ Pirelli Stadium › Burton-upon-Trent, Staffordshire
@@ -578,9 +578,9 @@
               Exeter City v Bolton  2-2 (0-1)   @ St James Park › Exeter, Devon
               Stevenage v Fleetwood Town  0-0 (0-0)   @ The Lamex Stadium › Stevenage, Hertfordshire
               Cambridge United v Northampton  1-1 (1-0)   @ Cledara Abbey Stadium › Cambridge, Cambridgeshire
-» Regular Season - 38
+▪ Regular Season - 38
   Tue Mar 12
-    19.45     Derby v Reading  2-1 (0-0)   @ Pride Park Stadium › Derby
+    19:45     Derby v Reading  2-1 (0-0)   @ Pride Park Stadium › Derby
               Fleetwood Town v Bristol Rovers  0-0 (0-0)   @ Highbury Stadium › Fleetwood, Lancashire
               Northampton v Blackpool  0-1 (0-0)   @ Sixfields Stadium › Northampton, East Midlands
               Shrewsbury v Exeter City  0-3 (0-3)   @ The Croud Meadow › Shrewsbury, Shropshire
@@ -589,12 +589,12 @@
               Carlisle v Barnsley  2-3 (1-1)   @ Brunton Park › Carlisle, Cumbria
               Leyton Orient v Port Vale  0-0 (0-0)   @ Gaughan Group Stadium › London
               Lincoln v Cambridge United  6-0 (2-0)   @ LNER Stadium › Lincoln, Lincolnshire
-    20.00     Bolton v Oxford United  5-0 (2-0)   @ Toughsheet Community Stadium › Bolton
+    20:00     Bolton v Oxford United  5-0 (2-0)   @ Toughsheet Community Stadium › Bolton
   Wed Mar 13
-    20.00     Peterborough v Stevenage  3-1 (1-0)   @ Weston Homes Stadium › Peterborough
-» Regular Season - 39
+    20:00     Peterborough v Stevenage  3-1 (1-0)   @ Weston Homes Stadium › Peterborough
+▪ Regular Season - 39
   Sat Mar 16
-    15.00     Reading v Cambridge United  4-0 (2-0)   @ Select Car Leasing Stadium › Reading, Berkshire
+    15:00     Reading v Cambridge United  4-0 (2-0)   @ Select Car Leasing Stadium › Reading, Berkshire
               Wigan v Blackpool  1-0 (1-0)   @ DW Stadium › Wigan
               Derby v Bolton  1-0 (0-0)   @ Pride Park Stadium › Derby
               Barnsley v Cheltenham  0-0 (0-0)   @ Oakwell › Barnsley, South Yorkshire
@@ -606,14 +606,14 @@
               Exeter City v Burton Albion  1-0 (1-0)   @ St James Park › Exeter, Devon
               Stevenage v Leyton Orient  0-1 (0-1)   @ The Lamex Stadium › Stevenage, Hertfordshire
               Lincoln v Bristol Rovers  5-0 (3-0)   @ LNER Stadium › Lincoln, Lincolnshire
-» Regular Season - 40
+▪ Regular Season - 40
   Sat Mar 23
-    15.00     Northampton v Derby  1-0 (1-0)   @ Sixfields Stadium › Northampton, East Midlands
+    15:00     Northampton v Derby  1-0 (1-0)   @ Sixfields Stadium › Northampton, East Midlands
               Carlisle v Stevenage  2-2 (1-0)   @ Brunton Park › Carlisle, Cumbria
               Burton Albion v Port Vale  0-1 (0-0)   @ Pirelli Stadium › Burton-upon-Trent, Staffordshire
-» Regular Season - 41
+▪ Regular Season - 41
   Fri Mar 29
-    15.00     Reading v Northampton  1-0 (0-0)   @ Select Car Leasing Stadium › Reading, Berkshire
+    15:00     Reading v Northampton  1-0 (0-0)   @ Select Car Leasing Stadium › Reading, Berkshire
               Wigan v Burton Albion  1-1 (1-0)   @ DW Stadium › Wigan
               Derby v Blackpool  1-0 (1-0)   @ Pride Park Stadium › Derby
               Barnsley v Cambridge United  0-2 (0-1)   @ Oakwell › Barnsley, South Yorkshire
@@ -625,9 +625,9 @@
               Exeter City v Charlton  1-1 (1-0)   @ St James Park › Exeter, Devon
               Stevenage v Bolton  0-0 (0-0)   @ The Lamex Stadium › Stevenage, Hertfordshire
               Lincoln v Leyton Orient  1-0 (0-0)   @ LNER Stadium › Lincoln, Lincolnshire
-» Regular Season - 42
+▪ Regular Season - 42
   Mon Apr 1
-    15.00     Bolton v Reading  5-2 (2-1)   @ Toughsheet Community Stadium › Bolton
+    15:00     Bolton v Reading  5-2 (2-1)   @ Toughsheet Community Stadium › Bolton
               Burton Albion v Barnsley  1-3 (1-0)   @ Pirelli Stadium › Burton-upon-Trent, Staffordshire
               Bristol Rovers v Shrewsbury  0-0 (0-0)   @ Memorial Stadium › Bristol, Gloucestershire
               Charlton v Stevenage  0-0 (0-0)   @ The Valley › London
@@ -639,10 +639,10 @@
               Cheltenham v Exeter City  1-2 (0-0)   @ Completely-Suzuki Stadium › Cheltenham, Gloucestershire
               Leyton Orient v Peterborough  1-2 (0-2)   @ Gaughan Group Stadium › London
   Tue Apr 2
-    20.00     Portsmouth v Derby  2-2 (1-2)   @ Fratton Park › Portsmouth
-» Regular Season - 43
+    20:00     Portsmouth v Derby  2-2 (1-2)   @ Fratton Park › Portsmouth
+▪ Regular Season - 43
   Sat Apr 6
-    15.00     Reading v Lincoln  1-1 (0-0)   @ Select Car Leasing Stadium › Reading, Berkshire
+    15:00     Reading v Lincoln  1-1 (0-0)   @ Select Car Leasing Stadium › Reading, Berkshire
               Wigan v Port Vale  0-0 (0-0)   @ DW Stadium › Wigan
               Burton Albion v Oxford United  0-4 (0-1)   @ Pirelli Stadium › Burton-upon-Trent, Staffordshire
               Bristol Rovers v Bolton  0-2 (0-0)   @ Memorial Stadium › Bristol, Gloucestershire
@@ -652,25 +652,25 @@
               Blackpool v Cambridge United  1-0 (1-0)   @ Bloomfield Road › Blackpool, Lancashire
               Exeter City v Stevenage  1-0 (1-0)   @ St James Park › Exeter, Devon
               Leyton Orient v Cheltenham  3-1 (2-0)   @ Gaughan Group Stadium › London
-» Regular Season - 29
+▪ Regular Season - 29
   Tue Apr 9
-    19.45     Stevenage v Barnsley  2-1 (1-1)   @ The Lamex Stadium › Stevenage, Hertfordshire
+    19:45     Stevenage v Barnsley  2-1 (1-1)   @ The Lamex Stadium › Stevenage, Hertfordshire
               Cheltenham v Carlisle  0-1 (0-1)   @ Completely-Suzuki Stadium › Cheltenham, Gloucestershire
-» Regular Season - 40
+▪ Regular Season - 40
   Tue Apr 9
-    19.45     Blackpool v Fleetwood Town  1-0 (1-0)   @ Bloomfield Road › Blackpool, Lancashire
+    19:45     Blackpool v Fleetwood Town  1-0 (1-0)   @ Bloomfield Road › Blackpool, Lancashire
               Charlton v Wigan  2-2 (1-0)   @ The Valley › London
               Leyton Orient v Exeter City  2-2 (1-0)   @ Gaughan Group Stadium › London
               Bristol Rovers v Reading  0-2 (0-2)   @ Memorial Stadium › Bristol, Gloucestershire
-» Regular Season - 33
+▪ Regular Season - 33
   Wed Apr 10
-    19.45     Peterborough v Port Vale  3-0 (1-0)   @ Weston Homes Stadium › Peterborough
-» Regular Season - 43
+    19:45     Peterborough v Port Vale  3-0 (1-0)   @ Weston Homes Stadium › Peterborough
+▪ Regular Season - 43
   Wed Apr 10
-    19.45     Wycombe v Derby  0-0 (0-0)   @ Adams Park › High Wycombe, Buckinghamshire
-» Regular Season - 44
+    19:45     Wycombe v Derby  0-0 (0-0)   @ Adams Park › High Wycombe, Buckinghamshire
+▪ Regular Season - 44
   Sat Apr 13
-    15.00     Bolton v Portsmouth  1-1 (1-1)   @ Toughsheet Community Stadium › Bolton
+    15:00     Bolton v Portsmouth  1-1 (1-1)   @ Toughsheet Community Stadium › Bolton
               Derby v Leyton Orient  3-0 (2-0)   @ Pride Park Stadium › Derby
               Barnsley v Reading  2-2 (1-1)   @ Oakwell › Barnsley, South Yorkshire
               Fleetwood Town v Northampton  2-0 (2-0)   @ Highbury Stadium › Fleetwood, Lancashire
@@ -682,29 +682,29 @@
               Carlisle v Blackpool  0-1 (0-1)   @ Brunton Park › Carlisle, Cumbria
               Cheltenham v Bristol Rovers  1-3 (0-1)   @ Completely-Suzuki Stadium › Cheltenham, Gloucestershire
               Lincoln v Wigan  1-2 (1-1)   @ LNER Stadium › Lincoln, Lincolnshire
-» Regular Season - 18
+▪ Regular Season - 18
   Tue Apr 16
-    19.45     Burton Albion v Cheltenham  1-2 (1-0)   @ Pirelli Stadium › Burton-upon-Trent, Staffordshire
-» Regular Season - 27
+    19:45     Burton Albion v Cheltenham  1-2 (1-0)   @ Pirelli Stadium › Burton-upon-Trent, Staffordshire
+▪ Regular Season - 27
   Tue Apr 16
-    19.45     Bristol Rovers v Cambridge United  1-0 (0-0)   @ Memorial Stadium › Bristol, Gloucestershire
-» Regular Season - 29
+    19:45     Bristol Rovers v Cambridge United  1-0 (0-0)   @ Memorial Stadium › Bristol, Gloucestershire
+▪ Regular Season - 29
   Tue Apr 16
-    19.45     Port Vale v Wycombe  1-2 (0-1)   @ Vale Park › Stoke-on-Trent, Staffordshire
-» Regular Season - 40
+    19:45     Port Vale v Wycombe  1-2 (0-1)   @ Vale Park › Stoke-on-Trent, Staffordshire
+▪ Regular Season - 40
   Tue Apr 16
-    19.45     Portsmouth v Barnsley  3-2 (1-1)   @ Fratton Park › Portsmouth
+    19:45     Portsmouth v Barnsley  3-2 (1-1)   @ Fratton Park › Portsmouth
               Oxford United v Lincoln  0-1 (0-0)   @ The Kassam Stadium › Oxford, Oxfordshire
               Bolton v Shrewsbury  2-2 (1-2)   @ Toughsheet Community Stadium › Bolton
-» Regular Season - 43
+▪ Regular Season - 43
   Tue Apr 16
-    19.45     Peterborough v Fleetwood Town  4-1 (1-1)   @ Weston Homes Stadium › Peterborough
-» Regular Season - 45
+    19:45     Peterborough v Fleetwood Town  4-1 (1-1)   @ Weston Homes Stadium › Peterborough
+▪ Regular Season - 45
   Fri Apr 19
-    20.00     Oxford United v Stevenage  1-1 (0-1)   @ The Kassam Stadium › Oxford, Oxfordshire
+    20:00     Oxford United v Stevenage  1-1 (0-1)   @ The Kassam Stadium › Oxford, Oxfordshire
   Sat Apr 20
-    14.00     Northampton v Exeter City  1-2 (0-1)   @ Sixfields Stadium › Northampton, East Midlands
-    15.00     Bolton v Port Vale  2-0 (0-0)   @ Toughsheet Community Stadium › Bolton
+    14:00     Northampton v Exeter City  1-2 (0-1)   @ Sixfields Stadium › Northampton, East Midlands
+    15:00     Bolton v Port Vale  2-0 (0-0)   @ Toughsheet Community Stadium › Bolton
               Burton Albion v Reading  3-2 (3-1)   @ Pirelli Stadium › Burton-upon-Trent, Staffordshire
               Bristol Rovers v Peterborough  0-2 (0-1)   @ Memorial Stadium › Bristol, Gloucestershire
               Charlton v Shrewsbury  1-1 (0-1)   @ The Valley › London
@@ -714,13 +714,13 @@
               Carlisle v Wycombe  1-3 (1-1)   @ Brunton Park › Carlisle, Cumbria
               Cheltenham v Lincoln  1-2 (1-1)   @ Completely-Suzuki Stadium › Cheltenham, Gloucestershire
               Leyton Orient v Fleetwood Town  0-1 (0-0)   @ Gaughan Group Stadium › London
-» Regular Season - 40
+▪ Regular Season - 40
   Tue Apr 23
-    19.45     Cheltenham v Peterborough  2-0 (2-0)   @ Completely-Suzuki Stadium › Cheltenham, Gloucestershire
+    19:45     Cheltenham v Peterborough  2-0 (2-0)   @ Completely-Suzuki Stadium › Cheltenham, Gloucestershire
               Cambridge United v Wycombe  1-1 (0-0)   @ Cledara Abbey Stadium › Cambridge, Cambridgeshire
-» Regular Season - 46
+▪ Regular Season - 46
   Sat Apr 27
-    12.30     Reading v Blackpool  3-2 (1-1)   @ Select Car Leasing Stadium › Reading, Berkshire
+    12:30     Reading v Blackpool  3-2 (1-1)   @ Select Car Leasing Stadium › Reading, Berkshire
               Wigan v Bristol Rovers  2-0 (1-0)   @ DW Stadium › Wigan
               Derby v Carlisle  2-0 (1-0)   @ Pride Park Stadium › Derby
               Barnsley v Northampton  1-1 (1-0)   @ Oakwell › Barnsley, South Yorkshire
@@ -732,15 +732,15 @@
               Exeter City v Oxford United  1-2 (0-2)   @ St James Park › Exeter, Devon
               Stevenage v Cheltenham  2-1 (1-0)   @ The Lamex Stadium › Stevenage, Hertfordshire
               Lincoln v Portsmouth  0-2 (0-0)   @ LNER Stadium › Lincoln, Lincolnshire
-» Promotion Play-offs - Semi-finals
+▪ Promotion Play-offs - Semi-finals
   Fri May 3
-    19.30     Barnsley v Bolton  1-3 (0-1)   @ Oakwell › Barnsley, South Yorkshire
+    19:30     Barnsley v Bolton  1-3 (0-1)   @ Oakwell › Barnsley, South Yorkshire
   Sat May 4
-    19.45     Oxford United v Peterborough  1-0 (0-0)   @ The Kassam Stadium › Oxford, Oxfordshire
+    19:45     Oxford United v Peterborough  1-0 (0-0)   @ The Kassam Stadium › Oxford, Oxfordshire
   Tue May 7
-    20.00     Bolton v Barnsley  2-3 (2-1)   @ Toughsheet Community Stadium › Bolton
+    20:00     Bolton v Barnsley  2-3 (2-1)   @ Toughsheet Community Stadium › Bolton
   Wed May 8
-    20.00     Peterborough v Oxford United  1-1 (1-1)   @ Weston Homes Stadium › Peterborough
-» Promotion Play-offs - Final
+    20:00     Peterborough v Oxford United  1-1 (1-1)   @ Weston Homes Stadium › Peterborough
+▪ Promotion Play-offs - Final
   Sat May 18
-    16.15     Bolton v Oxford United  0-2 (0-2)   @ Wembley Stadium › London
+    16:15     Bolton v Oxford United  0-2 (0-2)   @ Wembley Stadium › London

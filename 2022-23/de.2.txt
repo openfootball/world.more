@@ -1,443 +1,443 @@
 = Germany | 2. Bundesliga 2022/23
 
-  # Date       Fri Jul/15 2022 - Tue Jun/6 2023 (326d)
+  # Date       Fri Jul 15 2022 - Tue Jun 6 2023 (326d)
   # Teams      19
   # Matches    308
 
   # Note - All times in Europe/Berlin
 
-» Regular Season - 1
+▪ Regular Season - 1
   Fri Jul 15 2022
-    20.30     FC Kaiserslautern v Hannover 96  2-1 (1-0)   @ Fritz-Walter-Stadion › Kaiserslautern
+    20:30     FC Kaiserslautern v Hannover 96  2-1 (1-0)   @ Fritz-Walter-Stadion › Kaiserslautern
   Sat Jul 16
-    13.00     Jahn Regensburg v SV Darmstadt 98  2-0 (1-0)   @ Jahnstadion Regensburg › Regensburg
+    13:00     Jahn Regensburg v SV Darmstadt 98  2-0 (1-0)   @ Jahnstadion Regensburg › Regensburg
               SpVgg Greuther Furth v Holstein Kiel  2-2 (0-1)   @ Sportpark Ronhof Thomas Sommer › Fürth
               FC St. Pauli v FC Nurnberg  3-2 (3-0)   @ Millerntor-Stadion › Hamburg
               SV Sandhausen v Arminia Bielefeld  2-1 (1-0)   @ BWT-Stadion am Hardtwald › Sandhausen
-    20.30     FC Magdeburg v Fortuna Dusseldorf  1-2 (0-1)   @ MDCC-Arena › Magdeburg
+    20:30     FC Magdeburg v Fortuna Dusseldorf  1-2 (0-1)   @ MDCC-Arena › Magdeburg
   Sun Jul 17
-    13.30     Eintracht Braunschweig v Hamburger SV  0-2 (0-0)   @ Eintracht-Stadion › Braunschweig
+    13:30     Eintracht Braunschweig v Hamburger SV  0-2 (0-0)   @ Eintracht-Stadion › Braunschweig
               Hansa Rostock v FC Heidenheim  0-1 (0-0)   @ Ostseestadion › Rostock
               SC Paderborn 07 v Karlsruher SC  5-0 (0-0)   @ Home Deluxe Arena › Paderborn
-» Regular Season - 2
+▪ Regular Season - 2
   Fri Jul 22
-    18.30     Fortuna Dusseldorf v SC Paderborn 07  2-1 (2-1)   @ Merkur Spiel-Arena › Düsseldorf
+    18:30     Fortuna Dusseldorf v SC Paderborn 07  2-1 (2-1)   @ Merkur Spiel-Arena › Düsseldorf
               SV Darmstadt 98 v SV Sandhausen  2-1 (1-1)   @ Merck-Stadion am Böllenfalltor › Darmstadt
   Sat Jul 23
-    13.00     FC Heidenheim v Eintracht Braunschweig  3-0 (1-0)   @ Voith-Arena › Heidenheim an der Brenz
+    13:00     FC Heidenheim v Eintracht Braunschweig  3-0 (1-0)   @ Voith-Arena › Heidenheim an der Brenz
               Holstein Kiel v FC Kaiserslautern  2-2 (0-1)   @ Holstein-Stadion › Kiel
               FC Nurnberg v SpVgg Greuther Furth  2-0 (1-0)   @ Max-Morlock-Stadion › Nürnberg
-    20.30     Hannover 96 v FC St. Pauli  2-2 (1-1)   @ Heinz von Heiden-Arena › Hannover
+    20:30     Hannover 96 v FC St. Pauli  2-2 (1-1)   @ Heinz von Heiden-Arena › Hannover
   Sun Jul 24
-    13.30     Arminia Bielefeld v Jahn Regensburg  0-3 (0-1)   @ SchücoArena › Bielefeld
+    13:30     Arminia Bielefeld v Jahn Regensburg  0-3 (0-1)   @ SchücoArena › Bielefeld
               Karlsruher SC v FC Magdeburg  2-3 (0-3)   @ BBBank Wildpark › Karlsruhe
               Hamburger SV v Hansa Rostock  0-1 (0-0)   @ Volksparkstadion › Hamburg
-» Regular Season - 3
+▪ Regular Season - 3
   Fri Aug 5
-    18.30     SpVgg Greuther Furth v Karlsruher SC  1-1 (0-0)   @ Sportpark Ronhof Thomas Sommer › Fürth
+    18:30     SpVgg Greuther Furth v Karlsruher SC  1-1 (0-0)   @ Sportpark Ronhof Thomas Sommer › Fürth
               SV Sandhausen v Fortuna Dusseldorf  1-0 (0-0)   @ BWT-Stadion am Hardtwald › Sandhausen
   Sat Aug 6
-    13.00     Jahn Regensburg v FC Nurnberg  0-0 (0-0)   @ Jahnstadion Regensburg › Regensburg
+    13:00     Jahn Regensburg v FC Nurnberg  0-0 (0-0)   @ Jahnstadion Regensburg › Regensburg
               SC Paderborn 07 v Hannover 96  4-2 (1-2)   @ Home Deluxe Arena › Paderborn
               Hamburger SV v FC Heidenheim  1-0 (1-0)   @ Volksparkstadion › Hamburg
-    20.30     Hansa Rostock v Arminia Bielefeld  2-1 (1-0)   @ Ostseestadion › Rostock
+    20:30     Hansa Rostock v Arminia Bielefeld  2-1 (1-0)   @ Ostseestadion › Rostock
   Sun Aug 7
-    13.30     Eintracht Braunschweig v SV Darmstadt 98  0-1 (0-0)   @ Eintracht-Stadion › Braunschweig
+    13:30     Eintracht Braunschweig v SV Darmstadt 98  0-1 (0-0)   @ Eintracht-Stadion › Braunschweig
               FC Kaiserslautern v FC St. Pauli  2-1 (1-0)   @ Fritz-Walter-Stadion › Kaiserslautern
               FC Magdeburg v Holstein Kiel  1-2 (1-1)   @ MDCC-Arena › Magdeburg
-» Regular Season - 4
+▪ Regular Season - 4
   Fri Aug 12
-    18.30     FC Nurnberg v FC Heidenheim  0-3 (0-1)   @ Max-Morlock-Stadion › Nürnberg
+    18:30     FC Nurnberg v FC Heidenheim  0-3 (0-1)   @ Max-Morlock-Stadion › Nürnberg
               FC Kaiserslautern v SC Paderborn 07  0-1 (0-0)   @ Fritz-Walter-Stadion › Kaiserslautern
   Sat Aug 13
-    13.00     Holstein Kiel v Eintracht Braunschweig  3-0 (1-0)   @ Holstein-Stadion › Kiel
+    13:00     Holstein Kiel v Eintracht Braunschweig  3-0 (1-0)   @ Holstein-Stadion › Kiel
               Karlsruher SC v SV Sandhausen  3-2 (1-1)   @ BBBank Wildpark › Karlsruhe
               Arminia Bielefeld v Hamburger SV  0-2 (0-1)   @ SchücoArena › Bielefeld
-    20.30     SV Darmstadt 98 v Hansa Rostock  4-0 (2-0)   @ Merck-Stadion am Böllenfalltor › Darmstadt
+    20:30     SV Darmstadt 98 v Hansa Rostock  4-0 (2-0)   @ Merck-Stadion am Böllenfalltor › Darmstadt
   Sun Aug 14
-    13.30     Hannover 96 v Jahn Regensburg  1-0 (0-0)   @ Heinz von Heiden-Arena › Hannover
+    13:30     Hannover 96 v Jahn Regensburg  1-0 (0-0)   @ Heinz von Heiden-Arena › Hannover
               FC St. Pauli v FC Magdeburg  3-0 (2-0)   @ Millerntor-Stadion › Hamburg
               Fortuna Dusseldorf v SpVgg Greuther Furth  2-2 (0-1)   @ Merkur Spiel-Arena › Düsseldorf
-» Regular Season - 5
+▪ Regular Season - 5
   Fri Aug 19
-    18.30     Hamburger SV v SV Darmstadt 98  1-2 (0-2)   @ Volksparkstadion › Hamburg
+    18:30     Hamburger SV v SV Darmstadt 98  1-2 (0-2)   @ Volksparkstadion › Hamburg
               FC Magdeburg v Hannover 96  0-4 (0-2)   @ MDCC-Arena › Magdeburg
   Sat Aug 20
-    13.00     SC Paderborn 07 v Holstein Kiel  7-2 (5-2)   @ Home Deluxe Arena › Paderborn
+    13:00     SC Paderborn 07 v Holstein Kiel  7-2 (5-2)   @ Home Deluxe Arena › Paderborn
               SV Sandhausen v FC Nurnberg  1-2 (1-0)   @ BWT-Stadion am Hardtwald › Sandhausen
               Jahn Regensburg v Karlsruher SC  0-6 (0-3)   @ Jahnstadion Regensburg › Regensburg
-    20.30     Eintracht Braunschweig v Fortuna Dusseldorf  2-2 (0-0)   @ Eintracht-Stadion › Braunschweig
+    20:30     Eintracht Braunschweig v Fortuna Dusseldorf  2-2 (0-0)   @ Eintracht-Stadion › Braunschweig
   Sun Aug 21
-    13.30     SpVgg Greuther Furth v FC Kaiserslautern  1-3 (1-0)   @ Sportpark Ronhof Thomas Sommer › Fürth
+    13:30     SpVgg Greuther Furth v FC Kaiserslautern  1-3 (1-0)   @ Sportpark Ronhof Thomas Sommer › Fürth
               FC Heidenheim v Arminia Bielefeld  1-1 (1-1)   @ Voith-Arena › Heidenheim an der Brenz
               Hansa Rostock v FC St. Pauli  2-0 (2-0)   @ Ostseestadion › Rostock
-» Regular Season - 6
+▪ Regular Season - 6
   Fri Aug 26
-    18.30     Arminia Bielefeld v Eintracht Braunschweig  4-1 (3-0)   @ SchücoArena › Bielefeld
+    18:30     Arminia Bielefeld v Eintracht Braunschweig  4-1 (3-0)   @ SchücoArena › Bielefeld
               Fortuna Dusseldorf v Jahn Regensburg  4-0 (0-0)   @ Merkur Spiel-Arena › Düsseldorf
   Sat Aug 27
-    13.00     SV Darmstadt 98 v FC Heidenheim  2-2 (1-0)   @ Merck-Stadion am Böllenfalltor › Darmstadt
+    13:00     SV Darmstadt 98 v FC Heidenheim  2-2 (1-0)   @ Merck-Stadion am Böllenfalltor › Darmstadt
               FC St. Pauli v SC Paderborn 07  2-2 (0-1)   @ Millerntor-Stadion › Hamburg
               Karlsruher SC v Hansa Rostock  2-0 (2-0)   @ BBBank Wildpark › Karlsruhe
-    20.30     FC Nurnberg v Hamburger SV  0-2 (0-1)   @ Max-Morlock-Stadion › Nürnberg
+    20:30     FC Nurnberg v Hamburger SV  0-2 (0-1)   @ Max-Morlock-Stadion › Nürnberg
   Sun Aug 28
-    13.30     Holstein Kiel v SV Sandhausen  1-0 (0-0)   @ Holstein-Stadion › Kiel
+    13:30     Holstein Kiel v SV Sandhausen  1-0 (0-0)   @ Holstein-Stadion › Kiel
               FC Kaiserslautern v FC Magdeburg  4-4 (2-3)   @ Fritz-Walter-Stadion › Kaiserslautern
               Hannover 96 v SpVgg Greuther Furth  2-1 (0-0)   @ Heinz von Heiden-Arena › Hannover
-» Regular Season - 7
+▪ Regular Season - 7
   Fri Sep 2
-    18.30     Eintracht Braunschweig v FC Nurnberg  4-2 (2-2)   @ Eintracht-Stadion › Braunschweig
+    18:30     Eintracht Braunschweig v FC Nurnberg  4-2 (2-2)   @ Eintracht-Stadion › Braunschweig
               FC Heidenheim v Fortuna Dusseldorf  2-1 (1-0)   @ Voith-Arena › Heidenheim an der Brenz
   Sat Sep 3
-    13.00     Jahn Regensburg v Holstein Kiel  0-0 (0-0)   @ Jahnstadion Regensburg › Regensburg
+    13:00     Jahn Regensburg v Holstein Kiel  0-0 (0-0)   @ Jahnstadion Regensburg › Regensburg
               SpVgg Greuther Furth v FC St. Pauli  2-2 (0-1)   @ Sportpark Ronhof Thomas Sommer › Fürth
               SC Paderborn 07 v FC Magdeburg  1-0 (0-0)   @ Home Deluxe Arena › Paderborn
-    20.30     Hamburger SV v Karlsruher SC  1-0 (1-0)   @ Volksparkstadion › Hamburg
+    20:30     Hamburger SV v Karlsruher SC  1-0 (1-0)   @ Volksparkstadion › Hamburg
   Sun Sep 4
-    13.30     SV Sandhausen v FC Kaiserslautern  0-0 (0-0)   @ BWT-Stadion am Hardtwald › Sandhausen
+    13:30     SV Sandhausen v FC Kaiserslautern  0-0 (0-0)   @ BWT-Stadion am Hardtwald › Sandhausen
               Hansa Rostock v Hannover 96  0-1 (0-1)   @ Ostseestadion › Rostock
               SV Darmstadt 98 v Arminia Bielefeld  1-1 (1-0)   @ Merck-Stadion am Böllenfalltor › Darmstadt
-» Regular Season - 8
+▪ Regular Season - 8
   Fri Sep 9
-    18.30     Holstein Kiel v Hamburger SV  2-3 (0-1)   @ Holstein-Stadion › Kiel
+    18:30     Holstein Kiel v Hamburger SV  2-3 (0-1)   @ Holstein-Stadion › Kiel
               FC Nurnberg v Arminia Bielefeld  1-0 (0-0)   @ Max-Morlock-Stadion › Nürnberg
   Sat Sep 10
-    13.00     Hannover 96 v Eintracht Braunschweig  1-1 (0-0)   @ Heinz von Heiden-Arena › Hannover
+    13:00     Hannover 96 v Eintracht Braunschweig  1-1 (0-0)   @ Heinz von Heiden-Arena › Hannover
               SC Paderborn 07 v Jahn Regensburg  3-0 (1-0)   @ Home Deluxe Arena › Paderborn
               Karlsruher SC v FC Heidenheim  0-0 (0-0)   @ BBBank Wildpark › Karlsruhe
-    20.30     Fortuna Dusseldorf v Hansa Rostock  3-1 (2-0)   @ Merkur Spiel-Arena › Düsseldorf
+    20:30     Fortuna Dusseldorf v Hansa Rostock  3-1 (2-0)   @ Merkur Spiel-Arena › Düsseldorf
   Sun Sep 11
-    13.30     FC St. Pauli v SV Sandhausen  1-1 (1-0)   @ Millerntor-Stadion › Hamburg
+    13:30     FC St. Pauli v SV Sandhausen  1-1 (1-0)   @ Millerntor-Stadion › Hamburg
               FC Kaiserslautern v SV Darmstadt 98  3-3 (0-1)   @ Fritz-Walter-Stadion › Kaiserslautern
               FC Magdeburg v SpVgg Greuther Furth  2-1 (1-1)   @ MDCC-Arena › Magdeburg
-» Regular Season - 9
+▪ Regular Season - 9
   Fri Sep 16
-    18.30     Eintracht Braunschweig v Karlsruher SC  2-1 (1-0)   @ Eintracht-Stadion › Braunschweig
+    18:30     Eintracht Braunschweig v Karlsruher SC  2-1 (1-0)   @ Eintracht-Stadion › Braunschweig
               SV Sandhausen v Hannover 96  2-3 (0-1)   @ BWT-Stadion am Hardtwald › Sandhausen
   Sat Sep 17
-    13.00     SV Darmstadt 98 v FC Nurnberg  2-0 (2-0)   @ Merck-Stadion am Böllenfalltor › Darmstadt
+    13:00     SV Darmstadt 98 v FC Nurnberg  2-0 (2-0)   @ Merck-Stadion am Böllenfalltor › Darmstadt
               Arminia Bielefeld v Holstein Kiel  4-2 (2-0)   @ SchücoArena › Bielefeld
               Hansa Rostock v FC Magdeburg  3-1 (2-0)   @ Ostseestadion › Rostock
-    20.30     Hamburger SV v Fortuna Dusseldorf  2-0 (1-0)   @ Volksparkstadion › Hamburg
+    20:30     Hamburger SV v Fortuna Dusseldorf  2-0 (1-0)   @ Volksparkstadion › Hamburg
   Sun Sep 18
-    13.30     SpVgg Greuther Furth v SC Paderborn 07  2-1 (1-0)   @ Sportpark Ronhof Thomas Sommer › Fürth
+    13:30     SpVgg Greuther Furth v SC Paderborn 07  2-1 (1-0)   @ Sportpark Ronhof Thomas Sommer › Fürth
               FC Heidenheim v FC Kaiserslautern  2-2 (2-1)   @ Voith-Arena › Heidenheim an der Brenz
               Jahn Regensburg v FC St. Pauli  2-0 (2-0)   @ Jahnstadion Regensburg › Regensburg
-» Regular Season - 10
+▪ Regular Season - 10
   Fri Sep 30
-    18.30     Hannover 96 v Hamburger SV  1-2 (1-1)   @ Heinz von Heiden-Arena › Hannover
+    18:30     Hannover 96 v Hamburger SV  1-2 (1-1)   @ Heinz von Heiden-Arena › Hannover
               SC Paderborn 07 v SV Darmstadt 98  1-2 (1-2)   @ Home Deluxe Arena › Paderborn
   Sat Oct 1
-    13.00     SpVgg Greuther Furth v SV Sandhausen  1-1 (0-1)   @ Sportpark Ronhof Thomas Sommer › Fürth
+    13:00     SpVgg Greuther Furth v SV Sandhausen  1-1 (0-1)   @ Sportpark Ronhof Thomas Sommer › Fürth
               Holstein Kiel v Hansa Rostock  1-1 (1-0)   @ Holstein-Stadion › Kiel
               Fortuna Dusseldorf v Arminia Bielefeld  4-1 (1-1)   @ Merkur Spiel-Arena › Düsseldorf
-    20.30     FC St. Pauli v FC Heidenheim  0-0 (0-0)   @ Millerntor-Stadion › Hamburg
+    20:30     FC St. Pauli v FC Heidenheim  0-0 (0-0)   @ Millerntor-Stadion › Hamburg
   Sun Oct 2
-    13.30     FC Kaiserslautern v Eintracht Braunschweig  1-1 (0-0)   @ Fritz-Walter-Stadion › Kaiserslautern
+    13:30     FC Kaiserslautern v Eintracht Braunschweig  1-1 (0-0)   @ Fritz-Walter-Stadion › Kaiserslautern
               Karlsruher SC v FC Nurnberg  3-0 (1-0)   @ BBBank Wildpark › Karlsruhe
               FC Magdeburg v Jahn Regensburg  1-0 (0-0)   @ MDCC-Arena › Magdeburg
-» Regular Season - 11
+▪ Regular Season - 11
   Fri Oct 7
-    18.30     Arminia Bielefeld v Karlsruher SC  1-2 (0-1)   @ SchücoArena › Bielefeld
+    18:30     Arminia Bielefeld v Karlsruher SC  1-2 (0-1)   @ SchücoArena › Bielefeld
               Jahn Regensburg v SpVgg Greuther Furth  2-2 (1-1)   @ Jahnstadion Regensburg › Regensburg
   Sat Oct 8
-    13.00     Eintracht Braunschweig v FC St. Pauli  2-1 (0-0)   @ Eintracht-Stadion › Braunschweig
+    13:00     Eintracht Braunschweig v FC St. Pauli  2-1 (0-0)   @ Eintracht-Stadion › Braunschweig
               Hansa Rostock v SC Paderborn 07  0-3 (0-1)   @ Ostseestadion › Rostock
               SV Darmstadt 98 v Fortuna Dusseldorf  1-0 (0-0)   @ Merck-Stadion am Böllenfalltor › Darmstadt
-    20.30     Hamburger SV v FC Kaiserslautern  1-1 (1-0)   @ Volksparkstadion › Hamburg
+    20:30     Hamburger SV v FC Kaiserslautern  1-1 (1-0)   @ Volksparkstadion › Hamburg
   Sun Oct 9
-    13.30     FC Heidenheim v Hannover 96  2-1 (1-0)   @ Voith-Arena › Heidenheim an der Brenz
+    13:30     FC Heidenheim v Hannover 96  2-1 (1-0)   @ Voith-Arena › Heidenheim an der Brenz
               SV Sandhausen v FC Magdeburg  1-0 (0-0)   @ BWT-Stadion am Hardtwald › Sandhausen
               FC Nurnberg v Holstein Kiel  2-3 (1-0)   @ Max-Morlock-Stadion › Nürnberg
-» Regular Season - 12
+▪ Regular Season - 12
   Fri Oct 14
-    18.30     SpVgg Greuther Furth v Hansa Rostock  2-2 (1-0)   @ Sportpark Ronhof Thomas Sommer › Fürth
+    18:30     SpVgg Greuther Furth v Hansa Rostock  2-2 (1-0)   @ Sportpark Ronhof Thomas Sommer › Fürth
               FC St. Pauli v Hamburger SV  3-0 (0-0)   @ Millerntor-Stadion › Hamburg
   Sat Oct 15
-    13.00     FC Magdeburg v Eintracht Braunschweig  0-2 (0-0)   @ MDCC-Arena › Magdeburg
+    13:00     FC Magdeburg v Eintracht Braunschweig  0-2 (0-0)   @ MDCC-Arena › Magdeburg
               Karlsruher SC v SV Darmstadt 98  1-2 (1-0)   @ BBBank Wildpark › Karlsruhe
               Fortuna Dusseldorf v FC Nurnberg  0-1 (0-0)   @ Merkur Spiel-Arena › Düsseldorf
-    20.30     Hannover 96 v Arminia Bielefeld  2-0 (1-0)   @ Heinz von Heiden-Arena › Hannover
+    20:30     Hannover 96 v Arminia Bielefeld  2-0 (1-0)   @ Heinz von Heiden-Arena › Hannover
   Sun Oct 16
-    13.30     SC Paderborn 07 v SV Sandhausen  3-0 (1-0)   @ Home Deluxe Arena › Paderborn
+    13:30     SC Paderborn 07 v SV Sandhausen  3-0 (1-0)   @ Home Deluxe Arena › Paderborn
               Holstein Kiel v FC Heidenheim  3-1 (1-1)   @ Holstein-Stadion › Kiel
               FC Kaiserslautern v Jahn Regensburg  0-3 (0-1)   @ Fritz-Walter-Stadion › Kaiserslautern
-» Regular Season - 13
+▪ Regular Season - 13
   Fri Oct 21
-    18.30     Hansa Rostock v FC Kaiserslautern  0-2 (0-0)   @ Ostseestadion › Rostock
+    18:30     Hansa Rostock v FC Kaiserslautern  0-2 (0-0)   @ Ostseestadion › Rostock
               SV Darmstadt 98 v Holstein Kiel  1-1 (0-1)   @ Merck-Stadion am Böllenfalltor › Darmstadt
   Sat Oct 22
-    13.00     Jahn Regensburg v SV Sandhausen  2-1 (1-1)   @ Jahnstadion Regensburg › Regensburg
+    13:00     Jahn Regensburg v SV Sandhausen  2-1 (1-1)   @ Jahnstadion Regensburg › Regensburg
               Eintracht Braunschweig v SC Paderborn 07  0-0 (0-0)   @ Eintracht-Stadion › Braunschweig
               FC Nurnberg v Hannover 96  0-0 (0-0)   @ Max-Morlock-Stadion › Nürnberg
-    20.30     Arminia Bielefeld v FC St. Pauli  2-0 (0-0)   @ SchücoArena › Bielefeld
+    20:30     Arminia Bielefeld v FC St. Pauli  2-0 (0-0)   @ SchücoArena › Bielefeld
   Sun Oct 23
-    13.30     Hamburger SV v FC Magdeburg  2-3 (0-1)   @ Volksparkstadion › Hamburg
+    13:30     Hamburger SV v FC Magdeburg  2-3 (0-1)   @ Volksparkstadion › Hamburg
               FC Heidenheim v SpVgg Greuther Furth  3-1 (2-0)   @ Voith-Arena › Heidenheim an der Brenz
               Karlsruher SC v Fortuna Dusseldorf  0-2 (0-2)   @ BBBank Wildpark › Karlsruhe
-» Regular Season - 14
+▪ Regular Season - 14
   Fri Oct 28
-    18.30     FC Magdeburg v FC Heidenheim  1-1 (0-1)   @ MDCC-Arena › Magdeburg
+    18:30     FC Magdeburg v FC Heidenheim  1-1 (0-1)   @ MDCC-Arena › Magdeburg
               SpVgg Greuther Furth v Arminia Bielefeld  1-0 (1-0)   @ Sportpark Ronhof Thomas Sommer › Fürth
   Sat Oct 29
-    13.00     Jahn Regensburg v Hansa Rostock  0-3 (0-2)   @ Jahnstadion Regensburg › Regensburg
+    13:00     Jahn Regensburg v Hansa Rostock  0-3 (0-2)   @ Jahnstadion Regensburg › Regensburg
               Holstein Kiel v Fortuna Dusseldorf  1-2 (0-1)   @ Holstein-Stadion › Kiel
               FC Kaiserslautern v FC Nurnberg  0-0 (0-0)   @ Fritz-Walter-Stadion › Kaiserslautern
-    20.30     FC St. Pauli v SV Darmstadt 98  1-1 (0-0)   @ Millerntor-Stadion › Hamburg
+    20:30     FC St. Pauli v SV Darmstadt 98  1-1 (0-0)   @ Millerntor-Stadion › Hamburg
   Sun Oct 30
-    13.30     SC Paderborn 07 v Hamburger SV  2-3 (1-2)   @ Home Deluxe Arena › Paderborn
+    13:30     SC Paderborn 07 v Hamburger SV  2-3 (1-2)   @ Home Deluxe Arena › Paderborn
               SV Sandhausen v Eintracht Braunschweig  2-2 (0-0)   @ BWT-Stadion am Hardtwald › Sandhausen
               Hannover 96 v Karlsruher SC  1-0 (0-0)   @ Heinz von Heiden-Arena › Hannover
-» Regular Season - 15
+▪ Regular Season - 15
   Fri Nov 4
-    18.30     SV Darmstadt 98 v Hannover 96  1-0 (0-0)   @ Merck-Stadion am Böllenfalltor › Darmstadt
+    18:30     SV Darmstadt 98 v Hannover 96  1-0 (0-0)   @ Merck-Stadion am Böllenfalltor › Darmstadt
               Hansa Rostock v SV Sandhausen  0-1 (0-1)   @ Ostseestadion › Rostock
   Sat Nov 5
-    13.00     FC Heidenheim v SC Paderborn 07  3-0 (1-0)   @ Voith-Arena › Heidenheim an der Brenz
+    13:00     FC Heidenheim v SC Paderborn 07  3-0 (1-0)   @ Voith-Arena › Heidenheim an der Brenz
               Karlsruher SC v Holstein Kiel  1-4 (0-2)   @ BBBank Wildpark › Karlsruhe
               Fortuna Dusseldorf v FC St. Pauli  1-0 (1-0)   @ Merkur Spiel-Arena › Düsseldorf
-    20.30     Arminia Bielefeld v FC Kaiserslautern  2-3 (0-0)   @ SchücoArena › Bielefeld
+    20:30     Arminia Bielefeld v FC Kaiserslautern  2-3 (0-0)   @ SchücoArena › Bielefeld
   Sun Nov 6
-    13.30     Hamburger SV v Jahn Regensburg  3-1 (1-1)   @ Volksparkstadion › Hamburg
+    13:30     Hamburger SV v Jahn Regensburg  3-1 (1-1)   @ Volksparkstadion › Hamburg
               Eintracht Braunschweig v SpVgg Greuther Furth  0-1 (0-1)   @ Eintracht-Stadion › Braunschweig
               FC Nurnberg v FC Magdeburg  1-2 (0-0)   @ Max-Morlock-Stadion › Nürnberg
-» Regular Season - 16
+▪ Regular Season - 16
   Tue Nov 8
-    18.30     Hannover 96 v Fortuna Dusseldorf  2-0 (2-0)   @ Heinz von Heiden-Arena › Hannover
+    18:30     Hannover 96 v Fortuna Dusseldorf  2-0 (2-0)   @ Heinz von Heiden-Arena › Hannover
               SC Paderborn 07 v Arminia Bielefeld  0-2 (0-2)   @ Home Deluxe Arena › Paderborn
               FC St. Pauli v Holstein Kiel  0-0 (0-0)   @ Millerntor-Stadion › Hamburg
               FC Kaiserslautern v Karlsruher SC  2-0 (1-0)   @ Fritz-Walter-Stadion › Kaiserslautern
   Wed Nov 9
-    18.30     SpVgg Greuther Furth v Hamburger SV  1-0 (1-0)   @ Sportpark Ronhof Thomas Sommer › Fürth
+    18:30     SpVgg Greuther Furth v Hamburger SV  1-0 (1-0)   @ Sportpark Ronhof Thomas Sommer › Fürth
               SV Sandhausen v FC Heidenheim  3-4 (0-2)   @ BWT-Stadion am Hardtwald › Sandhausen
               Hansa Rostock v FC Nurnberg  1-1 (0-1)   @ Ostseestadion › Rostock
               Jahn Regensburg v Eintracht Braunschweig  1-1 (1-1)   @ Jahnstadion Regensburg › Regensburg
   Thu Nov 10
-    20.30     FC Magdeburg v SV Darmstadt 98  0-1 (0-0)   @ MDCC-Arena › Magdeburg
-» Regular Season - 17
+    20:30     FC Magdeburg v SV Darmstadt 98  0-1 (0-0)   @ MDCC-Arena › Magdeburg
+▪ Regular Season - 17
   Fri Nov 11
-    18.30     Holstein Kiel v Hannover 96  1-1 (1-1)   @ Holstein-Stadion › Kiel
+    18:30     Holstein Kiel v Hannover 96  1-1 (1-1)   @ Holstein-Stadion › Kiel
               Fortuna Dusseldorf v FC Kaiserslautern  1-2 (1-0)   @ Merkur Spiel-Arena › Düsseldorf
   Sat Nov 12
-    13.00     Hamburger SV v SV Sandhausen  4-2 (1-0)   @ Volksparkstadion › Hamburg
+    13:00     Hamburger SV v SV Sandhausen  4-2 (1-0)   @ Volksparkstadion › Hamburg
               FC Heidenheim v Jahn Regensburg  5-4 (3-2)   @ Voith-Arena › Heidenheim an der Brenz
               Karlsruher SC v FC St. Pauli  4-4 (3-3)   @ BBBank Wildpark › Karlsruhe
-    20.30     Eintracht Braunschweig v Hansa Rostock  0-1 (0-0)   @ Eintracht-Stadion › Braunschweig
+    20:30     Eintracht Braunschweig v Hansa Rostock  0-1 (0-0)   @ Eintracht-Stadion › Braunschweig
   Sun Nov 13
-    13.30     SV Darmstadt 98 v SpVgg Greuther Furth  1-1 (1-1)   @ Merck-Stadion am Böllenfalltor › Darmstadt
+    13:30     SV Darmstadt 98 v SpVgg Greuther Furth  1-1 (1-1)   @ Merck-Stadion am Böllenfalltor › Darmstadt
               Arminia Bielefeld v FC Magdeburg  3-1 (1-0)   @ SchücoArena › Bielefeld
               FC Nurnberg v SC Paderborn 07  2-1 (1-0)   @ Max-Morlock-Stadion › Nürnberg
-» Regular Season - 18
+▪ Regular Season - 18
   Fri Jan 27 2023
-    18.30     Fortuna Dusseldorf v FC Magdeburg  3-2 (2-1)   @ Merkur Spiel-Arena › Düsseldorf
+    18:30     Fortuna Dusseldorf v FC Magdeburg  3-2 (2-1)   @ Merkur Spiel-Arena › Düsseldorf
   Fri Jan 27
-    18.30     Karlsruher SC v SC Paderborn 07  0-1 (0-0)   @ BBBank Wildpark › Karlsruhe
+    18:30     Karlsruher SC v SC Paderborn 07  0-1 (0-0)   @ BBBank Wildpark › Karlsruhe
   Sat Jan 28
-    13.00     SV Darmstadt 98 v Jahn Regensburg  2-0 (2-0)   @ Merck-Stadion am Böllenfalltor › Darmstadt
+    13:00     SV Darmstadt 98 v Jahn Regensburg  2-0 (2-0)   @ Merck-Stadion am Böllenfalltor › Darmstadt
               Holstein Kiel v SpVgg Greuther Furth  2-1 (0-1)   @ Holstein-Stadion › Kiel
               FC Heidenheim v Hansa Rostock  2-0 (0-0)   @ Voith-Arena › Heidenheim an der Brenz
-    20.30     Hannover 96 v FC Kaiserslautern  1-3 (1-0)   @ Heinz von Heiden-Arena › Hannover
+    20:30     Hannover 96 v FC Kaiserslautern  1-3 (1-0)   @ Heinz von Heiden-Arena › Hannover
   Sun Jan 29
-    13.30     FC Nurnberg v FC St. Pauli  0-1 (0-1)   @ Max-Morlock-Stadion › Nürnberg
+    13:30     FC Nurnberg v FC St. Pauli  0-1 (0-1)   @ Max-Morlock-Stadion › Nürnberg
               Hamburger SV v Eintracht Braunschweig  4-2 (2-1)   @ Volksparkstadion › Hamburg
               Arminia Bielefeld v SV Sandhausen  1-2 (1-2)   @ SchücoArena › Bielefeld
-» Regular Season - 19
+▪ Regular Season - 19
   Fri Feb 3
-    18.30     SV Sandhausen v SV Darmstadt 98  0-4 (0-2)   @ BWT-Stadion am Hardtwald › Sandhausen
+    18:30     SV Sandhausen v SV Darmstadt 98  0-4 (0-2)   @ BWT-Stadion am Hardtwald › Sandhausen
               SC Paderborn 07 v Fortuna Dusseldorf  4-1 (1-0)   @ Home Deluxe Arena › Paderborn
   Sat Feb 4
-    13.00     Jahn Regensburg v Arminia Bielefeld  1-3 (1-1)   @ Jahnstadion Regensburg › Regensburg
+    13:00     Jahn Regensburg v Arminia Bielefeld  1-3 (1-1)   @ Jahnstadion Regensburg › Regensburg
               Eintracht Braunschweig v FC Heidenheim  2-0 (0-0)   @ Eintracht-Stadion › Braunschweig
               FC Kaiserslautern v Holstein Kiel  2-1 (1-1)   @ Fritz-Walter-Stadion › Kaiserslautern
-    20.30     SpVgg Greuther Furth v FC Nurnberg  1-0 (0-0)   @ Sportpark Ronhof Thomas Sommer › Fürth
+    20:30     SpVgg Greuther Furth v FC Nurnberg  1-0 (0-0)   @ Sportpark Ronhof Thomas Sommer › Fürth
   Sun Feb 5
-    13.30     FC St. Pauli v Hannover 96  2-0 (2-0)   @ Millerntor-Stadion › Hamburg
+    13:30     FC St. Pauli v Hannover 96  2-0 (2-0)   @ Millerntor-Stadion › Hamburg
               Hansa Rostock v Hamburger SV  0-2 (0-1)   @ Ostseestadion › Rostock
               FC Magdeburg v Karlsruher SC  1-1 (0-1)   @ MDCC-Arena › Magdeburg
-» Regular Season - 20
+▪ Regular Season - 20
   Fri Feb 10
-    18.30     Karlsruher SC v SpVgg Greuther Furth  2-1 (1-1)   @ BBBank Wildpark › Karlsruhe
+    18:30     Karlsruher SC v SpVgg Greuther Furth  2-1 (1-1)   @ BBBank Wildpark › Karlsruhe
               Arminia Bielefeld v Hansa Rostock  0-1 (0-0)   @ SchücoArena › Bielefeld
   Sat Feb 11
-    13.00     Hannover 96 v SC Paderborn 07  3-4 (2-2)   @ Heinz von Heiden-Arena › Hannover
+    13:00     Hannover 96 v SC Paderborn 07  3-4 (2-2)   @ Heinz von Heiden-Arena › Hannover
               FC Nurnberg v Jahn Regensburg  1-0 (0-0)   @ Max-Morlock-Stadion › Nürnberg
               Holstein Kiel v FC Magdeburg  2-3 (1-1)   @ Holstein-Stadion › Kiel
-    20.30     FC Heidenheim v Hamburger SV  3-3 (3-0)   @ Voith-Arena › Heidenheim an der Brenz
+    20:30     FC Heidenheim v Hamburger SV  3-3 (3-0)   @ Voith-Arena › Heidenheim an der Brenz
   Sun Feb 12
-    13.30     SV Darmstadt 98 v Eintracht Braunschweig  2-1 (0-0)   @ Merck-Stadion am Böllenfalltor › Darmstadt
+    13:30     SV Darmstadt 98 v Eintracht Braunschweig  2-1 (0-0)   @ Merck-Stadion am Böllenfalltor › Darmstadt
               FC St. Pauli v FC Kaiserslautern  1-0 (0-0)   @ Millerntor-Stadion › Hamburg
               Fortuna Dusseldorf v SV Sandhausen  2-0 (0-0)   @ Merkur Spiel-Arena › Düsseldorf
-» Regular Season - 21
+▪ Regular Season - 21
   Fri Feb 17
-    18.30     Eintracht Braunschweig v Holstein Kiel  2-3 (0-2)   @ Eintracht-Stadion › Braunschweig
+    18:30     Eintracht Braunschweig v Holstein Kiel  2-3 (0-2)   @ Eintracht-Stadion › Braunschweig
               SC Paderborn 07 v FC Kaiserslautern  1-0 (0-0)   @ Home Deluxe Arena › Paderborn
   Sat Feb 18
-    13.00     Jahn Regensburg v Hannover 96  1-1 (1-0)   @ Jahnstadion Regensburg › Regensburg
+    13:00     Jahn Regensburg v Hannover 96  1-1 (1-0)   @ Jahnstadion Regensburg › Regensburg
               SpVgg Greuther Furth v Fortuna Dusseldorf  2-1 (1-0)   @ Sportpark Ronhof Thomas Sommer › Fürth
               FC Magdeburg v FC St. Pauli  1-2 (1-0)   @ MDCC-Arena › Magdeburg
-    20.30     Hansa Rostock v SV Darmstadt 98  0-1 (0-0)   @ Ostseestadion › Rostock
+    20:30     Hansa Rostock v SV Darmstadt 98  0-1 (0-0)   @ Ostseestadion › Rostock
   Sun Feb 19
-    13.30     FC Heidenheim v FC Nurnberg  5-0 (3-0)   @ Voith-Arena › Heidenheim an der Brenz
+    13:30     FC Heidenheim v FC Nurnberg  5-0 (3-0)   @ Voith-Arena › Heidenheim an der Brenz
               SV Sandhausen v Karlsruher SC  0-3 (0-1)   @ BWT-Stadion am Hardtwald › Sandhausen
               Hamburger SV v Arminia Bielefeld  2-1 (1-0)   @ Volksparkstadion › Hamburg
-» Regular Season - 22
+▪ Regular Season - 22
   Fri Feb 24
-    18.30     Karlsruher SC v Jahn Regensburg  1-0 (1-0)   @ BBBank Wildpark › Karlsruhe
+    18:30     Karlsruher SC v Jahn Regensburg  1-0 (1-0)   @ BBBank Wildpark › Karlsruhe
               Fortuna Dusseldorf v Eintracht Braunschweig  3-1 (2-0)   @ Merkur Spiel-Arena › Düsseldorf
   Sat Feb 25
-    13.00     FC Nurnberg v SV Sandhausen  1-0 (0-0)   @ Max-Morlock-Stadion › Nürnberg
+    13:00     FC Nurnberg v SV Sandhausen  1-0 (0-0)   @ Max-Morlock-Stadion › Nürnberg
               Holstein Kiel v SC Paderborn 07  1-1 (0-1)   @ Holstein-Stadion › Kiel
               FC Kaiserslautern v SpVgg Greuther Furth  3-1 (1-0)   @ Fritz-Walter-Stadion › Kaiserslautern
-    20.30     SV Darmstadt 98 v Hamburger SV  1-1 (0-1)   @ Merck-Stadion am Böllenfalltor › Darmstadt
+    20:30     SV Darmstadt 98 v Hamburger SV  1-1 (0-1)   @ Merck-Stadion am Böllenfalltor › Darmstadt
   Sun Feb 26
-    13.30     FC St. Pauli v Hansa Rostock  1-0 (1-0)   @ Millerntor-Stadion › Hamburg
+    13:30     FC St. Pauli v Hansa Rostock  1-0 (1-0)   @ Millerntor-Stadion › Hamburg
               Arminia Bielefeld v FC Heidenheim  0-1 (0-0)   @ SchücoArena › Bielefeld
               Hannover 96 v FC Magdeburg  1-2 (0-0)   @ Heinz von Heiden-Arena › Hannover
-» Regular Season - 23
+▪ Regular Season - 23
   Fri Mar 3
-    18.30     FC Magdeburg v FC Kaiserslautern  2-0 (1-0)   @ MDCC-Arena › Magdeburg
+    18:30     FC Magdeburg v FC Kaiserslautern  2-0 (1-0)   @ MDCC-Arena › Magdeburg
               SC Paderborn 07 v FC St. Pauli  1-2 (0-2)   @ Home Deluxe Arena › Paderborn
   Sat Mar 4
-    13.00     Jahn Regensburg v Fortuna Dusseldorf  0-1 (0-0)   @ Jahnstadion Regensburg › Regensburg
+    13:00     Jahn Regensburg v Fortuna Dusseldorf  0-1 (0-0)   @ Jahnstadion Regensburg › Regensburg
               SV Sandhausen v Holstein Kiel  1-1 (0-0)   @ BWT-Stadion am Hardtwald › Sandhausen
               Hamburger SV v FC Nurnberg  3-0 (1-0)   @ Volksparkstadion › Hamburg
-    20.30     FC Heidenheim v SV Darmstadt 98  1-0 (0-0)   @ Voith-Arena › Heidenheim an der Brenz
+    20:30     FC Heidenheim v SV Darmstadt 98  1-0 (0-0)   @ Voith-Arena › Heidenheim an der Brenz
   Sun Mar 5
-    13.30     Eintracht Braunschweig v Arminia Bielefeld  3-3 (2-3)   @ Eintracht-Stadion › Braunschweig
+    13:30     Eintracht Braunschweig v Arminia Bielefeld  3-3 (2-3)   @ Eintracht-Stadion › Braunschweig
               Hansa Rostock v Karlsruher SC  0-2 (0-2)   @ Ostseestadion › Rostock
               SpVgg Greuther Furth v Hannover 96  1-1 (0-0)   @ Sportpark Ronhof Thomas Sommer › Fürth
-» Regular Season - 24
+▪ Regular Season - 24
   Fri Mar 10
-    18.30     FC Kaiserslautern v SV Sandhausen  2-2 (1-1)   @ Fritz-Walter-Stadion › Kaiserslautern
+    18:30     FC Kaiserslautern v SV Sandhausen  2-2 (1-1)   @ Fritz-Walter-Stadion › Kaiserslautern
               FC Nurnberg v Eintracht Braunschweig  2-0 (0-0)   @ Max-Morlock-Stadion › Nürnberg
   Sat Mar 11
-    13.00     FC St. Pauli v SpVgg Greuther Furth  2-1 (1-1)   @ Millerntor-Stadion › Hamburg
+    13:00     FC St. Pauli v SpVgg Greuther Furth  2-1 (1-1)   @ Millerntor-Stadion › Hamburg
               Arminia Bielefeld v SV Darmstadt 98  3-1 (0-0)   @ SchücoArena › Bielefeld
               FC Magdeburg v SC Paderborn 07  0-0 (0-0)   @ MDCC-Arena › Magdeburg
-    20.30     Fortuna Dusseldorf v FC Heidenheim  1-1 (1-1)   @ Merkur Spiel-Arena › Düsseldorf
+    20:30     Fortuna Dusseldorf v FC Heidenheim  1-1 (1-1)   @ Merkur Spiel-Arena › Düsseldorf
   Sun Mar 12
-    13.30     Holstein Kiel v Jahn Regensburg  1-2 (1-1)   @ Holstein-Stadion › Kiel
+    13:30     Holstein Kiel v Jahn Regensburg  1-2 (1-1)   @ Holstein-Stadion › Kiel
               Karlsruher SC v Hamburger SV  4-2 (3-0)   @ BBBank Wildpark › Karlsruhe
               Hannover 96 v Hansa Rostock  1-1 (0-1)   @ Heinz von Heiden-Arena › Hannover
-» Regular Season - 25
+▪ Regular Season - 25
   Fri Mar 17
-    18.30     FC Heidenheim v Karlsruher SC  5-2 (2-2)   @ Voith-Arena › Heidenheim an der Brenz
+    18:30     FC Heidenheim v Karlsruher SC  5-2 (2-2)   @ Voith-Arena › Heidenheim an der Brenz
               Arminia Bielefeld v FC Nurnberg  2-2 (2-0)   @ SchücoArena › Bielefeld
   Sat Mar 18
-    13.00     Jahn Regensburg v SC Paderborn 07  1-0 (0-0)   @ Jahnstadion Regensburg › Regensburg
+    13:00     Jahn Regensburg v SC Paderborn 07  1-0 (0-0)   @ Jahnstadion Regensburg › Regensburg
               SpVgg Greuther Furth v FC Magdeburg  3-0 (0-0)   @ Sportpark Ronhof Thomas Sommer › Fürth
               Hamburger SV v Holstein Kiel  0-0 (0-0)   @ Volksparkstadion › Hamburg
-    20.30     SV Darmstadt 98 v FC Kaiserslautern  2-0 (2-0)   @ Merck-Stadion am Böllenfalltor › Darmstadt
+    20:30     SV Darmstadt 98 v FC Kaiserslautern  2-0 (2-0)   @ Merck-Stadion am Böllenfalltor › Darmstadt
   Sun Mar 19
-    13.30     SV Sandhausen v FC St. Pauli  0-5 (0-4)   @ BWT-Stadion am Hardtwald › Sandhausen
+    13:30     SV Sandhausen v FC St. Pauli  0-5 (0-4)   @ BWT-Stadion am Hardtwald › Sandhausen
               Eintracht Braunschweig v Hannover 96  1-0 (0-0)   @ Eintracht-Stadion › Braunschweig
               Hansa Rostock v Fortuna Dusseldorf  2-5 (0-3)   @ Ostseestadion › Rostock
-» Regular Season - 26
+▪ Regular Season - 26
   Fri Mar 31
-    18.30     FC Nurnberg v SV Darmstadt 98  0-1 (0-1)   @ Max-Morlock-Stadion › Nürnberg
+    18:30     FC Nurnberg v SV Darmstadt 98  0-1 (0-1)   @ Max-Morlock-Stadion › Nürnberg
               Fortuna Dusseldorf v Hamburger SV  2-2 (2-1)   @ Merkur Spiel-Arena › Düsseldorf
   Sat Apr 1
-    13.00     FC St. Pauli v Jahn Regensburg  1-0 (1-0)   @ Millerntor-Stadion › Hamburg
+    13:00     FC St. Pauli v Jahn Regensburg  1-0 (1-0)   @ Millerntor-Stadion › Hamburg
               Karlsruher SC v Eintracht Braunschweig  1-1 (0-1)   @ BBBank Wildpark › Karlsruhe
               Hannover 96 v SV Sandhausen  3-1 (1-1)   @ Heinz von Heiden-Arena › Hannover
-    20.30     FC Kaiserslautern v FC Heidenheim  2-2 (0-0)   @ Fritz-Walter-Stadion › Kaiserslautern
+    20:30     FC Kaiserslautern v FC Heidenheim  2-2 (0-0)   @ Fritz-Walter-Stadion › Kaiserslautern
   Sun Apr 2
-    13.30     FC Magdeburg v Hansa Rostock  3-0 (1-0)   @ MDCC-Arena › Magdeburg
+    13:30     FC Magdeburg v Hansa Rostock  3-0 (1-0)   @ MDCC-Arena › Magdeburg
               SC Paderborn 07 v SpVgg Greuther Furth  3-2 (1-0)   @ Home Deluxe Arena › Paderborn
               Holstein Kiel v Arminia Bielefeld  2-3 (1-2)   @ Holstein-Stadion › Kiel
-» Regular Season - 27
+▪ Regular Season - 27
   Sat Apr 8
-    13.00     Hamburger SV v Hannover 96  6-1 (2-0)   @ Volksparkstadion › Hamburg
+    13:00     Hamburger SV v Hannover 96  6-1 (2-0)   @ Volksparkstadion › Hamburg
               Eintracht Braunschweig v FC Kaiserslautern  1-0 (0-0)   @ Eintracht-Stadion › Braunschweig
               FC Nurnberg v Karlsruher SC  1-1 (0-1)   @ Max-Morlock-Stadion › Nürnberg
-    20.30     FC Heidenheim v FC St. Pauli  0-1 (0-1)   @ Voith-Arena › Heidenheim an der Brenz
+    20:30     FC Heidenheim v FC St. Pauli  0-1 (0-1)   @ Voith-Arena › Heidenheim an der Brenz
   Sun Apr 9
-    13.30     Jahn Regensburg v FC Magdeburg  2-2 (0-1)   @ Jahnstadion Regensburg › Regensburg
+    13:30     Jahn Regensburg v FC Magdeburg  2-2 (0-1)   @ Jahnstadion Regensburg › Regensburg
               SV Darmstadt 98 v SC Paderborn 07  2-1 (1-1)   @ Merck-Stadion am Böllenfalltor › Darmstadt
               Arminia Bielefeld v Fortuna Dusseldorf  2-2 (1-0)   @ SchücoArena › Bielefeld
               SV Sandhausen v SpVgg Greuther Furth  0-2 (0-2)   @ BWT-Stadion am Hardtwald › Sandhausen
               Hansa Rostock v Holstein Kiel  2-3 (1-2)   @ Ostseestadion › Rostock
-» Regular Season - 28
+▪ Regular Season - 28
   Fri Apr 14
-    18.30     Hannover 96 v FC Heidenheim  0-3 (0-3)   @ Heinz von Heiden-Arena › Hannover
+    18:30     Hannover 96 v FC Heidenheim  0-3 (0-3)   @ Heinz von Heiden-Arena › Hannover
               SpVgg Greuther Furth v Jahn Regensburg  2-1 (0-0)   @ Sportpark Ronhof Thomas Sommer › Fürth
   Sat Apr 15
-    13.00     SC Paderborn 07 v Hansa Rostock  3-0 (0-0)   @ Home Deluxe Arena › Paderborn
+    13:00     SC Paderborn 07 v Hansa Rostock  3-0 (0-0)   @ Home Deluxe Arena › Paderborn
               Holstein Kiel v FC Nurnberg  2-1 (2-0)   @ Holstein-Stadion › Kiel
               FC Magdeburg v SV Sandhausen  1-2 (0-1)   @ MDCC-Arena › Magdeburg
-    20.30     FC Kaiserslautern v Hamburger SV  2-0 (0-0)   @ Fritz-Walter-Stadion › Kaiserslautern
+    20:30     FC Kaiserslautern v Hamburger SV  2-0 (0-0)   @ Fritz-Walter-Stadion › Kaiserslautern
   Sun Apr 16
-    13.30     FC St. Pauli v Eintracht Braunschweig  1-2 (0-2)   @ Millerntor-Stadion › Hamburg
+    13:30     FC St. Pauli v Eintracht Braunschweig  1-2 (0-2)   @ Millerntor-Stadion › Hamburg
               Karlsruher SC v Arminia Bielefeld  4-2 (0-1)   @ BBBank Wildpark › Karlsruhe
               Fortuna Dusseldorf v SV Darmstadt 98  1-0 (0-0)   @ Merkur Spiel-Arena › Düsseldorf
-» Regular Season - 29
+▪ Regular Season - 29
   Fri Apr 21
-    18.30     Hamburger SV v FC St. Pauli  4-3 (1-1)   @ Volksparkstadion › Hamburg
+    18:30     Hamburger SV v FC St. Pauli  4-3 (1-1)   @ Volksparkstadion › Hamburg
               SV Darmstadt 98 v Karlsruher SC  2-1 (1-1)   @ Merck-Stadion am Böllenfalltor › Darmstadt
   Sat Apr 22
-    13.00     Arminia Bielefeld v Hannover 96  1-3 (1-2)   @ SchücoArena › Bielefeld
+    13:00     Arminia Bielefeld v Hannover 96  1-3 (1-2)   @ SchücoArena › Bielefeld
               Hansa Rostock v SpVgg Greuther Furth  2-0 (0-0)   @ Ostseestadion › Rostock
               FC Nurnberg v Fortuna Dusseldorf  2-0 (1-0)   @ Max-Morlock-Stadion › Nürnberg
-    20.30     Eintracht Braunschweig v FC Magdeburg  1-2 (0-1)   @ Eintracht-Stadion › Braunschweig
+    20:30     Eintracht Braunschweig v FC Magdeburg  1-2 (0-1)   @ Eintracht-Stadion › Braunschweig
   Sun Apr 23
-    13.30     FC Heidenheim v Holstein Kiel  3-0 (1-0)   @ Voith-Arena › Heidenheim an der Brenz
+    13:30     FC Heidenheim v Holstein Kiel  3-0 (1-0)   @ Voith-Arena › Heidenheim an der Brenz
               SV Sandhausen v SC Paderborn 07  2-2 (1-2)   @ BWT-Stadion am Hardtwald › Sandhausen
               Jahn Regensburg v FC Kaiserslautern  0-0 (0-0)   @ Jahnstadion Regensburg › Regensburg
-» Regular Season - 30
+▪ Regular Season - 30
   Fri Apr 28
-    18.30     SpVgg Greuther Furth v FC Heidenheim  0-2 (0-1)   @ Sportpark Ronhof Thomas Sommer › Fürth
+    18:30     SpVgg Greuther Furth v FC Heidenheim  0-2 (0-1)   @ Sportpark Ronhof Thomas Sommer › Fürth
               SC Paderborn 07 v Eintracht Braunschweig  5-1 (2-0)   @ Home Deluxe Arena › Paderborn
   Sat Apr 29
-    13.00     FC St. Pauli v Arminia Bielefeld  2-1 (0-0)   @ Millerntor-Stadion › Hamburg
+    13:00     FC St. Pauli v Arminia Bielefeld  2-1 (0-0)   @ Millerntor-Stadion › Hamburg
               FC Kaiserslautern v Hansa Rostock  0-1 (0-1)   @ Fritz-Walter-Stadion › Kaiserslautern
               FC Magdeburg v Hamburger SV  3-2 (1-1)   @ MDCC-Arena › Magdeburg
-    20.30     Hannover 96 v FC Nurnberg  3-0 (1-0)   @ Heinz von Heiden-Arena › Hannover
+    20:30     Hannover 96 v FC Nurnberg  3-0 (1-0)   @ Heinz von Heiden-Arena › Hannover
   Sun Apr 30
-    13.30     SV Sandhausen v Jahn Regensburg  2-1 (1-0)   @ BWT-Stadion am Hardtwald › Sandhausen
+    13:30     SV Sandhausen v Jahn Regensburg  2-1 (1-0)   @ BWT-Stadion am Hardtwald › Sandhausen
               Holstein Kiel v SV Darmstadt 98  0-3 (0-2)   @ Holstein-Stadion › Kiel
               Fortuna Dusseldorf v Karlsruher SC  3-2 (1-1)   @ Merkur Spiel-Arena › Düsseldorf
-» Regular Season - 31
+▪ Regular Season - 31
   Fri May 5
-    18.30     Hamburger SV v SC Paderborn 07  2-2 (1-1)   @ Volksparkstadion › Hamburg
+    18:30     Hamburger SV v SC Paderborn 07  2-2 (1-1)   @ Volksparkstadion › Hamburg
               Arminia Bielefeld v SpVgg Greuther Furth  1-1 (1-1)   @ SchücoArena › Bielefeld
   Sat May 6
-    13.00     Karlsruher SC v Hannover 96  2-1 (2-1)   @ BBBank Wildpark › Karlsruhe
+    13:00     Karlsruher SC v Hannover 96  2-1 (2-1)   @ BBBank Wildpark › Karlsruhe
               Hansa Rostock v Jahn Regensburg  2-0 (1-0)   @ Ostseestadion › Rostock
               Fortuna Dusseldorf v Holstein Kiel  3-0 (3-0)   @ Merkur Spiel-Arena › Düsseldorf
-    20.30     SV Darmstadt 98 v FC St. Pauli  0-3 (0-1)   @ Merck-Stadion am Böllenfalltor › Darmstadt
+    20:30     SV Darmstadt 98 v FC St. Pauli  0-3 (0-1)   @ Merck-Stadion am Böllenfalltor › Darmstadt
   Sun May 7
-    13.30     FC Nurnberg v FC Kaiserslautern  3-3 (2-1)   @ Max-Morlock-Stadion › Nürnberg
+    13:30     FC Nurnberg v FC Kaiserslautern  3-3 (2-1)   @ Max-Morlock-Stadion › Nürnberg
               FC Heidenheim v FC Magdeburg  0-0 (0-0)   @ Voith-Arena › Heidenheim an der Brenz
               Eintracht Braunschweig v SV Sandhausen  2-1 (0-0)   @ Eintracht-Stadion › Braunschweig
-» Regular Season - 32
+▪ Regular Season - 32
   Fri May 12
-    18.30     SV Sandhausen v Hansa Rostock  1-2 (0-2)   @ BWT-Stadion am Hardtwald › Sandhausen
+    18:30     SV Sandhausen v Hansa Rostock  1-2 (0-2)   @ BWT-Stadion am Hardtwald › Sandhausen
               FC Magdeburg v FC Nurnberg  2-2 (1-0)   @ MDCC-Arena › Magdeburg
   Sat May 13
-    13.00     SpVgg Greuther Furth v Eintracht Braunschweig  2-2 (1-1)   @ Sportpark Ronhof Thomas Sommer › Fürth
+    13:00     SpVgg Greuther Furth v Eintracht Braunschweig  2-2 (1-1)   @ Sportpark Ronhof Thomas Sommer › Fürth
               Holstein Kiel v Karlsruher SC  2-1 (1-0)   @ Holstein-Stadion › Kiel
               FC Kaiserslautern v Arminia Bielefeld  1-2 (0-1)   @ Fritz-Walter-Stadion › Kaiserslautern
-    20.30     FC St. Pauli v Fortuna Dusseldorf  0-0 (0-0)   @ Millerntor-Stadion › Hamburg
+    20:30     FC St. Pauli v Fortuna Dusseldorf  0-0 (0-0)   @ Millerntor-Stadion › Hamburg
   Sun May 14
-    13.30     Jahn Regensburg v Hamburger SV  1-5 (0-4)   @ Jahnstadion Regensburg › Regensburg
+    13:30     Jahn Regensburg v Hamburger SV  1-5 (0-4)   @ Jahnstadion Regensburg › Regensburg
               SC Paderborn 07 v FC Heidenheim  3-2 (1-2)   @ Home Deluxe Arena › Paderborn
               Hannover 96 v SV Darmstadt 98  2-1 (2-1)   @ Heinz von Heiden-Arena › Hannover
-» Regular Season - 33
+▪ Regular Season - 33
   Fri May 19
-    18.30     Holstein Kiel v FC St. Pauli  3-4 (1-1)   @ Holstein-Stadion › Kiel
+    18:30     Holstein Kiel v FC St. Pauli  3-4 (1-1)   @ Holstein-Stadion › Kiel
               SV Darmstadt 98 v FC Magdeburg  1-0 (1-0)   @ Merck-Stadion am Böllenfalltor › Darmstadt
   Sat May 20
-    13.00     FC Heidenheim v SV Sandhausen  1-0 (0-0)   @ Voith-Arena › Heidenheim an der Brenz
+    13:00     FC Heidenheim v SV Sandhausen  1-0 (0-0)   @ Voith-Arena › Heidenheim an der Brenz
               Arminia Bielefeld v SC Paderborn 07  2-2 (2-1)   @ SchücoArena › Bielefeld
               Eintracht Braunschweig v Jahn Regensburg  1-2 (1-1)   @ Eintracht-Stadion › Braunschweig
-    20.30     Hamburger SV v SpVgg Greuther Furth  2-1 (1-0)   @ Volksparkstadion › Hamburg
+    20:30     Hamburger SV v SpVgg Greuther Furth  2-1 (1-0)   @ Volksparkstadion › Hamburg
   Sun May 21
-    13.30     FC Nurnberg v Hansa Rostock  0-0 (0-0)   @ Max-Morlock-Stadion › Nürnberg
+    13:30     FC Nurnberg v Hansa Rostock  0-0 (0-0)   @ Max-Morlock-Stadion › Nürnberg
               Karlsruher SC v FC Kaiserslautern  2-0 (0-0)   @ BBBank Wildpark › Karlsruhe
               Fortuna Dusseldorf v Hannover 96  3-3 (1-2)   @ Merkur Spiel-Arena › Düsseldorf
-» Regular Season - 34
+▪ Regular Season - 34
   Sun May 28
-    15.30     Hannover 96 v Holstein Kiel  1-5 (0-3)   @ Heinz von Heiden-Arena › Hannover
+    15:30     Hannover 96 v Holstein Kiel  1-5 (0-3)   @ Heinz von Heiden-Arena › Hannover
               Jahn Regensburg v FC Heidenheim  2-3 (0-0)   @ Jahnstadion Regensburg › Regensburg
               SpVgg Greuther Furth v SV Darmstadt 98  4-0 (0-0)   @ Sportpark Ronhof Thomas Sommer › Fürth
               FC Magdeburg v Arminia Bielefeld  4-0 (2-0)   @ MDCC-Arena › Magdeburg
@@ -446,8 +446,8 @@
               SV Sandhausen v Hamburger SV  0-1 (0-1)   @ BWT-Stadion am Hardtwald › Sandhausen
               FC Kaiserslautern v Fortuna Dusseldorf  0-3 (0-1)   @ Fritz-Walter-Stadion › Kaiserslautern
               Hansa Rostock v Eintracht Braunschweig  2-1 (0-0)   @ Ostseestadion › Rostock
-» Relegation Round
+▪ Relegation Round
   Fri Jun 2
-    20.45     SV Wehen v Arminia Bielefeld  4-0 (1-0)   @ BRITA-Arena › Wiesbaden
+    20:45     SV Wehen v Arminia Bielefeld  4-0 (1-0)   @ BRITA-Arena › Wiesbaden
   Tue Jun 6
-    20.45     Arminia Bielefeld v SV Wehen  1-2 (1-2)   @ SchücoArena › Bielefeld
+    20:45     Arminia Bielefeld v SV Wehen  1-2 (1-2)   @ SchücoArena › Bielefeld

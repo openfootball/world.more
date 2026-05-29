@@ -1,502 +1,502 @@
 = Italy | Serie B 2021/22
 
-  # Date       Fri Aug/20 2021 - Sun May/29 2022 (282d)
+  # Date       Fri Aug 20 2021 - Sun May 29 2022 (282d)
   # Teams      20
   # Matches    390
 
   # Note - All times in Europe/Rome
 
-» Regular Season - 1
+▪ Regular Season - 1
   Fri Aug 20 2021
-    20.30     Frosinone v Parma  2-2 (1-1)   @ Stadio Benito Stirpe › Frosinone
+    20:30     Frosinone v Parma  2-2 (1-1)   @ Stadio Benito Stirpe › Frosinone
   Sat Aug 21
-    18.00     Pordenone v Perugia  0-1 (0-1)   @ Stadio Guido Teghil › Lignano Sabbiadoro
-    20.30     Cittadella v Vicenza Virtus  1-0 (0-0)   @ Stadio Pier Cesare Tombolato › Cittadella
+    18:00     Pordenone v Perugia  0-1 (0-1)   @ Stadio Guido Teghil › Lignano Sabbiadoro
+    20:30     Cittadella v Vicenza Virtus  1-0 (0-0)   @ Stadio Pier Cesare Tombolato › Cittadella
   Sun Aug 22
-    18.00     Reggina v Monza  0-0 (0-0)   @ Stadio Oreste Granillo › Reggio Calabria
+    18:00     Reggina v Monza  0-0 (0-0)   @ Stadio Oreste Granillo › Reggio Calabria
               Ternana v Brescia  0-2 (0-2)   @ Stadio Libero Liberati › Terni
-    20.30     Crotone v como  2-2 (0-0)   @ Stadio Ezio Scida › Crotone
+    20:30     Crotone v como  2-2 (0-0)   @ Stadio Ezio Scida › Crotone
               Benevento v Alessandria  4-3 (2-2)   @ Stadio Ciro Vigorito › Benevento
               Ascoli v Nuova Cosenza  1-0 (1-0)   @ Stadio Cino e Lillo Del Duca › Ascoli Piceno
               Cremonese v Lecce  3-0 (0-0)   @ Stadio Giovanni Zini › Cremona
               Pisa v Spal  1-0 (1-0)   @ Arena Garibaldi-Stadio Romeo Anconetani › Pisa
-» Regular Season - 2
+▪ Regular Season - 2
   Fri Aug 27
-    18.00     Pisa v Alessandria  2-0 (0-0)   @ Arena Garibaldi-Stadio Romeo Anconetani › Pisa
-    20.30     Brescia v Nuova Cosenza  5-1 (2-0)   @ Stadio Mario Rigamonti › Brescia
+    18:00     Pisa v Alessandria  2-0 (0-0)   @ Arena Garibaldi-Stadio Romeo Anconetani › Pisa
+    20:30     Brescia v Nuova Cosenza  5-1 (2-0)   @ Stadio Mario Rigamonti › Brescia
   Sat Aug 28
-    18.00     Vicenza Virtus v Frosinone  0-2 (0-0)   @ Stadio Romeo Menti › Vicenza
-    20.30     Perugia v Ascoli  2-3 (1-1)   @ Stadio Renato Curi › Perugia
+    18:00     Vicenza Virtus v Frosinone  0-2 (0-0)   @ Stadio Romeo Menti › Vicenza
+    20:30     Perugia v Ascoli  2-3 (1-1)   @ Stadio Renato Curi › Perugia
   Sun Aug 29
-    18.00     Cittadella v Crotone  4-2 (1-1)   @ Stadio Pier Cesare Tombolato › Cittadella
-    20.30     Spal v Pordenone  5-0 (3-0)   @ Stadio Paolo Mazza › Ferrara
+    18:00     Cittadella v Crotone  4-2 (1-1)   @ Stadio Pier Cesare Tombolato › Cittadella
+    20:30     Spal v Pordenone  5-0 (3-0)   @ Stadio Paolo Mazza › Ferrara
               Parma v Benevento  1-0 (0-0)   @ Stadio Ennio Tardini › Parma
               Lecce v como  1-1 (1-1)   @ Stadio Comunale Via del Mare › Lecce
               Monza v Cremonese  1-0 (0-0)   @ U-Power Stadium › Monza
               Reggina v Ternana  3-2 (0-1)   @ Stadio Oreste Granillo › Reggio Calabria
-» Regular Season - 3
+▪ Regular Season - 3
   Fri Sep 10
-    20.30     Benevento v Lecce  0-0 (0-0)   @ Stadio Ciro Vigorito › Benevento
+    20:30     Benevento v Lecce  0-0 (0-0)   @ Stadio Ciro Vigorito › Benevento
   Sat Sep 11
-    14.00     Spal v Monza  1-1 (1-0)   @ Stadio Paolo Mazza › Ferrara
+    14:00     Spal v Monza  1-1 (1-0)   @ Stadio Paolo Mazza › Ferrara
               Frosinone v Perugia  0-0 (0-0)   @ Stadio Benito Stirpe › Frosinone
               Alessandria v Brescia  1-3 (0-0)   @ Stadio Giuseppe Moccagatta › Alessandria
               como v Ascoli  0-1 (0-0)   @ Stadio Giuseppe Sinigaglia › Como
-    16.15     Ternana v Pisa  1-4 (1-2)   @ Stadio Libero Liberati › Terni
-    18.30     Crotone v Reggina  1-1 (0-1)   @ Stadio Ezio Scida › Crotone
+    16:15     Ternana v Pisa  1-4 (1-2)   @ Stadio Libero Liberati › Terni
+    18:30     Crotone v Reggina  1-1 (0-1)   @ Stadio Ezio Scida › Crotone
   Sun Sep 12
-    14.00     Nuova Cosenza v Vicenza Virtus  2-1 (1-0)   @ Stadio San Vito-Luigi Marulla › Cosenza
-    16.15     Cremonese v Cittadella  2-0 (1-0)   @ Stadio Giovanni Zini › Cremona
-    20.30     Pordenone v Parma  0-4 (0-2)   @ Stadio Guido Teghil › Lignano Sabbiadoro
-» Regular Season - 4
+    14:00     Nuova Cosenza v Vicenza Virtus  2-1 (1-0)   @ Stadio San Vito-Luigi Marulla › Cosenza
+    16:15     Cremonese v Cittadella  2-0 (1-0)   @ Stadio Giovanni Zini › Cremona
+    20:30     Pordenone v Parma  0-4 (0-2)   @ Stadio Guido Teghil › Lignano Sabbiadoro
+▪ Regular Season - 4
   Fri Sep 17
-    18.00     como v Frosinone  0-2 (0-2)   @ Stadio Giuseppe Sinigaglia › Como
-    20.30     Brescia v Crotone  2-2 (1-0)   @ Stadio Mario Rigamonti › Brescia
+    18:00     como v Frosinone  0-2 (0-2)   @ Stadio Giuseppe Sinigaglia › Como
+    20:30     Brescia v Crotone  2-2 (1-0)   @ Stadio Mario Rigamonti › Brescia
   Sat Sep 18
-    14.00     Ascoli v Benevento  0-2 (0-2)   @ Stadio Cino e Lillo Del Duca › Ascoli Piceno
+    14:00     Ascoli v Benevento  0-2 (0-2)   @ Stadio Cino e Lillo Del Duca › Ascoli Piceno
               Perugia v Nuova Cosenza  1-1 (0-0)   @ Stadio Renato Curi › Perugia
               Lecce v Alessandria  3-2 (1-1)   @ Stadio Comunale Via del Mare › Lecce
               Monza v Ternana  1-1 (1-0)   @ U-Power Stadium › Monza
               Reggina v Spal  2-1 (1-1)   @ Stadio Oreste Granillo › Reggio Calabria
-    16.15     Vicenza Virtus v Pisa  1-3 (1-1)   @ Stadio Romeo Menti › Vicenza
-    18.30     Cittadella v Pordenone  1-0 (0-0)   @ Stadio Pier Cesare Tombolato › Cittadella
+    16:15     Vicenza Virtus v Pisa  1-3 (1-1)   @ Stadio Romeo Menti › Vicenza
+    18:30     Cittadella v Pordenone  1-0 (0-0)   @ Stadio Pier Cesare Tombolato › Cittadella
   Sun Sep 19
-    20.30     Parma v Cremonese  1-2 (0-2)   @ Stadio Ennio Tardini › Parma
-» Regular Season - 5
+    20:30     Parma v Cremonese  1-2 (0-2)   @ Stadio Ennio Tardini › Parma
+▪ Regular Season - 5
   Mon Sep 20
-    20.30     Frosinone v Brescia  2-2 (2-1)   @ Stadio Benito Stirpe › Frosinone
+    20:30     Frosinone v Brescia  2-2 (2-1)   @ Stadio Benito Stirpe › Frosinone
   Tue Sep 21
-    18.00     Alessandria v Ascoli  1-3 (0-2)   @ Stadio Giuseppe Moccagatta › Alessandria
+    18:00     Alessandria v Ascoli  1-3 (0-2)   @ Stadio Giuseppe Moccagatta › Alessandria
               Benevento v Cittadella  4-1 (1-1)   @ Stadio Ciro Vigorito › Benevento
-    20.30     Spal v Vicenza Virtus  3-2 (1-1)   @ Stadio Paolo Mazza › Ferrara
+    20:30     Spal v Vicenza Virtus  3-2 (1-1)   @ Stadio Paolo Mazza › Ferrara
               Crotone v Lecce  0-3 (0-2)   @ Stadio Ezio Scida › Crotone
               Pisa v Monza  2-1 (1-0)   @ Arena Garibaldi-Stadio Romeo Anconetani › Pisa
               Pordenone v Reggina  1-1 (1-0)   @ Stadio Guido Teghil › Lignano Sabbiadoro
               Nuova Cosenza v como  2-0 (1-0)   @ Stadio San Vito-Luigi Marulla › Cosenza
   Wed Sep 22
-    18.00     Ternana v Parma  3-1 (0-0)   @ Stadio Libero Liberati › Terni
-    20.30     Cremonese v Perugia  0-3 (0-2)   @ Stadio Giovanni Zini › Cremona
-» Regular Season - 6
+    18:00     Ternana v Parma  3-1 (0-0)   @ Stadio Libero Liberati › Terni
+    20:30     Cremonese v Perugia  0-3 (0-2)   @ Stadio Giovanni Zini › Cremona
+▪ Regular Season - 6
   Sat Sep 25
-    14.00     Ascoli v Brescia  2-3 (2-1)   @ Stadio Cino e Lillo Del Duca › Ascoli Piceno
+    14:00     Ascoli v Brescia  2-3 (2-1)   @ Stadio Cino e Lillo Del Duca › Ascoli Piceno
               Cittadella v Lecce  1-2 (1-1)   @ Stadio Pier Cesare Tombolato › Cittadella
               como v Benevento  1-1 (1-1)   @ Stadio Giuseppe Sinigaglia › Como
               Monza v Pordenone  3-1 (1-1)   @ U-Power Stadium › Monza
-    16.15     Reggina v Frosinone  0-0 (0-0)   @ Stadio Oreste Granillo › Reggio Calabria
-    18.30     Nuova Cosenza v Crotone  1-0 (0-0)   @ Stadio San Vito-Luigi Marulla › Cosenza
+    16:15     Reggina v Frosinone  0-0 (0-0)   @ Stadio Oreste Granillo › Reggio Calabria
+    18:30     Nuova Cosenza v Crotone  1-0 (0-0)   @ Stadio San Vito-Luigi Marulla › Cosenza
   Sun Sep 26
-    14.00     Perugia v Alessandria  1-1 (1-1)   @ Stadio Renato Curi › Perugia
-    16.15     Parma v Pisa  1-1 (0-1)   @ Stadio Ennio Tardini › Parma
-    20.30     Ternana v Spal  1-0 (1-0)   @ Stadio Libero Liberati › Terni
+    14:00     Perugia v Alessandria  1-1 (1-1)   @ Stadio Renato Curi › Perugia
+    16:15     Parma v Pisa  1-1 (0-1)   @ Stadio Ennio Tardini › Parma
+    20:30     Ternana v Spal  1-0 (1-0)   @ Stadio Libero Liberati › Terni
               Vicenza Virtus v Cremonese  0-1 (0-1)   @ Stadio Romeo Menti › Vicenza
-» Regular Season - 7
+▪ Regular Season - 7
   Fri Oct 1
-    20.30     Lecce v Monza  3-0 (1-0)   @ Stadio Comunale Via del Mare › Lecce
+    20:30     Lecce v Monza  3-0 (1-0)   @ Stadio Comunale Via del Mare › Lecce
   Sat Oct 2
-    14.00     Frosinone v Cittadella  0-1 (0-0)   @ Stadio Benito Stirpe › Frosinone
+    14:00     Frosinone v Cittadella  0-1 (0-0)   @ Stadio Benito Stirpe › Frosinone
               Cremonese v Ternana  2-0 (1-0)   @ Stadio Giovanni Zini › Cremona
               Alessandria v Nuova Cosenza  1-0 (0-0)   @ Stadio Giuseppe Moccagatta › Alessandria
               Crotone v Ascoli  2-2 (2-1)   @ Stadio Ezio Scida › Crotone
-    16.15     Pisa v Reggina  2-0 (1-0)   @ Arena Garibaldi-Stadio Romeo Anconetani › Pisa
-    18.30     Spal v Parma  2-2 (0-1)   @ Stadio Paolo Mazza › Ferrara
+    16:15     Pisa v Reggina  2-0 (1-0)   @ Arena Garibaldi-Stadio Romeo Anconetani › Pisa
+    18:30     Spal v Parma  2-2 (0-1)   @ Stadio Paolo Mazza › Ferrara
   Sun Oct 3
-    14.00     Brescia v como  2-4 (1-1)   @ Stadio Mario Rigamonti › Brescia
-    16.15     Pordenone v Vicenza Virtus  2-4 (1-2)   @ Stadio Guido Teghil › Lignano Sabbiadoro
-    20.30     Benevento v Perugia  0-0 (0-0)   @ Stadio Benito Stirpe › Frosinone
-» Regular Season - 8
+    14:00     Brescia v como  2-4 (1-1)   @ Stadio Mario Rigamonti › Brescia
+    16:15     Pordenone v Vicenza Virtus  2-4 (1-2)   @ Stadio Guido Teghil › Lignano Sabbiadoro
+    20:30     Benevento v Perugia  0-0 (0-0)   @ Stadio Benito Stirpe › Frosinone
+▪ Regular Season - 8
   Sat Oct 16
-    14.00     Crotone v Pisa  2-1 (2-1)   @ Stadio Ezio Scida › Crotone
+    14:00     Crotone v Pisa  2-1 (2-1)   @ Stadio Ezio Scida › Crotone
               Ascoli v Lecce  1-1 (0-1)   @ Stadio Cino e Lillo Del Duca › Ascoli Piceno
               Pordenone v Ternana  1-3 (0-2)   @ Stadio Guido Teghil › Lignano Sabbiadoro
               Vicenza Virtus v Reggina  0-1 (0-1)   @ Stadio Paolo Mazza › Ferrara
-    16.15     Nuova Cosenza v Frosinone  1-1 (1-0)   @ Stadio San Vito-Luigi Marulla › Cosenza
+    16:15     Nuova Cosenza v Frosinone  1-1 (1-0)   @ Stadio San Vito-Luigi Marulla › Cosenza
               Perugia v Brescia  1-0 (1-0)   @ Stadio Renato Curi › Perugia
-    18.30     como v Alessandria  2-0 (0-0)   @ Stadio Giuseppe Sinigaglia › Como
+    18:30     como v Alessandria  2-0 (0-0)   @ Stadio Giuseppe Sinigaglia › Como
   Sun Oct 17
-    14.00     Cremonese v Benevento  1-1 (0-1)   @ Stadio Giovanni Zini › Cremona
-    16.15     Parma v Monza  0-0 (0-0)   @ Stadio Ennio Tardini › Parma
-    20.30     Cittadella v Spal  0-0 (0-0)   @ Stadio Pier Cesare Tombolato › Cittadella
-» Regular Season - 9
+    14:00     Cremonese v Benevento  1-1 (0-1)   @ Stadio Giovanni Zini › Cremona
+    16:15     Parma v Monza  0-0 (0-0)   @ Stadio Ennio Tardini › Parma
+    20:30     Cittadella v Spal  0-0 (0-0)   @ Stadio Pier Cesare Tombolato › Cittadella
+▪ Regular Season - 9
   Fri Oct 22
-    20.30     Alessandria v Crotone  1-0 (1-0)   @ Stadio Giuseppe Moccagatta › Alessandria
+    20:30     Alessandria v Crotone  1-0 (1-0)   @ Stadio Giuseppe Moccagatta › Alessandria
   Sat Oct 23
-    14.00     Benevento v Nuova Cosenza  3-0 (1-0)   @ Stadio Ciro Vigorito › Benevento
+    14:00     Benevento v Nuova Cosenza  3-0 (1-0)   @ Stadio Ciro Vigorito › Benevento
               Ternana v Vicenza Virtus  5-0 (2-0)   @ Stadio Libero Liberati › Terni
               Lecce v Perugia  0-0 (0-0)   @ Stadio Comunale Via del Mare › Lecce
               Monza v Cittadella  1-0 (0-0)   @ U-Power Stadium › Monza
-    16.15     Frosinone v Ascoli  2-1 (1-0)   @ Stadio Benito Stirpe › Frosinone
-    18.30     Brescia v Cremonese  1-0 (0-0)   @ Stadio Mario Rigamonti › Brescia
+    16:15     Frosinone v Ascoli  2-1 (1-0)   @ Stadio Benito Stirpe › Frosinone
+    18:30     Brescia v Cremonese  1-0 (0-0)   @ Stadio Mario Rigamonti › Brescia
   Sun Oct 24
-    14.00     Pisa v Pordenone  1-1 (0-0)   @ Arena Garibaldi-Stadio Romeo Anconetani › Pisa
-    16.15     Reggina v Parma  2-1 (1-0)   @ Stadio Oreste Granillo › Reggio Calabria
-    20.30     Spal v como  1-1 (0-1)   @ Stadio Paolo Mazza › Ferrara
-» Regular Season - 10
+    14:00     Pisa v Pordenone  1-1 (0-0)   @ Arena Garibaldi-Stadio Romeo Anconetani › Pisa
+    16:15     Reggina v Parma  2-1 (1-0)   @ Stadio Oreste Granillo › Reggio Calabria
+    20:30     Spal v como  1-1 (0-1)   @ Stadio Paolo Mazza › Ferrara
+▪ Regular Season - 10
   Wed Oct 27
-    18.00     Nuova Cosenza v Ternana  3-1 (2-1)   @ Stadio San Vito-Luigi Marulla › Cosenza
-    20.30     Vicenza Virtus v Monza  1-1 (0-1)   @ Stadio Paolo Mazza › Ferrara
+    18:00     Nuova Cosenza v Ternana  3-1 (2-1)   @ Stadio San Vito-Luigi Marulla › Cosenza
+    20:30     Vicenza Virtus v Monza  1-1 (0-1)   @ Stadio Paolo Mazza › Ferrara
   Thu Oct 28
-    18.00     Brescia v Lecce  1-1 (0-0)   @ Stadio Mario Rigamonti › Brescia
+    18:00     Brescia v Lecce  1-1 (0-0)   @ Stadio Mario Rigamonti › Brescia
               Alessandria v Frosinone  1-1 (0-0)   @ Stadio Giuseppe Moccagatta › Alessandria
               Ascoli v Spal  0-1 (0-0)   @ Stadio Cino e Lillo Del Duca › Ascoli Piceno
-    20.30     Crotone v Benevento  0-2 (0-1)   @ Stadio Ezio Scida › Crotone
+    20:30     Crotone v Benevento  0-2 (0-1)   @ Stadio Ezio Scida › Crotone
               Cittadella v Parma  1-2 (0-1)   @ Stadio Pier Cesare Tombolato › Cittadella
               Cremonese v Pisa  1-1 (0-1)   @ Stadio Giovanni Zini › Cremona
               Perugia v Reggina  0-2 (0-2)   @ Stadio Renato Curi › Perugia
               como v Pordenone  1-0 (1-0)   @ Stadio Giuseppe Sinigaglia › Como
-» Regular Season - 11
+▪ Regular Season - 11
   Mon Nov 1
-    12.30     Benevento v Brescia  0-1 (0-0)   @ Stadio Ciro Vigorito › Benevento
-    15.00     Spal v Perugia  1-2 (1-1)   @ Stadio Paolo Mazza › Ferrara
+    12:30     Benevento v Brescia  0-1 (0-0)   @ Stadio Ciro Vigorito › Benevento
+    15:00     Spal v Perugia  1-2 (1-1)   @ Stadio Paolo Mazza › Ferrara
               Frosinone v Crotone  2-1 (1-1)   @ Stadio Benito Stirpe › Frosinone
               Ternana v como  1-2 (0-1)   @ Stadio Libero Liberati › Terni
               Lecce v Nuova Cosenza  3-1 (2-0)   @ Stadio Comunale Via del Mare › Lecce
               Monza v Alessandria  1-0 (1-0)   @ U-Power Stadium › Monza
               Reggina v Cittadella  0-1 (0-1)   @ Stadio Oreste Granillo › Reggio Calabria
-    18.00     Pisa v Ascoli  1-1 (1-1)   @ Arena Garibaldi-Stadio Romeo Anconetani › Pisa
+    18:00     Pisa v Ascoli  1-1 (1-1)   @ Arena Garibaldi-Stadio Romeo Anconetani › Pisa
               Pordenone v Cremonese  2-2 (1-2)   @ Stadio Guido Teghil › Lignano Sabbiadoro
               Parma v Vicenza Virtus  1-0 (1-0)   @ Stadio Ennio Tardini › Parma
-» Regular Season - 12
+▪ Regular Season - 12
   Fri Nov 5
-    20.30     Nuova Cosenza v Reggina  0-1 (0-0)   @ Stadio San Vito-Luigi Marulla › Cosenza
+    20:30     Nuova Cosenza v Reggina  0-1 (0-0)   @ Stadio San Vito-Luigi Marulla › Cosenza
   Sat Nov 6
-    14.00     Cremonese v Spal  1-1 (1-1)   @ Stadio Giovanni Zini › Cremona
+    14:00     Cremonese v Spal  1-1 (1-1)   @ Stadio Giovanni Zini › Cremona
               Alessandria v Ternana  0-2 (0-2)   @ Stadio Giuseppe Moccagatta › Alessandria
               como v Perugia  4-1 (4-0)   @ Stadio Giuseppe Sinigaglia › Como
               Ascoli v Vicenza Virtus  2-1 (2-0)   @ Stadio Cino e Lillo Del Duca › Ascoli Piceno
-    16.15     Brescia v Pordenone  1-0 (0-0)   @ Stadio Mario Rigamonti › Brescia
-    18.30     Benevento v Frosinone  1-4 (0-2)   @ Stadio Ciro Vigorito › Benevento
+    16:15     Brescia v Pordenone  1-0 (0-0)   @ Stadio Mario Rigamonti › Brescia
+    18:30     Benevento v Frosinone  1-4 (0-2)   @ Stadio Ciro Vigorito › Benevento
   Sun Nov 7
-    14.00     Lecce v Parma  4-0 (4-0)   @ Stadio Comunale Via del Mare › Lecce
-    16.15     Crotone v Monza  1-1 (0-1)   @ Stadio Ezio Scida › Crotone
-    20.30     Cittadella v Pisa  2-0 (0-0)   @ Stadio Pier Cesare Tombolato › Cittadella
-» Regular Season - 13
+    14:00     Lecce v Parma  4-0 (4-0)   @ Stadio Comunale Via del Mare › Lecce
+    16:15     Crotone v Monza  1-1 (0-1)   @ Stadio Ezio Scida › Crotone
+    20:30     Cittadella v Pisa  2-0 (0-0)   @ Stadio Pier Cesare Tombolato › Cittadella
+▪ Regular Season - 13
   Sat Nov 20
-    14.00     Spal v Alessandria  2-3 (2-3)   @ Stadio Paolo Mazza › Ferrara
+    14:00     Spal v Alessandria  2-3 (2-3)   @ Stadio Paolo Mazza › Ferrara
               Frosinone v Lecce  0-0 (0-0)   @ Stadio Benito Stirpe › Frosinone
               Ternana v Cittadella  1-1 (0-1)   @ Stadio Libero Liberati › Terni
               Pordenone v Ascoli  0-1 (0-1)   @ Stadio Guido Teghil › Lignano Sabbiadoro
-    16.15     Perugia v Crotone  2-0 (1-0)   @ Stadio Renato Curi › Perugia
-    18.30     Vicenza Virtus v Brescia  2-3 (1-2)   @ Stadio Romeo Menti › Vicenza
+    16:15     Perugia v Crotone  2-0 (1-0)   @ Stadio Renato Curi › Perugia
+    18:30     Vicenza Virtus v Brescia  2-3 (1-2)   @ Stadio Romeo Menti › Vicenza
   Sun Nov 21
-    14.00     Reggina v Cremonese  1-2 (1-0)   @ Stadio Oreste Granillo › Reggio Calabria
+    14:00     Reggina v Cremonese  1-2 (1-0)   @ Stadio Oreste Granillo › Reggio Calabria
               Parma v Nuova Cosenza  1-1 (1-0)   @ Stadio Ennio Tardini › Parma
-    16.15     Monza v como  3-2 (2-0)   @ U-Power Stadium › Monza
-    20.30     Pisa v Benevento  1-0 (1-0)   @ Arena Garibaldi-Stadio Romeo Anconetani › Pisa
-» Regular Season - 14
+    16:15     Monza v como  3-2 (2-0)   @ U-Power Stadium › Monza
+    20:30     Pisa v Benevento  1-0 (1-0)   @ Arena Garibaldi-Stadio Romeo Anconetani › Pisa
+▪ Regular Season - 14
   Fri Nov 26
-    18.00     Crotone v Vicenza Virtus  0-1 (0-0)   @ Stadio Ezio Scida › Crotone
-    20.30     Lecce v Ternana  3-3 (2-1)   @ Stadio Comunale Via del Mare › Lecce
+    18:00     Crotone v Vicenza Virtus  0-1 (0-0)   @ Stadio Ezio Scida › Crotone
+    20:30     Lecce v Ternana  3-3 (2-1)   @ Stadio Comunale Via del Mare › Lecce
   Sat Nov 27
-    14.00     Benevento v Reggina  4-0 (2-0)   @ Stadio Ciro Vigorito › Benevento
+    14:00     Benevento v Reggina  4-0 (2-0)   @ Stadio Ciro Vigorito › Benevento
               Ascoli v Monza  1-1 (1-1)   @ Stadio Cino e Lillo Del Duca › Ascoli Piceno
               Frosinone v Pordenone  2-2 (0-0)   @ Stadio Benito Stirpe › Frosinone
               Alessandria v Cremonese  1-0 (0-0)   @ Stadio Giuseppe Moccagatta › Alessandria
               Nuova Cosenza v Spal  0-1 (0-0)   @ Stadio San Vito-Luigi Marulla › Cosenza
-    16.15     Brescia v Pisa  0-1 (0-0)   @ Stadio Mario Rigamonti › Brescia
-    18.30     Perugia v Cittadella  1-1 (1-0)   @ Stadio Renato Curi › Perugia
+    16:15     Brescia v Pisa  0-1 (0-0)   @ Stadio Mario Rigamonti › Brescia
+    18:30     Perugia v Cittadella  1-1 (1-0)   @ Stadio Renato Curi › Perugia
   Sun Nov 28
-    20.30     como v Parma  1-1 (0-0)   @ Stadio Giuseppe Sinigaglia › Como
-» Regular Season - 15
+    20:30     como v Parma  1-1 (0-0)   @ Stadio Giuseppe Sinigaglia › Como
+▪ Regular Season - 15
   Mon Nov 29
-    20.30     Ternana v Crotone  1-0 (1-0)   @ Stadio Libero Liberati › Terni
+    20:30     Ternana v Crotone  1-0 (1-0)   @ Stadio Libero Liberati › Terni
   Tue Nov 30
-    18.00     Pisa v Perugia  1-1 (1-0)   @ Arena Garibaldi-Stadio Romeo Anconetani › Pisa
+    18:00     Pisa v Perugia  1-1 (1-0)   @ Arena Garibaldi-Stadio Romeo Anconetani › Pisa
               Cremonese v Frosinone  1-1 (0-0)   @ Stadio Giovanni Zini › Cremona
-    20.30     Spal v Lecce  1-3 (1-1)   @ Stadio Paolo Mazza › Ferrara
+    20:30     Spal v Lecce  1-3 (1-1)   @ Stadio Paolo Mazza › Ferrara
               Pordenone v Alessandria  2-0 (1-0)   @ Stadio Guido Teghil › Lignano Sabbiadoro
               Monza v Nuova Cosenza  4-1 (3-0)   @ U-Power Stadium › Monza
               Vicenza Virtus v Benevento  2-3 (0-1)   @ Stadio Romeo Menti › Vicenza
               Reggina v Ascoli  1-2 (1-1)   @ Stadio Oreste Granillo › Reggio Calabria
   Wed Dec 1
-    18.00     Parma v Brescia  0-1 (0-1)   @ Stadio Ennio Tardini › Parma
-    20.30     Cittadella v como  2-2 (1-0)   @ Stadio Pier Cesare Tombolato › Cittadella
-» Regular Season - 16
+    18:00     Parma v Brescia  0-1 (0-1)   @ Stadio Ennio Tardini › Parma
+    20:30     Cittadella v como  2-2 (1-0)   @ Stadio Pier Cesare Tombolato › Cittadella
+▪ Regular Season - 16
   Fri Dec 3
-    20.30     Perugia v Vicenza Virtus  1-0 (0-0)   @ Stadio Renato Curi › Perugia
+    20:30     Perugia v Vicenza Virtus  1-0 (0-0)   @ Stadio Renato Curi › Perugia
   Sat Dec 4
-    14.00     Crotone v Spal  1-2 (0-1)   @ Stadio Ezio Scida › Crotone
+    14:00     Crotone v Spal  1-2 (0-1)   @ Stadio Ezio Scida › Crotone
               Benevento v Pordenone  2-1 (0-0)   @ Stadio Ciro Vigorito › Benevento
               Frosinone v Ternana  1-1 (1-0)   @ Stadio Benito Stirpe › Frosinone
               Nuova Cosenza v Cremonese  0-2 (0-1)   @ Stadio San Vito-Luigi Marulla › Cosenza
-    16.15     Lecce v Reggina  2-0 (1-0)   @ Stadio Comunale Via del Mare › Lecce
+    16:15     Lecce v Reggina  2-0 (1-0)   @ Stadio Comunale Via del Mare › Lecce
   Sun Dec 5
-    14.00     como v Pisa  0-1 (0-1)   @ Stadio Giuseppe Sinigaglia › Como
+    14:00     como v Pisa  0-1 (0-1)   @ Stadio Giuseppe Sinigaglia › Como
               Ascoli v Parma  0-0 (0-0)   @ Stadio Cino e Lillo Del Duca › Ascoli Piceno
-    16.15     Brescia v Monza  0-2 (0-1)   @ Stadio Mario Rigamonti › Brescia
-    20.30     Alessandria v Cittadella  0-1 (0-1)   @ Stadio Giuseppe Moccagatta › Alessandria
-» Regular Season - 17
+    16:15     Brescia v Monza  0-2 (0-1)   @ Stadio Mario Rigamonti › Brescia
+    20:30     Alessandria v Cittadella  0-1 (0-1)   @ Stadio Giuseppe Moccagatta › Alessandria
+▪ Regular Season - 17
   Fri Dec 10
-    18.00     Cremonese v Crotone  3-2 (1-1)   @ Stadio Giovanni Zini › Cremona
-    20.30     Ternana v Benevento  0-2 (0-2)   @ Stadio Libero Liberati › Terni
+    18:00     Cremonese v Crotone  3-2 (1-1)   @ Stadio Giovanni Zini › Cremona
+    20:30     Ternana v Benevento  0-2 (0-2)   @ Stadio Libero Liberati › Terni
   Sat Dec 11
-    14.00     Spal v Brescia  0-2 (0-0)   @ Stadio Paolo Mazza › Ferrara
+    14:00     Spal v Brescia  0-2 (0-0)   @ Stadio Paolo Mazza › Ferrara
               Cittadella v Ascoli  2-0 (1-0)   @ Stadio Pier Cesare Tombolato › Cittadella
               Pordenone v Nuova Cosenza  1-1 (1-0)   @ Stadio Guido Teghil › Lignano Sabbiadoro
               Monza v Frosinone  3-2 (0-0)   @ U-Power Stadium › Monza
-    16.15     Pisa v Lecce  1-0 (0-0)   @ Arena Garibaldi-Stadio Romeo Anconetani › Pisa
+    16:15     Pisa v Lecce  1-0 (0-0)   @ Arena Garibaldi-Stadio Romeo Anconetani › Pisa
   Sun Dec 12
-    14.00     Parma v Perugia  1-1 (1-0)   @ Stadio Ennio Tardini › Parma
-    16.15     Vicenza Virtus v como  0-1 (0-1)   @ Stadio Romeo Menti › Vicenza
-    20.30     Reggina v Alessandria  0-4 (0-2)   @ Stadio Oreste Granillo › Reggio Calabria
-» Regular Season - 18
+    14:00     Parma v Perugia  1-1 (1-0)   @ Stadio Ennio Tardini › Parma
+    16:15     Vicenza Virtus v como  0-1 (0-1)   @ Stadio Romeo Menti › Vicenza
+    20:30     Reggina v Alessandria  0-4 (0-2)   @ Stadio Oreste Granillo › Reggio Calabria
+▪ Regular Season - 18
   Sat Dec 18
-    14.00     Crotone v Pordenone  4-1 (2-1)   @ Stadio Ezio Scida › Crotone
+    14:00     Crotone v Pordenone  4-1 (2-1)   @ Stadio Ezio Scida › Crotone
               Ascoli v Cremonese  1-4 (1-2)   @ Stadio Cino e Lillo Del Duca › Ascoli Piceno
               como v Reggina  1-1 (0-1)   @ Stadio Giuseppe Sinigaglia › Como
               Nuova Cosenza v Pisa  0-2 (0-1)   @ Stadio San Vito-Luigi Marulla › Cosenza
-    16.15     Frosinone v Spal  4-0 (3-0)   @ Stadio Benito Stirpe › Frosinone
+    16:15     Frosinone v Spal  4-0 (3-0)   @ Stadio Benito Stirpe › Frosinone
   Sun Dec 19
-    14.00     Alessandria v Parma  0-2 (0-2)   @ Stadio Giuseppe Moccagatta › Alessandria
+    14:00     Alessandria v Parma  0-2 (0-2)   @ Stadio Giuseppe Moccagatta › Alessandria
               Brescia v Cittadella  1-1 (0-0)   @ Stadio Mario Rigamonti › Brescia
-    16.15     Perugia v Ternana  1-1 (1-0)   @ Stadio Renato Curi › Perugia
+    16:15     Perugia v Ternana  1-1 (1-0)   @ Stadio Renato Curi › Perugia
   Thu Jan 13 2022
-    20.30     Benevento v Monza  3-1 (2-0)   @ Stadio Ciro Vigorito › Benevento
-» Regular Season - 19
+    20:30     Benevento v Monza  3-1 (2-0)   @ Stadio Ciro Vigorito › Benevento
+▪ Regular Season - 19
   Fri Jan 14
-    20.30     Ternana v Ascoli  2-4 (0-3)   @ Stadio Libero Liberati › Terni
+    20:30     Ternana v Ascoli  2-4 (0-3)   @ Stadio Libero Liberati › Terni
   Sat Jan 15
-    14.00     Reggina v Brescia  0-2 (0-2)   @ Stadio Oreste Granillo › Reggio Calabria
+    14:00     Reggina v Brescia  0-2 (0-2)   @ Stadio Oreste Granillo › Reggio Calabria
               Cremonese v como  2-0 (1-0)   @ Stadio Giovanni Zini › Cremona
-    16.15     Pisa v Frosinone  1-3 (1-0)   @ Arena Garibaldi-Stadio Romeo Anconetani › Pisa
+    16:15     Pisa v Frosinone  1-3 (1-0)   @ Arena Garibaldi-Stadio Romeo Anconetani › Pisa
   Sun Jan 16
-    16.15     Spal v Benevento  1-1 (0-1)   @ Stadio Paolo Mazza › Ferrara
+    16:15     Spal v Benevento  1-1 (0-1)   @ Stadio Paolo Mazza › Ferrara
               Pordenone v Lecce  0-1 (0-1)   @ Stadio Guido Teghil › Lignano Sabbiadoro
               Monza v Perugia  2-2 (1-0)   @ U-Power Stadium › Monza
-» Regular Season - 20
+▪ Regular Season - 20
   Fri Jan 21
-    20.30     Parma v Frosinone  0-1 (0-0)   @ Stadio Ennio Tardini › Parma
+    20:30     Parma v Frosinone  0-1 (0-0)   @ Stadio Ennio Tardini › Parma
   Sat Jan 22
-    14.00     Spal v Pisa  0-0 (0-0)   @ Stadio Romeo Menti › Vicenza
+    14:00     Spal v Pisa  0-0 (0-0)   @ Stadio Romeo Menti › Vicenza
               Brescia v Ternana  1-1 (1-1)   @ Stadio Mario Rigamonti › Brescia
               Alessandria v Benevento  2-0 (1-0)   @ Stadio Giuseppe Moccagatta › Alessandria
               como v Crotone  1-1 (1-1)   @ Stadio Giuseppe Sinigaglia › Como
               Monza v Reggina  1-0 (0-0)   @ U-Power Stadium › Monza
               Nuova Cosenza v Ascoli  1-3 (0-1)   @ Stadio San Vito-Luigi Marulla › Cosenza
-    16.15     Perugia v Pordenone  0-1 (0-0)   @ Stadio Renato Curi › Perugia
+    16:15     Perugia v Pordenone  0-1 (0-0)   @ Stadio Renato Curi › Perugia
   Sun Jan 23
-    16.15     Vicenza Virtus v Cittadella  3-3 (2-2)   @ Stadio Romeo Menti › Vicenza
-    18.30     Lecce v Cremonese  2-1 (1-1)   @ Stadio Comunale Via del Mare › Lecce
-» Regular Season - 18
+    16:15     Vicenza Virtus v Cittadella  3-3 (2-2)   @ Stadio Romeo Menti › Vicenza
+    18:30     Lecce v Cremonese  2-1 (1-1)   @ Stadio Comunale Via del Mare › Lecce
+▪ Regular Season - 18
   Wed Jan 26
-    20.00     Lecce v Vicenza Virtus  2-1 (2-0)   @ Stadio Comunale Via del Mare › Lecce
-» Regular Season - 19
+    20:00     Lecce v Vicenza Virtus  2-1 (2-0)   @ Stadio Comunale Via del Mare › Lecce
+▪ Regular Season - 19
   Sun Jan 30
-    14.30     Parma v Crotone  1-1 (1-0)   @ Stadio Ennio Tardini › Parma
+    14:30     Parma v Crotone  1-1 (1-0)   @ Stadio Ennio Tardini › Parma
               Vicenza Virtus v Alessandria  2-1 (1-1)   @ Stadio Romeo Menti › Vicenza
               Cittadella v Nuova Cosenza  1-1 (1-1)   @ Stadio Pier Cesare Tombolato › Cittadella
-» Regular Season - 21
+▪ Regular Season - 21
   Sat Feb 5
-    14.00     Crotone v Cittadella  0-0 (0-0)   @ Stadio Ezio Scida › Crotone
+    14:00     Crotone v Cittadella  0-0 (0-0)   @ Stadio Ezio Scida › Crotone
               Benevento v Parma  0-0 (0-0)   @ Stadio Ciro Vigorito › Benevento
               Ternana v Reggina  2-0 (2-0)   @ Stadio Libero Liberati › Terni
               Alessandria v Pisa  1-1 (1-1)   @ Stadio Giuseppe Moccagatta › Alessandria
               como v Lecce  1-1 (1-1)   @ Stadio Giuseppe Sinigaglia › Como
               Nuova Cosenza v Brescia  0-0 (0-0)   @ Stadio San Vito-Luigi Marulla › Cosenza
-    16.15     Frosinone v Vicenza Virtus  2-0 (1-0)   @ Stadio Benito Stirpe › Frosinone
-    18.30     Ascoli v Perugia  0-1 (0-1)   @ Stadio Cino e Lillo Del Duca › Ascoli Piceno
+    16:15     Frosinone v Vicenza Virtus  2-0 (1-0)   @ Stadio Benito Stirpe › Frosinone
+    18:30     Ascoli v Perugia  0-1 (0-1)   @ Stadio Cino e Lillo Del Duca › Ascoli Piceno
   Sun Feb 6
-    16.15     Pordenone v Spal  1-1 (1-0)   @ Stadio Guido Teghil › Lignano Sabbiadoro
+    16:15     Pordenone v Spal  1-1 (1-0)   @ Stadio Guido Teghil › Lignano Sabbiadoro
               Cremonese v Monza  3-2 (1-0)   @ Stadio Giovanni Zini › Cremona
-» Regular Season - 22
+▪ Regular Season - 22
   Sat Feb 12
-    14.00     Cittadella v Cremonese  0-2 (0-1)   @ Stadio Pier Cesare Tombolato › Cittadella
+    14:00     Cittadella v Cremonese  0-2 (0-1)   @ Stadio Pier Cesare Tombolato › Cittadella
               Parma v Pordenone  4-1 (0-1)   @ Stadio Ennio Tardini › Parma
               Pisa v Ternana  0-0 (0-0)   @ Stadio Adriatico-Giovanni Cornacchia › Pescara
               Monza v Spal  4-0 (1-0)   @ U-Power Stadium › Monza
               Vicenza Virtus v Nuova Cosenza  0-0 (0-0)   @ Stadio Romeo Menti › Vicenza
-    16.15     Reggina v Crotone  1-0 (1-0)   @ Stadio Oreste Granillo › Reggio Calabria
+    16:15     Reggina v Crotone  1-0 (1-0)   @ Stadio Oreste Granillo › Reggio Calabria
               Perugia v Frosinone  3-0 (2-0)   @ Stadio Renato Curi › Perugia
   Sun Feb 13
-    15.30     Ascoli v como  1-1 (1-0)   @ Stadio Cino e Lillo Del Duca › Ascoli Piceno
+    15:30     Ascoli v como  1-1 (1-0)   @ Stadio Cino e Lillo Del Duca › Ascoli Piceno
               Brescia v Alessandria  1-1 (0-0)   @ Stadio Mario Rigamonti › Brescia
               Lecce v Benevento  1-1 (1-1)   @ Stadio Comunale Via del Mare › Lecce
-» Regular Season - 23
+▪ Regular Season - 23
   Tue Feb 15
-    18.30     Spal v Reggina  1-3 (1-1)   @ Stadio Paolo Mazza › Ferrara
+    18:30     Spal v Reggina  1-3 (1-1)   @ Stadio Paolo Mazza › Ferrara
               Ternana v Monza  0-1 (0-1)   @ Stadio Libero Liberati › Terni
               Cremonese v Parma  3-1 (1-0)   @ Stadio Giovanni Zini › Cremona
               Pisa v Vicenza Virtus  2-2 (1-2)   @ Stadio Adriatico-Giovanni Cornacchia › Pescara
               Pordenone v Cittadella  0-1 (0-1)   @ Stadio Guido Teghil › Lignano Sabbiadoro
               Nuova Cosenza v Perugia  1-2 (0-1)   @ Stadio San Vito-Luigi Marulla › Cosenza
   Wed Feb 16
-    18.30     Benevento v Ascoli  0-2 (0-0)   @ Stadio Ciro Vigorito › Benevento
+    18:30     Benevento v Ascoli  0-2 (0-0)   @ Stadio Ciro Vigorito › Benevento
               Frosinone v como  1-2 (1-2)   @ Stadio Benito Stirpe › Frosinone
               Alessandria v Lecce  1-1 (0-0)   @ Stadio Giuseppe Moccagatta › Alessandria
               Crotone v Brescia  0-1 (0-1)   @ Stadio Ezio Scida › Crotone
-» Regular Season - 24
+▪ Regular Season - 24
   Sat Feb 19
-    14.00     Ascoli v Alessandria  3-0 (1-0)   @ Stadio Cino e Lillo Del Duca › Ascoli Piceno
+    14:00     Ascoli v Alessandria  3-0 (1-0)   @ Stadio Cino e Lillo Del Duca › Ascoli Piceno
               Parma v Ternana  2-3 (2-2)   @ Stadio Ennio Tardini › Parma
               Monza v Pisa  1-2 (1-1)   @ U-Power Stadium › Monza
               Vicenza Virtus v Spal  1-1 (1-1)   @ Stadio Romeo Menti › Vicenza
               Reggina v Pordenone  2-0 (0-0)   @ Stadio Oreste Granillo › Reggio Calabria
-    16.15     Perugia v Cremonese  0-0 (0-0)   @ Stadio Renato Curi › Perugia
+    16:15     Perugia v Cremonese  0-0 (0-0)   @ Stadio Renato Curi › Perugia
   Sun Feb 20
-    15.30     Brescia v Frosinone  2-2 (1-1)   @ Stadio Mario Rigamonti › Brescia
+    15:30     Brescia v Frosinone  2-2 (1-1)   @ Stadio Mario Rigamonti › Brescia
               Lecce v Crotone  3-0 (2-0)   @ Stadio Comunale Via del Mare › Lecce
               como v Nuova Cosenza  2-1 (0-0)   @ Stadio Giuseppe Sinigaglia › Como
               Cittadella v Benevento  0-1 (0-0)   @ Stadio Pier Cesare Tombolato › Cittadella
-» Regular Season - 25
+▪ Regular Season - 25
   Tue Feb 22
-    18.30     Spal v Ternana  5-1 (2-0)   @ Stadio Paolo Mazza › Ferrara
+    18:30     Spal v Ternana  5-1 (2-0)   @ Stadio Paolo Mazza › Ferrara
               Cremonese v Vicenza Virtus  0-0 (0-0)   @ Stadio Giovanni Zini › Cremona
               Pisa v Parma  0-0 (0-0)   @ Arena Garibaldi-Stadio Romeo Anconetani › Pisa
               Pordenone v Monza  1-4 (0-2)   @ Stadio Guido Teghil › Lignano Sabbiadoro
               Alessandria v Perugia  1-2 (1-1)   @ Stadio Giuseppe Moccagatta › Alessandria
   Wed Feb 23
-    18.30     Benevento v como  5-0 (3-0)   @ Stadio Ciro Vigorito › Benevento
+    18:30     Benevento v como  5-0 (3-0)   @ Stadio Ciro Vigorito › Benevento
               Frosinone v Reggina  3-0 (0-0)   @ Stadio Benito Stirpe › Frosinone
               Brescia v Ascoli  2-0 (1-0)   @ Stadio Mario Rigamonti › Brescia
               Lecce v Cittadella  1-2 (0-1)   @ Stadio Comunale Via del Mare › Lecce
               Crotone v Nuova Cosenza  3-3 (0-2)   @ Stadio Ezio Scida › Crotone
-» Regular Season - 26
+▪ Regular Season - 26
   Sat Feb 26
-    14.05     Ternana v Cremonese  1-2 (0-0)   @ Stadio Libero Liberati › Terni
+    14:05     Ternana v Cremonese  1-2 (0-0)   @ Stadio Libero Liberati › Terni
               Parma v Spal  4-0 (2-0)   @ Stadio Ennio Tardini › Parma
               como v Brescia  1-1 (1-0)   @ Stadio Giuseppe Sinigaglia › Como
               Vicenza Virtus v Pordenone  1-0 (1-0)   @ Stadio Romeo Menti › Vicenza
               Nuova Cosenza v Alessandria  2-1 (0-1)   @ Stadio San Vito-Luigi Marulla › Cosenza
-    16.20     Perugia v Benevento  0-1 (0-1)   @ Stadio Renato Curi › Perugia
+    16:20     Perugia v Benevento  0-1 (0-1)   @ Stadio Renato Curi › Perugia
   Sun Feb 27
-    15.35     Ascoli v Crotone  2-1 (0-0)   @ Stadio Cino e Lillo Del Duca › Ascoli Piceno
+    15:35     Ascoli v Crotone  2-1 (0-0)   @ Stadio Cino e Lillo Del Duca › Ascoli Piceno
               Cittadella v Frosinone  3-0 (3-0)   @ Stadio Pier Cesare Tombolato › Cittadella
               Monza v Lecce  0-1 (0-0)   @ U-Power Stadium › Monza
               Reggina v Pisa  1-0 (1-0)   @ Stadio Oreste Granillo › Reggio Calabria
-» Regular Season - 27
+▪ Regular Season - 27
   Tue Mar 1
-    18.30     Ternana v Pordenone  1-0 (0-0)   @ Stadio Libero Liberati › Terni
+    18:30     Ternana v Pordenone  1-0 (0-0)   @ Stadio Libero Liberati › Terni
               Brescia v Perugia  2-1 (0-1)   @ Stadio Mario Rigamonti › Brescia
               Benevento v Cremonese  1-1 (1-1)   @ Stadio Ciro Vigorito › Benevento
-    20.30     Alessandria v como  1-1 (0-1)   @ Stadio Giuseppe Moccagatta › Alessandria
+    20:30     Alessandria v como  1-1 (0-1)   @ Stadio Giuseppe Moccagatta › Alessandria
   Wed Mar 2
-    18.30     Spal v Cittadella  0-0 (0-0)   @ Stadio Paolo Mazza › Ferrara
+    18:30     Spal v Cittadella  0-0 (0-0)   @ Stadio Paolo Mazza › Ferrara
               Frosinone v Nuova Cosenza  1-0 (0-0)   @ Stadio Benito Stirpe › Frosinone
               Pisa v Crotone  3-2 (3-0)   @ Stadio Adriatico-Giovanni Cornacchia › Pescara
               Lecce v Ascoli  3-1 (1-0)   @ Stadio Comunale Via del Mare › Lecce
               Monza v Parma  1-1 (0-1)   @ U-Power Stadium › Monza
               Reggina v Vicenza Virtus  3-1 (2-0)   @ Stadio Oreste Granillo › Reggio Calabria
-» Regular Season - 28
+▪ Regular Season - 28
   Sat Mar 5
-    14.00     Parma v Reggina  1-1 (1-0)   @ Stadio Ennio Tardini › Parma
+    14:00     Parma v Reggina  1-1 (1-0)   @ Stadio Ennio Tardini › Parma
               Pordenone v Pisa  0-1 (0-1)   @ Stadio Guido Teghil › Lignano Sabbiadoro
               como v Spal  0-2 (0-1)   @ Stadio Giuseppe Sinigaglia › Como
               Cittadella v Monza  1-2 (1-1)   @ Stadio Pier Cesare Tombolato › Cittadella
-    16.15     Cremonese v Brescia  2-1 (1-1)   @ Stadio Giovanni Zini › Cremona
+    16:15     Cremonese v Brescia  2-1 (1-1)   @ Stadio Giovanni Zini › Cremona
   Sun Mar 6
-    15.30     Ascoli v Frosinone  1-1 (1-0)   @ Stadio Cino e Lillo Del Duca › Ascoli Piceno
+    15:30     Ascoli v Frosinone  1-1 (1-0)   @ Stadio Cino e Lillo Del Duca › Ascoli Piceno
               Perugia v Lecce  1-1 (0-0)   @ Stadio Renato Curi › Perugia
               Vicenza Virtus v Ternana  3-1 (3-0)   @ Stadio Romeo Menti › Vicenza
               Crotone v Alessandria  0-0 (0-0)   @ Stadio Ezio Scida › Crotone
-» Regular Season - 29
+▪ Regular Season - 29
   Fri Mar 11
-    20.30     Parma v Cittadella  1-1 (0-1)   @ Stadio Ennio Tardini › Parma
+    20:30     Parma v Cittadella  1-1 (0-1)   @ Stadio Ennio Tardini › Parma
   Sat Mar 12
-    14.00     Lecce v Brescia  1-1 (1-1)   @ Stadio Comunale Via del Mare › Lecce
+    14:00     Lecce v Brescia  1-1 (1-1)   @ Stadio Comunale Via del Mare › Lecce
               Reggina v Perugia  0-1 (0-0)   @ Stadio Oreste Granillo › Reggio Calabria
               Ternana v Nuova Cosenza  2-0 (2-0)   @ Stadio Libero Liberati › Terni
-    16.15     Spal v Ascoli  1-2 (0-1)   @ Stadio Paolo Mazza › Ferrara
+    16:15     Spal v Ascoli  1-2 (0-1)   @ Stadio Paolo Mazza › Ferrara
               Benevento v Crotone  3-1 (2-1)   @ Stadio Ciro Vigorito › Benevento
               Frosinone v Alessandria  3-0 (1-0)   @ Stadio Benito Stirpe › Frosinone
               Pordenone v como  1-1 (1-0)   @ Stadio Guido Teghil › Lignano Sabbiadoro
               Monza v Vicenza Virtus  4-0 (1-0)   @ U-Power Stadium › Monza
   Sun Mar 13
-    15.30     Pisa v Cremonese  3-0 (1-0)   @ Arena Garibaldi-Stadio Romeo Anconetani › Pisa
-» Regular Season - 30
+    15:30     Pisa v Cremonese  3-0 (1-0)   @ Arena Garibaldi-Stadio Romeo Anconetani › Pisa
+▪ Regular Season - 30
   Tue Mar 15
-    18.30     Crotone v Frosinone  2-0 (1-0)   @ Stadio Ezio Scida › Crotone
+    18:30     Crotone v Frosinone  2-0 (1-0)   @ Stadio Ezio Scida › Crotone
               Cittadella v Reggina  0-0 (0-0)   @ Stadio Pier Cesare Tombolato › Cittadella
               Brescia v Benevento  2-2 (2-1)   @ Stadio Mario Rigamonti › Brescia
               como v Ternana  1-1 (1-0)   @ Stadio Giuseppe Sinigaglia › Como
               Vicenza Virtus v Parma  0-1 (0-1)   @ Stadio Romeo Menti › Vicenza
               Nuova Cosenza v Lecce  2-2 (1-1)   @ Stadio San Vito-Luigi Marulla › Cosenza
-    20.30     Alessandria v Monza  0-3 (0-1)   @ Stadio Giuseppe Moccagatta › Alessandria
+    20:30     Alessandria v Monza  0-3 (0-1)   @ Stadio Giuseppe Moccagatta › Alessandria
   Wed Mar 16
-    18.30     Cremonese v Pordenone  2-1 (0-0)   @ Stadio Giovanni Zini › Cremona
+    18:30     Cremonese v Pordenone  2-1 (0-0)   @ Stadio Giovanni Zini › Cremona
               Perugia v Spal  1-1 (0-0)   @ Stadio Renato Curi › Perugia
               Ascoli v Pisa  2-0 (2-0)   @ Stadio Cino e Lillo Del Duca › Ascoli Piceno
-» Regular Season - 31
+▪ Regular Season - 31
   Sat Mar 19
-    14.00     Ternana v Alessandria  3-0 (1-0)   @ Stadio Libero Liberati › Terni
+    14:00     Ternana v Alessandria  3-0 (1-0)   @ Stadio Libero Liberati › Terni
               Parma v Lecce  0-0 (0-0)   @ Stadio Ennio Tardini › Parma
               Monza v Crotone  1-0 (0-0)   @ U-Power Stadium › Monza
               Reggina v Nuova Cosenza  1-0 (1-0)   @ Stadio Oreste Granillo › Reggio Calabria
-    16.15     Frosinone v Benevento  2-0 (1-0)   @ Stadio Benito Stirpe › Frosinone
+    16:15     Frosinone v Benevento  2-0 (1-0)   @ Stadio Benito Stirpe › Frosinone
   Sun Mar 20
-    14.00     Perugia v como  0-1 (0-0)   @ Stadio Renato Curi › Perugia
+    14:00     Perugia v como  0-1 (0-0)   @ Stadio Renato Curi › Perugia
               Pisa v Cittadella  1-0 (1-0)   @ Arena Garibaldi-Stadio Romeo Anconetani › Pisa
               Vicenza Virtus v Ascoli  2-0 (0-0)   @ Stadio Romeo Menti › Vicenza
-    16.15     Pordenone v Brescia  1-1 (1-1)   @ Stadio Guido Teghil › Lignano Sabbiadoro
+    16:15     Pordenone v Brescia  1-1 (1-1)   @ Stadio Guido Teghil › Lignano Sabbiadoro
               Spal v Cremonese  0-2 (0-1)   @ Stadio Paolo Mazza › Ferrara
-» Regular Season - 32
+▪ Regular Season - 32
   Sat Apr 2
-    14.00     Ascoli v Pordenone  1-0 (0-0)   @ Stadio Cino e Lillo Del Duca › Ascoli Piceno
+    14:00     Ascoli v Pordenone  1-0 (0-0)   @ Stadio Cino e Lillo Del Duca › Ascoli Piceno
               Cittadella v Ternana  1-2 (0-1)   @ Stadio Pier Cesare Tombolato › Cittadella
               Cremonese v Reggina  1-1 (0-0)   @ Stadio Giovanni Zini › Cremona
               Lecce v Frosinone  1-0 (1-0)   @ Stadio Comunale Via del Mare › Lecce
               Alessandria v Spal  2-2 (1-1)   @ Stadio Giuseppe Moccagatta › Alessandria
               Nuova Cosenza v Parma  1-3 (0-1)   @ Stadio San Vito-Luigi Marulla › Cosenza
-    16.15     Benevento v Pisa  5-1 (2-0)   @ Stadio Ciro Vigorito › Benevento
+    16:15     Benevento v Pisa  5-1 (2-0)   @ Stadio Ciro Vigorito › Benevento
   Sun Apr 3
-    15.30     Crotone v Perugia  1-1 (0-1)   @ Stadio Ezio Scida › Crotone
+    15:30     Crotone v Perugia  1-1 (0-1)   @ Stadio Ezio Scida › Crotone
               Brescia v Vicenza Virtus  2-0 (2-0)   @ Stadio Mario Rigamonti › Brescia
               como v Monza  2-0 (0-0)   @ Stadio Giuseppe Sinigaglia › Como
-» Regular Season - 33
+▪ Regular Season - 33
   Tue Apr 5
-    19.00     Ternana v Lecce  1-4 (1-2)   @ Stadio Libero Liberati › Terni
+    19:00     Ternana v Lecce  1-4 (1-2)   @ Stadio Libero Liberati › Terni
               Cremonese v Alessandria  2-1 (1-0)   @ Stadio Giovanni Zini › Cremona
               Pordenone v Frosinone  2-0 (1-0)   @ Stadio Guido Teghil › Lignano Sabbiadoro
               Reggina v Benevento  0-3 (0-1)   @ Stadio Oreste Granillo › Reggio Calabria
               Spal v Nuova Cosenza  2-2 (0-1)   @ Stadio Paolo Mazza › Ferrara
   Wed Apr 6
-    14.00     Parma v como  4-3 (1-0)   @ Stadio Ennio Tardini › Parma
-    19.00     Pisa v Brescia  0-0 (0-0)   @ Arena Garibaldi-Stadio Romeo Anconetani › Pisa
+    14:00     Parma v como  4-3 (1-0)   @ Stadio Ennio Tardini › Parma
+    19:00     Pisa v Brescia  0-0 (0-0)   @ Arena Garibaldi-Stadio Romeo Anconetani › Pisa
               Monza v Ascoli  2-0 (2-0)   @ U-Power Stadium › Monza
               Vicenza Virtus v Crotone  1-1 (1-1)   @ Stadio Romeo Menti › Vicenza
               Cittadella v Perugia  0-0 (0-0)   @ Stadio Pier Cesare Tombolato › Cittadella
-» Regular Season - 34
+▪ Regular Season - 34
   Sat Apr 9
-    14.00     Lecce v Spal  1-0 (0-0)   @ Stadio Comunale Via del Mare › Lecce
+    14:00     Lecce v Spal  1-0 (0-0)   @ Stadio Comunale Via del Mare › Lecce
               Alessandria v Pordenone  2-0 (1-0)   @ Stadio Giuseppe Moccagatta › Alessandria
               como v Cittadella  1-2 (1-2)   @ Stadio Giuseppe Sinigaglia › Como
-    16.15     Frosinone v Cremonese  2-1 (2-1)   @ Stadio Benito Stirpe › Frosinone
+    16:15     Frosinone v Cremonese  2-1 (2-1)   @ Stadio Benito Stirpe › Frosinone
   Sun Apr 10
-    14.30     Benevento v Vicenza Virtus  1-0 (0-0)   @ Stadio Ciro Vigorito › Benevento
-    15.30     Crotone v Ternana  1-2 (1-1)   @ Stadio Ezio Scida › Crotone
+    14:30     Benevento v Vicenza Virtus  1-0 (0-0)   @ Stadio Ciro Vigorito › Benevento
+    15:30     Crotone v Ternana  1-2 (1-1)   @ Stadio Ezio Scida › Crotone
               Ascoli v Reggina  2-0 (0-0)   @ Stadio Cino e Lillo Del Duca › Ascoli Piceno
               Nuova Cosenza v Monza  0-2 (0-1)   @ Stadio San Vito-Luigi Marulla › Cosenza
-    18.00     Perugia v Pisa  1-1 (0-1)   @ Stadio Renato Curi › Perugia
+    18:00     Perugia v Pisa  1-1 (0-1)   @ Stadio Renato Curi › Perugia
   Mon Apr 11
-    20.30     Brescia v Parma  1-0 (0-0)   @ Stadio Mario Rigamonti › Brescia
-» Regular Season - 28
+    20:30     Brescia v Parma  1-0 (0-0)   @ Stadio Mario Rigamonti › Brescia
+▪ Regular Season - 28
   Thu Apr 14
-    20.00     Nuova Cosenza v Benevento  1-0 (0-0)   @ Stadio San Vito-Luigi Marulla › Cosenza
-» Regular Season - 35
+    20:00     Nuova Cosenza v Benevento  1-0 (0-0)   @ Stadio San Vito-Luigi Marulla › Cosenza
+▪ Regular Season - 35
   Mon Apr 18
-    12.30     Spal v Crotone  1-1 (0-1)   @ Stadio Paolo Mazza › Ferrara
-    15.00     Cremonese v Nuova Cosenza  3-1 (3-1)   @ Stadio Giovanni Zini › Cremona
+    12:30     Spal v Crotone  1-1 (0-1)   @ Stadio Paolo Mazza › Ferrara
+    15:00     Cremonese v Nuova Cosenza  3-1 (3-1)   @ Stadio Giovanni Zini › Cremona
               Pordenone v Benevento  1-4 (0-2)   @ Stadio Guido Teghil › Lignano Sabbiadoro
               Vicenza Virtus v Perugia  1-2 (1-1)   @ Stadio Romeo Menti › Vicenza
               Reggina v Lecce  1-0 (1-0)   @ Stadio Oreste Granillo › Reggio Calabria
-    18.00     Ternana v Frosinone  4-4 (2-2)   @ Stadio Libero Liberati › Terni
+    18:00     Ternana v Frosinone  4-4 (2-2)   @ Stadio Libero Liberati › Terni
               Parma v Ascoli  0-1 (0-1)   @ Stadio Ennio Tardini › Parma
               Pisa v como  3-1 (1-0)   @ Arena Garibaldi-Stadio Romeo Anconetani › Pisa
               Cittadella v Alessandria  1-2 (0-2)   @ Stadio Pier Cesare Tombolato › Cittadella
-    20.30     Monza v Brescia  1-1 (0-0)   @ U-Power Stadium › Monza
-» Regular Season - 36
+    20:30     Monza v Brescia  1-1 (0-0)   @ U-Power Stadium › Monza
+▪ Regular Season - 36
   Mon Apr 25
-    12.30     Ascoli v Cittadella  0-0 (0-0)   @ Stadio Cino e Lillo Del Duca › Ascoli Piceno
-    15.00     Crotone v Cremonese  3-1 (3-0)   @ Stadio Ezio Scida › Crotone
+    12:30     Ascoli v Cittadella  0-0 (0-0)   @ Stadio Cino e Lillo Del Duca › Ascoli Piceno
+    15:00     Crotone v Cremonese  3-1 (3-0)   @ Stadio Ezio Scida › Crotone
               Frosinone v Monza  4-1 (2-1)   @ Stadio Benito Stirpe › Frosinone
               Lecce v Pisa  2-0 (1-0)   @ Stadio Comunale Via del Mare › Lecce
               Alessandria v Reggina  0-0 (0-0)   @ Stadio Giuseppe Moccagatta › Alessandria
               Nuova Cosenza v Pordenone  3-1 (2-1)   @ Stadio San Vito-Luigi Marulla › Cosenza
-    18.00     Brescia v Spal  1-1 (0-0)   @ Stadio Mario Rigamonti › Brescia
+    18:00     Brescia v Spal  1-1 (0-0)   @ Stadio Mario Rigamonti › Brescia
               como v Vicenza Virtus  0-2 (0-1)   @ Stadio Giuseppe Sinigaglia › Como
               Benevento v Ternana  1-2 (1-0)   @ Stadio Ciro Vigorito › Benevento
-    20.30     Perugia v Parma  2-1 (2-0)   @ Stadio Renato Curi › Perugia
-» Regular Season - 37
+    20:30     Perugia v Parma  2-1 (2-0)   @ Stadio Renato Curi › Perugia
+▪ Regular Season - 37
   Sat Apr 30
-    14.00     Spal v Frosinone  3-0 (2-0)   @ Stadio Paolo Mazza › Ferrara
+    14:00     Spal v Frosinone  3-0 (2-0)   @ Stadio Paolo Mazza › Ferrara
               Cittadella v Brescia  1-0 (0-0)   @ Stadio Pier Cesare Tombolato › Cittadella
               Ternana v Perugia  1-0 (1-0)   @ Stadio Libero Liberati › Terni
               Cremonese v Ascoli  0-1 (0-0)   @ Stadio Giovanni Zini › Cremona
@@ -505,11 +505,11 @@
               Pordenone v Crotone  3-3 (0-1)   @ Stadio Guido Teghil › Lignano Sabbiadoro
               Monza v Benevento  3-0 (0-0)   @ U-Power Stadium › Monza
               Vicenza Virtus v Lecce  2-1 (0-0)   @ Stadio Romeo Menti › Vicenza
-    16.15     Reggina v como  1-4 (0-2)   @ Stadio Oreste Granillo › Reggio Calabria
-» Regular Season - 38
+    16:15     Reggina v como  1-4 (0-2)   @ Stadio Oreste Granillo › Reggio Calabria
+▪ Regular Season - 38
   Fri May 6
-    18.15     Crotone v Parma  0-1 (0-1)   @ Stadio Ezio Scida › Crotone
-    20.30     Benevento v Spal  1-2 (0-1)   @ Stadio Ciro Vigorito › Benevento
+    18:15     Crotone v Parma  0-1 (0-1)   @ Stadio Ezio Scida › Crotone
+    20:30     Benevento v Spal  1-2 (0-1)   @ Stadio Ciro Vigorito › Benevento
               Ascoli v Ternana  4-1 (2-0)   @ Stadio Cino e Lillo Del Duca › Ascoli Piceno
               Frosinone v Pisa  1-2 (0-2)   @ Stadio Benito Stirpe › Frosinone
               Brescia v Reggina  3-0 (1-0)   @ Stadio Mario Rigamonti › Brescia
@@ -518,29 +518,29 @@
               Alessandria v Vicenza Virtus  0-1 (0-1)   @ Stadio Giuseppe Moccagatta › Alessandria
               como v Cremonese  1-2 (0-1)   @ Stadio Giuseppe Sinigaglia › Como
               Nuova Cosenza v Cittadella  1-0 (0-0)   @ Stadio San Vito-Luigi Marulla › Cosenza
-» Relegation Play-offs - Final
+▪ Relegation Play-offs - Final
   Thu May 12
-    20.30     Vicenza Virtus v Nuova Cosenza  1-0 (0-0)   @ Stadio Romeo Menti › Vicenza
-» Promotion Play-offs - Qualifying Round
+    20:30     Vicenza Virtus v Nuova Cosenza  1-0 (0-0)   @ Stadio Romeo Menti › Vicenza
+▪ Promotion Play-offs - Qualifying Round
   Fri May 13
-    20.30     Ascoli v Benevento  0-1 (0-1)   @ Stadio Cino e Lillo Del Duca › Ascoli Piceno
+    20:30     Ascoli v Benevento  0-1 (0-1)   @ Stadio Cino e Lillo Del Duca › Ascoli Piceno
   Sat May 14
-    18.00     Brescia v Perugia  3-2 aet (1-1, 1-1)   @ Stadio Mario Rigamonti › Brescia
-» Promotion Play-offs - Semi-finals
+    18:00     Brescia v Perugia  3-2 aet (1-1, 1-1)   @ Stadio Mario Rigamonti › Brescia
+▪ Promotion Play-offs - Semi-finals
   Tue May 17
-    20.30     Benevento v Pisa  1-0 (0-0)   @ Stadio Benito Stirpe › Frosinone
+    20:30     Benevento v Pisa  1-0 (0-0)   @ Stadio Benito Stirpe › Frosinone
   Wed May 18
-    20.00     Brescia v Monza  1-2 (1-1)   @ Stadio Mario Rigamonti › Brescia
-» Relegation Play-offs - Final
+    20:00     Brescia v Monza  1-2 (1-1)   @ Stadio Mario Rigamonti › Brescia
+▪ Relegation Play-offs - Final
   Fri May 20
-    20.30     Nuova Cosenza v Vicenza Virtus  2-0 (0-0)   @ Stadio San Vito-Luigi Marulla › Cosenza
-» Promotion Play-offs - Semi-finals
+    20:30     Nuova Cosenza v Vicenza Virtus  2-0 (0-0)   @ Stadio San Vito-Luigi Marulla › Cosenza
+▪ Promotion Play-offs - Semi-finals
   Sat May 21
-    18.00     Pisa v Benevento  1-0 (1-0)   @ Arena Garibaldi-Stadio Romeo Anconetani › Pisa
+    18:00     Pisa v Benevento  1-0 (1-0)   @ Arena Garibaldi-Stadio Romeo Anconetani › Pisa
   Sun May 22
-    21.00     Monza v Brescia  2-1 (0-1)   @ U-Power Stadium › Monza
-» Promotion Play-offs - Final
+    21:00     Monza v Brescia  2-1 (0-1)   @ U-Power Stadium › Monza
+▪ Promotion Play-offs - Final
   Thu May 26
-    20.30     Monza v Pisa  2-1 (1-0)   @ U-Power Stadium › Monza
+    20:30     Monza v Pisa  2-1 (1-0)   @ U-Power Stadium › Monza
   Sun May 29
-    20.30     Pisa v Monza  3-4 aet (3-2, 2-1)   @ Arena Garibaldi-Stadio Romeo Anconetani › Pisa
+    20:30     Pisa v Monza  3-4 aet (3-2, 2-1)   @ Arena Garibaldi-Stadio Romeo Anconetani › Pisa

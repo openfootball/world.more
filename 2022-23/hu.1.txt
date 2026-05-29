@@ -1,337 +1,337 @@
 = Hungary | NB I 2022/23
 
-  # Date       Fri Jul/29 2022 - Sun May/28 2023 (303d)
+  # Date       Fri Jul 29 2022 - Sun May 28 2023 (303d)
   # Teams      12
   # Matches    198
 
   # Note - All times in Europe/Budapest
 
-» Regular Season - 1
+▪ Regular Season - 1
   Fri Jul 29 2022
-    20.00     Budapest Honved v Zalaegerszegi TE  0-1 (0-0)   @ Bozsik Aréna › Budapest
+    20:00     Budapest Honved v Zalaegerszegi TE  0-1 (0-0)   @ Bozsik Aréna › Budapest
   Sat Jul 30
-    17.45     Kecskeméti TE v Vasas  0-0 (0-0)   @ Széktói Stadion › Kecskemét
-    20.00     Ujpest v Mezokovesd-zsory  1-1 (1-0)   @ Szusza Ferenc Stadion › Budapest
+    17:45     Kecskeméti TE v Vasas  0-0 (0-0)   @ Széktói Stadion › Kecskemét
+    20:00     Ujpest v Mezokovesd-zsory  1-1 (1-0)   @ Szusza Ferenc Stadion › Budapest
   Sun Jul 31
-    15.45     Kisvarda FC v Debreceni VSC  2-2 (0-0)   @ Várkerti Stadion › Kisvárda
-    18.00     Paks v Fehérvár FC  2-0 (1-0)   @ Paksi FC Stadion › Paks
-    20.30     Ferencvarosi TC v Puskas Academy  1-0 (0-0)   @ Groupama Aréna › Budapest
-» Regular Season - 2
+    15:45     Kisvarda FC v Debreceni VSC  2-2 (0-0)   @ Várkerti Stadion › Kisvárda
+    18:00     Paks v Fehérvár FC  2-0 (1-0)   @ Paksi FC Stadion › Paks
+    20:30     Ferencvarosi TC v Puskas Academy  1-0 (0-0)   @ Groupama Aréna › Budapest
+▪ Regular Season - 2
   Fri Aug 5
-    20.00     Vasas v Paks  2-2 (2-1)   @ Illovszky Rudolf Stadion › Budapest
+    20:00     Vasas v Paks  2-2 (2-1)   @ Illovszky Rudolf Stadion › Budapest
   Sat Aug 6
-    20.00     Debreceni VSC v Kecskeméti TE  1-1 (0-0)   @ Nagyerdei Stadion › Debrecen
+    20:00     Debreceni VSC v Kecskeméti TE  1-1 (0-0)   @ Nagyerdei Stadion › Debrecen
   Sun Aug 7
-    15.30     Kisvarda FC v Mezokovesd-zsory  4-2 (2-1)   @ Várkerti Stadion › Kisvárda
-    17.45     Puskas Academy v Ujpest  2-0 (1-0)   @ Puskás Akadémia Pancho Aréna › Felcsút
-    20.00     Fehérvár FC v Budapest Honved  4-0 (2-0)   @ MOL Aréna Sóstó › Székesfehérvár
-» Regular Season - 3
+    15:30     Kisvarda FC v Mezokovesd-zsory  4-2 (2-1)   @ Várkerti Stadion › Kisvárda
+    17:45     Puskas Academy v Ujpest  2-0 (1-0)   @ Puskás Akadémia Pancho Aréna › Felcsút
+    20:00     Fehérvár FC v Budapest Honved  4-0 (2-0)   @ MOL Aréna Sóstó › Székesfehérvár
+▪ Regular Season - 3
   Fri Aug 12
-    20.00     Debreceni VSC v Vasas  1-1 (0-1)   @ Nagyerdei Stadion › Debrecen
+    20:00     Debreceni VSC v Vasas  1-1 (0-1)   @ Nagyerdei Stadion › Debrecen
   Sat Aug 13
-    18.00     Kecskeméti TE v Mezokovesd-zsory  1-0 (1-0)   @ Széktói Stadion › Kecskemét
-    20.15     Ujpest v Zalaegerszegi TE  1-1 (0-1)   @ Szusza Ferenc Stadion › Budapest
+    18:00     Kecskeméti TE v Mezokovesd-zsory  1-0 (1-0)   @ Széktói Stadion › Kecskemét
+    20:15     Ujpest v Zalaegerszegi TE  1-1 (0-1)   @ Szusza Ferenc Stadion › Budapest
   Sun Aug 14
-    18.00     Kisvarda FC v Puskas Academy  1-1 (0-1)   @ Várkerti Stadion › Kisvárda
-    20.00     Ferencvarosi TC v Fehérvár FC  4-0 (3-0)   @ Groupama Aréna › Budapest
+    18:00     Kisvarda FC v Puskas Academy  1-1 (0-1)   @ Várkerti Stadion › Kisvárda
+    20:00     Ferencvarosi TC v Fehérvár FC  4-0 (3-0)   @ Groupama Aréna › Budapest
               Budapest Honved v Paks  3-3 (2-0)   @ Bozsik Aréna › Budapest
-» Regular Season - 4
+▪ Regular Season - 4
   Fri Aug 19
-    20.00     Puskas Academy v Kecskeméti TE  1-1 (0-1)   @ Puskás Akadémia Pancho Aréna › Felcsút
+    20:00     Puskas Academy v Kecskeméti TE  1-1 (0-1)   @ Puskás Akadémia Pancho Aréna › Felcsút
   Sun Aug 21
-    17.55     Zalaegerszegi TE v Kisvarda FC  1-3 (1-1)   @ ZTE-Aréna › Zalaegerszeg
-    20.00     Vasas v Budapest Honved  1-2 (1-1)   @ Illovszky Rudolf Stadion › Budapest
+    17:55     Zalaegerszegi TE v Kisvarda FC  1-3 (1-1)   @ ZTE-Aréna › Zalaegerszeg
+    20:00     Vasas v Budapest Honved  1-2 (1-1)   @ Illovszky Rudolf Stadion › Budapest
   Mon Aug 22
-    20.00     Mezokovesd-zsory v Debreceni VSC  4-2 (3-1)   @ Városi Stadion › Mezőkövesd
-» Regular Season - 5
+    20:00     Mezokovesd-zsory v Debreceni VSC  4-2 (3-1)   @ Városi Stadion › Mezőkövesd
+▪ Regular Season - 5
   Fri Aug 26
-    20.00     Ujpest v Paks  2-3 (0-1)   @ Szusza Ferenc Stadion › Budapest
+    20:00     Ujpest v Paks  2-3 (0-1)   @ Szusza Ferenc Stadion › Budapest
   Sat Aug 27
-    15.30     Mezokovesd-zsory v Vasas  1-1 (1-1)   @ Városi Stadion › Mezőkövesd
-    17.30     Kecskeméti TE v Zalaegerszegi TE  3-1 (1-1)   @ Széktói Stadion › Kecskemét
-    19.45     Debreceni VSC v Puskas Academy  1-1 (1-0)   @ Nagyerdei Stadion › Debrecen
+    15:30     Mezokovesd-zsory v Vasas  1-1 (1-1)   @ Városi Stadion › Mezőkövesd
+    17:30     Kecskeméti TE v Zalaegerszegi TE  3-1 (1-1)   @ Széktói Stadion › Kecskemét
+    19:45     Debreceni VSC v Puskas Academy  1-1 (1-0)   @ Nagyerdei Stadion › Debrecen
   Sun Aug 28
-    14.30     Kisvarda FC v Fehérvár FC  3-1 (0-0)   @ Várkerti Stadion › Kisvárda
-    17.30     Ferencvarosi TC v Budapest Honved  3-1 (1-0)   @ Groupama Aréna › Budapest
-» Regular Season - 6
+    14:30     Kisvarda FC v Fehérvár FC  3-1 (0-0)   @ Várkerti Stadion › Kisvárda
+    17:30     Ferencvarosi TC v Budapest Honved  3-1 (1-0)   @ Groupama Aréna › Budapest
+▪ Regular Season - 6
   Tue Aug 30
-    17.45     Puskas Academy v Mezokovesd-zsory  1-0 (0-0)   @ Puskás Akadémia Pancho Aréna › Felcsút
-    20.00     Zalaegerszegi TE v Debreceni VSC  4-2 (1-0)   @ ZTE-Aréna › Zalaegerszeg
+    17:45     Puskas Academy v Mezokovesd-zsory  1-0 (0-0)   @ Puskás Akadémia Pancho Aréna › Felcsút
+    20:00     Zalaegerszegi TE v Debreceni VSC  4-2 (1-0)   @ ZTE-Aréna › Zalaegerszeg
   Wed Aug 31
-    17.00     Paks v Kisvarda FC  1-3 (0-2)   @ Paksi FC Stadion › Paks
-    19.30     Fehérvár FC v Kecskeméti TE  2-1 (1-1)   @ MOL Aréna Sóstó › Székesfehérvár
-    20.30     Vasas v Ferencvarosi TC  0-1 (0-1)   @ Illovszky Rudolf Stadion › Budapest
+    17:00     Paks v Kisvarda FC  1-3 (0-2)   @ Paksi FC Stadion › Paks
+    19:30     Fehérvár FC v Kecskeméti TE  2-1 (1-1)   @ MOL Aréna Sóstó › Székesfehérvár
+    20:30     Vasas v Ferencvarosi TC  0-1 (0-1)   @ Illovszky Rudolf Stadion › Budapest
   Thu Sep 1
-    19.00     Budapest Honved v Ujpest  0-0 (0-0)   @ Bozsik Aréna › Budapest
-» Regular Season - 7
+    19:00     Budapest Honved v Ujpest  0-0 (0-0)   @ Bozsik Aréna › Budapest
+▪ Regular Season - 7
   Fri Sep 2
-    20.00     Mezokovesd-zsory v Zalaegerszegi TE  0-5 (0-1)   @ Városi Stadion › Mezőkövesd
+    20:00     Mezokovesd-zsory v Zalaegerszegi TE  0-5 (0-1)   @ Városi Stadion › Mezőkövesd
   Sat Sep 3
-    14.00     Kecskeméti TE v Paks  3-1 (0-0)   @ Széktói Stadion › Kecskemét
-    16.15     Vasas v Puskas Academy  1-1 (1-0)   @ Illovszky Rudolf Stadion › Budapest
-    18.15     Debreceni VSC v Fehérvár FC  1-0 (1-0)   @ Nagyerdei Stadion › Debrecen
+    14:00     Kecskeméti TE v Paks  3-1 (0-0)   @ Széktói Stadion › Kecskemét
+    16:15     Vasas v Puskas Academy  1-1 (1-0)   @ Illovszky Rudolf Stadion › Budapest
+    18:15     Debreceni VSC v Fehérvár FC  1-0 (1-0)   @ Nagyerdei Stadion › Debrecen
   Sun Sep 4
-    14.45     Kisvarda FC v Budapest Honved  0-1 (0-1)   @ Várkerti Stadion › Kisvárda
-    17.30     Ujpest v Ferencvarosi TC  0-6 (0-4)   @ Szusza Ferenc Stadion › Budapest
-» Regular Season - 8
+    14:45     Kisvarda FC v Budapest Honved  0-1 (0-1)   @ Várkerti Stadion › Kisvárda
+    17:30     Ujpest v Ferencvarosi TC  0-6 (0-4)   @ Szusza Ferenc Stadion › Budapest
+▪ Regular Season - 8
   Sat Sep 10
-    15.30     Paks v Debreceni VSC  1-0 (1-0)   @ Paksi FC Stadion › Paks
-    17.45     Budapest Honved v Kecskeméti TE  0-0 (0-0)   @ Bozsik Aréna › Budapest
-    20.00     Fehérvár FC v Mezokovesd-zsory  2-1 (1-0)   @ MOL Aréna Sóstó › Székesfehérvár
+    15:30     Paks v Debreceni VSC  1-0 (1-0)   @ Paksi FC Stadion › Paks
+    17:45     Budapest Honved v Kecskeméti TE  0-0 (0-0)   @ Bozsik Aréna › Budapest
+    20:00     Fehérvár FC v Mezokovesd-zsory  2-1 (1-0)   @ MOL Aréna Sóstó › Székesfehérvár
   Sun Sep 11
-    15.00     Zalaegerszegi TE v Puskas Academy  1-2 (1-0)   @ ZTE-Aréna › Zalaegerszeg
-    17.30     Ferencvarosi TC v Kisvarda FC  3-0 (1-0)   @ Groupama Aréna › Budapest
-    20.00     Ujpest v Vasas  2-1 (1-1)   @ Szusza Ferenc Stadion › Budapest
-» Regular Season - 9
+    15:00     Zalaegerszegi TE v Puskas Academy  1-2 (1-0)   @ ZTE-Aréna › Zalaegerszeg
+    17:30     Ferencvarosi TC v Kisvarda FC  3-0 (1-0)   @ Groupama Aréna › Budapest
+    20:00     Ujpest v Vasas  2-1 (1-1)   @ Szusza Ferenc Stadion › Budapest
+▪ Regular Season - 9
   Fri Sep 30
-    20.00     Mezokovesd-zsory v Paks  1-2 (1-0)   @ Városi Stadion › Mezőkövesd
+    20:00     Mezokovesd-zsory v Paks  1-2 (1-0)   @ Városi Stadion › Mezőkövesd
   Sat Oct 1
-    14.30     Ujpest v Kisvarda FC  4-0 (3-0)   @ Szusza Ferenc Stadion › Budapest
-    17.00     Debreceni VSC v Budapest Honved  4-3 (3-0)   @ Nagyerdei Stadion › Debrecen
-    19.30     Vasas v Zalaegerszegi TE  1-1 (1-0)   @ Illovszky Rudolf Stadion › Budapest
+    14:30     Ujpest v Kisvarda FC  4-0 (3-0)   @ Szusza Ferenc Stadion › Budapest
+    17:00     Debreceni VSC v Budapest Honved  4-3 (3-0)   @ Nagyerdei Stadion › Debrecen
+    19:30     Vasas v Zalaegerszegi TE  1-1 (1-0)   @ Illovszky Rudolf Stadion › Budapest
   Sun Oct 2
-    16.30     Kecskeméti TE v Ferencvarosi TC  2-0 (2-0)   @ Széktói Stadion › Kecskemét
-    18.45     Puskas Academy v Fehérvár FC  1-1 (0-0)   @ Puskás Akadémia Pancho Aréna › Felcsút
-» Regular Season - 10
+    16:30     Kecskeméti TE v Ferencvarosi TC  2-0 (2-0)   @ Széktói Stadion › Kecskemét
+    18:45     Puskas Academy v Fehérvár FC  1-1 (0-0)   @ Puskás Akadémia Pancho Aréna › Felcsút
+▪ Regular Season - 10
   Fri Oct 7
-    18.00     Fehérvár FC v Zalaegerszegi TE  1-1 (1-0)   @ MOL Aréna Sóstó › Székesfehérvár
-    20.05     Ujpest v Kecskeméti TE  1-2 (0-0)   @ Szusza Ferenc Stadion › Budapest
+    18:00     Fehérvár FC v Zalaegerszegi TE  1-1 (1-0)   @ MOL Aréna Sóstó › Székesfehérvár
+    20:05     Ujpest v Kecskeméti TE  1-2 (0-0)   @ Szusza Ferenc Stadion › Budapest
   Sat Oct 8
-    17.00     Kisvarda FC v Vasas  2-0 (2-0)   @ Várkerti Stadion › Kisvárda
-    19.30     Budapest Honved v Mezokovesd-zsory  2-2 (2-2)   @ Bozsik Aréna › Budapest
+    17:00     Kisvarda FC v Vasas  2-0 (2-0)   @ Várkerti Stadion › Kisvárda
+    19:30     Budapest Honved v Mezokovesd-zsory  2-2 (2-2)   @ Bozsik Aréna › Budapest
   Sun Oct 9
-    15.30     Paks v Puskas Academy  1-3 (1-1)   @ Paksi FC Stadion › Paks
-    18.00     Ferencvarosi TC v Debreceni VSC  2-0 (1-0)   @ Groupama Aréna › Budapest
-» Regular Season - 4
+    15:30     Paks v Puskas Academy  1-3 (1-1)   @ Paksi FC Stadion › Paks
+    18:00     Ferencvarosi TC v Debreceni VSC  2-0 (1-0)   @ Groupama Aréna › Budapest
+▪ Regular Season - 4
   Mon Oct 10
-    19.00     Fehérvár FC v Ujpest  0-1 (0-0)   @ MOL Aréna Sóstó › Székesfehérvár
-» Regular Season - 11
+    19:00     Fehérvár FC v Ujpest  0-1 (0-0)   @ MOL Aréna Sóstó › Székesfehérvár
+▪ Regular Season - 11
   Fri Oct 14
-    20.00     Kecskeméti TE v Kisvarda FC  3-3 (1-1)   @ Széktói Stadion › Kecskemét
+    20:00     Kecskeméti TE v Kisvarda FC  3-3 (1-1)   @ Széktói Stadion › Kecskemét
   Sat Oct 15
-    14.45     Zalaegerszegi TE v Paks  3-0 (2-0)   @ ZTE-Aréna › Zalaegerszeg
-    17.00     Puskas Academy v Budapest Honved  1-0 (1-0)   @ Puskás Akadémia Pancho Aréna › Felcsút
-    19.30     Vasas v Fehérvár FC  2-0 (1-0)   @ Illovszky Rudolf Stadion › Budapest
+    14:45     Zalaegerszegi TE v Paks  3-0 (2-0)   @ ZTE-Aréna › Zalaegerszeg
+    17:00     Puskas Academy v Budapest Honved  1-0 (1-0)   @ Puskás Akadémia Pancho Aréna › Felcsút
+    19:30     Vasas v Fehérvár FC  2-0 (1-0)   @ Illovszky Rudolf Stadion › Budapest
   Sun Oct 16
-    13.45     Debreceni VSC v Ujpest  4-1 (1-1)   @ Nagyerdei Stadion › Debrecen
-    17.45     Mezokovesd-zsory v Ferencvarosi TC  2-1 (1-1)   @ Városi Stadion › Mezőkövesd
-» Regular Season - 12
+    13:45     Debreceni VSC v Ujpest  4-1 (1-1)   @ Nagyerdei Stadion › Debrecen
+    17:45     Mezokovesd-zsory v Ferencvarosi TC  2-1 (1-1)   @ Városi Stadion › Mezőkövesd
+▪ Regular Season - 12
   Fri Oct 21
-    20.00     Vasas v Kecskeméti TE  1-2 (0-2)   @ Illovszky Rudolf Stadion › Budapest
+    20:00     Vasas v Kecskeméti TE  1-2 (0-2)   @ Illovszky Rudolf Stadion › Budapest
   Sat Oct 22
-    13.30     Zalaegerszegi TE v Budapest Honved  0-2 (0-1)   @ ZTE-Aréna › Zalaegerszeg
-    16.30     Fehérvár FC v Paks  1-1 (1-0)   @ MOL Aréna Sóstó › Székesfehérvár
-    18.30     Puskas Academy v Ferencvarosi TC  2-4 (2-3)   @ Puskás Akadémia Pancho Aréna › Felcsút
+    13:30     Zalaegerszegi TE v Budapest Honved  0-2 (0-1)   @ ZTE-Aréna › Zalaegerszeg
+    16:30     Fehérvár FC v Paks  1-1 (1-0)   @ MOL Aréna Sóstó › Székesfehérvár
+    18:30     Puskas Academy v Ferencvarosi TC  2-4 (2-3)   @ Puskás Akadémia Pancho Aréna › Felcsút
   Mon Oct 24
-    18.00     Mezokovesd-zsory v Ujpest  1-0 (0-0)   @ Városi Stadion › Mezőkövesd
-    20.15     Debreceni VSC v Kisvarda FC  2-3 (1-1)   @ Nagyerdei Stadion › Debrecen
-» Regular Season - 13
+    18:00     Mezokovesd-zsory v Ujpest  1-0 (0-0)   @ Városi Stadion › Mezőkövesd
+    20:15     Debreceni VSC v Kisvarda FC  2-3 (1-1)   @ Nagyerdei Stadion › Debrecen
+▪ Regular Season - 13
   Fri Oct 28
-    20.00     Mezokovesd-zsory v Kisvarda FC  1-1 (0-0)   @ Városi Stadion › Mezőkövesd
+    20:00     Mezokovesd-zsory v Kisvarda FC  1-1 (0-0)   @ Városi Stadion › Mezőkövesd
   Sat Oct 29
-    14.15     Budapest Honved v Fehérvár FC  0-1 (0-1)   @ Bozsik Aréna › Budapest
-    17.00     Kecskeméti TE v Debreceni VSC  2-2 (1-0)   @ Széktói Stadion › Kecskemét
-    19.30     Paks v Vasas  0-1 (0-1)   @ Paksi FC Stadion › Paks
+    14:15     Budapest Honved v Fehérvár FC  0-1 (0-1)   @ Bozsik Aréna › Budapest
+    17:00     Kecskeméti TE v Debreceni VSC  2-2 (1-0)   @ Széktói Stadion › Kecskemét
+    19:30     Paks v Vasas  0-1 (0-1)   @ Paksi FC Stadion › Paks
   Sun Oct 30
-    15.00     Ujpest v Puskas Academy  3-3 (1-1)   @ Szusza Ferenc Stadion › Budapest
-    17.30     Ferencvarosi TC v Zalaegerszegi TE  2-1 (1-0)   @ Groupama Aréna › Budapest
-» Regular Season - 14
+    15:00     Ujpest v Puskas Academy  3-3 (1-1)   @ Szusza Ferenc Stadion › Budapest
+    17:30     Ferencvarosi TC v Zalaegerszegi TE  2-1 (1-0)   @ Groupama Aréna › Budapest
+▪ Regular Season - 14
   Sat Nov 5
-    14.45     Mezokovesd-zsory v Kecskeméti TE  2-1 (2-1)   @ Városi Stadion › Mezőkövesd
-    17.00     Puskas Academy v Kisvarda FC  0-1 (0-0)   @ Puskás Akadémia Pancho Aréna › Felcsút
-    19.30     Zalaegerszegi TE v Ujpest  1-0 (1-0)   @ ZTE-Aréna › Zalaegerszeg
+    14:45     Mezokovesd-zsory v Kecskeméti TE  2-1 (2-1)   @ Városi Stadion › Mezőkövesd
+    17:00     Puskas Academy v Kisvarda FC  0-1 (0-0)   @ Puskás Akadémia Pancho Aréna › Felcsút
+    19:30     Zalaegerszegi TE v Ujpest  1-0 (1-0)   @ ZTE-Aréna › Zalaegerszeg
   Sun Nov 6
-    15.15     Vasas v Debreceni VSC  0-3 (0-3)   @ Illovszky Rudolf Stadion › Budapest
-    18.00     Paks v Budapest Honved  5-0 (2-0)   @ Paksi FC Stadion › Paks
-    20.00     Fehérvár FC v Ferencvarosi TC  2-2 (0-1)   @ MOL Aréna Sóstó › Székesfehérvár
-» Regular Season - 15
+    15:15     Vasas v Debreceni VSC  0-3 (0-3)   @ Illovszky Rudolf Stadion › Budapest
+    18:00     Paks v Budapest Honved  5-0 (2-0)   @ Paksi FC Stadion › Paks
+    20:00     Fehérvár FC v Ferencvarosi TC  2-2 (0-1)   @ MOL Aréna Sóstó › Székesfehérvár
+▪ Regular Season - 15
   Tue Nov 8
-    18.00     Kisvarda FC v Zalaegerszegi TE  0-3 (0-1)   @ Várkerti Stadion › Kisvárda
-    20.00     Kecskeméti TE v Puskas Academy  1-1 (0-1)   @ Széktói Stadion › Kecskemét
+    18:00     Kisvarda FC v Zalaegerszegi TE  0-3 (0-1)   @ Várkerti Stadion › Kisvárda
+    20:00     Kecskeméti TE v Puskas Academy  1-1 (0-1)   @ Széktói Stadion › Kecskemét
   Wed Nov 9
-    18.00     Debreceni VSC v Mezokovesd-zsory  1-0 (0-0)   @ Nagyerdei Stadion › Debrecen
-    18.15     Ferencvarosi TC v Paks  3-2 (2-2)   @ Groupama Aréna › Budapest
-    20.00     Ujpest v Fehérvár FC  2-1 (1-0)   @ Szusza Ferenc Stadion › Budapest
+    18:00     Debreceni VSC v Mezokovesd-zsory  1-0 (0-0)   @ Nagyerdei Stadion › Debrecen
+    18:15     Ferencvarosi TC v Paks  3-2 (2-2)   @ Groupama Aréna › Budapest
+    20:00     Ujpest v Fehérvár FC  2-1 (1-0)   @ Szusza Ferenc Stadion › Budapest
   Thu Nov 10
-    19.00     Budapest Honved v Vasas  2-0 (0-0)   @ Bozsik Aréna › Budapest
-» Regular Season - 16
+    19:00     Budapest Honved v Vasas  2-0 (0-0)   @ Bozsik Aréna › Budapest
+▪ Regular Season - 16
   Sat Nov 12
-    14.15     Puskas Academy v Debreceni VSC  2-1 (1-1)   @ Puskás Akadémia Pancho Aréna › Felcsút
-    16.00     Paks v Ujpest  3-1 (1-0)   @ Paksi FC Stadion › Paks
-    18.15     Zalaegerszegi TE v Kecskeméti TE  0-0 (0-0)   @ ZTE-Aréna › Zalaegerszeg
+    14:15     Puskas Academy v Debreceni VSC  2-1 (1-1)   @ Puskás Akadémia Pancho Aréna › Felcsút
+    16:00     Paks v Ujpest  3-1 (1-0)   @ Paksi FC Stadion › Paks
+    18:15     Zalaegerszegi TE v Kecskeméti TE  0-0 (0-0)   @ ZTE-Aréna › Zalaegerszeg
   Sun Nov 13
-    13.30     Fehérvár FC v Kisvarda FC  4-1 (2-0)   @ MOL Aréna Sóstó › Székesfehérvár
-    15.45     Budapest Honved v Ferencvarosi TC  0-2 (0-0)   @ Bozsik Aréna › Budapest
-    18.00     Vasas v Mezokovesd-zsory  1-0 (1-0)   @ Illovszky Rudolf Stadion › Budapest
-» Regular Season - 2
+    13:30     Fehérvár FC v Kisvarda FC  4-1 (2-0)   @ MOL Aréna Sóstó › Székesfehérvár
+    15:45     Budapest Honved v Ferencvarosi TC  0-2 (0-0)   @ Bozsik Aréna › Budapest
+    18:00     Vasas v Mezokovesd-zsory  1-0 (1-0)   @ Illovszky Rudolf Stadion › Budapest
+▪ Regular Season - 2
   Tue Jan 24 2023
-    18.30     Zalaegerszegi TE v Ferencvarosi TC  1-2 (1-1)   @ ZTE-Aréna › Zalaegerszeg
-» Regular Season - 17
+    18:30     Zalaegerszegi TE v Ferencvarosi TC  1-2 (1-1)   @ ZTE-Aréna › Zalaegerszeg
+▪ Regular Season - 17
   Sat Jan 28
-    14.30     Kisvarda FC v Paks  2-2 (0-1)   @ Várkerti Stadion › Kisvárda
-    17.00     Debreceni VSC v Zalaegerszegi TE  3-0 (2-0)   @ Nagyerdei Stadion › Debrecen
-    19.30     Ferencvarosi TC v Vasas  0-0 (0-0)   @ Groupama Aréna › Budapest
+    14:30     Kisvarda FC v Paks  2-2 (0-1)   @ Várkerti Stadion › Kisvárda
+    17:00     Debreceni VSC v Zalaegerszegi TE  3-0 (2-0)   @ Nagyerdei Stadion › Debrecen
+    19:30     Ferencvarosi TC v Vasas  0-0 (0-0)   @ Groupama Aréna › Budapest
   Sun Jan 29
-    13.00     Mezokovesd-zsory v Puskas Academy  1-0 (0-0)   @ Városi Stadion › Mezőkövesd
-    15.30     Ujpest v Budapest Honved  2-1 (0-1)   @ Szusza Ferenc Stadion › Budapest
-    17.30     Kecskeméti TE v Fehérvár FC  2-1 (1-1)   @ Széktói Stadion › Kecskemét
-» Regular Season - 4
+    13:00     Mezokovesd-zsory v Puskas Academy  1-0 (0-0)   @ Városi Stadion › Mezőkövesd
+    15:30     Ujpest v Budapest Honved  2-1 (0-1)   @ Szusza Ferenc Stadion › Budapest
+    17:30     Kecskeméti TE v Fehérvár FC  2-1 (1-1)   @ Széktói Stadion › Kecskemét
+▪ Regular Season - 4
   Wed Feb 1
-    18.30     Paks v Ferencvarosi TC  1-3 (0-0)   @ Paksi FC Stadion › Paks
-» Regular Season - 18
+    18:30     Paks v Ferencvarosi TC  1-3 (0-0)   @ Paksi FC Stadion › Paks
+▪ Regular Season - 18
   Fri Feb 3
-    20.00     Puskas Academy v Vasas  1-1 (1-0)   @ Puskás Akadémia Pancho Aréna › Felcsút
+    20:00     Puskas Academy v Vasas  1-1 (1-0)   @ Puskás Akadémia Pancho Aréna › Felcsút
   Sat Feb 4
-    14.30     Paks v Kecskeméti TE  0-0 (0-0)   @ Paksi FC Stadion › Paks
-    17.00     Budapest Honved v Kisvarda FC  1-1 (0-0)   @ Bozsik Aréna › Budapest
-    19.30     Fehérvár FC v Debreceni VSC  1-1 (0-1)   @ MOL Aréna Sóstó › Székesfehérvár
+    14:30     Paks v Kecskeméti TE  0-0 (0-0)   @ Paksi FC Stadion › Paks
+    17:00     Budapest Honved v Kisvarda FC  1-1 (0-0)   @ Bozsik Aréna › Budapest
+    19:30     Fehérvár FC v Debreceni VSC  1-1 (0-1)   @ MOL Aréna Sóstó › Székesfehérvár
   Sun Feb 5
-    15.00     Zalaegerszegi TE v Mezokovesd-zsory  0-0 (0-0)   @ ZTE-Aréna › Zalaegerszeg
-    17.30     Ferencvarosi TC v Ujpest  3-1 (1-0)   @ Groupama Aréna › Budapest
-» Regular Season - 19
+    15:00     Zalaegerszegi TE v Mezokovesd-zsory  0-0 (0-0)   @ ZTE-Aréna › Zalaegerszeg
+    17:30     Ferencvarosi TC v Ujpest  3-1 (1-0)   @ Groupama Aréna › Budapest
+▪ Regular Season - 19
   Fri Feb 10
-    20.00     Mezokovesd-zsory v Fehérvár FC  2-1 (1-1)   @ Városi Stadion › Mezőkövesd
+    20:00     Mezokovesd-zsory v Fehérvár FC  2-1 (1-1)   @ Városi Stadion › Mezőkövesd
   Sat Feb 11
-    14.30     Kecskeméti TE v Budapest Honved  2-2 (2-2)   @ Széktói Stadion › Kecskemét
-    17.00     Kisvarda FC v Ferencvarosi TC  0-0 (0-0)   @ Várkerti Stadion › Kisvárda
-    19.30     Debreceni VSC v Paks  2-1 (0-0)   @ Nagyerdei Stadion › Debrecen
+    14:30     Kecskeméti TE v Budapest Honved  2-2 (2-2)   @ Széktói Stadion › Kecskemét
+    17:00     Kisvarda FC v Ferencvarosi TC  0-0 (0-0)   @ Várkerti Stadion › Kisvárda
+    19:30     Debreceni VSC v Paks  2-1 (0-0)   @ Nagyerdei Stadion › Debrecen
   Sun Feb 12
-    15.00     Puskas Academy v Zalaegerszegi TE  1-0 (0-0)   @ Puskás Akadémia Pancho Aréna › Felcsút
-    17.30     Vasas v Ujpest  0-1 (0-0)   @ Illovszky Rudolf Stadion › Budapest
-» Regular Season - 20
+    15:00     Puskas Academy v Zalaegerszegi TE  1-0 (0-0)   @ Puskás Akadémia Pancho Aréna › Felcsút
+    17:30     Vasas v Ujpest  0-1 (0-0)   @ Illovszky Rudolf Stadion › Budapest
+▪ Regular Season - 20
   Fri Feb 17
-    20.00     Kisvarda FC v Ujpest  2-1 (1-0)   @ Várkerti Stadion › Kisvárda
+    20:00     Kisvarda FC v Ujpest  2-1 (1-0)   @ Várkerti Stadion › Kisvárda
   Sat Feb 18
-    14.30     Paks v Mezokovesd-zsory  0-2 (0-0)   @ Paksi FC Stadion › Paks
-    17.00     Ferencvarosi TC v Kecskeméti TE  1-1 (1-0)   @ Groupama Aréna › Budapest
-    19.30     Fehérvár FC v Puskas Academy  1-1 (0-0)   @ MOL Aréna Sóstó › Székesfehérvár
+    14:30     Paks v Mezokovesd-zsory  0-2 (0-0)   @ Paksi FC Stadion › Paks
+    17:00     Ferencvarosi TC v Kecskeméti TE  1-1 (1-0)   @ Groupama Aréna › Budapest
+    19:30     Fehérvár FC v Puskas Academy  1-1 (0-0)   @ MOL Aréna Sóstó › Székesfehérvár
   Sun Feb 19
-    15.00     Zalaegerszegi TE v Vasas  0-0 (0-0)   @ ZTE-Aréna › Zalaegerszeg
-    17.30     Budapest Honved v Debreceni VSC  2-3 (0-1)   @ Bozsik Aréna › Budapest
-» Regular Season - 21
+    15:00     Zalaegerszegi TE v Vasas  0-0 (0-0)   @ ZTE-Aréna › Zalaegerszeg
+    17:30     Budapest Honved v Debreceni VSC  2-3 (0-1)   @ Bozsik Aréna › Budapest
+▪ Regular Season - 21
   Fri Feb 24
-    20.00     Mezokovesd-zsory v Budapest Honved  0-0 (0-0)   @ Városi Stadion › Mezőkövesd
+    20:00     Mezokovesd-zsory v Budapest Honved  0-0 (0-0)   @ Városi Stadion › Mezőkövesd
   Sat Feb 25
-    14.30     Zalaegerszegi TE v Fehérvár FC  2-1 (1-1)   @ ZTE-Aréna › Zalaegerszeg
-    17.00     Puskas Academy v Paks  1-4 (1-2)   @ Puskás Akadémia Pancho Aréna › Felcsút
-    19.30     Vasas v Kisvarda FC  2-2 (1-1)   @ Illovszky Rudolf Stadion › Budapest
+    14:30     Zalaegerszegi TE v Fehérvár FC  2-1 (1-1)   @ ZTE-Aréna › Zalaegerszeg
+    17:00     Puskas Academy v Paks  1-4 (1-2)   @ Puskás Akadémia Pancho Aréna › Felcsút
+    19:30     Vasas v Kisvarda FC  2-2 (1-1)   @ Illovszky Rudolf Stadion › Budapest
   Sun Feb 26
-    14.00     Kecskeméti TE v Ujpest  2-2 (0-1)   @ Széktói Stadion › Kecskemét
-    16.30     Debreceni VSC v Ferencvarosi TC  0-2 (0-1)   @ Nagyerdei Stadion › Debrecen
-» Regular Season - 22
+    14:00     Kecskeméti TE v Ujpest  2-2 (0-1)   @ Széktói Stadion › Kecskemét
+    16:30     Debreceni VSC v Ferencvarosi TC  0-2 (0-1)   @ Nagyerdei Stadion › Debrecen
+▪ Regular Season - 22
   Fri Mar 3
-    20.15     Ferencvarosi TC v Mezokovesd-zsory  1-1 (1-1)   @ Groupama Aréna › Budapest
+    20:15     Ferencvarosi TC v Mezokovesd-zsory  1-1 (1-1)   @ Groupama Aréna › Budapest
   Sat Mar 4
-    14.15     Kisvarda FC v Kecskeméti TE  0-1 (0-0)   @ Várkerti Stadion › Kisvárda
-    17.45     Paks v Zalaegerszegi TE  3-1 (2-1)   @ Paksi FC Stadion › Paks
-    20.15     Fehérvár FC v Vasas  2-1 (1-1)   @ MOL Aréna Sóstó › Székesfehérvár
+    14:15     Kisvarda FC v Kecskeméti TE  0-1 (0-0)   @ Várkerti Stadion › Kisvárda
+    17:45     Paks v Zalaegerszegi TE  3-1 (2-1)   @ Paksi FC Stadion › Paks
+    20:15     Fehérvár FC v Vasas  2-1 (1-1)   @ MOL Aréna Sóstó › Székesfehérvár
   Sun Mar 5
-    15.00     Budapest Honved v Puskas Academy  3-1 (0-0)   @ Bozsik Aréna › Budapest
-    18.30     Ujpest v Debreceni VSC  1-1 (1-1)   @ Szusza Ferenc Stadion › Budapest
-» Regular Season - 23
+    15:00     Budapest Honved v Puskas Academy  3-1 (0-0)   @ Bozsik Aréna › Budapest
+    18:30     Ujpest v Debreceni VSC  1-1 (1-1)   @ Szusza Ferenc Stadion › Budapest
+▪ Regular Season - 23
   Sat Mar 11
-    14.30     Kisvarda FC v Debreceni VSC  0-1 (0-0)   @ Várkerti Stadion › Kisvárda
-    17.00     Paks v Fehérvár FC  2-1 (1-1)   @ Paksi FC Stadion › Paks
-    19.30     Budapest Honved v Zalaegerszegi TE  1-0 (1-0)   @ Bozsik Aréna › Budapest
+    14:30     Kisvarda FC v Debreceni VSC  0-1 (0-0)   @ Várkerti Stadion › Kisvárda
+    17:00     Paks v Fehérvár FC  2-1 (1-1)   @ Paksi FC Stadion › Paks
+    19:30     Budapest Honved v Zalaegerszegi TE  1-0 (1-0)   @ Bozsik Aréna › Budapest
   Sun Mar 12
-    14.05     Kecskeméti TE v Vasas  2-0 (0-0)   @ Széktói Stadion › Kecskemét
-    16.00     Ujpest v Mezokovesd-zsory  1-0 (1-0)   @ Szusza Ferenc Stadion › Budapest
-    18.15     Ferencvarosi TC v Puskas Academy  1-2 (0-2)   @ Groupama Aréna › Budapest
-» Regular Season - 24
+    14:05     Kecskeméti TE v Vasas  2-0 (0-0)   @ Széktói Stadion › Kecskemét
+    16:00     Ujpest v Mezokovesd-zsory  1-0 (1-0)   @ Szusza Ferenc Stadion › Budapest
+    18:15     Ferencvarosi TC v Puskas Academy  1-2 (0-2)   @ Groupama Aréna › Budapest
+▪ Regular Season - 24
   Sat Mar 18
-    14.05     Mezokovesd-zsory v Kisvarda FC  1-1 (1-1)   @ Városi Stadion › Mezőkövesd
-    15.45     Debreceni VSC v Kecskeméti TE  1-2 (0-0)   @ Nagyerdei Stadion › Debrecen
-    19.45     Fehérvár FC v Budapest Honved  2-0 (1-0)   @ MOL Aréna Sóstó › Székesfehérvár
+    14:05     Mezokovesd-zsory v Kisvarda FC  1-1 (1-1)   @ Városi Stadion › Mezőkövesd
+    15:45     Debreceni VSC v Kecskeméti TE  1-2 (0-0)   @ Nagyerdei Stadion › Debrecen
+    19:45     Fehérvár FC v Budapest Honved  2-0 (1-0)   @ MOL Aréna Sóstó › Székesfehérvár
   Sun Mar 19
-    13.30     Vasas v Paks  2-3 (0-1)   @ Illovszky Rudolf Stadion › Budapest
-    15.30     Puskas Academy v Ujpest  5-1 (1-0)   @ Puskás Akadémia Pancho Aréna › Felcsút
-    20.15     Zalaegerszegi TE v Ferencvarosi TC  1-0 (1-0)   @ ZTE-Aréna › Zalaegerszeg
-» Regular Season - 25
+    13:30     Vasas v Paks  2-3 (0-1)   @ Illovszky Rudolf Stadion › Budapest
+    15:30     Puskas Academy v Ujpest  5-1 (1-0)   @ Puskás Akadémia Pancho Aréna › Felcsút
+    20:15     Zalaegerszegi TE v Ferencvarosi TC  1-0 (1-0)   @ ZTE-Aréna › Zalaegerszeg
+▪ Regular Season - 25
   Sat Apr 1
-    13.00     Kisvarda FC v Puskas Academy  2-2 (1-0)   @ Várkerti Stadion › Kisvárda
-    15.00     Ujpest v Zalaegerszegi TE  3-2 (1-0)   @ Szusza Ferenc Stadion › Budapest
-    19.30     Budapest Honved v Paks  1-2 (0-1)   @ Bozsik Aréna › Budapest
+    13:00     Kisvarda FC v Puskas Academy  2-2 (1-0)   @ Várkerti Stadion › Kisvárda
+    15:00     Ujpest v Zalaegerszegi TE  3-2 (1-0)   @ Szusza Ferenc Stadion › Budapest
+    19:30     Budapest Honved v Paks  1-2 (0-1)   @ Bozsik Aréna › Budapest
   Sun Apr 2
-    14.15     Kecskeméti TE v Mezokovesd-zsory  0-1 (0-0)   @ Széktói Stadion › Kecskemét
-    16.30     Ferencvarosi TC v Fehérvár FC  2-2 (0-1)   @ Groupama Aréna › Budapest
-    19.00     Debreceni VSC v Vasas  3-1 (2-0)   @ Nagyerdei Stadion › Debrecen
-» Regular Season - 26
+    14:15     Kecskeméti TE v Mezokovesd-zsory  0-1 (0-0)   @ Széktói Stadion › Kecskemét
+    16:30     Ferencvarosi TC v Fehérvár FC  2-2 (0-1)   @ Groupama Aréna › Budapest
+    19:00     Debreceni VSC v Vasas  3-1 (2-0)   @ Nagyerdei Stadion › Debrecen
+▪ Regular Season - 26
   Fri Apr 7
-    20.00     Mezokovesd-zsory v Debreceni VSC  0-1 (0-0)   @ Városi Stadion › Mezőkövesd
+    20:00     Mezokovesd-zsory v Debreceni VSC  0-1 (0-0)   @ Városi Stadion › Mezőkövesd
   Sat Apr 8
-    14.30     Puskas Academy v Kecskeméti TE  0-3 (0-1)   @ Puskás Akadémia Pancho Aréna › Felcsút
-    17.00     Fehérvár FC v Ujpest  0-0 (0-0)   @ MOL Aréna Sóstó › Székesfehérvár
-    19.30     Paks v Ferencvarosi TC  3-2 (1-1)   @ Paksi FC Stadion › Paks
+    14:30     Puskas Academy v Kecskeméti TE  0-3 (0-1)   @ Puskás Akadémia Pancho Aréna › Felcsút
+    17:00     Fehérvár FC v Ujpest  0-0 (0-0)   @ MOL Aréna Sóstó › Székesfehérvár
+    19:30     Paks v Ferencvarosi TC  3-2 (1-1)   @ Paksi FC Stadion › Paks
   Sun Apr 9
-    14.15     Vasas v Budapest Honved  0-1 (0-0)   @ Illovszky Rudolf Stadion › Budapest
-    16.30     Zalaegerszegi TE v Kisvarda FC  0-0 (0-0)   @ ZTE-Aréna › Zalaegerszeg
-» Regular Season - 27
+    14:15     Vasas v Budapest Honved  0-1 (0-0)   @ Illovszky Rudolf Stadion › Budapest
+    16:30     Zalaegerszegi TE v Kisvarda FC  0-0 (0-0)   @ ZTE-Aréna › Zalaegerszeg
+▪ Regular Season - 27
   Fri Apr 14
-    20.00     Debreceni VSC v Puskas Academy  0-1 (0-0)   @ Nagyerdei Stadion › Debrecen
+    20:00     Debreceni VSC v Puskas Academy  0-1 (0-0)   @ Nagyerdei Stadion › Debrecen
   Sat Apr 15
-    14.30     Kecskeméti TE v Zalaegerszegi TE  3-0 (2-0)   @ Széktói Stadion › Kecskemét
-    17.00     Mezokovesd-zsory v Vasas  1-4 (1-2)   @ Városi Stadion › Mezőkövesd
-    19.30     Ferencvarosi TC v Budapest Honved  3-0 (1-0)   @ Groupama Aréna › Budapest
+    14:30     Kecskeméti TE v Zalaegerszegi TE  3-0 (2-0)   @ Széktói Stadion › Kecskemét
+    17:00     Mezokovesd-zsory v Vasas  1-4 (1-2)   @ Városi Stadion › Mezőkövesd
+    19:30     Ferencvarosi TC v Budapest Honved  3-0 (1-0)   @ Groupama Aréna › Budapest
   Sun Apr 16
-    15.30     Kisvarda FC v Fehérvár FC  0-0 (0-0)   @ Várkerti Stadion › Kisvárda
-    18.00     Ujpest v Paks  3-2 (2-1)   @ Szusza Ferenc Stadion › Budapest
-» Regular Season - 28
+    15:30     Kisvarda FC v Fehérvár FC  0-0 (0-0)   @ Várkerti Stadion › Kisvárda
+    18:00     Ujpest v Paks  3-2 (2-1)   @ Szusza Ferenc Stadion › Budapest
+▪ Regular Season - 28
   Fri Apr 21
-    20.00     Budapest Honved v Ujpest  0-1 (0-0)   @ Bozsik Aréna › Budapest
+    20:00     Budapest Honved v Ujpest  0-1 (0-0)   @ Bozsik Aréna › Budapest
   Sat Apr 22
-    15.00     Fehérvár FC v Kecskeméti TE  1-2 (0-2)   @ MOL Aréna Sóstó › Székesfehérvár
-    19.30     Vasas v Ferencvarosi TC  0-1 (0-0)   @ Illovszky Rudolf Stadion › Budapest
+    15:00     Fehérvár FC v Kecskeméti TE  1-2 (0-2)   @ MOL Aréna Sóstó › Székesfehérvár
+    19:30     Vasas v Ferencvarosi TC  0-1 (0-0)   @ Illovszky Rudolf Stadion › Budapest
   Sun Apr 23
-    14.15     Paks v Kisvarda FC  2-0 (1-0)   @ Paksi FC Stadion › Paks
-    16.30     Puskas Academy v Mezokovesd-zsory  2-1 (2-0)   @ Puskás Akadémia Pancho Aréna › Felcsút
-    18.45     Zalaegerszegi TE v Debreceni VSC  0-2 (0-1)   @ ZTE-Aréna › Zalaegerszeg
-» Regular Season - 29
+    14:15     Paks v Kisvarda FC  2-0 (1-0)   @ Paksi FC Stadion › Paks
+    16:30     Puskas Academy v Mezokovesd-zsory  2-1 (2-0)   @ Puskás Akadémia Pancho Aréna › Felcsút
+    18:45     Zalaegerszegi TE v Debreceni VSC  0-2 (0-1)   @ ZTE-Aréna › Zalaegerszeg
+▪ Regular Season - 29
   Fri Apr 28
-    20.00     Kecskeméti TE v Paks  2-3 (2-0)   @ Széktói Stadion › Kecskemét
+    20:00     Kecskeméti TE v Paks  2-3 (2-0)   @ Széktói Stadion › Kecskemét
   Sat Apr 29
-    14.15     Mezokovesd-zsory v Zalaegerszegi TE  1-2 (1-0)   @ Városi Stadion › Mezőkövesd
-    17.00     Kisvarda FC v Budapest Honved  2-2 (1-1)   @ Várkerti Stadion › Kisvárda
-    19.30     Vasas v Puskas Academy  2-2 (0-0)   @ Illovszky Rudolf Stadion › Budapest
+    14:15     Mezokovesd-zsory v Zalaegerszegi TE  1-2 (1-0)   @ Városi Stadion › Mezőkövesd
+    17:00     Kisvarda FC v Budapest Honved  2-2 (1-1)   @ Várkerti Stadion › Kisvárda
+    19:30     Vasas v Puskas Academy  2-2 (0-0)   @ Illovszky Rudolf Stadion › Budapest
   Sun Apr 30
-    15.30     Debreceni VSC v Fehérvár FC  2-0 (0-0)   @ Nagyerdei Stadion › Debrecen
+    15:30     Debreceni VSC v Fehérvár FC  2-0 (0-0)   @ Nagyerdei Stadion › Debrecen
   Mon May 1
-    18.00     Ujpest v Ferencvarosi TC  2-3 (1-1)   @ Szusza Ferenc Stadion › Budapest
-» Regular Season - 30
+    18:00     Ujpest v Ferencvarosi TC  2-3 (1-1)   @ Szusza Ferenc Stadion › Budapest
+▪ Regular Season - 30
   Fri May 5
-    18.30     Budapest Honved v Kecskeméti TE  1-0 (0-0)   @ Bozsik Aréna › Budapest
+    18:30     Budapest Honved v Kecskeméti TE  1-0 (0-0)   @ Bozsik Aréna › Budapest
   Sat May 6
-    14.00     Ujpest v Vasas  1-1 (1-1)   @ Szusza Ferenc Stadion › Budapest
-    16.30     Paks v Debreceni VSC  0-0 (0-0)   @ Paksi FC Stadion › Paks
-    19.45     Ferencvarosi TC v Kisvarda FC  3-0 (0-0)   @ Groupama Aréna › Budapest
+    14:00     Ujpest v Vasas  1-1 (1-1)   @ Szusza Ferenc Stadion › Budapest
+    16:30     Paks v Debreceni VSC  0-0 (0-0)   @ Paksi FC Stadion › Paks
+    19:45     Ferencvarosi TC v Kisvarda FC  3-0 (0-0)   @ Groupama Aréna › Budapest
   Sun May 7
-    15.00     Zalaegerszegi TE v Puskas Academy  2-1 (2-1)   @ ZTE-Aréna › Zalaegerszeg
-    19.30     Fehérvár FC v Mezokovesd-zsory  1-1 (1-0)   @ MOL Aréna Sóstó › Székesfehérvár
-» Regular Season - 31
+    15:00     Zalaegerszegi TE v Puskas Academy  2-1 (2-1)   @ ZTE-Aréna › Zalaegerszeg
+    19:30     Fehérvár FC v Mezokovesd-zsory  1-1 (1-0)   @ MOL Aréna Sóstó › Székesfehérvár
+▪ Regular Season - 31
   Sat May 13
-    14.15     Vasas v Zalaegerszegi TE  1-1 (0-1)   @ Illovszky Rudolf Stadion › Budapest
-    17.00     Debreceni VSC v Budapest Honved  0-0 (0-0)   @ Nagyerdei Stadion › Debrecen
-    19.30     Kecskeméti TE v Ferencvarosi TC  2-0 (1-0)   @ Széktói Stadion › Kecskemét
+    14:15     Vasas v Zalaegerszegi TE  1-1 (0-1)   @ Illovszky Rudolf Stadion › Budapest
+    17:00     Debreceni VSC v Budapest Honved  0-0 (0-0)   @ Nagyerdei Stadion › Debrecen
+    19:30     Kecskeméti TE v Ferencvarosi TC  2-0 (1-0)   @ Széktói Stadion › Kecskemét
   Sun May 14
-    13.30     Mezokovesd-zsory v Paks  6-1 (2-0)   @ Városi Stadion › Mezőkövesd
-    15.30     Kisvarda FC v Ujpest  2-0 (0-0)   @ Várkerti Stadion › Kisvárda
-    18.00     Puskas Academy v Fehérvár FC  2-1 (0-0)   @ Puskás Akadémia Pancho Aréna › Felcsút
-» Regular Season - 32
+    13:30     Mezokovesd-zsory v Paks  6-1 (2-0)   @ Városi Stadion › Mezőkövesd
+    15:30     Kisvarda FC v Ujpest  2-0 (0-0)   @ Várkerti Stadion › Kisvárda
+    18:00     Puskas Academy v Fehérvár FC  2-1 (0-0)   @ Puskás Akadémia Pancho Aréna › Felcsút
+▪ Regular Season - 32
   Fri May 19
-    18.15     Paks v Puskas Academy  0-2 (0-0)   @ Paksi FC Stadion › Paks
-    20.30     Kisvarda FC v Vasas  2-1 (1-1)   @ Várkerti Stadion › Kisvárda
+    18:15     Paks v Puskas Academy  0-2 (0-0)   @ Paksi FC Stadion › Paks
+    20:30     Kisvarda FC v Vasas  2-1 (1-1)   @ Várkerti Stadion › Kisvárda
   Sat May 20
-    14.10     Fehérvár FC v Zalaegerszegi TE  3-0 (2-0)   @ MOL Aréna Sóstó › Székesfehérvár
-    17.45     Ferencvarosi TC v Debreceni VSC  1-3 (1-0)   @ Groupama Aréna › Budapest
+    14:10     Fehérvár FC v Zalaegerszegi TE  3-0 (2-0)   @ MOL Aréna Sóstó › Székesfehérvár
+    17:45     Ferencvarosi TC v Debreceni VSC  1-3 (1-0)   @ Groupama Aréna › Budapest
   Sun May 21
-    14.10     Budapest Honved v Mezokovesd-zsory  2-3 (1-1)   @ Bozsik Aréna › Budapest
-    17.30     Ujpest v Kecskeméti TE  3-0 (2-0)   @ Szusza Ferenc Stadion › Budapest
-» Regular Season - 33
+    14:10     Budapest Honved v Mezokovesd-zsory  2-3 (1-1)   @ Bozsik Aréna › Budapest
+    17:30     Ujpest v Kecskeméti TE  3-0 (2-0)   @ Szusza Ferenc Stadion › Budapest
+▪ Regular Season - 33
   Fri May 26
-    18.15     Kecskeméti TE v Kisvarda FC  1-0 (0-0)   @ Széktói Stadion › Kecskemét
-    20.30     Zalaegerszegi TE v Paks  1-1 (1-1)   @ ZTE-Aréna › Zalaegerszeg
+    18:15     Kecskeméti TE v Kisvarda FC  1-0 (0-0)   @ Széktói Stadion › Kecskemét
+    20:30     Zalaegerszegi TE v Paks  1-1 (1-1)   @ ZTE-Aréna › Zalaegerszeg
   Sat May 27
-    20.00     Puskas Academy v Budapest Honved  2-1 (1-0)   @ Puskás Akadémia Pancho Aréna › Felcsút
+    20:00     Puskas Academy v Budapest Honved  2-1 (1-0)   @ Puskás Akadémia Pancho Aréna › Felcsút
               Debreceni VSC v Ujpest  2-0 (1-0)   @ Nagyerdei Stadion › Debrecen
               Vasas v Fehérvár FC  0-0 (0-0)   @ Illovszky Rudolf Stadion › Budapest
   Sun May 28
-    17.30     Mezokovesd-zsory v Ferencvarosi TC  1-0 (1-0)   @ Városi Stadion › Mezőkövesd
+    17:30     Mezokovesd-zsory v Ferencvarosi TC  1-0 (1-0)   @ Városi Stadion › Mezőkövesd

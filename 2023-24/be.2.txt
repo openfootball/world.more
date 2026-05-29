@@ -1,370 +1,370 @@
 = Belgium | Challenger Pro League 2023/24
 
-  # Date       Fri Aug/11 2023 - Sun May/12 2024 (275d)
+  # Date       Fri Aug 11 2023 - Sun May 12 2024 (275d)
   # Teams      16
   # Matches    246
 
   # Note - All times in Europe/Brussels
 
-» Regular Season - 1
+▪ Regular Season - 1
   Fri Aug 11 2023
-    20.00     RSC Anderlecht II v Beerschot Wilrijk  1-3 (1-0)   @ Lotto Park › Brussel
+    20:00     RSC Anderlecht II v Beerschot Wilrijk  1-3 (1-0)   @ Lotto Park › Brussel
   Fri Aug 11
-    20.00     Seraing United v Standard Liège II  3-0 (1-0)   @ Stade du Pairay › Seraing
+    20:00     Seraing United v Standard Liège II  3-0 (1-0)   @ Stade du Pairay › Seraing
   Sat Aug 12
-    16.00     Club Brugge II v Lierse Kempenzonen  3-2 (1-0)   @ The NEST › Roulers
-    20.00     Patro Eisden v Deinze  3-1 (1-1)   @ Patro Stadion › Maasmechelen
+    16:00     Club Brugge II v Lierse Kempenzonen  3-2 (1-0)   @ The NEST › Roulers
+    20:00     Patro Eisden v Deinze  3-1 (1-1)   @ Patro Stadion › Maasmechelen
               Liège v Dender  0-1 (0-0)   @ Stade Rue de la Tonne › Liège
   Sun Aug 13
-    13.30     KRC Genk II v Waasland-beveren  1-0 (1-0)   @ Stadion De Leunen › Geel
-    16.00     Oostende v Lommel United  0-1 (0-0)   @ Diaz Arena › Oostende
-    19.15     Zulte Waregem v Francs Borains  1-3 (0-2)   @ Elindus Arena › Waregem
-» Regular Season - 2
+    13:30     KRC Genk II v Waasland-beveren  1-0 (1-0)   @ Stadion De Leunen › Geel
+    16:00     Oostende v Lommel United  0-1 (0-0)   @ Diaz Arena › Oostende
+    19:15     Zulte Waregem v Francs Borains  1-3 (0-2)   @ Elindus Arena › Waregem
+▪ Regular Season - 2
   Fri Aug 18
-    20.00     Dender v RSC Anderlecht II  2-3 (1-1)   @ Dender Football Complex › Denderleeuw
+    20:00     Dender v RSC Anderlecht II  2-3 (1-1)   @ Dender Football Complex › Denderleeuw
               Lommel United v Club Brugge II  1-0 (0-0)   @ Soevereinstadion › Lommel
   Sat Aug 19
-    16.00     Beerschot Wilrijk v Zulte Waregem  1-2 (1-1)   @ Olympisch Stadion › Anvers
-    20.00     Deinze v Oostende  1-0 (0-0)   @ Dakota Arena › Deinze
+    16:00     Beerschot Wilrijk v Zulte Waregem  1-2 (1-1)   @ Olympisch Stadion › Anvers
+    20:00     Deinze v Oostende  1-0 (0-0)   @ Dakota Arena › Deinze
               Waasland-beveren v Seraing United  1-1 (0-1)   @ Freethielstadion › Beveren
   Sun Aug 20
-    13.30     Lierse Kempenzonen v Patro Eisden  2-1 (1-0)   @ Herman Vanderpoortenstadion › Lier
-    16.00     Francs Borains v KRC Genk II  2-5 (0-2)   @ Stade Robert Urbain › Boussu
-    19.15     Standard Liège II v Liège  2-1 (0-0)   @ Stade Maurice Dufrasne › Luik
-» Regular Season - 3
+    13:30     Lierse Kempenzonen v Patro Eisden  2-1 (1-0)   @ Herman Vanderpoortenstadion › Lier
+    16:00     Francs Borains v KRC Genk II  2-5 (0-2)   @ Stade Robert Urbain › Boussu
+    19:15     Standard Liège II v Liège  2-1 (0-0)   @ Stade Maurice Dufrasne › Luik
+▪ Regular Season - 3
   Fri Aug 25
-    20.00     KRC Genk II v Club Brugge II  0-3 (0-2)   @ Stadion De Leunen › Geel
+    20:00     KRC Genk II v Club Brugge II  0-3 (0-2)   @ Stadion De Leunen › Geel
               Seraing United v Zulte Waregem  0-5 (0-0)   @ Stade du Pairay › Seraing
   Sat Aug 26
-    20.00     Patro Eisden v Waasland-beveren  2-1 (0-0)   @ Patro Stadion › Maasmechelen
+    20:00     Patro Eisden v Waasland-beveren  2-1 (0-0)   @ Patro Stadion › Maasmechelen
               Lommel United v Deinze  1-0 (0-0)   @ Soevereinstadion › Lommel
   Sun Aug 27
-    13.30     Dender v Lierse Kempenzonen  2-2 (1-1)   @ Dender Football Complex › Denderleeuw
-    16.00     Liège v Oostende  2-0 (2-0)   @ Stade Rue de la Tonne › Liège
-    19.15     Francs Borains v RSC Anderlecht II  1-0 (0-0)   @ Stade Robert Urbain › Boussu
-» Regular Season - 4
+    13:30     Dender v Lierse Kempenzonen  2-2 (1-1)   @ Dender Football Complex › Denderleeuw
+    16:00     Liège v Oostende  2-0 (2-0)   @ Stade Rue de la Tonne › Liège
+    19:15     Francs Borains v RSC Anderlecht II  1-0 (0-0)   @ Stade Robert Urbain › Boussu
+▪ Regular Season - 4
   Fri Sep 1
-    20.00     Zulte Waregem v Dender  1-1 (1-0)   @ Elindus Arena › Waregem
+    20:00     Zulte Waregem v Dender  1-1 (1-0)   @ Elindus Arena › Waregem
               RSC Anderlecht II v KRC Genk II  1-1 (1-0)   @ De Leunen › Geel
   Sat Sep 2
-    16.00     Deinze v Liège  3-1 (1-1)   @ Dakota Arena › Deinze
-    20.00     Oostende v Seraing United  1-1 (1-1)   @ Diaz Arena › Oostende
+    16:00     Deinze v Liège  3-1 (1-1)   @ Dakota Arena › Deinze
+    20:00     Oostende v Seraing United  1-1 (1-1)   @ Diaz Arena › Oostende
               Beerschot Wilrijk v Francs Borains  2-1 (0-0)   @ Olympisch Stadion › Anvers
   Sun Sep 3
-    13.30     Lierse Kempenzonen v Lommel United  1-2 (0-1)   @ Herman Vanderpoortenstadion › Lier
-    16.00     Club Brugge II v Patro Eisden  2-2 (0-1)   @ The NEST › Roulers
-    20.00     Waasland-beveren v Standard Liège II  2-0 (1-0)   @ Freethielstadion › Beveren
-» Regular Season - 5
+    13:30     Lierse Kempenzonen v Lommel United  1-2 (0-1)   @ Herman Vanderpoortenstadion › Lier
+    16:00     Club Brugge II v Patro Eisden  2-2 (0-1)   @ The NEST › Roulers
+    20:00     Waasland-beveren v Standard Liège II  2-0 (1-0)   @ Freethielstadion › Beveren
+▪ Regular Season - 5
   Fri Sep 15
-    20.00     KRC Genk II v Zulte Waregem  2-4 (2-1)   @ De Leunen › Geel
+    20:00     KRC Genk II v Zulte Waregem  2-4 (2-1)   @ De Leunen › Geel
               Liège v Club Brugge II  3-1 (1-1)   @ Stade Rue de la Tonne › Liège
   Sat Sep 16
-    16.00     RSC Anderlecht II v Patro Eisden  1-3 (1-1)   @ Stade Roi Baudouin › Brussel
-    20.00     Dender v Lommel United  3-1 (1-1)   @ DENDER Football Complex › Denderleeuw
+    16:00     RSC Anderlecht II v Patro Eisden  1-3 (1-1)   @ Stade Roi Baudouin › Brussel
+    20:00     Dender v Lommel United  3-1 (1-1)   @ DENDER Football Complex › Denderleeuw
               Beerschot Wilrijk v Waasland-beveren  0-0 (0-0)   @ Olympisch Stadion › Anvers
   Sun Sep 17
-    13.30     Deinze v Seraing United  1-0 (0-0)   @ Dakota Arena › Deinze
-    16.00     Francs Borains v Lierse Kempenzonen  2-0 (1-0)   @ Stade Robert Urbain › Boussu
-    19.15     Standard Liège II v Oostende  0-1 (0-1)   @ Stade de la Cité de l'Oie › Visé
-» Regular Season - 6
+    13:30     Deinze v Seraing United  1-0 (0-0)   @ Dakota Arena › Deinze
+    16:00     Francs Borains v Lierse Kempenzonen  2-0 (1-0)   @ Stade Robert Urbain › Boussu
+    19:15     Standard Liège II v Oostende  0-1 (0-1)   @ Stade de la Cité de l'Oie › Visé
+▪ Regular Season - 6
   Fri Sep 22
-    20.00     Patro Eisden v Dender  1-1 (1-0)   @ Patrostadion › Maasmechelen
+    20:00     Patro Eisden v Dender  1-1 (1-0)   @ Patrostadion › Maasmechelen
               Zulte Waregem v Deinze  2-1 (0-1)   @ Elindus Arena › Waregem
   Sat Sep 23
-    16.00     Seraing United v RSC Anderlecht II  1-1 (0-1)   @ Stade du Pairay › Seraing
-    20.00     Club Brugge II v Standard Liège II  4-1 (0-1)   @ The NEST › Roulers
+    16:00     Seraing United v RSC Anderlecht II  1-1 (0-1)   @ Stade du Pairay › Seraing
+    20:00     Club Brugge II v Standard Liège II  4-1 (0-1)   @ The NEST › Roulers
               Oostende v KRC Genk II  2-2 (1-1)   @ Diaz Arena › Oostende
   Sun Sep 24
-    13.30     Lommel United v Francs Borains  3-0 (1-0)   @ Soeverein Stadion › Lommel
-    16.00     Waasland-beveren v Liège  1-2 (1-1)   @ Freethielstadion › Beveren
-    19.15     Lierse Kempenzonen v Beerschot Wilrijk  1-3 (0-1)   @ Herman Vanderpoortenstadion › Lier
-» Regular Season - 7
+    13:30     Lommel United v Francs Borains  3-0 (1-0)   @ Soeverein Stadion › Lommel
+    16:00     Waasland-beveren v Liège  1-2 (1-1)   @ Freethielstadion › Beveren
+    19:15     Lierse Kempenzonen v Beerschot Wilrijk  1-3 (0-1)   @ Herman Vanderpoortenstadion › Lier
+▪ Regular Season - 7
   Fri Sep 29
-    20.00     Standard Liège II v Patro Eisden  0-1 (0-0)   @ Stade de la Cité de l'Oie › Visé
+    20:00     Standard Liège II v Patro Eisden  0-1 (0-0)   @ Stade de la Cité de l'Oie › Visé
               Deinze v Waasland-beveren  0-0 (0-0)   @ Dakota Arena › Deinze
   Sat Sep 30
-    16.00     Beerschot Wilrijk v Oostende  1-1 (0-1)   @ Olympisch Stadion › Anvers
-    20.00     RSC Anderlecht II v Lierse Kempenzonen  3-3 (2-2)   @ Lotto Park › Brussel
+    16:00     Beerschot Wilrijk v Oostende  1-1 (0-1)   @ Olympisch Stadion › Anvers
+    20:00     RSC Anderlecht II v Lierse Kempenzonen  3-3 (2-2)   @ Lotto Park › Brussel
               Francs Borains v Seraing United  0-2 (0-0)   @ Stade Robert Urbain › Boussu
   Sun Oct 1
-    13.30     Zulte Waregem v Club Brugge II  0-1 (0-1)   @ Elindus Arena › Waregem
-    16.00     Liège v Lommel United  2-1 (0-1)   @ Stade Rue de la Tonne › Liège
-    19.15     Dender v KRC Genk II  1-3 (0-1)   @ DENDER Football Complex › Denderleeuw
-» Regular Season - 8
+    13:30     Zulte Waregem v Club Brugge II  0-1 (0-1)   @ Elindus Arena › Waregem
+    16:00     Liège v Lommel United  2-1 (0-1)   @ Stade Rue de la Tonne › Liège
+    19:15     Dender v KRC Genk II  1-3 (0-1)   @ DENDER Football Complex › Denderleeuw
+▪ Regular Season - 8
   Fri Oct 6
-    20.00     Seraing United v Dender  1-3 (0-2)   @ Stade du Pairay › Seraing
+    20:00     Seraing United v Dender  1-3 (0-2)   @ Stade du Pairay › Seraing
               Lommel United v Standard Liège II  1-0 (1-0)   @ Soeverein Stadion › Lommel
   Sat Oct 7
-    16.00     KRC Genk II v Beerschot Wilrijk  1-2 (0-0)   @ De Leunen › Geel
-    20.00     Club Brugge II v Francs Borains  1-0 (1-0)   @ The NEST › Roulers
+    16:00     KRC Genk II v Beerschot Wilrijk  1-2 (0-0)   @ De Leunen › Geel
+    20:00     Club Brugge II v Francs Borains  1-0 (1-0)   @ The NEST › Roulers
               Patro Eisden v Liège  0-2 (0-0)   @ Patrostadion › Maasmechelen
   Sun Oct 8
-    13.30     Waasland-beveren v Zulte Waregem  0-3 (0-2)   @ Freethielstadion › Beveren
-    16.00     Oostende v RSC Anderlecht II  1-2 (1-1)   @ Diaz Arena › Oostende
-    19.15     Lierse Kempenzonen v Deinze  0-1 (0-1)   @ Herman Vanderpoortenstadion › Lier
-» Regular Season - 9
+    13:30     Waasland-beveren v Zulte Waregem  0-3 (0-2)   @ Freethielstadion › Beveren
+    16:00     Oostende v RSC Anderlecht II  1-2 (1-1)   @ Diaz Arena › Oostende
+    19:15     Lierse Kempenzonen v Deinze  0-1 (0-1)   @ Herman Vanderpoortenstadion › Lier
+▪ Regular Season - 9
   Fri Oct 20
-    20.00     Deinze v KRC Genk II  3-2 (2-0)   @ Dakota Arena › Deinze
+    20:00     Deinze v KRC Genk II  3-2 (2-0)   @ Dakota Arena › Deinze
               Beerschot Wilrijk v Lommel United  2-1 (1-0)   @ Olympisch Stadion › Anvers
   Sat Oct 21
-    16.00     RSC Anderlecht II v Standard Liège II  3-0 (2-0)   @ Lotto Park › Brussel
-    20.00     Lierse Kempenzonen v Seraing United  1-0 (0-0)   @ Herman Vanderpoortenstadion › Lier
+    16:00     RSC Anderlecht II v Standard Liège II  3-0 (2-0)   @ Lotto Park › Brussel
+    20:00     Lierse Kempenzonen v Seraing United  1-0 (0-0)   @ Herman Vanderpoortenstadion › Lier
               Zulte Waregem v Liège  1-0 (0-0)   @ Elindus Arena › Waregem
   Sun Oct 22
-    13.30     Dender v Oostende  1-1 (1-0)   @ DENDER Football Complex › Denderleeuw
-    16.00     Club Brugge II v Waasland-beveren  0-3 (0-2)   @ The NEST › Roulers
-    19.15     Francs Borains v Patro Eisden  0-0 (0-0)   @ Stade Robert Urbain › Boussu
-» Regular Season - 10
+    13:30     Dender v Oostende  1-1 (1-0)   @ DENDER Football Complex › Denderleeuw
+    16:00     Club Brugge II v Waasland-beveren  0-3 (0-2)   @ The NEST › Roulers
+    19:15     Francs Borains v Patro Eisden  0-0 (0-0)   @ Stade Robert Urbain › Boussu
+▪ Regular Season - 10
   Fri Oct 27
-    20.00     Oostende v Patro Eisden  0-0 (0-0)   @ Diaz Arena › Oostende
+    20:00     Oostende v Patro Eisden  0-0 (0-0)   @ Diaz Arena › Oostende
               Lommel United v Zulte Waregem  1-1 (0-0)   @ Soeverein Stadion › Lommel
   Sat Oct 28
-    16.00     Seraing United v Club Brugge II  2-1 (0-0)   @ Stade du Pairay › Seraing
-    20.00     KRC Genk II v Lierse Kempenzonen  1-3 (1-1)   @ De Leunen › Geel
+    16:00     Seraing United v Club Brugge II  2-1 (0-0)   @ Stade du Pairay › Seraing
+    20:00     KRC Genk II v Lierse Kempenzonen  1-3 (1-1)   @ De Leunen › Geel
               Waasland-beveren v Francs Borains  3-0 (2-0)   @ Freethielstadion › Beveren
   Sun Oct 29
-    13.30     Beerschot Wilrijk v Dender  0-1 (0-0)   @ Olympisch Stadion › Anvers
-    16.00     Standard Liège II v Deinze  2-1 (1-0)   @ Stade de la Cité de l'Oie › Visé
-    19.15     Liège v RSC Anderlecht II  0-2 (0-0)   @ Stade Rue de la Tonne › Liège
-» Regular Season - 11
+    13:30     Beerschot Wilrijk v Dender  0-1 (0-0)   @ Olympisch Stadion › Anvers
+    16:00     Standard Liège II v Deinze  2-1 (1-0)   @ Stade de la Cité de l'Oie › Visé
+    19:15     Liège v RSC Anderlecht II  0-2 (0-0)   @ Stade Rue de la Tonne › Liège
+▪ Regular Season - 11
   Fri Nov 3
-    20.00     KRC Genk II v Liège  2-3 (0-2)   @ De Leunen › Geel
+    20:00     KRC Genk II v Liège  2-3 (0-2)   @ De Leunen › Geel
               Zulte Waregem v Oostende  0-1 (0-1)   @ Elindus Arena › Waregem
   Sat Nov 4
-    16.00     RSC Anderlecht II v Lommel United  1-1 (1-0)   @ Stade Roi Baudouin › Brussel
-    20.00     Lierse Kempenzonen v Waasland-beveren  2-2 (1-1)   @ Herman Vanderpoortenstadion › Lier
+    16:00     RSC Anderlecht II v Lommel United  1-1 (1-0)   @ Stade Roi Baudouin › Brussel
+    20:00     Lierse Kempenzonen v Waasland-beveren  2-2 (1-1)   @ Herman Vanderpoortenstadion › Lier
               Francs Borains v Standard Liège II  2-1 (1-0)   @ Stade Robert Urbain › Boussu
   Sun Nov 5
-    13.30     Deinze v Dender  1-1 (1-0)   @ Dakota Arena › Deinze
-    16.00     Patro Eisden v Seraing United  2-1 (2-0)   @ Patrostadion › Maasmechelen
-    20.30     Club Brugge II v Beerschot Wilrijk  0-2 (0-0)   @ The NEST › Roulers
-» Regular Season - 12
+    13:30     Deinze v Dender  1-1 (1-0)   @ Dakota Arena › Deinze
+    16:00     Patro Eisden v Seraing United  2-1 (2-0)   @ Patrostadion › Maasmechelen
+    20:30     Club Brugge II v Beerschot Wilrijk  0-2 (0-0)   @ The NEST › Roulers
+▪ Regular Season - 12
   Fri Nov 10
-    20.00     Standard Liège II v KRC Genk II  3-1 (2-1)   @ Stade de la Cité de l'Oie › Visé
+    20:00     Standard Liège II v KRC Genk II  3-1 (2-1)   @ Stade de la Cité de l'Oie › Visé
               Dender v Club Brugge II  2-0 (1-0)   @ DENDER Football Complex › Denderleeuw
   Sat Nov 11
-    16.00     Seraing United v Beerschot Wilrijk  1-2 (0-1)   @ Stade du Pairay › Seraing
-    20.00     RSC Anderlecht II v Deinze  1-3 (0-1)   @ Stade Roi Baudouin › Brussel
+    16:00     Seraing United v Beerschot Wilrijk  1-2 (0-1)   @ Stade du Pairay › Seraing
+    20:00     RSC Anderlecht II v Deinze  1-3 (0-1)   @ Stade Roi Baudouin › Brussel
               Oostende v Francs Borains  1-0 (0-0)   @ Diaz Arena › Oostende
   Sun Nov 12
-    13.30     Liège v Lierse Kempenzonen  2-4 (2-1)   @ Stade Rue de la Tonne › Liège
-    16.00     Waasland-beveren v Lommel United  2-2 (0-1)   @ Freethielstadion › Beveren
-    19.15     Patro Eisden v Zulte Waregem  0-3 (0-1)   @ Patrostadion › Maasmechelen
-» Regular Season - 13
+    13:30     Liège v Lierse Kempenzonen  2-4 (2-1)   @ Stade Rue de la Tonne › Liège
+    16:00     Waasland-beveren v Lommel United  2-2 (0-1)   @ Freethielstadion › Beveren
+    19:15     Patro Eisden v Zulte Waregem  0-3 (0-1)   @ Patrostadion › Maasmechelen
+▪ Regular Season - 13
   Fri Nov 24
-    20.00     Waasland-beveren v Dender  3-2 (2-0)   @ Freethielstadion › Beveren
+    20:00     Waasland-beveren v Dender  3-2 (2-0)   @ Freethielstadion › Beveren
               Lommel United v Patro Eisden  1-2 (0-1)   @ Soeverein Stadion › Lommel
   Sat Nov 25
-    16.00     Club Brugge II v Oostende  3-3 (1-1)   @ The NEST › Roulers
-    20.00     Francs Borains v Deinze  0-1 (0-0)   @ Stade Robert Urbain › Boussu
+    16:00     Club Brugge II v Oostende  3-3 (1-1)   @ The NEST › Roulers
+    20:00     Francs Borains v Deinze  0-1 (0-0)   @ Stade Robert Urbain › Boussu
               Zulte Waregem v RSC Anderlecht II  2-5 (2-2)   @ Elindus Arena › Waregem
   Sun Nov 26
-    13.30     KRC Genk II v Seraing United  1-1 (1-0)   @ De Leunen › Geel
-    16.00     Beerschot Wilrijk v Liège  3-0 (2-0)   @ Olympisch Stadion › Anvers
-    19.15     Lierse Kempenzonen v Standard Liège II  1-4 (1-1)   @ Herman Vanderpoortenstadion › Lier
-» Regular Season - 14
+    13:30     KRC Genk II v Seraing United  1-1 (1-0)   @ De Leunen › Geel
+    16:00     Beerschot Wilrijk v Liège  3-0 (2-0)   @ Olympisch Stadion › Anvers
+    19:15     Lierse Kempenzonen v Standard Liège II  1-4 (1-1)   @ Herman Vanderpoortenstadion › Lier
+▪ Regular Season - 14
   Fri Dec 1
-    20.00     Patro Eisden v Beerschot Wilrijk  0-2 (0-1)   @ Patrostadion › Maasmechelen
+    20:00     Patro Eisden v Beerschot Wilrijk  0-2 (0-1)   @ Patrostadion › Maasmechelen
               Lommel United v KRC Genk II  0-1 (0-1)   @ Soeverein Stadion › Lommel
   Sat Dec 2
-    16.00     Standard Liège II v Zulte Waregem  1-3 (1-1)   @ Stade de la Cité de l'Oie › Visé
-    20.00     RSC Anderlecht II v Waasland-beveren  0-2 (0-0)   @ Stade Roi Baudouin › Brussel
+    16:00     Standard Liège II v Zulte Waregem  1-3 (1-1)   @ Stade de la Cité de l'Oie › Visé
+    20:00     RSC Anderlecht II v Waasland-beveren  0-2 (0-0)   @ Stade Roi Baudouin › Brussel
               Deinze v Club Brugge II  1-3 (0-0)   @ Dakota Arena › Deinze
   Sun Dec 3
-    13.30     Oostende v Lierse Kempenzonen  0-1 (0-1)   @ Diaz Arena › Oostende
-    16.00     Liège v Seraing United  2-1 (1-0)   @ Stade Rue de la Tonne › Liège
-» Regular Season - 3
+    13:30     Oostende v Lierse Kempenzonen  0-1 (0-1)   @ Diaz Arena › Oostende
+    16:00     Liège v Seraing United  2-1 (1-0)   @ Stade Rue de la Tonne › Liège
+▪ Regular Season - 3
   Tue Dec 5
-    20.00     Standard Liège II v Beerschot Wilrijk  1-0 (0-0)   @ Stade de la Cité de l'Oie › Visé
-» Regular Season - 14
+    20:00     Standard Liège II v Beerschot Wilrijk  1-0 (0-0)   @ Stade de la Cité de l'Oie › Visé
+▪ Regular Season - 14
   Tue Dec 5
-    20.00     Dender v Francs Borains  2-0 (2-0)   @ DENDER Football Complex › Denderleeuw
-» Regular Season - 15
+    20:00     Dender v Francs Borains  2-0 (2-0)   @ DENDER Football Complex › Denderleeuw
+▪ Regular Season - 15
   Fri Dec 8
-    20.00     KRC Genk II v Patro Eisden  0-1 (0-1)   @ De Leunen › Geel
+    20:00     KRC Genk II v Patro Eisden  0-1 (0-1)   @ De Leunen › Geel
               Seraing United v Lommel United  2-2 (1-1)   @ Stade du Pairay › Seraing
   Sat Dec 9
-    16.00     Standard Liège II v Dender  0-4 (0-3)   @ Stade de la Cité de l'Oie › Visé
-    20.00     Lierse Kempenzonen v Zulte Waregem  0-1 (0-0)   @ Herman Vanderpoortenstadion › Lier
+    16:00     Standard Liège II v Dender  0-4 (0-3)   @ Stade de la Cité de l'Oie › Visé
+    20:00     Lierse Kempenzonen v Zulte Waregem  0-1 (0-0)   @ Herman Vanderpoortenstadion › Lier
               Club Brugge II v RSC Anderlecht II  0-1 (0-1)   @ The NEST › Roulers
   Sun Dec 10
-    13.30     Beerschot Wilrijk v Deinze  1-2 (0-0)   @ Olympisch Stadion › Anvers
-    16.00     Liège v Francs Borains  1-0 (1-0)   @ Stade Rue de la Tonne › Liège
-    19.15     Oostende v Waasland-beveren  0-2 (0-2)   @ Diaz Arena › Oostende
-» Regular Season - 16
+    13:30     Beerschot Wilrijk v Deinze  1-2 (0-0)   @ Olympisch Stadion › Anvers
+    16:00     Liège v Francs Borains  1-0 (1-0)   @ Stade Rue de la Tonne › Liège
+    19:15     Oostende v Waasland-beveren  0-2 (0-2)   @ Diaz Arena › Oostende
+▪ Regular Season - 16
   Fri Dec 15
-    20.00     Dender v Liège  0-0 (0-0)   @ DENDER Football Complex › Denderleeuw
+    20:00     Dender v Liège  0-0 (0-0)   @ DENDER Football Complex › Denderleeuw
               Zulte Waregem v Seraing United  2-1 (0-0)   @ Elindus Arena › Waregem
   Sat Dec 16
-    16.00     Patro Eisden v Club Brugge II  4-0 (3-0)   @ Patrostadion › Maasmechelen
-    20.00     Waasland-beveren v KRC Genk II  2-1 (0-0)   @ Freethielstadion › Beveren
+    16:00     Patro Eisden v Club Brugge II  4-0 (3-0)   @ Patrostadion › Maasmechelen
+    20:00     Waasland-beveren v KRC Genk II  2-1 (0-0)   @ Freethielstadion › Beveren
               RSC Anderlecht II v Oostende  0-0 (0-0)   @ Stade Roi Baudouin › Brussel
   Sun Dec 17
-    13.30     Francs Borains v Beerschot Wilrijk  1-3 (0-2)   @ Stade Robert Urbain › Boussu
-    16.00     Deinze v Standard Liège II  2-1 (0-1)   @ Dakota Arena › Deinze
-    19.15     Lommel United v Lierse Kempenzonen  3-0 (3-0)   @ Soeverein Stadion › Lommel
-» Regular Season - 17
+    13:30     Francs Borains v Beerschot Wilrijk  1-3 (0-2)   @ Stade Robert Urbain › Boussu
+    16:00     Deinze v Standard Liège II  2-1 (0-1)   @ Dakota Arena › Deinze
+    19:15     Lommel United v Lierse Kempenzonen  3-0 (3-0)   @ Soeverein Stadion › Lommel
+▪ Regular Season - 17
   Fri Jan 12 2024
-    20.00     Liège v Patro Eisden  1-0 (0-0)   @ Stade Rue de la Tonne › Liège
+    20:00     Liège v Patro Eisden  1-0 (0-0)   @ Stade Rue de la Tonne › Liège
   Fri Jan 12
-    20.00     Beerschot Wilrijk v RSC Anderlecht II  1-1 (1-0)   @ Olympisch Stadion › Anvers
+    20:00     Beerschot Wilrijk v RSC Anderlecht II  1-1 (1-0)   @ Olympisch Stadion › Anvers
   Sat Jan 13
-    16.00     Standard Liège II v Waasland-beveren  1-4 (0-2)   @ Stade de la Cité de l'Oie › Visé
-    20.00     Lierse Kempenzonen v Dender  2-4 (2-1)   @ Herman Vanderpoortenstadion › Lier
+    16:00     Standard Liège II v Waasland-beveren  1-4 (0-2)   @ Stade de la Cité de l'Oie › Visé
+    20:00     Lierse Kempenzonen v Dender  2-4 (2-1)   @ Herman Vanderpoortenstadion › Lier
               Club Brugge II v Lommel United  0-2 (0-1)   @ The NEST › Roulers
   Sun Jan 14
-    13.30     Oostende v Zulte Waregem  3-2 (2-1)   @ Diaz Arena › Oostende
-    16.00     Seraing United v Francs Borains  1-5 (1-3)   @ Stade du Pairay › Seraing
-    19.15     KRC Genk II v Deinze  3-2 (1-0)   @ De Leunen › Geel
-» Regular Season - 18
+    13:30     Oostende v Zulte Waregem  3-2 (2-1)   @ Diaz Arena › Oostende
+    16:00     Seraing United v Francs Borains  1-5 (1-3)   @ Stade du Pairay › Seraing
+    19:15     KRC Genk II v Deinze  3-2 (1-0)   @ De Leunen › Geel
+▪ Regular Season - 18
   Fri Jan 19
-    20.00     Deinze v Lierse Kempenzonen  4-0 (1-0)   @ Dakota Arena › Deinze
+    20:00     Deinze v Lierse Kempenzonen  4-0 (1-0)   @ Dakota Arena › Deinze
   Sun Jan 21
-    13.30     Zulte Waregem v KRC Genk II  1-1 (1-0)   @ Elindus Arena › Waregem
-    16.00     Patro Eisden v Standard Liège II  3-1 (0-1)   @ Patrostadion › Maasmechelen
-    19.15     Waasland-beveren v Club Brugge II  0-2 (0-0)   @ Freethielstadion › Beveren
-» Regular Season - 19
+    13:30     Zulte Waregem v KRC Genk II  1-1 (1-0)   @ Elindus Arena › Waregem
+    16:00     Patro Eisden v Standard Liège II  3-1 (0-1)   @ Patrostadion › Maasmechelen
+    19:15     Waasland-beveren v Club Brugge II  0-2 (0-0)   @ Freethielstadion › Beveren
+▪ Regular Season - 19
   Fri Jan 26
-    20.00     Standard Liège II v Lommel United  0-4 (0-0)   @ Stade de la Cité de l'Oie › Visé
+    20:00     Standard Liège II v Lommel United  0-4 (0-0)   @ Stade de la Cité de l'Oie › Visé
               Francs Borains v Waasland-beveren  3-0 (2-0)   @ Stade Robert Urbain › Boussu
   Sat Jan 27
-    16.00     KRC Genk II v RSC Anderlecht II  3-0 (2-0)   @ De Leunen › Geel
-    18.15     Seraing United v Lierse Kempenzonen  1-1 (1-0)   @ Stade du Pairay › Seraing
-    20.00     Dender v Patro Eisden  0-0 (0-0)   @ DENDER Football Complex › Denderleeuw
+    16:00     KRC Genk II v RSC Anderlecht II  3-0 (2-0)   @ De Leunen › Geel
+    18:15     Seraing United v Lierse Kempenzonen  1-1 (1-0)   @ Stade du Pairay › Seraing
+    20:00     Dender v Patro Eisden  0-0 (0-0)   @ DENDER Football Complex › Denderleeuw
   Sun Jan 28
-    13.30     Beerschot Wilrijk v Club Brugge II  3-0 (2-0)   @ Olympisch Stadion › Anvers
-    16.00     Liège v Zulte Waregem  0-2 (0-1)   @ Stade Rue de la Tonne › Liège
-    19.15     Oostende v Deinze  0-1 (0-1)   @ Diaz Arena › Oostende
-» Regular Season - 20
+    13:30     Beerschot Wilrijk v Club Brugge II  3-0 (2-0)   @ Olympisch Stadion › Anvers
+    16:00     Liège v Zulte Waregem  0-2 (0-1)   @ Stade Rue de la Tonne › Liège
+    19:15     Oostende v Deinze  0-1 (0-1)   @ Diaz Arena › Oostende
+▪ Regular Season - 20
   Fri Feb 2
-    20.00     Standard Liège II v RSC Anderlecht II  0-1 (0-0)   @ Stade de la Cité de l'Oie › Visé
+    20:00     Standard Liège II v RSC Anderlecht II  0-1 (0-0)   @ Stade de la Cité de l'Oie › Visé
               Club Brugge II v Deinze  0-1 (0-0)   @ The NEST › Roulers
   Sat Feb 3
-    16.00     Lierse Kempenzonen v Oostende  1-2 (0-1)   @ Herman Vanderpoortenstadion › Lier
-    20.00     Lommel United v Dender  2-2 (0-1)   @ Soeverein Stadion › Lommel
-    20.30     Zulte Waregem v Waasland-beveren  0-1 (0-1)   @ Elindus Arena › Waregem
+    16:00     Lierse Kempenzonen v Oostende  1-2 (0-1)   @ Herman Vanderpoortenstadion › Lier
+    20:00     Lommel United v Dender  2-2 (0-1)   @ Soeverein Stadion › Lommel
+    20:30     Zulte Waregem v Waasland-beveren  0-1 (0-1)   @ Elindus Arena › Waregem
   Sun Feb 4
-    13.30     Seraing United v KRC Genk II  1-3 (0-3)   @ Stade du Pairay › Seraing
-    16.00     Patro Eisden v Francs Borains  3-1 (1-0)   @ Patrostadion › Maasmechelen
-    19.15     Liège v Beerschot Wilrijk  1-4 (0-1)   @ Stade Rue de la Tonne › Liège
-» Regular Season - 18
+    13:30     Seraing United v KRC Genk II  1-3 (0-3)   @ Stade du Pairay › Seraing
+    16:00     Patro Eisden v Francs Borains  3-1 (1-0)   @ Patrostadion › Maasmechelen
+    19:15     Liège v Beerschot Wilrijk  1-4 (0-1)   @ Stade Rue de la Tonne › Liège
+▪ Regular Season - 18
   Wed Feb 7
-    20.00     Dender v Seraing United  5-1 (3-0)   @ DENDER Football Complex › Denderleeuw
+    20:00     Dender v Seraing United  5-1 (3-0)   @ DENDER Football Complex › Denderleeuw
               RSC Anderlecht II v Liège  1-1 (1-1)   @ Stade Roi Baudouin › Brussel
               Lommel United v Beerschot Wilrijk  3-0 (2-0)   @ Soeverein Stadion › Lommel
-» Regular Season - 21
+▪ Regular Season - 21
   Fri Feb 9
-    20.00     Deinze v Patro Eisden  0-0 (0-0)   @ Dakota Arena › Deinze
+    20:00     Deinze v Patro Eisden  0-0 (0-0)   @ Dakota Arena › Deinze
               Francs Borains v Club Brugge II  2-2 (1-2)   @ Stade Robert Urbain › Boussu
   Sat Feb 10
-    16.00     Waasland-beveren v Lierse Kempenzonen  3-1 (2-1)   @ Freethielstadion › Beveren
-    20.00     RSC Anderlecht II v Seraing United  1-2 (0-0)   @ Stade Roi Baudouin › Brussel
+    16:00     Waasland-beveren v Lierse Kempenzonen  3-1 (2-1)   @ Freethielstadion › Beveren
+    20:00     RSC Anderlecht II v Seraing United  1-2 (0-0)   @ Stade Roi Baudouin › Brussel
               Zulte Waregem v Lommel United  0-3 (0-2)   @ Elindus Arena › Waregem
   Sun Feb 11
-    13.30     KRC Genk II v Dender  2-1 (1-0)   @ De Leunen › Geel
-    16.00     Beerschot Wilrijk v Standard Liège II  2-0 (0-0)   @ Olympisch Stadion › Anvers
-    19.15     Oostende v Liège  0-2 (0-1)   @ Diaz Arena › Oostende
-» Regular Season - 18
+    13:30     KRC Genk II v Dender  2-1 (1-0)   @ De Leunen › Geel
+    16:00     Beerschot Wilrijk v Standard Liège II  2-0 (0-0)   @ Olympisch Stadion › Anvers
+    19:15     Oostende v Liège  0-2 (0-1)   @ Diaz Arena › Oostende
+▪ Regular Season - 18
   Wed Feb 14
-    20.00     Francs Borains v Oostende  0-2 (0-0)   @ Stade Robert Urbain › Boussu
-» Regular Season - 22
+    20:00     Francs Borains v Oostende  0-2 (0-0)   @ Stade Robert Urbain › Boussu
+▪ Regular Season - 22
   Fri Feb 16
-    20.00     Lierse Kempenzonen v KRC Genk II  3-1 (1-1)   @ Herman Vanderpoortenstadion › Lier
+    20:00     Lierse Kempenzonen v KRC Genk II  3-1 (1-1)   @ Herman Vanderpoortenstadion › Lier
               Club Brugge II v Zulte Waregem  1-3 (0-0)   @ The NEST › Roulers
   Sat Feb 17
-    16.00     Lommel United v Oostende  0-1 (0-1)   @ Soeverein Stadion › Lommel
-    20.00     Seraing United v Liège  0-4 (0-1)   @ Stade du Pairay › Seraing
+    16:00     Lommel United v Oostende  0-1 (0-1)   @ Soeverein Stadion › Lommel
+    20:00     Seraing United v Liège  0-4 (0-1)   @ Stade du Pairay › Seraing
               Dender v Waasland-beveren  1-0 (0-0)   @ DENDER Football Complex › Denderleeuw
   Sun Feb 18
-    13.30     Patro Eisden v RSC Anderlecht II  0-0 (0-0)   @ Patrostadion › Maasmechelen
-    16.00     Deinze v Beerschot Wilrijk  4-2 (2-1)   @ Dakota Arena › Deinze
-    19.15     Standard Liège II v Francs Borains  1-2 (0-1)   @ Stade de la Cité de l'Oie › Visé
-» Regular Season - 23
+    13:30     Patro Eisden v RSC Anderlecht II  0-0 (0-0)   @ Patrostadion › Maasmechelen
+    16:00     Deinze v Beerschot Wilrijk  4-2 (2-1)   @ Dakota Arena › Deinze
+    19:15     Standard Liège II v Francs Borains  1-2 (0-1)   @ Stade de la Cité de l'Oie › Visé
+▪ Regular Season - 23
   Fri Feb 23
-    20.00     Waasland-beveren v Deinze  2-2 (0-0)   @ Freethielstadion › Beveren
+    20:00     Waasland-beveren v Deinze  2-2 (0-0)   @ Freethielstadion › Beveren
               Patro Eisden v Lierse Kempenzonen  3-0 (1-0)   @ Patrostadion › Maasmechelen
   Sat Feb 24
-    16.00     RSC Anderlecht II v Dender  2-1 (1-0)   @ Stade Roi Baudouin › Brussel
-    20.00     Liège v Standard Liège II  1-1 (0-0)   @ Stade Rue de la Tonne › Liège
+    16:00     RSC Anderlecht II v Dender  2-1 (1-0)   @ Stade Roi Baudouin › Brussel
+    20:00     Liège v Standard Liège II  1-1 (0-0)   @ Stade Rue de la Tonne › Liège
               Oostende v Club Brugge II  1-4 (0-0)   @ Diaz Arena › Oostende
   Sun Feb 25
-    13.30     Beerschot Wilrijk v Seraing United  0-0 (0-0)   @ Olympisch Stadion › Anvers
-    16.00     KRC Genk II v Lommel United  1-1 (0-0)   @ De Leunen › Geel
-    19.15     Francs Borains v Zulte Waregem  2-1 (0-0)   @ Stade Robert Urbain › Boussu
-» Regular Season - 24
+    13:30     Beerschot Wilrijk v Seraing United  0-0 (0-0)   @ Olympisch Stadion › Anvers
+    16:00     KRC Genk II v Lommel United  1-1 (0-0)   @ De Leunen › Geel
+    19:15     Francs Borains v Zulte Waregem  2-1 (0-0)   @ Stade Robert Urbain › Boussu
+▪ Regular Season - 24
   Fri Mar 1
-    20.00     Zulte Waregem v Standard Liège II  1-1 (0-1)   @ Elindus Arena › Waregem
+    20:00     Zulte Waregem v Standard Liège II  1-1 (0-1)   @ Elindus Arena › Waregem
               Club Brugge II v KRC Genk II  2-1 (1-1)   @ The NEST › Roulers
   Sat Mar 2
-    16.00     Lierse Kempenzonen v Francs Borains  3-1 (1-0)   @ Herman Vanderpoortenstadion › Lier
-    20.00     Deinze v RSC Anderlecht II  4-1 (3-0)   @ Dakota Arena › Deinze
+    16:00     Lierse Kempenzonen v Francs Borains  3-1 (1-0)   @ Herman Vanderpoortenstadion › Lier
+    20:00     Deinze v RSC Anderlecht II  4-1 (3-0)   @ Dakota Arena › Deinze
               Lommel United v Liège  4-1 (1-0)   @ Soeverein Stadion › Lommel
   Sun Mar 3
-    13.30     Dender v Beerschot Wilrijk  1-1 (0-0)   @ DENDER Football Complex › Denderleeuw
-    16.00     Seraing United v Patro Eisden  3-0 (2-0)   @ Stade du Pairay › Seraing
-    19.15     Waasland-beveren v Oostende  2-3 (1-0)   @ Freethielstadion › Beveren
-» Regular Season - 25
+    13:30     Dender v Beerschot Wilrijk  1-1 (0-0)   @ DENDER Football Complex › Denderleeuw
+    16:00     Seraing United v Patro Eisden  3-0 (2-0)   @ Stade du Pairay › Seraing
+    19:15     Waasland-beveren v Oostende  2-3 (1-0)   @ Freethielstadion › Beveren
+▪ Regular Season - 25
   Fri Mar 8
-    20.00     Beerschot Wilrijk v Lierse Kempenzonen  2-1 (1-1)   @ Olympisch Stadion › Anvers
+    20:00     Beerschot Wilrijk v Lierse Kempenzonen  2-1 (1-1)   @ Olympisch Stadion › Anvers
               Patro Eisden v KRC Genk II  2-2 (1-0)   @ Patrostadion › Maasmechelen
   Sat Mar 9
-    16.00     Standard Liège II v Club Brugge II  1-2 (0-1)   @ Stade de la Cité de l'Oie › Visé
-    20.00     Seraing United v Waasland-beveren  1-2 (0-1)   @ Stade du Pairay › Seraing
+    16:00     Standard Liège II v Club Brugge II  1-2 (0-1)   @ Stade de la Cité de l'Oie › Visé
+    20:00     Seraing United v Waasland-beveren  1-2 (0-1)   @ Stade du Pairay › Seraing
               Oostende v Dender  0-1 (0-0)   @ Diaz Arena › Oostende
   Sun Mar 10
-    13.30     RSC Anderlecht II v Zulte Waregem  0-1 (0-1)   @ Stade Roi Baudouin › Brussel
-    16.00     Francs Borains v Lommel United  1-2 (0-1)   @ Stade Robert Urbain › Boussu
-    19.15     Liège v Deinze  1-0 (1-0)   @ Stade Rue de la Tonne › Liège
-» Regular Season - 26
+    13:30     RSC Anderlecht II v Zulte Waregem  0-1 (0-1)   @ Stade Roi Baudouin › Brussel
+    16:00     Francs Borains v Lommel United  1-2 (0-1)   @ Stade Robert Urbain › Boussu
+    19:15     Liège v Deinze  1-0 (1-0)   @ Stade Rue de la Tonne › Liège
+▪ Regular Season - 26
   Fri Mar 15
-    20.00     Zulte Waregem v Beerschot Wilrijk  0-1 (0-0)   @ Elindus Arena › Waregem
+    20:00     Zulte Waregem v Beerschot Wilrijk  0-1 (0-0)   @ Elindus Arena › Waregem
               Waasland-beveren v Patro Eisden  0-1 (0-1)   @ Freethielstadion › Beveren
               Club Brugge II v Seraing United  1-1 (1-0)   @ The NEST › Roulers
   Sat Mar 16
-    16.00     Lierse Kempenzonen v Liège  3-2 (1-1)   @ Herman Vanderpoortenstadion › Lier
+    16:00     Lierse Kempenzonen v Liège  3-2 (1-1)   @ Herman Vanderpoortenstadion › Lier
               Lommel United v RSC Anderlecht II  3-1 (2-1)   @ Soeverein Stadion › Lommel
-    18.15     Deinze v Francs Borains  2-3 (1-2)   @ Dakota Arena › Deinze
-    20.45     KRC Genk II v Oostende  3-1 (1-0)   @ De Leunen › Geel
+    18:15     Deinze v Francs Borains  2-3 (1-2)   @ Dakota Arena › Deinze
+    20:45     KRC Genk II v Oostende  3-1 (1-0)   @ De Leunen › Geel
               Dender v Standard Liège II  4-1 (1-0)   @ DENDER Football Complex › Denderleeuw
-» Regular Season - 27
+▪ Regular Season - 27
   Fri Mar 29
-    20.00     Beerschot Wilrijk v KRC Genk II  1-0 (1-0)   @ Olympisch Stadion › Anvers
+    20:00     Beerschot Wilrijk v KRC Genk II  1-0 (1-0)   @ Olympisch Stadion › Anvers
               Club Brugge II v Dender  0-1 (0-1)   @ The NEST › Roulers
   Sat Mar 30
-    16.00     RSC Anderlecht II v Francs Borains  3-3 (0-2)   @ Stade Roi Baudouin › Brussel
-    20.00     Standard Liège II v Lierse Kempenzonen  0-1 (0-1)   @ Stade Maurice Dufrasne › Luik
+    16:00     RSC Anderlecht II v Francs Borains  3-3 (0-2)   @ Stade Roi Baudouin › Brussel
+    20:00     Standard Liège II v Lierse Kempenzonen  0-1 (0-1)   @ Stade Maurice Dufrasne › Luik
               Deinze v Zulte Waregem  1-1 (0-1)   @ Dakota Arena › Deinze
   Sun Mar 31
-    13.30     Seraing United v Oostende  1-1 (1-0)   @ Stade du Pairay › Seraing
-    16.00     Patro Eisden v Lommel United  3-0 (0-0)   @ Patrostadion › Maasmechelen
-    19.15     Liège v Waasland-beveren  5-1 (4-0)   @ Stade Rue de la Tonne › Liège
-» Regular Season - 28
+    13:30     Seraing United v Oostende  1-1 (1-0)   @ Stade du Pairay › Seraing
+    16:00     Patro Eisden v Lommel United  3-0 (0-0)   @ Patrostadion › Maasmechelen
+    19:15     Liège v Waasland-beveren  5-1 (4-0)   @ Stade Rue de la Tonne › Liège
+▪ Regular Season - 28
   Fri Apr 5
-    20.00     Zulte Waregem v Patro Eisden  0-0 (0-0)   @ Elindus Arena › Waregem
+    20:00     Zulte Waregem v Patro Eisden  0-0 (0-0)   @ Elindus Arena › Waregem
               Waasland-beveren v RSC Anderlecht II  2-1 (2-1)   @ Freethielstadion › Beveren
   Sat Apr 6
-    16.00     Lierse Kempenzonen v Club Brugge II  3-1 (2-0)   @ Herman Vanderpoortenstadion › Lier
-    20.00     Dender v Deinze  3-0 (3-0)   @ DENDER Football Complex › Denderleeuw
+    16:00     Lierse Kempenzonen v Club Brugge II  3-1 (2-0)   @ Herman Vanderpoortenstadion › Lier
+    20:00     Dender v Deinze  3-0 (3-0)   @ DENDER Football Complex › Denderleeuw
               Lommel United v Seraing United  0-0 (0-0)   @ Soeverein Stadion › Lommel
   Sun Apr 7
-    13.30     KRC Genk II v Standard Liège II  1-0 (0-0)   @ De Leunen › Geel
-    16.00     Oostende v Beerschot Wilrijk  1-2 (0-1)   @ Diaz Arena › Oostende
-    19.15     Francs Borains v Liège  2-2 (1-1)   @ Stade Robert Urbain › Boussu
-» Regular Season - 29
+    13:30     KRC Genk II v Standard Liège II  1-0 (0-0)   @ De Leunen › Geel
+    16:00     Oostende v Beerschot Wilrijk  1-2 (0-1)   @ Diaz Arena › Oostende
+    19:15     Francs Borains v Liège  2-2 (1-1)   @ Stade Robert Urbain › Boussu
+▪ Regular Season - 29
   Fri Apr 12
-    20.00     Club Brugge II v Liège  1-2 (0-1)   @ The NEST › Roulers
+    20:00     Club Brugge II v Liège  1-2 (0-1)   @ The NEST › Roulers
               KRC Genk II v Francs Borains  1-1 (0-1)   @ De Leunen › Geel
   Sat Apr 13
-    16.00     Lierse Kempenzonen v RSC Anderlecht II  1-1 (0-0)   @ Herman Vanderpoortenstadion › Lier
-    20.00     Dender v Zulte Waregem  1-4 (0-0)   @ DENDER Football Complex › Denderleeuw
+    16:00     Lierse Kempenzonen v RSC Anderlecht II  1-1 (0-0)   @ Herman Vanderpoortenstadion › Lier
+    20:00     Dender v Zulte Waregem  1-4 (0-0)   @ DENDER Football Complex › Denderleeuw
               Deinze v Lommel United  3-2 (2-1)   @ Dakota Arena › Deinze
   Sun Apr 14
-    13.30     Waasland-beveren v Beerschot Wilrijk  2-0 (1-0)   @ Freethielstadion › Beveren
-    16.00     Standard Liège II v Seraing United  1-2 (1-0)   @ Stade de la Cité de l'Oie › Visé
-    19.15     Patro Eisden v Oostende  2-3 (1-2)   @ Patrostadion › Maasmechelen
-» Regular Season - 30
+    13:30     Waasland-beveren v Beerschot Wilrijk  2-0 (1-0)   @ Freethielstadion › Beveren
+    16:00     Standard Liège II v Seraing United  1-2 (1-0)   @ Stade de la Cité de l'Oie › Visé
+    19:15     Patro Eisden v Oostende  2-3 (1-2)   @ Patrostadion › Maasmechelen
+▪ Regular Season - 30
   Fri Apr 19
-    20.00     Lommel United v Waasland-beveren  3-1 (1-0)   @ Soeverein Stadion › Lommel
+    20:00     Lommel United v Waasland-beveren  3-1 (1-0)   @ Soeverein Stadion › Lommel
               Beerschot Wilrijk v Patro Eisden  0-1 (0-0)   @ Olympisch Stadion › Anvers
               Zulte Waregem v Lierse Kempenzonen  4-1 (3-1)   @ Elindus Arena › Waregem
               Oostende v Standard Liège II  2-1 (1-0)   @ Diaz Arena › Oostende
@@ -372,16 +372,16 @@
               Liège v KRC Genk II  5-0 (2-0)   @ Stade Rue de la Tonne › Liège
               Seraing United v Deinze  1-2 (0-1)   @ Stade du Pairay › Seraing
   Sat Apr 20
-    15.00     RSC Anderlecht II v Club Brugge II  1-2 (1-2)   @ Stade Roi Baudouin › Brussel
-» Promotion Play-offs - Semi-finals
+    15:00     RSC Anderlecht II v Club Brugge II  1-2 (1-2)   @ Stade Roi Baudouin › Brussel
+▪ Promotion Play-offs - Semi-finals
   Sat Apr 27
-    16.00     Patro Eisden v Deinze  0-4 (0-1)   @ Patrostadion › Maasmechelen
-    20.00     Zulte Waregem v Lommel United  1-1 (0-0)   @ Elindus Arena › Waregem
+    16:00     Patro Eisden v Deinze  0-4 (0-1)   @ Patrostadion › Maasmechelen
+    20:00     Zulte Waregem v Lommel United  1-1 (0-0)   @ Elindus Arena › Waregem
   Wed May 1
-    16.00     Deinze v Patro Eisden  2-1 (0-1)   @ Dakota Arena › Deinze
-    20.00     Lommel United v Zulte Waregem  1-0 (0-0)   @ Soeverein Stadion › Lommel
-» Promotion Play-offs - Final
+    16:00     Deinze v Patro Eisden  2-1 (0-1)   @ Dakota Arena › Deinze
+    20:00     Lommel United v Zulte Waregem  1-0 (0-0)   @ Soeverein Stadion › Lommel
+▪ Promotion Play-offs - Final
   Sun May 5
-    16.00     Lommel United v Deinze  1-1 (0-0)   @ Soeverein Stadion › Lommel
+    16:00     Lommel United v Deinze  1-1 (0-0)   @ Soeverein Stadion › Lommel
   Sun May 12
-    16.00     Deinze v Lommel United  1-2 (0-1)   @ Dakota Arena › Deinze
+    16:00     Deinze v Lommel United  1-2 (0-1)   @ Dakota Arena › Deinze

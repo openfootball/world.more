@@ -1,84 +1,84 @@
 = Italy | Coppa Italia 2023/24
 
-  # Date       Sat Aug/5 2023 - Wed May/15 2024 (284d)
+  # Date       Sat Aug 5 2023 - Wed May 15 2024 (284d)
   # Teams      44
   # Matches    45
 
   # Note - All times in Europe/Rome
 
-» Preliminary Round
+▪ Preliminary Round
   Sat Aug 5 2023
-    18.00     Catanzaro v Foggia  1-0 (0-0)   @ Stadio Luigi Razza › Vibo Valentia
+    18:00     Catanzaro v Foggia  1-0 (0-0)   @ Stadio Luigi Razza › Vibo Valentia
   Sun Aug 6
-    18.00     Reggiana v Pescara  6-2 (3-2)   @ Stadio Comunale › Fiorenzuola d'Arda
-    20.00     Feralpisalo v Vicenza Virtus  2-1 (2-0)   @ Stadio Leonardo Garilli › Piacenza
-    20.30     Cesena v Virtus Entella  2-2 aet (2-2, 2-0)   @ Orogel Stadium-Dino Manuzzi › Cesena
-» 1st Round
+    18:00     Reggiana v Pescara  6-2 (3-2)   @ Stadio Comunale › Fiorenzuola d'Arda
+    20:00     Feralpisalo v Vicenza Virtus  2-1 (2-0)   @ Stadio Leonardo Garilli › Piacenza
+    20:30     Cesena v Virtus Entella  2-2 aet (2-2, 2-0)   @ Orogel Stadium-Dino Manuzzi › Cesena
+▪ 1st Round
   Fri Aug 11
-    17.45     Frosinone v Pisa  1-0 (1-0)   @ Stadio Benito Stirpe › Frosinone
-    18.00     Udinese v Catanzaro  4-1 (1-1)   @ Stadio Friuli › Udine
-    21.00     Genoa v Modena  4-3 (2-2)   @ Stadio Comunale Luigi Ferraris › Genova
-    21.15     Bologna v Cesena  2-0 (1-0)   @ Stadio Renato Dall'Ara › Bologna
+    17:45     Frosinone v Pisa  1-0 (1-0)   @ Stadio Benito Stirpe › Frosinone
+    18:00     Udinese v Catanzaro  4-1 (1-1)   @ Stadio Friuli › Udine
+    21:00     Genoa v Modena  4-3 (2-2)   @ Stadio Comunale Luigi Ferraris › Genova
+    21:15     Bologna v Cesena  2-0 (1-0)   @ Stadio Renato Dall'Ara › Bologna
   Sat Aug 12
-    17.45     Empoli v Cittadella  1-2 (1-0)   @ Stadio Carlo Castellani-Computer Gross Arena › Empoli
-    18.00     Bari v Parma  0-3 (0-2)   @ Stadio Comunale San Nicola › Bari
-    21.00     Verona v Ascoli  3-1 (2-1)   @ Stadio Marc'Antonio Bentegodi › Verona
-    21.15     Cagliari v Palermo  2-1 aet (0-0, 0-0)   @ Unipol Domus › Cagliari
+    17:45     Empoli v Cittadella  1-2 (1-0)   @ Stadio Carlo Castellani-Computer Gross Arena › Empoli
+    18:00     Bari v Parma  0-3 (0-2)   @ Stadio Comunale San Nicola › Bari
+    21:00     Verona v Ascoli  3-1 (2-1)   @ Stadio Marc'Antonio Bentegodi › Verona
+    21:15     Cagliari v Palermo  2-1 aet (0-0, 0-0)   @ Unipol Domus › Cagliari
   Sun Aug 13
-    17.45     Salernitana v Ternana  1-0 (1-0)   @ Stadio Arechi › Salerno
-    18.00     Cosenza v Sassuolo  2-5 aet (2-2, 1-1)   @ Stadio San Vito-Luigi Marulla › Cosenza
-    21.00     Lecce v Como  1-0 (1-0)   @ Stadio Comunale Via del Mare › Lecce
-    21.15     Monza v Reggiana  1-2 (1-0)   @ U-Power Stadium › Monza
+    17:45     Salernitana v Ternana  1-0 (1-0)   @ Stadio Arechi › Salerno
+    18:00     Cosenza v Sassuolo  2-5 aet (2-2, 1-1)   @ Stadio San Vito-Luigi Marulla › Cosenza
+    21:00     Lecce v Como  1-0 (1-0)   @ Stadio Comunale Via del Mare › Lecce
+    21:15     Monza v Reggiana  1-2 (1-0)   @ U-Power Stadium › Monza
   Mon Aug 14
-    17.45     Cremonese v Crotone  3-1 aet (1-1, 1-1)   @ Stadio Giovanni Zini › Cremona
-    18.00     Sampdoria v Sudtirol  7-6 pen (1-1, 1-1, 1-1)   @ Stadio Comunale Luigi Ferraris › Genova
-    21.00     Spezia v Venezia  4-3 pen (2-2, 2-2, 1-0)   @ Orogel Stadium-Dino Manuzzi › Cesena
-    21.15     Torino v Feralpisalo  2-1 (1-1)   @ Stadio Olimpico Grande Torino › Torino
-» 2nd Round
+    17:45     Cremonese v Crotone  3-1 aet (1-1, 1-1)   @ Stadio Giovanni Zini › Cremona
+    18:00     Sampdoria v Sudtirol  7-6 pen (1-1, 1-1, 1-1)   @ Stadio Comunale Luigi Ferraris › Genova
+    21:00     Spezia v Venezia  4-3 pen (2-2, 2-2, 1-0)   @ Orogel Stadium-Dino Manuzzi › Cesena
+    21:15     Torino v Feralpisalo  2-1 (1-1)   @ Stadio Olimpico Grande Torino › Torino
+▪ 2nd Round
   Tue Oct 31
-    15.00     Cremonese v Cittadella  2-1 aet (1-1, 0-0)   @ Stadio Giovanni Zini › Cremona
-    18.00     Salernitana v Sampdoria  4-0 (2-0)   @ Stadio Arechi › Salerno
-    21.00     Bologna v Verona  2-0 (1-0)   @ Stadio Renato Dall'Ara › Bologna
+    15:00     Cremonese v Cittadella  2-1 aet (1-1, 0-0)   @ Stadio Giovanni Zini › Cremona
+    18:00     Salernitana v Sampdoria  4-0 (2-0)   @ Stadio Arechi › Salerno
+    21:00     Bologna v Verona  2-0 (1-0)   @ Stadio Renato Dall'Ara › Bologna
   Wed Nov 1
-    15.00     Genoa v Reggiana  2-1 aet (1-1, 0-1)   @ Stadio Comunale Luigi Ferraris › Genova
-    18.00     Lecce v Parma  2-4 (0-2)   @ Stadio Comunale Via del Mare › Lecce
-    21.00     Udinese v Cagliari  1-2 aet (1-1, 0-0)   @ Bluenergy Stadium › Udine
+    15:00     Genoa v Reggiana  2-1 aet (1-1, 0-1)   @ Stadio Comunale Luigi Ferraris › Genova
+    18:00     Lecce v Parma  2-4 (0-2)   @ Stadio Comunale Via del Mare › Lecce
+    21:00     Udinese v Cagliari  1-2 aet (1-1, 0-0)   @ Bluenergy Stadium › Udine
   Thu Nov 2
-    18.00     Sassuolo v Spezia  5-4 pen (0-0, 0-0, 0-0)   @ MAPEI Stadium-Città del Tricolore › Reggio Emilia
-    21.00     Torino v Frosinone  1-2 aet (1-1, 1-1)   @ Stadio Olimpico Grande Torino › Torino
-» Round of 16
+    18:00     Sassuolo v Spezia  5-4 pen (0-0, 0-0, 0-0)   @ MAPEI Stadium-Città del Tricolore › Reggio Emilia
+    21:00     Torino v Frosinone  1-2 aet (1-1, 1-1)   @ Stadio Olimpico Grande Torino › Torino
+▪ Round of 16
   Tue Dec 5
-    21.00     Lazio v Genoa  1-0 (1-0)   @ Stadio Olimpico › Roma
+    21:00     Lazio v Genoa  1-0 (1-0)   @ Stadio Olimpico › Roma
   Wed Dec 6
-    21.00     Fiorentina v Parma  4-1 pen (2-2, 2-2, 0-2)   @ Stadio Artemio Franchi › Firenze
+    21:00     Fiorentina v Parma  4-1 pen (2-2, 2-2, 0-2)   @ Stadio Artemio Franchi › Firenze
   Tue Dec 19
-    21.00     Napoli v Frosinone  0-4 (0-0)   @ Stadio Diego Armando Maradona › Napoli
+    21:00     Napoli v Frosinone  0-4 (0-0)   @ Stadio Diego Armando Maradona › Napoli
   Wed Dec 20
-    21.00     Inter v Bologna  1-2 aet (0-0, 0-0)   @ Stadio Giuseppe Meazza › Milano
+    21:00     Inter v Bologna  1-2 aet (0-0, 0-0)   @ Stadio Giuseppe Meazza › Milano
   Tue Jan 2 2024
-    21.00     AC Milan v Cagliari  4-1 (2-0)   @ Stadio Giuseppe Meazza › Milano
+    21:00     AC Milan v Cagliari  4-1 (2-0)   @ Stadio Giuseppe Meazza › Milano
   Wed Jan 3
-    18.00     Atalanta v Sassuolo  3-1 (1-0)   @ Gewiss Stadium › Bergamo
-    21.00     AS Roma v Cremonese  2-1 (0-1)   @ Stadio Olimpico › Roma
+    18:00     Atalanta v Sassuolo  3-1 (1-0)   @ Gewiss Stadium › Bergamo
+    21:00     AS Roma v Cremonese  2-1 (0-1)   @ Stadio Olimpico › Roma
   Thu Jan 4
-    21.00     Juventus v Salernitana  6-1 (2-1)   @ Allianz Stadium › Torino
-» Quarter-finals
+    21:00     Juventus v Salernitana  6-1 (2-1)   @ Allianz Stadium › Torino
+▪ Quarter-finals
   Tue Jan 9
-    21.00     Fiorentina v Bologna  5-4 pen (0-0, 0-0, 0-0)   @ Stadio Artemio Franchi › Firenze
+    21:00     Fiorentina v Bologna  5-4 pen (0-0, 0-0, 0-0)   @ Stadio Artemio Franchi › Firenze
   Wed Jan 10
-    18.00     Lazio v AS Roma  1-0 (0-0)   @ Stadio Olimpico › Roma
-    21.00     AC Milan v Atalanta  1-2 (1-1)   @ Stadio Giuseppe Meazza › Milano
+    18:00     Lazio v AS Roma  1-0 (0-0)   @ Stadio Olimpico › Roma
+    21:00     AC Milan v Atalanta  1-2 (1-1)   @ Stadio Giuseppe Meazza › Milano
   Thu Jan 11
-    21.00     Juventus v Frosinone  4-0 (2-0)   @ Allianz Stadium › Torino
-» Semi-finals
+    21:00     Juventus v Frosinone  4-0 (2-0)   @ Allianz Stadium › Torino
+▪ Semi-finals
   Tue Apr 2
-    21.00     Juventus v Lazio  2-0 (0-0)   @ Allianz Stadium › Torino
+    21:00     Juventus v Lazio  2-0 (0-0)   @ Allianz Stadium › Torino
   Wed Apr 3
-    21.00     Fiorentina v Atalanta  1-0 (1-0)   @ Stadio Artemio Franchi › Firenze
+    21:00     Fiorentina v Atalanta  1-0 (1-0)   @ Stadio Artemio Franchi › Firenze
   Tue Apr 23
-    21.00     Lazio v Juventus  2-1 (1-0)   @ Stadio Olimpico › Roma
+    21:00     Lazio v Juventus  2-1 (1-0)   @ Stadio Olimpico › Roma
   Wed Apr 24
-    21.00     Atalanta v Fiorentina  4-1 (1-0)   @ Gewiss Stadium › Bergamo
-» Final
+    21:00     Atalanta v Fiorentina  4-1 (1-0)   @ Gewiss Stadium › Bergamo
+▪ Final
   Wed May 15
-    21.00     Atalanta v Juventus  0-1 (0-1)   @ Stadio Olimpico › Roma
+    21:00     Atalanta v Juventus  0-1 (0-1)   @ Stadio Olimpico › Roma

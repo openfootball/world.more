@@ -1,16 +1,16 @@
 = Japan | Emperor Cup 2022
 
-  # Date       Sat May/21 - Sun Oct/16 2022 (148d)
+  # Date       Sat May 21 - Sun Oct 16 2022 (148d)
   # Teams      87
   # Matches    87
 
   # Note - All times in Asia/Tokyo
 
-» 1st Round
+▪ 1st Round
   Sat May 21 2022
-    12.00     Imabari v Okinawa SV  1-4   @ Ningineer Stadium › Matsuyama
+    12:00     Imabari v Okinawa SV  1-4   @ Ningineer Stadium › Matsuyama
   Sat May 21
-    13.00     FC Gifu v Chukyo University  3-2   @ Nagaragawa Stadium › Gifu
+    13:00     FC Gifu v Chukyo University  3-2   @ Nagaragawa Stadium › Gifu
               Matsumoto Yamaga v Hokuriku University  3-2   @ Sunpro Alwin Stadium › Matsumoto
               Fukushima United v North Asia University  7-1   @ TOHO Stadium › Fukushima
               Arterivo Wakayama v Kansai University  2-4   @ Kimiidera Athletic Stadium › Wakayama
@@ -19,7 +19,7 @@
               Sapporo University v Yamanashi Gakuin  1-0   @ Sapporo Atsubetsu Park Stadium › Sapporo
               Vertfee Yaita v Nagai  7-0   @ Tochigi Green Stadium › Utsunomiya
   Sun May 22
-    13.00     Kagoshima United v Kitakyushu  3-1   @ Shiranami Stadium › Kagoshima
+    13:00     Kagoshima United v Kitakyushu  3-1   @ Shiranami Stadium › Kagoshima
               Gainare Tottori v Verspah Oita  0-4   @ Axis Bird Stadium › Tottori
               Kataller Toyama v Fujieda MYFC  1-0   @ Takaoka Sports Core Soccer & Rugby Stadium › Takaoka
               Vanraure Hachinohe v Niigata University  0-1   @ Prifoods Stadium › Hachinohe
@@ -33,15 +33,15 @@
               Tsukuba University v Urayasu  2-2 aet   @ Hitachinaka Stadium › Hitachinaka
               Fukuyama City v Tokushima Vortis  3-2   @ EDION Stadium › Hiroshima
               Jobu University v Fuji University  0-1   @ Gunma Shikishima Park › Maebashi
-    15.00     Takamatsu High School v Tokuyama University  0-3   @ Pikara Stadium › Marugame
-» 2nd Round
+    15:00     Takamatsu High School v Tokuyama University  0-3   @ Pikara Stadium › Marugame
+▪ 2nd Round
   Wed Jun 1
-    18.00     Vissel Kobe v Kataller Toyama  3-2 (0-2)   @ NOEVIR Stadium Kobe › Kobe
+    18:00     Vissel Kobe v Kataller Toyama  3-2 (0-2)   @ NOEVIR Stadium Kobe › Kobe
               Kawasaki Frontale v Sapporo University  5-0 (4-0)   @ Kawasaki Todoroki Stadium › Kawasaki
               Ventforet Kofu v Pacific University  5-1 (1-1)   @ JIT Recycle Ink Stadium › Kofu
               Shonan Bellmare v Vertfee Yaita  3-0 (1-0)   @ Lemon Gas Stadium Hiratsuka › Hiratsuka
-    18.30     Sanfrecce Hiroshima v Honda Lock  2-0 (1-0)   @ Fukuyama Takegahana Stadium › Fukuyama
-    19.00     Jubilo Iwata v Matsumoto Yamaga  5-2 (2-1)   @ Yamaha Stadium › Iwata
+    18:30     Sanfrecce Hiroshima v Honda Lock  2-0 (1-0)   @ Fukuyama Takegahana Stadium › Fukuyama
+    19:00     Jubilo Iwata v Matsumoto Yamaga  5-2 (2-1)   @ Yamaha Stadium › Iwata
               Kashiwa Reysol v Tsukuba University  1-0 (0-0)   @ SANKYO FRONTIER Kashiwa Stadium › Kashiwa
               Shimizu S-pulse v Tokuyama University  8-0 (4-0)   @ IAI Stadium Nihondaira › Shizuoka
               V-varen Nagasaki v Kagoshima United  1-0 (1-0)   @ Transcosmos Stadium › Isahaya
@@ -66,15 +66,15 @@
               Avispa Fukuoka v Okinawa SV  3-0 (1-0)   @ Best Denki Stadium › Fukuoka
               FC Ryukyu v Omiya Ardija  1-4 (0-3)   @ Tapic Kenso Hiyagon Stadium › Okinawa
   Wed Jun 8
-    18.00     Consadole Sapporo v Toin University  4-3 aet (3-3, 0-2)   @ Sapporo Atsubetsu Park Stadium › Sapporo
-    19.00     Yokohama FC v Sony Sendai  3-3 aet (2-2, 2-0)   @ NHK Spring Mitsuzawa Football Stadium › Yokohama
+    18:00     Consadole Sapporo v Toin University  4-3 aet (3-3, 0-2)   @ Sapporo Atsubetsu Park Stadium › Sapporo
+    19:00     Yokohama FC v Sony Sendai  3-3 aet (2-2, 2-0)   @ NHK Spring Mitsuzawa Football Stadium › Yokohama
               FC Tokyo v Fuji University  2-0 (2-0)   @ Ajinomoto Stadium › Chōfu
-» 3rd Round
+▪ 3rd Round
   Wed Jun 22
-    18.00     Consadole Sapporo v Ventforet Kofu  1-2 (1-2)   @ JIT Recycle Ink Stadium › Kofu
-    18.30     Avispa Fukuoka v Grulla Morioka  3-1 (0-0)   @ Iwagin Stadium › Morioka
+    18:00     Consadole Sapporo v Ventforet Kofu  1-2 (1-2)   @ JIT Recycle Ink Stadium › Kofu
+    18:30     Avispa Fukuoka v Grulla Morioka  3-1 (0-0)   @ Iwagin Stadium › Morioka
               Shonan Bellmare v Jubilo Iwata  0-1 (0-1)   @ Lemon Gas Stadium Hiratsuka › Hiratsuka
-    19.00     Kashiwa Reysol v Tokushima Vortis  2-1 (0-1)   @ Pocari Sweat Stadium › Naruto
+    19:00     Kashiwa Reysol v Tokushima Vortis  2-1 (0-1)   @ Pocari Sweat Stadium › Naruto
               Sanfrecce Hiroshima v Yokohama FC  5-0 (1-0)   @ NHK Spring Mitsuzawa Football Stadium › Yokohama
               Shimizu S-pulse v Kyoto Sanga  0-1 (0-0)   @ IAI Stadium Nihondaira › Shizuoka
               Urawa v Thespakusatsu Gunma  0-1 (0-1)   @ Shoda Shoyu Stadium › Maebashi
@@ -87,27 +87,27 @@
               Kawasaki Frontale v Tokyo Verdy  0-1 (0-1)   @ Kawasaki Todoroki Stadium › Kawasaki
               Sagan Tosu v Roasso Kumamoto  3-2 (1-1)   @ Egao Kenko Stadium › Kumamoto
               Yokohama F. Marinos v Tochigi SC  0-2 (0-0)   @ Kanseki Stadium › Utsunomiya
-» 4th Round
+▪ 4th Round
   Wed Jul 13
-    18.00     Sagan Tosu v Ventforet Kofu  1-3 (0-2)   @ JIT Recycle Ink Stadium › Kofu
-    18.30     Nagoya Grampus v Cerezo Osaka  1-2 (0-1)   @ Yodoko Sakura Stadium › Osaka
-    19.00     Kashima v Gamba Osaka  2-0 (0-0)   @ Kashima Soccer Stadium › Kashima
+    18:00     Sagan Tosu v Ventforet Kofu  1-3 (0-2)   @ JIT Recycle Ink Stadium › Kofu
+    18:30     Nagoya Grampus v Cerezo Osaka  1-2 (0-1)   @ Yodoko Sakura Stadium › Osaka
+    19:00     Kashima v Gamba Osaka  2-0 (0-0)   @ Kashima Soccer Stadium › Kashima
               Tochigi SC v Kyoto Sanga  1-2 (1-1)   @ Kanseki Stadium › Utsunomiya
               Avispa Fukuoka v V-varen Nagasaki  2-0 (1-0)   @ Transcosmos Stadium › Isahaya
               Thespakusatsu Gunma v Sanfrecce Hiroshima  0-1 (0-0)   @ Shoda Shoyu Stadium › Maebashi
               Vissel Kobe v Kashiwa Reysol  2-1 (1-0)   @ NOEVIR Stadium Kobe › Kobe
   Wed Jul 20
-    19.00     Tokyo Verdy v Jubilo Iwata  2-1 aet (1-1, 0-0)   @ Ajinomoto Stadium › Chōfu
-» Quarter-finals
+    19:00     Tokyo Verdy v Jubilo Iwata  2-1 aet (1-1, 0-0)   @ Ajinomoto Stadium › Chōfu
+▪ Quarter-finals
   Wed Sep 7
-    18.30     Cerezo Osaka v Sanfrecce Hiroshima  1-2 (1-0)   @ Yodoko Sakura Stadium › Osaka
-    19.00     Kyoto Sanga v Tokyo Verdy  2-1 (1-0)   @ Ajinomoto Stadium › Chōfu
+    18:30     Cerezo Osaka v Sanfrecce Hiroshima  1-2 (1-0)   @ Yodoko Sakura Stadium › Osaka
+    19:00     Kyoto Sanga v Tokyo Verdy  2-1 (1-0)   @ Ajinomoto Stadium › Chōfu
               Avispa Fukuoka v Ventforet Kofu  1-2 aet (1-1, 1-1)   @ Best Denki Stadium › Fukuoka
               Vissel Kobe v Kashima  0-1 (0-0)   @ NOEVIR Stadium Kobe › Kobe
-» Semi-finals
+▪ Semi-finals
   Wed Oct 5
-    17.30     Ventforet Kofu v Kashima  1-0 (1-0)   @ Kashima Soccer Stadium › Kashima
-    19.30     Kyoto Sanga v Sanfrecce Hiroshima  1-2 aet (1-1, 0-1)   @ Sanga Stadium by Kyocera › Kameoka
-» Final
+    17:30     Ventforet Kofu v Kashima  1-0 (1-0)   @ Kashima Soccer Stadium › Kashima
+    19:30     Kyoto Sanga v Sanfrecce Hiroshima  1-2 aet (1-1, 0-1)   @ Sanga Stadium by Kyocera › Kameoka
+▪ Final
   Sun Oct 16
-    14.00     Ventforet Kofu v Sanfrecce Hiroshima  1-1 aet (1-1, 1-0)   @ Nissan Stadium › Yokohama
+    14:00     Ventforet Kofu v Sanfrecce Hiroshima  1-1 aet (1-1, 1-0)   @ Nissan Stadium › Yokohama

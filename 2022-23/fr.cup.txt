@@ -1,43 +1,43 @@
 = France | Coupe de France 2022/23
 
-  # Date       Fri Oct/28 2022 - Sat Apr/29 2023 (183d)
+  # Date       Fri Oct 28 2022 - Sat Apr 29 2023 (183d)
   # Teams      196
   # Matches    195
 
   # Note - All times in Europe/Paris
 
-» 7th Round
+▪ 7th Round
   Fri Oct 28 2022
-    19.30     Poitiers v Chateauroux  0-1 (0-1)   @ Stade Michel-Amand › Buxerolles
+    19:30     Poitiers v Chateauroux  0-1 (0-1)   @ Stade Michel-Amand › Buxerolles
   Fri Oct 28
-    20.00     Le Puy Foot v Andrézieux  2-0 (1-0)   @ Stade Charles Massot › Espaly-Saint-Marcel
+    20:00     Le Puy Foot v Andrézieux  2-0 (1-0)   @ Stade Charles Massot › Espaly-Saint-Marcel
               Angoulême v Trélissac  1-1 (1-1)   @ Stade Lebon › Angoulême
   Sat Oct 29
-    14.00     Sochaux v Hombourg-Haut  3-0 (0-0)   @ Stade Auguste-Bonal › Montbéliard
+    14:00     Sochaux v Hombourg-Haut  3-0 (0-0)   @ Stade Auguste-Bonal › Montbéliard
               Oissel v Poissy  1-1 (1-1)   @ Stade Marcel-Billard › Oissel
               Olympique St Quentin v Hienghène Sport  2-1 (0-1)   @ Stade Paul Debrésie › Saint-Quentin
               Gallia Lucciana v Drancy  0-1 (0-1)   @ Stade Charles Galletti › Lucciana
               Les Ulis v Paris FC  1-3 (0-1)   @ Stade Jean-Marc Salinier 1 › Les Ulis
               Mérignac-Arlac v Niort  0-1 (0-1)   @ Stade Robert Brettes 1 › Bordeaux
               Velay v Mâcon  2-3 (0-1)   @ Stade Guy Roux 1 › Saint-Paulien
-    15.00     Saint Etienne v Rodez  0-1 pen (0-0, 0-0)   @ Stade Geoffroy-Guichard › Saint-Ètienne
+    15:00     Saint Etienne v Rodez  0-1 pen (0-0, 0-0)   @ Stade Geoffroy-Guichard › Saint-Ètienne
               Reipertswiller v Nancy  3-2 (1-0)   @ Stade de la Forêt 1 › Reipertswiller
               Salinieres Aigues Mortes v PAU  0-3 (0-2)   @ Stade du Bourgidou › Aigues-Mortes
               Orvault SF v Laval  1-1 (1-0)   @ Stade de Gagné › Orvault
               Illzach Modenheim v Grenoble  1-4 (1-2)   @ Stade Joseph Biechlin › Illzach
               Liancourt Clermont v Gobelins  0-5 (0-2)   @ Stade Municipal de Senlis › Senlis
-    15.30     Chartres-de-Bretagne v Avranches  0-2 (0-1)   @ Stade Ensemble Rémy Béranger 2 › Chartres-de-Bretagne
+    15:30     Chartres-de-Bretagne v Avranches  0-2 (0-1)   @ Stade Ensemble Rémy Béranger 2 › Chartres-de-Bretagne
               Golden Lion v Aiglon  1-2 (0-1)   @ Stade Georges-Gratiant › Le Lamentin
-    16.00     Annecy v Diables Noirs  8-1 (4-1)   @ Parc des Sports › Annecy
+    16:00     Annecy v Diables Noirs  8-1 (4-1)   @ Parc des Sports › Annecy
               Prix-lès-Mézières v Bastia  0-1 pen (0-0, 0-0)   @ Stade du Petit Bois › Charleville-Mézières
               St-Pryvé St-Hilaire v Dijon  1-1 (0-1)   @ Stade du Grand Clos › Saint-Pryvé-Saint-Mesmin
               Toulon v Aubagne  1-1 (0-0)   @ Stade de Bon-Rencontre › Toulon
               Aubervilliers v Quevilly  1-1 (0-0)   @ Stade André Karman › Aubervilliers
-    17.00     Vannes v Concarneau  1-1 (1-1)   @ Stade de la Rabine › Vannes
+    17:00     Vannes v Concarneau  1-1 (1-1)   @ Stade de la Rabine › Vannes
               Vitré v Ergué-Gaberic  0-1 pen (0-0, 0-0)   @ Stade Municipal de Vitré › Vitré
               Chambéry v Bourgoin-Jallieu  1-1 (0-1)   @ Plaine De Jeux Mager 1 › Chambery
               Haguenau v Jura Dolois  1-0 (1-0)   @ Parc des Sports › Haguenau
-    18.00     Valenciennes v RED Star FC 93  1-1 (0-0)   @ Stade du Hainaut › Valenciennes
+    18:00     Valenciennes v RED Star FC 93  1-1 (0-0)   @ Stade du Hainaut › Valenciennes
               Chamalières v Gueugnon  1-1 (0-0)   @ Complexe Sportif Claude Wolff › Chamalières
               Saint-Malo v Caen  2-2 (1-0)   @ Stade de Marville › Saint-Malo
               Beauvais v Dunkerque  0-3 (0-0)   @ Stade Pierre Brisson › Beauvais
@@ -58,18 +58,18 @@
               NDC Angers v Granville  2-4 (1-1)   @ Stade André Bertin › Angers
               Saint-Grégoire v Stade Pontivy  0-1 (0-1)   @ Stade Yves Le Minoux › Saint-Grégoire
               Éperlecques v Stade Béthunois  0-1 (0-1)   @ Stade Gaston Bonnet › Saint-Omer
-    18.30     Mareuil v Les Herbiers  1-6 (0-1)   @ Stade Jean de Mouzon › Luçon
+    18:30     Mareuil v Les Herbiers  1-6 (0-1)   @ Stade Jean de Mouzon › Luçon
               Stade Plabennec v Cholet  1-0 (0-0)   @ Stade de Kervéguen › Plabennec
-    19.00     Nimes v Bastia-Borgo  3-0 (2-0)   @ Stade des Costières › Nîmes
+    19:00     Nimes v Bastia-Borgo  3-0 (2-0)   @ Stade des Costières › Nîmes
               Biars-Bretenoux v Bergerac  1-2 (1-2)   @ Stade Municipal 1 › Biars-sur-Cère
               Chauray v Avoine OCC  0-1 (0-0)   @ Stade Municipal › Chauray
               Châtellerault v SA Mérignac  4-2 (2-2)   @ Stade De La Montée Rouge › Châtellerault
               Vénus v Belfort  0-3 (0-0)   @ Stade Pater Te Hono Nui › Papeete
               Pays de Cassel v Chaumont  2-1 (0-0)   @ Stade Auguste Damette 1 › Hazebrouck
-    20.00     Lescar v Boé Bon Encontre  0-2 (0-0)   @ Stade Bernard Masseillou › Lescar
+    20:00     Lescar v Boé Bon Encontre  0-2 (0-0)   @ Stade Bernard Masseillou › Lescar
               Stade Bordelais v Bordeaux  0-3 (0-0)   @ Stade Sainte-Germaine › Le-Bouscat
   Sun Oct 30
-    14.00     Bellevue Nantes v Basse Goulaine  2-0 (1-0)   @ Stade des Bernardiéres › Nantes
+    14:00     Bellevue Nantes v Basse Goulaine  2-0 (1-0)   @ Stade des Bernardiéres › Nantes
               Heillecourt v Epinal  0-4 (0-1)   @ Stade Pavageau › Dombasle-sur-Meurthe
               Feignies-Aulnoye v Escaudain  2-1 (1-1)   @ Stade Didier Eloy › Feignies
               Fleury 91 v Reims Sainte-Anne  1-1 (0-0)   @ Terrain Walter Felder › Fleury Merogis
@@ -86,36 +86,36 @@
               Bondues v Wasquehal  0-2 (0-0)   @ Complexe Sportif du Fort 1 › Bondues
               Marcoussis Nozay v Le Pays du Valois  3-2 (2-1)   @ Stade du Moulin › Nozay
               Saint-Estève Perpignan v Narbonne  3-1 (0-1)   @ Stade de la Piscine › Saint-Estève
-    14.30     Plouvorn v Sablé  1-0 pen (0-0, 0-0)   @ Stade Guy de Reals › Plouvorn
+    14:30     Plouvorn v Sablé  1-0 pen (0-0, 0-0)   @ Stade Guy de Reals › Plouvorn
               Rumilly Vallières v Saint-Louis Neuweg  3-0 (2-0)   @ Stade des Grangettes › Rumilly
               Havre Caucriauville v Vire  0-4 (0-0)   @ Stade Jules Ladoumègue › Le Havre
               Chambly Thelle FC v Amiens  1-1 (1-1)   @ Stade des Marais › Chambly
-    15.00     Séné v La Châtaigneraie  0-3 (0-1)   @ Stade Alphonse Le Derf 1 › Séné
+    15:00     Séné v La Châtaigneraie  0-3 (0-1)   @ Stade Alphonse Le Derf 1 › Séné
               Téteghem v Loon-Plage  1-4 (1-4)   @ Stade Marcel-Tribut › Dunkerque
               Hyères v Alberes Argelès  2-2 (1-2)   @ Stade Perruc › Hyères
-    15.30     Le Geldar v Grand Santi  1-1 (0-1)   @ Stade Omnisports › Sinnamary
-    16.00     Olympique Marcquois v Cambrai  3-1 (2-0)   @ Stade Georges Niquet › Marcq-en-Baroeul
+    15:30     Le Geldar v Grand Santi  1-1 (0-1)   @ Stade Omnisports › Sinnamary
+    16:00     Olympique Marcquois v Cambrai  3-1 (2-0)   @ Stade Georges Niquet › Marcq-en-Baroeul
               Etoile de Morne-à-l'Eau v Sporting Baie-Mahault  1-1 (1-1)   @ Stade René Serge Nabajoth › Les Abymes
               Saint-Pierroise v La Tamponnaise  0-1 pen (0-0, 0-0)   @ Stade Michel Volnay › Saint-Pierre
   Tue Nov 1
-    13.30     Tarentaise v Villefranche  0-5 (0-3)   @ Stade Joseph Bardassier 1 › Moutiers Tarentaise
-    18.00     Raon l'Etape v Metz  1-2 (0-1)   @ Stade Paul Gasser › Raon-l'Etape
-» 8th Round
+    13:30     Tarentaise v Villefranche  0-5 (0-3)   @ Stade Joseph Bardassier 1 › Moutiers Tarentaise
+    18:00     Raon l'Etape v Metz  1-2 (0-1)   @ Stade Paul Gasser › Raon-l'Etape
+▪ 8th Round
   Fri Nov 18
-    19.00     Lyon Duchere v Annecy  2-3 (0-1)   @ Stade de Balmont › Lyon
-    20.00     Bergerac v Niort  0-1 pen (0-0, 0-0)   @ Stade de Campréal › Bergerac
+    19:00     Lyon Duchere v Annecy  2-3 (0-1)   @ Stade de Balmont › Lyon
+    20:00     Bergerac v Niort  0-1 pen (0-0, 0-0)   @ Stade de Campréal › Bergerac
   Sat Nov 19
-    13.30     Linas-Montlhery v Gobelins  2-1 (2-1)   @ Stade d'Honneur Paul Desgouillons › Montlhéry
+    13:30     Linas-Montlhery v Gobelins  2-1 (2-1)   @ Stade d'Honneur Paul Desgouillons › Montlhéry
               Marnaval v Bastia  0-3 (0-0)   @ Stade Marcel Jacquin › Saint-Dizier
-    14.00     Oissel v Loon-Plage  1-1 (0-0)   @ Stade Marcel-Billard › Oissel
-    14.30     Orvault SF v La Châtaigneraie  0-1 (0-0)   @ Stade de Gagné › Orvault
+    14:00     Oissel v Loon-Plage  1-1 (0-0)   @ Stade Marcel-Billard › Oissel
+    14:30     Orvault SF v La Châtaigneraie  0-1 (0-0)   @ Stade de Gagné › Orvault
               Granville v Évreux 27  6-0 (4-0)   @ Stade Louis-Dior › Granville
-    15.00     Grenoble v Villefranche  2-0 (1-0)   @ Stade des Alpes › Grenoble
+    15:00     Grenoble v Villefranche  2-0 (1-0)   @ Stade des Alpes › Grenoble
               Feignies-Aulnoye v Valenciennes  0-3 (0-1)   @ Stade Léo Lagrange › Maubeuge
               Montauban TG v Nimes  0-4 (0-2)   @ Stade de Sapiac › Montauban
-    15.30     Grand Santi v Évreux 27  0-3 (0-2)   @ Stade Municipal Dr. Edmard Lama › Rémire-Montjoly
-    16.00     Haguenau v Belfort  1-2 (1-1)   @ Parc des Sports › Haguenau
-    17.00     Amiens v Aiglon  10-0 (4-0)   @ Stade Crédit Agricole de la Licorne › Amiens
+    15:30     Grand Santi v Évreux 27  0-3 (0-2)   @ Stade Municipal Dr. Edmard Lama › Rémire-Montjoly
+    16:00     Haguenau v Belfort  1-2 (1-1)   @ Parc des Sports › Haguenau
+    17:00     Amiens v Aiglon  10-0 (4-0)   @ Stade Crédit Agricole de la Licorne › Amiens
               Epinal v Metz  0-1 (0-0)   @ Stade de la Colombière › Épinal
               Chamalières v Mâcon  4-1 (0-0)   @ Complexe Sportif Claude Wolff › Chamalières
               Thaon v Sochaux  2-2 (0-1)   @ Stade Robert Sayer › Thaon-lès-Vosges
@@ -124,7 +124,7 @@
               Chambéry v Rumilly Vallières  2-1 (1-1)   @ Plaine De Jeux Mager 1 › Chambery
               Union Cosnoise v Paris FC  0-2 (0-1)   @ Parc Municipal des Sports Raphaël Giraux › Cosne-Cours-sur-Loire
               Boé Bon Encontre v Aubagne  1-4 (1-1)   @ Stade de Cancelles › Boé
-    18.00     Les Herbiers v Guingamp  2-2 (1-2)   @ Stade Massabielle › Les Herbiers
+    18:00     Les Herbiers v Guingamp  2-2 (1-2)   @ Stade Massabielle › Les Herbiers
               Colomiers v PAU  0-1 (0-0)   @ Complexe Sportif Capitany 1 › Colomiers
               Drapeau Fougères v Avranches  0-1 (0-0)   @ Stade Jean Manfredi › Fougères
               Ergué-Gaberic v Stade Plabennec  1-2 (1-1)   @ Stade Lestonan 1 › Ergue Gaberic
@@ -132,106 +132,106 @@
               Roche Saint-Genest v Rodez  0-1 (0-1)   @ Stade Maurice Rousson › Feurs
               Bourges Foot 18 v St-Pryvé St-Hilaire  1-1 (0-0)   @ Stade Jacques Rimbault › Bourges
               Stade Béthunois v Dunkerque  0-4 (0-0)   @ Stade Hermant-Deprez › Bethune
-    19.00     Lège-Cap-Ferret v Chateauroux  1-4 (1-2)   @ Stade Louis Goubet › Lège-Cap-Ferret
+    19:00     Lège-Cap-Ferret v Chateauroux  1-4 (1-2)   @ Stade Louis Goubet › Lège-Cap-Ferret
               Châtellerault v Avoine OCC  0-1 (0-1)   @ Stade De La Montée Rouge › Châtellerault
-    20.00     Trélissac v Bordeaux  2-3 (2-0)   @ Stade Francis-Rongiéras › Périgueux
+    20:00     Trélissac v Bordeaux  2-3 (2-0)   @ Stade Francis-Rongiéras › Périgueux
   Sun Nov 20
-    13.30     Bellevue Nantes v Lannion  0-1 pen (0-0, 0-0)   @ Stade des Bernardiéres › Nantes
+    13:30     Bellevue Nantes v Lannion  0-1 pen (0-0, 0-0)   @ Stade des Bernardiéres › Nantes
               Reims Sainte-Anne v Wasquehal  3-0 (3-0)   @ Stade Robert Pirès › Reims
               Pays de Cassel v Drancy  1-1 (1-1)   @ Stade Auguste Damette 1 › Hazebrouck
-    14.00     Villerupt Thil v Reipertswiller  1-1 (1-1)   @ Stade Delaune › Villerupt
+    14:00     Villerupt Thil v Reipertswiller  1-1 (1-1)   @ Stade Delaune › Villerupt
               Strasbourg Koenigshoffen v Louhans-Cuiseaux  2-1 (1-0)   @ Stade Charles Frey › Strasbourg
               Marcoussis Nozay v Vierzon FC  0-6 (0-4)   @ Stade Pierre-Camou › Marcoussis
               Plouvorn v Vannes  0-1 pen (0-0, 0-0)   @ Stade Guy de Reals › Plouvorn
-    14.30     Saint-Estève Perpignan v Hyères  1-1 (0-1)   @ Stade Jean-Laffon › Perpignan
-    15.00     La Tamponnaise v Aubervilliers  1-0 (0-0)   @ Stade Klébert Picard › Le Tampon
+    14:30     Saint-Estève Perpignan v Hyères  1-1 (0-1)   @ Stade Jean-Laffon › Perpignan
+    15:00     La Tamponnaise v Aubervilliers  1-0 (0-0)   @ Stade Klébert Picard › Le Tampon
               Olympique Marcquois v Olympique St Quentin  0-1 (0-1)   @ Stade Georges Niquet › Marcq-en-Baroeul
   Wed Nov 30
-    20.00     Jura Sud Foot v Limonest  1-1 (1-1)   @ Stade Edouard Guillon Annexe 1 › Molinges
+    20:00     Jura Sud Foot v Limonest  1-1 (1-1)   @ Stade Edouard Guillon Annexe 1 › Molinges
   Wed Dec 21
-    20.00     Vire v Caen  0-3 (0-2)   @ Stade Michel d'Ornano › Caen
-» Round of 64
+    20:00     Vire v Caen  0-3 (0-2)   @ Stade Michel d'Ornano › Caen
+▪ Round of 64
   Fri Jan 6 2023
-    18.00     Strasbourg v Angers  4-5 pen (0-0, 0-0, 0-0)   @ Stade de la Meinau › Strasbourg
+    18:00     Strasbourg v Angers  4-5 pen (0-0, 0-0, 0-0)   @ Stade de la Meinau › Strasbourg
   Fri Jan 6
-    18.00     Grenoble v Nimes  1-0 (0-0)   @ Stade des Alpes › Grenoble
+    18:00     Grenoble v Nimes  1-0 (0-0)   @ Stade des Alpes › Grenoble
               Paris FC v Valenciennes  3-1 (1-1)   @ Stade Charléty › Paris
               PAU v Montpellier  2-1 (1-0)   @ Stade Nouste Camp › Bizanos
-    21.00     Chateauroux v Paris Saint Germain  1-3 (1-1)   @ Stade Gaston Petit › Châteauroux
+    21:00     Chateauroux v Paris Saint Germain  1-3 (1-1)   @ Stade Gaston Petit › Châteauroux
   Sat Jan 7
-    13.00     Évreux 27 v Bastia  3-4 pen (1-1, 1-1, 1-0)   @ Stade de Pacy-Ménilles › Ménilles
+    13:00     Évreux 27 v Bastia  3-4 pen (1-1, 1-1, 1-0)   @ Stade de Pacy-Ménilles › Ménilles
               Grasse v La Tamponnaise  1-0 (1-0)   @ Stades de la Paoute › Grasse
-    15.30     Marseille v Hyères  2-0 (1-0)   @ Stade Francis Turcan › Martigues
+    15:30     Marseille v Hyères  2-0 (1-0)   @ Stade Francis Turcan › Martigues
               Avranches v Stade Brestois 29  0-2 (0-0)   @ Stade René Fenouillère › Avranches
               Linas-Montlhery v Lens  0-2 (0-0)   @ Stade Robert Bobin › Bondoufle
               Strasbourg Koenigshoffen v Clermont Foot  4-3 pen (0-0, 0-0, 0-0)   @ Stade Émile Stahl › Strasbourg
               Lyon v Metz  2-1 (0-0)   @ Groupama Stadium › Décines-Charpieu
-    18.00     Monaco v Rodez  4-5 pen (2-2, 2-2, 2-1)   @ Stade Louis II › Monaco
+    18:00     Monaco v Rodez  4-5 pen (2-2, 2-2, 2-1)   @ Stade Louis II › Monaco
               Le Puy Foot v Nice  1-0 (1-0)   @ Stade Charles Massot › Espaly-Saint-Marcel
               Thaon v Amiens  4-2 pen (0-0, 0-0, 0-0)   @ Stade Robert Sayer › Thaon-lès-Vosges
               Granville v Niort  0-3 (0-0)   @ Stade Louis-Dior › Granville
               Vire v Nantes  0-2 (0-1)   @ Stade Michel d'Ornano › Caen
               Stade Plabennec v Vannes  2-0 (1-0)   @ Stade de Kervéguen › Plabennec
               Villerupt Thil v Annecy  1-6 (1-4)   @ Stade Andre Valentin › Amnéville-les-Thermes
-    20.45     Bordeaux v Rennes  1-2 (1-1)   @ Stade Matmut-Atlantique › Bordeaux
+    20:45     Bordeaux v Rennes  1-2 (1-1)   @ Stade Matmut-Atlantique › Bordeaux
   Sun Jan 8
-    15.30     Belfort v Olympique St Quentin  3-1 (2-1)   @ Stade Roger-Serzian › Belfort
+    15:30     Belfort v Olympique St Quentin  3-1 (2-1)   @ Stade Roger-Serzian › Belfort
               Chamalières v Bourges Foot 18  6-5 pen (0-0, 0-0, 0-0)   @ Stade Gabriel Montpied › Clermont-Ferrand
               La Châtaigneraie v Lorient  0-6 (0-2)   @ Stade Henri Desgrange › La Roche-sur-Yon
               Jura Sud Foot v Ajaccio  1-2 (0-1)   @ Stade Edouard Guillon Annexe 1 › Molinges
               Loon-Plage v Reims  0-7 (0-1)   @ Stade Marcel Rosseel-Terrain 1 › Loon-Plage
-    18.00     Lannion v Toulouse  1-7 (1-3)   @ Stade du Roudourou › Guingamp
+    18:00     Lannion v Toulouse  1-7 (1-3)   @ Stade du Roudourou › Guingamp
               Stade Pontivy v Les Herbiers  1-4 (0-2)   @ Stade du Faubourg de Verdun › Pontivy
               Avoine OCC v Vierzon FC  1-2 (1-1)   @ Stade Marcel Vignaud › Avoine
               Aubagne v Chambéry  1-3 (0-0)   @ Stade de Lattre de Tassigny › Aubagne
               Dunkerque v Auxerre  4-5 pen (2-2, 2-2, 1-2)   @ Stade Marcel-Tribut › Dunkerque
-    20.45     Lille v Estac Troyes  2-0 (1-0)   @ Decathlon Arena-Stade Pierre-Mauroy › Villeneuve d'Ascq
+    20:45     Lille v Estac Troyes  2-0 (1-0)   @ Decathlon Arena-Stade Pierre-Mauroy › Villeneuve d'Ascq
   Sat Jan 14
-    18.00     Pays de Cassel v Wasquehal  5-4 pen (1-1, 1-1, 0-0)   @ Stade Auguste Damette 1 › Hazebrouck
-» Round of 32
+    18:00     Pays de Cassel v Wasquehal  5-4 pen (1-1, 1-1, 0-0)   @ Stade Auguste Damette 1 › Hazebrouck
+▪ Round of 32
   Fri Jan 20
-    21.10     Marseille v Rennes  1-0 (0-0)   @ Stade Orange Vélodrome › Marseille
+    21:10     Marseille v Rennes  1-0 (0-0)   @ Stade Orange Vélodrome › Marseille
   Sat Jan 21
-    15.30     Chambéry v Lyon  0-3 (0-2)   @ Groupama Stadium › Décines-Charpieu
-    18.00     Toulouse v Ajaccio  2-0 (0-0)   @ Stadium de Toulouse › Toulouse
+    15:30     Chambéry v Lyon  0-3 (0-2)   @ Groupama Stadium › Décines-Charpieu
+    18:00     Toulouse v Ajaccio  2-0 (0-0)   @ Stadium de Toulouse › Toulouse
               Bastia v Lorient  1-4 pen (1-1, 1-1, 0-0)   @ Stade Armand-Césari › Furiani
               Les Herbiers v Reims  0-3 (0-1)   @ Stade Massabielle › Les Herbiers
               Chamalières v Paris FC  0-4 (0-2)   @ Stade Gabriel Montpied › Clermont-Ferrand
               Grasse v Rodez  4-5 pen (0-0, 0-0, 0-0)   @ Stades de la Paoute › Grasse
               Stade Plabennec v Grenoble  0-1 (0-1)   @ Stade de Kervéguen › Plabennec
-    20.45     Strasbourg Koenigshoffen v Angers  0-1 (0-1)   @ Stade de la Meinau › Strasbourg
+    20:45     Strasbourg Koenigshoffen v Angers  0-1 (0-1)   @ Stade de la Meinau › Strasbourg
   Sun Jan 22
-    18.30     Lille v PAU  2-0 (1-0)   @ Decathlon Arena-Stade Pierre-Mauroy › Villeneuve d'Ascq
+    18:30     Lille v PAU  2-0 (1-0)   @ Decathlon Arena-Stade Pierre-Mauroy › Villeneuve d'Ascq
               Niort v Auxerre  0-4 (0-2)   @ Stade René Gaillard › Niort
               Belfort v Annecy  3-4 pen (1-1, 1-1, 1-0)   @ Stade Roger-Serzian › Belfort
               Le Puy Foot v Vierzon FC  3-5 pen (0-0, 0-0, 0-0)   @ Stade Charles Massot › Espaly-Saint-Marcel
               Thaon v Nantes  2-4 pen (0-0, 0-0, 0-0)   @ Stade de la Colombière › Épinal
-    21.00     Stade Brestois 29 v Lens  1-3 (1-3)   @ Stade Francis-Le Blé › Brest
+    21:00     Stade Brestois 29 v Lens  1-3 (1-3)   @ Stade Francis-Le Blé › Brest
   Mon Jan 23
-    20.45     Pays de Cassel v Paris Saint Germain  0-7 (0-4)   @ Stade Bollaert-Delelis › Lens
-» Round of 16
+    20:45     Pays de Cassel v Paris Saint Germain  0-7 (0-4)   @ Stade Bollaert-Delelis › Lens
+▪ Round of 16
   Wed Feb 8
-    18.15     Lyon v Lille  4-2 pen (2-2, 2-2, 2-1)   @ Groupama Stadium › Décines-Charpieu
+    18:15     Lyon v Lille  4-2 pen (2-2, 2-2, 2-1)   @ Groupama Stadium › Décines-Charpieu
               Toulouse v Reims  3-1 (2-0)   @ Stadium de Toulouse › Toulouse
               Auxerre v Rodez  2-3 (1-1)   @ Stade de l'Abbé Deschamps › Auxerre
               Paris FC v Annecy  5-6 pen (1-1, 1-1, 0-0)   @ Stade Charléty › Paris
               Vierzon FC v Grenoble  0-1 (0-0)   @ Stade de Brouhot › Vierzon
               Angers v Nantes  2-4 pen (1-1, 1-1, 1-0)   @ Stade Raymond-Kopa › Angers
-    21.10     Marseille v Paris Saint Germain  2-1 (1-1)   @ Stade Orange Vélodrome › Marseille
+    21:10     Marseille v Paris Saint Germain  2-1 (1-1)   @ Stade Orange Vélodrome › Marseille
   Thu Feb 9
-    21.00     Lorient v Lens  2-4 pen (1-1, 1-1, 0-1)   @ Stade Yves Allainmat-Le Moustoir › Lorient
-» Quarter-finals
+    21:00     Lorient v Lens  2-4 pen (1-1, 1-1, 0-1)   @ Stade Yves Allainmat-Le Moustoir › Lorient
+▪ Quarter-finals
   Tue Feb 28
-    21.10     Lyon v Grenoble  2-1 (2-0)   @ Groupama Stadium › Décines-Charpieu
+    21:10     Lyon v Grenoble  2-1 (2-0)   @ Groupama Stadium › Décines-Charpieu
   Wed Mar 1
-    18.15     Nantes v Lens  2-1 (1-1)   @ Stade de la Beaujoire-Louis Fonteneau › Nantes
-    18.45     Toulouse v Rodez  6-1 (5-0)   @ Stadium de Toulouse › Toulouse
-    21.00     Marseille v Annecy  6-7 pen (2-2, 2-2, 1-0)   @ Stade Orange Vélodrome › Marseille
-» Semi-finals
+    18:15     Nantes v Lens  2-1 (1-1)   @ Stade de la Beaujoire-Louis Fonteneau › Nantes
+    18:45     Toulouse v Rodez  6-1 (5-0)   @ Stadium de Toulouse › Toulouse
+    21:00     Marseille v Annecy  6-7 pen (2-2, 2-2, 1-0)   @ Stade Orange Vélodrome › Marseille
+▪ Semi-finals
   Wed Apr 5
-    21.10     Nantes v Lyon  1-0 (0-0)   @ Stade de la Beaujoire-Louis Fonteneau › Nantes
+    21:10     Nantes v Lyon  1-0 (0-0)   @ Stade de la Beaujoire-Louis Fonteneau › Nantes
   Thu Apr 6
-    20.45     Annecy v Toulouse  1-2 (1-1)   @ Parc des Sports › Annecy
-» Final
+    20:45     Annecy v Toulouse  1-2 (1-1)   @ Parc des Sports › Annecy
+▪ Final
   Sat Apr 29
-    21.00     Nantes v Toulouse  1-5 (0-4)   @ Stade de France › Saint-Denis
+    21:00     Nantes v Toulouse  1-5 (0-4)   @ Stade de France › Saint-Denis

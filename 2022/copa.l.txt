@@ -1,230 +1,230 @@
 = CONMEBOL Libertadores 2022
 
-  # Date       Tue Feb/8 - Sat Oct/29 2022 (263d)
+  # Date       Tue Feb 8 - Sat Oct 29 2022 (263d)
   # Teams      47
   # Matches    155
 
   # Note - All times in America/Sao_Paulo
 
-» 1st Round
+▪ 1st Round
   Tue Feb 8 2022
-    19.15     Deportivo Lara (VEN) v Bolívar (BOL)  2-3 (2-3)   @ Estadio Rafael Agustín Tovar › Barinas
+    19:15     Deportivo Lara (VEN) v Bolívar (BOL)  2-3 (2-3)   @ Estadio Rafael Agustín Tovar › Barinas
   Tue Feb 8
-    21.30     Atletico Torque (URU) v Barcelona SC (ECU)  1-1 (0-1)   @ Estadio Centenario › Montevideo
+    21:30     Atletico Torque (URU) v Barcelona SC (ECU)  1-1 (0-1)   @ Estadio Centenario › Montevideo
   Wed Feb 9
-    21.30     Cesar Vallejo (PER) v Olimpia (PAR)  0-1 (0-1)   @ Estadio Nacional de Lima › Lima
+    21:30     Cesar Vallejo (PER) v Olimpia (PAR)  0-1 (0-1)   @ Estadio Nacional de Lima › Lima
   Tue Feb 15
-    19.15     Bolívar (BOL) v Deportivo Lara (VEN)  4-0 (1-0)   @ Estadio Hernando Siles › La Paz
-    21.30     Barcelona SC (ECU) v Atletico Torque (URU)  8-7 pen (0-0, 0-0, 0-0)   @ Estadio Monumental Banco Pichincha › Guayaquil
+    19:15     Bolívar (BOL) v Deportivo Lara (VEN)  4-0 (1-0)   @ Estadio Hernando Siles › La Paz
+    21:30     Barcelona SC (ECU) v Atletico Torque (URU)  8-7 pen (0-0, 0-0, 0-0)   @ Estadio Monumental Banco Pichincha › Guayaquil
   Wed Feb 16
-    21.30     Olimpia (PAR) v Cesar Vallejo (PER)  2-0 (1-0)   @ Estadio Defensores del Chaco › Asunción
-» 2nd Round
+    21:30     Olimpia (PAR) v Cesar Vallejo (PER)  2-0 (1-0)   @ Estadio Defensores del Chaco › Asunción
+▪ 2nd Round
   Mon Feb 21
-    19.15     Everton de Vina (CHI) v Monagas SC (VEN)  3-0 (2-0)   @ Estadio Sausalito › Viña del Mar
+    19:15     Everton de Vina (CHI) v Monagas SC (VEN)  3-0 (2-0)   @ Estadio Sausalito › Viña del Mar
   Tue Feb 22
-    19.15     America Mineiro (BRA) v Club Guarani (PAR)  0-1 (0-0)   @ Estádio Raimundo Sampaio › Belo Horizonte, Minas Gerais
+    19:15     America Mineiro (BRA) v Club Guarani (PAR)  0-1 (0-0)   @ Estádio Raimundo Sampaio › Belo Horizonte, Minas Gerais
               Bolívar (BOL) v Universidad Catolica (ECU)  1-1 (1-1)   @ Estadio Hernando Siles › La Paz
-    21.30     Plaza Colonia (URU) v The Strongest (BOL)  2-0 (2-0)   @ Estadio Centenario › Montevideo
+    21:30     Plaza Colonia (URU) v The Strongest (BOL)  2-0 (2-0)   @ Estadio Centenario › Montevideo
               Millonarios (COL) v Fluminense (BRA)  1-2 (1-1)   @ Estadio Nemesio Camacho El Campín › Bogotá, D.C.
   Wed Feb 23
-    21.30     A. Italiano (CHI) v Estudiantes L.P. (ARG)  1-0 (1-0)   @ Estadio El Teniente › Rancagua
+    21:30     A. Italiano (CHI) v Estudiantes L.P. (ARG)  1-0 (1-0)   @ Estadio El Teniente › Rancagua
               Barcelona SC (ECU) v Universitario (PER)  2-0 (0-0)   @ Estadio Monumental Banco Pichincha › Guayaquil
   Thu Feb 24
-    21.30     Olimpia (PAR) v Atletico Nacional (COL)  3-1 (1-0)   @ Estadio Defensores del Chaco › Asunción
+    21:30     Olimpia (PAR) v Atletico Nacional (COL)  3-1 (1-0)   @ Estadio Defensores del Chaco › Asunción
   Mon Feb 28
-    19.15     Monagas SC (VEN) v Everton de Vina (CHI)  1-0 (0-0)   @ Estadio Monumental de Maturín › Maturín
+    19:15     Monagas SC (VEN) v Everton de Vina (CHI)  1-0 (0-0)   @ Estadio Monumental de Maturín › Maturín
   Tue Mar 1
-    19.15     Club Guarani (PAR) v America Mineiro (BRA)  4-5 pen (2-3, 2-3, 2-0)   @ Estadio Defensores del Chaco › Asunción
+    19:15     Club Guarani (PAR) v America Mineiro (BRA)  4-5 pen (2-3, 2-3, 2-0)   @ Estadio Defensores del Chaco › Asunción
               Universidad Catolica (ECU) v Bolívar (BOL)  2-0 (2-0)   @ Estadio Olímpico Atahualpa › Quito
-    21.30     Fluminense (BRA) v Millonarios (COL)  2-0 (0-0)   @ Estádio São Januário › Rio de Janeiro, Rio de Janeiro
+    21:30     Fluminense (BRA) v Millonarios (COL)  2-0 (0-0)   @ Estádio São Januário › Rio de Janeiro, Rio de Janeiro
               The Strongest (BOL) v Plaza Colonia (URU)  3-0 (2-0)   @ Estadio Hernando Siles › La Paz
   Wed Mar 2
-    21.30     Universitario (PER) v Barcelona SC (ECU)  0-1 (0-0)   @ Estadio Nacional de Lima › Lima
+    21:30     Universitario (PER) v Barcelona SC (ECU)  0-1 (0-0)   @ Estadio Nacional de Lima › Lima
               Estudiantes L.P. (ARG) v A. Italiano (CHI)  2-0 (1-0)   @ Estadio Jorge Luis Hirschi › La Plata, Provincia de Buenos Aires
   Thu Mar 3
-    21.30     Atletico Nacional (COL) v Olimpia (PAR)  1-1 (0-0)   @ Estadio Atanasio Girardot › Medellín
-» 3rd Round
+    21:30     Atletico Nacional (COL) v Olimpia (PAR)  1-1 (0-0)   @ Estadio Atanasio Girardot › Medellín
+▪ 3rd Round
   Tue Mar 8
-    19.15     Everton de Vina (CHI) v Estudiantes L.P. (ARG)  0-1 (0-0)   @ Estadio Sausalito › Viña del Mar
-    21.30     America Mineiro (BRA) v Barcelona SC (ECU)  0-0 (0-0)   @ Estádio Raimundo Sampaio › Belo Horizonte, Minas Gerais
+    19:15     Everton de Vina (CHI) v Estudiantes L.P. (ARG)  0-1 (0-0)   @ Estadio Sausalito › Viña del Mar
+    21:30     America Mineiro (BRA) v Barcelona SC (ECU)  0-0 (0-0)   @ Estádio Raimundo Sampaio › Belo Horizonte, Minas Gerais
   Wed Mar 9
-    21.30     Fluminense (BRA) v Olimpia (PAR)  3-1 (1-1)   @ Estádio Nilton Santos › Rio de Janeiro
+    21:30     Fluminense (BRA) v Olimpia (PAR)  3-1 (1-1)   @ Estádio Nilton Santos › Rio de Janeiro
   Thu Mar 10
-    21.30     Universidad Catolica (ECU) v The Strongest (BOL)  0-0 (0-0)   @ Estadio Olímpico Atahualpa › Quito
+    21:30     Universidad Catolica (ECU) v The Strongest (BOL)  0-0 (0-0)   @ Estadio Olímpico Atahualpa › Quito
   Tue Mar 15
-    19.15     Estudiantes L.P. (ARG) v Everton de Vina (CHI)  1-0 (1-0)   @ Estadio Jorge Luis Hirschi › La Plata, Provincia de Buenos Aires
-    21.30     Barcelona SC (ECU) v America Mineiro (BRA)  4-5 pen (0-0, 0-0, 0-0)   @ Estadio Monumental Banco Pichincha › Guayaquil
+    19:15     Estudiantes L.P. (ARG) v Everton de Vina (CHI)  1-0 (1-0)   @ Estadio Jorge Luis Hirschi › La Plata, Provincia de Buenos Aires
+    21:30     Barcelona SC (ECU) v America Mineiro (BRA)  4-5 pen (0-0, 0-0, 0-0)   @ Estadio Monumental Banco Pichincha › Guayaquil
   Wed Mar 16
-    21.30     Olimpia (PAR) v Fluminense (BRA)  4-1 pen (2-0, 2-0, 1-0)   @ Estadio Defensores del Chaco › Asunción
+    21:30     Olimpia (PAR) v Fluminense (BRA)  4-1 pen (2-0, 2-0, 1-0)   @ Estadio Defensores del Chaco › Asunción
   Thu Mar 17
-    21.30     The Strongest (BOL) v Universidad Catolica (ECU)  2-1 (1-1)   @ Estadio Hernando Siles › La Paz
-» Group Stage - 1
+    21:30     The Strongest (BOL) v Universidad Catolica (ECU)  2-1 (1-1)   @ Estadio Hernando Siles › La Paz
+▪ Group Stage - 1
   Tue Apr 5
-    19.15     Olimpia (PAR) v Cerro Porteno (PAR)  0-0 (0-0)   @ Estadio Defensores del Chaco › Asunción
+    19:15     Olimpia (PAR) v Cerro Porteno (PAR)  0-0 (0-0)   @ Estadio Defensores del Chaco › Asunción
               Caracas FC (VEN) v Atletico Paranaense (BRA)  0-0 (0-0)   @ Estadio Olímpico de la UCV › Caracas
               Colon Santa Fe (ARG) v Penarol (URU)  2-1 (1-0)   @ Estadio Brigadier General Estanislao López › Ciudad de Santa Fe, Provincia de Santa Fe
-    21.30     Always Ready (BOL) v Corinthians (BRA)  2-0 (1-0)   @ Estadio Hernando Siles › La Paz
+    21:30     Always Ready (BOL) v Corinthians (BRA)  2-0 (1-0)   @ Estadio Hernando Siles › La Paz
               Deportivo Cali (COL) v Boca Juniors (ARG)  2-0 (0-0)   @ Estadio Deportivo Cali › Palmira
-    22.00     Sporting Cristal (PER) v Flamengo (BRA)  0-2 (0-1)   @ Estadio Nacional de Lima › Lima
+    22:00     Sporting Cristal (PER) v Flamengo (BRA)  0-2 (0-1)   @ Estadio Nacional de Lima › Lima
   Wed Apr 6
-    19.00     America Mineiro (BRA) v Independiente del Valle (ECU)  0-2 (0-1)   @ Estádio Raimundo Sampaio › Belo Horizonte, Minas Gerais
+    19:00     America Mineiro (BRA) v Independiente del Valle (ECU)  0-2 (0-1)   @ Estádio Raimundo Sampaio › Belo Horizonte, Minas Gerais
               Talleres Cordoba (ARG) v U. Catolica (CHI)  1-0 (1-0)   @ Estadio Mario Alberto Kempes › Ciudad de Córdoba, Provincia de Córdoba
               RB Bragantino (BRA) v Club Nacional (URU)  2-0 (1-0)   @ Estádio Nabi Abi Chedid › Bragança Paulista, São Paulo
-    21.00     Alianza Lima (PER) v River Plate (ARG)  0-1 (0-0)   @ Estadio Nacional de Lima › Lima
+    21:00     Alianza Lima (PER) v River Plate (ARG)  0-1 (0-0)   @ Estadio Nacional de Lima › Lima
               Deportivo Tachira FC (VEN) v Palmeiras (BRA)  0-4 (0-2)   @ Estadio Polideportivo de Pueblo Nuevo › San Cristóbal
               Deportes Tolima (COL) v Atletico-MG (BRA)  0-2 (0-1)   @ Estadio Manuel Murillo Toro › Ibagué
-    23.00     Independiente Petrolero (BOL) v Emelec (ECU)  1-1 (0-0)   @ Estadio Olímpico Patria › Sucre
+    23:00     Independiente Petrolero (BOL) v Emelec (ECU)  1-1 (0-0)   @ Estadio Olímpico Patria › Sucre
   Thu Apr 7
-    19.00     Fortaleza EC (BRA) v Colo Colo (CHI)  1-2 (0-1)   @ Estádio Governador Plácido Aderaldo Castelo › Fortaleza, Ceará
-    21.00     Estudiantes L.P. (ARG) v Velez Sarsfield (ARG)  4-1 (2-1)   @ Estadio Jorge Luis Hirschi › La Plata, Provincia de Buenos Aires
-    23.00     The Strongest (BOL) v Libertad Asuncion (PAR)  1-1 (1-1)   @ Estadio Hernando Siles › La Paz
-» Group Stage - 2
+    19:00     Fortaleza EC (BRA) v Colo Colo (CHI)  1-2 (0-1)   @ Estádio Governador Plácido Aderaldo Castelo › Fortaleza, Ceará
+    21:00     Estudiantes L.P. (ARG) v Velez Sarsfield (ARG)  4-1 (2-1)   @ Estadio Jorge Luis Hirschi › La Plata, Provincia de Buenos Aires
+    23:00     The Strongest (BOL) v Libertad Asuncion (PAR)  1-1 (1-1)   @ Estadio Hernando Siles › La Paz
+▪ Group Stage - 2
   Tue Apr 12
-    19.15     Boca Juniors (ARG) v Always Ready (BOL)  2-0 (1-0)   @ Estadio Alberto José Armando › Ciudad de Buenos Aires
+    19:15     Boca Juniors (ARG) v Always Ready (BOL)  2-0 (1-0)   @ Estadio Alberto José Armando › Ciudad de Buenos Aires
               Cerro Porteno (PAR) v Colon Santa Fe (ARG)  3-1 (1-1)   @ Estadio General Pablo Rojas › Asunción
               U. Catolica (CHI) v Sporting Cristal (PER)  2-1 (1-0)   @ Estadio San Carlos de Apoquindo › Santiago de Chile
-    21.30     Flamengo (BRA) v Talleres Cordoba (ARG)  3-1 (2-1)   @ Estadio Jornalista Mário Filho › Rio de Janeiro, Rio de Janeiro
+    21:30     Flamengo (BRA) v Talleres Cordoba (ARG)  3-1 (2-1)   @ Estadio Jornalista Mário Filho › Rio de Janeiro, Rio de Janeiro
               Penarol (URU) v Olimpia (PAR)  2-1 (1-0)   @ Estadio Campeón del Siglo › Montevideo
               Palmeiras (BRA) v Independiente Petrolero (BOL)  8-1 (1-1)   @ Allianz Parque › São Paulo, São Paulo
   Wed Apr 13
-    19.00     Libertad Asuncion (PAR) v Caracas FC (VEN)  2-1 (2-1)   @ Estadio Defensores del Chaco › Asunción
+    19:00     Libertad Asuncion (PAR) v Caracas FC (VEN)  2-1 (2-1)   @ Estadio Defensores del Chaco › Asunción
               Colo Colo (CHI) v Alianza Lima (PER)  2-1 (1-0)   @ Estadio Monumental David Arellano › Santiago de Chile
-    21.00     River Plate (ARG) v Fortaleza EC (BRA)  2-0 (2-0)   @ Estadio Monumental Antonio Vespucio Liberti › Capital Federal, Ciudad de Buenos Aires
+    21:00     River Plate (ARG) v Fortaleza EC (BRA)  2-0 (2-0)   @ Estadio Monumental Antonio Vespucio Liberti › Capital Federal, Ciudad de Buenos Aires
               Atletico-MG (BRA) v America Mineiro (BRA)  1-1 (0-0)   @ Estádio Governador Magalhães Pinto › Belo Horizonte, Minas Gerais
               Club Nacional (URU) v Estudiantes L.P. (ARG)  0-0 (0-0)   @ Estadio Gran Parque Central › Montevideo
               Corinthians (BRA) v Deportivo Cali (COL)  1-0 (0-0)   @ Neo Química Arena › São Paulo, São Paulo
-    23.00     Independiente del Valle (ECU) v Deportes Tolima (COL)  2-2 (0-2)   @ Estadio Banco Guayaquil › Sangolquí
+    23:00     Independiente del Valle (ECU) v Deportes Tolima (COL)  2-2 (0-2)   @ Estadio Banco Guayaquil › Sangolquí
   Thu Apr 14
-    19.00     Atletico Paranaense (BRA) v The Strongest (BOL)  1-0 (0-0)   @ Arena da Baixada › Curitiba, Paraná
-    21.00     Velez Sarsfield (ARG) v RB Bragantino (BRA)  2-2 (1-1)   @ Estadio José Amalfitani › Capital Federal, Ciudad de Buenos Aires
-    23.00     Emelec (ECU) v Deportivo Tachira FC (VEN)  1-1 (1-1)   @ Estadio George Capwell › Guayaquil
-» Group Stage - 3
+    19:00     Atletico Paranaense (BRA) v The Strongest (BOL)  1-0 (0-0)   @ Arena da Baixada › Curitiba, Paraná
+    21:00     Velez Sarsfield (ARG) v RB Bragantino (BRA)  2-2 (1-1)   @ Estadio José Amalfitani › Capital Federal, Ciudad de Buenos Aires
+    23:00     Emelec (ECU) v Deportivo Tachira FC (VEN)  1-1 (1-1)   @ Estadio George Capwell › Guayaquil
+▪ Group Stage - 3
   Tue Apr 26
-    19.15     Estudiantes L.P. (ARG) v RB Bragantino (BRA)  2-0 (0-0)   @ Estadio Jorge Luis Hirschi › La Plata, Provincia de Buenos Aires
+    19:15     Estudiantes L.P. (ARG) v RB Bragantino (BRA)  2-0 (0-0)   @ Estadio Jorge Luis Hirschi › La Plata, Provincia de Buenos Aires
               Libertad Asuncion (PAR) v Atletico Paranaense (BRA)  1-0 (0-0)   @ Estadio Defensores del Chaco › Asunción
               Independiente Petrolero (BOL) v Deportivo Tachira FC (VEN)  1-2 (1-1)   @ Estadio Olímpico Patria › Sucre
               Velez Sarsfield (ARG) v Club Nacional (URU)  1-2 (1-1)   @ Estadio José Amalfitani › Capital Federal, Ciudad de Buenos Aires
-    21.30     Corinthians (BRA) v Boca Juniors (ARG)  2-0 (1-0)   @ Neo Química Arena › São Paulo, São Paulo
+    21:30     Corinthians (BRA) v Boca Juniors (ARG)  2-0 (1-0)   @ Neo Química Arena › São Paulo, São Paulo
               Talleres Cordoba (ARG) v Sporting Cristal (PER)  1-0 (0-0)   @ Estadio Mario Alberto Kempes › Ciudad de Córdoba, Provincia de Córdoba
               Independiente del Valle (ECU) v Atletico-MG (BRA)  1-1 (0-1)   @ Estadio Banco Guayaquil › Sangolquí
   Wed Apr 27
-    19.00     Fortaleza EC (BRA) v Alianza Lima (PER)  2-1 (0-0)   @ Estádio Governador Plácido Aderaldo Castelo › Fortaleza, Ceará
+    19:00     Fortaleza EC (BRA) v Alianza Lima (PER)  2-1 (0-0)   @ Estádio Governador Plácido Aderaldo Castelo › Fortaleza, Ceará
               America Mineiro (BRA) v Deportes Tolima (COL)  2-3 (0-0)   @ Estádio Raimundo Sampaio › Belo Horizonte, Minas Gerais
-    21.00     Cerro Porteno (PAR) v Penarol (URU)  1-0 (1-0)   @ Estadio General Pablo Rojas › Asunción
+    21:00     Cerro Porteno (PAR) v Penarol (URU)  1-0 (1-0)   @ Estadio General Pablo Rojas › Asunción
               Colo Colo (CHI) v River Plate (ARG)  1-2 (0-0)   @ Estadio Monumental David Arellano › Santiago de Chile
               Emelec (ECU) v Palmeiras (BRA)  1-3 (0-2)   @ Estadio George Capwell › Guayaquil
-    23.00     The Strongest (BOL) v Caracas FC (VEN)  1-1 (1-0)   @ Estadio Hernando Siles › La Paz
+    23:00     The Strongest (BOL) v Caracas FC (VEN)  1-1 (1-0)   @ Estadio Hernando Siles › La Paz
   Thu Apr 28
-    19.00     U. Catolica (CHI) v Flamengo (BRA)  2-3 (1-2)   @ Estadio San Carlos de Apoquindo › Santiago de Chile
-    21.00     Olimpia (PAR) v Colon Santa Fe (ARG)  0-0 (0-0)   @ Estadio Defensores del Chaco › Asunción
-    23.00     Always Ready (BOL) v Deportivo Cali (COL)  2-2 (2-1)   @ Estadio Hernando Siles › La Paz
-» Group Stage - 4
+    19:00     U. Catolica (CHI) v Flamengo (BRA)  2-3 (1-2)   @ Estadio San Carlos de Apoquindo › Santiago de Chile
+    21:00     Olimpia (PAR) v Colon Santa Fe (ARG)  0-0 (0-0)   @ Estadio Defensores del Chaco › Asunción
+    23:00     Always Ready (BOL) v Deportivo Cali (COL)  2-2 (2-1)   @ Estadio Hernando Siles › La Paz
+▪ Group Stage - 4
   Tue May 3
-    19.15     Caracas FC (VEN) v Libertad Asuncion (PAR)  1-0 (0-0)   @ Estadio Olímpico de la UCV › Caracas
+    19:15     Caracas FC (VEN) v Libertad Asuncion (PAR)  1-0 (0-0)   @ Estadio Olímpico de la UCV › Caracas
               The Strongest (BOL) v Atletico Paranaense (BRA)  5-0 (1-0)   @ Estadio Hernando Siles › La Paz
               Deportivo Tachira FC (VEN) v Emelec (ECU)  1-4 (1-2)   @ Estadio Polideportivo de Pueblo Nuevo › San Cristóbal
-    21.30     Estudiantes L.P. (ARG) v Club Nacional (URU)  1-0 (1-0)   @ Estadio Jorge Luis Hirschi › La Plata, Provincia de Buenos Aires
+    21:30     Estudiantes L.P. (ARG) v Club Nacional (URU)  1-0 (1-0)   @ Estadio Jorge Luis Hirschi › La Plata, Provincia de Buenos Aires
               Independiente Petrolero (BOL) v Palmeiras (BRA)  0-5 (0-2)   @ Estadio Olímpico Patria › Sucre
               America Mineiro (BRA) v Atletico-MG (BRA)  1-2 (1-2)   @ Estádio Raimundo Sampaio › Belo Horizonte, Minas Gerais
   Wed May 4
-    19.00     Talleres Cordoba (ARG) v Flamengo (BRA)  2-2 (1-0)   @ Estadio Mario Alberto Kempes › Ciudad de Córdoba, Provincia de Córdoba
+    19:00     Talleres Cordoba (ARG) v Flamengo (BRA)  2-2 (1-0)   @ Estadio Mario Alberto Kempes › Ciudad de Córdoba, Provincia de Córdoba
               Colon Santa Fe (ARG) v Cerro Porteno (PAR)  2-1 (1-0)   @ Estadio Brigadier General Estanislao López › Ciudad de Santa Fe, Provincia de Santa Fe
-    21.00     Deportivo Cali (COL) v Corinthians (BRA)  0-0 (0-0)   @ Estadio Deportivo Cali › Palmira
+    21:00     Deportivo Cali (COL) v Corinthians (BRA)  0-0 (0-0)   @ Estadio Deportivo Cali › Palmira
               Olimpia (PAR) v Penarol (URU)  1-0 (1-0)   @ Estadio Defensores del Chaco › Asunción
               Always Ready (BOL) v Boca Juniors (ARG)  0-1 (0-1)   @ Estadio Hernando Siles › La Paz
-    23.00     Sporting Cristal (PER) v U. Catolica (CHI)  1-1 (1-0)   @ Estadio Nacional de Lima › Lima
+    23:00     Sporting Cristal (PER) v U. Catolica (CHI)  1-1 (1-0)   @ Estadio Nacional de Lima › Lima
               Deportes Tolima (COL) v Independiente del Valle (ECU)  1-0 (0-0)   @ Estadio Manuel Murillo Toro › Ibagué
   Thu May 5
-    19.00     Fortaleza EC (BRA) v River Plate (ARG)  1-1 (1-1)   @ Estádio Governador Plácido Aderaldo Castelo › Fortaleza, Ceará
-    21.00     RB Bragantino (BRA) v Velez Sarsfield (ARG)  1-1 (0-1)   @ Estádio Nabi Abi Chedid › Bragança Paulista, São Paulo
-    23.00     Alianza Lima (PER) v Colo Colo (CHI)  1-1 (0-1)   @ Estadio Nacional de Lima › Lima
-» Group Stage - 5
+    19:00     Fortaleza EC (BRA) v River Plate (ARG)  1-1 (1-1)   @ Estádio Governador Plácido Aderaldo Castelo › Fortaleza, Ceará
+    21:00     RB Bragantino (BRA) v Velez Sarsfield (ARG)  1-1 (0-1)   @ Estádio Nabi Abi Chedid › Bragança Paulista, São Paulo
+    23:00     Alianza Lima (PER) v Colo Colo (CHI)  1-1 (0-1)   @ Estadio Nacional de Lima › Lima
+▪ Group Stage - 5
   Tue May 17
-    19.15     Penarol (URU) v Cerro Porteno (PAR)  0-0 (0-0)   @ Estadio Campeón del Siglo › Montevideo
+    19:15     Penarol (URU) v Cerro Porteno (PAR)  0-0 (0-0)   @ Estadio Campeón del Siglo › Montevideo
               Caracas FC (VEN) v The Strongest (BOL)  0-0 (0-0)   @ Estadio Olímpico de la UCV › Caracas
               RB Bragantino (BRA) v Estudiantes L.P. (ARG)  0-1 (0-0)   @ Estádio Nabi Abi Chedid › Bragança Paulista, São Paulo
-    21.30     Flamengo (BRA) v U. Catolica (CHI)  3-0 (2-0)   @ Estadio Jornalista Mário Filho › Rio de Janeiro, Rio de Janeiro
+    21:30     Flamengo (BRA) v U. Catolica (CHI)  3-0 (2-0)   @ Estadio Jornalista Mário Filho › Rio de Janeiro, Rio de Janeiro
               Boca Juniors (ARG) v Corinthians (BRA)  1-1 (1-1)   @ Estadio Alberto José Armando › Ciudad de Buenos Aires
               Sporting Cristal (PER) v Talleres Cordoba (ARG)  0-0 (0-0)   @ Estadio Nacional de Lima › Lima
   Wed May 18
-    19.00     Atletico Paranaense (BRA) v Libertad Asuncion (PAR)  2-0 (0-0)   @ Arena da Baixada › Curitiba, Paraná
+    19:00     Atletico Paranaense (BRA) v Libertad Asuncion (PAR)  2-0 (0-0)   @ Arena da Baixada › Curitiba, Paraná
               Club Nacional (URU) v Velez Sarsfield (ARG)  2-3 (1-1)   @ Estadio Gran Parque Central › Montevideo
               Palmeiras (BRA) v Emelec (ECU)  1-0 (0-0)   @ Allianz Parque › São Paulo, São Paulo
-    21.00     Deportes Tolima (COL) v America Mineiro (BRA)  2-2 (2-2)   @ Estadio Manuel Murillo Toro › Ibagué
+    21:00     Deportes Tolima (COL) v America Mineiro (BRA)  2-2 (2-2)   @ Estadio Manuel Murillo Toro › Ibagué
               Deportivo Tachira FC (VEN) v Independiente Petrolero (BOL)  3-0 (2-0)   @ Estadio Polideportivo de Pueblo Nuevo › San Cristóbal
               Colon Santa Fe (ARG) v Olimpia (PAR)  2-1 (1-1)   @ Estadio Brigadier General Estanislao López › Ciudad de Santa Fe, Provincia de Santa Fe
-    23.00     Alianza Lima (PER) v Fortaleza EC (BRA)  0-2 (0-1)   @ Estadio Nacional de Lima › Lima
+    23:00     Alianza Lima (PER) v Fortaleza EC (BRA)  0-2 (0-1)   @ Estadio Nacional de Lima › Lima
   Thu May 19
-    19.00     Atletico-MG (BRA) v Independiente del Valle (ECU)  3-1 (1-0)   @ Estádio Governador Magalhães Pinto › Belo Horizonte, Minas Gerais
-    21.00     River Plate (ARG) v Colo Colo (CHI)  4-0 (1-0)   @ Estadio Monumental Antonio Vespucio Liberti › Capital Federal, Ciudad de Buenos Aires
-    23.00     Deportivo Cali (COL) v Always Ready (BOL)  3-0 (1-0)   @ Estadio Deportivo Cali › Palmira
-» Group Stage - 6
+    19:00     Atletico-MG (BRA) v Independiente del Valle (ECU)  3-1 (1-0)   @ Estádio Governador Magalhães Pinto › Belo Horizonte, Minas Gerais
+    21:00     River Plate (ARG) v Colo Colo (CHI)  4-0 (1-0)   @ Estadio Monumental Antonio Vespucio Liberti › Capital Federal, Ciudad de Buenos Aires
+    23:00     Deportivo Cali (COL) v Always Ready (BOL)  3-0 (1-0)   @ Estadio Deportivo Cali › Palmira
+▪ Group Stage - 6
   Tue May 24
-    19.15     Club Nacional (URU) v RB Bragantino (BRA)  3-0 (2-0)   @ Estadio Gran Parque Central › Montevideo
+    19:15     Club Nacional (URU) v RB Bragantino (BRA)  3-0 (2-0)   @ Estadio Gran Parque Central › Montevideo
               Velez Sarsfield (ARG) v Estudiantes L.P. (ARG)  4-0 (2-0)   @ Estadio José Amalfitani › Capital Federal, Ciudad de Buenos Aires
-    21.30     Flamengo (BRA) v Sporting Cristal (PER)  2-1 (1-0)   @ Estadio Jornalista Mário Filho › Rio de Janeiro, Rio de Janeiro
+    21:30     Flamengo (BRA) v Sporting Cristal (PER)  2-1 (1-0)   @ Estadio Jornalista Mário Filho › Rio de Janeiro, Rio de Janeiro
               Emelec (ECU) v Independiente Petrolero (BOL)  7-0 (4-0)   @ Estadio George Capwell › Guayaquil
               U. Catolica (CHI) v Talleres Cordoba (ARG)  0-1 (0-0)   @ Estadio San Carlos de Apoquindo › Santiago de Chile
               Palmeiras (BRA) v Deportivo Tachira FC (VEN)  4-1 (2-0)   @ Allianz Parque › São Paulo, São Paulo
   Wed May 25
-    19.00     River Plate (ARG) v Alianza Lima (PER)  8-1 (3-0)   @ Estadio Monumental Antonio Vespucio Liberti › Capital Federal, Ciudad de Buenos Aires
+    19:00     River Plate (ARG) v Alianza Lima (PER)  8-1 (3-0)   @ Estadio Monumental Antonio Vespucio Liberti › Capital Federal, Ciudad de Buenos Aires
               Colo Colo (CHI) v Fortaleza EC (BRA)  3-4 (1-2)   @ Estadio Monumental David Arellano › Santiago de Chile
-    21.00     Independiente del Valle (ECU) v America Mineiro (BRA)  3-0 (2-0)   @ Estadio Banco Guayaquil › Sangolquí
+    21:00     Independiente del Valle (ECU) v America Mineiro (BRA)  3-0 (2-0)   @ Estadio Banco Guayaquil › Sangolquí
               Cerro Porteno (PAR) v Olimpia (PAR)  0-1 (0-1)   @ Estadio General Pablo Rojas › Asunción
               Penarol (URU) v Colon Santa Fe (ARG)  2-1 (0-1)   @ Estadio Campeón del Siglo › Montevideo
               Atletico-MG (BRA) v Deportes Tolima (COL)  1-2 (0-0)   @ Estádio Governador Magalhães Pinto › Belo Horizonte, Minas Gerais
   Thu May 26
-    19.00     Libertad Asuncion (PAR) v The Strongest (BOL)  4-1 (1-1)   @ Estadio Defensores del Chaco › Asunción
+    19:00     Libertad Asuncion (PAR) v The Strongest (BOL)  4-1 (1-1)   @ Estadio Defensores del Chaco › Asunción
               Atletico Paranaense (BRA) v Caracas FC (VEN)  5-1 (3-0)   @ Arena da Baixada › Curitiba, Paraná
-    21.00     Boca Juniors (ARG) v Deportivo Cali (COL)  1-0 (0-0)   @ Estadio Alberto José Armando › Ciudad de Buenos Aires
+    21:00     Boca Juniors (ARG) v Deportivo Cali (COL)  1-0 (0-0)   @ Estadio Alberto José Armando › Ciudad de Buenos Aires
               Corinthians (BRA) v Always Ready (BOL)  1-1 (1-1)   @ Neo Química Arena › São Paulo, São Paulo
-» Round of 16
+▪ Round of 16
   Tue Jun 28
-    19.15     Emelec (ECU) v Atletico-MG (BRA)  1-1 (0-1)   @ Estadio George Capwell › Guayaquil
-    21.30     Atletico Paranaense (BRA) v Libertad Asuncion (PAR)  2-1 (2-1)   @ Arena da Baixada › Curitiba, Paraná
+    19:15     Emelec (ECU) v Atletico-MG (BRA)  1-1 (0-1)   @ Estadio George Capwell › Guayaquil
+    21:30     Atletico Paranaense (BRA) v Libertad Asuncion (PAR)  2-1 (2-1)   @ Arena da Baixada › Curitiba, Paraná
               Corinthians (BRA) v Boca Juniors (ARG)  0-0 (0-0)   @ Neo Química Arena › São Paulo, São Paulo
   Wed Jun 29
-    19.15     Cerro Porteno (PAR) v Palmeiras (BRA)  0-3 (0-0)   @ Estadio General Pablo Rojas › Asunción
+    19:15     Cerro Porteno (PAR) v Palmeiras (BRA)  0-3 (0-0)   @ Estadio General Pablo Rojas › Asunción
               Talleres Cordoba (ARG) v Colon Santa Fe (ARG)  1-1 (0-0)   @ Estadio Mario Alberto Kempes › Ciudad de Córdoba, Provincia de Córdoba
-    21.30     Deportes Tolima (COL) v Flamengo (BRA)  0-1 (0-1)   @ Estadio Manuel Murillo Toro › Ibagué
+    21:30     Deportes Tolima (COL) v Flamengo (BRA)  0-1 (0-1)   @ Estadio Manuel Murillo Toro › Ibagué
               Velez Sarsfield (ARG) v River Plate (ARG)  1-0 (1-0)   @ Estadio José Amalfitani › Capital Federal, Ciudad de Buenos Aires
   Thu Jun 30
-    21.30     Fortaleza EC (BRA) v Estudiantes L.P. (ARG)  1-1 (0-0)   @ Estádio Governador Plácido Aderaldo Castelo › Fortaleza, Ceará
+    21:30     Fortaleza EC (BRA) v Estudiantes L.P. (ARG)  1-1 (0-0)   @ Estádio Governador Plácido Aderaldo Castelo › Fortaleza, Ceará
   Tue Jul 5
-    19.15     Atletico-MG (BRA) v Emelec (ECU)  1-0 (0-0)   @ Estádio Governador Magalhães Pinto › Belo Horizonte, Minas Gerais
-    21.30     Boca Juniors (ARG) v Corinthians (BRA)  5-6 pen (0-0, 0-0, 0-0)   @ Estadio Alberto José Armando › Ciudad de Buenos Aires
+    19:15     Atletico-MG (BRA) v Emelec (ECU)  1-0 (0-0)   @ Estádio Governador Magalhães Pinto › Belo Horizonte, Minas Gerais
+    21:30     Boca Juniors (ARG) v Corinthians (BRA)  5-6 pen (0-0, 0-0, 0-0)   @ Estadio Alberto José Armando › Ciudad de Buenos Aires
               Libertad Asuncion (PAR) v Atletico Paranaense (BRA)  1-1 (1-0)   @ Estadio Defensores del Chaco › Asunción
   Wed Jul 6
-    19.15     Colon Santa Fe (ARG) v Talleres Cordoba (ARG)  0-2 (0-0)   @ Estadio Brigadier General Estanislao López › Ciudad de Santa Fe, Provincia de Santa Fe
+    19:15     Colon Santa Fe (ARG) v Talleres Cordoba (ARG)  0-2 (0-0)   @ Estadio Brigadier General Estanislao López › Ciudad de Santa Fe, Provincia de Santa Fe
               Palmeiras (BRA) v Cerro Porteno (PAR)  5-0 (1-0)   @ Allianz Parque › São Paulo, São Paulo
-    21.30     River Plate (ARG) v Velez Sarsfield (ARG)  0-0 (0-0)   @ Estadio Monumental Antonio Vespucio Liberti › Capital Federal, Ciudad de Buenos Aires
+    21:30     River Plate (ARG) v Velez Sarsfield (ARG)  0-0 (0-0)   @ Estadio Monumental Antonio Vespucio Liberti › Capital Federal, Ciudad de Buenos Aires
               Flamengo (BRA) v Deportes Tolima (COL)  7-1 (2-0)   @ Estadio Jornalista Mário Filho › Rio de Janeiro, Rio de Janeiro
   Thu Jul 7
-    21.30     Estudiantes L.P. (ARG) v Fortaleza EC (BRA)  3-0 (1-0)   @ Estadio Jorge Luis Hirschi › La Plata, Provincia de Buenos Aires
-» Quarter-finals
+    21:30     Estudiantes L.P. (ARG) v Fortaleza EC (BRA)  3-0 (1-0)   @ Estadio Jorge Luis Hirschi › La Plata, Provincia de Buenos Aires
+▪ Quarter-finals
   Tue Aug 2
-    21.30     Corinthians (BRA) v Flamengo (BRA)  0-2 (0-1)   @ Neo Química Arena › São Paulo, São Paulo
+    21:30     Corinthians (BRA) v Flamengo (BRA)  0-2 (0-1)   @ Neo Química Arena › São Paulo, São Paulo
   Wed Aug 3
-    21.30     Atletico-MG (BRA) v Palmeiras (BRA)  2-2 (1-0)   @ Estádio Governador Magalhães Pinto › Belo Horizonte, Minas Gerais
+    21:30     Atletico-MG (BRA) v Palmeiras (BRA)  2-2 (1-0)   @ Estádio Governador Magalhães Pinto › Belo Horizonte, Minas Gerais
               Velez Sarsfield (ARG) v Talleres Cordoba (ARG)  3-2 (1-0)   @ Estadio José Amalfitani › Capital Federal, Ciudad de Buenos Aires
   Thu Aug 4
-    21.30     Atletico Paranaense (BRA) v Estudiantes L.P. (ARG)  0-0 (0-0)   @ Arena da Baixada › Curitiba, Paraná
+    21:30     Atletico Paranaense (BRA) v Estudiantes L.P. (ARG)  0-0 (0-0)   @ Arena da Baixada › Curitiba, Paraná
   Tue Aug 9
-    21.30     Flamengo (BRA) v Corinthians (BRA)  1-0 (0-0)   @ Estadio Jornalista Mário Filho › Rio de Janeiro, Rio de Janeiro
+    21:30     Flamengo (BRA) v Corinthians (BRA)  1-0 (0-0)   @ Estadio Jornalista Mário Filho › Rio de Janeiro, Rio de Janeiro
   Wed Aug 10
-    21.30     Talleres Cordoba (ARG) v Velez Sarsfield (ARG)  0-1 (0-0)   @ Estadio Mario Alberto Kempes › Ciudad de Córdoba, Provincia de Córdoba
+    21:30     Talleres Cordoba (ARG) v Velez Sarsfield (ARG)  0-1 (0-0)   @ Estadio Mario Alberto Kempes › Ciudad de Córdoba, Provincia de Córdoba
               Palmeiras (BRA) v Atletico-MG (BRA)  6-5 pen (0-0, 0-0, 0-0)   @ Allianz Parque › São Paulo, São Paulo
   Thu Aug 11
-    21.30     Estudiantes L.P. (ARG) v Atletico Paranaense (BRA)  0-1 (0-0)   @ Estadio Jorge Luis Hirschi › La Plata, Provincia de Buenos Aires
-» Semi-finals
+    21:30     Estudiantes L.P. (ARG) v Atletico Paranaense (BRA)  0-1 (0-0)   @ Estadio Jorge Luis Hirschi › La Plata, Provincia de Buenos Aires
+▪ Semi-finals
   Tue Aug 30
-    21.30     Atletico Paranaense (BRA) v Palmeiras (BRA)  1-0 (1-0)   @ Arena da Baixada › Curitiba, Paraná
+    21:30     Atletico Paranaense (BRA) v Palmeiras (BRA)  1-0 (1-0)   @ Arena da Baixada › Curitiba, Paraná
   Wed Aug 31
-    21.30     Velez Sarsfield (ARG) v Flamengo (BRA)  0-4 (0-2)   @ Estadio José Amalfitani › Capital Federal, Ciudad de Buenos Aires
+    21:30     Velez Sarsfield (ARG) v Flamengo (BRA)  0-4 (0-2)   @ Estadio José Amalfitani › Capital Federal, Ciudad de Buenos Aires
   Tue Sep 6
-    21.30     Palmeiras (BRA) v Atletico Paranaense (BRA)  2-2 (1-0)   @ Allianz Parque › São Paulo, São Paulo
+    21:30     Palmeiras (BRA) v Atletico Paranaense (BRA)  2-2 (1-0)   @ Allianz Parque › São Paulo, São Paulo
   Wed Sep 7
-    21.30     Flamengo (BRA) v Velez Sarsfield (ARG)  2-1 (1-1)   @ Estadio Jornalista Mário Filho › Rio de Janeiro, Rio de Janeiro
-» Final
+    21:30     Flamengo (BRA) v Velez Sarsfield (ARG)  2-1 (1-1)   @ Estadio Jornalista Mário Filho › Rio de Janeiro, Rio de Janeiro
+▪ Final
   Sat Oct 29
-    17.00     Flamengo (BRA) v Atletico Paranaense (BRA)  1-0 (1-0)   @ Estadio Monumental Banco Pichincha › Guayaquil
+    17:00     Flamengo (BRA) v Atletico Paranaense (BRA)  1-0 (1-0)   @ Estadio Monumental Banco Pichincha › Guayaquil

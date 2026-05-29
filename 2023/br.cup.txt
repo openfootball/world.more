@@ -1,169 +1,169 @@
 = Brazil | Copa Do Brasil 2023
 
-  # Date       Tue Feb/21 - Sun Sep/24 2023 (215d)
+  # Date       Tue Feb 21 - Sun Sep 24 2023 (215d)
   # Teams      92
   # Matches    122
 
   # Note - All times in America/Sao_Paulo
 
-» 1st Round
+▪ 1st Round
   Tue Feb 21 2023
-    19.00     Marcílio Dias v Chapecoense-sc  1-0 (0-0)   @ Estádio Doutor Hercílio Luz › Itajaí, Santa Catarina
+    19:00     Marcílio Dias v Chapecoense-sc  1-0 (0-0)   @ Estádio Doutor Hercílio Luz › Itajaí, Santa Catarina
   Wed Feb 22
-    16.00     Falcon v Volta Redonda  1-3 (1-0)   @ Estádio Estadual Lourival Baptista › Aracaju, Sergipe
-    17.00     Nova Mutum EC v Londrina  4-2 (3-2)   @ Estádio Valdir Doilho Wons › Nova Mutum, Mato Grosso
-    19.00     Caucaia v Tombense  0-0 (0-0)   @ Estadio Municipal João Ronaldo › Pacajus, Ceará
+    16:00     Falcon v Volta Redonda  1-3 (1-0)   @ Estádio Estadual Lourival Baptista › Aracaju, Sergipe
+    17:00     Nova Mutum EC v Londrina  4-2 (3-2)   @ Estádio Valdir Doilho Wons › Nova Mutum, Mato Grosso
+    19:00     Caucaia v Tombense  0-0 (0-0)   @ Estadio Municipal João Ronaldo › Pacajus, Ceará
               Sao Raimundo v Cuiaba  4-3 (3-1)   @ Estádio Flamarion Vasconcelos › Boa Vista, Roraima
-    20.00     Marília v Brusque  0-3 (0-3)   @ Estádio Municipal Bento de Abreu Sampaio Vidal › Marília, São Paulo
-    21.00     São Francisco v Ypiranga-RS  1-1 (1-0)   @ Estádio Antônio Aquino Lopes › Rio Branco, Acre
+    20:00     Marília v Brusque  0-3 (0-3)   @ Estádio Municipal Bento de Abreu Sampaio Vidal › Marília, São Paulo
+    21:00     São Francisco v Ypiranga-RS  1-1 (1-0)   @ Estádio Antônio Aquino Lopes › Rio Branco, Acre
   Thu Feb 23
-    19.00     São Luiz v Juventude  1-0 (0-0)   @ Estádio 19 de Outubro › Ijuí, Rio Grande do Sul
+    19:00     São Luiz v Juventude  1-0 (0-0)   @ Estádio 19 de Outubro › Ijuí, Rio Grande do Sul
               Humaitá v Coritiba  0-3 (0-2)   @ Estádio Antônio Aquino Lopes › Rio Branco, Acre
-    20.00     Ceilândia v Santos  0-1 (0-0)   @ Estádio Elmo Serejo Farias › Taguatinga, Distrito Federal
-    21.30     Trem v Vasco DA Gama  0-4 (0-2)   @ Estádio Nacional de Brasília › Brasília, Distrito Federal
+    20:00     Ceilândia v Santos  0-1 (0-0)   @ Estádio Elmo Serejo Farias › Taguatinga, Distrito Federal
+    21:30     Trem v Vasco DA Gama  0-4 (0-2)   @ Estádio Nacional de Brasília › Brasília, Distrito Federal
               Vitória ES v remo  0-1 (0-0)   @ Estádio Salvador Venâncio da Costa › Vitória, Espírito Santo
   Tue Feb 28
-    15.30     Resende v Ferroviario  1-2 (0-2)   @ Estádio do Trabalhador › Resende, Rio de Janeiro
-    19.30     Democrata GV v Santa Cruz  1-1 (1-0)   @ Estádio José Mammoud Abbas › Governador Valadares, Minas Gerais
+    15:30     Resende v Ferroviario  1-2 (0-2)   @ Estádio do Trabalhador › Resende, Rio de Janeiro
+    19:30     Democrata GV v Santa Cruz  1-1 (1-0)   @ Estádio José Mammoud Abbas › Governador Valadares, Minas Gerais
               Tocantinópolis v America Mineiro  1-1 (0-1)   @ Estádio João Ribeiro › Tocantinópolis, Tocantins
-    20.00     Real Noroeste v Vila Nova  1-1 (0-0)   @ Estádio José Olímpio da Rocha › Águia Branca, Espírito Santo
-    21.30     Fluminense PI v Ponte Preta  0-4 (0-2)   @ Estádio Municipal Lindolfo Monteiro › Teresina, Piauí
+    20:00     Real Noroeste v Vila Nova  1-1 (0-0)   @ Estádio José Olímpio da Rocha › Águia Branca, Espírito Santo
+    21:30     Fluminense PI v Ponte Preta  0-4 (0-2)   @ Estádio Municipal Lindolfo Monteiro › Teresina, Piauí
   Wed Mar 1
-    15.30     Tuna Luso v CSA  0-1 (0-1)   @ Estádio Francisco Vasques › Belém, Pará
+    15:30     Tuna Luso v CSA  0-1 (0-1)   @ Estádio Francisco Vasques › Belém, Pará
               Nova Iguaçu v Vitoria  2-0 (0-0)   @ Estádio Jânio de Moraes › Nova Iguaçu, Rio de Janeiro
-    19.00     ASA v Goias  1-1 (1-1)   @ Estádio Municipal Coaracy da Mata Fonseca › Arapiraca, Alagoas
+    19:00     ASA v Goias  1-1 (1-1)   @ Estádio Municipal Coaracy da Mata Fonseca › Arapiraca, Alagoas
               Cordino v Brasil DE Pelotas  0-2 (0-2)   @ Estádio Municipal Leandro Cláudio da Silva › Barra do Corda, Maranhão
               Bahia de Feira v RB Bragantino  1-1 (1-0)   @ Estádio Jodilton Souza › Feira de Santana, Bahia
               Atlético Alagoinhas v Atletico Goianiense  0-0 (0-0)   @ Estádio Antônio de Figueiredo Carneiro › Alagoinhas, Bahia
               Tuntum v ABC  0-5 (0-2)   @ Estádio Rafael Seabra › Tuntum, Maranhão
-    20.00     Parnahyba v Botafogo SP  0-0 (0-0)   @ Estádio Municipal Pedro Alelaf › Parnaíba, Piauí
+    20:00     Parnahyba v Botafogo SP  0-0 (0-0)   @ Estádio Municipal Pedro Alelaf › Parnaíba, Piauí
               União Rondonópolis v CRB  0-1 (0-0)   @ Estádio Municipal Engenheiro Luthero Lopes › Rondonópolis, Mato Grosso
               São Bernardo v Nautico Recife  0-1 (0-1)   @ Estádio Primeiro de Maio › São Bernardo do Campo, São Paulo
               Athletic Club v Brasiliense  1-1 (0-0)   @ Estádio Joaquim Portugal › São João Del Rei, Minas Gerais
               Camboriú v Manaus FC  1-0 (1-0)   @ Estádio Eduardo Zeferino Tiago › Balneário Camboriú, Santa Catarina
               Campinense v Gremio  0-2 (0-1)   @ Estádio Nacional de Brasília › Brasília, Distrito Federal
-    21.00     Operario Ferroviario v Operario-PR  1-0 (1-0)   @ Estádio Estadual Jacques da Luz › Campo Grande, Mato Grosso do Sul
+    21:00     Operario Ferroviario v Operario-PR  1-0 (1-0)   @ Estádio Estadual Jacques da Luz › Campo Grande, Mato Grosso do Sul
               Princesa Solimões v Ituano  1-1 (0-1)   @ Estádio Olímpico Municipal Gilberto Mestrinho › Manacapuru, Amazonas
-    21.30     Jacuipense v Bahia  1-4 (0-2)   @ Estádio Governador Roberto Santos › Salvador de Bahia, Bahia
+    21:30     Jacuipense v Bahia  1-4 (0-2)   @ Estádio Governador Roberto Santos › Salvador de Bahia, Bahia
               Retrô v Avai  3-2 (1-1)   @ Itaipava Arena Pernambuco › Recife, Pernambuco
               Caldense v Ceara  0-3 (0-1)   @ Estádio Dr. Ronaldo Junqueira › Poços de Caldas, Minas Gerais
   Thu Mar 2
-    16.00     Águia de Marabá v Botafogo PB  2-1 (1-0)   @ Estádio Municipal Zinho de Oliveira › Marabá, Pará
-    16.30     Real Desportivo Ariquemes v Criciuma  0-3 (0-1)   @ Estádio Municipal Gentil Valério › Ariquemes, Rondônia
-    19.15     Iguatu v America-RN  1-0 (0-0)   @ Estádio Municipal João Elmo Moreno Cavalcante › Iguatu, Ceará
-    20.00     Sergipe v Botafogo  1-1 (1-0)   @ Estádio Estadual Lourival Baptista › Aracaju, Sergipe
+    16:00     Águia de Marabá v Botafogo PB  2-1 (1-0)   @ Estádio Municipal Zinho de Oliveira › Marabá, Pará
+    16:30     Real Desportivo Ariquemes v Criciuma  0-3 (0-1)   @ Estádio Municipal Gentil Valério › Ariquemes, Rondônia
+    19:15     Iguatu v America-RN  1-0 (0-0)   @ Estádio Municipal João Elmo Moreno Cavalcante › Iguatu, Ceará
+    20:00     Sergipe v Botafogo  1-1 (1-0)   @ Estádio Estadual Lourival Baptista › Aracaju, Sergipe
               Maringá v Sampaio Correa  2-1 (1-0)   @ Estádio Regional Willie Davids › Maringá, Paraná
-» 2nd Round
+▪ 2nd Round
   Tue Mar 7
-    20.00     Brasil DE Pelotas v Ponte Preta  2-0 (1-0)   @ Estádio Bento da Silva Freitas › Pelotas, Rio Grande do Sul
+    20:00     Brasil DE Pelotas v Ponte Preta  2-0 (1-0)   @ Estádio Bento da Silva Freitas › Pelotas, Rio Grande do Sul
   Wed Mar 8
-    19.00     Camboriú v Bahia  0-1 (0-1)   @ Estádio Eduardo Zeferino Tiago › Balneário Camboriú, Santa Catarina
-    20.00     remo v São Luiz  2-1 (1-0)   @ Estádio Evandro Almeida › Belém, Pará
-    21.30     Tombense v Retrô  1-0 (0-0)   @ Estádio Soares de Azevedo › Muriaé, Minas Gerais
+    19:00     Camboriú v Bahia  0-1 (0-1)   @ Estádio Eduardo Zeferino Tiago › Balneário Camboriú, Santa Catarina
+    20:00     remo v São Luiz  2-1 (1-0)   @ Estádio Evandro Almeida › Belém, Pará
+    21:30     Tombense v Retrô  1-0 (0-0)   @ Estádio Soares de Azevedo › Muriaé, Minas Gerais
   Thu Mar 9
-    19.00     Nautico Recife v Vila Nova  2-1 (1-0)   @ Estádio Eládio de Barros Carvalho › Recife, Pernambuco
-    20.00     Botafogo SP v Sao Raimundo  3-1 (1-0)   @ Estádio Santa Cruz › Ribeirão Preto, São Paulo
-    21.30     Santos v Iguatu  3-0 (2-0)   @ Estádio Urbano Caldeira › Santos, São Paulo
+    19:00     Nautico Recife v Vila Nova  2-1 (1-0)   @ Estádio Eládio de Barros Carvalho › Recife, Pernambuco
+    20:00     Botafogo SP v Sao Raimundo  3-1 (1-0)   @ Estádio Santa Cruz › Ribeirão Preto, São Paulo
+    21:30     Santos v Iguatu  3-0 (2-0)   @ Estádio Urbano Caldeira › Santos, São Paulo
   Tue Mar 14
-    20.00     Maringá v Marcílio Dias  2-0 (2-0)   @ Estádio Regional Willie Davids › Maringá, Paraná
+    20:00     Maringá v Marcílio Dias  2-0 (2-0)   @ Estádio Regional Willie Davids › Maringá, Paraná
               Coritiba v Criciuma  1-1 (0-1)   @ Estádio Major Antônio Couto Pereira › Curitiba, Paraná
-    21.30     America Mineiro v Santa Cruz  1-0 (1-0)   @ Estádio Raimundo Sampaio › Belo Horizonte, Minas Gerais
+    21:30     America Mineiro v Santa Cruz  1-0 (1-0)   @ Estádio Raimundo Sampaio › Belo Horizonte, Minas Gerais
   Wed Mar 15
-    15.30     Nova Iguaçu v Nova Mutum EC  5-2 (3-0)   @ Estádio Jânio de Moraes › Nova Iguaçu, Rio de Janeiro
-    19.00     Ituano v Ceara  1-1 (1-1)   @ Estádio Municipal Dr. Novelli Júnior › Itu, São Paulo
+    15:30     Nova Iguaçu v Nova Mutum EC  5-2 (3-0)   @ Estádio Jânio de Moraes › Nova Iguaçu, Rio de Janeiro
+    19:00     Ituano v Ceara  1-1 (1-1)   @ Estádio Municipal Dr. Novelli Júnior › Itu, São Paulo
               Águia de Marabá v Goias  1-0 pen (0-0, 0-0)   @ Estádio Municipal Zinho de Oliveira › Marabá, Pará
               Atletico Goianiense v Volta Redonda  1-1 (0-0)   @ Estádio Antônio Accioly › Goiânia, Goiás
-    19.30     CRB v Operario Ferroviario  5-0 (5-0)   @ Estádio Rei Pelé › Maceió, Alagoas
-    20.00     Botafogo v Brasiliense  7-1 (3-1)   @ Estádio Kleber José de Andrade › Cariacica, Espírito Santo
-    21.30     Ypiranga-RS v RB Bragantino  3-1 (1-0)   @ Estádio Olímpico Colosso da Lagoa › Erechim, Rio Grande do Sul
+    19:30     CRB v Operario Ferroviario  5-0 (5-0)   @ Estádio Rei Pelé › Maceió, Alagoas
+    20:00     Botafogo v Brasiliense  7-1 (3-1)   @ Estádio Kleber José de Andrade › Cariacica, Espírito Santo
+    21:30     Ypiranga-RS v RB Bragantino  3-1 (1-0)   @ Estádio Olímpico Colosso da Lagoa › Erechim, Rio Grande do Sul
   Thu Mar 16
-    19.00     CSA v Brusque  1-0 (0-0)   @ Estádio Rei Pelé › Maceió, Alagoas
-    20.00     Gremio v Ferroviario  3-0 (1-0)   @ Arena do Grêmio › Porto Alegre, Rio Grande do Sul
-    21.30     Vasco DA Gama v ABC  0-1 pen (0-0, 0-0)   @ Estádio São Januário › Rio de Janeiro, Rio de Janeiro
-» 3rd Round
+    19:00     CSA v Brusque  1-0 (0-0)   @ Estádio Rei Pelé › Maceió, Alagoas
+    20:00     Gremio v Ferroviario  3-0 (1-0)   @ Arena do Grêmio › Porto Alegre, Rio Grande do Sul
+    21:30     Vasco DA Gama v ABC  0-1 pen (0-0, 0-0)   @ Estádio São Januário › Rio de Janeiro, Rio de Janeiro
+▪ 3rd Round
   Tue Apr 11
-    16.30     Volta Redonda v Bahia  1-2 (0-1)   @ Estádio Municipal General Raulino de Oliveira › Volta Redonda, Rio de Janeiro
-    19.00     Botafogo SP v Santos  0-2 (0-2)   @ Estádio Santa Cruz › Ribeirão Preto, São Paulo
-    20.00     Internacional v CSA  2-1 (1-1)   @ Estádio José Pinheiro Borda › Porto Alegre, Rio Grande do Sul
-    21.30     Fortaleza EC v Águia de Marabá  6-1 (3-0)   @ Estádio Governador Plácido Aderaldo Castelo › Fortaleza, Ceará
+    16:30     Volta Redonda v Bahia  1-2 (0-1)   @ Estádio Municipal General Raulino de Oliveira › Volta Redonda, Rio de Janeiro
+    19:00     Botafogo SP v Santos  0-2 (0-2)   @ Estádio Santa Cruz › Ribeirão Preto, São Paulo
+    20:00     Internacional v CSA  2-1 (1-1)   @ Estádio José Pinheiro Borda › Porto Alegre, Rio Grande do Sul
+    21:30     Fortaleza EC v Águia de Marabá  6-1 (3-0)   @ Estádio Governador Plácido Aderaldo Castelo › Fortaleza, Ceará
               Sao Paulo v Ituano  0-0 (0-0)   @ Estádio Cícero Pompeu de Toledo › São Paulo, São Paulo
   Wed Apr 12
-    16.30     Nova Iguaçu v America Mineiro  1-2 (0-0)   @ Estádio Municipal General Raulino de Oliveira › Volta Redonda, Rio de Janeiro
-    19.00     Coritiba v Sport Recife  3-3 (2-1)   @ Estádio Major Antônio Couto Pereira › Curitiba, Paraná
-    19.30     CRB v Atletico Paranaense  1-0 (0-0)   @ Estádio Rei Pelé › Maceió, Alagoas
+    16:30     Nova Iguaçu v America Mineiro  1-2 (0-0)   @ Estádio Municipal General Raulino de Oliveira › Volta Redonda, Rio de Janeiro
+    19:00     Coritiba v Sport Recife  3-3 (2-1)   @ Estádio Major Antônio Couto Pereira › Curitiba, Paraná
+    19:30     CRB v Atletico Paranaense  1-0 (0-0)   @ Estádio Rei Pelé › Maceió, Alagoas
               Fluminense v Paysandu  3-0 (3-0)   @ Estadio Jornalista Mário Filho › Rio de Janeiro, Rio de Janeiro
-    20.00     Palmeiras v Tombense  4-2 (2-1)   @ Allianz Parque › São Paulo, São Paulo
-    21.30     remo v Corinthians  2-0 (1-0)   @ Estádio Estadual Jornalista Edgar Augusto Proença › Belém, Pará
+    20:00     Palmeiras v Tombense  4-2 (2-1)   @ Allianz Parque › São Paulo, São Paulo
+    21:30     remo v Corinthians  2-0 (1-0)   @ Estádio Estadual Jornalista Edgar Augusto Proença › Belém, Pará
               Ypiranga-RS v Botafogo  0-2 (0-1)   @ Estádio Olímpico Colosso da Lagoa › Erechim, Rio Grande do Sul
               Atletico-MG v Brasil DE Pelotas  2-1 (0-0)   @ Estádio Governador Magalhães Pinto › Belo Horizonte, Minas Gerais
   Thu Apr 13
-    19.00     Nautico Recife v Cruzeiro  1-0 (0-0)   @ Estádio Eládio de Barros Carvalho › Recife, Pernambuco
-    20.00     Maringá v Flamengo  2-0 (1-0)   @ Estádio Regional Willie Davids › Maringá, Paraná
-    21.30     ABC v Gremio  0-2 (0-0)   @ Estádio Maria Lamas Farache › Natal, Rio Grande do Norte
+    19:00     Nautico Recife v Cruzeiro  1-0 (0-0)   @ Estádio Eládio de Barros Carvalho › Recife, Pernambuco
+    20:00     Maringá v Flamengo  2-0 (1-0)   @ Estádio Regional Willie Davids › Maringá, Paraná
+    21:30     ABC v Gremio  0-2 (0-0)   @ Estádio Maria Lamas Farache › Natal, Rio Grande do Norte
   Tue Apr 25
-    19.00     Cruzeiro v Nautico Recife  2-0 (0-0)   @ Estádio Raimundo Sampaio › Belo Horizonte, Minas Gerais
-    20.00     Paysandu v Fluminense  0-3 (0-2)   @ Estádio Estadual Jornalista Edgar Augusto Proença › Belém, Pará
-    21.30     Ituano v Sao Paulo  0-1 (0-0)   @ Estádio Municipal Dr. Novelli Júnior › Itu, São Paulo
+    19:00     Cruzeiro v Nautico Recife  2-0 (0-0)   @ Estádio Raimundo Sampaio › Belo Horizonte, Minas Gerais
+    20:00     Paysandu v Fluminense  0-3 (0-2)   @ Estádio Estadual Jornalista Edgar Augusto Proença › Belém, Pará
+    21:30     Ituano v Sao Paulo  0-1 (0-0)   @ Estádio Municipal Dr. Novelli Júnior › Itu, São Paulo
               Atletico Paranaense v CRB  2-1 (0-1)   @ Arena da Baixada › Curitiba, Paraná
   Wed Apr 26
-    19.00     Santos v Botafogo SP  1-0 (0-0)   @ Estádio Urbano Caldeira › Santos, São Paulo
+    19:00     Santos v Botafogo SP  1-0 (0-0)   @ Estádio Urbano Caldeira › Santos, São Paulo
               Sport Recife v Coritiba  2-0 (1-0)   @ Estádio Adelmar da Costa Carvalho › Recife, Pernambuco
-    19.30     Águia de Marabá v Fortaleza EC  0-2 (0-2)   @ Estádio Estadual Jornalista Edgar Augusto Proença › Belém, Pará
+    19:30     Águia de Marabá v Fortaleza EC  0-2 (0-2)   @ Estádio Estadual Jornalista Edgar Augusto Proença › Belém, Pará
               Brasil DE Pelotas v Atletico-MG  1-1 (1-0)   @ Estádio Bento da Silva Freitas › Pelotas, Rio Grande do Sul
-    20.00     Tombense v Palmeiras  1-1 (0-1)   @ Estádio Municipal João Havelange › Uberlândia, Minas Gerais
-    21.30     America Mineiro v Nova Iguaçu  5-0 (0-0)   @ Estádio Raimundo Sampaio › Belo Horizonte, Minas Gerais
+    20:00     Tombense v Palmeiras  1-1 (0-1)   @ Estádio Municipal João Havelange › Uberlândia, Minas Gerais
+    21:30     America Mineiro v Nova Iguaçu  5-0 (0-0)   @ Estádio Raimundo Sampaio › Belo Horizonte, Minas Gerais
               Flamengo v Maringá  8-2 (4-1)   @ Estadio Jornalista Mário Filho › Rio de Janeiro, Rio de Janeiro
               Corinthians v remo  2-0 (1-0)   @ Neo Química Arena › São Paulo, São Paulo
   Thu Apr 27
-    19.00     Bahia v Volta Redonda  4-0 (0-0)   @ Arena Fonte Nova › Salvador, Bahia
-    19.30     Botafogo v Ypiranga-RS  2-0 (1-0)   @ Estádio Nilton Santos › Rio de Janeiro
-    20.00     CSA v Internacional  2-1 (1-0)   @ Estádio Rei Pelé › Maceió, Alagoas
-    21.30     Gremio v ABC  1-1 (0-1)   @ Arena do Grêmio › Porto Alegre, Rio Grande do Sul
-» Round of 16
+    19:00     Bahia v Volta Redonda  4-0 (0-0)   @ Arena Fonte Nova › Salvador, Bahia
+    19:30     Botafogo v Ypiranga-RS  2-0 (1-0)   @ Estádio Nilton Santos › Rio de Janeiro
+    20:00     CSA v Internacional  2-1 (1-0)   @ Estádio Rei Pelé › Maceió, Alagoas
+    21:30     Gremio v ABC  1-1 (0-1)   @ Arena do Grêmio › Porto Alegre, Rio Grande do Sul
+▪ Round of 16
   Tue May 16
-    21.00     Fluminense v Flamengo  0-0 (0-0)   @ Estadio Jornalista Mário Filho › Rio de Janeiro, Rio de Janeiro
+    21:00     Fluminense v Flamengo  0-0 (0-0)   @ Estadio Jornalista Mário Filho › Rio de Janeiro, Rio de Janeiro
   Wed May 17
-    19.00     Santos v Bahia  0-0 (0-0)   @ Estádio Urbano Caldeira › Santos, São Paulo
+    19:00     Santos v Bahia  0-0 (0-0)   @ Estádio Urbano Caldeira › Santos, São Paulo
               Palmeiras v Fortaleza EC  3-0 (2-0)   @ Allianz Parque › São Paulo, São Paulo
-    19.30     Gremio v Cruzeiro  1-1 (0-1)   @ Arena do Grêmio › Porto Alegre, Rio Grande do Sul
-    20.00     Sport Recife v Sao Paulo  0-2 (0-0)   @ Estádio Adelmar da Costa Carvalho › Recife, Pernambuco
-    21.30     Atletico Paranaense v Botafogo  3-2 (0-2)   @ Arena da Baixada › Curitiba, Paraná
+    19:30     Gremio v Cruzeiro  1-1 (0-1)   @ Arena do Grêmio › Porto Alegre, Rio Grande do Sul
+    20:00     Sport Recife v Sao Paulo  0-2 (0-0)   @ Estádio Adelmar da Costa Carvalho › Recife, Pernambuco
+    21:30     Atletico Paranaense v Botafogo  3-2 (0-2)   @ Arena da Baixada › Curitiba, Paraná
               Atletico-MG v Corinthians  2-0 (0-0)   @ Estádio Governador Magalhães Pinto › Belo Horizonte, Minas Gerais
               America Mineiro v Internacional  2-0 (0-0)   @ Estádio Raimundo Sampaio › Belo Horizonte, Minas Gerais
   Wed May 31
-    19.00     Bahia v Santos  4-3 pen (1-1, 1-1, 0-0)   @ Arena Fonte Nova › Salvador, Bahia
+    19:00     Bahia v Santos  4-3 pen (1-1, 1-1, 0-0)   @ Arena Fonte Nova › Salvador, Bahia
               Fortaleza EC v Palmeiras  1-0 (0-0)   @ Estádio Governador Plácido Aderaldo Castelo › Fortaleza, Ceará
-    20.00     Cruzeiro v Gremio  0-1 (0-1)   @ Estádio Governador Magalhães Pinto › Belo Horizonte, Minas Gerais
-    21.30     Botafogo v Atletico Paranaense  2-4 pen (1-0, 1-0, 1-0)   @ Estádio Nilton Santos › Rio de Janeiro
+    20:00     Cruzeiro v Gremio  0-1 (0-1)   @ Estádio Governador Magalhães Pinto › Belo Horizonte, Minas Gerais
+    21:30     Botafogo v Atletico Paranaense  2-4 pen (1-0, 1-0, 1-0)   @ Estádio Nilton Santos › Rio de Janeiro
               Corinthians v Atletico-MG  3-1 pen (2-0, 2-0, 1-0)   @ Neo Química Arena › São Paulo, São Paulo
               Internacional v America Mineiro  4-5 pen (3-1, 3-1, 3-0)   @ Estádio José Pinheiro Borda › Porto Alegre, Rio Grande do Sul
   Thu Jun 1
-    19.30     Sao Paulo v Sport Recife  5-3 pen (1-3, 1-3, 1-1)   @ Estádio Cícero Pompeu de Toledo › São Paulo, São Paulo
-    20.00     Flamengo v Fluminense  2-0 (1-0)   @ Estadio Jornalista Mário Filho › Rio de Janeiro, Rio de Janeiro
-» Quarter-finals
+    19:30     Sao Paulo v Sport Recife  5-3 pen (1-3, 1-3, 1-1)   @ Estádio Cícero Pompeu de Toledo › São Paulo, São Paulo
+    20:00     Flamengo v Fluminense  2-0 (1-0)   @ Estadio Jornalista Mário Filho › Rio de Janeiro, Rio de Janeiro
+▪ Quarter-finals
   Tue Jul 4
-    21.00     Bahia v Gremio  1-1 (0-0)   @ Arena Fonte Nova › Salvador, Bahia
+    21:00     Bahia v Gremio  1-1 (0-0)   @ Arena Fonte Nova › Salvador, Bahia
   Wed Jul 5
-    19.30     Sao Paulo v Palmeiras  1-0 (0-0)   @ Estádio Cícero Pompeu de Toledo › São Paulo, São Paulo
-    21.30     Flamengo v Atletico Paranaense  2-1 (0-1)   @ Estadio Jornalista Mário Filho › Rio de Janeiro, Rio de Janeiro
+    19:30     Sao Paulo v Palmeiras  1-0 (0-0)   @ Estádio Cícero Pompeu de Toledo › São Paulo, São Paulo
+    21:30     Flamengo v Atletico Paranaense  2-1 (0-1)   @ Estadio Jornalista Mário Filho › Rio de Janeiro, Rio de Janeiro
               America Mineiro v Corinthians  1-0 (1-0)   @ Estádio Raimundo Sampaio › Belo Horizonte, Minas Gerais
   Wed Jul 12
-    19.00     Gremio v Bahia  4-3 pen (1-1, 1-1, 0-1)   @ Arena do Grêmio › Porto Alegre, Rio Grande do Sul
-    21.30     Atletico Paranaense v Flamengo  0-2 (0-1)   @ Ligga Arena › Curitiba, Paraná
+    19:00     Gremio v Bahia  4-3 pen (1-1, 1-1, 0-1)   @ Arena do Grêmio › Porto Alegre, Rio Grande do Sul
+    21:30     Atletico Paranaense v Flamengo  0-2 (0-1)   @ Ligga Arena › Curitiba, Paraná
   Thu Jul 13
-    20.00     Palmeiras v Sao Paulo  1-2 (1-0)   @ Allianz Parque › São Paulo, São Paulo
+    20:00     Palmeiras v Sao Paulo  1-2 (1-0)   @ Allianz Parque › São Paulo, São Paulo
   Sat Jul 15
-    16.30     Corinthians v America Mineiro  3-1 pen (3-2, 3-2, 0-0)   @ Neo Química Arena › São Paulo, São Paulo
-» Semi-finals
+    16:30     Corinthians v America Mineiro  3-1 pen (3-2, 3-2, 0-0)   @ Neo Química Arena › São Paulo, São Paulo
+▪ Semi-finals
   Tue Jul 25
-    21.30     Corinthians v Sao Paulo  2-1 (0-0)   @ Neo Química Arena › São Paulo, São Paulo
+    21:30     Corinthians v Sao Paulo  2-1 (0-0)   @ Neo Química Arena › São Paulo, São Paulo
   Wed Jul 26
-    21.30     Gremio v Flamengo  0-2 (0-1)   @ Arena do Grêmio › Porto Alegre, Rio Grande do Sul
+    21:30     Gremio v Flamengo  0-2 (0-1)   @ Arena do Grêmio › Porto Alegre, Rio Grande do Sul
   Wed Aug 16
-    19.30     Sao Paulo v Corinthians  2-0 (2-0)   @ Estádio Cícero Pompeu de Toledo › São Paulo, São Paulo
-    21.30     Flamengo v Gremio  1-0 (0-0)   @ Estadio Jornalista Mário Filho › Rio de Janeiro, Rio de Janeiro
-» Final
+    19:30     Sao Paulo v Corinthians  2-0 (2-0)   @ Estádio Cícero Pompeu de Toledo › São Paulo, São Paulo
+    21:30     Flamengo v Gremio  1-0 (0-0)   @ Estadio Jornalista Mário Filho › Rio de Janeiro, Rio de Janeiro
+▪ Final
   Sun Sep 17
-    16.00     Flamengo v Sao Paulo  0-1 (0-1)   @ Estadio Jornalista Mário Filho › Rio de Janeiro, Rio de Janeiro
+    16:00     Flamengo v Sao Paulo  0-1 (0-1)   @ Estadio Jornalista Mário Filho › Rio de Janeiro, Rio de Janeiro
   Sun Sep 24
-    16.00     Sao Paulo v Flamengo  1-1 (1-1)   @ Estádio Cícero Pompeu de Toledo › São Paulo, São Paulo
+    16:00     Sao Paulo v Flamengo  1-1 (1-1)   @ Estádio Cícero Pompeu de Toledo › São Paulo, São Paulo

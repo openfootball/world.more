@@ -1,16 +1,16 @@
 = France | Ligue 2 2021/22
 
-  # Date       Sat Jul/24 2021 - Sun May/29 2022 (309d)
+  # Date       Sat Jul 24 2021 - Sun May 29 2022 (309d)
   # Teams      21
   # Matches    384
 
   # Note - All times in Europe/Paris
 
-» Regular Season - 1
+▪ Regular Season - 1
   Sat Jul 24 2021
-    15.00     Bastia v Nimes  1-1 (0-1)   @ Stade Armand-Césari › Furiani
+    15:00     Bastia v Nimes  1-1 (0-1)   @ Stade Armand-Césari › Furiani
   Sat Jul 24
-    19.00     Amiens v Auxerre  1-2 (1-0)   @ Stade Crédit Agricole de la Licorne › Amiens
+    19:00     Amiens v Auxerre  1-2 (1-0)   @ Stade Crédit Agricole de la Licorne › Amiens
               Caen v Rodez  4-0 (3-0)   @ Stade Michel d'Ornano › Caen
               Toulouse v Ajaccio  2-2 (1-1)   @ Stadium de Toulouse › Toulouse
               Grenoble v Paris FC  0-4 (0-1)   @ Stade Jean Laville › Gueugnon
@@ -19,11 +19,11 @@
               PAU v Nancy  2-1 (1-0)   @ Stade Nouste Camp › Bizanos
               Dunkerque v Quevilly  1-1 (1-1)   @ Stade Marcel-Tribut › Dunkerque
   Mon Jul 26
-    20.45     Dijon v Sochaux  1-3 (0-0)   @ Stade Gaston-Gérard › Dijon
-» Regular Season - 2
+    20:45     Dijon v Sochaux  1-3 (0-0)   @ Stade Gaston-Gérard › Dijon
+▪ Regular Season - 2
   Sat Jul 31
-    15.00     Nimes v Dijon  2-1 (1-0)   @ Stade des Costières › Nîmes
-    19.00     Guingamp v Valenciennes  1-1 (0-0)   @ Stade du Roudourou › Guingamp
+    15:00     Nimes v Dijon  2-1 (1-0)   @ Stade des Costières › Nîmes
+    19:00     Guingamp v Valenciennes  1-1 (0-0)   @ Stade du Roudourou › Guingamp
               Ajaccio v Amiens  3-1 (2-0)   @ Stade François Coty › Ajaccio
               Nancy v Toulouse  0-4 (0-3)   @ Stade Marcel-Picot › Tomblaine
               Niort v Caen  0-1 (0-0)   @ Stade René Gaillard › Niort
@@ -31,11 +31,11 @@
               Sochaux v LE Havre  0-2 (0-2)   @ Stade Gaston-Gérard › Dijon
               Rodez v PAU  1-0 (1-0)   @ Stade Paul Lignon › Rodez
   Mon Aug 2
-    20.45     Auxerre v Grenoble  3-0 (2-0)   @ Stade de l'Abbé Deschamps › Auxerre
-» Regular Season - 3
+    20:45     Auxerre v Grenoble  3-0 (2-0)   @ Stade de l'Abbé Deschamps › Auxerre
+▪ Regular Season - 3
   Sat Aug 7
-    15.00     Caen v Sochaux  1-2 (0-0)   @ Stade Michel d'Ornano › Caen
-    19.00     Amiens v Quevilly  1-3 (1-2)   @ Stade Crédit Agricole de la Licorne › Amiens
+    15:00     Caen v Sochaux  1-2 (0-0)   @ Stade Michel d'Ornano › Caen
+    19:00     Amiens v Quevilly  1-3 (1-2)   @ Stade Crédit Agricole de la Licorne › Amiens
               Dijon v Rodez  1-1 (0-0)   @ Stade Gaston-Gérard › Dijon
               Grenoble v Guingamp  0-0 (0-0)   @ Stade Jean Laville › Gueugnon
               Valenciennes v Nimes  0-3 (0-0)   @ Stade du Hainaut › Valenciennes
@@ -44,11 +44,11 @@
               PAU v Toulouse  0-1 (0-1)   @ Stade Nouste Camp › Bizanos
               Dunkerque v Niort  1-2 (1-1)   @ Stade Marcel-Tribut › Dunkerque
   Wed Aug 11
-    19.00     Bastia v Nancy  1-1 (1-0)   @ Stade Armand-Césari › Furiani
-» Regular Season - 4
+    19:00     Bastia v Nancy  1-1 (1-0)   @ Stade Armand-Césari › Furiani
+▪ Regular Season - 4
   Sat Aug 14
-    15.00     Toulouse v Bastia  1-0 (1-0)   @ Stadium de Toulouse › Toulouse
-    19.00     Guingamp v Amiens  0-2 (0-1)   @ Stade du Roudourou › Guingamp
+    15:00     Toulouse v Bastia  1-0 (1-0)   @ Stadium de Toulouse › Toulouse
+    19:00     Guingamp v Amiens  0-2 (0-1)   @ Stade du Roudourou › Guingamp
               Nimes v PAU  0-0 (0-0)   @ Stade des Costières › Nîmes
               Nancy v Valenciennes  0-1 (0-0)   @ Stade Marcel-Picot › Tomblaine
               Niort v Grenoble  1-0 (1-0)   @ Stade René Gaillard › Niort
@@ -56,14 +56,14 @@
               Quevilly v Dijon  2-1 (1-0)   @ Stade Michel d'Ornano › Caen
               Rodez v LE Havre  0-0 (0-0)   @ Stade Paul Lignon › Rodez
   Mon Aug 16
-    20.45     Paris FC v Auxerre  1-1 (0-0)   @ Stade Sébastien-Charléty › Paris
-» Regular Season - 2
+    20:45     Paris FC v Auxerre  1-1 (0-0)   @ Stade Sébastien-Charléty › Paris
+▪ Regular Season - 2
   Wed Aug 18
-    19.00     Quevilly v Bastia  1-2 (0-1)   @ Stade Michel d'Ornano › Caen
-» Regular Season - 5
+    19:00     Quevilly v Bastia  1-2 (0-1)   @ Stade Michel d'Ornano › Caen
+▪ Regular Season - 5
   Sat Aug 21
-    15.00     Dijon v Toulouse  2-4 (1-1)   @ Stade Gaston-Gérard › Dijon
-    19.00     Amiens v Sochaux  0-0 (0-0)   @ Stade Crédit Agricole de la Licorne › Amiens
+    15:00     Dijon v Toulouse  2-4 (1-1)   @ Stade Gaston-Gérard › Dijon
+    19:00     Amiens v Sochaux  0-0 (0-0)   @ Stade Crédit Agricole de la Licorne › Amiens
               Caen v Nancy  1-0 (1-0)   @ Stade Michel d'Ornano › Caen
               Grenoble v Quevilly  2-0 (1-0)   @ Stade des Alpes › Grenoble
               Valenciennes v Rodez  1-4 (1-1)   @ Stade du Hainaut › Valenciennes
@@ -71,15 +71,15 @@
               PAU v Bastia  2-0 (1-0)   @ Stade Nouste Camp › Bizanos
               Dunkerque v Nimes  0-2 (0-0)   @ Stade Marcel-Tribut › Dunkerque
   Mon Aug 23
-    20.45     Auxerre v Guingamp  1-2 (0-1)   @ Stade de l'Abbé Deschamps › Auxerre
-» Regular Season - 4
+    20:45     Auxerre v Guingamp  1-2 (0-1)   @ Stade de l'Abbé Deschamps › Auxerre
+▪ Regular Season - 4
   Wed Aug 25
-    19.00     Ajaccio v Caen  2-0 (1-0)   @ Stade François Coty › Ajaccio
-» Regular Season - 6
+    19:00     Ajaccio v Caen  2-0 (1-0)   @ Stade François Coty › Ajaccio
+▪ Regular Season - 6
   Sat Aug 28
-    15.00     Toulouse v Valenciennes  1-0 (1-0)   @ Stadium de Toulouse › Toulouse
+    15:00     Toulouse v Valenciennes  1-0 (1-0)   @ Stadium de Toulouse › Toulouse
               Nimes v Caen  0-0 (0-0)   @ Stade des Costières › Nîmes
-    19.00     Guingamp v Ajaccio  1-1 (0-1)   @ Stade du Roudourou › Guingamp
+    19:00     Guingamp v Ajaccio  1-1 (0-1)   @ Stade du Roudourou › Guingamp
               Nancy v Auxerre  1-4 (0-2)   @ Stade Marcel-Picot › Tomblaine
               Niort v Amiens  0-0 (0-0)   @ Stade René Gaillard › Niort
               Sochaux v Grenoble  1-0 (1-0)   @ Stade Auguste-Bonal › Montbéliard
@@ -87,10 +87,10 @@
               PAU v Dijon  2-0 (1-0)   @ Stade Nouste Camp › Bizanos
               Rodez v Dunkerque  2-2 (0-1)   @ Stade Paul Lignon › Rodez
               Bastia v LE Havre  0-0 (0-0)   @ Stade Armand-Césari › Furiani
-» Regular Season - 7
+▪ Regular Season - 7
   Sat Sep 11
-    15.00     Paris FC v Guingamp  0-1 (0-1)   @ Stade Sébastien-Charléty › Paris
-    19.00     Amiens v Rodez  0-1 (0-1)   @ Stade Crédit Agricole de la Licorne › Amiens
+    15:00     Paris FC v Guingamp  0-1 (0-1)   @ Stade Sébastien-Charléty › Paris
+    19:00     Amiens v Rodez  0-1 (0-1)   @ Stade Crédit Agricole de la Licorne › Amiens
               Caen v PAU  1-2 (1-1)   @ Stade Michel d'Ornano › Caen
               Dijon v Bastia  2-1 (0-0)   @ Stade Gaston-Gérard › Dijon
               Ajaccio v Sochaux  1-0 (0-0)   @ Stade François Coty › Ajaccio
@@ -99,15 +99,15 @@
               Auxerre v Niort  4-0 (1-0)   @ Stade de l'Abbé Deschamps › Auxerre
               Dunkerque v Nancy  0-0 (0-0)   @ Stade Marcel-Tribut › Dunkerque
   Mon Sep 13
-    20.45     LE Havre v Toulouse  1-1 (0-1)   @ Stade Océane › Le Havre
-» Regular Season - 5
+    20:45     LE Havre v Toulouse  1-1 (0-1)   @ Stade Océane › Le Havre
+▪ Regular Season - 5
   Tue Sep 14
-    19.00     Ajaccio v Paris FC  1-0 (0-0)   @ Stade François Coty › Ajaccio
-» Regular Season - 8
+    19:00     Ajaccio v Paris FC  1-0 (0-0)   @ Stade François Coty › Ajaccio
+▪ Regular Season - 8
   Sat Sep 18
-    15.00     Sochaux v Paris FC  2-0 (1-0)   @ Stade Auguste-Bonal › Montbéliard
+    15:00     Sochaux v Paris FC  2-0 (1-0)   @ Stade Auguste-Bonal › Montbéliard
               Toulouse v Grenoble  4-1 (2-0)   @ Stadium de Toulouse › Toulouse
-    19.00     Dijon v Dunkerque  2-0 (0-0)   @ Stade Gaston-Gérard › Dijon
+    19:00     Dijon v Dunkerque  2-0 (0-0)   @ Stade Gaston-Gérard › Dijon
               Nimes v Amiens  3-3 (2-0)   @ Stade des Costières › Nîmes
               Nancy v LE Havre  1-1 (0-0)   @ Stade Marcel-Picot › Tomblaine
               Niort v Guingamp  2-0 (1-0)   @ Stade René Gaillard › Niort
@@ -115,9 +115,9 @@
               PAU v Valenciennes  1-1 (1-1)   @ Stade Nouste Camp › Bizanos
               Rodez v Ajaccio  0-2 (0-1)   @ Stade Paul Lignon › Rodez
               Bastia v Caen  1-1 (1-0)   @ Stade Armand-Césari › Furiani
-» Regular Season - 9
+▪ Regular Season - 9
   Tue Sep 21
-    20.00     Amiens v PAU  2-2 (1-1)   @ Stade Crédit Agricole de la Licorne › Amiens
+    20:00     Amiens v PAU  2-2 (1-1)   @ Stade Crédit Agricole de la Licorne › Amiens
               Caen v Dijon  0-1 (0-1)   @ Stade Michel d'Ornano › Caen
               Guingamp v Sochaux  1-2 (1-0)   @ Stade du Roudourou › Guingamp
               Ajaccio v Niort  0-0 (0-0)   @ Stade François Coty › Ajaccio
@@ -127,9 +127,9 @@
               LE Havre v Quevilly  1-0 (1-0)   @ Stade Océane › Le Havre
               Paris FC v Nimes  2-0 (0-0)   @ Stade Sébastien-Charléty › Paris
               Dunkerque v Toulouse  0-2 (0-1)   @ Stade Marcel-Tribut › Dunkerque
-» Regular Season - 10
+▪ Regular Season - 10
   Fri Sep 24
-    21.00     Dijon v Valenciennes  0-1 (0-1)   @ Stade Gaston-Gérard › Dijon
+    21:00     Dijon v Valenciennes  0-1 (0-1)   @ Stade Gaston-Gérard › Dijon
               Nimes v LE Havre  0-1 (0-0)   @ Stade des Costières › Nîmes
               Nancy v Amiens  1-1 (0-1)   @ Stade Marcel-Picot › Tomblaine
               Niort v Paris FC  4-1 (2-0)   @ Stade René Gaillard › Niort
@@ -138,14 +138,14 @@
               PAU v Dunkerque  1-2 (0-2)   @ Stade Nouste Camp › Bizanos
               Rodez v Grenoble  1-1 (0-1)   @ Stade Paul Lignon › Rodez
   Sat Sep 25
-    15.00     Bastia v Ajaccio  2-0 (0-0)   @ Stade Armand-Césari › Furiani
+    15:00     Bastia v Ajaccio  2-0 (0-0)   @ Stade Armand-Césari › Furiani
   Mon Sep 27
-    20.45     Toulouse v Caen  2-3 (2-3)   @ Stadium de Toulouse › Toulouse
-» Regular Season - 11
+    20:45     Toulouse v Caen  2-3 (2-3)   @ Stadium de Toulouse › Toulouse
+▪ Regular Season - 11
   Sat Oct 2
-    15.00     Auxerre v Nimes  2-2 (1-0)   @ Stade de l'Abbé Deschamps › Auxerre
+    15:00     Auxerre v Nimes  2-2 (1-0)   @ Stade de l'Abbé Deschamps › Auxerre
               Amiens v Toulouse  0-0 (0-0)   @ Stade Crédit Agricole de la Licorne › Amiens
-    19.00     Caen v Valenciennes  1-2 (0-2)   @ Stade Michel d'Ornano › Caen
+    19:00     Caen v Valenciennes  1-2 (0-2)   @ Stade Michel d'Ornano › Caen
               Guingamp v Rodez  2-1 (1-1)   @ Stade du Roudourou › Guingamp
               Ajaccio v Quevilly  0-1 (0-0)   @ Stade François Coty › Ajaccio
               Grenoble v PAU  2-0 (2-0)   @ Stade des Alpes › Grenoble
@@ -153,10 +153,10 @@
               Paris FC v Nancy  1-1 (1-0)   @ Stade Sébastien-Charléty › Paris
               Sochaux v Niort  1-0 (0-0)   @ Stade Auguste-Bonal › Montbéliard
               Dunkerque v Bastia  2-0 (0-0)   @ Stade Marcel-Tribut › Dunkerque
-» Regular Season - 12
+▪ Regular Season - 12
   Sat Oct 16
-    15.00     Toulouse v Auxerre  6-0 (3-0)   @ Stadium de Toulouse › Toulouse
-    19.00     Caen v LE Havre  2-2 (1-1)   @ Stade Michel d'Ornano › Caen
+    15:00     Toulouse v Auxerre  6-0 (3-0)   @ Stadium de Toulouse › Toulouse
+    19:00     Caen v LE Havre  2-2 (1-1)   @ Stade Michel d'Ornano › Caen
               Dijon v Amiens  1-0 (0-0)   @ Stade Gaston-Gérard › Dijon
               Nancy v Guingamp  2-1 (0-1)   @ Stade Marcel-Picot › Tomblaine
               Valenciennes v Dunkerque  1-3 (0-2)   @ Stade du Hainaut › Valenciennes
@@ -165,11 +165,11 @@
               Rodez v Sochaux  0-1 (0-0)   @ Stade Paul Lignon › Rodez
               Bastia v Grenoble  0-0 (0-0)   @ Stade Armand-Césari › Furiani
   Mon Oct 18
-    20.45     Nimes v Ajaccio  0-2 (0-2)   @ Stade des Costières › Nîmes
-» Regular Season - 13
+    20:45     Nimes v Ajaccio  0-2 (0-2)   @ Stade des Costières › Nîmes
+▪ Regular Season - 13
   Sat Oct 23
-    15.00     Paris FC v Toulouse  2-2 (2-0)   @ Stade Sébastien-Charléty › Paris
-    19.00     Amiens v Valenciennes  3-0 (1-0)   @ Stade Crédit Agricole de la Licorne › Amiens
+    15:00     Paris FC v Toulouse  2-2 (2-0)   @ Stade Sébastien-Charléty › Paris
+    19:00     Amiens v Valenciennes  3-0 (1-0)   @ Stade Crédit Agricole de la Licorne › Amiens
               Guingamp v Nimes  3-1 (1-0)   @ Stade du Roudourou › Guingamp
               Ajaccio v Nancy  2-0 (1-0)   @ Stade François Coty › Ajaccio
               Grenoble v Dijon  1-2 (1-0)   @ Stade des Alpes › Grenoble
@@ -178,11 +178,11 @@
               Sochaux v Quevilly  1-1 (0-1)   @ Stade Auguste-Bonal › Montbéliard
               Dunkerque v Caen  1-1 (0-0)   @ Stade Marcel-Tribut › Dunkerque
   Mon Oct 25
-    20.45     Auxerre v Bastia  1-0 (1-0)   @ Stade de l'Abbé Deschamps › Auxerre
-» Regular Season - 14
+    20:45     Auxerre v Bastia  1-0 (1-0)   @ Stade de l'Abbé Deschamps › Auxerre
+▪ Regular Season - 14
   Sat Oct 30
-    15.00     Toulouse v Guingamp  2-2 (0-1)   @ Stadium de Toulouse › Toulouse
-    19.00     Caen v Grenoble  0-1 (0-1)   @ Stade Michel d'Ornano › Caen
+    15:00     Toulouse v Guingamp  2-2 (0-1)   @ Stadium de Toulouse › Toulouse
+    19:00     Caen v Grenoble  0-1 (0-1)   @ Stade Michel d'Ornano › Caen
               Dijon v Paris FC  0-1 (0-1)   @ Stade Gaston-Gérard › Dijon
               Nimes v Niort  1-2 (0-1)   @ Stade des Costières › Nîmes
               Nancy v Sochaux  0-0 (0-0)   @ Stade Marcel-Picot › Tomblaine
@@ -191,12 +191,12 @@
               Dunkerque v LE Havre  1-0 (0-0)   @ Stade Marcel-Tribut › Dunkerque
               Bastia v Amiens  0-0 (0-0)   @ Stade Armand-Césari › Furiani
   Mon Nov 1
-    20.45     Valenciennes v Auxerre  1-2 (0-0)   @ Stade du Hainaut › Valenciennes
-» Regular Season - 15
+    20:45     Valenciennes v Auxerre  1-2 (0-0)   @ Stade du Hainaut › Valenciennes
+▪ Regular Season - 15
   Sat Nov 6
-    15.00     Sochaux v Nimes  0-1 (0-0)   @ Stade Auguste-Bonal › Montbéliard
+    15:00     Sochaux v Nimes  0-1 (0-0)   @ Stade Auguste-Bonal › Montbéliard
               Auxerre v PAU  4-1 (1-0)   @ Stade de l'Abbé Deschamps › Auxerre
-    19.00     Amiens v Caen  0-0 (0-0)   @ Stade Crédit Agricole de la Licorne › Amiens
+    19:00     Amiens v Caen  0-0 (0-0)   @ Stade Crédit Agricole de la Licorne › Amiens
               Guingamp v Bastia  2-3 (0-1)   @ Stade du Roudourou › Guingamp
               Ajaccio v Dijon  1-0 (0-0)   @ Stade François Coty › Ajaccio
               Grenoble v Dunkerque  1-0 (0-0)   @ Stade des Alpes › Grenoble
@@ -204,10 +204,10 @@
               Niort v Nancy  1-3 (0-1)   @ Stade René Gaillard › Niort
               Paris FC v Rodez  1-0 (1-0)   @ Stade Charléty › Paris
               Quevilly v Toulouse  0-0 (0-0)   @ Stade Robert Diochon › Le Petit-Quevilly
-» Regular Season - 16
+▪ Regular Season - 16
   Sat Nov 20
-    15.00     Toulouse v Sochaux  4-1 (1-1)   @ Stadium de Toulouse › Toulouse
-    19.00     Caen v Paris FC  0-1 (0-0)   @ Stade Michel d'Ornano › Caen
+    15:00     Toulouse v Sochaux  4-1 (1-1)   @ Stadium de Toulouse › Toulouse
+    19:00     Caen v Paris FC  0-1 (0-0)   @ Stade Michel d'Ornano › Caen
               Nimes v Quevilly  2-1 (1-1)   @ Stade des Costières › Nîmes
               Nancy v Rodez  0-2 (0-2)   @ Stade Marcel-Picot › Tomblaine
               Valenciennes v Grenoble  1-0 (1-0)   @ Stade du Hainaut › Valenciennes
@@ -216,10 +216,10 @@
               Dunkerque v Ajaccio  0-1 (0-0)   @ Stade Marcel-Tribut › Dunkerque
               Bastia v Niort  2-0 (2-0)   @ Stade Armand-Césari › Furiani
   Mon Nov 22
-    20.45     Dijon v Auxerre  3-1 (2-0)   @ Stade Gaston-Gérard › Dijon
-» Regular Season - 17
+    20:45     Dijon v Auxerre  3-1 (2-0)   @ Stade Gaston-Gérard › Dijon
+▪ Regular Season - 17
   Fri Dec 3
-    21.00     Amiens v Dunkerque  3-0 (1-0)   @ Stade Crédit Agricole de la Licorne › Amiens
+    21:00     Amiens v Dunkerque  3-0 (1-0)   @ Stade Crédit Agricole de la Licorne › Amiens
               Guingamp v Dijon  3-2 (0-1)   @ Stade du Roudourou › Guingamp
               Ajaccio v Valenciennes  0-0 (0-0)   @ Stade François Coty › Ajaccio
               Grenoble v LE Havre  1-2 (0-1)   @ Stade des Alpes › Grenoble
@@ -228,13 +228,13 @@
               Quevilly v Nancy  2-1 (1-1)   @ Stade Robert Diochon › Le Petit-Quevilly
               Rodez v Nimes  1-0 (1-0)   @ Stade Paul Lignon › Rodez
   Sat Dec 4
-    15.00     Auxerre v Caen  2-2 (1-1)   @ Stade de l'Abbé Deschamps › Auxerre
+    15:00     Auxerre v Caen  2-2 (1-1)   @ Stade de l'Abbé Deschamps › Auxerre
   Mon Dec 6
-    20.45     Niort v Toulouse  2-1 (0-0)   @ Stade René Gaillard › Niort
-» Regular Season - 18
+    20:45     Niort v Toulouse  2-1 (0-0)   @ Stade René Gaillard › Niort
+▪ Regular Season - 18
   Sat Dec 11
-    15.00     LE Havre v Ajaccio  0-1 (0-0)   @ Stade Océane › Le Havre
-    19.00     Amiens v Grenoble  4-1 (2-0)   @ Stade Crédit Agricole de la Licorne › Amiens
+    15:00     LE Havre v Ajaccio  0-1 (0-0)   @ Stade Océane › Le Havre
+    19:00     Amiens v Grenoble  4-1 (2-0)   @ Stade Crédit Agricole de la Licorne › Amiens
               Caen v Guingamp  2-0 (1-0)   @ Stade Michel d'Ornano › Caen
               Dijon v Niort  2-2 (0-2)   @ Stade Gaston-Gérard › Dijon
               Nimes v Nancy  2-1 (2-1)   @ Stade des Costières › Nîmes
@@ -243,10 +243,10 @@
               Dunkerque v Auxerre  0-2 (0-0)   @ Stade Marcel-Tribut › Dunkerque
               Bastia v Sochaux  2-2 (2-0)   @ Stade Armand-Césari › Furiani
   Mon Dec 13
-    20.45     Toulouse v Rodez  1-1 (1-0)   @ Stadium de Toulouse › Toulouse
-» Regular Season - 19
+    20:45     Toulouse v Rodez  1-1 (1-0)   @ Stadium de Toulouse › Toulouse
+▪ Regular Season - 19
   Tue Dec 21
-    20.45     Guingamp v Dunkerque  2-1 (0-0)   @ Stade du Roudourou › Guingamp
+    20:45     Guingamp v Dunkerque  2-1 (0-0)   @ Stade du Roudourou › Guingamp
               Nimes v Toulouse  1-2 (0-1)   @ Stade des Costières › Nîmes
               Ajaccio v Grenoble  1-0 (0-0)   @ Stade François Coty › Ajaccio
               Nancy v Dijon  0-3 (0-1)   @ Stade Marcel-Picot › Tomblaine
@@ -256,59 +256,59 @@
               Sochaux v Valenciennes  1-1 (0-1)   @ Stade Auguste-Bonal › Montbéliard
               Quevilly v Caen  2-2 (0-1)   @ Stade Robert Diochon › Le Petit-Quevilly
               Rodez v Bastia  0-0 (0-0)   @ Stade Paul Lignon › Rodez
-» Regular Season - 20
+▪ Regular Season - 20
   Sat Jan 8 2022
-    15.00     LE Havre v Sochaux  0-1 (0-0)   @ Stade Océane › Le Havre
+    15:00     LE Havre v Sochaux  0-1 (0-0)   @ Stade Océane › Le Havre
   Sat Jan 8
-    19.00     Dijon v Nimes  1-2 (0-2)   @ Stade Gaston-Gérard › Dijon
+    19:00     Dijon v Nimes  1-2 (0-2)   @ Stade Gaston-Gérard › Dijon
               Grenoble v Auxerre  0-1 (0-1)   @ Stade des Alpes › Grenoble
               Valenciennes v Guingamp  1-1 (1-0)   @ Stade du Hainaut › Valenciennes
               PAU v Rodez  4-0 (0-0)   @ Stade Nouste Camp › Bizanos
               Bastia v Quevilly  3-0 (1-0)   @ Stade Armand-Césari › Furiani
-» Regular Season - 21
+▪ Regular Season - 21
   Sat Jan 15
-    19.00     Toulouse v PAU  1-1 (0-0)   @ Stadium de Toulouse › Toulouse
+    19:00     Toulouse v PAU  1-1 (0-0)   @ Stadium de Toulouse › Toulouse
               Nancy v Bastia  2-1 (1-0)   @ Stade Marcel-Picot › Tomblaine
               Sochaux v Caen  3-2 (0-2)   @ Stade Auguste-Bonal › Montbéliard
               Rodez v Dijon  0-2 (0-1)   @ Stade Paul Lignon › Rodez
               Guingamp v Grenoble  0-0 (0-0)   @ Stade du Roudourou › Guingamp
   Mon Jan 17
-    20.45     Paris FC v LE Havre  2-2 (2-0)   @ MMArena › Le Mans
-» Regular Season - 20
+    20:45     Paris FC v LE Havre  2-2 (2-0)   @ MMArena › Le Mans
+▪ Regular Season - 20
   Wed Jan 19
-    19.00     Toulouse v Nancy  4-0 (2-0)   @ Stadium de Toulouse › Toulouse
+    19:00     Toulouse v Nancy  4-0 (2-0)   @ Stadium de Toulouse › Toulouse
               Amiens v Ajaccio  0-1 (0-1)   @ Stade Crédit Agricole de la Licorne › Amiens
-» Regular Season - 22
+▪ Regular Season - 22
   Sat Jan 22
-    19.00     Amiens v Guingamp  3-0 (0-0)   @ Stade Crédit Agricole de la Licorne › Amiens
+    19:00     Amiens v Guingamp  3-0 (0-0)   @ Stade Crédit Agricole de la Licorne › Amiens
               Dijon v Quevilly  1-0 (0-0)   @ Stade Gaston-Gérard › Dijon
               LE Havre v Rodez  0-0 (0-0)   @ Stade Océane › Le Havre
               Dunkerque v Sochaux  0-0 (0-0)   @ Stade Marcel-Tribut › Dunkerque
               Bastia v Toulouse  0-0 (0-0)   @ Stade Armand-Césari › Furiani
   Mon Jan 24
-    20.45     Caen v Ajaccio  2-0 (0-0)   @ Stade Michel d'Ornano › Caen
-» Regular Season - 21
+    20:45     Caen v Ajaccio  2-0 (0-0)   @ Stade Michel d'Ornano › Caen
+▪ Regular Season - 21
   Wed Jan 26
-    19.00     Quevilly v Amiens  1-1 (0-1)   @ Stade Robert Diochon › Le Petit-Quevilly
-» Regular Season - 20
+    19:00     Quevilly v Amiens  1-1 (0-1)   @ Stade Robert Diochon › Le Petit-Quevilly
+▪ Regular Season - 20
   Fri Jan 28
-    19.00     Dunkerque v Paris FC  1-1 (0-0)   @ Stade Marcel-Tribut › Dunkerque
+    19:00     Dunkerque v Paris FC  1-1 (0-0)   @ Stade Marcel-Tribut › Dunkerque
               Caen v Niort  0-2 (0-1)   @ Stade Michel d'Ornano › Caen
-» Regular Season - 21
+▪ Regular Season - 21
   Fri Jan 28
-    19.00     Ajaccio v Auxerre  0-0 (0-0)   @ Stade François Coty › Ajaccio
+    19:00     Ajaccio v Auxerre  0-0 (0-0)   @ Stade François Coty › Ajaccio
               Nimes v Valenciennes  2-1 (2-0)   @ Stade des Costières › Nîmes
   Tue Feb 1
-    19.00     Niort v Dunkerque  2-0 (0-0)   @ Stade René Gaillard › Niort
-» Regular Season - 22
+    19:00     Niort v Dunkerque  2-0 (0-0)   @ Stade René Gaillard › Niort
+▪ Regular Season - 22
   Tue Feb 1
-    19.00     Auxerre v Paris FC  1-2 (1-1)   @ Stade de l'Abbé Deschamps › Auxerre
+    19:00     Auxerre v Paris FC  1-2 (1-1)   @ Stade de l'Abbé Deschamps › Auxerre
               Valenciennes v Nancy  6-1 (5-1)   @ Stade du Hainaut › Valenciennes
               PAU v Nimes  0-3 (0-0)   @ Stade Nouste Camp › Bizanos
-» Regular Season - 23
+▪ Regular Season - 23
   Sat Feb 5
-    15.00     Toulouse v Dijon  4-1 (2-1)   @ Stadium de Toulouse › Toulouse
-    19.00     Guingamp v Auxerre  1-1 (0-0)   @ Stade du Roudourou › Guingamp
+    15:00     Toulouse v Dijon  4-1 (2-1)   @ Stadium de Toulouse › Toulouse
+    19:00     Guingamp v Auxerre  1-1 (0-0)   @ Stade du Roudourou › Guingamp
               Nimes v Dunkerque  0-1 (0-0)   @ Stade des Costières › Nîmes
               Nancy v Caen  1-1 (0-0)   @ Stade Marcel-Picot › Tomblaine
               Niort v LE Havre  0-0 (0-0)   @ Stade René Gaillard › Niort
@@ -317,11 +317,11 @@
               Rodez v Valenciennes  0-0 (0-0)   @ Stade Paul Lignon › Rodez
               Bastia v PAU  1-1 (0-0)   @ Stade Armand-Césari › Furiani
   Mon Feb 7
-    20.45     Paris FC v Ajaccio  2-0 (0-0)   @ MMArena › Le Mans
-» Regular Season - 24
+    20:45     Paris FC v Ajaccio  2-0 (0-0)   @ MMArena › Le Mans
+▪ Regular Season - 24
   Sat Feb 12
-    15.00     Valenciennes v Toulouse  1-3 (0-1)   @ Stade du Hainaut › Valenciennes
-    19.00     Amiens v Niort  3-1 (2-0)   @ Stade Crédit Agricole de la Licorne › Amiens
+    15:00     Valenciennes v Toulouse  1-3 (0-1)   @ Stade du Hainaut › Valenciennes
+    19:00     Amiens v Niort  3-1 (2-0)   @ Stade Crédit Agricole de la Licorne › Amiens
               Caen v Nimes  4-0 (3-0)   @ Stade Michel d'Ornano › Caen
               Dijon v PAU  0-1 (0-0)   @ Stade Gaston-Gérard › Dijon
               Ajaccio v Guingamp  0-1 (0-0)   @ Stade François Coty › Ajaccio
@@ -330,14 +330,14 @@
               Paris FC v Quevilly  3-0 (2-0)   @ Stade Charléty › Paris
               Dunkerque v Rodez  2-0 (2-0)   @ Stade Marcel-Tribut › Dunkerque
   Mon Feb 14
-    20.45     LE Havre v Bastia  2-4 (2-2)   @ Stade Océane › Le Havre
-» Regular Season - 22
+    20:45     LE Havre v Bastia  2-4 (2-2)   @ Stade Océane › Le Havre
+▪ Regular Season - 22
   Tue Feb 15
-    19.00     Grenoble v Niort  1-0 (0-0)   @ Stade des Alpes › Grenoble
-» Regular Season - 25
+    19:00     Grenoble v Niort  1-0 (0-0)   @ Stade des Alpes › Grenoble
+▪ Regular Season - 25
   Sat Feb 19
-    15.00     Sochaux v Ajaccio  0-1 (0-0)   @ Stade Auguste-Bonal › Montbéliard
-    19.00     Guingamp v Paris FC  1-1 (0-0)   @ Stade du Roudourou › Guingamp
+    15:00     Sochaux v Ajaccio  0-1 (0-0)   @ Stade Auguste-Bonal › Montbéliard
+    19:00     Guingamp v Paris FC  1-1 (0-0)   @ Stade du Roudourou › Guingamp
               Nimes v Grenoble  3-1 (1-0)   @ Stade des Costières › Nîmes
               Nancy v Dunkerque  2-0 (1-0)   @ Stade Marcel-Picot › Tomblaine
               Niort v Auxerre  0-1 (0-1)   @ Stade René Gaillard › Niort
@@ -346,11 +346,11 @@
               Rodez v Amiens  1-1 (1-1)   @ Stade Paul Lignon › Rodez
               Bastia v Dijon  0-0 (0-0)   @ Stade Armand-Césari › Furiani
   Mon Feb 21
-    20.45     Toulouse v LE Havre  4-0 (2-0)   @ Stadium de Toulouse › Toulouse
-» Regular Season - 26
+    20:45     Toulouse v LE Havre  4-0 (2-0)   @ Stadium de Toulouse › Toulouse
+▪ Regular Season - 26
   Sat Feb 26
-    15.00     Paris FC v Sochaux  3-1 (0-1)   @ Stade Charléty › Paris
-    19.00     Amiens v Nimes  3-0 (1-0)   @ Stade Crédit Agricole de la Licorne › Amiens
+    15:00     Paris FC v Sochaux  3-1 (0-1)   @ Stade Charléty › Paris
+    19:00     Amiens v Nimes  3-0 (1-0)   @ Stade Crédit Agricole de la Licorne › Amiens
               Caen v Bastia  2-1 (1-1)   @ Stade Michel d'Ornano › Caen
               Guingamp v Niort  1-0 (0-0)   @ Stade du Roudourou › Guingamp
               Ajaccio v Rodez  2-1 (2-1)   @ Stade François Coty › Ajaccio
@@ -359,11 +359,11 @@
               LE Havre v Nancy  1-0 (1-0)   @ Stade Océane › Le Havre
               Dunkerque v Dijon  2-1 (1-0)   @ Stade Marcel-Tribut › Dunkerque
   Mon Feb 28
-    20.45     Grenoble v Toulouse  0-2 (0-0)   @ Stade des Alpes › Grenoble
-» Regular Season - 27
+    20:45     Grenoble v Toulouse  0-2 (0-0)   @ Stade des Alpes › Grenoble
+▪ Regular Season - 27
   Sat Mar 5
-    15.00     Nimes v Paris FC  1-1 (1-1)   @ Stade des Costières › Nîmes
-    19.00     Dijon v Caen  1-0 (1-0)   @ Stade Gaston-Gérard › Dijon
+    15:00     Nimes v Paris FC  1-1 (1-1)   @ Stade des Costières › Nîmes
+    19:00     Dijon v Caen  1-0 (1-0)   @ Stade Gaston-Gérard › Dijon
               Nancy v Grenoble  0-1 (0-0)   @ Stade Marcel-Picot › Tomblaine
               Niort v Ajaccio  0-1 (0-0)   @ Stade René Gaillard › Niort
               Sochaux v Guingamp  1-0 (0-0)   @ Stade Auguste-Bonal › Montbéliard
@@ -372,12 +372,12 @@
               Rodez v Auxerre  1-3 (0-1)   @ Stade Paul Lignon › Rodez
               Bastia v Valenciennes  1-1 (1-1)   @ Stade Armand-Césari › Furiani
   Mon Mar 7
-    20.45     Toulouse v Dunkerque  2-0 (1-0)   @ Stadium de Toulouse › Toulouse
-» Regular Season - 28
+    20:45     Toulouse v Dunkerque  2-0 (1-0)   @ Stadium de Toulouse › Toulouse
+▪ Regular Season - 28
   Sat Mar 12
-    15.00     Auxerre v Sochaux  3-2 (2-1)   @ Stade de l'Abbé Deschamps › Auxerre
+    15:00     Auxerre v Sochaux  3-2 (2-1)   @ Stade de l'Abbé Deschamps › Auxerre
               Ajaccio v Bastia  0-1 (0-1)   @ Stade François Coty › Ajaccio
-    19.00     Amiens v Nancy  1-0 (0-0)   @ Stade Crédit Agricole de la Licorne › Amiens
+    19:00     Amiens v Nancy  1-0 (0-0)   @ Stade Crédit Agricole de la Licorne › Amiens
               Caen v Toulouse  4-1 (2-0)   @ Stade Michel d'Ornano › Caen
               Guingamp v Quevilly  1-1 (1-1)   @ Stade du Roudourou › Guingamp
               Grenoble v Rodez  0-0 (0-0)   @ Stade des Alpes › Grenoble
@@ -385,9 +385,9 @@
               LE Havre v Nimes  0-1 (0-1)   @ Stade Océane › Le Havre
               Paris FC v Niort  2-0 (1-0)   @ Stade Charléty › Paris
               Dunkerque v PAU  1-0 (1-0)   @ Stade Marcel-Tribut › Dunkerque
-» Regular Season - 29
+▪ Regular Season - 29
   Tue Mar 15
-    19.00     Dijon v LE Havre  2-0 (0-0)   @ Stade Gaston-Gérard › Dijon
+    19:00     Dijon v LE Havre  2-0 (0-0)   @ Stade Gaston-Gérard › Dijon
               Nimes v Auxerre  1-2 (1-2)   @ Stade des Costières › Nîmes
               Toulouse v Amiens  6-0 (3-0)   @ Stadium de Toulouse › Toulouse
               Nancy v Paris FC  3-0 (3-0)   @ Stade Marcel-Picot › Tomblaine
@@ -397,11 +397,11 @@
               PAU v Grenoble  0-1 (0-1)   @ Stade Nouste Camp › Bizanos
               Rodez v Guingamp  1-1 (0-1)   @ Stade Paul Lignon › Rodez
               Bastia v Dunkerque  1-0 (1-0)   @ Stade Armand-Césari › Furiani
-» Regular Season - 30
+▪ Regular Season - 30
   Sat Mar 19
-    15.00     Auxerre v Toulouse  1-2 (0-2)   @ Stade de l'Abbé Deschamps › Auxerre
+    15:00     Auxerre v Toulouse  1-2 (0-2)   @ Stade de l'Abbé Deschamps › Auxerre
               LE Havre v Caen  2-4 (0-1)   @ Stade Océane › Le Havre
-    19.00     Amiens v Dijon  1-1 (0-0)   @ Stade Crédit Agricole de la Licorne › Amiens
+    19:00     Amiens v Dijon  1-1 (0-0)   @ Stade Crédit Agricole de la Licorne › Amiens
               Guingamp v Nancy  3-1 (2-0)   @ Stade du Roudourou › Guingamp
               Ajaccio v Nimes  1-0 (0-0)   @ Stade François Coty › Ajaccio
               Grenoble v Bastia  1-1 (0-0)   @ Stade des Alpes › Grenoble
@@ -409,10 +409,10 @@
               Paris FC v PAU  1-1 (0-0)   @ Stade Charléty › Paris
               Sochaux v Rodez  2-0 (2-0)   @ Stade Auguste-Bonal › Montbéliard
               Dunkerque v Valenciennes  1-2 (0-1)   @ Stade Marcel-Tribut › Dunkerque
-» Regular Season - 31
+▪ Regular Season - 31
   Sat Apr 2
-    15.00     Toulouse v Paris FC  2-1 (0-1)   @ Stadium de Toulouse › Toulouse
-    19.00     Caen v Dunkerque  2-1 (1-0)   @ Stade Michel d'Ornano › Caen
+    15:00     Toulouse v Paris FC  2-1 (0-1)   @ Stadium de Toulouse › Toulouse
+    19:00     Caen v Dunkerque  2-1 (1-0)   @ Stade Michel d'Ornano › Caen
               Dijon v Grenoble  1-0 (0-0)   @ Stade Gaston-Gérard › Dijon
               Nimes v Guingamp  0-2 (0-0)   @ Stade des Costières › Nîmes
               Valenciennes v Amiens  0-2 (0-2)   @ Stade du Hainaut › Valenciennes
@@ -421,11 +421,11 @@
               Rodez v Niort  1-1 (1-1)   @ Stade Paul Lignon › Rodez
               Bastia v Auxerre  1-1 (1-0)   @ Stade Armand-Césari › Furiani
   Mon Apr 4
-    20.45     Nancy v Ajaccio  0-2 (0-0)   @ Stade Marcel-Picot › Tomblaine
-» Regular Season - 32
+    20:45     Nancy v Ajaccio  0-2 (0-0)   @ Stade Marcel-Picot › Tomblaine
+▪ Regular Season - 32
   Sat Apr 9
-    15.00     Guingamp v Toulouse  2-4 (2-2)   @ Stade du Roudourou › Guingamp
-    19.00     Amiens v Bastia  0-0 (0-0)   @ Stade Crédit Agricole de la Licorne › Amiens
+    15:00     Guingamp v Toulouse  2-4 (2-2)   @ Stade du Roudourou › Guingamp
+    19:00     Amiens v Bastia  0-0 (0-0)   @ Stade Crédit Agricole de la Licorne › Amiens
               Ajaccio v PAU  2-1 (0-0)   @ Stade François Coty › Ajaccio
               Grenoble v Caen  0-2 (0-0)   @ Stade des Alpes › Grenoble
               Auxerre v Valenciennes  1-0 (1-0)   @ Stade de l'Abbé Deschamps › Auxerre
@@ -434,12 +434,12 @@
               Sochaux v Nancy  1-0 (1-0)   @ Stade Auguste-Bonal › Montbéliard
               Quevilly v Rodez  2-0 (2-0)   @ Stade Robert Diochon › Le Petit-Quevilly
   Mon Apr 11
-    20.45     Paris FC v Dijon  2-2 (0-1)   @ Stade Charléty › Paris
-» Regular Season - 33
+    20:45     Paris FC v Dijon  2-2 (0-1)   @ Stade Charléty › Paris
+▪ Regular Season - 33
   Sat Apr 16
-    15.00     PAU v Auxerre  1-4 (1-2)   @ Stade Nouste Camp › Bizanos
+    15:00     PAU v Auxerre  1-4 (1-2)   @ Stade Nouste Camp › Bizanos
               Toulouse v Quevilly  2-0 (0-0)   @ Stadium de Toulouse › Toulouse
-    19.00     Caen v Amiens  1-1 (0-0)   @ Stade Michel d'Ornano › Caen
+    19:00     Caen v Amiens  1-1 (0-0)   @ Stade Michel d'Ornano › Caen
               Dijon v Ajaccio  0-3 (0-1)   @ Stade Gaston-Gérard › Dijon
               Nimes v Sochaux  1-3 (1-1)   @ Stade des Costières › Nîmes
               Nancy v Niort  0-2 (0-0)   @ Stade Marcel-Picot › Tomblaine
@@ -447,9 +447,9 @@
               Rodez v Paris FC  0-1 (0-1)   @ Stade Paul Lignon › Rodez
               Dunkerque v Grenoble  0-3 (0-2)   @ Stade Marcel-Tribut › Dunkerque
               Bastia v Guingamp  1-2 (0-0)   @ Stade Armand-Césari › Furiani
-» Regular Season - 34
+▪ Regular Season - 34
   Tue Apr 19
-    20.00     Amiens v LE Havre  0-2 (0-0)   @ Stade Crédit Agricole de la Licorne › Amiens
+    20:00     Amiens v LE Havre  0-2 (0-0)   @ Stade Crédit Agricole de la Licorne › Amiens
               Guingamp v PAU  3-0 (2-0)   @ Stade du Roudourou › Guingamp
               Ajaccio v Dunkerque  2-1 (2-0)   @ Stade François Coty › Ajaccio
               Grenoble v Valenciennes  3-0 (1-0)   @ Stade des Alpes › Grenoble
@@ -459,9 +459,9 @@
               Sochaux v Toulouse  1-1 (1-0)   @ Stade Auguste-Bonal › Montbéliard
               Quevilly v Nimes  0-1 (0-1)   @ Stade Robert Diochon › Le Petit-Quevilly
               Rodez v Nancy  1-1 (0-0)   @ Stade Paul Lignon › Rodez
-» Regular Season - 35
+▪ Regular Season - 35
   Fri Apr 22
-    21.00     Dijon v Guingamp  3-3 (3-0)   @ Stade Gaston-Gérard › Dijon
+    21:00     Dijon v Guingamp  3-3 (3-0)   @ Stade Gaston-Gérard › Dijon
               Nimes v Rodez  3-2 (2-0)   @ Stade des Costières › Nîmes
               Nancy v Quevilly  0-3   @ Stade Marcel-Picot › Tomblaine
               Valenciennes v Ajaccio  0-0 (0-0)   @ Stade du Hainaut › Valenciennes
@@ -470,13 +470,13 @@
               Dunkerque v Amiens  0-0 (0-0)   @ Stade Marcel-Tribut › Dunkerque
               Bastia v Paris FC  2-1 (2-0)   @ Stade Armand-Césari › Furiani
   Sat Apr 23
-    15.00     Caen v Auxerre  1-1 (0-1)   @ Stade Michel d'Ornano › Caen
+    15:00     Caen v Auxerre  1-1 (0-1)   @ Stade Michel d'Ornano › Caen
   Mon Apr 25
-    20.45     Toulouse v Niort  2-0 (1-0)   @ Stadium de Toulouse › Toulouse
-» Regular Season - 36
+    20:45     Toulouse v Niort  2-0 (1-0)   @ Stadium de Toulouse › Toulouse
+▪ Regular Season - 36
   Sat Apr 30
-    15.00     Auxerre v Dunkerque  1-0 (0-0)   @ Stade de l'Abbé Deschamps › Auxerre
-    19.00     Guingamp v Caen  2-1 (0-1)   @ Stade du Roudourou › Guingamp
+    15:00     Auxerre v Dunkerque  1-0 (0-0)   @ Stade de l'Abbé Deschamps › Auxerre
+    19:00     Guingamp v Caen  2-1 (0-1)   @ Stade du Roudourou › Guingamp
               Ajaccio v LE Havre  2-1 (2-1)   @ Stade François Coty › Ajaccio
               Grenoble v Amiens  1-1 (1-0)   @ Stade des Alpes › Grenoble
               Nancy v Nimes  1-3 (0-1)   @ Stade Marcel-Picot › Tomblaine
@@ -485,10 +485,10 @@
               Sochaux v Bastia  2-1 (0-0)   @ Stade Auguste-Bonal › Montbéliard
               Quevilly v PAU  1-2 (1-0)   @ Stade Robert Diochon › Le Petit-Quevilly
   Mon May 2
-    20.45     Rodez v Toulouse  1-0 (0-0)   @ Stade Paul Lignon › Rodez
-» Regular Season - 37
+    20:45     Rodez v Toulouse  1-0 (0-0)   @ Stade Paul Lignon › Rodez
+▪ Regular Season - 37
   Sat May 7
-    19.00     Amiens v Paris FC  1-2 (0-0)   @ Stade Crédit Agricole de la Licorne › Amiens
+    19:00     Amiens v Paris FC  1-2 (0-0)   @ Stade Crédit Agricole de la Licorne › Amiens
               Caen v Quevilly  2-0 (0-0)   @ Stade Michel d'Ornano › Caen
               Dijon v Nancy  2-3 (1-0)   @ Stade Gaston-Gérard › Dijon
               Toulouse v Nimes  2-1 (0-1)   @ Stadium de Toulouse › Toulouse
@@ -498,9 +498,9 @@
               PAU v Niort  2-2 (1-2)   @ Stade Nouste Camp › Bizanos
               Dunkerque v Guingamp  1-3 (0-3)   @ Stade Marcel-Tribut › Dunkerque
               Bastia v Rodez  0-1 (0-0)   @ Stade Armand-Césari › Furiani
-» Regular Season - 38
+▪ Regular Season - 38
   Sat May 14
-    19.00     Guingamp v LE Havre  2-1 (1-1)   @ Stade du Roudourou › Guingamp
+    19:00     Guingamp v LE Havre  2-1 (1-1)   @ Stade du Roudourou › Guingamp
               Nimes v Bastia  0-2 (0-0)   @ Stade des Costières › Nîmes
               Ajaccio v Toulouse  1-0 (1-0)   @ Stade François Coty › Ajaccio
               Nancy v PAU  2-3 (2-3)   @ Stade Marcel-Picot › Tomblaine
@@ -510,14 +510,14 @@
               Sochaux v Dijon  2-2 (1-0)   @ Stade Auguste-Bonal › Montbéliard
               Quevilly v Dunkerque  3-1 (1-1)   @ Stade Robert Diochon › Le Petit-Quevilly
               Rodez v Caen  2-0 (0-0)   @ Stade Paul Lignon › Rodez
-» Promotion Play-offs - 1st Round
+▪ Promotion Play-offs - 1st Round
   Tue May 17
-    20.30     Paris FC v Sochaux  1-2 (1-1)   @ Stade Charléty › Paris
-» Promotion Play-offs - 2nd Round
+    20:30     Paris FC v Sochaux  1-2 (1-1)   @ Stade Charléty › Paris
+▪ Promotion Play-offs - 2nd Round
   Fri May 20
-    20.30     Auxerre v Sochaux  5-4 pen (0-0, 0-0, 0-0)   @ Stade de l'Abbé Deschamps › Auxerre
-» Relegation Round
+    20:30     Auxerre v Sochaux  5-4 pen (0-0, 0-0, 0-0)   @ Stade de l'Abbé Deschamps › Auxerre
+▪ Relegation Round
   Tue May 24
-    20.30     Villefranche v Quevilly  1-3 (1-1)   @ Stade Armand Chouffet › Villefranche-sur-Saône
+    20:30     Villefranche v Quevilly  1-3 (1-1)   @ Stade Armand Chouffet › Villefranche-sur-Saône
   Sun May 29
-    16.00     Quevilly v Villefranche  2-0 (0-0)   @ Stade Robert Diochon › Le Petit-Quevilly
+    16:00     Quevilly v Villefranche  2-0 (0-0)   @ Stade Robert Diochon › Le Petit-Quevilly

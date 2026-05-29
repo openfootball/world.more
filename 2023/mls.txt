@@ -1,718 +1,718 @@
 = USA | Major League Soccer 2023
 
-  # Date       Sat Feb/25 - Sat Dec/9 2023 (287d)
+  # Date       Sat Feb 25 - Sat Dec 9 2023 (287d)
   # Teams      29
   # Matches    526
 
   # Note - All times in America/New_York
 
-» Regular Season - 1
+▪ Regular Season - 1
   Sat Feb 25 2023
-    16.30     Nashville SC v New York City FC  2-0 (1-0)   @ GEODIS Park › Nashville, Tennessee
+    16:30     Nashville SC v New York City FC  2-0 (1-0)   @ GEODIS Park › Nashville, Tennessee
   Sat Feb 25
-    19.30     Philadelphia Union v Columbus Crew  4-1 (1-1)   @ Subaru Park › Chester, Pennsylvania
+    19:30     Philadelphia Union v Columbus Crew  4-1 (1-1)   @ Subaru Park › Chester, Pennsylvania
               Orlando City SC v New York Red Bulls  1-0 (0-0)   @ Exploria Stadium › Orlando, Florida
-» Regular Season - 2
+▪ Regular Season - 2
   Sat Feb 25
-    19.30     FC Cincinnati v Houston Dynamo  2-1 (1-1)   @ TQL Stadium › Cincinnati, Ohio
+    19:30     FC Cincinnati v Houston Dynamo  2-1 (1-1)   @ TQL Stadium › Cincinnati, Ohio
               Inter Miami v CF Montreal  2-0 (1-0)   @ DRV PNK Stadium › Fort Lauderdale, Florida
               Charlotte v New England Revolution  0-1 (0-0)   @ Bank of America Stadium › Charlotte, North Carolina
               Atlanta United FC v San Jose Earthquakes  2-1 (0-1)   @ Mercedes-Benz Stadium › Atlanta, Georgia
               DC United v Toronto FC  3-2 (1-0)   @ Audi Field › Washington, District of Columbia
-    20.30     Austin v St. Louis City  2-3 (1-1)   @ Q2 Stadium › Austin, Texas
+    20:30     Austin v St. Louis City  2-3 (1-1)   @ Q2 Stadium › Austin, Texas
               FC Dallas v Minnesota United FC  0-1 (0-0)   @ Toyota Stadium › Frisco, Texas
-    22.30     Vancouver Whitecaps v Real Salt Lake  1-2 (1-0)   @ BC Place › Vancouver, British Columbia
+    22:30     Vancouver Whitecaps v Real Salt Lake  1-2 (1-0)   @ BC Place › Vancouver, British Columbia
   Sun Feb 26
-    20.00     Seattle Sounders v Colorado Rapids  4-0 (2-0)   @ Lumen Field › Seattle, Washington
+    20:00     Seattle Sounders v Colorado Rapids  4-0 (2-0)   @ Lumen Field › Seattle, Washington
   Mon Feb 27
-    22.00     Portland Timbers v Sporting Kansas City  1-0 (1-0)   @ Providence Park › Portland, Oregon
-» Regular Season - 3
+    22:00     Portland Timbers v Sporting Kansas City  1-0 (1-0)   @ Providence Park › Portland, Oregon
+▪ Regular Season - 3
   Sat Mar 4
-    16.30     Los Angeles FC v Portland Timbers  3-2 (2-0)   @ BMO Stadium › Los Angeles, California
-    19.30     Inter Miami v Philadelphia Union  2-0 (1-0)   @ DRV PNK Stadium › Fort Lauderdale, Florida
+    16:30     Los Angeles FC v Portland Timbers  3-2 (2-0)   @ BMO Stadium › Los Angeles, California
+    19:30     Inter Miami v Philadelphia Union  2-0 (1-0)   @ DRV PNK Stadium › Fort Lauderdale, Florida
               Columbus Crew v DC United  2-0 (2-0)   @ Lower.com Field › Columbus, Ohio
               Atlanta United FC v Toronto FC  1-1 (0-0)   @ Mercedes-Benz Stadium › Atlanta, Georgia
               Orlando City SC v FC Cincinnati  0-0 (0-0)   @ Exploria Stadium › Orlando, Florida
               New York Red Bulls v Nashville SC  0-0 (0-0)   @ Red Bull Arena › Harrison, New Jersey
               New England Revolution v Houston Dynamo  3-0 (1-0)   @ Gillette Stadium › Foxborough, Massachusetts
-    20.30     St. Louis City v Charlotte  3-1 (2-1)   @ CITYPARK › St. Louis, Missouri
+    20:30     St. Louis City v Charlotte  3-1 (2-1)   @ CITYPARK › St. Louis, Missouri
               Chicago Fire v New York City FC  1-1 (0-1)   @ Soldier Field › Chicago, Illinois
               FC Dallas v Los Angeles Galaxy  3-1 (1-1)   @ Toyota Stadium › Frisco, Texas
-» Regular Season - 4
+▪ Regular Season - 4
   Sat Mar 4
-    20.30     Austin v CF Montreal  1-0 (0-0)   @ Q2 Stadium › Austin, Texas
-    21.30     Colorado Rapids v Sporting Kansas City  0-0 (0-0)   @ Dick's Sporting Goods Park › Commerce City, Colorado
-    22.30     San Jose Earthquakes v Vancouver Whitecaps  2-1 (0-1)   @ PayPal Park › San Jose, California
+    20:30     Austin v CF Montreal  1-0 (0-0)   @ Q2 Stadium › Austin, Texas
+    21:30     Colorado Rapids v Sporting Kansas City  0-0 (0-0)   @ Dick's Sporting Goods Park › Commerce City, Colorado
+    22:30     San Jose Earthquakes v Vancouver Whitecaps  2-1 (0-1)   @ PayPal Park › San Jose, California
               Seattle Sounders v Real Salt Lake  2-0 (1-0)   @ Lumen Field › Seattle, Washington
   Fri Mar 10
-    17.00     Vancouver Whitecaps v FC Dallas  1-1 (1-1)   @ BC Place › Vancouver, British Columbia
+    17:00     Vancouver Whitecaps v FC Dallas  1-1 (1-1)   @ BC Place › Vancouver, British Columbia
   Sat Mar 11
-    12.00     Charlotte v Atlanta United FC  0-3 (0-3)   @ Bank of America Stadium › Charlotte, North Carolina
-    19.30     Philadelphia Union v Chicago Fire  1-0 (0-0)   @ Subaru Park › Chester, Pennsylvania
+    12:00     Charlotte v Atlanta United FC  0-3 (0-3)   @ Bank of America Stadium › Charlotte, North Carolina
+    19:30     Philadelphia Union v Chicago Fire  1-0 (0-0)   @ Subaru Park › Chester, Pennsylvania
               Toronto FC v Columbus Crew  1-1 (1-0)   @ BMO Field › Toronto, Ontario
               DC United v Orlando City SC  1-1 (0-0)   @ Audi Field › Washington, District of Columbia
               New York City FC v Inter Miami  1-0 (1-0)   @ Yankee Stadium › New York City
-» Regular Season - 5
+▪ Regular Season - 5
   Sat Mar 11
-    19.30     FC Cincinnati v Seattle Sounders  1-0 (0-0)   @ TQL Stadium › Cincinnati, Ohio
-    20.30     Minnesota United FC v New York Red Bulls  1-1 (1-0)   @ Allianz Field › Saint Paul, Minnesota
+    19:30     FC Cincinnati v Seattle Sounders  1-0 (0-0)   @ TQL Stadium › Cincinnati, Ohio
+    20:30     Minnesota United FC v New York Red Bulls  1-1 (1-0)   @ Allianz Field › Saint Paul, Minnesota
               Nashville SC v CF Montreal  2-0 (1-0)   @ GEODIS Park › Nashville, Tennessee
               Sporting Kansas City v Los Angeles Galaxy  0-0 (0-0)   @ Children's Mercy Park › Kansas City, Kansas
-    21.30     Real Salt Lake v Austin  1-2 (1-2)   @ America First Field › Sandy, Utah
-    22.30     San Jose Earthquakes v Colorado Rapids  1-0 (0-0)   @ PayPal Park › San Jose, California
+    21:30     Real Salt Lake v Austin  1-2 (1-2)   @ America First Field › Sandy, Utah
+    22:30     San Jose Earthquakes v Colorado Rapids  1-0 (0-0)   @ PayPal Park › San Jose, California
               Portland Timbers v St. Louis City  1-2 (1-1)   @ Providence Park › Portland, Oregon
   Sun Mar 12
-    22.30     Los Angeles FC v New England Revolution  4-0 (1-0)   @ BMO Stadium › Los Angeles, California
+    22:30     Los Angeles FC v New England Revolution  4-0 (1-0)   @ BMO Stadium › Los Angeles, California
   Sat Mar 18
-    16.00     Seattle Sounders v Los Angeles FC  0-0 (0-0)   @ Lumen Field › Seattle, Washington
-    19.30     Toronto FC v Inter Miami  2-0 (0-0)   @ BMO Field › Toronto, Ontario
-» Regular Season - 6
+    16:00     Seattle Sounders v Los Angeles FC  0-0 (0-0)   @ Lumen Field › Seattle, Washington
+    19:30     Toronto FC v Inter Miami  2-0 (0-0)   @ BMO Field › Toronto, Ontario
+▪ Regular Season - 6
   Sat Mar 18
-    19.30     New England Revolution v Nashville SC  1-0 (0-0)   @ Gillette Stadium › Foxborough, Massachusetts
+    19:30     New England Revolution v Nashville SC  1-0 (0-0)   @ Gillette Stadium › Foxborough, Massachusetts
               CF Montreal v Philadelphia Union  3-2 (1-0)   @ Stade Olympique › Montréal, QC
               New York City FC v DC United  3-2 (2-0)   @ Yankee Stadium › New York City
               New York Red Bulls v Columbus Crew  2-1 (0-1)   @ Red Bull Arena › Harrison, New Jersey
               Orlando City SC v Charlotte  1-2 (0-2)   @ Exploria Stadium › Orlando, Florida
               Atlanta United FC v Portland Timbers  5-1 (2-0)   @ Mercedes-Benz Stadium › Atlanta, Georgia
-    20.30     St. Louis City v San Jose Earthquakes  3-0 (2-0)   @ CITYPARK › St. Louis, Missouri
+    20:30     St. Louis City v San Jose Earthquakes  3-0 (2-0)   @ CITYPARK › St. Louis, Missouri
               Chicago Fire v FC Cincinnati  3-3 (2-1)   @ Soldier Field › Chicago, Illinois
               Houston Dynamo v Austin  2-0 (0-0)   @ Shell Energy Stadium › Houston, Texas
               FC Dallas v Sporting Kansas City  2-1 (0-1)   @ Toyota Stadium › Frisco, Texas
-» Regular Season - 7
+▪ Regular Season - 7
   Sat Mar 18
-    21.30     Colorado Rapids v Minnesota United FC  1-2 (0-0)   @ Dick's Sporting Goods Park › Commerce City, Colorado
-    22.30     Los Angeles Galaxy v Vancouver Whitecaps  1-1 (1-1)   @ Dignity Health Sports Park › Carson, California
+    21:30     Colorado Rapids v Minnesota United FC  1-2 (0-0)   @ Dick's Sporting Goods Park › Commerce City, Colorado
+    22:30     Los Angeles Galaxy v Vancouver Whitecaps  1-1 (1-1)   @ Dignity Health Sports Park › Carson, California
   Sat Mar 25
-    16.30     Portland Timbers v Los Angeles Galaxy  0-0 (0-0)   @ Providence Park › Portland, Oregon
-    19.30     Inter Miami v Chicago Fire  2-3 (1-2)   @ DRV PNK Stadium › Fort Lauderdale, Florida
+    16:30     Portland Timbers v Los Angeles Galaxy  0-0 (0-0)   @ Providence Park › Portland, Oregon
+    19:30     Inter Miami v Chicago Fire  2-3 (1-2)   @ DRV PNK Stadium › Fort Lauderdale, Florida
               Charlotte v New York Red Bulls  1-1 (0-1)   @ Bank of America Stadium › Charlotte, North Carolina
               DC United v New England Revolution  1-2 (1-0)   @ Audi Field › Washington, District of Columbia
               Philadelphia Union v Orlando City SC  1-2 (1-2)   @ Subaru Park › Chester, Pennsylvania
               Columbus Crew v Atlanta United FC  6-1 (1-0)   @ Lower.com Field › Columbus, Ohio
-    20.30     Nashville SC v FC Cincinnati  0-1 (0-0)   @ GEODIS Park › Nashville, Tennessee
+    20:30     Nashville SC v FC Cincinnati  0-1 (0-0)   @ GEODIS Park › Nashville, Tennessee
               Minnesota United FC v Vancouver Whitecaps  1-1 (1-0)   @ Allianz Field › Saint Paul, Minnesota
-» Regular Season - 8
+▪ Regular Season - 8
   Sat Mar 25
-    20.30     Austin v Colorado Rapids  1-1 (1-0)   @ Q2 Stadium › Austin, Texas
+    20:30     Austin v Colorado Rapids  1-1 (1-0)   @ Q2 Stadium › Austin, Texas
               Sporting Kansas City v Seattle Sounders  1-4 (1-1)   @ Children's Mercy Park › Kansas City, Kansas
               Houston Dynamo v New York City FC  1-0 (0-0)   @ Shell Energy Stadium › Houston, Texas
-    22.30     Real Salt Lake v St. Louis City  0-4 (0-0)   @ America First Field › Sandy, Utah
-    23.30     San Jose Earthquakes v Toronto FC  0-0 (0-0)   @ PayPal Park › San Jose, California
+    22:30     Real Salt Lake v St. Louis City  0-4 (0-0)   @ America First Field › Sandy, Utah
+    23:30     San Jose Earthquakes v Toronto FC  0-0 (0-0)   @ PayPal Park › San Jose, California
               Los Angeles FC v FC Dallas  2-1 (1-0)   @ BMO Stadium › Los Angeles, California
   Sat Apr 1
-    19.30     New England Revolution v New York City FC  1-1 (0-0)   @ Gillette Stadium › Foxborough, Massachusetts
+    19:30     New England Revolution v New York City FC  1-1 (0-0)   @ Gillette Stadium › Foxborough, Massachusetts
               Los Angeles Galaxy v Seattle Sounders  1-2 (0-2)   @ Dignity Health Sports Park › Carson, California
               Toronto FC v Charlotte  2-2 (2-0)   @ BMO Field › Toronto, Ontario
               Orlando City SC v Nashville SC  0-2 (0-1)   @ Exploria Stadium › Orlando, Florida
-» Regular Season - 9
+▪ Regular Season - 9
   Sat Apr 1
-    19.30     FC Cincinnati v Inter Miami  1-0 (1-0)   @ TQL Stadium › Cincinnati, Ohio
+    19:30     FC Cincinnati v Inter Miami  1-0 (1-0)   @ TQL Stadium › Cincinnati, Ohio
               Philadelphia Union v Sporting Kansas City  0-0 (0-0)   @ Subaru Park › Chester, Pennsylvania
               Columbus Crew v Real Salt Lake  4-0 (2-0)   @ Lower.com Field › Columbus, Ohio
               Atlanta United FC v New York Red Bulls  1-0 (1-0)   @ Mercedes-Benz Stadium › Atlanta, Georgia
-    20.30     St. Louis City v Minnesota United FC  0-1 (0-0)   @ CITYPARK › St. Louis, Missouri
+    20:30     St. Louis City v Minnesota United FC  0-1 (0-0)   @ CITYPARK › St. Louis, Missouri
               Chicago Fire v DC United  0-0 (0-0)   @ Soldier Field › Chicago, Illinois
               FC Dallas v Portland Timbers  1-1 (0-0)   @ Toyota Stadium › Frisco, Texas
-    21.30     Colorado Rapids v Los Angeles FC  0-0 (0-0)   @ Dick's Sporting Goods Park › Commerce City, Colorado
-    22.30     Vancouver Whitecaps v CF Montreal  5-0 (3-0)   @ BC Place › Vancouver, British Columbia
+    21:30     Colorado Rapids v Los Angeles FC  0-0 (0-0)   @ Dick's Sporting Goods Park › Commerce City, Colorado
+    22:30     Vancouver Whitecaps v CF Montreal  5-0 (3-0)   @ BC Place › Vancouver, British Columbia
               San Jose Earthquakes v Houston Dynamo  2-1 (1-1)   @ PayPal Park › San Jose, California
-» Regular Season - 10
+▪ Regular Season - 10
   Sat Apr 8
-    19.30     Los Angeles FC v Austin  3-0 (1-0)   @ BMO Stadium › Los Angeles, California
+    19:30     Los Angeles FC v Austin  3-0 (1-0)   @ BMO Stadium › Los Angeles, California
               FC Cincinnati v Philadelphia Union  1-0 (0-0)   @ TQL Stadium › Cincinnati, Ohio
               Inter Miami v FC Dallas  0-1 (0-1)   @ DRV PNK Stadium › Fort Lauderdale, Florida
               New England Revolution v CF Montreal  4-0 (2-0)   @ Gillette Stadium › Foxborough, Massachusetts
               DC United v Columbus Crew  0-2 (0-1)   @ Audi Field › Washington, District of Columbia
               New York Red Bulls v San Jose Earthquakes  1-1 (0-0)   @ Red Bull Arena › Harrison, New Jersey
               New York City FC v Atlanta United FC  1-1 (0-0)   @ Yankee Stadium › New York City
-    20.30     Sporting Kansas City v Colorado Rapids  0-1 (0-0)   @ Children's Mercy Park › Kansas City, Kansas
+    20:30     Sporting Kansas City v Colorado Rapids  0-1 (0-0)   @ Children's Mercy Park › Kansas City, Kansas
               Nashville SC v Toronto FC  0-0 (0-0)   @ GEODIS Park › Nashville, Tennessee
               Houston Dynamo v Los Angeles Galaxy  3-0 (1-0)   @ Shell Energy Stadium › Houston, Texas
-» Regular Season - 11
+▪ Regular Season - 11
   Sat Apr 8
-    20.30     Chicago Fire v Minnesota United FC  2-1 (2-0)   @ Soldier Field › Chicago, Illinois
-    21.30     Real Salt Lake v Charlotte  3-1 (0-1)   @ America First Field › Sandy, Utah
-    22.30     Vancouver Whitecaps v Portland Timbers  1-0 (0-0)   @ BC Place › Vancouver, British Columbia
+    20:30     Chicago Fire v Minnesota United FC  2-1 (2-0)   @ Soldier Field › Chicago, Illinois
+    21:30     Real Salt Lake v Charlotte  3-1 (0-1)   @ America First Field › Sandy, Utah
+    22:30     Vancouver Whitecaps v Portland Timbers  1-0 (0-0)   @ BC Place › Vancouver, British Columbia
               Seattle Sounders v St. Louis City  3-0 (0-0)   @ Lumen Field › Seattle, Washington
   Sat Apr 15
-    19.30     CF Montreal v DC United  0-1 (0-0)   @ Stade Saputo › Montreal, Quebec
+    19:30     CF Montreal v DC United  0-1 (0-0)   @ Stade Saputo › Montreal, Quebec
               Charlotte v Colorado Rapids  2-2 (0-0)   @ Bank of America Stadium › Charlotte, North Carolina
               Columbus Crew v New England Revolution  1-1 (0-0)   @ Lower.com Field › Columbus, Ohio
               New York City FC v Nashville SC  2-1 (2-0)   @ Citi Field › New York, New York
               New York Red Bulls v Houston Dynamo  1-1 (0-0)   @ Red Bull Arena › Harrison, New Jersey
               Toronto FC v Atlanta United FC  2-2 (1-1)   @ BMO Field › Toronto, Ontario
-» Regular Season - 12
+▪ Regular Season - 12
   Sat Apr 15
-    20.30     FC Dallas v Real Salt Lake  2-1 (1-0)   @ Toyota Stadium › Frisco, Texas
+    20:30     FC Dallas v Real Salt Lake  2-1 (1-0)   @ Toyota Stadium › Frisco, Texas
               Austin v Vancouver Whitecaps  0-0 (0-0)   @ Q2 Stadium › Austin, Texas
               Minnesota United FC v Orlando City SC  1-2 (0-0)   @ Allianz Field › Saint Paul, Minnesota
               Chicago Fire v Philadelphia Union  2-2 (1-0)   @ Soldier Field › Chicago, Illinois
               St. Louis City v FC Cincinnati  5-1 (3-0)   @ CITYPARK › St. Louis, Missouri
-    22.30     Portland Timbers v Seattle Sounders  4-1 (0-0)   @ Providence Park › Portland, Oregon
+    22:30     Portland Timbers v Seattle Sounders  4-1 (0-0)   @ Providence Park › Portland, Oregon
               San Jose Earthquakes v Sporting Kansas City  3-0 (2-0)   @ PayPal Park › San Jose, California
   Sun Apr 16
-    16.30     Los Angeles Galaxy v Los Angeles FC  2-3 (1-1)   @ Dignity Health Sports Park › Carson, California
+    16:30     Los Angeles Galaxy v Los Angeles FC  2-3 (1-1)   @ Dignity Health Sports Park › Carson, California
   Sat Apr 22
-    19.30     Orlando City SC v DC United  1-3 (1-1)   @ Exploria Stadium › Orlando, Florida
+    19:30     Orlando City SC v DC United  1-3 (1-1)   @ Exploria Stadium › Orlando, Florida
               Philadelphia Union v Toronto FC  4-2 (3-0)   @ Subaru Park › Chester, Pennsylvania
-» Regular Season - 13
+▪ Regular Season - 13
   Sat Apr 22
-    19.30     FC Cincinnati v Portland Timbers  2-1 (1-0)   @ TQL Stadium › Cincinnati, Ohio
+    19:30     FC Cincinnati v Portland Timbers  2-1 (1-0)   @ TQL Stadium › Cincinnati, Ohio
               Charlotte v Columbus Crew  1-0 (1-0)   @ Bank of America Stadium › Charlotte, North Carolina
               CF Montreal v New York Red Bulls  2-0 (1-0)   @ Stade Saputo › Montreal, Quebec
               New York City FC v FC Dallas  3-1 (1-0)   @ Citi Field › New York, New York
               New England Revolution v Sporting Kansas City  2-1 (2-0)   @ Gillette Stadium › Foxborough, Massachusetts
-    20.30     Nashville SC v Los Angeles FC  1-1 (1-0)   @ GEODIS Park › Nashville, Tennessee
+    20:30     Nashville SC v Los Angeles FC  1-1 (1-0)   @ GEODIS Park › Nashville, Tennessee
               Houston Dynamo v Inter Miami  1-0 (0-0)   @ Shell Energy Stadium › Houston, Texas
-    21.30     Colorado Rapids v St. Louis City  1-1 (0-0)   @ Dick's Sporting Goods Park › Commerce City, Colorado
+    21:30     Colorado Rapids v St. Louis City  1-1 (0-0)   @ Dick's Sporting Goods Park › Commerce City, Colorado
               Real Salt Lake v San Jose Earthquakes  3-1 (1-0)   @ America First Field › Sandy, Utah
-    22.30     Seattle Sounders v Minnesota United FC  1-0 (0-0)   @ Lumen Field › Seattle, Washington
-» Regular Season - 14
+    22:30     Seattle Sounders v Minnesota United FC  1-0 (0-0)   @ Lumen Field › Seattle, Washington
+▪ Regular Season - 14
   Sat Apr 22
-    22.30     Los Angeles Galaxy v Austin  2-0 (0-0)   @ Dignity Health Sports Park › Carson, California
+    22:30     Los Angeles Galaxy v Austin  2-0 (0-0)   @ Dignity Health Sports Park › Carson, California
   Sun Apr 23
-    16.30     Atlanta United FC v Chicago Fire  2-1 (1-0)   @ Mercedes-Benz Stadium › Atlanta, Georgia
+    16:30     Atlanta United FC v Chicago Fire  2-1 (1-0)   @ Mercedes-Benz Stadium › Atlanta, Georgia
   Sat Apr 29
-    13.30     Nashville SC v Atlanta United FC  3-1 (1-0)   @ GEODIS Park › Nashville, Tennessee
-    19.30     New England Revolution v FC Cincinnati  1-1 (1-1)   @ Gillette Stadium › Foxborough, Massachusetts
+    13:30     Nashville SC v Atlanta United FC  3-1 (1-0)   @ GEODIS Park › Nashville, Tennessee
+    19:30     New England Revolution v FC Cincinnati  1-1 (1-1)   @ Gillette Stadium › Foxborough, Massachusetts
               Toronto FC v New York City FC  1-0 (0-0)   @ BMO Field › Toronto, Ontario
               Orlando City SC v Los Angeles Galaxy  2-0 (1-0)   @ Exploria Stadium › Orlando, Florida
               DC United v Charlotte  3-0 (1-0)   @ Audi Field › Washington, District of Columbia
               Columbus Crew v Inter Miami  1-2 (1-2)   @ Lower.com Field › Columbus, Ohio
-    20.30     Sporting Kansas City v CF Montreal  0-2 (0-2)   @ Children's Mercy Park › Kansas City, Kansas
+    20:30     Sporting Kansas City v CF Montreal  0-2 (0-2)   @ Children's Mercy Park › Kansas City, Kansas
               St. Louis City v Portland Timbers  1-2 (0-0)   @ CITYPARK › St. Louis, Missouri
-» Regular Season - 15
+▪ Regular Season - 15
   Sat Apr 29
-    20.30     Austin v San Jose Earthquakes  2-2 (1-1)   @ Q2 Stadium › Austin, Texas
+    20:30     Austin v San Jose Earthquakes  2-2 (1-1)   @ Q2 Stadium › Austin, Texas
               Chicago Fire v New York Red Bulls  1-1 (1-0)   @ Soldier Field › Chicago, Illinois
-    21.30     Real Salt Lake v Seattle Sounders  0-0 (0-0)   @ America First Field › Sandy, Utah
-    22.30     Vancouver Whitecaps v Colorado Rapids  0-0 (0-0)   @ BC Place › Vancouver, British Columbia
+    21:30     Real Salt Lake v Seattle Sounders  0-0 (0-0)   @ America First Field › Sandy, Utah
+    22:30     Vancouver Whitecaps v Colorado Rapids  0-0 (0-0)   @ BC Place › Vancouver, British Columbia
   Sun Apr 30
-    21.00     Minnesota United FC v FC Dallas  0-0 (0-0)   @ Allianz Field › Saint Paul, Minnesota
+    21:00     Minnesota United FC v FC Dallas  0-0 (0-0)   @ Allianz Field › Saint Paul, Minnesota
   Sat May 6
-    19.30     San Jose Earthquakes v Los Angeles FC  2-1 (1-1)   @ Levi's Stadium › Santa Clara, California
+    19:30     San Jose Earthquakes v Los Angeles FC  2-1 (1-1)   @ Levi's Stadium › Santa Clara, California
               Toronto FC v New England Revolution  0-2 (0-1)   @ BMO Field › Toronto, Ontario
               CF Montreal v Orlando City SC  2-0 (0-0)   @ Stade Saputo › Montreal, Quebec
               Inter Miami v Atlanta United FC  2-1 (0-0)   @ DRV PNK Stadium › Fort Lauderdale, Florida
               New York Red Bulls v Philadelphia Union  0-1 (0-1)   @ Red Bull Arena › Harrison, New Jersey
-» Regular Season - 16
+▪ Regular Season - 16
   Sat May 6
-    19.30     FC Cincinnati v DC United  2-1 (0-0)   @ TQL Stadium › Cincinnati, Ohio
+    19:30     FC Cincinnati v DC United  2-1 (0-0)   @ TQL Stadium › Cincinnati, Ohio
               Charlotte v New York City FC  3-2 (2-1)   @ Bank of America Stadium › Charlotte, North Carolina
-    20.30     Nashville SC v Chicago Fire  3-0 (1-0)   @ GEODIS Park › Nashville, Tennessee
+    20:30     Nashville SC v Chicago Fire  3-0 (1-0)   @ GEODIS Park › Nashville, Tennessee
               Houston Dynamo v Real Salt Lake  0-0 (0-0)   @ Shell Energy Stadium › Houston, Texas
-    22.30     Los Angeles Galaxy v Colorado Rapids  1-3 (0-1)   @ Dignity Health Sports Park › Carson, California
+    22:30     Los Angeles Galaxy v Colorado Rapids  1-3 (0-1)   @ Dignity Health Sports Park › Carson, California
               Portland Timbers v Austin  2-2 (1-0)   @ Providence Park › Portland, Oregon
               Vancouver Whitecaps v Minnesota United FC  3-2 (1-1)   @ BC Place › Vancouver, British Columbia
   Sun May 7
-    16.30     Seattle Sounders v Sporting Kansas City  1-2 (0-2)   @ Lumen Field › Seattle, Washington
+    16:30     Seattle Sounders v Sporting Kansas City  1-2 (0-2)   @ Lumen Field › Seattle, Washington
   Sat May 13
-    13.00     Chicago Fire v St. Louis City  1-0 (1-0)   @ Soldier Field › Chicago, Illinois
-    19.30     New York Red Bulls v New York City FC  1-0 (0-0)   @ Red Bull Arena › Harrison, New Jersey
-» Regular Season - 17
+    13:00     Chicago Fire v St. Louis City  1-0 (1-0)   @ Soldier Field › Chicago, Illinois
+    19:30     New York Red Bulls v New York City FC  1-0 (0-0)   @ Red Bull Arena › Harrison, New Jersey
+▪ Regular Season - 17
   Sat May 13
-    19.30     Columbus Crew v Orlando City SC  2-2 (2-0)   @ Lower.com Field › Columbus, Ohio
+    19:30     Columbus Crew v Orlando City SC  2-2 (2-0)   @ Lower.com Field › Columbus, Ohio
               Atlanta United FC v Charlotte  1-3 (0-1)   @ Mercedes-Benz Stadium › Atlanta, Georgia
               CF Montreal v Toronto FC  2-0 (0-0)   @ Stade Saputo › Montreal, Quebec
               DC United v Nashville SC  1-1 (0-0)   @ Audi Field › Washington, District of Columbia
               Inter Miami v New England Revolution  2-1 (2-1)   @ DRV PNK Stadium › Fort Lauderdale, Florida
-    20.30     Sporting Kansas City v Minnesota United FC  3-0 (2-0)   @ Children's Mercy Park › Kansas City, Kansas
+    20:30     Sporting Kansas City v Minnesota United FC  3-0 (2-0)   @ Children's Mercy Park › Kansas City, Kansas
               Austin v FC Dallas  0-1 (0-0)   @ Q2 Stadium › Austin, Texas
               Houston Dynamo v Seattle Sounders  0-1 (0-0)   @ Shell Energy Stadium › Houston, Texas
-    21.30     Colorado Rapids v Philadelphia Union  1-2 (1-1)   @ Dick's Sporting Goods Park › Commerce City, Colorado
+    21:30     Colorado Rapids v Philadelphia Union  1-2 (1-1)   @ Dick's Sporting Goods Park › Commerce City, Colorado
               Real Salt Lake v Los Angeles FC  0-3 (0-2)   @ America First Field › Sandy, Utah
-» Regular Season - 18
+▪ Regular Season - 18
   Sat May 13
-    22.30     Portland Timbers v Vancouver Whitecaps  3-1 (2-1)   @ Providence Park › Portland, Oregon
+    22:30     Portland Timbers v Vancouver Whitecaps  3-1 (2-1)   @ Providence Park › Portland, Oregon
   Sun May 14
-    21.30     Los Angeles Galaxy v San Jose Earthquakes  2-1 (0-0)   @ Dignity Health Sports Park › Carson, California
+    21:30     Los Angeles Galaxy v San Jose Earthquakes  2-1 (0-0)   @ Dignity Health Sports Park › Carson, California
   Wed May 17
-    19.30     FC Cincinnati v CF Montreal  3-0 (2-0)   @ TQL Stadium › Cincinnati, Ohio
+    19:30     FC Cincinnati v CF Montreal  3-0 (2-0)   @ TQL Stadium › Cincinnati, Ohio
               Columbus Crew v Los Angeles Galaxy  2-0 (2-0)   @ Lower.com Field › Columbus, Ohio
               Orlando City SC v New York City FC  1-1 (1-0)   @ Exploria Stadium › Orlando, Florida
               Charlotte v Chicago Fire  2-1 (0-1)   @ Bank of America Stadium › Charlotte, North Carolina
               Toronto FC v New York Red Bulls  0-0 (0-0)   @ BMO Field › Toronto, Ontario
               Philadelphia Union v DC United  0-0 (0-0)   @ Subaru Park › Chester, Pennsylvania
               Atlanta United FC v Colorado Rapids  4-0 (1-0)   @ Mercedes-Benz Stadium › Atlanta, Georgia
-    20.30     Nashville SC v Inter Miami  2-1 (1-0)   @ GEODIS Park › Nashville, Tennessee
-» Regular Season - 19
+    20:30     Nashville SC v Inter Miami  2-1 (1-0)   @ GEODIS Park › Nashville, Tennessee
+▪ Regular Season - 19
   Wed May 17
-    20.30     Minnesota United FC v Houston Dynamo  1-0 (1-0)   @ Allianz Field › Saint Paul, Minnesota
+    20:30     Minnesota United FC v Houston Dynamo  1-0 (1-0)   @ Allianz Field › Saint Paul, Minnesota
               FC Dallas v Vancouver Whitecaps  2-1 (1-1)   @ Toyota Stadium › Frisco, Texas
-    21.30     Real Salt Lake v Portland Timbers  0-0 (0-0)   @ America First Field › Sandy, Utah
-    22.30     Seattle Sounders v Austin  1-2 (0-1)   @ Lumen Field › Seattle, Washington
+    21:30     Real Salt Lake v Portland Timbers  0-0 (0-0)   @ America First Field › Sandy, Utah
+    22:30     Seattle Sounders v Austin  1-2 (0-1)   @ Lumen Field › Seattle, Washington
               Los Angeles FC v Sporting Kansas City  1-1 (1-1)   @ BMO Stadium › Los Angeles, California
   Sat May 20
-    19.30     New York Red Bulls v CF Montreal  2-1 (2-1)   @ Red Bull Arena › Harrison, New Jersey
+    19:30     New York Red Bulls v CF Montreal  2-1 (2-1)   @ Red Bull Arena › Harrison, New Jersey
               Philadelphia Union v New England Revolution  3-0 (0-0)   @ Subaru Park › Chester, Pennsylvania
               Inter Miami v Orlando City SC  1-3 (0-1)   @ DRV PNK Stadium › Fort Lauderdale, Florida
               FC Cincinnati v Columbus Crew  3-2 (2-1)   @ TQL Stadium › Cincinnati, Ohio
               DC United v Los Angeles Galaxy  3-0 (0-0)   @ Audi Field › Washington, District of Columbia
-» Regular Season - 20
+▪ Regular Season - 20
   Sat May 20
-    19.30     Charlotte v Nashville SC  1-2 (1-1)   @ Bank of America Stadium › Charlotte, North Carolina
-    20.30     Austin v Toronto FC  1-0 (0-0)   @ Q2 Stadium › Austin, Texas
+    19:30     Charlotte v Nashville SC  1-2 (1-1)   @ Bank of America Stadium › Charlotte, North Carolina
+    20:30     Austin v Toronto FC  1-0 (0-0)   @ Q2 Stadium › Austin, Texas
               Chicago Fire v Atlanta United FC  3-3 (1-1)   @ Soldier Field › Chicago, Illinois
               FC Dallas v Houston Dynamo  1-1 (0-0)   @ Toyota Stadium › Frisco, Texas
-    21.30     St. Louis City v Sporting Kansas City  4-0 (2-0)   @ CITYPARK › St. Louis, Missouri
+    21:30     St. Louis City v Sporting Kansas City  4-0 (2-0)   @ CITYPARK › St. Louis, Missouri
               Colorado Rapids v Real Salt Lake  2-3 (1-3)   @ Dick's Sporting Goods Park › Commerce City, Colorado
-    22.30     Vancouver Whitecaps v Seattle Sounders  2-0 (1-0)   @ BC Place › Vancouver, British Columbia
+    22:30     Vancouver Whitecaps v Seattle Sounders  2-0 (1-0)   @ BC Place › Vancouver, British Columbia
               Los Angeles FC v San Jose Earthquakes  2-1 (1-0)   @ BMO Stadium › Los Angeles, California
               Portland Timbers v Minnesota United FC  0-1 (0-0)   @ Providence Park › Portland, Oregon
   Sat May 27
-    19.30     Toronto FC v DC United  2-1 (1-0)   @ BMO Field › Toronto, Ontario
-» Regular Season - 21
+    19:30     Toronto FC v DC United  2-1 (1-0)   @ BMO Field › Toronto, Ontario
+▪ Regular Season - 21
   Sat May 27
-    19.30     New England Revolution v Chicago Fire  3-3 (2-2)   @ Gillette Stadium › Foxborough, Massachusetts
+    19:30     New England Revolution v Chicago Fire  3-3 (2-2)   @ Gillette Stadium › Foxborough, Massachusetts
               CF Montreal v Inter Miami  1-0 (0-0)   @ Stade Saputo › Montreal, Quebec
               New York City FC v Philadelphia Union  1-3 (1-2)   @ Citi Field › New York, New York
               Orlando City SC v Atlanta United FC  1-1 (1-0)   @ Exploria Stadium › Orlando, Florida
-    20.30     Minnesota United FC v Real Salt Lake  1-1 (1-1)   @ Allianz Field › Saint Paul, Minnesota
+    20:30     Minnesota United FC v Real Salt Lake  1-1 (1-1)   @ Allianz Field › Saint Paul, Minnesota
               St. Louis City v Vancouver Whitecaps  3-1 (2-0)   @ CITYPARK › St. Louis, Missouri
               Houston Dynamo v Austin  2-1 (1-1)   @ Shell Energy Stadium › Houston, Texas
-    21.30     Colorado Rapids v FC Cincinnati  0-1 (0-1)   @ Dick's Sporting Goods Park › Commerce City, Colorado
-    22.30     San Jose Earthquakes v FC Dallas  1-1 (0-0)   @ PayPal Park › San Jose, California
+    21:30     Colorado Rapids v FC Cincinnati  0-1 (0-1)   @ Dick's Sporting Goods Park › Commerce City, Colorado
+    22:30     San Jose Earthquakes v FC Dallas  1-1 (0-0)   @ PayPal Park › San Jose, California
               Seattle Sounders v New York Red Bulls  1-0 (1-0)   @ Lumen Field › Seattle, Washington
-» Regular Season - 22
+▪ Regular Season - 22
   Sat May 27
-    22.30     Los Angeles Galaxy v Charlotte  0-1 (0-0)   @ Dignity Health Sports Park › Carson, California
+    22:30     Los Angeles Galaxy v Charlotte  0-1 (0-0)   @ Dignity Health Sports Park › Carson, California
   Sun May 28
-    15.00     Sporting Kansas City v Portland Timbers  4-1 (1-1)   @ Children's Mercy Park › Kansas City, Kansas
-    20.30     Nashville SC v Columbus Crew  3-1 (0-1)   @ GEODIS Park › Nashville, Tennessee
+    15:00     Sporting Kansas City v Portland Timbers  4-1 (1-1)   @ Children's Mercy Park › Kansas City, Kansas
+    20:30     Nashville SC v Columbus Crew  3-1 (0-1)   @ GEODIS Park › Nashville, Tennessee
   Wed May 31
-    19.00     Atlanta United FC v New England Revolution  3-3 (0-2)   @ Mercedes-Benz Stadium › Atlanta, Georgia
-    19.30     New York City FC v FC Cincinnati  1-3 (0-1)   @ Yankee Stadium › New York City
+    19:00     Atlanta United FC v New England Revolution  3-3 (0-2)   @ Mercedes-Benz Stadium › Atlanta, Georgia
+    19:30     New York City FC v FC Cincinnati  1-3 (0-1)   @ Yankee Stadium › New York City
               Columbus Crew v Colorado Rapids  3-2 (1-1)   @ Lower.com Field › Columbus, Ohio
               DC United v CF Montreal  2-2 (1-0)   @ Audi Field › Washington, District of Columbia
               Inter Miami v New York Red Bulls  0-1 (0-0)   @ DRV PNK Stadium › Fort Lauderdale, Florida
               Toronto FC v Chicago Fire  0-0 (0-0)   @ BMO Field › Toronto, Ontario
               Philadelphia Union v Charlotte  1-0 (0-0)   @ Subaru Park › Chester, Pennsylvania
-» Regular Season - 23
+▪ Regular Season - 23
   Wed May 31
-    20.30     Sporting Kansas City v FC Dallas  2-1 (1-0)   @ Children's Mercy Park › Kansas City, Kansas
+    20:30     Sporting Kansas City v FC Dallas  2-1 (1-0)   @ Children's Mercy Park › Kansas City, Kansas
               Austin v Minnesota United FC  2-1 (1-1)   @ Q2 Stadium › Austin, Texas
-    21.30     Real Salt Lake v Los Angeles Galaxy  2-3 (0-1)   @ America First Field › Sandy, Utah
-    22.30     Seattle Sounders v San Jose Earthquakes  0-1 (0-0)   @ Lumen Field › Seattle, Washington
+    21:30     Real Salt Lake v Los Angeles Galaxy  2-3 (0-1)   @ America First Field › Sandy, Utah
+    22:30     Seattle Sounders v San Jose Earthquakes  0-1 (0-0)   @ Lumen Field › Seattle, Washington
               Vancouver Whitecaps v Houston Dynamo  6-2 (2-2)   @ BC Place › Vancouver, British Columbia
   Sat Jun 3
-    15.30     New York City FC v New England Revolution  0-0 (0-0)   @ Yankee Stadium › New York City
-    16.30     Seattle Sounders v Portland Timbers  0-0 (0-0)   @ Lumen Field › Seattle, Washington
-    19.30     New York Red Bulls v Orlando City SC  0-3 (0-1)   @ Red Bull Arena › Harrison, New Jersey
+    15:30     New York City FC v New England Revolution  0-0 (0-0)   @ Yankee Stadium › New York City
+    16:30     Seattle Sounders v Portland Timbers  0-0 (0-0)   @ Lumen Field › Seattle, Washington
+    19:30     New York Red Bulls v Orlando City SC  0-3 (0-1)   @ Red Bull Arena › Harrison, New Jersey
               Inter Miami v DC United  1-2 (0-0)   @ DRV PNK Stadium › Fort Lauderdale, Florida
               Philadelphia Union v CF Montreal  3-0 (2-0)   @ Subaru Park › Chester, Pennsylvania
-» Regular Season - 24
+▪ Regular Season - 24
   Sat Jun 3
-    19.30     Columbus Crew v Charlotte  4-2 (3-0)   @ Lower.com Field › Columbus, Ohio
+    19:30     Columbus Crew v Charlotte  4-2 (3-0)   @ Lower.com Field › Columbus, Ohio
               FC Cincinnati v Chicago Fire  1-0 (0-0)   @ TQL Stadium › Cincinnati, Ohio
-    20.30     Austin v Real Salt Lake  1-2 (0-1)   @ Q2 Stadium › Austin, Texas
+    20:30     Austin v Real Salt Lake  1-2 (0-1)   @ Q2 Stadium › Austin, Texas
               FC Dallas v Nashville SC  1-2 (1-1)   @ Toyota Stadium › Frisco, Texas
               St. Louis City v Houston Dynamo  3-0 (1-0)   @ CITYPARK › St. Louis, Missouri
               Minnesota United FC v Toronto FC  1-1 (0-0)   @ Allianz Field › Saint Paul, Minnesota
-    21.30     Colorado Rapids v San Jose Earthquakes  0-0 (0-0)   @ Dick's Sporting Goods Park › Commerce City, Colorado
-    22.30     Vancouver Whitecaps v Sporting Kansas City  1-1 (0-1)   @ BC Place › Vancouver, British Columbia
+    21:30     Colorado Rapids v San Jose Earthquakes  0-0 (0-0)   @ Dick's Sporting Goods Park › Commerce City, Colorado
+    22:30     Vancouver Whitecaps v Sporting Kansas City  1-1 (0-1)   @ BC Place › Vancouver, British Columbia
   Wed Jun 7
-    20.30     FC Dallas v St. Louis City  2-0 (0-0)   @ Toyota Stadium › Frisco, Texas
-    22.30     Los Angeles FC v Atlanta United FC  0-0 (0-0)   @ BMO Stadium › Los Angeles, California
-» Regular Season - 25
+    20:30     FC Dallas v St. Louis City  2-0 (0-0)   @ Toyota Stadium › Frisco, Texas
+    22:30     Los Angeles FC v Atlanta United FC  0-0 (0-0)   @ BMO Stadium › Los Angeles, California
+▪ Regular Season - 25
   Sat Jun 10
-    19.30     Charlotte v Seattle Sounders  3-3 (1-2)   @ Bank of America Stadium › Charlotte, North Carolina
+    19:30     Charlotte v Seattle Sounders  3-3 (1-2)   @ Bank of America Stadium › Charlotte, North Carolina
               Atlanta United FC v DC United  3-1 (1-1)   @ Mercedes-Benz Stadium › Atlanta, Georgia
               Toronto FC v Nashville SC  1-1 (1-0)   @ BMO Field › Toronto, Ontario
               Orlando City SC v Colorado Rapids  2-0 (0-0)   @ Exploria Stadium › Orlando, Florida
               New England Revolution v Inter Miami  3-1 (2-0)   @ Gillette Stadium › Foxborough, Massachusetts
               CF Montreal v Minnesota United FC  4-0 (2-0)   @ Stade Saputo › Montreal, Quebec
-    20.30     Chicago Fire v Columbus Crew  1-2 (0-0)   @ Soldier Field › Chicago, Illinois
+    20:30     Chicago Fire v Columbus Crew  1-2 (0-0)   @ Soldier Field › Chicago, Illinois
               Houston Dynamo v Los Angeles FC  4-0 (1-0)   @ Shell Energy Stadium › Houston, Texas
               Sporting Kansas City v Austin  4-1 (1-0)   @ Children's Mercy Park › Kansas City, Kansas
-    21.30     Real Salt Lake v New York City FC  0-0 (0-0)   @ America First Field › Sandy, Utah
-» Regular Season - 26
+    21:30     Real Salt Lake v New York City FC  0-0 (0-0)   @ America First Field › Sandy, Utah
+▪ Regular Season - 26
   Sat Jun 10
-    22.30     San Jose Earthquakes v Philadelphia Union  2-1 (1-1)   @ PayPal Park › San Jose, California
+    22:30     San Jose Earthquakes v Philadelphia Union  2-1 (1-1)   @ PayPal Park › San Jose, California
               Vancouver Whitecaps v FC Cincinnati  1-1 (0-0)   @ BC Place › Vancouver, British Columbia
   Sun Jun 11
-    13.00     St. Louis City v Los Angeles Galaxy  1-1 (0-0)   @ CITYPARK › St. Louis, Missouri
-    22.00     Portland Timbers v FC Dallas  1-0 (1-0)   @ Providence Park › Portland, Oregon
+    13:00     St. Louis City v Los Angeles Galaxy  1-1 (0-0)   @ CITYPARK › St. Louis, Missouri
+    22:00     Portland Timbers v FC Dallas  1-0 (1-0)   @ Providence Park › Portland, Oregon
   Wed Jun 14
-    22.30     Los Angeles FC v Houston Dynamo  0-1 (0-1)   @ BMO Stadium › Los Angeles, California
+    22:30     Los Angeles FC v Houston Dynamo  0-1 (0-1)   @ BMO Stadium › Los Angeles, California
   Sat Jun 17
-    15.30     New York City FC v Columbus Crew  1-1 (0-0)   @ Yankee Stadium › New York City
-    19.30     DC United v Real Salt Lake  1-2 (0-1)   @ Audi Field › Washington, District of Columbia
+    15:30     New York City FC v Columbus Crew  1-1 (0-0)   @ Yankee Stadium › New York City
+    19:30     DC United v Real Salt Lake  1-2 (0-1)   @ Audi Field › Washington, District of Columbia
               New England Revolution v Orlando City SC  3-1 (0-0)   @ Gillette Stadium › Foxborough, Massachusetts
-    20.30     Nashville SC v St. Louis City  3-1 (1-1)   @ GEODIS Park › Nashville, Tennessee
+    20:30     Nashville SC v St. Louis City  3-1 (1-1)   @ GEODIS Park › Nashville, Tennessee
               Sporting Kansas City v Los Angeles FC  1-2 (1-0)   @ Children's Mercy Park › Kansas City, Kansas
-» Regular Season - 27
+▪ Regular Season - 27
   Sat Jun 17
-    22.30     San Jose Earthquakes v Portland Timbers  0-0 (0-0)   @ PayPal Park › San Jose, California
+    22:30     San Jose Earthquakes v Portland Timbers  0-0 (0-0)   @ PayPal Park › San Jose, California
   Wed Jun 21
-    19.30     Atlanta United FC v New York City FC  2-2 (1-1)   @ Mercedes-Benz Stadium › Atlanta, Georgia
+    19:30     Atlanta United FC v New York City FC  2-2 (1-1)   @ Mercedes-Benz Stadium › Atlanta, Georgia
               FC Cincinnati v Toronto FC  3-0 (1-0)   @ TQL Stadium › Cincinnati, Ohio
               CF Montreal v Nashville SC  1-0 (1-0)   @ Stade Saputo › Montreal, Quebec
               New York Red Bulls v Charlotte  2-2 (0-2)   @ Red Bull Arena › Harrison, New Jersey
               Orlando City SC v Philadelphia Union  2-2 (1-0)   @ Exploria Stadium › Orlando, Florida
-    20.30     St. Louis City v Real Salt Lake  1-3 (1-1)   @ CITYPARK › St. Louis, Missouri
+    20:30     St. Louis City v Real Salt Lake  1-3 (1-1)   @ CITYPARK › St. Louis, Missouri
               Houston Dynamo v San Jose Earthquakes  4-1 (2-1)   @ Shell Energy Stadium › Houston, Texas
-    22.30     Los Angeles FC v Seattle Sounders  1-0 (1-0)   @ BMO Stadium › Los Angeles, California
+    22:30     Los Angeles FC v Seattle Sounders  1-0 (1-0)   @ BMO Stadium › Los Angeles, California
               Portland Timbers v Chicago Fire  1-2 (1-1)   @ Providence Park › Portland, Oregon
-» Regular Season - 28
+▪ Regular Season - 28
   Wed Jun 21
-    21.30     Austin v FC Dallas  3-0 (2-0)   @ Q2 Stadium › Austin, Texas
-    22.30     Los Angeles Galaxy v Sporting Kansas City  2-2 (1-1)   @ Dignity Health Sports Park › Carson, California
+    21:30     Austin v FC Dallas  3-0 (2-0)   @ Q2 Stadium › Austin, Texas
+    22:30     Los Angeles Galaxy v Sporting Kansas City  2-2 (1-1)   @ Dignity Health Sports Park › Carson, California
   Sat Jun 24
-    19.30     DC United v FC Cincinnati  3-0 (3-0)   @ Audi Field › Washington, District of Columbia
+    19:30     DC United v FC Cincinnati  3-0 (3-0)   @ Audi Field › Washington, District of Columbia
               Columbus Crew v Nashville SC  2-0 (1-0)   @ Lower.com Field › Columbus, Ohio
               Charlotte v CF Montreal  0-0 (0-0)   @ Bank of America Stadium › Charlotte, North Carolina
               New England Revolution v Toronto FC  2-1 (1-1)   @ Gillette Stadium › Foxborough, Massachusetts
               New York Red Bulls v Atlanta United FC  4-0 (2-0)   @ Red Bull Arena › Harrison, New Jersey
               Philadelphia Union v Inter Miami  4-1 (3-0)   @ Subaru Park › Chester, Pennsylvania
-    20.30     Sporting Kansas City v Chicago Fire  0-1 (0-0)   @ Children's Mercy Park › Kansas City, Kansas
-    21.30     Real Salt Lake v Minnesota United FC  2-2 (0-2)   @ America First Field › Sandy, Utah
-» Regular Season - 29
+    20:30     Sporting Kansas City v Chicago Fire  0-1 (0-0)   @ Children's Mercy Park › Kansas City, Kansas
+    21:30     Real Salt Lake v Minnesota United FC  2-2 (0-2)   @ America First Field › Sandy, Utah
+▪ Regular Season - 29
   Sat Jun 24
-    21.30     Austin v Houston Dynamo  3-0 (2-0)   @ Q2 Stadium › Austin, Texas
+    21:30     Austin v Houston Dynamo  3-0 (2-0)   @ Q2 Stadium › Austin, Texas
               Colorado Rapids v Los Angeles Galaxy  0-0 (0-0)   @ Dick's Sporting Goods Park › Commerce City, Colorado
-    22.30     San Jose Earthquakes v St. Louis City  1-2 (0-1)   @ PayPal Park › San Jose, California
+    22:30     San Jose Earthquakes v St. Louis City  1-2 (0-1)   @ PayPal Park › San Jose, California
               Portland Timbers v New York City FC  1-1 (1-0)   @ Providence Park › Portland, Oregon
               Los Angeles FC v Vancouver Whitecaps  2-3 (1-2)   @ BMO Stadium › Los Angeles, California
               Seattle Sounders v Orlando City SC  0-0 (0-0)   @ Lumen Field › Seattle, Washington
   Sat Jul 1
-    19.30     Columbus Crew v New York Red Bulls  2-1 (1-1)   @ Lower.com Field › Columbus, Ohio
+    19:30     Columbus Crew v New York Red Bulls  2-1 (1-1)   @ Lower.com Field › Columbus, Ohio
               Toronto FC v Real Salt Lake  0-1 (0-0)   @ BMO Field › Toronto, Ontario
               Inter Miami v Austin  1-1 (0-0)   @ DRV PNK Stadium › Fort Lauderdale, Florida
               Orlando City SC v Chicago Fire  3-1 (1-0)   @ Exploria Stadium › Orlando, Florida
-» Regular Season - 30
+▪ Regular Season - 30
   Sat Jul 1
-    19.30     CF Montreal v New York City FC  0-1 (0-1)   @ Stade Saputo › Montreal, Quebec
+    19:30     CF Montreal v New York City FC  0-1 (0-1)   @ Stade Saputo › Montreal, Quebec
               FC Cincinnati v New England Revolution  2-2 (1-2)   @ TQL Stadium › Cincinnati, Ohio
-    20.30     FC Dallas v Los Angeles FC  2-0 (0-0)   @ Toyota Stadium › Frisco, Texas
+    20:30     FC Dallas v Los Angeles FC  2-0 (0-0)   @ Toyota Stadium › Frisco, Texas
               Nashville SC v DC United  2-0 (2-0)   @ GEODIS Park › Nashville, Tennessee
               Minnesota United FC v Portland Timbers  4-1 (2-0)   @ Allianz Field › Saint Paul, Minnesota
               Sporting Kansas City v Vancouver Whitecaps  3-0 (2-0)   @ Children's Mercy Park › Kansas City, Kansas
               St. Louis City v Colorado Rapids  2-0 (2-0)   @ CITYPARK › St. Louis, Missouri
-    22.30     San Jose Earthquakes v Los Angeles Galaxy  2-2 (1-1)   @ Stanford Stadium › Stanford, California
+    22:30     San Jose Earthquakes v Los Angeles Galaxy  2-2 (1-1)   @ Stanford Stadium › Stanford, California
               Seattle Sounders v Houston Dynamo  1-0 (0-0)   @ Lumen Field › Seattle, Washington
   Sun Jul 2
-    16.00     Atlanta United FC v Philadelphia Union  2-0 (1-0)   @ Mercedes-Benz Stadium › Atlanta, Georgia
-» Regular Season - 31
+    16:00     Atlanta United FC v Philadelphia Union  2-0 (1-0)   @ Mercedes-Benz Stadium › Atlanta, Georgia
+▪ Regular Season - 31
   Tue Jul 4
-    19.30     Orlando City SC v Toronto FC  4-0 (2-0)   @ Exploria Stadium › Orlando, Florida
+    19:30     Orlando City SC v Toronto FC  4-0 (2-0)   @ Exploria Stadium › Orlando, Florida
               Inter Miami v Columbus Crew  2-2 (0-1)   @ DRV PNK Stadium › Fort Lauderdale, Florida
-    20.30     FC Dallas v DC United  0-1 (0-0)   @ Toyota Stadium › Frisco, Texas
-    22.30     Los Angeles Galaxy v Los Angeles FC  2-1 (1-0)   @ Rose Bowl › Pasadena, California
+    20:30     FC Dallas v DC United  0-1 (0-0)   @ Toyota Stadium › Frisco, Texas
+    22:30     Los Angeles Galaxy v Los Angeles FC  2-1 (1-0)   @ Rose Bowl › Pasadena, California
   Wed Jul 5
-    19.30     New York City FC v Charlotte  1-1 (0-1)   @ Citi Field › New York, New York
+    19:30     New York City FC v Charlotte  1-1 (0-1)   @ Citi Field › New York, New York
   Sat Jul 8
-    19.30     Toronto FC v St. Louis City  0-1 (0-0)   @ BMO Field › Toronto, Ontario
+    19:30     Toronto FC v St. Louis City  0-1 (0-0)   @ BMO Field › Toronto, Ontario
               New York Red Bulls v New England Revolution  2-1 (0-0)   @ Red Bull Arena › Harrison, New Jersey
               DC United v Inter Miami  2-2 (0-0)   @ Audi Field › Washington, District of Columbia
               Columbus Crew v New York City FC  1-1 (0-0)   @ Lower.com Field › Columbus, Ohio
               CF Montreal v Atlanta United FC  0-1 (0-0)   @ Stade Saputo › Montreal, Quebec
-» Regular Season - 32
+▪ Regular Season - 32
   Sat Jul 8
-    19.30     Charlotte v FC Cincinnati  2-2 (2-0)   @ Bank of America Stadium › Charlotte, North Carolina
-    20.30     Chicago Fire v Nashville SC  1-0 (1-0)   @ Soldier Field › Chicago, Illinois
+    19:30     Charlotte v FC Cincinnati  2-2 (2-0)   @ Bank of America Stadium › Charlotte, North Carolina
+    20:30     Chicago Fire v Nashville SC  1-0 (1-0)   @ Soldier Field › Chicago, Illinois
               Houston Dynamo v Sporting Kansas City  2-2 (1-1)   @ Shell Energy Stadium › Houston, Texas
               Minnesota United FC v Austin  1-4 (0-2)   @ Allianz Field › Saint Paul, Minnesota
-    21.30     Colorado Rapids v FC Dallas  2-1 (1-1)   @ Dick's Sporting Goods Park › Commerce City, Colorado
+    21:30     Colorado Rapids v FC Dallas  2-1 (1-1)   @ Dick's Sporting Goods Park › Commerce City, Colorado
               Real Salt Lake v Orlando City SC  4-0 (2-0)   @ America First Field › Sandy, Utah
-    22.30     Los Angeles Galaxy v Philadelphia Union  3-1 (2-1)   @ Dignity Health Sports Park › Carson, California
+    22:30     Los Angeles Galaxy v Philadelphia Union  3-1 (2-1)   @ Dignity Health Sports Park › Carson, California
               Vancouver Whitecaps v Seattle Sounders  2-3 (1-0)   @ BC Place › Vancouver, British Columbia
               Los Angeles FC v San Jose Earthquakes  1-1 (1-1)   @ BMO Stadium › Los Angeles, California
   Wed Jul 12
-    19.30     New York Red Bulls v FC Cincinnati  1-2 (1-0)   @ Red Bull Arena › Harrison, New Jersey
-» Regular Season - 33
+    19:30     New York Red Bulls v FC Cincinnati  1-2 (1-0)   @ Red Bull Arena › Harrison, New Jersey
+▪ Regular Season - 33
   Wed Jul 12
-    19.30     New England Revolution v Atlanta United FC  2-1 (2-0)   @ Gillette Stadium › Foxborough, Massachusetts
-    20.30     Sporting Kansas City v Real Salt Lake  2-2 (2-0)   @ Children's Mercy Park › Kansas City, Kansas
+    19:30     New England Revolution v Atlanta United FC  2-1 (2-0)   @ Gillette Stadium › Foxborough, Massachusetts
+    20:30     Sporting Kansas City v Real Salt Lake  2-2 (2-0)   @ Children's Mercy Park › Kansas City, Kansas
               Nashville SC v Philadelphia Union  0-2 (0-1)   @ GEODIS Park › Nashville, Tennessee
               Houston Dynamo v Minnesota United FC  0-3 (0-2)   @ Shell Energy Stadium › Houston, Texas
               Chicago Fire v CF Montreal  3-0 (3-0)   @ Soldier Field › Chicago, Illinois
-    21.30     Colorado Rapids v Portland Timbers  0-0 (0-0)   @ Dick's Sporting Goods Park › Commerce City, Colorado
-    22.30     San Jose Earthquakes v Seattle Sounders  2-0 (1-0)   @ PayPal Park › San Jose, California
+    21:30     Colorado Rapids v Portland Timbers  0-0 (0-0)   @ Dick's Sporting Goods Park › Commerce City, Colorado
+    22:30     San Jose Earthquakes v Seattle Sounders  2-0 (1-0)   @ PayPal Park › San Jose, California
               Vancouver Whitecaps v Austin  2-1 (1-0)   @ BC Place › Vancouver, British Columbia
               Los Angeles FC v St. Louis City  3-0 (0-0)   @ BMO Stadium › Los Angeles, California
   Sat Jul 15
-    19.30     Philadelphia Union v New York City FC  2-1 (1-0)   @ Subaru Park › Chester, Pennsylvania
-» Regular Season - 34
+    19:30     Philadelphia Union v New York City FC  2-1 (1-0)   @ Subaru Park › Chester, Pennsylvania
+▪ Regular Season - 34
   Sat Jul 15
-    19.30     New England Revolution v DC United  4-0 (2-0)   @ Gillette Stadium › Foxborough, Massachusetts
+    19:30     New England Revolution v DC United  4-0 (2-0)   @ Gillette Stadium › Foxborough, Massachusetts
               CF Montreal v Charlotte  2-0 (2-0)   @ Stade Saputo › Montreal, Quebec
               FC Cincinnati v Nashville SC  3-1 (1-1)   @ TQL Stadium › Cincinnati, Ohio
               Atlanta United FC v Orlando City SC  1-2 (1-1)   @ Mercedes-Benz Stadium › Atlanta, Georgia
-    20.30     St. Louis City v Inter Miami  3-0 (2-0)   @ CITYPARK › St. Louis, Missouri
+    20:30     St. Louis City v Inter Miami  3-0 (2-0)   @ CITYPARK › St. Louis, Missouri
               Chicago Fire v Toronto FC  1-0 (0-0)   @ Soldier Field › Chicago, Illinois
               Minnesota United FC v Los Angeles FC  1-1 (1-1)   @ Allianz Field › Saint Paul, Minnesota
-    21.30     Real Salt Lake v New York Red Bulls  3-1 (1-0)   @ America First Field › Sandy, Utah
+    21:30     Real Salt Lake v New York Red Bulls  3-1 (1-0)   @ America First Field › Sandy, Utah
               Colorado Rapids v Houston Dynamo  0-0 (0-0)   @ Dick's Sporting Goods Park › Commerce City, Colorado
               Austin v Sporting Kansas City  2-1 (2-1)   @ Q2 Stadium › Austin, Texas
-» Regular Season - 35
+▪ Regular Season - 35
   Sat Jul 15
-    22.30     Portland Timbers v Columbus Crew  3-2 (2-1)   @ Providence Park › Portland, Oregon
+    22:30     Portland Timbers v Columbus Crew  3-2 (2-1)   @ Providence Park › Portland, Oregon
               Seattle Sounders v FC Dallas  1-1 (1-1)   @ Lumen Field › Seattle, Washington
               Vancouver Whitecaps v Los Angeles Galaxy  4-2 (3-0)   @ BC Place › Vancouver, British Columbia
   Sun Aug 20
-    19.30     New York Red Bulls v DC United  1-0 (0-0)   @ Red Bull Arena › Harrison, New Jersey
+    19:30     New York Red Bulls v DC United  1-0 (0-0)   @ Red Bull Arena › Harrison, New Jersey
               Toronto FC v CF Montreal  2-3 (0-2)   @ BMO Field › Toronto, Ontario
               New York City FC v Minnesota United FC  0-2 (0-0)   @ Citi Field › New York, New York
               Columbus Crew v FC Cincinnati  3-0 (2-0)   @ Lower.com Field › Columbus, Ohio
-    20.30     Chicago Fire v Orlando City SC  1-3 (0-0)   @ Soldier Field › Chicago, Illinois
+    20:30     Chicago Fire v Orlando City SC  1-3 (0-0)   @ Soldier Field › Chicago, Illinois
               Houston Dynamo v Portland Timbers  5-0 (4-0)   @ Shell Energy Stadium › Houston, Texas
-    21.30     St. Louis City v Austin  6-3 (2-0)   @ CITYPARK › St. Louis, Missouri
-» Regular Season - 36
+    21:30     St. Louis City v Austin  6-3 (2-0)   @ CITYPARK › St. Louis, Missouri
+▪ Regular Season - 36
   Sun Aug 20
-    22.30     Vancouver Whitecaps v San Jose Earthquakes  0-1 (0-1)   @ BC Place › Vancouver, British Columbia
+    22:30     Vancouver Whitecaps v San Jose Earthquakes  0-1 (0-1)   @ BC Place › Vancouver, British Columbia
               Seattle Sounders v Atlanta United FC  0-2 (0-1)   @ Lumen Field › Seattle, Washington
   Wed Aug 23
-    22.30     Los Angeles FC v Colorado Rapids  4-0 (3-0)   @ BMO Stadium › Los Angeles, California
+    22:30     Los Angeles FC v Colorado Rapids  4-0 (3-0)   @ BMO Stadium › Los Angeles, California
   Sat Aug 26
-    19.30     Columbus Crew v Toronto FC  2-0 (1-0)   @ Lower.com Field › Columbus, Ohio
+    19:30     Columbus Crew v Toronto FC  2-0 (1-0)   @ Lower.com Field › Columbus, Ohio
               Charlotte v Los Angeles FC  2-1 (1-0)   @ Bank of America Stadium › Charlotte, North Carolina
               New York Red Bulls v Inter Miami  0-2 (0-1)   @ Red Bull Arena › Harrison, New Jersey
               DC United v Philadelphia Union  1-3 (0-3)   @ Audi Field › Washington, District of Columbia
               FC Cincinnati v New York City FC  3-0 (1-0)   @ TQL Stadium › Cincinnati, Ohio
               Orlando City SC v St. Louis City  2-1 (0-0)   @ Exploria Stadium › Orlando, Florida
               CF Montreal v New England Revolution  1-0 (0-0)   @ Stade Saputo › Montreal, Quebec
-» Regular Season - 37
+▪ Regular Season - 37
   Sat Aug 26
-    19.30     Atlanta United FC v Nashville SC  4-0 (1-0)   @ Mercedes-Benz Stadium › Atlanta, Georgia
-    20.30     Sporting Kansas City v San Jose Earthquakes  3-0 (2-0)   @ Children's Mercy Park › Kansas City, Kansas
+    19:30     Atlanta United FC v Nashville SC  4-0 (1-0)   @ Mercedes-Benz Stadium › Atlanta, Georgia
+    20:30     Sporting Kansas City v San Jose Earthquakes  3-0 (2-0)   @ Children's Mercy Park › Kansas City, Kansas
               FC Dallas v Austin  1-0 (0-0)   @ Toyota Stadium › Frisco, Texas
-    21.30     Real Salt Lake v Houston Dynamo  0-3 (0-2)   @ America First Field › Sandy, Utah
-    22.30     Los Angeles Galaxy v Chicago Fire  3-0 (1-0)   @ Dignity Health Sports Park › Carson, California
+    21:30     Real Salt Lake v Houston Dynamo  0-3 (0-2)   @ America First Field › Sandy, Utah
+    22:30     Los Angeles Galaxy v Chicago Fire  3-0 (1-0)   @ Dignity Health Sports Park › Carson, California
               Portland Timbers v Vancouver Whitecaps  2-3 (0-2)   @ Providence Park › Portland, Oregon
   Sun Aug 27
-    16.30     Minnesota United FC v Seattle Sounders  1-1 (0-1)   @ Allianz Field › Saint Paul, Minnesota
+    16:30     Minnesota United FC v Seattle Sounders  1-1 (0-1)   @ Allianz Field › Saint Paul, Minnesota
   Wed Aug 30
-    19.30     Toronto FC v Philadelphia Union  3-1 (1-1)   @ BMO Field › Toronto, Ontario
+    19:30     Toronto FC v Philadelphia Union  3-1 (1-1)   @ BMO Field › Toronto, Ontario
               New England Revolution v New York Red Bulls  1-0 (1-0)   @ Gillette Stadium › Foxborough, Massachusetts
               New York City FC v CF Montreal  2-0 (2-0)   @ Yankee Stadium › New York City
-» Regular Season - 38
+▪ Regular Season - 38
   Wed Aug 30
-    19.30     Charlotte v Orlando City SC  1-1 (0-0)   @ Bank of America Stadium › Charlotte, North Carolina
+    19:30     Charlotte v Orlando City SC  1-1 (0-0)   @ Bank of America Stadium › Charlotte, North Carolina
               Atlanta United FC v FC Cincinnati  1-2 (1-0)   @ Mercedes-Benz Stadium › Atlanta, Georgia
               Inter Miami v Nashville SC  0-0 (0-0)   @ DRV PNK Stadium › Fort Lauderdale, Florida
-    20.30     St. Louis City v FC Dallas  2-1 (0-0)   @ CITYPARK › St. Louis, Missouri
+    20:30     St. Louis City v FC Dallas  2-1 (0-0)   @ CITYPARK › St. Louis, Missouri
               Houston Dynamo v Columbus Crew  2-0 (1-0)   @ Shell Energy Stadium › Houston, Texas
               Minnesota United FC v Colorado Rapids  3-0 (3-0)   @ Allianz Field › Saint Paul, Minnesota
               Austin v Seattle Sounders  1-2 (0-0)   @ Q2 Stadium › Austin, Texas
               Chicago Fire v Vancouver Whitecaps  0-1 (0-1)   @ Soldier Field › Chicago, Illinois
-    22.30     Portland Timbers v Real Salt Lake  2-1 (1-0)   @ Providence Park › Portland, Oregon
+    22:30     Portland Timbers v Real Salt Lake  2-1 (1-0)   @ Providence Park › Portland, Oregon
               San Jose Earthquakes v Los Angeles Galaxy  2-3 (2-1)   @ PayPal Park › San Jose, California
-» Regular Season - 39
+▪ Regular Season - 39
   Sat Sep 2
-    15.30     New York City FC v Vancouver Whitecaps  1-1 (0-0)   @ Yankee Stadium › New York City
-    19.30     CF Montreal v Columbus Crew  2-4 (0-3)   @ Stade Saputo › Montreal, Quebec
+    15:30     New York City FC v Vancouver Whitecaps  1-1 (0-0)   @ Yankee Stadium › New York City
+    19:30     CF Montreal v Columbus Crew  2-4 (0-3)   @ Stade Saputo › Montreal, Quebec
               FC Cincinnati v Orlando City SC  0-1 (0-1)   @ TQL Stadium › Cincinnati, Ohio
               DC United v Chicago Fire  4-0 (3-0)   @ Audi Field › Washington, District of Columbia
               New England Revolution v Austin  2-2 (1-1)   @ Gillette Stadium › Foxborough, Massachusetts
-    20.30     Sporting Kansas City v St. Louis City  2-1 (2-1)   @ Children's Mercy Park › Kansas City, Kansas
+    20:30     Sporting Kansas City v St. Louis City  2-1 (2-1)   @ Children's Mercy Park › Kansas City, Kansas
               Nashville SC v Charlotte  1-1 (0-0)   @ GEODIS Park › Nashville, Tennessee
               FC Dallas v Atlanta United FC  2-2 (1-1)   @ Toyota Stadium › Frisco, Texas
-    21.30     Real Salt Lake v Colorado Rapids  2-0 (1-0)   @ America First Field › Sandy, Utah
-    22.30     Seattle Sounders v Portland Timbers  2-2 (2-0)   @ Lumen Field › Seattle, Washington
-» Regular Season - 40
+    21:30     Real Salt Lake v Colorado Rapids  2-0 (1-0)   @ America First Field › Sandy, Utah
+    22:30     Seattle Sounders v Portland Timbers  2-2 (2-0)   @ Lumen Field › Seattle, Washington
+▪ Regular Season - 40
   Sat Sep 2
-    22.30     San Jose Earthquakes v Minnesota United FC  1-1 (1-1)   @ PayPal Park › San Jose, California
+    22:30     San Jose Earthquakes v Minnesota United FC  1-1 (1-1)   @ PayPal Park › San Jose, California
               Los Angeles Galaxy v Houston Dynamo  0-0 (0-0)   @ Dignity Health Sports Park › Carson, California
   Sun Sep 3
-    19.30     Philadelphia Union v New York Red Bulls  4-1 (1-1)   @ Subaru Park › Chester, Pennsylvania
-    22.00     Los Angeles FC v Inter Miami  1-3 (0-1)   @ BMO Stadium › Los Angeles, California
+    19:30     Philadelphia Union v New York Red Bulls  4-1 (1-1)   @ Subaru Park › Chester, Pennsylvania
+    22:00     Los Angeles FC v Inter Miami  1-3 (0-1)   @ BMO Stadium › Los Angeles, California
   Sat Sep 9
-    19.30     Inter Miami v Sporting Kansas City  3-2 (2-1)   @ DRV PNK Stadium › Fort Lauderdale, Florida
+    19:30     Inter Miami v Sporting Kansas City  3-2 (2-1)   @ DRV PNK Stadium › Fort Lauderdale, Florida
               DC United v San Jose Earthquakes  0-0 (0-0)   @ Audi Field › Washington, District of Columbia
-    20.30     Minnesota United FC v New England Revolution  1-1 (0-1)   @ Allianz Field › Saint Paul, Minnesota
-    22.30     Portland Timbers v Los Angeles FC  2-0 (1-0)   @ Providence Park › Portland, Oregon
+    20:30     Minnesota United FC v New England Revolution  1-1 (0-1)   @ Allianz Field › Saint Paul, Minnesota
+    22:30     Portland Timbers v Los Angeles FC  2-0 (1-0)   @ Providence Park › Portland, Oregon
   Sun Sep 10
-    20.00     Los Angeles Galaxy v St. Louis City  2-2 (0-2)   @ Dignity Health Sports Park › Carson, California
+    20:00     Los Angeles Galaxy v St. Louis City  2-2 (0-2)   @ Dignity Health Sports Park › Carson, California
   Sat Sep 16
-    15.30     New York City FC v New York Red Bulls  0-0 (0-0)   @ Yankee Stadium › New York City
-» Regular Season - 41
+    15:30     New York City FC v New York Red Bulls  0-0 (0-0)   @ Yankee Stadium › New York City
+▪ Regular Season - 41
   Sat Sep 16
-    17.00     Atlanta United FC v Inter Miami  5-2 (3-1)   @ Mercedes-Benz Stadium › Atlanta, Georgia
-    19.30     CF Montreal v Chicago Fire  0-0 (0-0)   @ Stade Saputo › Montreal, Quebec
+    17:00     Atlanta United FC v Inter Miami  5-2 (3-1)   @ Mercedes-Benz Stadium › Atlanta, Georgia
+    19:30     CF Montreal v Chicago Fire  0-0 (0-0)   @ Stade Saputo › Montreal, Quebec
               Toronto FC v Vancouver Whitecaps  1-2 (0-0)   @ BMO Field › Toronto, Ontario
               Charlotte v DC United  0-0 (0-0)   @ Bank of America Stadium › Charlotte, North Carolina
               Orlando City SC v Columbus Crew  4-3 (0-1)   @ Exploria Stadium › Orlando, Florida
               Philadelphia Union v FC Cincinnati  2-2 (2-0)   @ Subaru Park › Chester, Pennsylvania
-    20.30     Minnesota United FC v Sporting Kansas City  0-1 (0-0)   @ Allianz Field › Saint Paul, Minnesota
+    20:30     Minnesota United FC v Sporting Kansas City  0-1 (0-0)   @ Allianz Field › Saint Paul, Minnesota
               Houston Dynamo v St. Louis City  1-1 (1-0)   @ Shell Energy Stadium › Houston, Texas
               FC Dallas v Seattle Sounders  1-1 (1-0)   @ Toyota Stadium › Frisco, Texas
-    21.30     Colorado Rapids v New England Revolution  2-1 (0-0)   @ Dick's Sporting Goods Park › Commerce City, Colorado
-» Regular Season - 42
+    21:30     Colorado Rapids v New England Revolution  2-1 (0-0)   @ Dick's Sporting Goods Park › Commerce City, Colorado
+▪ Regular Season - 42
   Sat Sep 16
-    22.30     Los Angeles FC v Los Angeles Galaxy  4-2 (2-1)   @ BMO Stadium › Los Angeles, California
+    22:30     Los Angeles FC v Los Angeles Galaxy  4-2 (2-1)   @ BMO Stadium › Los Angeles, California
               San Jose Earthquakes v Real Salt Lake  2-1 (2-1)   @ PayPal Park › San Jose, California
   Sun Sep 17
-    20.30     Austin v Portland Timbers  1-2 (0-1)   @ Q2 Stadium › Austin, Texas
+    20:30     Austin v Portland Timbers  1-2 (0-1)   @ Q2 Stadium › Austin, Texas
   Wed Sep 20
-    19.30     Inter Miami v Toronto FC  4-0 (1-0)   @ DRV PNK Stadium › Fort Lauderdale, Florida
+    19:30     Inter Miami v Toronto FC  4-0 (1-0)   @ DRV PNK Stadium › Fort Lauderdale, Florida
               New York Red Bulls v Austin  1-1 (1-1)   @ Red Bull Arena › Harrison, New Jersey
               Charlotte v Philadelphia Union  2-2 (0-0)   @ Bank of America Stadium › Charlotte, North Carolina
               DC United v Atlanta United FC  1-1 (0-1)   @ Audi Field › Washington, District of Columbia
               CF Montreal v FC Cincinnati  1-1 (0-0)   @ Stade Saputo › Montreal, Quebec
               Columbus Crew v Chicago Fire  3-0 (3-0)   @ Lower.com Field › Columbus, Ohio
               New York City FC v Orlando City SC  2-0 (1-0)   @ Citi Field › New York, New York
-» Regular Season - 43
+▪ Regular Season - 43
   Wed Sep 20
-    20.30     Sporting Kansas City v Nashville SC  0-3 (0-1)   @ Children's Mercy Park › Kansas City, Kansas
+    20:30     Sporting Kansas City v Nashville SC  0-3 (0-1)   @ Children's Mercy Park › Kansas City, Kansas
               Houston Dynamo v Vancouver Whitecaps  4-1 (2-0)   @ Shell Energy Stadium › Houston, Texas
               St. Louis City v Los Angeles FC  0-0 (0-0)   @ CITYPARK › St. Louis, Missouri
-    21.30     Real Salt Lake v FC Dallas  1-3 (1-0)   @ America First Field › Sandy, Utah
+    21:30     Real Salt Lake v FC Dallas  1-3 (1-0)   @ America First Field › Sandy, Utah
               Colorado Rapids v Seattle Sounders  1-2 (0-1)   @ Dick's Sporting Goods Park › Commerce City, Colorado
-    22.30     Portland Timbers v San Jose Earthquakes  2-1 (1-0)   @ Providence Park › Portland, Oregon
+    22:30     Portland Timbers v San Jose Earthquakes  2-1 (1-0)   @ Providence Park › Portland, Oregon
               Los Angeles Galaxy v Minnesota United FC  4-3 (1-3)   @ Dignity Health Sports Park › Carson, California
   Sat Sep 23
-    19.30     FC Cincinnati v Charlotte  3-0 (1-0)   @ TQL Stadium › Cincinnati, Ohio
+    19:30     FC Cincinnati v Charlotte  3-0 (1-0)   @ TQL Stadium › Cincinnati, Ohio
               DC United v New York Red Bulls  3-5 (3-3)   @ Audi Field › Washington, District of Columbia
               Philadelphia Union v Los Angeles FC  0-0 (0-0)   @ Subaru Park › Chester, Pennsylvania
-» Regular Season - 44
+▪ Regular Season - 44
   Sat Sep 23
-    19.30     Atlanta United FC v CF Montreal  4-1 (2-1)   @ Mercedes-Benz Stadium › Atlanta, Georgia
-    20.30     Sporting Kansas City v Houston Dynamo  2-1 (2-1)   @ Children's Mercy Park › Kansas City, Kansas
+    19:30     Atlanta United FC v CF Montreal  4-1 (2-1)   @ Mercedes-Benz Stadium › Atlanta, Georgia
+    20:30     Sporting Kansas City v Houston Dynamo  2-1 (2-1)   @ Children's Mercy Park › Kansas City, Kansas
               FC Dallas v Columbus Crew  1-1 (1-1)   @ Toyota Stadium › Frisco, Texas
               Minnesota United FC v St. Louis City  1-2 (0-0)   @ Allianz Field › Saint Paul, Minnesota
               Chicago Fire v New England Revolution  2-2 (1-1)   @ Soldier Field › Chicago, Illinois
-    21.30     Real Salt Lake v Vancouver Whitecaps  2-1 (0-1)   @ America First Field › Sandy, Utah
-    22.30     San Jose Earthquakes v Nashville SC  1-1 (0-0)   @ PayPal Park › San Jose, California
+    21:30     Real Salt Lake v Vancouver Whitecaps  2-1 (0-1)   @ America First Field › Sandy, Utah
+    22:30     San Jose Earthquakes v Nashville SC  1-1 (0-0)   @ PayPal Park › San Jose, California
               Portland Timbers v Colorado Rapids  3-2 (2-2)   @ Providence Park › Portland, Oregon
   Sun Sep 24
-    13.00     New York City FC v Toronto FC  3-0 (2-0)   @ Red Bull Arena › Harrison, New Jersey
-    19.30     Orlando City SC v Inter Miami  1-1 (0-0)   @ Exploria Stadium › Orlando, Florida
-» Regular Season - 45
+    13:00     New York City FC v Toronto FC  3-0 (2-0)   @ Red Bull Arena › Harrison, New Jersey
+    19:30     Orlando City SC v Inter Miami  1-1 (0-0)   @ Exploria Stadium › Orlando, Florida
+▪ Regular Season - 45
   Sun Sep 24
-    21.30     Austin v Los Angeles Galaxy  3-3 (2-1)   @ Q2 Stadium › Austin, Texas
+    21:30     Austin v Los Angeles Galaxy  3-3 (2-1)   @ Q2 Stadium › Austin, Texas
   Wed Sep 27
-    19.30     Philadelphia Union v FC Dallas  1-1 (1-1)   @ Subaru Park › Chester, Pennsylvania
-    21.30     Colorado Rapids v Vancouver Whitecaps  2-2 (0-1)   @ Dick's Sporting Goods Park › Commerce City, Colorado
+    19:30     Philadelphia Union v FC Dallas  1-1 (1-1)   @ Subaru Park › Chester, Pennsylvania
+    21:30     Colorado Rapids v Vancouver Whitecaps  2-2 (0-1)   @ Dick's Sporting Goods Park › Commerce City, Colorado
   Sat Sep 30
-    19.30     Toronto FC v FC Cincinnati  2-3 (2-2)   @ BMO Field › Toronto, Ontario
+    19:30     Toronto FC v FC Cincinnati  2-3 (2-2)   @ BMO Field › Toronto, Ontario
               New York Red Bulls v Chicago Fire  0-1 (0-0)   @ Red Bull Arena › Harrison, New Jersey
               Columbus Crew v Philadelphia Union  1-1 (0-0)   @ Lower.com Field › Columbus, Ohio
               New England Revolution v Charlotte  2-1 (0-0)   @ Gillette Stadium › Foxborough, Massachusetts
               Orlando City SC v CF Montreal  3-0 (1-0)   @ Exploria Stadium › Orlando, Florida
-    20.30     St. Louis City v Sporting Kansas City  4-1 (0-0)   @ CITYPARK › St. Louis, Missouri
+    20:30     St. Louis City v Sporting Kansas City  4-1 (0-0)   @ CITYPARK › St. Louis, Missouri
               Nashville SC v Seattle Sounders  0-0 (0-0)   @ GEODIS Park › Nashville, Tennessee
-» Regular Season - 46
+▪ Regular Season - 46
   Sat Sep 30
-    19.30     Inter Miami v New York City FC  1-1 (0-0)   @ DRV PNK Stadium › Fort Lauderdale, Florida
-    20.30     Houston Dynamo v FC Dallas  0-0 (0-0)   @ Shell Energy Stadium › Houston, Texas
+    19:30     Inter Miami v New York City FC  1-1 (0-0)   @ DRV PNK Stadium › Fort Lauderdale, Florida
+    20:30     Houston Dynamo v FC Dallas  0-0 (0-0)   @ Shell Energy Stadium › Houston, Texas
               Minnesota United FC v San Jose Earthquakes  1-1 (0-0)   @ Allianz Field › Saint Paul, Minnesota
-    21.30     Colorado Rapids v Austin  1-0 (1-0)   @ Dick's Sporting Goods Park › Commerce City, Colorado
-    22.30     Los Angeles Galaxy v Portland Timbers  3-3 (3-2)   @ Dignity Health Sports Park › Carson, California
+    21:30     Colorado Rapids v Austin  1-0 (1-0)   @ Dick's Sporting Goods Park › Commerce City, Colorado
+    22:30     Los Angeles Galaxy v Portland Timbers  3-3 (3-2)   @ Dignity Health Sports Park › Carson, California
               Vancouver Whitecaps v DC United  2-2 (1-1)   @ BC Place › Vancouver, British Columbia
   Sun Oct 1
-    20.00     Los Angeles FC v Real Salt Lake  0-1 (0-0)   @ BMO Stadium › Los Angeles, California
+    20:00     Los Angeles FC v Real Salt Lake  0-1 (0-0)   @ BMO Stadium › Los Angeles, California
   Wed Oct 4
-    19.30     CF Montreal v Houston Dynamo  1-1 (0-1)   @ Stade Saputo › Montreal, Quebec
+    19:30     CF Montreal v Houston Dynamo  1-1 (0-1)   @ Stade Saputo › Montreal, Quebec
               Philadelphia Union v Atlanta United FC  3-2 (3-0)   @ Subaru Park › Chester, Pennsylvania
               New England Revolution v Columbus Crew  1-2 (0-1)   @ Gillette Stadium › Foxborough, Massachusetts
-» Regular Season - 47
+▪ Regular Season - 47
   Wed Oct 4
-    19.30     FC Cincinnati v New York Red Bulls  1-2 (0-2)   @ TQL Stadium › Cincinnati, Ohio
+    19:30     FC Cincinnati v New York Red Bulls  1-2 (0-2)   @ TQL Stadium › Cincinnati, Ohio
               Charlotte v Toronto FC  3-0 (2-0)   @ Bank of America Stadium › Charlotte, North Carolina
-    20.30     Austin v DC United  3-0 (2-0)   @ Q2 Stadium › Austin, Texas
+    20:30     Austin v DC United  3-0 (2-0)   @ Q2 Stadium › Austin, Texas
               Chicago Fire v Inter Miami  4-1 (0-0)   @ Soldier Field › Chicago, Illinois
               Nashville SC v Orlando City SC  0-1 (0-1)   @ GEODIS Park › Nashville, Tennessee
-    22.30     Vancouver Whitecaps v St. Louis City  3-0 (0-0)   @ BC Place › Vancouver, British Columbia
+    22:30     Vancouver Whitecaps v St. Louis City  3-0 (0-0)   @ BC Place › Vancouver, British Columbia
               Los Angeles FC v Minnesota United FC  5-1 (3-1)   @ BMO Stadium › Los Angeles, California
               Seattle Sounders v Los Angeles Galaxy  2-1 (1-0)   @ Lumen Field › Seattle, Washington
   Sat Oct 7
-    19.30     Orlando City SC v New England Revolution  3-2 (3-1)   @ Exploria Stadium › Orlando, Florida
+    19:30     Orlando City SC v New England Revolution  3-2 (3-1)   @ Exploria Stadium › Orlando, Florida
               Philadelphia Union v Nashville SC  0-0 (0-0)   @ Subaru Park › Chester, Pennsylvania
-» Regular Season - 48
+▪ Regular Season - 48
   Sat Oct 7
-    19.30     Atlanta United FC v Columbus Crew  1-1 (0-0)   @ Mercedes-Benz Stadium › Atlanta, Georgia
+    19:30     Atlanta United FC v Columbus Crew  1-1 (0-0)   @ Mercedes-Benz Stadium › Atlanta, Georgia
               CF Montreal v Portland Timbers  4-1 (2-0)   @ Stade Saputo › Montreal, Quebec
               Inter Miami v FC Cincinnati  0-1 (0-0)   @ DRV PNK Stadium › Fort Lauderdale, Florida
               DC United v New York City FC  2-0 (1-0)   @ Audi Field › Washington, District of Columbia
               New York Red Bulls v Toronto FC  3-0 (1-0)   @ Red Bull Arena › Harrison, New Jersey
-    20.30     FC Dallas v San Jose Earthquakes  1-1 (0-1)   @ Toyota Stadium › Frisco, Texas
+    20:30     FC Dallas v San Jose Earthquakes  1-1 (0-1)   @ Toyota Stadium › Frisco, Texas
               Minnesota United FC v Los Angeles Galaxy  5-2 (2-1)   @ Allianz Field › Saint Paul, Minnesota
               Chicago Fire v Charlotte  0-2 (0-1)   @ Soldier Field › Chicago, Illinois
               Houston Dynamo v Colorado Rapids  5-1 (4-0)   @ Shell Energy Stadium › Houston, Texas
               Austin v Los Angeles FC  2-4 (0-2)   @ Q2 Stadium › Austin, Texas
-» Regular Season - 49
+▪ Regular Season - 49
   Sat Oct 7
-    21.30     Real Salt Lake v Sporting Kansas City  2-3 (0-2)   @ America First Field › Sandy, Utah
-    22.30     Seattle Sounders v Vancouver Whitecaps  0-0 (0-0)   @ Lumen Field › Seattle, Washington
+    21:30     Real Salt Lake v Sporting Kansas City  2-3 (0-2)   @ America First Field › Sandy, Utah
+    22:30     Seattle Sounders v Vancouver Whitecaps  0-0 (0-0)   @ Lumen Field › Seattle, Washington
   Sat Oct 14
-    20.30     Nashville SC v New England Revolution  3-2 (3-0)   @ GEODIS Park › Nashville, Tennessee
+    20:30     Nashville SC v New England Revolution  3-2 (3-0)   @ GEODIS Park › Nashville, Tennessee
               FC Dallas v Colorado Rapids  1-1 (1-1)   @ Toyota Stadium › Frisco, Texas
-    22.30     Los Angeles Galaxy v Real Salt Lake  2-2 (2-1)   @ Dignity Health Sports Park › Carson, California
+    22:30     Los Angeles Galaxy v Real Salt Lake  2-2 (2-1)   @ Dignity Health Sports Park › Carson, California
   Wed Oct 18
-    20.00     Inter Miami v Charlotte  2-2 (1-1)   @ DRV PNK Stadium › Fort Lauderdale, Florida
-» Regular Season - 50
+    20:00     Inter Miami v Charlotte  2-2 (1-1)   @ DRV PNK Stadium › Fort Lauderdale, Florida
+▪ Regular Season - 50
   Sat Oct 21
-    18.00     Toronto FC v Orlando City SC  0-2 (0-0)   @ BMO Field › Toronto, Ontario
-    21.00     Colorado Rapids v Real Salt Lake  0-1 (0-0)   @ Dick's Sporting Goods Park › Commerce City, Colorado
+    18:00     Toronto FC v Orlando City SC  0-2 (0-0)   @ BMO Field › Toronto, Ontario
+    21:00     Colorado Rapids v Real Salt Lake  0-1 (0-0)   @ Dick's Sporting Goods Park › Commerce City, Colorado
               Los Angeles Galaxy v FC Dallas  1-4 (1-4)   @ Dignity Health Sports Park › Carson, California
               Sporting Kansas City v Minnesota United FC  3-1 (2-0)   @ Children's Mercy Park › Kansas City, Kansas
               Portland Timbers v Houston Dynamo  1-3 (0-1)   @ Providence Park › Portland, Oregon
               San Jose Earthquakes v Austin  1-1 (1-1)   @ PayPal Park › San Jose, California
               St. Louis City v Seattle Sounders  0-2 (0-2)   @ CITYPARK › St. Louis, Missouri
               Vancouver Whitecaps v Los Angeles FC  1-1 (0-1)   @ BC Place › Vancouver, British Columbia
-» Regular Season - 49
+▪ Regular Season - 49
   Sun Oct 22
-    18.00     FC Cincinnati v Atlanta United FC  2-2 (2-2)   @ TQL Stadium › Cincinnati, Ohio
+    18:00     FC Cincinnati v Atlanta United FC  2-2 (2-2)   @ TQL Stadium › Cincinnati, Ohio
               Columbus Crew v CF Montreal  2-1 (1-1)   @ Lower.com Field › Columbus, Ohio
               New England Revolution v Philadelphia Union  2-1 (2-1)   @ Gillette Stadium › Foxborough, Massachusetts
               New York City FC v Chicago Fire  1-0 (0-0)   @ Citi Field › New York, New York
               Nashville SC v New York Red Bulls  0-1 (0-0)   @ GEODIS Park › Nashville, Tennessee
-» Regular Season - 50
+▪ Regular Season - 50
   Sun Oct 22
-    18.00     Charlotte v Inter Miami  1-0 (1-0)   @ Bank of America Stadium › Charlotte, North Carolina
-» MLS Cup - Play-In Round
+    18:00     Charlotte v Inter Miami  1-0 (1-0)   @ Bank of America Stadium › Charlotte, North Carolina
+▪ MLS Cup - Play-In Round
   Wed Oct 25
-    19.30     New York Red Bulls v Charlotte  5-2 (3-0)   @ Red Bull Arena › Harrison, New Jersey
-    21.30     Sporting Kansas City v San Jose Earthquakes  4-2 pen (0-0, 0-0, 0-0)   @ Children's Mercy Park › Kansas City, Kansas
-» MLS Cup - Round 1
+    19:30     New York Red Bulls v Charlotte  5-2 (3-0)   @ Red Bull Arena › Harrison, New Jersey
+    21:30     Sporting Kansas City v San Jose Earthquakes  4-2 pen (0-0, 0-0, 0-0)   @ Children's Mercy Park › Kansas City, Kansas
+▪ MLS Cup - Round 1
   Sat Oct 28
-    17.00     Philadelphia Union v New England Revolution  3-1 (3-0)   @ Subaru Park › Chester, Pennsylvania
-    21.00     Los Angeles FC v Vancouver Whitecaps  5-2 (2-2)   @ BMO Stadium › Los Angeles, California
+    17:00     Philadelphia Union v New England Revolution  3-1 (3-0)   @ Subaru Park › Chester, Pennsylvania
+    21:00     Los Angeles FC v Vancouver Whitecaps  5-2 (2-2)   @ BMO Stadium › Los Angeles, California
   Sun Oct 29
-    18.00     Houston Dynamo v Real Salt Lake  2-1 (1-0)   @ Shell Energy Stadium › Houston, Texas
-    20.00     FC Cincinnati v New York Red Bulls  3-0 (2-0)   @ TQL Stadium › Cincinnati, Ohio
-    22.00     St. Louis City v Sporting Kansas City  1-4 (1-3)   @ CITYPARK › St. Louis, Missouri
+    18:00     Houston Dynamo v Real Salt Lake  2-1 (1-0)   @ Shell Energy Stadium › Houston, Texas
+    20:00     FC Cincinnati v New York Red Bulls  3-0 (2-0)   @ TQL Stadium › Cincinnati, Ohio
+    22:00     St. Louis City v Sporting Kansas City  1-4 (1-3)   @ CITYPARK › St. Louis, Missouri
   Mon Oct 30
-    19.00     Orlando City SC v Nashville SC  1-0 (1-0)   @ Exploria Stadium › Orlando, Florida
-    21.00     Seattle Sounders v FC Dallas  2-0 (1-0)   @ Lumen Field › Seattle, Washington
+    19:00     Orlando City SC v Nashville SC  1-0 (1-0)   @ Exploria Stadium › Orlando, Florida
+    21:00     Seattle Sounders v FC Dallas  2-0 (1-0)   @ Lumen Field › Seattle, Washington
   Wed Nov 1
-    19.30     Columbus Crew v Atlanta United FC  2-0 (1-0)   @ Lower.com Field › Columbus, Ohio
+    19:30     Columbus Crew v Atlanta United FC  2-0 (1-0)   @ Lower.com Field › Columbus, Ohio
   Sat Nov 4
-    19.00     New York Red Bulls v FC Cincinnati  7-8 pen (1-1, 1-1, 1-0)   @ Red Bull Arena › Harrison, New Jersey
-    21.00     FC Dallas v Seattle Sounders  3-1 (2-0)   @ Toyota Stadium › Frisco, Texas
+    19:00     New York Red Bulls v FC Cincinnati  7-8 pen (1-1, 1-1, 1-0)   @ Red Bull Arena › Harrison, New Jersey
+    21:00     FC Dallas v Seattle Sounders  3-1 (2-0)   @ Toyota Stadium › Frisco, Texas
   Sun Nov 5
-    17.00     Sporting Kansas City v St. Louis City  2-1 (1-0)   @ Children's Mercy Park › Kansas City, Kansas
-    19.30     Vancouver Whitecaps v Los Angeles FC  0-1 (0-1)   @ BC Place › Vancouver, British Columbia
+    17:00     Sporting Kansas City v St. Louis City  2-1 (1-0)   @ Children's Mercy Park › Kansas City, Kansas
+    19:30     Vancouver Whitecaps v Los Angeles FC  0-1 (0-1)   @ BC Place › Vancouver, British Columbia
   Mon Nov 6
-    21.00     Real Salt Lake v Houston Dynamo  5-4 pen (1-1, 1-1, 0-1)   @ America First Field › Sandy, Utah
+    21:00     Real Salt Lake v Houston Dynamo  5-4 pen (1-1, 1-1, 0-1)   @ America First Field › Sandy, Utah
   Tue Nov 7
-    19.00     Atlanta United FC v Columbus Crew  4-2 (2-1)   @ Mercedes-Benz Stadium › Atlanta, Georgia
-    21.00     Nashville SC v Orlando City SC  0-1 (0-1)   @ GEODIS Park › Nashville, Tennessee
+    19:00     Atlanta United FC v Columbus Crew  4-2 (2-1)   @ Mercedes-Benz Stadium › Atlanta, Georgia
+    21:00     Nashville SC v Orlando City SC  0-1 (0-1)   @ GEODIS Park › Nashville, Tennessee
   Wed Nov 8
-    19.00     New England Revolution v Philadelphia Union  0-1 (0-0)   @ Gillette Stadium › Foxborough, Massachusetts
+    19:00     New England Revolution v Philadelphia Union  0-1 (0-0)   @ Gillette Stadium › Foxborough, Massachusetts
   Thu Nov 9
-    22.00     Los Angeles FC v Vancouver Whitecaps  [cancelled]   @ BMO Stadium › Los Angeles, California
+    22:00     Los Angeles FC v Vancouver Whitecaps  [cancelled]   @ BMO Stadium › Los Angeles, California
   Fri Nov 10
-    22.00     Seattle Sounders v FC Dallas  1-0 (1-0)   @ Lumen Field › Seattle, Washington
+    22:00     Seattle Sounders v FC Dallas  1-0 (1-0)   @ Lumen Field › Seattle, Washington
   Sat Nov 11
-    14.00     FC Cincinnati v New York Red Bulls  [cancelled]   @ TQL Stadium › Cincinnati, Ohio
-    18.00     St. Louis City v Sporting Kansas City  [cancelled]   @ CITYPARK › St. Louis, Missouri
+    14:00     FC Cincinnati v New York Red Bulls  [cancelled]   @ TQL Stadium › Cincinnati, Ohio
+    18:00     St. Louis City v Sporting Kansas City  [cancelled]   @ CITYPARK › St. Louis, Missouri
               Houston Dynamo v Real Salt Lake  4-3 pen (1-1, 1-1, 1-0)   @ Shell Energy Stadium › Houston, Texas
   Sun Nov 12
-    15.00     Philadelphia Union v New England Revolution  [cancelled]   @ Subaru Park › Chester, Pennsylvania
-    17.00     Orlando City SC v Nashville SC  [cancelled]   @ Exploria Stadium › Orlando, Florida
-    19.00     Columbus Crew v Atlanta United FC  4-2 (3-1)   @ Lower.com Field › Columbus, Ohio
-» MLS Cup - Conference Semi-finals
+    15:00     Philadelphia Union v New England Revolution  [cancelled]   @ Subaru Park › Chester, Pennsylvania
+    17:00     Orlando City SC v Nashville SC  [cancelled]   @ Exploria Stadium › Orlando, Florida
+    19:00     Columbus Crew v Atlanta United FC  4-2 (3-1)   @ Lower.com Field › Columbus, Ohio
+▪ MLS Cup - Conference Semi-finals
   Sat Nov 25
-    17.30     Orlando City SC v Columbus Crew  0-2 (0-0)   @ Exploria Stadium › Orlando, Florida
-    20.00     FC Cincinnati v Philadelphia Union  1-0 (0-0)   @ TQL Stadium › Cincinnati, Ohio
+    17:30     Orlando City SC v Columbus Crew  0-2 (0-0)   @ Exploria Stadium › Orlando, Florida
+    20:00     FC Cincinnati v Philadelphia Union  1-0 (0-0)   @ TQL Stadium › Cincinnati, Ohio
   Sun Nov 26
-    19.00     Houston Dynamo v Sporting Kansas City  1-0 (1-0)   @ Shell Energy Stadium › Houston, Texas
-    21.30     Seattle Sounders v Los Angeles FC  0-1 (0-1)   @ Lumen Field › Seattle, Washington
-» MLS Cup - Conference Finals
+    19:00     Houston Dynamo v Sporting Kansas City  1-0 (1-0)   @ Shell Energy Stadium › Houston, Texas
+    21:30     Seattle Sounders v Los Angeles FC  0-1 (0-1)   @ Lumen Field › Seattle, Washington
+▪ MLS Cup - Conference Finals
   Sat Dec 2
-    18.00     FC Cincinnati v Columbus Crew  2-3 aet (2-2, 2-0)   @ TQL Stadium › Cincinnati, Ohio
-    21.30     Los Angeles FC v Houston Dynamo  2-0 (1-0)   @ BMO Stadium › Los Angeles, California
-» MLS Cup - Final
+    18:00     FC Cincinnati v Columbus Crew  2-3 aet (2-2, 2-0)   @ TQL Stadium › Cincinnati, Ohio
+    21:30     Los Angeles FC v Houston Dynamo  2-0 (1-0)   @ BMO Stadium › Los Angeles, California
+▪ MLS Cup - Final
   Sat Dec 9
-    16.00     Columbus Crew v Los Angeles FC  2-1 (2-0)   @ Lower.com Field › Columbus, Ohio
+    16:00     Columbus Crew v Los Angeles FC  2-1 (2-0)   @ Lower.com Field › Columbus, Ohio

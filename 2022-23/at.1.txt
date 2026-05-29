@@ -1,327 +1,327 @@
 = Austria | Bundesliga 2022/23
 
-  # Date       Fri Jul/22 2022 - Sun Jun/11 2023 (324d)
+  # Date       Fri Jul 22 2022 - Sun Jun 11 2023 (324d)
   # Teams      12
   # Matches    195
 
   # Note - All times in Europe/Vienna
 
-» Regular Season - 1
+▪ Regular Season - 1
   Fri Jul 22 2022
-    20.30     Red Bull Salzburg v Austria Vienna  3-0 (1-0)   @ Red Bull Arena › Wals-Siezenheim
+    20:30     Red Bull Salzburg v Austria Vienna  3-0 (1-0)   @ Red Bull Arena › Wals-Siezenheim
   Sat Jul 23
-    17.00     Lask Linz v Austria Klagenfurt  3-1 (2-0)   @ Raiffeisen Arena › Pasching
-    19.30     Wolfsberger AC v Sturm Graz  1-1 (1-1)   @ Lavanttal Arena › Wolfsberg
+    17:00     Lask Linz v Austria Klagenfurt  3-1 (2-0)   @ Raiffeisen Arena › Pasching
+    19:30     Wolfsberger AC v Sturm Graz  1-1 (1-1)   @ Lavanttal Arena › Wolfsberg
   Sun Jul 24
-    17.00     Rapid Vienna v Ried  1-0 (0-0)   @ Allianz Stadion › Wien
+    17:00     Rapid Vienna v Ried  1-0 (0-0)   @ Allianz Stadion › Wien
               TSV Hartberg v SCR Altach  2-1 (1-0)   @ PROfertil ARENA › Hartberg
               Austria Lustenau v WSG Wattens  2-1 (1-0)   @ Planet Pure Stadion › Lustenau
-» Regular Season - 2
+▪ Regular Season - 2
   Sat Jul 30
-    17.00     Ried v Austria Lustenau  1-0 (1-0)   @ josko ARENA › Ried Im Innkreis
+    17:00     Ried v Austria Lustenau  1-0 (1-0)   @ josko ARENA › Ried Im Innkreis
               SCR Altach v Wolfsberger AC  2-2 (1-0)   @ CASHPOINT Arena › Altach
-    19.30     Sturm Graz v Red Bull Salzburg  2-1 (1-0)   @ Merkur Arena › Graz
+    19:30     Sturm Graz v Red Bull Salzburg  2-1 (1-0)   @ Merkur Arena › Graz
   Sun Jul 31
-    17.00     Austria Vienna v Lask Linz  1-1 (0-0)   @ Generali Arena › Wien
+    17:00     Austria Vienna v Lask Linz  1-1 (0-0)   @ Generali Arena › Wien
               WSG Wattens v TSV Hartberg  2-1 (1-1)   @ Tivoli Stadion Tirol › Innsbruck
               Austria Klagenfurt v Rapid Vienna  0-1 (0-0)   @ Wörthersee Stadion › Klagenfurt am Wörthersee
-» Regular Season - 3
+▪ Regular Season - 3
   Sat Aug 6
-    17.00     Ried v Sturm Graz  1-1 (0-1)   @ josko ARENA › Ried Im Innkreis
+    17:00     Ried v Sturm Graz  1-1 (0-1)   @ josko ARENA › Ried Im Innkreis
               Wolfsberger AC v Lask Linz  1-5 (0-4)   @ Lavanttal Arena › Wolfsberg
-    19.30     TSV Hartberg v Red Bull Salzburg  0-2 (0-0)   @ PROfertil ARENA › Hartberg
+    19:30     TSV Hartberg v Red Bull Salzburg  0-2 (0-0)   @ PROfertil ARENA › Hartberg
   Sun Aug 7
-    17.00     SCR Altach v Austria Vienna  3-2 (0-1)   @ CASHPOINT Arena › Altach
+    17:00     SCR Altach v Austria Vienna  3-2 (0-1)   @ CASHPOINT Arena › Altach
               Rapid Vienna v Austria Lustenau  1-1 (1-0)   @ Allianz Stadion › Wien
               WSG Wattens v Austria Klagenfurt  2-2 (2-0)   @ Tivoli Stadion Tirol › Innsbruck
-» Regular Season - 4
+▪ Regular Season - 4
   Sat Aug 13
-    17.00     Austria Klagenfurt v Ried  1-0 (0-0)   @ 28 Black Arena › Klagenfurt am Wörthersee
+    17:00     Austria Klagenfurt v Ried  1-0 (0-0)   @ 28 Black Arena › Klagenfurt am Wörthersee
               Austria Vienna v WSG Wattens  2-1 (1-0)   @ Generali Arena › Wien
-    19.30     Sturm Graz v SCR Altach  4-0 (1-0)   @ Merkur Arena › Graz
+    19:30     Sturm Graz v SCR Altach  4-0 (1-0)   @ Merkur Arena › Graz
   Sun Aug 14
-    17.00     Red Bull Salzburg v Wolfsberger AC  2-1 (2-0)   @ Red Bull Arena › Wals-Siezenheim
+    17:00     Red Bull Salzburg v Wolfsberger AC  2-1 (2-0)   @ Red Bull Arena › Wals-Siezenheim
               Lask Linz v Rapid Vienna  2-1 (2-0)   @ Raiffeisen Arena › Pasching
               Austria Lustenau v TSV Hartberg  4-1 (2-1)   @ Planet Pure Stadion › Lustenau
-» Regular Season - 5
+▪ Regular Season - 5
   Sat Aug 20
-    17.00     SCR Altach v Austria Lustenau  1-2 (1-1)   @ CASHPOINT Arena › Altach
+    17:00     SCR Altach v Austria Lustenau  1-2 (1-1)   @ CASHPOINT Arena › Altach
               Red Bull Salzburg v Austria Klagenfurt  2-0 (0-0)   @ Red Bull Arena › Wals-Siezenheim
-    19.30     Sturm Graz v Lask Linz  0-1 (0-0)   @ Merkur Arena › Graz
+    19:30     Sturm Graz v Lask Linz  0-1 (0-0)   @ Merkur Arena › Graz
   Sun Aug 21
-    17.00     Ried v WSG Wattens  1-2 (1-0)   @ josko ARENA › Ried Im Innkreis
+    17:00     Ried v WSG Wattens  1-2 (1-0)   @ josko ARENA › Ried Im Innkreis
               Wolfsberger AC v Austria Vienna  1-2 (1-1)   @ Lavanttal Arena › Wolfsberg
-» Regular Season - 6
+▪ Regular Season - 6
   Sat Aug 27
-    17.00     TSV Hartberg v Ried  2-0 (0-0)   @ PROfertil ARENA › Hartberg
+    17:00     TSV Hartberg v Ried  2-0 (0-0)   @ PROfertil ARENA › Hartberg
               Austria Lustenau v Red Bull Salzburg  0-6 (0-2)   @ Planet Pure Stadion › Lustenau
-    19.30     Lask Linz v SCR Altach  4-1 (1-0)   @ Raiffeisen Arena › Pasching
+    19:30     Lask Linz v SCR Altach  4-1 (1-0)   @ Raiffeisen Arena › Pasching
   Sun Aug 28
-    17.00     WSG Wattens v Wolfsberger AC  1-3 (1-1)   @ Tivoli Stadion Tirol › Innsbruck
+    17:00     WSG Wattens v Wolfsberger AC  1-3 (1-1)   @ Tivoli Stadion Tirol › Innsbruck
               Austria Klagenfurt v Austria Vienna  3-3 (1-1)   @ 28 Black Arena › Klagenfurt am Wörthersee
               Rapid Vienna v Sturm Graz  1-2 (1-1)   @ Allianz Stadion › Wien
-» Regular Season - 7
+▪ Regular Season - 7
   Sat Sep 3
-    17.00     Red Bull Salzburg v WSG Wattens  2-0 (1-0)   @ Red Bull Arena › Wals-Siezenheim
+    17:00     Red Bull Salzburg v WSG Wattens  2-0 (1-0)   @ Red Bull Arena › Wals-Siezenheim
               Austria Vienna v Austria Lustenau  2-2 (1-2)   @ Generali Arena › Wien
               Sturm Graz v TSV Hartberg  0-0 (0-0)   @ Merkur Arena › Graz
   Sun Sep 4
-    14.30     Wolfsberger AC v Austria Klagenfurt  3-4 (2-2)   @ Lavanttal Arena › Wolfsberg
+    14:30     Wolfsberger AC v Austria Klagenfurt  3-4 (2-2)   @ Lavanttal Arena › Wolfsberg
               SCR Altach v Rapid Vienna  0-1 (0-1)   @ CASHPOINT Arena › Altach
-    17.00     Lask Linz v Ried  1-1 (1-0)   @ Raiffeisen Arena › Pasching
-» Regular Season - 8
+    17:00     Lask Linz v Ried  1-1 (1-0)   @ Raiffeisen Arena › Pasching
+▪ Regular Season - 8
   Sat Sep 10
-    17.00     Rapid Vienna v Wolfsberger AC  1-3 (0-2)   @ Allianz Stadion › Wien
+    17:00     Rapid Vienna v Wolfsberger AC  1-3 (0-2)   @ Allianz Stadion › Wien
               Ried v Red Bull Salzburg  0-3 (0-2)   @ josko ARENA › Ried Im Innkreis
               WSG Wattens v SCR Altach  0-0 (0-0)   @ Tivoli Stadion Tirol › Innsbruck
   Sun Sep 11
-    14.30     Austria Lustenau v Lask Linz  1-1 (0-1)   @ Planet Pure Stadion › Lustenau
+    14:30     Austria Lustenau v Lask Linz  1-1 (0-1)   @ Planet Pure Stadion › Lustenau
               TSV Hartberg v Austria Vienna  0-3 (0-1)   @ PROfertil ARENA › Hartberg
-    17.00     Austria Klagenfurt v Sturm Graz  0-2 (0-0)   @ 28 Black Arena › Klagenfurt am Wörthersee
-» Regular Season - 9
+    17:00     Austria Klagenfurt v Sturm Graz  0-2 (0-0)   @ 28 Black Arena › Klagenfurt am Wörthersee
+▪ Regular Season - 9
   Sat Sep 17
-    17.00     SCR Altach v Austria Klagenfurt  1-4 (1-1)   @ CASHPOINT Arena › Altach
+    17:00     SCR Altach v Austria Klagenfurt  1-4 (1-1)   @ CASHPOINT Arena › Altach
               Wolfsberger AC v TSV Hartberg  3-1 (1-1)   @ Lavanttal Arena › Wolfsberg
               Lask Linz v WSG Wattens  1-4 (1-3)   @ Raiffeisen Arena › Pasching
   Sun Sep 18
-    14.30     Sturm Graz v Austria Lustenau  2-0 (1-0)   @ Merkur Arena › Graz
+    14:30     Sturm Graz v Austria Lustenau  2-0 (1-0)   @ Merkur Arena › Graz
               Austria Vienna v Ried  3-0 (1-0)   @ Generali Arena › Wien
-    17.00     Red Bull Salzburg v Rapid Vienna  1-1 (1-1)   @ Red Bull Arena › Wals-Siezenheim
-» Regular Season - 10
+    17:00     Red Bull Salzburg v Rapid Vienna  1-1 (1-1)   @ Red Bull Arena › Wals-Siezenheim
+▪ Regular Season - 10
   Sat Oct 1
-    17.00     Red Bull Salzburg v Lask Linz  1-1 (0-0)   @ Red Bull Arena › Wals-Siezenheim
+    17:00     Red Bull Salzburg v Lask Linz  1-1 (0-0)   @ Red Bull Arena › Wals-Siezenheim
               WSG Wattens v Rapid Vienna  0-5 (0-1)   @ Tivoli Stadion Tirol › Innsbruck
               Austria Lustenau v Wolfsberger AC  1-3 (1-1)   @ Planet Pure Stadion › Lustenau
   Sun Oct 2
-    14.30     TSV Hartberg v Austria Klagenfurt  2-3 (1-2)   @ PROfertil ARENA › Hartberg
+    14:30     TSV Hartberg v Austria Klagenfurt  2-3 (1-2)   @ PROfertil ARENA › Hartberg
               Ried v SCR Altach  2-3 (2-1)   @ josko ARENA › Ried Im Innkreis
-    17.00     Austria Vienna v Sturm Graz  0-3 (0-1)   @ Generali Arena › Wien
-» Regular Season - 11
+    17:00     Austria Vienna v Sturm Graz  0-3 (0-1)   @ Generali Arena › Wien
+▪ Regular Season - 11
   Sat Oct 8
-    17.00     SCR Altach v Red Bull Salzburg  2-3 (0-0)   @ CASHPOINT Arena › Altach
+    17:00     SCR Altach v Red Bull Salzburg  2-3 (0-0)   @ CASHPOINT Arena › Altach
               Lask Linz v TSV Hartberg  0-3 (0-0)   @ Raiffeisen Arena › Pasching
               Austria Klagenfurt v Austria Lustenau  2-1 (1-0)   @ 28 Black Arena › Klagenfurt am Wörthersee
   Sun Oct 9
-    14.30     Wolfsberger AC v Ried  1-2 (0-2)   @ Lavanttal Arena › Wolfsberg
+    14:30     Wolfsberger AC v Ried  1-2 (0-2)   @ Lavanttal Arena › Wolfsberg
               Sturm Graz v WSG Wattens  2-1 (2-1)   @ Merkur Arena › Graz
-    17.00     Rapid Vienna v Austria Vienna  1-2 (0-2)   @ Allianz Stadion › Wien
-» Regular Season - 12
+    17:00     Rapid Vienna v Austria Vienna  1-2 (0-2)   @ Allianz Stadion › Wien
+▪ Regular Season - 12
   Sat Oct 15
-    17.00     Ried v Rapid Vienna  1-0 (0-0)   @ josko ARENA › Ried Im Innkreis
+    17:00     Ried v Rapid Vienna  1-0 (0-0)   @ josko ARENA › Ried Im Innkreis
               WSG Wattens v Austria Lustenau  3-2 (3-0)   @ Tivoli Stadion Tirol › Innsbruck
               Austria Klagenfurt v Lask Linz  1-3 (0-1)   @ 28 Black Arena › Klagenfurt am Wörthersee
   Sun Oct 16
-    14.30     Sturm Graz v Wolfsberger AC  3-2 (0-1)   @ Merkur Arena › Graz
+    14:30     Sturm Graz v Wolfsberger AC  3-2 (0-1)   @ Merkur Arena › Graz
               SCR Altach v TSV Hartberg  1-0 (0-0)   @ CASHPOINT Arena › Altach
-    17.00     Austria Vienna v Red Bull Salzburg  1-3 (1-1)   @ Generali Arena › Wien
-» Regular Season - 13
+    17:00     Austria Vienna v Red Bull Salzburg  1-3 (1-1)   @ Generali Arena › Wien
+▪ Regular Season - 13
   Sat Oct 22
-    17.00     Red Bull Salzburg v Sturm Graz  0-0 (0-0)   @ Red Bull Arena › Wals-Siezenheim
+    17:00     Red Bull Salzburg v Sturm Graz  0-0 (0-0)   @ Red Bull Arena › Wals-Siezenheim
               Rapid Vienna v Austria Klagenfurt  0-1 (0-1)   @ Allianz Stadion › Wien
               TSV Hartberg v WSG Wattens  1-5 (1-2)   @ PROfertil ARENA › Hartberg
   Sun Oct 23
-    14.30     Austria Lustenau v Ried  0-0 (0-0)   @ Planet Pure Stadion › Lustenau
+    14:30     Austria Lustenau v Ried  0-0 (0-0)   @ Planet Pure Stadion › Lustenau
               Wolfsberger AC v SCR Altach  2-3 (2-2)   @ Lavanttal Arena › Wolfsberg
-    17.00     Lask Linz v Austria Vienna  2-2 (0-0)   @ Raiffeisen Arena › Pasching
-» Regular Season - 5
+    17:00     Lask Linz v Austria Vienna  2-2 (0-0)   @ Raiffeisen Arena › Pasching
+▪ Regular Season - 5
   Wed Oct 26
-    16.00     Rapid Vienna v TSV Hartberg  5-1 (1-1)   @ Allianz Stadion › Wien
-» Regular Season - 14
+    16:00     Rapid Vienna v TSV Hartberg  5-1 (1-1)   @ Allianz Stadion › Wien
+▪ Regular Season - 14
   Sat Oct 29
-    17.00     Red Bull Salzburg v TSV Hartberg  1-0 (0-0)   @ Red Bull Arena › Wals-Siezenheim
+    17:00     Red Bull Salzburg v TSV Hartberg  1-0 (0-0)   @ Red Bull Arena › Wals-Siezenheim
               Austria Lustenau v Rapid Vienna  3-3 (1-0)   @ Planet Pure Stadion › Lustenau
               Austria Klagenfurt v WSG Wattens  2-3 (1-2)   @ 28 Black Arena › Klagenfurt am Wörthersee
   Sun Oct 30
-    14.30     Lask Linz v Wolfsberger AC  4-1 (3-0)   @ Raiffeisen Arena › Pasching
+    14:30     Lask Linz v Wolfsberger AC  4-1 (3-0)   @ Raiffeisen Arena › Pasching
               Austria Vienna v SCR Altach  2-1 (0-1)   @ Generali Arena › Wien
-    17.00     Sturm Graz v Ried  2-1 (1-0)   @ Merkur Arena › Graz
-» Regular Season - 15
+    17:00     Sturm Graz v Ried  2-1 (1-0)   @ Merkur Arena › Graz
+▪ Regular Season - 15
   Sat Nov 5
-    17.00     Wolfsberger AC v Red Bull Salzburg  1-2 (0-2)   @ Lavanttal Arena › Wolfsberg
+    17:00     Wolfsberger AC v Red Bull Salzburg  1-2 (0-2)   @ Lavanttal Arena › Wolfsberg
               Ried v Austria Klagenfurt  2-2 (1-0)   @ josko ARENA › Ried Im Innkreis
               TSV Hartberg v Austria Lustenau  1-1 (0-1)   @ PROfertil ARENA › Hartberg
   Sun Nov 6
-    14.30     WSG Wattens v Austria Vienna  0-0 (0-0)   @ Tivoli Stadion Tirol › Innsbruck
+    14:30     WSG Wattens v Austria Vienna  0-0 (0-0)   @ Tivoli Stadion Tirol › Innsbruck
               SCR Altach v Sturm Graz  1-1 (1-1)   @ CASHPOINT Arena › Altach
-    17.00     Rapid Vienna v Lask Linz  1-0 (1-0)   @ Allianz Stadion › Wien
-» Regular Season - 16
+    17:00     Rapid Vienna v Lask Linz  1-0 (1-0)   @ Allianz Stadion › Wien
+▪ Regular Season - 16
   Sat Nov 12
-    17.00     TSV Hartberg v Rapid Vienna  1-2 (1-1)   @ PROfertil ARENA › Hartberg
+    17:00     TSV Hartberg v Rapid Vienna  1-2 (1-1)   @ PROfertil ARENA › Hartberg
               WSG Wattens v Ried  2-0 (2-0)   @ Tivoli Stadion Tirol › Innsbruck
               Austria Lustenau v SCR Altach  3-0 (2-0)   @ Planet Pure Stadion › Lustenau
   Sun Nov 13
-    14.30     Austria Klagenfurt v Red Bull Salzburg  0-1 (0-0)   @ 28 Black Arena › Klagenfurt am Wörthersee
+    14:30     Austria Klagenfurt v Red Bull Salzburg  0-1 (0-0)   @ 28 Black Arena › Klagenfurt am Wörthersee
               Austria Vienna v Wolfsberger AC  0-1 (0-0)   @ Generali Arena › Wien
-    17.00     Lask Linz v Sturm Graz  1-1 (0-0)   @ Raiffeisen Arena › Pasching
-» Regular Season - 17
+    17:00     Lask Linz v Sturm Graz  1-1 (0-0)   @ Raiffeisen Arena › Pasching
+▪ Regular Season - 17
   Fri Feb 10 2023
-    20.30     Sturm Graz v Rapid Vienna  1-0 (0-0)   @ Merkur Arena › Graz
+    20:30     Sturm Graz v Rapid Vienna  1-0 (0-0)   @ Merkur Arena › Graz
   Sat Feb 11
-    17.00     Red Bull Salzburg v Austria Lustenau  4-0 (0-0)   @ Red Bull Arena › Wals-Siezenheim
+    17:00     Red Bull Salzburg v Austria Lustenau  4-0 (0-0)   @ Red Bull Arena › Wals-Siezenheim
               Wolfsberger AC v WSG Wattens  1-2 (0-0)   @ Lavanttal Arena › Wolfsberg
   Sun Feb 12
-    14.30     Ried v TSV Hartberg  0-1 (0-0)   @ josko ARENA › Ried Im Innkreis
+    14:30     Ried v TSV Hartberg  0-1 (0-0)   @ josko ARENA › Ried Im Innkreis
               SCR Altach v Lask Linz  0-1 (0-1)   @ CASHPOINT Arena › Altach
-    17.00     Austria Vienna v Austria Klagenfurt  3-1 (1-0)   @ Generali Arena › Wien
-» Regular Season - 18
+    17:00     Austria Vienna v Austria Klagenfurt  3-1 (1-0)   @ Generali Arena › Wien
+▪ Regular Season - 18
   Sat Feb 18
-    17.00     Ried v Lask Linz  1-1 (1-0)   @ josko ARENA › Ried Im Innkreis
+    17:00     Ried v Lask Linz  1-1 (1-0)   @ josko ARENA › Ried Im Innkreis
               TSV Hartberg v Sturm Graz  1-2 (0-2)   @ PROfertil ARENA › Hartberg
               Austria Klagenfurt v Wolfsberger AC  0-3 (0-3)   @ 28 Black Arena › Klagenfurt am Wörthersee
   Sun Feb 19
-    14.30     Austria Lustenau v Austria Vienna  1-0 (1-0)   @ Planet Pure Stadion › Lustenau
+    14:30     Austria Lustenau v Austria Vienna  1-0 (1-0)   @ Planet Pure Stadion › Lustenau
               WSG Wattens v Red Bull Salzburg  1-3 (0-1)   @ Tivoli Stadion Tirol › Innsbruck
-    17.00     Rapid Vienna v SCR Altach  3-0 (0-0)   @ Allianz Stadion › Wien
-» Regular Season - 19
+    17:00     Rapid Vienna v SCR Altach  3-0 (0-0)   @ Allianz Stadion › Wien
+▪ Regular Season - 19
   Fri Feb 24
-    20.30     Lask Linz v Austria Lustenau  1-0 (0-0)   @ Raiffeisen Arena › Linz
+    20:30     Lask Linz v Austria Lustenau  1-0 (0-0)   @ Raiffeisen Arena › Linz
   Sat Feb 25
-    17.00     Austria Vienna v TSV Hartberg  3-0 (1-0)   @ Generali Arena › Wien
+    17:00     Austria Vienna v TSV Hartberg  3-0 (1-0)   @ Generali Arena › Wien
               Sturm Graz v Austria Klagenfurt  1-2 (1-1)   @ Merkur Arena › Graz
   Sun Feb 26
-    14.30     Wolfsberger AC v Rapid Vienna  1-2 (0-2)   @ Lavanttal Arena › Wolfsberg
+    14:30     Wolfsberger AC v Rapid Vienna  1-2 (0-2)   @ Lavanttal Arena › Wolfsberg
               SCR Altach v WSG Wattens  0-0 (0-0)   @ CASHPOINT Arena › Altach
-    17.00     Red Bull Salzburg v Ried  2-0 (1-0)   @ Red Bull Arena › Wals-Siezenheim
-» Regular Season - 20
+    17:00     Red Bull Salzburg v Ried  2-0 (1-0)   @ Red Bull Arena › Wals-Siezenheim
+▪ Regular Season - 20
   Sat Mar 4
-    17.00     Ried v Austria Vienna  1-3 (1-1)   @ josko ARENA › Ried Im Innkreis
+    17:00     Ried v Austria Vienna  1-3 (1-1)   @ josko ARENA › Ried Im Innkreis
               TSV Hartberg v Wolfsberger AC  2-1 (1-1)   @ PROfertil ARENA › Hartberg
               Austria Lustenau v Sturm Graz  0-2 (0-0)   @ Planet Pure Stadion › Lustenau
   Sun Mar 5
-    14.30     Austria Klagenfurt v SCR Altach  3-0 (3-0)   @ 28 Black Arena › Klagenfurt am Wörthersee
+    14:30     Austria Klagenfurt v SCR Altach  3-0 (3-0)   @ 28 Black Arena › Klagenfurt am Wörthersee
               WSG Wattens v Lask Linz  2-3 (1-2)   @ Tivoli Stadion Tirol › Innsbruck
-    17.00     Rapid Vienna v Red Bull Salzburg  2-4 (1-1)   @ Allianz Stadion › Wien
-» Regular Season - 21
+    17:00     Rapid Vienna v Red Bull Salzburg  2-4 (1-1)   @ Allianz Stadion › Wien
+▪ Regular Season - 21
   Sun Mar 12
-    17.00     SCR Altach v Ried  1-2 (1-1)   @ CASHPOINT Arena › Altach
+    17:00     SCR Altach v Ried  1-2 (1-1)   @ CASHPOINT Arena › Altach
               Sturm Graz v Austria Vienna  3-1 (1-1)   @ Merkur Arena › Graz
               Rapid Vienna v WSG Wattens  2-0 (0-0)   @ Allianz Stadion › Wien
               Wolfsberger AC v Austria Lustenau  0-1 (0-0)   @ Lavanttal Arena › Wolfsberg
               Lask Linz v Red Bull Salzburg  0-2 (0-0)   @ Raiffeisen Arena › Linz
               Austria Klagenfurt v TSV Hartberg  1-0 (1-0)   @ 28 Black Arena › Klagenfurt am Wörthersee
-» Regular Season - 22
+▪ Regular Season - 22
   Sun Mar 19
-    17.00     Red Bull Salzburg v SCR Altach  1-1 (0-0)   @ Red Bull Arena › Wals-Siezenheim
+    17:00     Red Bull Salzburg v SCR Altach  1-1 (0-0)   @ Red Bull Arena › Wals-Siezenheim
               Austria Vienna v Rapid Vienna  2-0 (1-0)   @ Generali Arena › Wien
               Ried v Wolfsberger AC  0-0 (0-0)   @ josko ARENA › Ried Im Innkreis
               TSV Hartberg v Lask Linz  2-2 (1-1)   @ PROfertil ARENA › Hartberg
               WSG Wattens v Sturm Graz  0-2 (0-0)   @ Tivoli Stadion Tirol › Innsbruck
               Austria Lustenau v Austria Klagenfurt  4-2 (2-1)   @ Planet Pure Stadion › Lustenau
-» Relegation Round - 1
+▪ Relegation Round - 1
   Fri Mar 31
-    19.30     TSV Hartberg v Austria Lustenau  0-1 (0-1)   @ PROfertil ARENA › Hartberg
+    19:30     TSV Hartberg v Austria Lustenau  0-1 (0-1)   @ PROfertil ARENA › Hartberg
   Sat Apr 1
-    17.00     Wolfsberger AC v Ried  1-0 (0-0)   @ Lavanttal Arena › Wolfsberg
+    17:00     Wolfsberger AC v Ried  1-0 (0-0)   @ Lavanttal Arena › Wolfsberg
               SCR Altach v WSG Wattens  1-0 (0-0)   @ CASHPOINT Arena › Altach
-» Championship Round - 1
+▪ Championship Round - 1
   Sun Apr 2
-    14.30     Austria Vienna v Lask Linz  2-2 (0-0)   @ Generali Arena › Wien
+    14:30     Austria Vienna v Lask Linz  2-2 (0-0)   @ Generali Arena › Wien
               Austria Klagenfurt v Red Bull Salzburg  0-3 (0-1)   @ 28 Black Arena › Klagenfurt am Wörthersee
-    17.00     Sturm Graz v Rapid Vienna  3-1 (2-1)   @ Merkur Arena › Graz
-» Relegation Round - 2
+    17:00     Sturm Graz v Rapid Vienna  3-1 (2-1)   @ Merkur Arena › Graz
+▪ Relegation Round - 2
   Fri Apr 7
-    19.30     WSG Wattens v Wolfsberger AC  4-0 (3-0)   @ Tivoli Stadion Tirol › Innsbruck
+    19:30     WSG Wattens v Wolfsberger AC  4-0 (3-0)   @ Tivoli Stadion Tirol › Innsbruck
   Sat Apr 8
-    17.00     Austria Lustenau v SCR Altach  1-0 (0-0)   @ Planet Pure Stadion › Lustenau
+    17:00     Austria Lustenau v SCR Altach  1-0 (0-0)   @ Planet Pure Stadion › Lustenau
               Ried v TSV Hartberg  1-3 (0-1)   @ josko ARENA › Ried Im Innkreis
-» Championship Round - 2
+▪ Championship Round - 2
   Sun Apr 9
-    14.30     Red Bull Salzburg v Austria Vienna  3-3 (2-0)   @ Red Bull Arena › Wals-Siezenheim
+    14:30     Red Bull Salzburg v Austria Vienna  3-3 (2-0)   @ Red Bull Arena › Wals-Siezenheim
               Rapid Vienna v Austria Klagenfurt  3-1 (1-0)   @ Allianz Stadion › Wien
-    17.00     Lask Linz v Sturm Graz  2-1 (0-0)   @ Raiffeisen Arena › Linz
-» Relegation Round - 3
+    17:00     Lask Linz v Sturm Graz  2-1 (0-0)   @ Raiffeisen Arena › Linz
+▪ Relegation Round - 3
   Fri Apr 14
-    19.30     Ried v WSG Wattens  1-1 (1-1)   @ josko ARENA › Ried Im Innkreis
+    19:30     Ried v WSG Wattens  1-1 (1-1)   @ josko ARENA › Ried Im Innkreis
   Sat Apr 15
-    17.00     Austria Lustenau v Wolfsberger AC  1-3 (1-0)   @ Planet Pure Stadion › Lustenau
+    17:00     Austria Lustenau v Wolfsberger AC  1-3 (1-0)   @ Planet Pure Stadion › Lustenau
               TSV Hartberg v SCR Altach  2-2 (0-2)   @ PROfertil ARENA › Hartberg
-» Championship Round - 3
+▪ Championship Round - 3
   Sun Apr 16
-    14.30     Red Bull Salzburg v Lask Linz  0-0 (0-0)   @ Red Bull Arena › Wals-Siezenheim
+    14:30     Red Bull Salzburg v Lask Linz  0-0 (0-0)   @ Red Bull Arena › Wals-Siezenheim
               Austria Klagenfurt v Sturm Graz  0-2 (0-0)   @ 28 Black Arena › Klagenfurt am Wörthersee
-    17.00     Rapid Vienna v Austria Vienna  3-3 (2-2)   @ Allianz Stadion › Wien
-» Relegation Round - 4
+    17:00     Rapid Vienna v Austria Vienna  3-3 (2-2)   @ Allianz Stadion › Wien
+▪ Relegation Round - 4
   Fri Apr 21
-    19.30     Wolfsberger AC v TSV Hartberg  2-2 (0-1)   @ Lavanttal Arena › Wolfsberg
+    19:30     Wolfsberger AC v TSV Hartberg  2-2 (0-1)   @ Lavanttal Arena › Wolfsberg
   Sat Apr 22
-    17.00     WSG Wattens v Austria Lustenau  0-2 (0-0)   @ Tivoli Stadion Tirol › Innsbruck
+    17:00     WSG Wattens v Austria Lustenau  0-2 (0-0)   @ Tivoli Stadion Tirol › Innsbruck
               SCR Altach v Ried  1-1 (0-0)   @ CASHPOINT Arena › Altach
-» Championship Round - 4
+▪ Championship Round - 4
   Sun Apr 23
-    14.30     Austria Vienna v Austria Klagenfurt  1-2 (0-0)   @ Generali Arena › Wien
+    14:30     Austria Vienna v Austria Klagenfurt  1-2 (0-0)   @ Generali Arena › Wien
               Lask Linz v Rapid Vienna  3-1 (2-0)   @ Raiffeisen Arena › Linz
-    17.00     Sturm Graz v Red Bull Salzburg  0-2 (0-0)   @ Merkur Arena › Graz
-» Championship Round - 5
+    17:00     Sturm Graz v Red Bull Salzburg  0-2 (0-0)   @ Merkur Arena › Graz
+▪ Championship Round - 5
   Wed Apr 26
-    18.30     Sturm Graz v Austria Vienna  3-2 (1-2)   @ Merkur Arena › Graz
-    20.30     Rapid Vienna v Red Bull Salzburg  1-1 (1-1)   @ Allianz Stadion › Wien
-» Relegation Round - 5
+    18:30     Sturm Graz v Austria Vienna  3-2 (1-2)   @ Merkur Arena › Graz
+    20:30     Rapid Vienna v Red Bull Salzburg  1-1 (1-1)   @ Allianz Stadion › Wien
+▪ Relegation Round - 5
   Fri Apr 28
-    19.30     SCR Altach v Wolfsberger AC  0-2 (0-1)   @ CASHPOINT Arena › Altach
+    19:30     SCR Altach v Wolfsberger AC  0-2 (0-1)   @ CASHPOINT Arena › Altach
   Sat Apr 29
-    17.00     Ried v Austria Lustenau  4-4 (1-3)   @ josko ARENA › Ried Im Innkreis
+    17:00     Ried v Austria Lustenau  4-4 (1-3)   @ josko ARENA › Ried Im Innkreis
               WSG Wattens v TSV Hartberg  1-1 (1-0)   @ Tivoli Stadion Tirol › Innsbruck
-» Championship Round - 5
+▪ Championship Round - 5
   Sun Apr 30
-    17.00     Lask Linz v Austria Klagenfurt  4-0 (0-0)   @ Raiffeisen Arena › Linz
-» Relegation Round - 6
+    17:00     Lask Linz v Austria Klagenfurt  4-0 (0-0)   @ Raiffeisen Arena › Linz
+▪ Relegation Round - 6
   Fri May 5
-    19.30     Wolfsberger AC v SCR Altach  0-0 (0-0)   @ Lavanttal Arena › Wolfsberg
+    19:30     Wolfsberger AC v SCR Altach  0-0 (0-0)   @ Lavanttal Arena › Wolfsberg
   Sat May 6
-    17.00     Austria Lustenau v Ried  2-2 (1-0)   @ Planet Pure Stadion › Lustenau
+    17:00     Austria Lustenau v Ried  2-2 (1-0)   @ Planet Pure Stadion › Lustenau
               TSV Hartberg v WSG Wattens  5-0 (4-0)   @ PROfertil ARENA › Hartberg
-» Championship Round - 6
+▪ Championship Round - 6
   Sun May 7
-    14.30     Austria Vienna v Sturm Graz  1-2 (0-2)   @ Generali Arena › Wien
+    14:30     Austria Vienna v Sturm Graz  1-2 (0-2)   @ Generali Arena › Wien
               Austria Klagenfurt v Lask Linz  1-1 (1-0)   @ 28 Black Arena › Klagenfurt am Wörthersee
-    17.00     Red Bull Salzburg v Rapid Vienna  2-1 (1-0)   @ Red Bull Arena › Wals-Siezenheim
-» Relegation Round - 7
+    17:00     Red Bull Salzburg v Rapid Vienna  2-1 (1-0)   @ Red Bull Arena › Wals-Siezenheim
+▪ Relegation Round - 7
   Fri May 12
-    19.30     WSG Wattens v Ried  1-1 (1-1)   @ Tivoli Stadion Tirol › Innsbruck
+    19:30     WSG Wattens v Ried  1-1 (1-1)   @ Tivoli Stadion Tirol › Innsbruck
   Sat May 13
-    17.00     Wolfsberger AC v Austria Lustenau  2-2 (2-2)   @ Lavanttal Arena › Wolfsberg
+    17:00     Wolfsberger AC v Austria Lustenau  2-2 (2-2)   @ Lavanttal Arena › Wolfsberg
               SCR Altach v TSV Hartberg  0-1 (0-1)   @ CASHPOINT Arena › Altach
-» Championship Round - 7
+▪ Championship Round - 7
   Sun May 14
-    14.30     Sturm Graz v Austria Klagenfurt  4-1 (2-1)   @ Merkur Arena › Graz
+    14:30     Sturm Graz v Austria Klagenfurt  4-1 (2-1)   @ Merkur Arena › Graz
               Lask Linz v Red Bull Salzburg  0-1 (0-0)   @ Raiffeisen Arena › Linz
-    17.00     Austria Vienna v Rapid Vienna  3-1 (2-1)   @ Generali Arena › Wien
-» Relegation Round - 8
+    17:00     Austria Vienna v Rapid Vienna  3-1 (2-1)   @ Generali Arena › Wien
+▪ Relegation Round - 8
   Fri May 19
-    19.30     Ried v SCR Altach  0-1 (0-0)   @ josko ARENA › Ried Im Innkreis
+    19:30     Ried v SCR Altach  0-1 (0-0)   @ josko ARENA › Ried Im Innkreis
   Sat May 20
-    17.00     Austria Lustenau v WSG Wattens  2-4 (0-2)   @ Planet Pure Stadion › Lustenau
+    17:00     Austria Lustenau v WSG Wattens  2-4 (0-2)   @ Planet Pure Stadion › Lustenau
               TSV Hartberg v Wolfsberger AC  0-2 (0-1)   @ PROfertil ARENA › Hartberg
-» Championship Round - 8
+▪ Championship Round - 8
   Sun May 21
-    14.30     Rapid Vienna v Lask Linz  1-1 (1-0)   @ Allianz Stadion › Wien
+    14:30     Rapid Vienna v Lask Linz  1-1 (1-0)   @ Allianz Stadion › Wien
               Austria Klagenfurt v Austria Vienna  1-1 (0-0)   @ 28 Black Arena › Klagenfurt am Wörthersee
-    17.00     Red Bull Salzburg v Sturm Graz  2-1 (0-1)   @ Red Bull Arena › Wals-Siezenheim
-» Relegation Round - 9
+    17:00     Red Bull Salzburg v Sturm Graz  2-1 (0-1)   @ Red Bull Arena › Wals-Siezenheim
+▪ Relegation Round - 9
   Sat May 27
-    17.00     Wolfsberger AC v WSG Wattens  2-0 (2-0)   @ Lavanttal Arena › Wolfsberg
+    17:00     Wolfsberger AC v WSG Wattens  2-0 (2-0)   @ Lavanttal Arena › Wolfsberg
               TSV Hartberg v Ried  2-0 (0-0)   @ PROfertil ARENA › Hartberg
               SCR Altach v Austria Lustenau  1-1 (1-0)   @ CASHPOINT Arena › Altach
-» Championship Round - 9
+▪ Championship Round - 9
   Sun May 28
-    17.00     Red Bull Salzburg v Austria Klagenfurt  3-2 (0-2)   @ Red Bull Arena › Wals-Siezenheim
+    17:00     Red Bull Salzburg v Austria Klagenfurt  3-2 (0-2)   @ Red Bull Arena › Wals-Siezenheim
               Rapid Vienna v Sturm Graz  3-2 (2-2)   @ Allianz Stadion › Wien
               Lask Linz v Austria Vienna  3-1 (1-0)   @ Raiffeisen Arena › Linz
-» Relegation Round - 10
+▪ Relegation Round - 10
   Fri Jun 2
-    19.30     WSG Wattens v SCR Altach  1-1 (1-0)   @ Tivoli Stadion Tirol › Innsbruck
+    19:30     WSG Wattens v SCR Altach  1-1 (1-0)   @ Tivoli Stadion Tirol › Innsbruck
               Austria Lustenau v TSV Hartberg  5-1 (3-0)   @ Planet Pure Stadion › Lustenau
               Ried v Wolfsberger AC  1-2 (1-0)   @ josko ARENA › Ried Im Innkreis
-» Championship Round - 10
+▪ Championship Round - 10
   Sat Jun 3
-    17.00     Austria Vienna v Red Bull Salzburg  1-1 (0-1)   @ Generali Arena › Wien
+    17:00     Austria Vienna v Red Bull Salzburg  1-1 (0-1)   @ Generali Arena › Wien
               Sturm Graz v Lask Linz  2-0 (2-0)   @ Merkur Arena › Graz
               Austria Klagenfurt v Rapid Vienna  2-1 (0-0)   @ 28 Black Arena › Klagenfurt am Wörthersee
-» Conference League Play-offs - 1st Round
+▪ Conference League Play-offs - 1st Round
   Mon Jun 5
-    19.00     Wolfsberger AC v Austria Lustenau  1-2 aet (1-1, 0-0)   @ Lavanttal Arena › Wolfsberg
-» Conference League Play-offs - Final
+    19:00     Wolfsberger AC v Austria Lustenau  1-2 aet (1-1, 0-0)   @ Lavanttal Arena › Wolfsberg
+▪ Conference League Play-offs - Final
   Thu Jun 8
-    17.00     Austria Lustenau v Austria Vienna  1-1 (1-0)   @ Planet Pure Stadion › Lustenau
+    17:00     Austria Lustenau v Austria Vienna  1-1 (1-0)   @ Planet Pure Stadion › Lustenau
   Sun Jun 11
-    17.00     Austria Vienna v Austria Lustenau  5-0 (1-0)   @ Generali Arena › Wien
+    17:00     Austria Vienna v Austria Lustenau  5-0 (1-0)   @ Generali Arena › Wien

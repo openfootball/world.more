@@ -1,547 +1,547 @@
 = Mexico | Liga MX 2023/24
 
-  # Date       Fri Jun/30 2023 - Sun May/26 2024 (331d)
+  # Date       Fri Jun 30 2023 - Sun May 26 2024 (331d)
   # Teams      19
   # Matches    340
 
   # Note - All times in America/Mexico_City
 
-» Apertura - 1
+▪ Apertura - 1
   Fri Jun 30 2023
-    19.00     Mazatlán v Pachuca  1-1 (0-1)   @ Estadio El Encanto › Mazatlán
+    19:00     Mazatlán v Pachuca  1-1 (0-1)   @ Estadio El Encanto › Mazatlán
   Fri Jun 30
-    19.00     Club America v FC Juarez  1-2 (1-0)   @ Estadio Azteca › D.F.
-    21.10     Club Tijuana v U.N.A.M.-Pumas  2-3 (1-1)   @ Estadio Caliente › Tijuana
+    19:00     Club America v FC Juarez  1-2 (1-0)   @ Estadio Azteca › D.F.
+    21:10     Club Tijuana v U.N.A.M.-Pumas  2-3 (1-1)   @ Estadio Caliente › Tijuana
   Sat Jul 1
-    17.00     Atletico San Luis v Monterrey  1-1 (0-1)   @ Estadio Alfonso Lastras Ramírez › San Luis Potosí
-    19.00     Tigres UANL v Puebla  1-1 (0-0)   @ Estadio Universitario › San Nicolás de los Garza
-    21.10     Atlas v Cruz Azul  2-0 (1-0)   @ Estadio Jalisco › Guadalajara
+    17:00     Atletico San Luis v Monterrey  1-1 (0-1)   @ Estadio Alfonso Lastras Ramírez › San Luis Potosí
+    19:00     Tigres UANL v Puebla  1-1 (0-0)   @ Estadio Universitario › San Nicolás de los Garza
+    21:10     Atlas v Cruz Azul  2-0 (1-0)   @ Estadio Jalisco › Guadalajara
   Sun Jul 2
-    12.00     Toluca v Necaxa  0-0 (0-0)   @ Estadio Nemesio Díez › Toluca de Lerdo
-    19.05     Santos Laguna v Club Queretaro  0-2 (0-0)   @ Estadio Corona › Torreón
+    12:00     Toluca v Necaxa  0-0 (0-0)   @ Estadio Nemesio Díez › Toluca de Lerdo
+    19:05     Santos Laguna v Club Queretaro  0-2 (0-0)   @ Estadio Corona › Torreón
   Mon Jul 3
-    20.00     Leon v Guadalajara Chivas  1-2 (1-1)   @ Estadio León › León de los Aldamas
-» Apertura - 2
+    20:00     Leon v Guadalajara Chivas  1-2 (1-1)   @ Estadio León › León de los Aldamas
+▪ Apertura - 2
   Fri Jul 7
-    19.00     Puebla v Santos Laguna  2-3 (2-2)   @ Estadio Cuauhtémoc › Puebla
-    21.00     Necaxa v Club Tijuana  1-1 (0-0)   @ Estadio Victoria › Aguascalientes
+    19:00     Puebla v Santos Laguna  2-3 (2-2)   @ Estadio Cuauhtémoc › Puebla
+    21:00     Necaxa v Club Tijuana  1-1 (0-0)   @ Estadio Victoria › Aguascalientes
   Sat Jul 8
-    17.50     Cruz Azul v Toluca  0-2 (0-1)   @ Estadio Azteca › D.F.
-    18.05     Guadalajara Chivas v Atletico San Luis  3-1 (2-1)   @ Estadio AKRON › Zapopan
-    18.06     FC Juarez v Tigres UANL  1-1 (0-1)   @ Estadio Olímpico Benito Juárez › Ciudad Juárez
+    17:50     Cruz Azul v Toluca  0-2 (0-1)   @ Estadio Azteca › D.F.
+    18:05     Guadalajara Chivas v Atletico San Luis  3-1 (2-1)   @ Estadio AKRON › Zapopan
+    18:06     FC Juarez v Tigres UANL  1-1 (0-1)   @ Estadio Olímpico Benito Juárez › Ciudad Juárez
   Sun Jul 9
-    12.00     U.N.A.M.-Pumas v Mazatlán  0-0 (0-0)   @ Estadio Olímpico Universitario › D.F.
-    19.00     Monterrey v Atlas  1-0 (1-0)   @ Estadio BBVA › Guadalupe
+    12:00     U.N.A.M.-Pumas v Mazatlán  0-0 (0-0)   @ Estadio Olímpico Universitario › D.F.
+    19:00     Monterrey v Atlas  1-0 (1-0)   @ Estadio BBVA › Guadalupe
   Mon Jul 10
-    20.00     Leon v Pachuca  4-0 (3-0)   @ Estadio León › León de los Aldamas
-» Apertura - 3
+    20:00     Leon v Pachuca  4-0 (3-0)   @ Estadio León › León de los Aldamas
+▪ Apertura - 3
   Thu Jul 13
-    19.05     Santos Laguna v Atlas  0-0 (0-0)   @ Estadio Corona › Torreón
-    21.00     Guadalajara Chivas v Necaxa  2-0 (1-0)   @ Estadio AKRON › Zapopan
+    19:05     Santos Laguna v Atlas  0-0 (0-0)   @ Estadio Corona › Torreón
+    21:00     Guadalajara Chivas v Necaxa  2-0 (1-0)   @ Estadio AKRON › Zapopan
   Fri Jul 14
-    19.00     Mazatlán v Monterrey  0-3 (0-0)   @ Estadio El Encanto › Mazatlán
-    21.10     Club Tijuana v Cruz Azul  2-1 (0-1)   @ Estadio Caliente › Tijuana
+    19:00     Mazatlán v Monterrey  0-3 (0-0)   @ Estadio El Encanto › Mazatlán
+    21:10     Club Tijuana v Cruz Azul  2-1 (0-1)   @ Estadio Caliente › Tijuana
   Sat Jul 15
-    17.00     Atletico San Luis v Club Queretaro  4-1 (2-1)   @ Estadio Alfonso Lastras Ramírez › San Luis Potosí
-    19.00     Club America v Puebla  3-0 (2-0)   @ Estadio Azteca › D.F.
-    21.05     Tigres UANL v Leon  1-0 (1-0)   @ Estadio Universitario › San Nicolás de los Garza
+    17:00     Atletico San Luis v Club Queretaro  4-1 (2-1)   @ Estadio Alfonso Lastras Ramírez › San Luis Potosí
+    19:00     Club America v Puebla  3-0 (2-0)   @ Estadio Azteca › D.F.
+    21:05     Tigres UANL v Leon  1-0 (1-0)   @ Estadio Universitario › San Nicolás de los Garza
   Sun Jul 16
-    12.00     Toluca v FC Juarez  2-4 (1-1)   @ Estadio Nemesio Díez › Toluca de Lerdo
-    20.15     Pachuca v U.N.A.M.-Pumas  1-1 (1-1)   @ Estadio Hidalgo › Pachuca de Soto
-» Apertura - 4
+    12:00     Toluca v FC Juarez  2-4 (1-1)   @ Estadio Nemesio Díez › Toluca de Lerdo
+    20:15     Pachuca v U.N.A.M.-Pumas  1-1 (1-1)   @ Estadio Hidalgo › Pachuca de Soto
+▪ Apertura - 4
   Fri Aug 18
-    19.06     Leon v Mazatlán  2-1 (0-1)   @ Estadio León › León de los Aldamas
-    21.00     U.N.A.M.-Pumas v Toluca  1-1 (1-1)   @ Estadio Olímpico Universitario › D.F.
-    21.06     Puebla v Atletico San Luis  1-2 (0-1)   @ Estadio Cuauhtémoc › Puebla
-    21.10     FC Juarez v Guadalajara Chivas  1-1 (0-1)   @ Estadio Olímpico Benito Juárez › Ciudad Juárez
+    19:06     Leon v Mazatlán  2-1 (0-1)   @ Estadio León › León de los Aldamas
+    21:00     U.N.A.M.-Pumas v Toluca  1-1 (1-1)   @ Estadio Olímpico Universitario › D.F.
+    21:06     Puebla v Atletico San Luis  1-2 (0-1)   @ Estadio Cuauhtémoc › Puebla
+    21:10     FC Juarez v Guadalajara Chivas  1-1 (0-1)   @ Estadio Olímpico Benito Juárez › Ciudad Juárez
   Sun Aug 20
-    17.00     Cruz Azul v Santos Laguna  2-2 (2-1)   @ Estadio Azteca › D.F.
-    19.06     Club Queretaro v Pachuca  1-1 (1-0)   @ Estadio Corregidora › Santiago de Querétaro
-    19.10     Club America v Atlas  1-1 (1-1)   @ Estadio Azteca › D.F.
-    21.10     Necaxa v Tigres UANL  0-3 (0-1)   @ Estadio Victoria › Aguascalientes
-» Apertura - 5
+    17:00     Cruz Azul v Santos Laguna  2-2 (2-1)   @ Estadio Azteca › D.F.
+    19:06     Club Queretaro v Pachuca  1-1 (1-0)   @ Estadio Corregidora › Santiago de Querétaro
+    19:10     Club America v Atlas  1-1 (1-1)   @ Estadio Azteca › D.F.
+    21:10     Necaxa v Tigres UANL  0-3 (0-1)   @ Estadio Victoria › Aguascalientes
+▪ Apertura - 5
   Tue Aug 22
-    19.00     Mazatlán v Puebla  1-0 (0-0)   @ Estadio El Encanto › Mazatlán
+    19:00     Mazatlán v Puebla  1-0 (0-0)   @ Estadio El Encanto › Mazatlán
               Guadalajara Chivas v Club Tijuana  1-0 (0-0)   @ Estadio AKRON › Zapopan
-    21.06     FC Juarez v U.N.A.M.-Pumas  4-1 (3-0)   @ Estadio Olímpico Benito Juárez › Ciudad Juárez
+    21:06     FC Juarez v U.N.A.M.-Pumas  4-1 (3-0)   @ Estadio Olímpico Benito Juárez › Ciudad Juárez
   Wed Aug 23
-    19.00     Club America v Necaxa  3-2 (2-1)   @ Estadio Azteca › D.F.
-    19.06     Pachuca v Cruz Azul  1-0 (0-0)   @ Estadio Hidalgo › Pachuca de Soto
-    21.00     Atletico San Luis v Leon  3-0 (1-0)   @ Estadio Alfonso Lastras Ramírez › San Luis Potosí
-» Apertura - 6
+    19:00     Club America v Necaxa  3-2 (2-1)   @ Estadio Azteca › D.F.
+    19:06     Pachuca v Cruz Azul  1-0 (0-0)   @ Estadio Hidalgo › Pachuca de Soto
+    21:00     Atletico San Luis v Leon  3-0 (1-0)   @ Estadio Alfonso Lastras Ramírez › San Luis Potosí
+▪ Apertura - 6
   Fri Aug 25
-    19.00     Puebla v FC Juarez  1-0 (1-0)   @ Estadio Cuauhtémoc › Puebla
-    21.10     Club Tijuana v Mazatlán  1-1 (1-1)   @ Estadio Caliente › Tijuana
+    19:00     Puebla v FC Juarez  1-0 (1-0)   @ Estadio Cuauhtémoc › Puebla
+    21:10     Club Tijuana v Mazatlán  1-1 (1-1)   @ Estadio Caliente › Tijuana
   Sat Aug 26
-    17.00     Atlas v Toluca  0-0 (0-0)   @ Estadio Jalisco › Guadalajara
-    19.00     Club America v Leon  1-1 (0-0)   @ Estadio Azteca › D.F.
-    21.05     Santos Laguna v Guadalajara Chivas  2-1 (0-0)   @ Estadio Corona › Torreón
+    17:00     Atlas v Toluca  0-0 (0-0)   @ Estadio Jalisco › Guadalajara
+    19:00     Club America v Leon  1-1 (0-0)   @ Estadio Azteca › D.F.
+    21:05     Santos Laguna v Guadalajara Chivas  2-1 (0-0)   @ Estadio Corona › Torreón
   Sun Aug 27
-    18.05     U.N.A.M.-Pumas v Tigres UANL  2-1 (0-0)   @ Estadio Olímpico Universitario › D.F.
-    20.05     Monterrey v Cruz Azul  1-2 (1-1)   @ Estadio BBVA › Guadalupe
+    18:05     U.N.A.M.-Pumas v Tigres UANL  2-1 (0-0)   @ Estadio Olímpico Universitario › D.F.
+    20:05     Monterrey v Cruz Azul  1-2 (1-1)   @ Estadio BBVA › Guadalupe
   Mon Aug 28
-    16.00     Necaxa v Club Queretaro  0-1 (0-0)   @ Estadio Victoria › Aguascalientes
-    21.10     Pachuca v Atletico San Luis  0-2 (0-0)   @ Estadio Hidalgo › Pachuca de Soto
-» Apertura - 5
+    16:00     Necaxa v Club Queretaro  0-1 (0-0)   @ Estadio Victoria › Aguascalientes
+    21:10     Pachuca v Atletico San Luis  0-2 (0-0)   @ Estadio Hidalgo › Pachuca de Soto
+▪ Apertura - 5
   Wed Aug 30
-    19.00     Toluca v Monterrey  1-0 (1-0)   @ Estadio Nemesio Díez › Toluca de Lerdo
-    19.06     Club Queretaro v Atlas  1-2 (0-1)   @ Estadio Corregidora › Santiago de Querétaro
-    21.00     Tigres UANL v Santos Laguna  3-2 (1-1)   @ Estadio Universitario › San Nicolás de los Garza
-» Apertura - 7
+    19:00     Toluca v Monterrey  1-0 (1-0)   @ Estadio Nemesio Díez › Toluca de Lerdo
+    19:06     Club Queretaro v Atlas  1-2 (0-1)   @ Estadio Corregidora › Santiago de Querétaro
+    21:00     Tigres UANL v Santos Laguna  3-2 (1-1)   @ Estadio Universitario › San Nicolás de los Garza
+▪ Apertura - 7
   Fri Sep 1
-    19.06     FC Juarez v Mazatlán  3-1 (2-1)   @ Estadio Olímpico Benito Juárez › Ciudad Juárez
-    21.10     Puebla v Club Tijuana  3-0 (2-0)   @ Estadio Cuauhtémoc › Puebla
+    19:06     FC Juarez v Mazatlán  3-1 (2-1)   @ Estadio Olímpico Benito Juárez › Ciudad Juárez
+    21:10     Puebla v Club Tijuana  3-0 (2-0)   @ Estadio Cuauhtémoc › Puebla
   Sat Sep 2
-    17.00     Leon v Necaxa  1-1 (0-1)   @ Estadio León › León de los Aldamas
-    19.00     Santos Laguna v U.N.A.M.-Pumas  2-1 (2-1)   @ Estadio Corona › Torreón
-    19.05     Tigres UANL v Club Queretaro  5-0 (2-0)   @ Estadio Universitario › San Nicolás de los Garza
-    21.10     Cruz Azul v Club America  2-3 (1-3)   @ Estadio Azteca › D.F.
+    17:00     Leon v Necaxa  1-1 (0-1)   @ Estadio León › León de los Aldamas
+    19:00     Santos Laguna v U.N.A.M.-Pumas  2-1 (2-1)   @ Estadio Corona › Torreón
+    19:05     Tigres UANL v Club Queretaro  5-0 (2-0)   @ Estadio Universitario › San Nicolás de los Garza
+    21:10     Cruz Azul v Club America  2-3 (1-3)   @ Estadio Azteca › D.F.
   Sun Sep 3
-    12.00     Toluca v Pachuca  5-0 (2-0)   @ Estadio Nemesio Díez › Toluca de Lerdo
-    17.05     Guadalajara Chivas v Monterrey  1-2 (0-2)   @ Estadio AKRON › Zapopan
-    20.00     Atletico San Luis v Atlas  2-0 (1-0)   @ Estadio Alfonso Lastras Ramírez › San Luis Potosí
-» Apertura - 8
+    12:00     Toluca v Pachuca  5-0 (2-0)   @ Estadio Nemesio Díez › Toluca de Lerdo
+    17:05     Guadalajara Chivas v Monterrey  1-2 (0-2)   @ Estadio AKRON › Zapopan
+    20:00     Atletico San Luis v Atlas  2-0 (1-0)   @ Estadio Alfonso Lastras Ramírez › San Luis Potosí
+▪ Apertura - 8
   Fri Sep 15
-    19.00     Mazatlán v Cruz Azul  2-2 (2-0)   @ Estadio El Encanto › Mazatlán
-    21.10     Club Tijuana v Toluca  2-1 (2-0)   @ Estadio Caliente › Tijuana
+    19:00     Mazatlán v Cruz Azul  2-2 (2-0)   @ Estadio El Encanto › Mazatlán
+    21:10     Club Tijuana v Toluca  2-1 (2-0)   @ Estadio Caliente › Tijuana
   Sat Sep 16
-    17.00     Necaxa v FC Juarez  1-1 (1-1)   @ Estadio Victoria › Aguascalientes
-    19.00     Monterrey v Leon  3-1 (2-1)   @ Estadio BBVA › Guadalupe
-    21.10     Club America v Guadalajara Chivas  4-0 (2-0)   @ Estadio Azteca › D.F.
+    17:00     Necaxa v FC Juarez  1-1 (1-1)   @ Estadio Victoria › Aguascalientes
+    19:00     Monterrey v Leon  3-1 (2-1)   @ Estadio BBVA › Guadalupe
+    21:10     Club America v Guadalajara Chivas  4-0 (2-0)   @ Estadio Azteca › D.F.
   Sun Sep 17
-    12.00     U.N.A.M.-Pumas v Atletico San Luis  3-2 (0-1)   @ Estadio Olímpico Universitario › D.F.
-    17.00     Club Queretaro v Puebla  1-1 (0-1)   @ Estadio Corregidora › Santiago de Querétaro
-    19.00     Atlas v Tigres UANL  2-0 (2-0)   @ Estadio Jalisco › Guadalajara
+    12:00     U.N.A.M.-Pumas v Atletico San Luis  3-2 (0-1)   @ Estadio Olímpico Universitario › D.F.
+    17:00     Club Queretaro v Puebla  1-1 (0-1)   @ Estadio Corregidora › Santiago de Querétaro
+    19:00     Atlas v Tigres UANL  2-0 (2-0)   @ Estadio Jalisco › Guadalajara
   Mon Sep 18
-    21.00     Pachuca v Santos Laguna  3-2 (1-0)   @ Estadio Hidalgo › Pachuca de Soto
-» Apertura - 2
+    21:00     Pachuca v Santos Laguna  3-2 (1-0)   @ Estadio Hidalgo › Pachuca de Soto
+▪ Apertura - 2
   Wed Sep 20
-    20.06     Club Queretaro v Club America  1-2 (1-0)   @ Estadio Corregidora › Santiago de Querétaro
-» Apertura - 9
+    20:06     Club Queretaro v Club America  1-2 (1-0)   @ Estadio Corregidora › Santiago de Querétaro
+▪ Apertura - 9
   Fri Sep 22
-    19.00     Atletico San Luis v Mazatlán  3-2 (2-0)   @ Estadio Alfonso Lastras Ramírez › San Luis Potosí
+    19:00     Atletico San Luis v Mazatlán  3-2 (2-0)   @ Estadio Alfonso Lastras Ramírez › San Luis Potosí
               FC Juarez v Atlas  1-2 (0-1)   @ Estadio Olímpico Benito Juárez › Ciudad Juárez
-    21.10     Puebla v U.N.A.M.-Pumas  0-2 (0-1)   @ Estadio Cuauhtémoc › Puebla
+    21:10     Puebla v U.N.A.M.-Pumas  0-2 (0-1)   @ Estadio Cuauhtémoc › Puebla
   Sat Sep 23
-    19.00     Guadalajara Chivas v Pachuca  0-0 (0-0)   @ Estadio AKRON › Zapopan
+    19:00     Guadalajara Chivas v Pachuca  0-0 (0-0)   @ Estadio AKRON › Zapopan
               Leon v Club Tijuana  1-0 (0-0)   @ Estadio León › León de los Aldamas
-    21.05     Tigres UANL v Monterrey  3-0 (1-0)   @ Estadio Universitario › San Nicolás de los Garza
+    21:05     Tigres UANL v Monterrey  3-0 (1-0)   @ Estadio Universitario › San Nicolás de los Garza
   Sun Sep 24
-    12.00     Toluca v Club America  1-1 (0-1)   @ Estadio Nemesio Díez › Toluca de Lerdo
-    20.05     Santos Laguna v Necaxa  2-5 (0-1)   @ Estadio Corona › Torreón
+    12:00     Toluca v Club America  1-1 (0-1)   @ Estadio Nemesio Díez › Toluca de Lerdo
+    20:05     Santos Laguna v Necaxa  2-5 (0-1)   @ Estadio Corona › Torreón
   Mon Sep 25
-    16.00     Cruz Azul v Club Queretaro  1-3 (1-0)   @ Estadio Azteca › D.F.
-» Apertura - 11
+    16:00     Cruz Azul v Club Queretaro  1-3 (1-0)   @ Estadio Azteca › D.F.
+▪ Apertura - 11
   Tue Sep 26
-    19.05     Guadalajara Chivas v Mazatlán  1-3 (0-2)   @ Estadio AKRON › Zapopan
-» Apertura - 10
+    19:05     Guadalajara Chivas v Mazatlán  1-3 (0-2)   @ Estadio AKRON › Zapopan
+▪ Apertura - 10
   Thu Sep 28
-    20.00     Atlas v Puebla  2-3 (1-2)   @ Estadio Jalisco › Guadalajara
+    20:00     Atlas v Puebla  2-3 (1-2)   @ Estadio Jalisco › Guadalajara
   Fri Sep 29
-    19.00     Club Queretaro v Leon  1-1 (0-1)   @ Estadio Corregidora › Santiago de Querétaro
-    21.00     Atletico San Luis v Cruz Azul  1-2 (0-0)   @ Estadio Alfonso Lastras Ramírez › San Luis Potosí
-    21.10     Club Tijuana v FC Juarez  5-1 (1-1)   @ Estadio Caliente › Tijuana
+    19:00     Club Queretaro v Leon  1-1 (0-1)   @ Estadio Corregidora › Santiago de Querétaro
+    21:00     Atletico San Luis v Cruz Azul  1-2 (0-0)   @ Estadio Alfonso Lastras Ramírez › San Luis Potosí
+    21:10     Club Tijuana v FC Juarez  5-1 (1-1)   @ Estadio Caliente › Tijuana
   Sat Sep 30
-    17.00     Pachuca v Necaxa  1-1 (1-1)   @ Estadio Hidalgo › Pachuca de Soto
-    18.40     Club America v U.N.A.M.-Pumas  1-0 (0-0)   @ Estadio Azteca › D.F.
-    19.06     Mazatlán v Tigres UANL  2-3 (1-1)   @ Estadio El Encanto › Mazatlán
+    17:00     Pachuca v Necaxa  1-1 (1-1)   @ Estadio Hidalgo › Pachuca de Soto
+    18:40     Club America v U.N.A.M.-Pumas  1-0 (0-0)   @ Estadio Azteca › D.F.
+    19:06     Mazatlán v Tigres UANL  2-3 (1-1)   @ Estadio El Encanto › Mazatlán
   Mon Oct 2
-    17.20     Toluca v Guadalajara Chivas  1-1 (0-0)   @ Estadio Nemesio Díez › Toluca de Lerdo
-» Apertura - 11
+    17:20     Toluca v Guadalajara Chivas  1-1 (0-0)   @ Estadio Nemesio Díez › Toluca de Lerdo
+▪ Apertura - 11
   Tue Oct 3
-    19.00     Puebla v Monterrey  1-1 (1-1)   @ Estadio Cuauhtémoc › Puebla
-    21.00     Club America v Pachuca  4-0 (1-0)   @ Estadio Azteca › D.F.
+    19:00     Puebla v Monterrey  1-1 (1-1)   @ Estadio Cuauhtémoc › Puebla
+    21:00     Club America v Pachuca  4-0 (1-0)   @ Estadio Azteca › D.F.
   Wed Oct 4
-    19.00     U.N.A.M.-Pumas v Club Queretaro  4-0 (2-0)   @ Estadio Olímpico Universitario › D.F.
+    19:00     U.N.A.M.-Pumas v Club Queretaro  4-0 (2-0)   @ Estadio Olímpico Universitario › D.F.
               Necaxa v Cruz Azul  1-3 (0-1)   @ Estadio Victoria › Aguascalientes
-    21.00     Santos Laguna v Club Tijuana  2-1 (1-1)   @ Estadio Corona › Torreón
+    21:00     Santos Laguna v Club Tijuana  2-1 (1-1)   @ Estadio Corona › Torreón
               Tigres UANL v Toluca  2-2 (1-1)   @ Estadio Universitario › San Nicolás de los Garza
-» Apertura - 12
+▪ Apertura - 12
   Fri Oct 6
-    21.00     Mazatlán v Club America  1-2 (1-0)   @ Estadio El Encanto › Mazatlán
+    21:00     Mazatlán v Club America  1-2 (1-0)   @ Estadio El Encanto › Mazatlán
   Sat Oct 7
-    17.00     Monterrey v FC Juarez  3-1 (2-0)   @ Estadio BBVA › Guadalupe
-    19.00     Pachuca v Tigres UANL  1-1 (1-1)   @ Estadio Hidalgo › Pachuca de Soto
+    17:00     Monterrey v FC Juarez  3-1 (2-0)   @ Estadio BBVA › Guadalupe
+    19:00     Pachuca v Tigres UANL  1-1 (1-1)   @ Estadio Hidalgo › Pachuca de Soto
               Guadalajara Chivas v Atlas  4-1 (1-1)   @ Estadio AKRON › Zapopan
-    21.10     Cruz Azul v U.N.A.M.-Pumas  1-4 (1-1)   @ Estadio Azteca › D.F.
+    21:10     Cruz Azul v U.N.A.M.-Pumas  1-4 (1-1)   @ Estadio Azteca › D.F.
   Sun Oct 8
-    12.00     Toluca v Club Queretaro  3-1 (1-1)   @ Estadio Nemesio Díez › Toluca de Lerdo
-    17.00     Necaxa v Puebla  1-2 (0-2)   @ Estadio Victoria › Aguascalientes
-    19.05     Santos Laguna v Leon  0-2 (0-1)   @ Estadio Corona › Torreón
-    21.00     Club Tijuana v Atletico San Luis  2-1 (1-0)   @ Estadio Caliente › Tijuana
-» Apertura - 13
+    12:00     Toluca v Club Queretaro  3-1 (1-1)   @ Estadio Nemesio Díez › Toluca de Lerdo
+    17:00     Necaxa v Puebla  1-2 (0-2)   @ Estadio Victoria › Aguascalientes
+    19:05     Santos Laguna v Leon  0-2 (0-1)   @ Estadio Corona › Torreón
+    21:00     Club Tijuana v Atletico San Luis  2-1 (1-0)   @ Estadio Caliente › Tijuana
+▪ Apertura - 13
   Fri Oct 20
-    19.00     Atlas v Mazatlán  1-3 (1-2)   @ Estadio Jalisco › Guadalajara
-    19.06     FC Juarez v Pachuca  0-1 (0-0)   @ Estadio Olímpico Benito Juárez › Ciudad Juárez
-    21.10     Puebla v Guadalajara Chivas  0-2 (0-1)   @ Estadio Cuauhtémoc › Puebla
+    19:00     Atlas v Mazatlán  1-3 (1-2)   @ Estadio Jalisco › Guadalajara
+    19:06     FC Juarez v Pachuca  0-1 (0-0)   @ Estadio Olímpico Benito Juárez › Ciudad Juárez
+    21:10     Puebla v Guadalajara Chivas  0-2 (0-1)   @ Estadio Cuauhtémoc › Puebla
   Sat Oct 21
-    17.00     Leon v Toluca  1-0 (1-0)   @ Estadio León › León de los Aldamas
-    19.00     Club America v Santos Laguna  4-3 (3-2)   @ Estadio Azteca › D.F.
-    19.06     Club Queretaro v Club Tijuana  1-0 (0-0)   @ Estadio Corregidora › Santiago de Querétaro
-    21.10     Tigres UANL v Cruz Azul  2-1 (0-1)   @ Estadio Universitario › San Nicolás de los Garza
+    17:00     Leon v Toluca  1-0 (1-0)   @ Estadio León › León de los Aldamas
+    19:00     Club America v Santos Laguna  4-3 (3-2)   @ Estadio Azteca › D.F.
+    19:06     Club Queretaro v Club Tijuana  1-0 (0-0)   @ Estadio Corregidora › Santiago de Querétaro
+    21:10     Tigres UANL v Cruz Azul  2-1 (0-1)   @ Estadio Universitario › San Nicolás de los Garza
   Sun Oct 22
-    12.00     U.N.A.M.-Pumas v Monterrey  0-1 (0-0)   @ Estadio Olímpico Universitario › D.F.
-    18.00     Atletico San Luis v Necaxa  4-0 (2-0)   @ Estadio Alfonso Lastras Ramírez › San Luis Potosí
-» Apertura - 11
+    12:00     U.N.A.M.-Pumas v Monterrey  0-1 (0-0)   @ Estadio Olímpico Universitario › D.F.
+    18:00     Atletico San Luis v Necaxa  4-0 (2-0)   @ Estadio Alfonso Lastras Ramírez › San Luis Potosí
+▪ Apertura - 11
   Tue Oct 24
-    19.00     Leon v Atlas  1-1 (0-1)   @ Estadio León › León de los Aldamas
-» Apertura - 4
+    19:00     Leon v Atlas  1-1 (0-1)   @ Estadio León › León de los Aldamas
+▪ Apertura - 4
   Wed Oct 25
-    19.00     Monterrey v Club Tijuana  3-1 (2-0)   @ Estadio BBVA › Guadalupe
-» Apertura - 11
+    19:00     Monterrey v Club Tijuana  3-1 (2-0)   @ Estadio BBVA › Guadalupe
+▪ Apertura - 11
   Wed Oct 25
-    21.06     FC Juarez v Atletico San Luis  3-2 (2-0)   @ Estadio Olímpico Benito Juárez › Ciudad Juárez
-» Apertura - 14
+    21:06     FC Juarez v Atletico San Luis  3-2 (2-0)   @ Estadio Olímpico Benito Juárez › Ciudad Juárez
+▪ Apertura - 14
   Fri Oct 27
-    19.00     Necaxa v U.N.A.M.-Pumas  1-0 (0-0)   @ Estadio Victoria › Aguascalientes
-    21.00     Mazatlán v Club Queretaro  3-0 (0-0)   @ Estadio El Encanto › Mazatlán
+    19:00     Necaxa v U.N.A.M.-Pumas  1-0 (0-0)   @ Estadio Victoria › Aguascalientes
+    21:00     Mazatlán v Club Queretaro  3-0 (0-0)   @ Estadio El Encanto › Mazatlán
   Sat Oct 28
-    18.00     Cruz Azul v Leon  1-0 (1-0)   @ Estadio Azteca › D.F.
-    19.05     Pachuca v Puebla  1-1 (1-1)   @ Estadio Hidalgo › Pachuca de Soto
+    18:00     Cruz Azul v Leon  1-0 (1-0)   @ Estadio Azteca › D.F.
+    19:05     Pachuca v Puebla  1-1 (1-1)   @ Estadio Hidalgo › Pachuca de Soto
               Guadalajara Chivas v Tigres UANL  0-4 (0-1)   @ Estadio Jalisco › Guadalajara
-    21.10     Monterrey v Club America  0-3 (0-3)   @ Estadio BBVA › Guadalupe
+    21:10     Monterrey v Club America  0-3 (0-3)   @ Estadio BBVA › Guadalupe
   Sun Oct 29
-    12.00     Toluca v Atletico San Luis  3-1 (1-0)   @ Estadio Nemesio Díez › Toluca de Lerdo
-    19.05     Santos Laguna v FC Juarez  5-1 (2-1)   @ Estadio Corona › Torreón
-    21.00     Club Tijuana v Atlas  2-0 (1-0)   @ Estadio Caliente › Tijuana
-» Apertura - 15
+    12:00     Toluca v Atletico San Luis  3-1 (1-0)   @ Estadio Nemesio Díez › Toluca de Lerdo
+    19:05     Santos Laguna v FC Juarez  5-1 (2-1)   @ Estadio Corona › Torreón
+    21:00     Club Tijuana v Atlas  2-0 (1-0)   @ Estadio Caliente › Tijuana
+▪ Apertura - 15
   Tue Oct 31
-    19.00     Club Queretaro v Guadalajara Chivas  1-2 (0-2)   @ Estadio Corregidora › Santiago de Querétaro
+    19:00     Club Queretaro v Guadalajara Chivas  1-2 (0-2)   @ Estadio Corregidora › Santiago de Querétaro
               Toluca v Puebla  0-1 (0-0)   @ Estadio Nemesio Díez › Toluca de Lerdo
-    21.00     Leon v U.N.A.M.-Pumas  1-1 (0-1)   @ Estadio León › León de los Aldamas
-    21.05     Monterrey v Necaxa  3-0 (1-0)   @ Estadio BBVA › Guadalupe
+    21:00     Leon v U.N.A.M.-Pumas  1-1 (0-1)   @ Estadio León › León de los Aldamas
+    21:05     Monterrey v Necaxa  3-0 (1-0)   @ Estadio BBVA › Guadalupe
   Wed Nov 1
-    19.00     Cruz Azul v FC Juarez  2-0 (1-0)   @ Estadio Azteca › D.F.
+    19:00     Cruz Azul v FC Juarez  2-0 (1-0)   @ Estadio Azteca › D.F.
               Atlas v Pachuca  0-2 (0-1)   @ Estadio Jalisco › Guadalajara
-    21.00     Mazatlán v Santos Laguna  3-1 (2-1)   @ Estadio El Encanto › Mazatlán
+    21:00     Mazatlán v Santos Laguna  3-1 (2-1)   @ Estadio El Encanto › Mazatlán
               Atletico San Luis v Club America  0-1 (0-1)   @ Estadio Alfonso Lastras Ramírez › San Luis Potosí
-    21.06     Club Tijuana v Tigres UANL  2-0 (2-0)   @ Estadio Caliente › Tijuana
-» Apertura - 16
+    21:06     Club Tijuana v Tigres UANL  2-0 (2-0)   @ Estadio Caliente › Tijuana
+▪ Apertura - 16
   Fri Nov 3
-    21.00     Puebla v Leon  5-4 (1-3)   @ Estadio Cuauhtémoc › Puebla
+    21:00     Puebla v Leon  5-4 (1-3)   @ Estadio Cuauhtémoc › Puebla
   Sat Nov 4
-    16.55     Tigres UANL v Atletico San Luis  2-2 (0-0)   @ Estadio Universitario › San Nicolás de los Garza
-    19.00     Club America v Club Tijuana  3-0 (0-0)   @ Estadio Azteca › D.F.
-    21.05     Pachuca v Monterrey  0-2 (0-2)   @ Estadio Hidalgo › Pachuca de Soto
+    16:55     Tigres UANL v Atletico San Luis  2-2 (0-0)   @ Estadio Universitario › San Nicolás de los Garza
+    19:00     Club America v Club Tijuana  3-0 (0-0)   @ Estadio Azteca › D.F.
+    21:05     Pachuca v Monterrey  0-2 (0-2)   @ Estadio Hidalgo › Pachuca de Soto
               Guadalajara Chivas v Cruz Azul  1-0 (0-0)   @ Estadio AKRON › Zapopan
   Sun Nov 5
-    12.00     U.N.A.M.-Pumas v Atlas  3-0 (1-0)   @ Estadio Olímpico Universitario › D.F.
-    16.00     Necaxa v Mazatlán  4-0 (2-0)   @ Estadio Victoria › Aguascalientes
-    18.05     Santos Laguna v Toluca  3-1 (1-0)   @ Estadio Corona › Torreón
-    20.06     FC Juarez v Club Queretaro  0-3 (0-1)   @ Estadio Olímpico Benito Juárez › Ciudad Juárez
-» Apertura - 10
+    12:00     U.N.A.M.-Pumas v Atlas  3-0 (1-0)   @ Estadio Olímpico Universitario › D.F.
+    16:00     Necaxa v Mazatlán  4-0 (2-0)   @ Estadio Victoria › Aguascalientes
+    18:05     Santos Laguna v Toluca  3-1 (1-0)   @ Estadio Corona › Torreón
+    20:06     FC Juarez v Club Queretaro  0-3 (0-1)   @ Estadio Olímpico Benito Juárez › Ciudad Juárez
+▪ Apertura - 10
   Wed Nov 8
-    20.00     Monterrey v Santos Laguna  3-0 (1-0)   @ Estadio BBVA › Guadalupe
-» Apertura - 17
+    20:00     Monterrey v Santos Laguna  3-0 (1-0)   @ Estadio BBVA › Guadalupe
+▪ Apertura - 17
   Fri Nov 10
-    19.00     Atlas v Necaxa  0-0 (0-0)   @ Estadio Jalisco › Guadalajara
-    19.06     Mazatlán v Toluca  1-0 (0-0)   @ Estadio El Encanto › Mazatlán
-    21.10     Club Tijuana v Pachuca  2-3 (1-0)   @ Estadio Caliente › Tijuana
+    19:00     Atlas v Necaxa  0-0 (0-0)   @ Estadio Jalisco › Guadalajara
+    19:06     Mazatlán v Toluca  1-0 (0-0)   @ Estadio El Encanto › Mazatlán
+    21:10     Club Tijuana v Pachuca  2-3 (1-0)   @ Estadio Caliente › Tijuana
   Sat Nov 11
-    17.00     Atletico San Luis v Santos Laguna  0-2 (0-2)   @ Estadio Alfonso Lastras Ramírez › San Luis Potosí
+    17:00     Atletico San Luis v Santos Laguna  0-2 (0-2)   @ Estadio Alfonso Lastras Ramírez › San Luis Potosí
               Club Queretaro v Monterrey  0-0 (0-0)   @ Estadio Corregidora › Santiago de Querétaro
-    19.00     U.N.A.M.-Pumas v Guadalajara Chivas  1-0 (1-0)   @ Estadio Olímpico Universitario › D.F.
-    21.10     Tigres UANL v Club America  0-0 (0-0)   @ Estadio Universitario › San Nicolás de los Garza
+    19:00     U.N.A.M.-Pumas v Guadalajara Chivas  1-0 (1-0)   @ Estadio Olímpico Universitario › D.F.
+    21:10     Tigres UANL v Club America  0-0 (0-0)   @ Estadio Universitario › San Nicolás de los Garza
   Sun Nov 12
-    18.00     Cruz Azul v Puebla  1-2 (1-1)   @ Estadio Azteca › D.F.
-    20.05     Leon v FC Juarez  2-1 (2-1)   @ Estadio León › León de los Aldamas
-» Apertura - Reclasificación
+    18:00     Cruz Azul v Puebla  1-2 (1-1)   @ Estadio Azteca › D.F.
+    20:05     Leon v FC Juarez  2-1 (2-1)   @ Estadio León › León de los Aldamas
+▪ Apertura - Reclasificación
   Thu Nov 23
-    19.00     Atletico San Luis v Leon  3-2 (2-1)   @ Estadio Alfonso Lastras Ramírez › San Luis Potosí
-    21.10     Santos Laguna v Mazatlán  2-1 (1-0)   @ Estadio Corona › Torreón
-» Apertura - Play-offs
+    19:00     Atletico San Luis v Leon  3-2 (2-1)   @ Estadio Alfonso Lastras Ramírez › San Luis Potosí
+    21:10     Santos Laguna v Mazatlán  2-1 (1-0)   @ Estadio Corona › Torreón
+▪ Apertura - Play-offs
   Sun Nov 26
-    20.06     Leon v Santos Laguna  3-2 (2-0)   @ Estadio León › León de los Aldamas
-» Apertura - Quarter-finals
+    20:06     Leon v Santos Laguna  3-2 (2-0)   @ Estadio León › León de los Aldamas
+▪ Apertura - Quarter-finals
   Wed Nov 29
-    19.06     León v Club America  2-2 (2-1)   @ Estadio León › León de los Aldamas
-    21.10     Atletico San Luis v Monterrey  1-0 (1-0)   @ Estadio Alfonso Lastras Ramírez › San Luis Potosí
+    19:06     León v Club America  2-2 (2-1)   @ Estadio León › León de los Aldamas
+    21:10     Atletico San Luis v Monterrey  1-0 (1-0)   @ Estadio Alfonso Lastras Ramírez › San Luis Potosí
   Thu Nov 30
-    19.10     Puebla v Tigres UANL  2-2 (1-1)   @ Estadio Cuauhtémoc › Puebla
-    21.05     Guadalajara Chivas v U.N.A.M.-Pumas  1-0 (1-0)   @ Estadio AKRON › Zapopan
+    19:10     Puebla v Tigres UANL  2-2 (1-1)   @ Estadio Cuauhtémoc › Puebla
+    21:05     Guadalajara Chivas v U.N.A.M.-Pumas  1-0 (1-0)   @ Estadio AKRON › Zapopan
   Sat Dec 2
-    19.00     Club America v Leon  2-0 (0-0)   @ Estadio Azteca › D.F.
-    21.10     Monterrey v Atletico San Luis  1-1 (1-0)   @ Estadio BBVA › Guadalupe
+    19:00     Club America v Leon  2-0 (0-0)   @ Estadio Azteca › D.F.
+    21:10     Monterrey v Atletico San Luis  1-1 (1-0)   @ Estadio BBVA › Guadalupe
   Sun Dec 3
-    18.00     U.N.A.M.-Pumas v Guadalajara Chivas  3-0 (2-0)   @ Estadio Olímpico Universitario › D.F.
-    20.10     Tigres UANL v Puebla  3-0 (2-0)   @ Estadio Universitario › San Nicolás de los Garza
-» Apertura - Semi-finals
+    18:00     U.N.A.M.-Pumas v Guadalajara Chivas  3-0 (2-0)   @ Estadio Olímpico Universitario › D.F.
+    20:10     Tigres UANL v Puebla  3-0 (2-0)   @ Estadio Universitario › San Nicolás de los Garza
+▪ Apertura - Semi-finals
   Wed Dec 6
-    21.00     Atletico San Luis v Club America  0-5 (0-2)   @ Estadio Alfonso Lastras Ramírez › San Luis Potosí
+    21:00     Atletico San Luis v Club America  0-5 (0-2)   @ Estadio Alfonso Lastras Ramírez › San Luis Potosí
   Thu Dec 7
-    21.00     U.N.A.M.-Pumas v Tigres UANL  0-1 (0-0)   @ Estadio Olímpico Universitario › D.F.
+    21:00     U.N.A.M.-Pumas v Tigres UANL  0-1 (0-0)   @ Estadio Olímpico Universitario › D.F.
   Sat Dec 9
-    20.00     Club America v Atletico San Luis  0-2 (0-0)   @ Estadio Azteca › D.F.
+    20:00     Club America v Atletico San Luis  0-2 (0-0)   @ Estadio Azteca › D.F.
   Sun Dec 10
-    20.00     Tigres UANL v U.N.A.M.-Pumas  1-1 (1-1)   @ Estadio Universitario › San Nicolás de los Garza
-» Apertura - Final
+    20:00     Tigres UANL v U.N.A.M.-Pumas  1-1 (1-1)   @ Estadio Universitario › San Nicolás de los Garza
+▪ Apertura - Final
   Thu Dec 14
-    21.00     Tigres UANL v Club America  1-1 (0-0)   @ Estadio Universitario › San Nicolás de los Garza
+    21:00     Tigres UANL v Club America  1-1 (0-0)   @ Estadio Universitario › San Nicolás de los Garza
   Sun Dec 17
-    19.30     Club America v Tigres UANL  3-0 aet (0-0, 0-0)   @ Estadio Azteca › D.F.
-» Clausura - 1
+    19:30     Club America v Tigres UANL  3-0 aet (0-0, 0-0)   @ Estadio Azteca › D.F.
+▪ Clausura - 1
   Fri Jan 12 2024
-    19.00     Club Queretaro v Toluca  2-2 (1-0)   @ Estadio Corregidora › Santiago de Querétaro
+    19:00     Club Queretaro v Toluca  2-2 (1-0)   @ Estadio Corregidora › Santiago de Querétaro
   Fri Jan 12
-    21.00     Mazatlán v Atletico San Luis  0-1 (0-0)   @ Estadio El Encanto › Mazatlán
+    21:00     Mazatlán v Atletico San Luis  0-1 (0-0)   @ Estadio El Encanto › Mazatlán
   Sat Jan 13
-    19.00     Cruz Azul v Pachuca  0-1 (0-0)   @ Estadio Ciudad de los Deportes › D.F.
-    19.05     Guadalajara Chivas v Santos Laguna  1-1 (0-0)   @ Estadio AKRON › Zapopan
-    21.00     Monterrey v Puebla  2-0 (0-0)   @ Estadio BBVA › Guadalupe
+    19:00     Cruz Azul v Pachuca  0-1 (0-0)   @ Estadio Ciudad de los Deportes › D.F.
+    19:05     Guadalajara Chivas v Santos Laguna  1-1 (0-0)   @ Estadio AKRON › Zapopan
+    21:00     Monterrey v Puebla  2-0 (0-0)   @ Estadio BBVA › Guadalupe
               Club Tijuana v Club America  0-2 (0-0)   @ Estadio Caliente › Tijuana
   Sun Jan 14
-    12.00     U.N.A.M.-Pumas v FC Juarez  1-0 (0-0)   @ Estadio Olímpico Universitario › D.F.
-    18.00     Necaxa v Atlas  2-1 (0-1)   @ Estadio Victoria › Aguascalientes
+    12:00     U.N.A.M.-Pumas v FC Juarez  1-0 (0-0)   @ Estadio Olímpico Universitario › D.F.
+    18:00     Necaxa v Atlas  2-1 (0-1)   @ Estadio Victoria › Aguascalientes
   Wed Jan 17
-    19.00     Leon v Tigres UANL  1-2 (0-0)   @ Estadio León › León de los Aldamas
-» Clausura - 2
+    19:00     Leon v Tigres UANL  1-2 (0-0)   @ Estadio León › León de los Aldamas
+▪ Clausura - 2
   Fri Jan 19
-    19.00     Puebla v Necaxa  1-2 (0-0)   @ Estadio Cuauhtémoc › Puebla
-    21.00     Atletico San Luis v U.N.A.M.-Pumas  3-1 (1-0)   @ Estadio Alfonso Lastras Ramírez › San Luis Potosí
-    21.10     FC Juarez v Cruz Azul  0-0 (0-0)   @ Estadio Olímpico Benito Juárez › Ciudad Juárez
+    19:00     Puebla v Necaxa  1-2 (0-0)   @ Estadio Cuauhtémoc › Puebla
+    21:00     Atletico San Luis v U.N.A.M.-Pumas  3-1 (1-0)   @ Estadio Alfonso Lastras Ramírez › San Luis Potosí
+    21:10     FC Juarez v Cruz Azul  0-0 (0-0)   @ Estadio Olímpico Benito Juárez › Ciudad Juárez
   Sat Jan 20
-    17.00     Toluca v Mazatlán  4-1 (1-1)   @ Estadio Nemesio Díez › Toluca de Lerdo
-    19.05     Club America v Club Queretaro  2-0 (0-0)   @ Estadio Azteca › D.F.
-    21.10     Atlas v Club Tijuana  0-0 (0-0)   @ Estadio Jalisco › Guadalajara
+    17:00     Toluca v Mazatlán  4-1 (1-1)   @ Estadio Nemesio Díez › Toluca de Lerdo
+    19:05     Club America v Club Queretaro  2-0 (0-0)   @ Estadio Azteca › D.F.
+    21:10     Atlas v Club Tijuana  0-0 (0-0)   @ Estadio Jalisco › Guadalajara
   Sun Jan 21
-    18.00     Tigres UANL v Guadalajara Chivas  1-0 (0-0)   @ Estadio Universitario › San Nicolás de los Garza
-    20.05     Santos Laguna v Monterrey  0-2 (0-1)   @ Estadio Corona › Torreón
-» Clausura - 4
+    18:00     Tigres UANL v Guadalajara Chivas  1-0 (0-0)   @ Estadio Universitario › San Nicolás de los Garza
+    20:05     Santos Laguna v Monterrey  0-2 (0-1)   @ Estadio Corona › Torreón
+▪ Clausura - 4
   Wed Jan 24
-    19.00     Monterrey v Club Queretaro  1-1 (1-0)   @ Estadio BBVA › Guadalupe
+    19:00     Monterrey v Club Queretaro  1-1 (1-0)   @ Estadio BBVA › Guadalupe
               Atletico San Luis v Tigres UANL  1-2 (1-0)   @ Estadio Alfonso Lastras Ramírez › San Luis Potosí
-    21.06     FC Juarez v Club America  0-2 (0-1)   @ Estadio Olímpico Benito Juárez › Ciudad Juárez
-» Clausura - 3
+    21:06     FC Juarez v Club America  0-2 (0-1)   @ Estadio Olímpico Benito Juárez › Ciudad Juárez
+▪ Clausura - 3
   Fri Jan 26
-    19.00     Puebla v Toluca  1-1 (1-1)   @ Estadio Cuauhtémoc › Puebla
-    21.00     Club Tijuana v Guadalajara Chivas  1-1 (1-0)   @ Estadio Caliente › Tijuana
+    19:00     Puebla v Toluca  1-1 (1-1)   @ Estadio Cuauhtémoc › Puebla
+    21:00     Club Tijuana v Guadalajara Chivas  1-1 (1-0)   @ Estadio Caliente › Tijuana
   Sat Jan 27
-    17.00     Leon v Santos Laguna  3-2 (0-1)   @ Estadio León › León de los Aldamas
+    17:00     Leon v Santos Laguna  3-2 (0-1)   @ Estadio León › León de los Aldamas
               Cruz Azul v Mazatlán  2-1 (2-1)   @ Estadio Ciudad de los Deportes › D.F.
-    19.00     Monterrey v Atletico San Luis  3-1 (2-1)   @ Estadio BBVA › Guadalupe
-    21.05     Necaxa v Club America  0-0 (0-0)   @ Estadio Victoria › Aguascalientes
+    19:00     Monterrey v Atletico San Luis  3-1 (2-1)   @ Estadio BBVA › Guadalupe
+    21:05     Necaxa v Club America  0-0 (0-0)   @ Estadio Victoria › Aguascalientes
   Sun Jan 28
-    17.15     U.N.A.M.-Pumas v Pachuca  3-1 (2-1)   @ Estadio Olímpico Universitario › D.F.
-    19.00     Atlas v FC Juarez  2-1 (2-0)   @ Estadio Jalisco › Guadalajara
-    21.00     Club Queretaro v Tigres UANL  1-1 (1-0)   @ Estadio Corregidora › Santiago de Querétaro
-» Clausura - 4
+    17:15     U.N.A.M.-Pumas v Pachuca  3-1 (2-1)   @ Estadio Olímpico Universitario › D.F.
+    19:00     Atlas v FC Juarez  2-1 (2-0)   @ Estadio Jalisco › Guadalajara
+    21:00     Club Queretaro v Tigres UANL  1-1 (1-0)   @ Estadio Corregidora › Santiago de Querétaro
+▪ Clausura - 4
   Tue Jan 30
-    19.00     Mazatlán v Leon  2-2 (2-1)   @ Estadio El Encanto › Mazatlán
+    19:00     Mazatlán v Leon  2-2 (2-1)   @ Estadio El Encanto › Mazatlán
               Cruz Azul v Club Tijuana  1-0 (0-0)   @ Estadio Ciudad de los Deportes › D.F.
-    21.00     Santos Laguna v Puebla  3-0 (0-0)   @ Estadio Corona › Torreón
-    21.05     Guadalajara Chivas v Toluca  3-2 (2-2)   @ Estadio AKRON › Zapopan
+    21:00     Santos Laguna v Puebla  3-0 (0-0)   @ Estadio Corona › Torreón
+    21:05     Guadalajara Chivas v Toluca  3-2 (2-2)   @ Estadio AKRON › Zapopan
   Wed Jan 31
-    19.00     Pachuca v Atlas  4-3 (3-2)   @ Estadio Hidalgo › Pachuca de Soto
-    21.00     U.N.A.M.-Pumas v Necaxa  2-2 (1-0)   @ Estadio Olímpico Universitario › D.F.
-» Clausura - 5
+    19:00     Pachuca v Atlas  4-3 (3-2)   @ Estadio Hidalgo › Pachuca de Soto
+    21:00     U.N.A.M.-Pumas v Necaxa  2-2 (1-0)   @ Estadio Olímpico Universitario › D.F.
+▪ Clausura - 5
   Fri Feb 2
-    19.00     Club Queretaro v Cruz Azul  1-3 (1-3)   @ Estadio Corregidora › Santiago de Querétaro
-    21.00     Puebla v Mazatlán  3-2 (1-1)   @ Estadio Cuauhtémoc › Puebla
+    19:00     Club Queretaro v Cruz Azul  1-3 (1-3)   @ Estadio Corregidora › Santiago de Querétaro
+    21:00     Puebla v Mazatlán  3-2 (1-1)   @ Estadio Cuauhtémoc › Puebla
   Sat Feb 3
-    17.00     Toluca v Leon  4-1 (3-0)   @ Estadio Nemesio Díez › Toluca de Lerdo
-    19.05     Tigres UANL v U.N.A.M.-Pumas  2-2 (1-0)   @ Estadio Universitario › San Nicolás de los Garza
-    19.10     Pachuca v Club Tijuana  3-2 (2-1)   @ Estadio Hidalgo › Pachuca de Soto
-    21.10     Club America v Monterrey  1-1 (1-1)   @ Estadio Azteca › D.F.
+    17:00     Toluca v Leon  4-1 (3-0)   @ Estadio Nemesio Díez › Toluca de Lerdo
+    19:05     Tigres UANL v U.N.A.M.-Pumas  2-2 (1-0)   @ Estadio Universitario › San Nicolás de los Garza
+    19:10     Pachuca v Club Tijuana  3-2 (2-1)   @ Estadio Hidalgo › Pachuca de Soto
+    21:10     Club America v Monterrey  1-1 (1-1)   @ Estadio Azteca › D.F.
   Sun Feb 4
-    17.06     FC Juarez v Necaxa  2-2 (1-1)   @ Estadio Olímpico Benito Juárez › Ciudad Juárez
-    18.00     Atlas v Santos Laguna  3-0 (2-0)   @ Estadio Jalisco › Guadalajara
-    19.00     Atletico San Luis v Guadalajara Chivas  0-2 (0-1)   @ Estadio Alfonso Lastras Ramírez › San Luis Potosí
-» Clausura - 2
+    17:06     FC Juarez v Necaxa  2-2 (1-1)   @ Estadio Olímpico Benito Juárez › Ciudad Juárez
+    18:00     Atlas v Santos Laguna  3-0 (2-0)   @ Estadio Jalisco › Guadalajara
+    19:00     Atletico San Luis v Guadalajara Chivas  0-2 (0-1)   @ Estadio Alfonso Lastras Ramírez › San Luis Potosí
+▪ Clausura - 2
   Wed Feb 7
-    21.10     Pachuca v Leon  3-2 (1-2)   @ Estadio Hidalgo › Pachuca de Soto
-» Clausura - 6
+    21:10     Pachuca v Leon  3-2 (1-2)   @ Estadio Hidalgo › Pachuca de Soto
+▪ Clausura - 6
   Fri Feb 9
-    19.00     Mazatlán v Atlas  2-0 (0-0)   @ Estadio El Encanto › Mazatlán
-    21.10     Club Tijuana v Club Queretaro  1-1 (1-1)   @ Estadio Caliente › Tijuana
+    19:00     Mazatlán v Atlas  2-0 (0-0)   @ Estadio El Encanto › Mazatlán
+    21:10     Club Tijuana v Club Queretaro  1-1 (1-1)   @ Estadio Caliente › Tijuana
   Sat Feb 10
-    17.00     Necaxa v Toluca  3-3 (2-1)   @ Estadio Victoria › Aguascalientes
-    17.05     Guadalajara Chivas v FC Juarez  2-1 (1-0)   @ Estadio AKRON › Zapopan
-    19.00     Leon v Club America  0-1 (0-0)   @ Estadio León › León de los Aldamas
-    19.05     Cruz Azul v Atletico San Luis  3-0 (1-0)   @ Estadio Ciudad de los Deportes › D.F.
-    21.10     Santos Laguna v Tigres UANL  0-3 (0-2)   @ Estadio Corona › Torreón
+    17:00     Necaxa v Toluca  3-3 (2-1)   @ Estadio Victoria › Aguascalientes
+    17:05     Guadalajara Chivas v FC Juarez  2-1 (1-0)   @ Estadio AKRON › Zapopan
+    19:00     Leon v Club America  0-1 (0-0)   @ Estadio León › León de los Aldamas
+    19:05     Cruz Azul v Atletico San Luis  3-0 (1-0)   @ Estadio Ciudad de los Deportes › D.F.
+    21:10     Santos Laguna v Tigres UANL  0-3 (0-2)   @ Estadio Corona › Torreón
               Monterrey v Pachuca  3-2 (2-0)   @ Estadio BBVA › Guadalupe
   Sun Feb 11
-    12.00     U.N.A.M.-Pumas v Puebla  3-0 (0-0)   @ Estadio Olímpico Universitario › D.F.
-» Clausura - 9
+    12:00     U.N.A.M.-Pumas v Puebla  3-0 (0-0)   @ Estadio Olímpico Universitario › D.F.
+▪ Clausura - 9
   Wed Feb 14
-    21.00     Atlas v U.N.A.M.-Pumas  0-0 (0-0)   @ Estadio Jalisco › Guadalajara
-» Clausura - 7
+    21:00     Atlas v U.N.A.M.-Pumas  0-0 (0-0)   @ Estadio Jalisco › Guadalajara
+▪ Clausura - 7
   Fri Feb 16
-    19.00     Club Queretaro v Necaxa  1-1 (1-0)   @ Estadio Corregidora › Santiago de Querétaro
-    21.00     Mazatlán v Guadalajara Chivas  2-2 (0-1)   @ Estadio El Encanto › Mazatlán
+    19:00     Club Queretaro v Necaxa  1-1 (1-0)   @ Estadio Corregidora › Santiago de Querétaro
+    21:00     Mazatlán v Guadalajara Chivas  2-2 (0-1)   @ Estadio El Encanto › Mazatlán
   Sat Feb 17
-    17.00     Atletico San Luis v Club Tijuana  3-3 (1-2)   @ Estadio Alfonso Lastras Ramírez › San Luis Potosí
-    19.00     Pachuca v Club America  2-1 (0-0)   @ Estadio Hidalgo › Pachuca de Soto
-    21.05     Cruz Azul v Tigres UANL  1-0 (0-0)   @ Estadio Ciudad de los Deportes › D.F.
+    17:00     Atletico San Luis v Club Tijuana  3-3 (1-2)   @ Estadio Alfonso Lastras Ramírez › San Luis Potosí
+    19:00     Pachuca v Club America  2-1 (0-0)   @ Estadio Hidalgo › Pachuca de Soto
+    21:05     Cruz Azul v Tigres UANL  1-0 (0-0)   @ Estadio Ciudad de los Deportes › D.F.
   Sun Feb 18
-    16.00     Atlas v Leon  0-1 (0-0)   @ Estadio Jalisco › Guadalajara
-    18.05     U.N.A.M.-Pumas v Santos Laguna  3-0 (2-0)   @ Estadio Olímpico Universitario › D.F.
-    20.10     Monterrey v Toluca  0-0 (0-0)   @ Estadio BBVA › Guadalupe
-» Clausura - 9
+    16:00     Atlas v Leon  0-1 (0-0)   @ Estadio Jalisco › Guadalajara
+    18:05     U.N.A.M.-Pumas v Santos Laguna  3-0 (2-0)   @ Estadio Olímpico Universitario › D.F.
+    20:10     Monterrey v Toluca  0-0 (0-0)   @ Estadio BBVA › Guadalupe
+▪ Clausura - 9
   Tue Feb 20
-    19.00     Puebla v Pachuca  1-4 (1-1)   @ Estadio Cuauhtémoc › Puebla
-    21.00     Necaxa v Guadalajara Chivas  1-0 (1-0)   @ Estadio Victoria › Aguascalientes
+    19:00     Puebla v Pachuca  1-4 (1-1)   @ Estadio Cuauhtémoc › Puebla
+    21:00     Necaxa v Guadalajara Chivas  1-0 (1-0)   @ Estadio Victoria › Aguascalientes
   Wed Feb 21
-    19.00     Toluca v Santos Laguna  1-0 (0-0)   @ Estadio Nemesio Díez › Toluca de Lerdo
-    21.00     Leon v Cruz Azul  2-3 (0-2)   @ Estadio León › León de los Aldamas
+    19:00     Toluca v Santos Laguna  1-0 (0-0)   @ Estadio Nemesio Díez › Toluca de Lerdo
+    21:00     Leon v Cruz Azul  2-3 (0-2)   @ Estadio León › León de los Aldamas
               Club America v Mazatlán  2-2 (0-1)   @ Estadio Azteca › D.F.
-» Clausura - 8
+▪ Clausura - 8
   Fri Feb 23
-    19.00     Puebla v Club Queretaro  0-2 (0-0)   @ Estadio Cuauhtémoc › Puebla
-    21.00     Necaxa v Pachuca  1-1 (1-0)   @ Estadio Victoria › Aguascalientes
-    21.10     FC Juarez v Monterrey  0-3 (0-0)   @ Estadio Olímpico Benito Juárez › Ciudad Juárez
+    19:00     Puebla v Club Queretaro  0-2 (0-0)   @ Estadio Cuauhtémoc › Puebla
+    21:00     Necaxa v Pachuca  1-1 (1-0)   @ Estadio Victoria › Aguascalientes
+    21:10     FC Juarez v Monterrey  0-3 (0-0)   @ Estadio Olímpico Benito Juárez › Ciudad Juárez
   Sat Feb 24
-    17.00     Leon v Atletico San Luis  1-0 (0-0)   @ Estadio León › León de los Aldamas
-    19.00     Tigres UANL v Atlas  1-1 (1-0)   @ Estadio Universitario › San Nicolás de los Garza
-    19.05     Guadalajara Chivas v U.N.A.M.-Pumas  3-1 (0-0)   @ Estadio AKRON › Zapopan
-    21.10     Club America v Cruz Azul  1-0 (1-0)   @ Estadio Azteca › D.F.
+    17:00     Leon v Atletico San Luis  1-0 (0-0)   @ Estadio León › León de los Aldamas
+    19:00     Tigres UANL v Atlas  1-1 (1-0)   @ Estadio Universitario › San Nicolás de los Garza
+    19:05     Guadalajara Chivas v U.N.A.M.-Pumas  3-1 (0-0)   @ Estadio AKRON › Zapopan
+    21:10     Club America v Cruz Azul  1-0 (1-0)   @ Estadio Azteca › D.F.
   Sun Feb 25
-    12.00     Toluca v Club Tijuana  2-0 (0-0)   @ Estadio Nemesio Díez › Toluca de Lerdo
-    18.00     Santos Laguna v Mazatlán  1-0 (0-0)   @ Estadio Corona › Torreón
-» Clausura - 9
+    12:00     Toluca v Club Tijuana  2-0 (0-0)   @ Estadio Nemesio Díez › Toluca de Lerdo
+    18:00     Santos Laguna v Mazatlán  1-0 (0-0)   @ Estadio Corona › Torreón
+▪ Clausura - 9
   Tue Feb 27
-    19.00     Club Queretaro v Atletico San Luis  4-1 (2-0)   @ Estadio Corregidora › Santiago de Querétaro
+    19:00     Club Queretaro v Atletico San Luis  4-1 (2-0)   @ Estadio Corregidora › Santiago de Querétaro
   Wed Feb 28
-    19.00     Tigres UANL v FC Juarez  1-0 (0-0)   @ Estadio Universitario › San Nicolás de los Garza
-    21.00     Club Tijuana v Monterrey  1-1 (0-0)   @ Estadio Caliente › Tijuana
-» Clausura - 10
+    19:00     Tigres UANL v FC Juarez  1-0 (0-0)   @ Estadio Universitario › San Nicolás de los Garza
+    21:00     Club Tijuana v Monterrey  1-1 (0-0)   @ Estadio Caliente › Tijuana
+▪ Clausura - 10
   Fri Mar 1
-    19.00     Club Queretaro v Santos Laguna  0-1 (0-0)   @ Estadio Corregidora › Santiago de Querétaro
+    19:00     Club Queretaro v Santos Laguna  0-1 (0-0)   @ Estadio Corregidora › Santiago de Querétaro
               Atletico San Luis v Puebla  4-0 (2-0)   @ Estadio Alfonso Lastras Ramírez › San Luis Potosí
-    21.00     Mazatlán v Necaxa  2-1 (0-0)   @ Estadio El Encanto › Mazatlán
+    21:00     Mazatlán v Necaxa  2-1 (0-0)   @ Estadio El Encanto › Mazatlán
   Sat Mar 2
-    17.00     Toluca v Tigres UANL  2-1 (0-1)   @ Estadio Nemesio Díez › Toluca de Lerdo
-    19.00     Pachuca v FC Juarez  3-2 (0-0)   @ Estadio Hidalgo › Pachuca de Soto
-    19.05     Cruz Azul v Guadalajara Chivas  3-0 (3-0)   @ Estadio Azteca › D.F.
-    21.10     Atlas v Club America  1-5 (1-2)   @ Estadio Jalisco › Guadalajara
+    17:00     Toluca v Tigres UANL  2-1 (0-1)   @ Estadio Nemesio Díez › Toluca de Lerdo
+    19:00     Pachuca v FC Juarez  3-2 (0-0)   @ Estadio Hidalgo › Pachuca de Soto
+    19:05     Cruz Azul v Guadalajara Chivas  3-0 (3-0)   @ Estadio Azteca › D.F.
+    21:10     Atlas v Club America  1-5 (1-2)   @ Estadio Jalisco › Guadalajara
   Sun Mar 3
-    19.00     Monterrey v U.N.A.M.-Pumas  3-0 (0-0)   @ Estadio BBVA › Guadalupe
-    21.00     Club Tijuana v Leon  1-1 (0-0)   @ Estadio Caliente › Tijuana
-» Clausura - 11
+    19:00     Monterrey v U.N.A.M.-Pumas  3-0 (0-0)   @ Estadio BBVA › Guadalupe
+    21:00     Club Tijuana v Leon  1-1 (0-0)   @ Estadio Caliente › Tijuana
+▪ Clausura - 11
   Fri Mar 8
-    19.00     Puebla v Atlas  2-2 (1-2)   @ Estadio Cuauhtémoc › Puebla
-    21.00     Necaxa v Atletico San Luis  3-1 (2-1)   @ Estadio Victoria › Aguascalientes
-    21.10     FC Juarez v Toluca  1-1 (1-1)   @ Estadio Olímpico Benito Juárez › Ciudad Juárez
+    19:00     Puebla v Atlas  2-2 (1-2)   @ Estadio Cuauhtémoc › Puebla
+    21:00     Necaxa v Atletico San Luis  3-1 (2-1)   @ Estadio Victoria › Aguascalientes
+    21:10     FC Juarez v Toluca  1-1 (1-1)   @ Estadio Olímpico Benito Juárez › Ciudad Juárez
   Sat Mar 9
-    17.05     Guadalajara Chivas v Leon  1-2 (0-1)   @ Estadio AKRON › Zapopan
-    19.00     Pachuca v Club Queretaro  1-2 (0-1)   @ Estadio Hidalgo › Pachuca de Soto
+    17:05     Guadalajara Chivas v Leon  1-2 (0-1)   @ Estadio AKRON › Zapopan
+    19:00     Pachuca v Club Queretaro  1-2 (0-1)   @ Estadio Hidalgo › Pachuca de Soto
               Santos Laguna v Cruz Azul  3-0 (1-0)   @ Estadio Corona › Torreón
-    21.00     Club America v Tigres UANL  2-0 (1-0)   @ Estadio Azteca › D.F.
+    21:00     Club America v Tigres UANL  2-0 (1-0)   @ Estadio Azteca › D.F.
   Sun Mar 10
-    12.00     U.N.A.M.-Pumas v Club Tijuana  3-3 (2-1)   @ Estadio Olímpico Universitario › D.F.
-    19.00     Monterrey v Mazatlán  2-1 (2-0)   @ Estadio BBVA › Guadalupe
-» Clausura - 12
+    12:00     U.N.A.M.-Pumas v Club Tijuana  3-3 (2-1)   @ Estadio Olímpico Universitario › D.F.
+    19:00     Monterrey v Mazatlán  2-1 (2-0)   @ Estadio BBVA › Guadalupe
+▪ Clausura - 12
   Fri Mar 15
-    19.00     Club Queretaro v FC Juarez  1-0 (1-0)   @ Estadio Corregidora › Santiago de Querétaro
-    21.00     Club Tijuana v Santos Laguna  2-2 (0-1)   @ Estadio Caliente › Tijuana
+    19:00     Club Queretaro v FC Juarez  1-0 (1-0)   @ Estadio Corregidora › Santiago de Querétaro
+    21:00     Club Tijuana v Santos Laguna  2-2 (0-1)   @ Estadio Caliente › Tijuana
   Sat Mar 16
-    17.00     Cruz Azul v Necaxa  1-2 (1-2)   @ Estadio Ciudad de los Deportes › D.F.
-    19.00     Leon v Puebla  2-1 (1-0)   @ Estadio León › León de los Aldamas
+    17:00     Cruz Azul v Necaxa  1-2 (1-2)   @ Estadio Ciudad de los Deportes › D.F.
+    19:00     Leon v Puebla  2-1 (1-0)   @ Estadio León › León de los Aldamas
               Tigres UANL v Mazatlán  5-1 (2-0)   @ Estadio Universitario › San Nicolás de los Garza
-    21.05     Guadalajara Chivas v Club America  0-0 (0-0)   @ Estadio AKRON › Zapopan
+    21:05     Guadalajara Chivas v Club America  0-0 (0-0)   @ Estadio AKRON › Zapopan
   Sun Mar 17
-    17.00     Atlas v Monterrey  1-2 (0-1)   @ Estadio Jalisco › Guadalajara
-    19.00     Toluca v U.N.A.M.-Pumas  3-0 (2-0)   @ Estadio Nemesio Díez › Toluca de Lerdo
+    17:00     Atlas v Monterrey  1-2 (0-1)   @ Estadio Jalisco › Guadalajara
+    19:00     Toluca v U.N.A.M.-Pumas  3-0 (2-0)   @ Estadio Nemesio Díez › Toluca de Lerdo
               Atletico San Luis v Pachuca  2-1 (1-0)   @ Estadio Alfonso Lastras Ramírez › San Luis Potosí
-» Clausura - 7
+▪ Clausura - 7
   Sat Mar 23
-    19.00     FC Juarez v Puebla  4-3 (1-1)   @ Estadio Olímpico Benito Juárez › Ciudad Juárez
-» Clausura - 13
+    19:00     FC Juarez v Puebla  4-3 (1-1)   @ Estadio Olímpico Benito Juárez › Ciudad Juárez
+▪ Clausura - 13
   Fri Mar 29
-    19.00     Puebla v Tigres UANL  2-3 (1-0)   @ Estadio Cuauhtémoc › Puebla
-    20.00     Club America v Atletico San Luis  2-1 (0-0)   @ Estadio Azteca › D.F.
-    21.00     Mazatlán v Club Tijuana  2-0 (1-0)   @ Estadio El Encanto › Mazatlán
+    19:00     Puebla v Tigres UANL  2-3 (1-0)   @ Estadio Cuauhtémoc › Puebla
+    20:00     Club America v Atletico San Luis  2-1 (0-0)   @ Estadio Azteca › D.F.
+    21:00     Mazatlán v Club Tijuana  2-0 (1-0)   @ Estadio El Encanto › Mazatlán
   Sat Mar 30
-    19.00     Monterrey v Guadalajara Chivas  0-2 (0-0)   @ Estadio BBVA › Guadalupe
+    19:00     Monterrey v Guadalajara Chivas  0-2 (0-0)   @ Estadio BBVA › Guadalupe
               Pachuca v Toluca  2-3 (1-3)   @ Estadio Hidalgo › Pachuca de Soto
-    21.05     U.N.A.M.-Pumas v Cruz Azul  0-0 (0-0)   @ Estadio Olímpico Universitario › D.F.
+    21:05     U.N.A.M.-Pumas v Cruz Azul  0-0 (0-0)   @ Estadio Olímpico Universitario › D.F.
   Sun Mar 31
-    17.00     Atlas v Club Queretaro  2-3 (2-1)   @ Estadio Jalisco › Guadalajara
-    19.00     Necaxa v Leon  1-2 (0-0)   @ Estadio Victoria › Aguascalientes
-    19.36     FC Juarez v Santos Laguna  2-1 (0-0)   @ Estadio Olímpico Benito Juárez › Ciudad Juárez
-» Clausura - 14
+    17:00     Atlas v Club Queretaro  2-3 (2-1)   @ Estadio Jalisco › Guadalajara
+    19:00     Necaxa v Leon  1-2 (0-0)   @ Estadio Victoria › Aguascalientes
+    19:36     FC Juarez v Santos Laguna  2-1 (0-0)   @ Estadio Olímpico Benito Juárez › Ciudad Juárez
+▪ Clausura - 14
   Fri Apr 5
-    19.00     Mazatlán v U.N.A.M.-Pumas  0-4 (0-1)   @ Estadio El Encanto › Mazatlán
-    21.10     Club Tijuana v Necaxa  2-3 (1-1)   @ Estadio Caliente › Tijuana
+    19:00     Mazatlán v U.N.A.M.-Pumas  0-4 (0-1)   @ Estadio El Encanto › Mazatlán
+    21:10     Club Tijuana v Necaxa  2-3 (1-1)   @ Estadio Caliente › Tijuana
   Sat Apr 6
-    17.00     Leon v Club Queretaro  0-2 (0-1)   @ Estadio León › León de los Aldamas
-    19.00     Tigres UANL v Pachuca  0-3 (0-0)   @ Estadio Universitario › San Nicolás de los Garza
-    19.05     Guadalajara Chivas v Puebla  3-2 (1-0)   @ Estadio AKRON › Zapopan
-    21.05     Santos Laguna v Club America  1-1 (0-0)   @ Estadio Corona › Torreón
+    17:00     Leon v Club Queretaro  0-2 (0-1)   @ Estadio León › León de los Aldamas
+    19:00     Tigres UANL v Pachuca  0-3 (0-0)   @ Estadio Universitario › San Nicolás de los Garza
+    19:05     Guadalajara Chivas v Puebla  3-2 (1-0)   @ Estadio AKRON › Zapopan
+    21:05     Santos Laguna v Club America  1-1 (0-0)   @ Estadio Corona › Torreón
               Cruz Azul v Monterrey  2-1 (0-0)   @ Estadio Ciudad de los Deportes › D.F.
   Sun Apr 7
-    12.00     Toluca v Atlas  4-1 (2-0)   @ Estadio Nemesio Díez › Toluca de Lerdo
-    18.00     Atletico San Luis v FC Juarez  2-3 (2-2)   @ Estadio Alfonso Lastras Ramírez › San Luis Potosí
-» Clausura - 15
+    12:00     Toluca v Atlas  4-1 (2-0)   @ Estadio Nemesio Díez › Toluca de Lerdo
+    18:00     Atletico San Luis v FC Juarez  2-3 (2-2)   @ Estadio Alfonso Lastras Ramírez › San Luis Potosí
+▪ Clausura - 15
   Fri Apr 12
-    19.06     Club Queretaro v Mazatlán  0-2 (0-1)   @ Estadio Corregidora › Santiago de Querétaro
-    21.00     Necaxa v Santos Laguna  2-0 (1-0)   @ Estadio Victoria › Aguascalientes
+    19:06     Club Queretaro v Mazatlán  0-2 (0-1)   @ Estadio Corregidora › Santiago de Querétaro
+    21:00     Necaxa v Santos Laguna  2-0 (1-0)   @ Estadio Victoria › Aguascalientes
               Puebla v Cruz Azul  0-1 (0-0)   @ Estadio Cuauhtémoc › Puebla
   Sat Apr 13
-    17.00     Pachuca v Guadalajara Chivas  0-1 (0-1)   @ Estadio Hidalgo › Pachuca de Soto
-    19.05     Club America v Toluca  5-1 (3-1)   @ Estadio Azteca › D.F.
-    21.10     Monterrey v Tigres UANL  3-3 (1-2)   @ Estadio BBVA › Guadalupe
+    17:00     Pachuca v Guadalajara Chivas  0-1 (0-1)   @ Estadio Hidalgo › Pachuca de Soto
+    19:05     Club America v Toluca  5-1 (3-1)   @ Estadio Azteca › D.F.
+    21:10     Monterrey v Tigres UANL  3-3 (1-2)   @ Estadio BBVA › Guadalupe
   Sun Apr 14
-    18.00     U.N.A.M.-Pumas v Leon  1-0 (0-0)   @ Estadio Olímpico Universitario › D.F.
+    18:00     U.N.A.M.-Pumas v Leon  1-0 (0-0)   @ Estadio Olímpico Universitario › D.F.
               Atlas v Atletico San Luis  2-1 (1-1)   @ Estadio Jalisco › Guadalajara
-    20.06     FC Juarez v Club Tijuana  0-1 (0-0)   @ Estadio Olímpico Benito Juárez › Ciudad Juárez
-» Clausura - 16
+    20:06     FC Juarez v Club Tijuana  0-1 (0-0)   @ Estadio Olímpico Benito Juárez › Ciudad Juárez
+▪ Clausura - 16
   Fri Apr 19
-    19.00     Mazatlán v FC Juarez  0-2 (0-0)   @ Estadio El Encanto › Mazatlán
-    21.00     Atletico San Luis v Toluca  1-5 (1-2)   @ Estadio Alfonso Lastras Ramírez › San Luis Potosí
-    21.10     Club Tijuana v Puebla  3-1 (0-1)   @ Estadio Caliente › Tijuana
+    19:00     Mazatlán v FC Juarez  0-2 (0-0)   @ Estadio El Encanto › Mazatlán
+    21:00     Atletico San Luis v Toluca  1-5 (1-2)   @ Estadio Alfonso Lastras Ramírez › San Luis Potosí
+    21:10     Club Tijuana v Puebla  3-1 (0-1)   @ Estadio Caliente › Tijuana
   Sat Apr 20
-    17.00     Leon v Monterrey  2-0 (1-0)   @ Estadio León › León de los Aldamas
-    19.05     Guadalajara Chivas v Club Queretaro  2-0 (0-0)   @ Estadio AKRON › Zapopan
+    17:00     Leon v Monterrey  2-0 (1-0)   @ Estadio León › León de los Aldamas
+    19:05     Guadalajara Chivas v Club Queretaro  2-0 (0-0)   @ Estadio AKRON › Zapopan
               Tigres UANL v Necaxa  5-2 (0-1)   @ Estadio Universitario › San Nicolás de los Garza
               Santos Laguna v Pachuca  0-2 (0-0)   @ Estadio Corona › Torreón
-    21.10     U.N.A.M.-Pumas v Club America  2-1 (1-1)   @ Estadio Olímpico Universitario › D.F.
+    21:10     U.N.A.M.-Pumas v Club America  2-1 (1-1)   @ Estadio Olímpico Universitario › D.F.
   Sun Apr 21
-    18.00     Cruz Azul v Atlas  2-2 (1-2)   @ Estadio Ciudad de los Deportes › D.F.
-» Clausura - 17
+    18:00     Cruz Azul v Atlas  2-2 (1-2)   @ Estadio Ciudad de los Deportes › D.F.
+▪ Clausura - 17
   Fri Apr 26
-    19.00     Puebla v Club America  1-2 (1-2)   @ Estadio Cuauhtémoc › Puebla
-    21.10     Club Queretaro v U.N.A.M.-Pumas  1-1 (0-0)   @ Estadio Corregidora › Santiago de Querétaro
+    19:00     Puebla v Club America  1-2 (1-2)   @ Estadio Cuauhtémoc › Puebla
+    21:10     Club Queretaro v U.N.A.M.-Pumas  1-1 (0-0)   @ Estadio Corregidora › Santiago de Querétaro
   Sat Apr 27
-    17.06     FC Juarez v Leon  1-1 (1-0)   @ Estadio Olímpico Benito Juárez › Ciudad Juárez
-    19.00     Toluca v Cruz Azul  0-1 (0-1)   @ Estadio Nemesio Díez › Toluca de Lerdo
+    17:06     FC Juarez v Leon  1-1 (1-0)   @ Estadio Olímpico Benito Juárez › Ciudad Juárez
+    19:00     Toluca v Cruz Azul  0-1 (0-1)   @ Estadio Nemesio Díez › Toluca de Lerdo
               Tigres UANL v Club Tijuana  4-1 (1-0)   @ Estadio Universitario › San Nicolás de los Garza
-    19.10     Pachuca v Mazatlán  1-1 (0-0)   @ Estadio Hidalgo › Pachuca de Soto
-    21.10     Atlas v Guadalajara Chivas  0-1 (0-0)   @ Estadio Jalisco › Guadalajara
+    19:10     Pachuca v Mazatlán  1-1 (0-0)   @ Estadio Hidalgo › Pachuca de Soto
+    21:10     Atlas v Guadalajara Chivas  0-1 (0-0)   @ Estadio Jalisco › Guadalajara
   Sun Apr 28
-    18.00     Necaxa v Monterrey  2-5 (0-0)   @ Estadio Victoria › Aguascalientes
+    18:00     Necaxa v Monterrey  2-5 (0-0)   @ Estadio Victoria › Aguascalientes
               Santos Laguna v Atletico San Luis  0-3 (0-2)   @ Estadio Corona › Torreón
-» Clausura - Reclasificacion
+▪ Clausura - Reclasificacion
   Thu May 2
-    19.00     Necaxa v Club Queretaro  3-2 pen (1-1, 1-1, 0-0)   @ Estadio Victoria › Aguascalientes
-    21.15     Pachuca v U.N.A.M.-Pumas  3-5 pen (0-0, 0-0, 0-0)   @ Estadio Hidalgo › Pachuca de Soto
-» Clausura - Play-offs
+    19:00     Necaxa v Club Queretaro  3-2 pen (1-1, 1-1, 0-0)   @ Estadio Victoria › Aguascalientes
+    21:15     Pachuca v U.N.A.M.-Pumas  3-5 pen (0-0, 0-0, 0-0)   @ Estadio Hidalgo › Pachuca de Soto
+▪ Clausura - Play-offs
   Sun May 5
-    20.06     Pachuca v Necaxa  2-1 (0-0)   @ Estadio Hidalgo › Pachuca de Soto
-» Clausura - Quarter-finals
+    20:06     Pachuca v Necaxa  2-1 (0-0)   @ Estadio Hidalgo › Pachuca de Soto
+▪ Clausura - Quarter-finals
   Wed May 8
-    19.05     Guadalajara Chivas v Toluca  1-0 (0-0)   @ Estadio AKRON › Zapopan
-    21.16     Pachuca v Club America  1-1 (1-1)   @ Estadio Hidalgo › Pachuca de Soto
+    19:05     Guadalajara Chivas v Toluca  1-0 (0-0)   @ Estadio AKRON › Zapopan
+    21:16     Pachuca v Club America  1-1 (1-1)   @ Estadio Hidalgo › Pachuca de Soto
   Thu May 9
-    19.00     U.N.A.M.-Pumas v Cruz Azul  0-2 (0-1)   @ Estadio Olímpico Universitario › D.F.
-    21.10     Tigres UANL v Monterrey  1-2 (1-1)   @ Estadio Universitario › San Nicolás de los Garza
+    19:00     U.N.A.M.-Pumas v Cruz Azul  0-2 (0-1)   @ Estadio Olímpico Universitario › D.F.
+    21:10     Tigres UANL v Monterrey  1-2 (1-1)   @ Estadio Universitario › San Nicolás de los Garza
   Sat May 11
-    18.00     Club America v Pachuca  1-1 (0-1)   @ Estadio Azteca › D.F.
-    20.10     Toluca v Guadalajara Chivas  0-0 (0-0)   @ Estadio Nemesio Díez › Toluca de Lerdo
+    18:00     Club America v Pachuca  1-1 (0-1)   @ Estadio Azteca › D.F.
+    20:10     Toluca v Guadalajara Chivas  0-0 (0-0)   @ Estadio Nemesio Díez › Toluca de Lerdo
   Sun May 12
-    19.00     Cruz Azul v U.N.A.M.-Pumas  2-2 (0-0)   @ Estadio Ciudad de los Deportes › D.F.
-    21.10     Monterrey v Tigres UANL  1-1 (0-1)   @ Estadio BBVA › Guadalupe
-» Clausura - Semi-finals
+    19:00     Cruz Azul v U.N.A.M.-Pumas  2-2 (0-0)   @ Estadio Ciudad de los Deportes › D.F.
+    21:10     Monterrey v Tigres UANL  1-1 (0-1)   @ Estadio BBVA › Guadalupe
+▪ Clausura - Semi-finals
   Wed May 15
-    20.05     Guadalajara Chivas v Club America  0-0 (0-0)   @ Estadio AKRON › Zapopan
+    20:05     Guadalajara Chivas v Club America  0-0 (0-0)   @ Estadio AKRON › Zapopan
   Thu May 16
-    21.00     Monterrey v Cruz Azul  0-1 (0-1)   @ Estadio BBVA › Guadalupe
+    21:00     Monterrey v Cruz Azul  0-1 (0-1)   @ Estadio BBVA › Guadalupe
   Sat May 18
-    20.00     Club America v Guadalajara Chivas  1-0 (0-0)   @ Estadio Azteca › D.F.
+    20:00     Club America v Guadalajara Chivas  1-0 (0-0)   @ Estadio Azteca › D.F.
   Sun May 19
-    18.00     Cruz Azul v Monterrey  1-2 (0-0)   @ Estadio Ciudad de los Deportes › D.F.
-» Clausura - Final
+    18:00     Cruz Azul v Monterrey  1-2 (0-0)   @ Estadio Ciudad de los Deportes › D.F.
+▪ Clausura - Final
   Thu May 23
-    20.00     Cruz Azul v Club America  1-1 (1-1)   @ Estadio Ciudad de los Deportes › D.F.
+    20:00     Cruz Azul v Club America  1-1 (1-1)   @ Estadio Ciudad de los Deportes › D.F.
   Sun May 26
-    19.00     Club America v Cruz Azul  1-0 (0-0)   @ Estadio Azteca › D.F.
+    19:00     Club America v Cruz Azul  1-0 (0-0)   @ Estadio Azteca › D.F.

@@ -1,540 +1,540 @@
 = Belgium | Jupiler Pro League 2023/24
 
-  # Date       Fri Jul/28 2023 - Sun Jun/2 2024 (310d)
+  # Date       Fri Jul 28 2023 - Sun Jun 2 2024 (310d)
   # Teams      17
   # Matches    315
 
   # Note - All times in Europe/Brussels
 
-» Regular Season - 1
+▪ Regular Season - 1
   Fri Jul 28 2023
-    20.45     Union St. Gilloise v Anderlecht  2-0 (1-0)   @ Stade Joseph Mariën › Brussels
+    20:45     Union St. Gilloise v Anderlecht  2-0 (1-0)   @ Stade Joseph Mariën › Brussels
   Sat Jul 29
-    16.00     AS Eupen v KVC Westerlo  2-2 (1-0)   @ Kehrwegstadion › Eupen
-    18.15     Charleroi v OH Leuven  1-1 (1-0)   @ Stade du Pays de Charleroi › Charleroi
-    20.45     RWDM v Genk  0-4 (0-3)   @ Edmond Machtensstadion › Bruxelles
+    16:00     AS Eupen v KVC Westerlo  2-2 (1-0)   @ Kehrwegstadion › Eupen
+    18:15     Charleroi v OH Leuven  1-1 (1-0)   @ Stade du Pays de Charleroi › Charleroi
+    20:45     RWDM v Genk  0-4 (0-3)   @ Edmond Machtensstadion › Bruxelles
   Sun Jul 30
-    13.30     Antwerp v Cercle Brugge  1-0 (1-0)   @ Bosuilstadion › Deurne
-    16.00     Gent v Kortrijk  3-2 (2-1)   @ Planet Group Arena › Gent
-    18.30     Club Brugge KV v KV Mechelen  1-1 (0-1)   @ Jan Breydelstadion › Brugge
-    19.15     St. Truiden v Standard Liege  1-0 (0-0)   @ Daio Wasabi Stayen Stadium › St.-Trond
-» Regular Season - 2
+    13:30     Antwerp v Cercle Brugge  1-0 (1-0)   @ Bosuilstadion › Deurne
+    16:00     Gent v Kortrijk  3-2 (2-1)   @ Planet Group Arena › Gent
+    18:30     Club Brugge KV v KV Mechelen  1-1 (0-1)   @ Jan Breydelstadion › Brugge
+    19:15     St. Truiden v Standard Liege  1-0 (0-0)   @ Daio Wasabi Stayen Stadium › St.-Trond
+▪ Regular Season - 2
   Fri Aug 4
-    20.45     Standard Liege v Union St. Gilloise  0-1 (0-1)   @ Stade Maurice Dufrasne › Luik
+    20:45     Standard Liege v Union St. Gilloise  0-1 (0-1)   @ Stade Maurice Dufrasne › Luik
   Sat Aug 5
-    16.00     Genk v AS Eupen  0-1 (0-1)   @ Cegeka Arena › Genk
-    18.15     Cercle Brugge v Charleroi  2-0 (2-0)   @ Jan Breydelstadion › Brugge
-    20.45     OH Leuven v RWDM  1-2 (1-1)   @ King Power at Den Dreef Stadion › Heverlee
+    16:00     Genk v AS Eupen  0-1 (0-1)   @ Cegeka Arena › Genk
+    18:15     Cercle Brugge v Charleroi  2-0 (2-0)   @ Jan Breydelstadion › Brugge
+    20:45     OH Leuven v RWDM  1-2 (1-1)   @ King Power at Den Dreef Stadion › Heverlee
   Sun Aug 6
-    13.30     Anderlecht v Antwerp  1-0 (1-0)   @ Lotto Park › Brussel
-    16.00     KV Mechelen v Gent  0-1 (0-0)   @ AFAS Stadion › Malines
-    18.30     KVC Westerlo v Club Brugge KV  0-1 (0-1)   @ Het Kuipje › Westerlo
-    19.15     Kortrijk v St. Truiden  0-1 (0-0)   @ Guldensporenstadion › Kortrijk
-» Regular Season - 3
+    13:30     Anderlecht v Antwerp  1-0 (1-0)   @ Lotto Park › Brussel
+    16:00     KV Mechelen v Gent  0-1 (0-0)   @ AFAS Stadion › Malines
+    18:30     KVC Westerlo v Club Brugge KV  0-1 (0-1)   @ Het Kuipje › Westerlo
+    19:15     Kortrijk v St. Truiden  0-1 (0-0)   @ Guldensporenstadion › Kortrijk
+▪ Regular Season - 3
   Fri Aug 11
-    20.45     Antwerp v Kortrijk  6-0 (4-0)   @ Bosuilstadion › Deurne
+    20:45     Antwerp v Kortrijk  6-0 (4-0)   @ Bosuilstadion › Deurne
   Sat Aug 12
-    16.00     RWDM v KV Mechelen  1-0 (0-0)   @ Edmond Machtensstadion › Bruxelles
-    18.15     Union St. Gilloise v OH Leuven  5-1 (2-1)   @ Stade Joseph Mariën › Brussels
+    16:00     RWDM v KV Mechelen  1-0 (0-0)   @ Edmond Machtensstadion › Bruxelles
+    18:15     Union St. Gilloise v OH Leuven  5-1 (2-1)   @ Stade Joseph Mariën › Brussels
   Sun Aug 13
-    13.30     St. Truiden v Anderlecht  0-1 (0-0)   @ Daio Wasabi Stayen Stadium › St.-Trond
-    16.00     Cercle Brugge v Genk  0-1 (0-0)   @ Jan Breydelstadion › Brugge
+    13:30     St. Truiden v Anderlecht  0-1 (0-0)   @ Daio Wasabi Stayen Stadium › St.-Trond
+    16:00     Cercle Brugge v Genk  0-1 (0-0)   @ Jan Breydelstadion › Brugge
               AS Eupen v Club Brugge KV  0-5 (0-3)   @ Kehrwegstadion › Eupen
-    18.30     Charleroi v Standard Liege  1-1 (0-1)   @ Stade du Pays de Charleroi › Charleroi
-    19.15     KVC Westerlo v Gent  1-3 (1-1)   @ Het Kuipje › Westerlo
-» Regular Season - 4
+    18:30     Charleroi v Standard Liege  1-1 (0-1)   @ Stade du Pays de Charleroi › Charleroi
+    19:15     KVC Westerlo v Gent  1-3 (1-1)   @ Het Kuipje › Westerlo
+▪ Regular Season - 4
   Fri Aug 18
-    20.45     OH Leuven v Antwerp  1-1 (0-1)   @ King Power at Den Dreef Stadion › Heverlee
+    20:45     OH Leuven v Antwerp  1-1 (0-1)   @ King Power at Den Dreef Stadion › Heverlee
   Sat Aug 19
-    16.00     Standard Liege v Cercle Brugge  0-1 (0-0)   @ Stade Maurice Dufrasne › Luik
-    20.45     KV Mechelen v Union St. Gilloise  4-0 (1-0)   @ AFAS Stadion › Malines
+    16:00     Standard Liege v Cercle Brugge  0-1 (0-0)   @ Stade Maurice Dufrasne › Luik
+    20:45     KV Mechelen v Union St. Gilloise  4-0 (1-0)   @ AFAS Stadion › Malines
   Sun Aug 20
-    13.30     Anderlecht v KVC Westerlo  2-1 (1-0)   @ Lotto Park › Brussel
-    16.00     Gent v St. Truiden  2-2 (1-2)   @ Planet Group Arena › Gent
+    13:30     Anderlecht v KVC Westerlo  2-1 (1-0)   @ Lotto Park › Brussel
+    16:00     Gent v St. Truiden  2-2 (1-2)   @ Planet Group Arena › Gent
               Genk v Charleroi  0-0 (0-0)   @ Cegeka Arena › Genk
-    18.30     Club Brugge KV v RWDM  7-1 (2-1)   @ Jan Breydelstadion › Brugge
-    19.15     Kortrijk v AS Eupen  1-3 (0-0)   @ Guldensporenstadion › Kortrijk
-» Regular Season - 5
+    18:30     Club Brugge KV v RWDM  7-1 (2-1)   @ Jan Breydelstadion › Brugge
+    19:15     Kortrijk v AS Eupen  1-3 (0-0)   @ Guldensporenstadion › Kortrijk
+▪ Regular Season - 5
   Sat Aug 26
-    16.00     KVC Westerlo v KV Mechelen  2-3 (2-0)   @ Het Kuipje › Westerlo
-    18.15     AS Eupen v OH Leuven  3-1 (1-0)   @ Kehrwegstadion › Eupen
-    20.45     Kortrijk v Standard Liege  1-1 (1-0)   @ Guldensporenstadion › Kortrijk
+    16:00     KVC Westerlo v KV Mechelen  2-3 (2-0)   @ Het Kuipje › Westerlo
+    18:15     AS Eupen v OH Leuven  3-1 (1-0)   @ Kehrwegstadion › Eupen
+    20:45     Kortrijk v Standard Liege  1-1 (1-0)   @ Guldensporenstadion › Kortrijk
   Sun Aug 27
-    16.00     St. Truiden v Cercle Brugge  0-2 (0-0)   @ Daio Wasabi Stayen Stadium › St.-Trond
-    18.30     Anderlecht v Charleroi  2-1 (1-0)   @ Lotto Park › Brussel
-» Regular Season - 6
+    16:00     St. Truiden v Cercle Brugge  0-2 (0-0)   @ Daio Wasabi Stayen Stadium › St.-Trond
+    18:30     Anderlecht v Charleroi  2-1 (1-0)   @ Lotto Park › Brussel
+▪ Regular Season - 6
   Fri Sep 1
-    20.45     OH Leuven v Kortrijk  3-0 (1-0)   @ King Power at Den Dreef Stadion › Heverlee
+    20:45     OH Leuven v Kortrijk  3-0 (1-0)   @ King Power at Den Dreef Stadion › Heverlee
   Sat Sep 2
-    16.00     Cercle Brugge v KVC Westerlo  2-1 (1-0)   @ Jan Breydelstadion › Brugge
-    18.15     KV Mechelen v AS Eupen  1-0 (0-0)   @ AFAS Stadion › Malines
-    20.45     Standard Liege v RWDM  1-1 (1-1)   @ Stade Maurice Dufrasne › Luik
+    16:00     Cercle Brugge v KVC Westerlo  2-1 (1-0)   @ Jan Breydelstadion › Brugge
+    18:15     KV Mechelen v AS Eupen  1-0 (0-0)   @ AFAS Stadion › Malines
+    20:45     Standard Liege v RWDM  1-1 (1-1)   @ Stade Maurice Dufrasne › Luik
   Sun Sep 3
-    13.30     Gent v Club Brugge KV  2-1 (1-1)   @ Planet Group Arena › Gent
-    16.00     Union St. Gilloise v Antwerp  2-2 (1-2)   @ Stade Joseph Mariën › Brussels
-    18.30     Genk v Anderlecht  1-1 (0-0)   @ Cegeka Arena › Genk
-    19.15     Charleroi v St. Truiden  1-1 (0-0)   @ Stade du Pays de Charleroi › Charleroi
-» Regular Season - 7
+    13:30     Gent v Club Brugge KV  2-1 (1-1)   @ Planet Group Arena › Gent
+    16:00     Union St. Gilloise v Antwerp  2-2 (1-2)   @ Stade Joseph Mariën › Brussels
+    18:30     Genk v Anderlecht  1-1 (0-0)   @ Cegeka Arena › Genk
+    19:15     Charleroi v St. Truiden  1-1 (0-0)   @ Stade du Pays de Charleroi › Charleroi
+▪ Regular Season - 7
   Fri Sep 15
-    20.45     KVC Westerlo v Antwerp  0-3 (0-1)   @ Het Kuipje › Westerlo
+    20:45     KVC Westerlo v Antwerp  0-3 (0-1)   @ Het Kuipje › Westerlo
   Sat Sep 16
-    16.00     RWDM v Cercle Brugge  2-1 (1-1)   @ Edmond Machtensstadion › Bruxelles
-    18.15     Union St. Gilloise v Genk  0-2 (0-1)   @ Stade Joseph Mariën › Brussels
-    20.45     Club Brugge KV v Charleroi  4-2 (2-2)   @ Jan Breydelstadion › Brugge
+    16:00     RWDM v Cercle Brugge  2-1 (1-1)   @ Edmond Machtensstadion › Bruxelles
+    18:15     Union St. Gilloise v Genk  0-2 (0-1)   @ Stade Joseph Mariën › Brussels
+    20:45     Club Brugge KV v Charleroi  4-2 (2-2)   @ Jan Breydelstadion › Brugge
   Sun Sep 17
-    13.30     AS Eupen v Standard Liege  1-3 (0-2)   @ Kehrwegstadion › Eupen
-    16.00     Kortrijk v Anderlecht  2-2 (1-1)   @ Guldensporenstadion › Kortrijk
-    18.30     OH Leuven v Gent  1-1 (1-1)   @ King Power at Den Dreef Stadion › Heverlee
-    19.15     St. Truiden v KV Mechelen  2-0 (1-0)   @ Daio Wasabi Stayen Stadium › St.-Trond
-» Regular Season - 8
+    13:30     AS Eupen v Standard Liege  1-3 (0-2)   @ Kehrwegstadion › Eupen
+    16:00     Kortrijk v Anderlecht  2-2 (1-1)   @ Guldensporenstadion › Kortrijk
+    18:30     OH Leuven v Gent  1-1 (1-1)   @ King Power at Den Dreef Stadion › Heverlee
+    19:15     St. Truiden v KV Mechelen  2-0 (1-0)   @ Daio Wasabi Stayen Stadium › St.-Trond
+▪ Regular Season - 8
   Fri Sep 22
-    20.45     Standard Liege v KVC Westerlo  0-0 (0-0)   @ Stade Maurice Dufrasne › Luik
+    20:45     Standard Liege v KVC Westerlo  0-0 (0-0)   @ Stade Maurice Dufrasne › Luik
   Sat Sep 23
-    16.00     Charleroi v Kortrijk  1-0 (1-0)   @ Stade du Pays de Charleroi › Charleroi
-    18.15     KV Mechelen v OH Leuven  1-2 (0-2)   @ AFAS Stadion › Malines
-    20.45     Antwerp v RWDM  0-0 (0-0)   @ Bosuilstadion › Deurne
+    16:00     Charleroi v Kortrijk  1-0 (1-0)   @ Stade du Pays de Charleroi › Charleroi
+    18:15     KV Mechelen v OH Leuven  1-2 (0-2)   @ AFAS Stadion › Malines
+    20:45     Antwerp v RWDM  0-0 (0-0)   @ Bosuilstadion › Deurne
   Sun Sep 24
-    13.30     Genk v St. Truiden  3-3 (0-3)   @ Cegeka Arena › Genk
-    16.00     Cercle Brugge v Union St. Gilloise  0-2 (0-1)   @ Jan Breydelstadion › Brugge
-    18.30     Anderlecht v Club Brugge KV  1-1 (1-0)   @ Lotto Park › Brussel
-    19.15     Gent v AS Eupen  2-1 (0-1)   @ Planet Group Arena › Gent
-» Regular Season - 5
+    13:30     Genk v St. Truiden  3-3 (0-3)   @ Cegeka Arena › Genk
+    16:00     Cercle Brugge v Union St. Gilloise  0-2 (0-1)   @ Jan Breydelstadion › Brugge
+    18:30     Anderlecht v Club Brugge KV  1-1 (1-0)   @ Lotto Park › Brussel
+    19:15     Gent v AS Eupen  2-1 (0-1)   @ Planet Group Arena › Gent
+▪ Regular Season - 5
   Wed Sep 27
-    20.45     Antwerp v Gent  0-0 (0-0)   @ Bosuilstadion › Deurne
+    20:45     Antwerp v Gent  0-0 (0-0)   @ Bosuilstadion › Deurne
   Thu Sep 28
-    18.30     RWDM v Union St. Gilloise  2-3 (2-2)   @ Edmond Machtensstadion › Bruxelles
-    20.45     Club Brugge KV v Genk  1-1 (0-1)   @ Jan Breydelstadion › Brugge
-» Regular Season - 9
+    18:30     RWDM v Union St. Gilloise  2-3 (2-2)   @ Edmond Machtensstadion › Bruxelles
+    20:45     Club Brugge KV v Genk  1-1 (0-1)   @ Jan Breydelstadion › Brugge
+▪ Regular Season - 9
   Fri Sep 29
-    20.45     Kortrijk v Cercle Brugge  2-1 (0-0)   @ Guldensporenstadion › Kortrijk
+    20:45     Kortrijk v Cercle Brugge  2-1 (0-0)   @ Guldensporenstadion › Kortrijk
   Sat Sep 30
-    16.00     AS Eupen v Anderlecht  1-3 (1-1)   @ Kehrwegstadion › Eupen
-    18.15     OH Leuven v Standard Liege  1-2 (0-1)   @ King Power at Den Dreef Stadion › Heverlee
-    20.45     KV Mechelen v Antwerp  0-0 (0-0)   @ AFAS Stadion › Malines
+    16:00     AS Eupen v Anderlecht  1-3 (1-1)   @ Kehrwegstadion › Eupen
+    18:15     OH Leuven v Standard Liege  1-2 (0-1)   @ King Power at Den Dreef Stadion › Heverlee
+    20:45     KV Mechelen v Antwerp  0-0 (0-0)   @ AFAS Stadion › Malines
   Sun Oct 1
-    13.30     Union St. Gilloise v Charleroi  3-1 (3-1)   @ Stade Joseph Mariën › Brussels
-    16.00     Genk v KVC Westerlo  3-3 (2-1)   @ Cegeka Arena › Genk
-    18.30     Club Brugge KV v St. Truiden  1-1 (0-0)   @ Jan Breydelstadion › Brugge
-    19.15     RWDM v Gent  1-1 (1-1)   @ Edmond Machtensstadion › Bruxelles
-» Regular Season - 10
+    13:30     Union St. Gilloise v Charleroi  3-1 (3-1)   @ Stade Joseph Mariën › Brussels
+    16:00     Genk v KVC Westerlo  3-3 (2-1)   @ Cegeka Arena › Genk
+    18:30     Club Brugge KV v St. Truiden  1-1 (0-0)   @ Jan Breydelstadion › Brugge
+    19:15     RWDM v Gent  1-1 (1-1)   @ Edmond Machtensstadion › Bruxelles
+▪ Regular Season - 10
   Fri Oct 6
-    20.45     Charleroi v RWDM  2-1 (0-0)   @ Stade du Pays de Charleroi › Charleroi
+    20:45     Charleroi v RWDM  2-1 (0-0)   @ Stade du Pays de Charleroi › Charleroi
   Sat Oct 7
-    16.00     Cercle Brugge v OH Leuven  3-2 (2-2)   @ Jan Breydelstadion › Brugge
-    18.15     KVC Westerlo v Kortrijk  1-0 (1-0)   @ Het Kuipje › Westerlo
-    20.45     Anderlecht v KV Mechelen  3-1 (1-0)   @ Lotto Park › Brussel
+    16:00     Cercle Brugge v OH Leuven  3-2 (2-2)   @ Jan Breydelstadion › Brugge
+    18:15     KVC Westerlo v Kortrijk  1-0 (1-0)   @ Het Kuipje › Westerlo
+    20:45     Anderlecht v KV Mechelen  3-1 (1-0)   @ Lotto Park › Brussel
   Sun Oct 8
-    13.30     Standard Liege v Club Brugge KV  2-1 (1-0)   @ Stade Maurice Dufrasne › Luik
-    16.00     Antwerp v AS Eupen  4-1 (2-1)   @ Bosuilstadion › Deurne
-    18.30     Gent v Genk  1-1 (0-0)   @ Planet Group Arena › Gent
-    19.15     St. Truiden v Union St. Gilloise  0-4 (0-2)   @ Daio Wasabi Stayen Stadium › St.-Trond
-» Regular Season - 11
+    13:30     Standard Liege v Club Brugge KV  2-1 (1-0)   @ Stade Maurice Dufrasne › Luik
+    16:00     Antwerp v AS Eupen  4-1 (2-1)   @ Bosuilstadion › Deurne
+    18:30     Gent v Genk  1-1 (0-0)   @ Planet Group Arena › Gent
+    19:15     St. Truiden v Union St. Gilloise  0-4 (0-2)   @ Daio Wasabi Stayen Stadium › St.-Trond
+▪ Regular Season - 11
   Fri Oct 20
-    20.45     Union St. Gilloise v AS Eupen  4-1 (2-0)   @ Stade Joseph Mariën › Brussels
+    20:45     Union St. Gilloise v AS Eupen  4-1 (2-0)   @ Stade Joseph Mariën › Brussels
   Sat Oct 21
-    16.00     Kortrijk v Club Brugge KV  1-0 (1-0)   @ Guldensporenstadion › Kortrijk
-    18.15     RWDM v KVC Westerlo  1-1 (0-0)   @ Edmond Machtensstadion › Bruxelles
-    20.45     Charleroi v Antwerp  3-2 (0-0)   @ Stade du Pays de Charleroi › Charleroi
+    16:00     Kortrijk v Club Brugge KV  1-0 (1-0)   @ Guldensporenstadion › Kortrijk
+    18:15     RWDM v KVC Westerlo  1-1 (0-0)   @ Edmond Machtensstadion › Bruxelles
+    20:45     Charleroi v Antwerp  3-2 (0-0)   @ Stade du Pays de Charleroi › Charleroi
   Sun Oct 22
-    13.30     Genk v KV Mechelen  4-0 (2-0)   @ Cegeka Arena › Genk
-    16.00     Cercle Brugge v Gent  2-0 (0-0)   @ Jan Breydelstadion › Brugge
-    18.30     Standard Liege v Anderlecht  3-2 (0-2)   @ Stade Maurice Dufrasne › Luik
-    19.15     OH Leuven v St. Truiden  4-0 (2-0)   @ King Power at Den Dreef Stadion › Heverlee
-» Regular Season - 12
+    13:30     Genk v KV Mechelen  4-0 (2-0)   @ Cegeka Arena › Genk
+    16:00     Cercle Brugge v Gent  2-0 (0-0)   @ Jan Breydelstadion › Brugge
+    18:30     Standard Liege v Anderlecht  3-2 (0-2)   @ Stade Maurice Dufrasne › Luik
+    19:15     OH Leuven v St. Truiden  4-0 (2-0)   @ King Power at Den Dreef Stadion › Heverlee
+▪ Regular Season - 12
   Fri Oct 27
-    20.45     St. Truiden v RWDM  2-1 (0-0)   @ Daio Wasabi Stayen Stadium › St.-Trond
+    20:45     St. Truiden v RWDM  2-1 (0-0)   @ Daio Wasabi Stayen Stadium › St.-Trond
   Sat Oct 28
-    16.00     KV Mechelen v Cercle Brugge  0-2 (0-0)   @ AFAS Stadion › Malines
-    18.15     AS Eupen v Charleroi  2-0 (1-0)   @ Kehrwegstadion › Eupen
-    20.45     Anderlecht v OH Leuven  5-1 (2-1)   @ Lotto Park › Brussel
+    16:00     KV Mechelen v Cercle Brugge  0-2 (0-0)   @ AFAS Stadion › Malines
+    18:15     AS Eupen v Charleroi  2-0 (1-0)   @ Kehrwegstadion › Eupen
+    20:45     Anderlecht v OH Leuven  5-1 (2-1)   @ Lotto Park › Brussel
   Sun Oct 29
-    13.30     Club Brugge KV v Antwerp  2-1 (1-0)   @ Jan Breydelstadion › Brugge
-    16.00     KVC Westerlo v Union St. Gilloise  1-3 (1-1)   @ Het Kuipje › Westerlo
-    18.30     Gent v Standard Liege  3-1 (3-0)   @ Planet Group Arena › Gent
-    19.15     Kortrijk v Genk  0-3 (0-0)   @ Guldensporenstadion › Kortrijk
-» Regular Season - 13
+    13:30     Club Brugge KV v Antwerp  2-1 (1-0)   @ Jan Breydelstadion › Brugge
+    16:00     KVC Westerlo v Union St. Gilloise  1-3 (1-1)   @ Het Kuipje › Westerlo
+    18:30     Gent v Standard Liege  3-1 (3-0)   @ Planet Group Arena › Gent
+    19:15     Kortrijk v Genk  0-3 (0-0)   @ Guldensporenstadion › Kortrijk
+▪ Regular Season - 13
   Fri Nov 3
-    20.45     St. Truiden v AS Eupen  1-1 (1-0)   @ Daio Wasabi Stayen Stadium › St.-Trond
+    20:45     St. Truiden v AS Eupen  1-1 (1-0)   @ Daio Wasabi Stayen Stadium › St.-Trond
   Sat Nov 4
-    16.00     RWDM v Kortrijk  1-1 (1-1)   @ Edmond Machtensstadion › Bruxelles
-    18.15     OH Leuven v KVC Westerlo  0-2 (0-0)   @ King Power at Den Dreef Stadion › Heverlee
-    20.45     Antwerp v Genk  3-2 (3-1)   @ Bosuilstadion › Deurne
+    16:00     RWDM v Kortrijk  1-1 (1-1)   @ Edmond Machtensstadion › Bruxelles
+    18:15     OH Leuven v KVC Westerlo  0-2 (0-0)   @ King Power at Den Dreef Stadion › Heverlee
+    20:45     Antwerp v Genk  3-2 (3-1)   @ Bosuilstadion › Deurne
   Sun Nov 5
-    13.30     Cercle Brugge v Anderlecht  0-3 (0-2)   @ Jan Breydelstadion › Brugge
-    16.00     Standard Liege v KV Mechelen  1-1 (1-0)   @ Stade Maurice Dufrasne › Luik
-    18.30     Union St. Gilloise v Club Brugge KV  2-1 (1-0)   @ Stade Joseph Mariën › Brussels
-    19.15     Charleroi v Gent  1-3 (0-1)   @ Stade du Pays de Charleroi › Charleroi
-» Regular Season - 14
+    13:30     Cercle Brugge v Anderlecht  0-3 (0-2)   @ Jan Breydelstadion › Brugge
+    16:00     Standard Liege v KV Mechelen  1-1 (1-0)   @ Stade Maurice Dufrasne › Luik
+    18:30     Union St. Gilloise v Club Brugge KV  2-1 (1-0)   @ Stade Joseph Mariën › Brussels
+    19:15     Charleroi v Gent  1-3 (0-1)   @ Stade du Pays de Charleroi › Charleroi
+▪ Regular Season - 14
   Fri Nov 10
-    20.45     KVC Westerlo v St. Truiden  3-3 (2-1)   @ Het Kuipje › Westerlo
+    20:45     KVC Westerlo v St. Truiden  3-3 (2-1)   @ Het Kuipje › Westerlo
   Sat Nov 11
-    16.00     Antwerp v Standard Liege  6-0 (4-0)   @ Bosuilstadion › Deurne
-    18.15     AS Eupen v RWDM  1-3 (1-1)   @ Kehrwegstadion › Eupen
-    20.45     KV Mechelen v Charleroi  1-0 (0-0)   @ AFAS Stadion › Malines
+    16:00     Antwerp v Standard Liege  6-0 (4-0)   @ Bosuilstadion › Deurne
+    18:15     AS Eupen v RWDM  1-3 (1-1)   @ Kehrwegstadion › Eupen
+    20:45     KV Mechelen v Charleroi  1-0 (0-0)   @ AFAS Stadion › Malines
   Sun Nov 12
-    13.30     Club Brugge KV v Cercle Brugge  0-0 (0-0)   @ Jan Breydelstadion › Brugge
-    16.00     Genk v OH Leuven  3-1 (1-0)   @ Cegeka Arena › Genk
-    18.30     Gent v Anderlecht  1-1 (1-1)   @ Planet Group Arena › Gent
-    19.15     Union St. Gilloise v Kortrijk  3-0 (2-0)   @ Stade Joseph Mariën › Brussels
-» Regular Season - 15
+    13:30     Club Brugge KV v Cercle Brugge  0-0 (0-0)   @ Jan Breydelstadion › Brugge
+    16:00     Genk v OH Leuven  3-1 (1-0)   @ Cegeka Arena › Genk
+    18:30     Gent v Anderlecht  1-1 (1-1)   @ Planet Group Arena › Gent
+    19:15     Union St. Gilloise v Kortrijk  3-0 (2-0)   @ Stade Joseph Mariën › Brussels
+▪ Regular Season - 15
   Fri Nov 24
-    20.45     St. Truiden v Antwerp  1-1 (1-0)   @ Daio Wasabi Stayen Stadium › St.-Trond
+    20:45     St. Truiden v Antwerp  1-1 (1-0)   @ Daio Wasabi Stayen Stadium › St.-Trond
   Sat Nov 25
-    16.00     Cercle Brugge v AS Eupen  2-0 (0-0)   @ Jan Breydelstadion › Brugge
-    18.15     Charleroi v KVC Westerlo  3-2 (0-1)   @ Stade du Pays de Charleroi › Charleroi
-    20.45     Standard Liege v Genk  1-0 (0-0)   @ Stade Maurice Dufrasne › Luik
+    16:00     Cercle Brugge v AS Eupen  2-0 (0-0)   @ Jan Breydelstadion › Brugge
+    18:15     Charleroi v KVC Westerlo  3-2 (0-1)   @ Stade du Pays de Charleroi › Charleroi
+    20:45     Standard Liege v Genk  1-0 (0-0)   @ Stade Maurice Dufrasne › Luik
   Sun Nov 26
-    13.30     Gent v Union St. Gilloise  1-1 (1-0)   @ Planet Group Arena › Gent
-    16.00     OH Leuven v Club Brugge KV  0-1 (0-1)   @ King Power at Den Dreef Stadion › Heverlee
-    18.30     Anderlecht v RWDM  2-1 (0-1)   @ Lotto Park › Brussel
-    19.15     Kortrijk v KV Mechelen  0-3 (0-2)   @ Guldensporenstadion › Kortrijk
-» Regular Season - 16
+    13:30     Gent v Union St. Gilloise  1-1 (1-0)   @ Planet Group Arena › Gent
+    16:00     OH Leuven v Club Brugge KV  0-1 (0-1)   @ King Power at Den Dreef Stadion › Heverlee
+    18:30     Anderlecht v RWDM  2-1 (0-1)   @ Lotto Park › Brussel
+    19:15     Kortrijk v KV Mechelen  0-3 (0-2)   @ Guldensporenstadion › Kortrijk
+▪ Regular Season - 16
   Fri Dec 1
-    20.45     KVC Westerlo v Anderlecht  1-3 (0-1)   @ Het Kuipje › Westerlo
+    20:45     KVC Westerlo v Anderlecht  1-3 (0-1)   @ Het Kuipje › Westerlo
   Sat Dec 2
-    16.00     RWDM v Charleroi  0-0 (0-0)   @ Edmond Machtensstadion › Bruxelles
-    18.15     AS Eupen v Kortrijk  1-1 (0-0)   @ Kehrwegstadion › Eupen
-    20.45     Antwerp v OH Leuven  1-0 (1-0)   @ Bosuilstadion › Deurne
+    16:00     RWDM v Charleroi  0-0 (0-0)   @ Edmond Machtensstadion › Bruxelles
+    18:15     AS Eupen v Kortrijk  1-1 (0-0)   @ Kehrwegstadion › Eupen
+    20:45     Antwerp v OH Leuven  1-0 (1-0)   @ Bosuilstadion › Deurne
   Sun Dec 3
-    13.30     Genk v Gent  2-2 (1-1)   @ Cegeka Arena › Genk
-    16.00     KV Mechelen v St. Truiden  0-2 (0-2)   @ AFAS Stadion › Malines
-    18.30     Club Brugge KV v Standard Liege  2-0 (1-0)   @ Jan Breydelstadion › Brugge
-    19.15     Union St. Gilloise v Cercle Brugge  2-1 (2-1)   @ Stade Joseph Mariën › Brussels
-» Regular Season - 17
+    13:30     Genk v Gent  2-2 (1-1)   @ Cegeka Arena › Genk
+    16:00     KV Mechelen v St. Truiden  0-2 (0-2)   @ AFAS Stadion › Malines
+    18:30     Club Brugge KV v Standard Liege  2-0 (1-0)   @ Jan Breydelstadion › Brugge
+    19:15     Union St. Gilloise v Cercle Brugge  2-1 (2-1)   @ Stade Joseph Mariën › Brussels
+▪ Regular Season - 17
   Fri Dec 8
-    20.45     Kortrijk v KVC Westerlo  1-2 (0-1)   @ Guldensporenstadion › Kortrijk
+    20:45     Kortrijk v KVC Westerlo  1-2 (0-1)   @ Guldensporenstadion › Kortrijk
   Sat Dec 9
-    16.00     Cercle Brugge v Antwerp  1-3 (0-1)   @ Jan Breydelstadion › Brugge
-    18.15     St. Truiden v OH Leuven  1-1 (1-1)   @ Daio Wasabi Stayen Stadium › St.-Trond
-    20.45     Gent v RWDM  4-0 (2-0)   @ Planet Group Arena › Gent
+    16:00     Cercle Brugge v Antwerp  1-3 (0-1)   @ Jan Breydelstadion › Brugge
+    18:15     St. Truiden v OH Leuven  1-1 (1-1)   @ Daio Wasabi Stayen Stadium › St.-Trond
+    20:45     Gent v RWDM  4-0 (2-0)   @ Planet Group Arena › Gent
   Sun Dec 10
-    13.30     KV Mechelen v Club Brugge KV  0-0 (0-0)   @ AFAS Stadion › Malines
-    16.00     AS Eupen v Genk  1-3 (0-1)   @ Kehrwegstadion › Eupen
-    18.30     Anderlecht v Standard Liege  2-2 (1-1)   @ Lotto Park › Brussel
-    19.15     Charleroi v Union St. Gilloise  1-3 (0-1)   @ Stade du Pays de Charleroi › Charleroi
-» Regular Season - 18
+    13:30     KV Mechelen v Club Brugge KV  0-0 (0-0)   @ AFAS Stadion › Malines
+    16:00     AS Eupen v Genk  1-3 (0-1)   @ Kehrwegstadion › Eupen
+    18:30     Anderlecht v Standard Liege  2-2 (1-1)   @ Lotto Park › Brussel
+    19:15     Charleroi v Union St. Gilloise  1-3 (0-1)   @ Stade du Pays de Charleroi › Charleroi
+▪ Regular Season - 18
   Fri Dec 15
-    20.45     KVC Westerlo v AS Eupen  2-0 (0-0)   @ Het Kuipje › Westerlo
+    20:45     KVC Westerlo v AS Eupen  2-0 (0-0)   @ Het Kuipje › Westerlo
   Sat Dec 16
-    16.00     OH Leuven v Cercle Brugge  1-2 (1-0)   @ King Power at Den Dreef Stadion › Heverlee
-    18.15     RWDM v St. Truiden  3-0 (1-0)   @ Edmond Machtensstadion › Bruxelles
-    20.45     Standard Liege v Charleroi  0-0 (0-0)   @ Stade Maurice Dufrasne › Luik
+    16:00     OH Leuven v Cercle Brugge  1-2 (1-0)   @ King Power at Den Dreef Stadion › Heverlee
+    18:15     RWDM v St. Truiden  3-0 (1-0)   @ Edmond Machtensstadion › Bruxelles
+    20:45     Standard Liege v Charleroi  0-0 (0-0)   @ Stade Maurice Dufrasne › Luik
   Sun Dec 17
-    13.30     Club Brugge KV v Gent  2-0 (2-0)   @ Jan Breydelstadion › Brugge
-    16.00     Union St. Gilloise v KV Mechelen  1-0 (0-0)   @ Stade Joseph Mariën › Brussels
-    18.30     Antwerp v Anderlecht  1-1 (0-1)   @ Bosuilstadion › Deurne
-    19.15     Genk v Kortrijk  4-0 (1-0)   @ Cegeka Arena › Genk
-» Regular Season - 19
+    13:30     Club Brugge KV v Gent  2-0 (2-0)   @ Jan Breydelstadion › Brugge
+    16:00     Union St. Gilloise v KV Mechelen  1-0 (0-0)   @ Stade Joseph Mariën › Brussels
+    18:30     Antwerp v Anderlecht  1-1 (0-1)   @ Bosuilstadion › Deurne
+    19:15     Genk v Kortrijk  4-0 (1-0)   @ Cegeka Arena › Genk
+▪ Regular Season - 19
   Wed Dec 20
-    18.30     Cercle Brugge v Kortrijk  3-0 (1-0)   @ Jan Breydelstadion › Brugge
-    20.45     KV Mechelen v Standard Liege  3-0 (1-0)   @ AFAS Stadion › Malines
+    18:30     Cercle Brugge v Kortrijk  3-0 (1-0)   @ Jan Breydelstadion › Brugge
+    20:45     KV Mechelen v Standard Liege  3-0 (1-0)   @ AFAS Stadion › Malines
   Thu Dec 21
-    20.45     Gent v OH Leuven  4-0 (1-0)   @ Planet Group Arena › Gent
+    20:45     Gent v OH Leuven  4-0 (1-0)   @ Planet Group Arena › Gent
   Fri Dec 22
-    20.45     RWDM v Club Brugge KV  1-6 (0-3)   @ Edmond Machtensstadion › Bruxelles
+    20:45     RWDM v Club Brugge KV  1-6 (0-3)   @ Edmond Machtensstadion › Bruxelles
   Sat Dec 23
-    16.00     AS Eupen v Union St. Gilloise  1-2 (0-2)   @ Kehrwegstadion › Eupen
-    18.15     Antwerp v KVC Westerlo  2-2 (1-0)   @ Bosuilstadion › Deurne
+    16:00     AS Eupen v Union St. Gilloise  1-2 (0-2)   @ Kehrwegstadion › Eupen
+    18:15     Antwerp v KVC Westerlo  2-2 (1-0)   @ Bosuilstadion › Deurne
               St. Truiden v Charleroi  1-0 (0-0)   @ Daio Wasabi Stayen Stadium › St.-Trond
-    20.45     Anderlecht v Genk  2-1 (0-0)   @ Lotto Park › Brussel
-» Regular Season - 20
+    20:45     Anderlecht v Genk  2-1 (0-0)   @ Lotto Park › Brussel
+▪ Regular Season - 20
   Tue Dec 26
-    13.30     Genk v Antwerp  3-0 (1-0)   @ Cegeka Arena › Genk
-    16.00     Kortrijk v Gent  0-2 (0-1)   @ Guldensporenstadion › Kortrijk
+    13:30     Genk v Antwerp  3-0 (1-0)   @ Cegeka Arena › Genk
+    16:00     Kortrijk v Gent  0-2 (0-1)   @ Guldensporenstadion › Kortrijk
               OH Leuven v AS Eupen  3-0 (2-0)   @ King Power at Den Dreef Stadion › Heverlee
-    18.30     KVC Westerlo v RWDM  3-0 (1-0)   @ Het Kuipje › Westerlo
-    20.45     Club Brugge KV v Union St. Gilloise  1-1 (0-1)   @ Jan Breydelstadion › Brugge
+    18:30     KVC Westerlo v RWDM  3-0 (1-0)   @ Het Kuipje › Westerlo
+    20:45     Club Brugge KV v Union St. Gilloise  1-1 (0-1)   @ Jan Breydelstadion › Brugge
   Wed Dec 27
-    18.30     Standard Liege v St. Truiden  1-1 (0-0)   @ Stade Maurice Dufrasne › Luik
-    20.45     Charleroi v KV Mechelen  3-1 (2-0)   @ Stade du Pays de Charleroi › Charleroi
+    18:30     Standard Liege v St. Truiden  1-1 (0-0)   @ Stade Maurice Dufrasne › Luik
+    20:45     Charleroi v KV Mechelen  3-1 (2-0)   @ Stade du Pays de Charleroi › Charleroi
               Anderlecht v Cercle Brugge  2-0 (1-0)   @ Lotto Park › Brussel
-» Regular Season - 21
+▪ Regular Season - 21
   Fri Jan 19 2024
-    20.45     Gent v KV Mechelen  1-2 (0-1)   @ Planet Group Arena › Gent
+    20:45     Gent v KV Mechelen  1-2 (0-1)   @ Planet Group Arena › Gent
   Sat Jan 20
-    16.00     Genk v Cercle Brugge  1-1 (0-1)   @ Cegeka Arena › Genk
-    18.15     Standard Liege v Kortrijk  0-1 (0-1)   @ Stade Maurice Dufrasne › Luik
-    20.45     Club Brugge KV v KVC Westerlo  3-0 (1-0)   @ Jan Breydelstadion › Brugge
+    16:00     Genk v Cercle Brugge  1-1 (0-1)   @ Cegeka Arena › Genk
+    18:15     Standard Liege v Kortrijk  0-1 (0-1)   @ Stade Maurice Dufrasne › Luik
+    20:45     Club Brugge KV v KVC Westerlo  3-0 (1-0)   @ Jan Breydelstadion › Brugge
   Sun Jan 21
-    13.30     Antwerp v Charleroi  4-1 (2-0)   @ Bosuilstadion › Deurne
-    16.00     Union St. Gilloise v St. Truiden  2-1 (1-1)   @ Stade Joseph Mariën › Brussels
-    18.30     OH Leuven v Anderlecht  1-1 (1-0)   @ King Power at Den Dreef Stadion › Heverlee
+    13:30     Antwerp v Charleroi  4-1 (2-0)   @ Bosuilstadion › Deurne
+    16:00     Union St. Gilloise v St. Truiden  2-1 (1-1)   @ Stade Joseph Mariën › Brussels
+    18:30     OH Leuven v Anderlecht  1-1 (1-0)   @ King Power at Den Dreef Stadion › Heverlee
   Wed Jan 24
-    19.15     RWDM v AS Eupen  0-1 (0-0)   @ Edmond Machtensstadion › Bruxelles
-» Regular Season - 22
+    19:15     RWDM v AS Eupen  0-1 (0-0)   @ Edmond Machtensstadion › Bruxelles
+▪ Regular Season - 22
   Fri Jan 26
-    20.45     Cercle Brugge v Standard Liege  1-1 (0-0)   @ Jan Breydelstadion › Brugge
+    20:45     Cercle Brugge v Standard Liege  1-1 (0-0)   @ Jan Breydelstadion › Brugge
   Sat Jan 27
-    16.00     Kortrijk v OH Leuven  0-0 (0-0)   @ Guldensporenstadion › Kortrijk
-    20.45     Charleroi v Club Brugge KV  1-4 (0-3)   @ Stade du Pays de Charleroi › Charleroi
+    16:00     Kortrijk v OH Leuven  0-0 (0-0)   @ Guldensporenstadion › Kortrijk
+    20:45     Charleroi v Club Brugge KV  1-4 (0-3)   @ Stade du Pays de Charleroi › Charleroi
               Gent v KVC Westerlo  2-2 (1-1)   @ Planet Group Arena › Gent
   Sun Jan 28
-    13.30     St. Truiden v Genk  1-1 (0-1)   @ Daio Wasabi Stayen Stadium › St.-Trond
-    16.00     AS Eupen v Antwerp  1-0 (1-0)   @ Kehrwegstadion › Eupen
-    18.30     Anderlecht v Union St. Gilloise  2-2 (1-2)   @ Lotto Park › Brussel
-    19.15     KV Mechelen v RWDM  3-1 (0-0)   @ AFAS Stadion › Malines
-» Regular Season - 23
+    13:30     St. Truiden v Genk  1-1 (0-1)   @ Daio Wasabi Stayen Stadium › St.-Trond
+    16:00     AS Eupen v Antwerp  1-0 (1-0)   @ Kehrwegstadion › Eupen
+    18:30     Anderlecht v Union St. Gilloise  2-2 (1-2)   @ Lotto Park › Brussel
+    19:15     KV Mechelen v RWDM  3-1 (0-0)   @ AFAS Stadion › Malines
+▪ Regular Season - 23
   Tue Jan 30
-    20.30     KVC Westerlo v Cercle Brugge  4-2 (4-1)   @ Het Kuipje › Westerlo
+    20:30     KVC Westerlo v Cercle Brugge  4-2 (4-1)   @ Het Kuipje › Westerlo
               Club Brugge KV v Kortrijk  3-3 (1-0)   @ Jan Breydelstadion › Brugge
   Wed Jan 31
-    18.45     Charleroi v AS Eupen  1-0 (0-0)   @ Stade du Pays de Charleroi › Charleroi
+    18:45     Charleroi v AS Eupen  1-0 (0-0)   @ Stade du Pays de Charleroi › Charleroi
               OH Leuven v Genk  2-1 (0-0)   @ King Power at Den Dreef Stadion › Heverlee
-    21.00     Union St. Gilloise v RWDM  3-2 (2-0)   @ Stade Joseph Mariën › Brussels
+    21:00     Union St. Gilloise v RWDM  3-2 (2-0)   @ Stade Joseph Mariën › Brussels
               Standard Liege v Antwerp  0-1 (0-0)   @ Stade Maurice Dufrasne › Luik
   Thu Feb 1
-    20.30     KV Mechelen v Anderlecht  2-2 (0-1)   @ AFAS Stadion › Malines
+    20:30     KV Mechelen v Anderlecht  2-2 (0-1)   @ AFAS Stadion › Malines
               St. Truiden v Gent  4-1 (0-1)   @ Daio Wasabi Stayen Stadium › St.-Trond
-» Regular Season - 24
+▪ Regular Season - 24
   Sat Feb 3
-    16.00     RWDM v Standard Liege  2-2 (1-1)   @ Edmond Machtensstadion › Bruxelles
-    18.15     Kortrijk v Charleroi  1-0 (1-0)   @ Guldensporenstadion › Kortrijk
+    16:00     RWDM v Standard Liege  2-2 (1-1)   @ Edmond Machtensstadion › Bruxelles
+    18:15     Kortrijk v Charleroi  1-0 (1-0)   @ Guldensporenstadion › Kortrijk
               KVC Westerlo v OH Leuven  0-3 (0-2)   @ Het Kuipje › Westerlo
-    20.45     Genk v Union St. Gilloise  0-1 (0-0)   @ Cegeka Arena › Genk
+    20:45     Genk v Union St. Gilloise  0-1 (0-0)   @ Cegeka Arena › Genk
   Sun Feb 4
-    13.30     Antwerp v Club Brugge KV  2-1 (0-0)   @ Bosuilstadion › Deurne
-    16.00     AS Eupen v KV Mechelen  0-1 (0-0)   @ Kehrwegstadion › Eupen
-    18.30     Anderlecht v Gent  1-0 (1-0)   @ Lotto Park › Brussel
-    19.15     Cercle Brugge v St. Truiden  4-1 (2-0)   @ Jan Breydelstadion › Brugge
-» Regular Season - 25
+    13:30     Antwerp v Club Brugge KV  2-1 (0-0)   @ Bosuilstadion › Deurne
+    16:00     AS Eupen v KV Mechelen  0-1 (0-0)   @ Kehrwegstadion › Eupen
+    18:30     Anderlecht v Gent  1-0 (1-0)   @ Lotto Park › Brussel
+    19:15     Cercle Brugge v St. Truiden  4-1 (2-0)   @ Jan Breydelstadion › Brugge
+▪ Regular Season - 25
   Fri Feb 9
-    20.45     St. Truiden v Kortrijk  1-0 (1-0)   @ Daio Wasabi Stayen Stadium › St.-Trond
+    20:45     St. Truiden v Kortrijk  1-0 (1-0)   @ Daio Wasabi Stayen Stadium › St.-Trond
   Sat Feb 10
-    16.00     Standard Liege v OH Leuven  1-0 (1-0)   @ Stade Maurice Dufrasne › Luik
-    18.15     Union St. Gilloise v KVC Westerlo  2-2 (1-1)   @ Stade Joseph Mariën › Brussels
-    20.45     Club Brugge KV v AS Eupen  4-0 (2-0)   @ Jan Breydelstadion › Brugge
+    16:00     Standard Liege v OH Leuven  1-0 (1-0)   @ Stade Maurice Dufrasne › Luik
+    18:15     Union St. Gilloise v KVC Westerlo  2-2 (1-1)   @ Stade Joseph Mariën › Brussels
+    20:45     Club Brugge KV v AS Eupen  4-0 (2-0)   @ Jan Breydelstadion › Brugge
   Sun Feb 11
-    13.30     RWDM v Antwerp  0-4 (0-3)   @ Edmond Machtensstadion › Bruxelles
-    16.00     KV Mechelen v Genk  1-1 (1-1)   @ AFAS Stadion › Malines
-    18.30     Charleroi v Anderlecht  1-3 (1-2)   @ Stade du Pays de Charleroi › Charleroi
-    19.15     Gent v Cercle Brugge  1-2 (0-1)   @ Planet Group Arena › Gent
-» Regular Season - 26
+    13:30     RWDM v Antwerp  0-4 (0-3)   @ Edmond Machtensstadion › Bruxelles
+    16:00     KV Mechelen v Genk  1-1 (1-1)   @ AFAS Stadion › Malines
+    18:30     Charleroi v Anderlecht  1-3 (1-2)   @ Stade du Pays de Charleroi › Charleroi
+    19:15     Gent v Cercle Brugge  1-2 (0-1)   @ Planet Group Arena › Gent
+▪ Regular Season - 26
   Fri Feb 16
-    20.45     KVC Westerlo v Standard Liege  2-1 (1-1)   @ Het Kuipje › Westerlo
+    20:45     KVC Westerlo v Standard Liege  2-1 (1-1)   @ Het Kuipje › Westerlo
   Sat Feb 17
-    16.00     Genk v RWDM  3-1 (2-1)   @ Cegeka Arena › Genk
-    18.15     OH Leuven v Charleroi  0-0 (0-0)   @ King Power at Den Dreef Stadion › Heverlee
-    20.45     Antwerp v KV Mechelen  0-1 (0-0)   @ Bosuilstadion › Deurne
+    16:00     Genk v RWDM  3-1 (2-1)   @ Cegeka Arena › Genk
+    18:15     OH Leuven v Charleroi  0-0 (0-0)   @ King Power at Den Dreef Stadion › Heverlee
+    20:45     Antwerp v KV Mechelen  0-1 (0-0)   @ Bosuilstadion › Deurne
   Sun Feb 18
-    13.30     Cercle Brugge v Club Brugge KV  1-1 (0-0)   @ Jan Breydelstadion › Brugge
-    16.00     Kortrijk v Union St. Gilloise  1-3 (0-2)   @ Guldensporenstadion › Kortrijk
-    18.30     Anderlecht v St. Truiden  4-1 (0-1)   @ Lotto Park › Brussel
-    19.15     AS Eupen v Gent  0-2 (0-1)   @ Kehrwegstadion › Eupen
-» Regular Season - 27
+    13:30     Cercle Brugge v Club Brugge KV  1-1 (0-0)   @ Jan Breydelstadion › Brugge
+    16:00     Kortrijk v Union St. Gilloise  1-3 (0-2)   @ Guldensporenstadion › Kortrijk
+    18:30     Anderlecht v St. Truiden  4-1 (0-1)   @ Lotto Park › Brussel
+    19:15     AS Eupen v Gent  0-2 (0-1)   @ Kehrwegstadion › Eupen
+▪ Regular Season - 27
   Fri Feb 23
-    20.45     Charleroi v Genk  0-1 (0-0)   @ Stade du Pays de Charleroi › Charleroi
+    20:45     Charleroi v Genk  0-1 (0-0)   @ Stade du Pays de Charleroi › Charleroi
   Sat Feb 24
-    16.00     RWDM v OH Leuven  1-1 (1-1)   @ Edmond Machtensstadion › Bruxelles
-    18.15     St. Truiden v KVC Westerlo  1-0 (1-0)   @ Daio Wasabi Stayen Stadium › St.-Trond
-    20.45     KV Mechelen v Kortrijk  3-0 (1-0)   @ AFAS Stadion › Malines
+    16:00     RWDM v OH Leuven  1-1 (1-1)   @ Edmond Machtensstadion › Bruxelles
+    18:15     St. Truiden v KVC Westerlo  1-0 (1-0)   @ Daio Wasabi Stayen Stadium › St.-Trond
+    20:45     KV Mechelen v Kortrijk  3-0 (1-0)   @ AFAS Stadion › Malines
   Sun Feb 25
-    13.30     Club Brugge KV v Anderlecht  1-2 (1-0)   @ Jan Breydelstadion › Brugge
-    16.00     Gent v Antwerp  2-2 (2-1)   @ Planet Group Arena › Gent
-    18.30     Union St. Gilloise v Standard Liege  2-1 (2-0)   @ Stade Joseph Mariën › Brussels
-    19.15     AS Eupen v Cercle Brugge  0-2 (0-0)   @ Kehrwegstadion › Eupen
-» Regular Season - 28
+    13:30     Club Brugge KV v Anderlecht  1-2 (1-0)   @ Jan Breydelstadion › Brugge
+    16:00     Gent v Antwerp  2-2 (2-1)   @ Planet Group Arena › Gent
+    18:30     Union St. Gilloise v Standard Liege  2-1 (2-0)   @ Stade Joseph Mariën › Brussels
+    19:15     AS Eupen v Cercle Brugge  0-2 (0-0)   @ Kehrwegstadion › Eupen
+▪ Regular Season - 28
   Fri Mar 1
-    20.45     KVC Westerlo v Charleroi  0-1 (0-0)   @ Het Kuipje › Westerlo
+    20:45     KVC Westerlo v Charleroi  0-1 (0-0)   @ Het Kuipje › Westerlo
   Sat Mar 2
-    16.00     Cercle Brugge v KV Mechelen  2-3 (2-2)   @ Jan Breydelstadion › Brugge
-    18.15     OH Leuven v Union St. Gilloise  0-2 (0-1)   @ King Power at Den Dreef Stadion › Heverlee
-    20.45     Standard Liege v Gent  4-2 (1-1)   @ Stade Maurice Dufrasne › Luik
+    16:00     Cercle Brugge v KV Mechelen  2-3 (2-2)   @ Jan Breydelstadion › Brugge
+    18:15     OH Leuven v Union St. Gilloise  0-2 (0-1)   @ King Power at Den Dreef Stadion › Heverlee
+    20:45     Standard Liege v Gent  4-2 (1-1)   @ Stade Maurice Dufrasne › Luik
   Sun Mar 3
-    13.30     Genk v Club Brugge KV  0-3 (0-1)   @ Cegeka Arena › Genk
-    16.00     Antwerp v St. Truiden  3-0 (0-0)   @ Bosuilstadion › Deurne
-    18.30     Anderlecht v AS Eupen  1-0 (1-0)   @ Lotto Park › Brussel
-    19.15     Kortrijk v RWDM  3-2 (1-1)   @ Guldensporenstadion › Kortrijk
-» Regular Season - 29
+    13:30     Genk v Club Brugge KV  0-3 (0-1)   @ Cegeka Arena › Genk
+    16:00     Antwerp v St. Truiden  3-0 (0-0)   @ Bosuilstadion › Deurne
+    18:30     Anderlecht v AS Eupen  1-0 (1-0)   @ Lotto Park › Brussel
+    19:15     Kortrijk v RWDM  3-2 (1-1)   @ Guldensporenstadion › Kortrijk
+▪ Regular Season - 29
   Fri Mar 8
-    20.45     KV Mechelen v KVC Westerlo  3-1 (2-0)   @ AFAS Stadion › Malines
+    20:45     KV Mechelen v KVC Westerlo  3-1 (2-0)   @ AFAS Stadion › Malines
   Sat Mar 9
-    16.00     Kortrijk v Antwerp  0-1 (0-1)   @ Guldensporenstadion › Kortrijk
-    18.15     Charleroi v Cercle Brugge  0-0 (0-0)   @ Stade du Pays de Charleroi › Charleroi
-    20.45     RWDM v Anderlecht  0-3 (0-3)   @ Edmond Machtensstadion › Bruxelles
+    16:00     Kortrijk v Antwerp  0-1 (0-1)   @ Guldensporenstadion › Kortrijk
+    18:15     Charleroi v Cercle Brugge  0-0 (0-0)   @ Stade du Pays de Charleroi › Charleroi
+    20:45     RWDM v Anderlecht  0-3 (0-3)   @ Edmond Machtensstadion › Bruxelles
   Sun Mar 10
-    13.30     Genk v Standard Liege  1-0 (0-0)   @ Cegeka Arena › Genk
-    16.00     Club Brugge KV v OH Leuven  3-1 (1-1)   @ Jan Breydelstadion › Brugge
-    18.30     Union St. Gilloise v Gent  1-1 (0-0)   @ Stade Joseph Mariën › Brussels
-    19.15     AS Eupen v St. Truiden  1-0 (1-0)   @ Kehrwegstadion › Eupen
-» Regular Season - 30
+    13:30     Genk v Standard Liege  1-0 (0-0)   @ Cegeka Arena › Genk
+    16:00     Club Brugge KV v OH Leuven  3-1 (1-1)   @ Jan Breydelstadion › Brugge
+    18:30     Union St. Gilloise v Gent  1-1 (0-0)   @ Stade Joseph Mariën › Brussels
+    19:15     AS Eupen v St. Truiden  1-0 (1-0)   @ Kehrwegstadion › Eupen
+▪ Regular Season - 30
   Sat Mar 16
-    18.15     Standard Liege v AS Eupen  4-0 (2-0)   @ Stade Maurice Dufrasne › Luik
-    20.45     Anderlecht v Kortrijk  0-1 (0-0)   @ Lotto Park › Brussel
+    18:15     Standard Liege v AS Eupen  4-0 (2-0)   @ Stade Maurice Dufrasne › Luik
+    20:45     Anderlecht v Kortrijk  0-1 (0-0)   @ Lotto Park › Brussel
   Sun Mar 17
-    13.30     St. Truiden v Club Brugge KV  2-1 (0-1)   @ Daio Wasabi Stayen Stadium › St.-Trond
-    16.00     Antwerp v Union St. Gilloise  1-1 (0-0)   @ Bosuilstadion › Deurne
-    18.30     OH Leuven v KV Mechelen  1-0 (0-0)   @ King Power at Den Dreef Stadion › Heverlee
+    13:30     St. Truiden v Club Brugge KV  2-1 (0-1)   @ Daio Wasabi Stayen Stadium › St.-Trond
+    16:00     Antwerp v Union St. Gilloise  1-1 (0-0)   @ Bosuilstadion › Deurne
+    18:30     OH Leuven v KV Mechelen  1-0 (0-0)   @ King Power at Den Dreef Stadion › Heverlee
               KVC Westerlo v Genk  1-1 (0-0)   @ Het Kuipje › Westerlo
               Gent v Charleroi  5-0 (2-0)   @ Planet Group Arena › Gent
               Cercle Brugge v RWDM  4-0 (2-0)   @ Jan Breydelstadion › Brugge
-» Conference League Play-off Group - 1
+▪ Conference League Play-off Group - 1
   Fri Mar 29
-    20.45     Gent v Standard Liege  5-1 (1-1)   @ Planet Group Arena › Gent
+    20:45     Gent v Standard Liege  5-1 (1-1)   @ Planet Group Arena › Gent
   Sat Mar 30
-    18.15     OH Leuven v KV Mechelen  2-3 (0-1)   @ King Power at Den Dreef Stadion › Heverlee
-» Championship Round - 1
+    18:15     OH Leuven v KV Mechelen  2-3 (0-1)   @ King Power at Den Dreef Stadion › Heverlee
+▪ Championship Round - 1
   Sat Mar 30
-    20.45     Anderlecht v Antwerp  1-0 (0-0)   @ Lotto Park › Brussel
-» Conference League Play-off Group - 1
+    20:45     Anderlecht v Antwerp  1-0 (0-0)   @ Lotto Park › Brussel
+▪ Conference League Play-off Group - 1
   Sun Mar 31
-    18.30     St. Truiden v KVC Westerlo  2-0 (1-0)   @ Daio Wasabi Stayen Stadium › St.-Trond
-» Championship Round - 1
+    18:30     St. Truiden v KVC Westerlo  2-0 (1-0)   @ Daio Wasabi Stayen Stadium › St.-Trond
+▪ Championship Round - 1
   Mon Apr 1
-    13.30     Cercle Brugge v Club Brugge KV  1-1 (1-0)   @ Jan Breydelstadion › Brugge
-    18.30     Genk v Union St. Gilloise  1-0 (1-0)   @ Cegeka Arena › Genk
-» Conference League Play-off Group - 2
+    13:30     Cercle Brugge v Club Brugge KV  1-1 (1-0)   @ Jan Breydelstadion › Brugge
+    18:30     Genk v Union St. Gilloise  1-0 (1-0)   @ Cegeka Arena › Genk
+▪ Conference League Play-off Group - 2
   Fri Apr 5
-    20.45     KV Mechelen v St. Truiden  2-3 (1-0)   @ AFAS Stadion › Malines
+    20:45     KV Mechelen v St. Truiden  2-3 (1-0)   @ AFAS Stadion › Malines
   Sat Apr 6
-    18.15     Standard Liege v OH Leuven  0-0 (0-0)   @ Stade Maurice Dufrasne › Luik
-» Relegation Round - 1
+    18:15     Standard Liege v OH Leuven  0-0 (0-0)   @ Stade Maurice Dufrasne › Luik
+▪ Relegation Round - 1
   Sat Apr 6
-    16.00     Charleroi v RWDM  0-0 (0-0)   @ Stade du Pays de Charleroi › Charleroi
-» Championship Round - 2
+    16:00     Charleroi v RWDM  0-0 (0-0)   @ Stade du Pays de Charleroi › Charleroi
+▪ Championship Round - 2
   Sat Apr 6
-    20.45     Antwerp v Genk  0-1 (0-1)   @ Bosuilstadion › Deurne
-» Conference League Play-off Group - 2
+    20:45     Antwerp v Genk  0-1 (0-1)   @ Bosuilstadion › Deurne
+▪ Conference League Play-off Group - 2
   Sun Apr 7
-    19.15     KVC Westerlo v Gent  0-3 (0-2)   @ Het Kuipje › Westerlo
-» Relegation Round - 1
+    19:15     KVC Westerlo v Gent  0-3 (0-2)   @ Het Kuipje › Westerlo
+▪ Relegation Round - 1
   Sun Apr 7
-    16.00     AS Eupen v Kortrijk  1-1 (0-0)   @ Kehrwegstadion › Eupen
-» Championship Round - 2
+    16:00     AS Eupen v Kortrijk  1-1 (0-0)   @ Kehrwegstadion › Eupen
+▪ Championship Round - 2
   Sun Apr 7
-    13.30     Union St. Gilloise v Cercle Brugge  2-3 (1-2)   @ Stade Joseph Mariën › Brussels
-    18.30     Club Brugge KV v Anderlecht  3-1 (1-0)   @ Jan Breydelstadion › Brugge
-» Conference League Play-off Group - 3
+    13:30     Union St. Gilloise v Cercle Brugge  2-3 (1-2)   @ Stade Joseph Mariën › Brussels
+    18:30     Club Brugge KV v Anderlecht  3-1 (1-0)   @ Jan Breydelstadion › Brugge
+▪ Conference League Play-off Group - 3
   Fri Apr 12
-    20.45     St. Truiden v Standard Liege  3-3 (1-1)   @ Daio Wasabi Stayen Stadium › St.-Trond
+    20:45     St. Truiden v Standard Liege  3-3 (1-1)   @ Daio Wasabi Stayen Stadium › St.-Trond
   Sat Apr 13
-    18.15     KV Mechelen v KVC Westerlo  3-2 (0-2)   @ AFAS Stadion › Malines
-» Relegation Round - 2
+    18:15     KV Mechelen v KVC Westerlo  3-2 (0-2)   @ AFAS Stadion › Malines
+▪ Relegation Round - 2
   Sat Apr 13
-    16.00     RWDM v AS Eupen  3-1 (1-1)   @ Edmond Machtensstadion › Bruxelles
-» Championship Round - 3
+    16:00     RWDM v AS Eupen  3-1 (1-1)   @ Edmond Machtensstadion › Bruxelles
+▪ Championship Round - 3
   Sat Apr 13
-    20.45     Genk v Cercle Brugge  1-1 (1-0)   @ Cegeka Arena › Genk
-» Conference League Play-off Group - 3
+    20:45     Genk v Cercle Brugge  1-1 (1-0)   @ Cegeka Arena › Genk
+▪ Conference League Play-off Group - 3
   Sun Apr 14
-    19.15     OH Leuven v Gent  2-1 (2-1)   @ King Power at Den Dreef Stadion › Heverlee
-» Relegation Round - 2
+    19:15     OH Leuven v Gent  2-1 (2-1)   @ King Power at Den Dreef Stadion › Heverlee
+▪ Relegation Round - 2
   Sun Apr 14
-    16.00     Kortrijk v Charleroi  1-2 (1-0)   @ Guldensporenstadion › Kortrijk
-» Championship Round - 3
+    16:00     Kortrijk v Charleroi  1-2 (1-0)   @ Guldensporenstadion › Kortrijk
+▪ Championship Round - 3
   Sun Apr 14
-    13.30     Club Brugge KV v Antwerp  3-0 (1-0)   @ Jan Breydelstadion › Brugge
-    18.30     Anderlecht v Union St. Gilloise  2-1 (1-0)   @ Lotto Park › Brussel
-» Conference League Play-off Group - 4
+    13:30     Club Brugge KV v Antwerp  3-0 (1-0)   @ Jan Breydelstadion › Brugge
+    18:30     Anderlecht v Union St. Gilloise  2-1 (1-0)   @ Lotto Park › Brussel
+▪ Conference League Play-off Group - 4
   Sat Apr 20
-    16.00     OH Leuven v St. Truiden  1-0 (0-0)   @ King Power at Den Dreef Stadion › Heverlee
-    18.15     KVC Westerlo v Standard Liege  3-3 (1-1)   @ Het Kuipje › Westerlo
-    20.00     Gent v KV Mechelen  3-1 (1-0)   @ Planet Group Arena › Gent
-» Championship Round - 4
+    16:00     OH Leuven v St. Truiden  1-0 (0-0)   @ King Power at Den Dreef Stadion › Heverlee
+    18:15     KVC Westerlo v Standard Liege  3-3 (1-1)   @ Het Kuipje › Westerlo
+    20:00     Gent v KV Mechelen  3-1 (1-0)   @ Planet Group Arena › Gent
+▪ Championship Round - 4
   Sat Apr 20
-    20.45     Genk v Anderlecht  2-1 (1-0)   @ Cegeka Arena › Genk
+    20:45     Genk v Anderlecht  2-1 (1-0)   @ Cegeka Arena › Genk
   Sun Apr 21
-    13.30     Cercle Brugge v Antwerp  0-1 (0-0)   @ Jan Breydelstadion › Brugge
-    18.30     Union St. Gilloise v Club Brugge KV  1-2 (0-0)   @ Stade Joseph Mariën › Brussels
-» Relegation Round - 3
+    13:30     Cercle Brugge v Antwerp  0-1 (0-0)   @ Jan Breydelstadion › Brugge
+    18:30     Union St. Gilloise v Club Brugge KV  1-2 (0-0)   @ Stade Joseph Mariën › Brussels
+▪ Relegation Round - 3
   Sun Apr 21
-    16.00     Kortrijk v RWDM  2-4 (1-3)   @ Guldensporenstadion › Kortrijk
-    19.15     Charleroi v AS Eupen  1-0 (1-0)   @ Stade du Pays de Charleroi › Charleroi
-» Conference League Play-off Group - 5
+    16:00     Kortrijk v RWDM  2-4 (1-3)   @ Guldensporenstadion › Kortrijk
+    19:15     Charleroi v AS Eupen  1-0 (1-0)   @ Stade du Pays de Charleroi › Charleroi
+▪ Conference League Play-off Group - 5
   Tue Apr 23
-    20.30     Standard Liege v KV Mechelen  0-0 (0-0)   @ Stade Maurice Dufrasne › Luik
+    20:30     Standard Liege v KV Mechelen  0-0 (0-0)   @ Stade Maurice Dufrasne › Luik
               St. Truiden v Gent  0-2 (0-1)   @ Daio Wasabi Stayen Stadium › St.-Trond
               KVC Westerlo v OH Leuven  1-1 (1-0)   @ Het Kuipje › Westerlo
-» Championship Round - 5
+▪ Championship Round - 5
   Wed Apr 24
-    20.30     Club Brugge KV v Genk  4-0 (1-0)   @ Jan Breydelstadion › Brugge
+    20:30     Club Brugge KV v Genk  4-0 (1-0)   @ Jan Breydelstadion › Brugge
               Anderlecht v Cercle Brugge  3-0 (2-0)   @ Lotto Park › Brussel
   Thu Apr 25
-    20.30     Antwerp v Union St. Gilloise  0-3 (0-0)   @ Bosuilstadion › Deurne
-» Relegation Round - 4
+    20:30     Antwerp v Union St. Gilloise  0-3 (0-0)   @ Bosuilstadion › Deurne
+▪ Relegation Round - 4
   Fri Apr 26
-    20.45     AS Eupen v Charleroi  1-2 (0-2)   @ Kehrwegstadion › Eupen
-» Conference League Play-off Group - 6
+    20:45     AS Eupen v Charleroi  1-2 (0-2)   @ Kehrwegstadion › Eupen
+▪ Conference League Play-off Group - 6
   Sat Apr 27
-    16.00     KV Mechelen v OH Leuven  3-0 (0-0)   @ AFAS Stadion › Malines
-    18.15     Standard Liege v St. Truiden  1-1 (0-1)   @ Stade Maurice Dufrasne › Luik
-    20.45     Gent v KVC Westerlo  3-2 (2-2)   @ Planet Group Arena › Gent
-» Relegation Round - 4
+    16:00     KV Mechelen v OH Leuven  3-0 (0-0)   @ AFAS Stadion › Malines
+    18:15     Standard Liege v St. Truiden  1-1 (0-1)   @ Stade Maurice Dufrasne › Luik
+    20:45     Gent v KVC Westerlo  3-2 (2-2)   @ Planet Group Arena › Gent
+▪ Relegation Round - 4
   Sun Apr 28
-    19.15     RWDM v Kortrijk  0-1 (0-1)   @ Edmond Machtensstadion › Bruxelles
-» Championship Round - 6
+    19:15     RWDM v Kortrijk  0-1 (0-1)   @ Edmond Machtensstadion › Bruxelles
+▪ Championship Round - 6
   Sun Apr 28
-    13.30     Genk v Club Brugge KV  0-3 (0-1)   @ Cegeka Arena › Genk
-    16.00     Cercle Brugge v Anderlecht  1-1 (0-1)   @ Jan Breydelstadion › Brugge
-    18.30     Union St. Gilloise v Antwerp  4-1 (2-1)   @ Stade Joseph Mariën › Brussels
-» Conference League Play-off Group - 7
+    13:30     Genk v Club Brugge KV  0-3 (0-1)   @ Cegeka Arena › Genk
+    16:00     Cercle Brugge v Anderlecht  1-1 (0-1)   @ Jan Breydelstadion › Brugge
+    18:30     Union St. Gilloise v Antwerp  4-1 (2-1)   @ Stade Joseph Mariën › Brussels
+▪ Conference League Play-off Group - 7
   Fri May 3
-    20.45     KVC Westerlo v St. Truiden  2-2 (1-1)   @ Het Kuipje › Westerlo
+    20:45     KVC Westerlo v St. Truiden  2-2 (1-1)   @ Het Kuipje › Westerlo
   Sat May 4
-    18.15     KV Mechelen v Gent  2-4 (2-3)   @ AFAS Stadion › Malines
-» Relegation Round - 5
+    18:15     KV Mechelen v Gent  2-4 (2-3)   @ AFAS Stadion › Malines
+▪ Relegation Round - 5
   Sat May 4
-    16.00     RWDM v Charleroi  1-3 (0-3)   @ Edmond Machtensstadion › Bruxelles
-» Championship Round - 7
+    16:00     RWDM v Charleroi  1-3 (0-3)   @ Edmond Machtensstadion › Bruxelles
+▪ Championship Round - 7
   Sat May 4
-    20.45     Cercle Brugge v Genk  4-1 (3-1)   @ Jan Breydelstadion › Brugge
-» Conference League Play-off Group - 7
+    20:45     Cercle Brugge v Genk  4-1 (3-1)   @ Jan Breydelstadion › Brugge
+▪ Conference League Play-off Group - 7
   Sun May 5
-    16.00     OH Leuven v Standard Liege  3-1 (0-1)   @ King Power at Den Dreef Stadion › Heverlee
-» Relegation Round - 5
+    16:00     OH Leuven v Standard Liege  3-1 (0-1)   @ King Power at Den Dreef Stadion › Heverlee
+▪ Relegation Round - 5
   Sun May 5
-    19.15     Kortrijk v AS Eupen  1-0 (1-0)   @ Guldensporenstadion › Kortrijk
-» Championship Round - 7
+    19:15     Kortrijk v AS Eupen  1-0 (1-0)   @ Guldensporenstadion › Kortrijk
+▪ Championship Round - 7
   Sun May 5
-    13.30     Antwerp v Club Brugge KV  1-2 (0-0)   @ Bosuilstadion › Deurne
-    18.30     Union St. Gilloise v Anderlecht  0-0 (0-0)   @ Stade Joseph Mariën › Brussels
-» Conference League Play-off Group - 8
+    13:30     Antwerp v Club Brugge KV  1-2 (0-0)   @ Bosuilstadion › Deurne
+    18:30     Union St. Gilloise v Anderlecht  0-0 (0-0)   @ Stade Joseph Mariën › Brussels
+▪ Conference League Play-off Group - 8
   Fri May 10
-    20.45     Standard Liege v KVC Westerlo  0-5 (0-5)   @ Stade Maurice Dufrasne › Luik
-» Relegation Round - 6
+    20:45     Standard Liege v KVC Westerlo  0-5 (0-5)   @ Stade Maurice Dufrasne › Luik
+▪ Relegation Round - 6
   Sat May 11
-    18.15     AS Eupen v RWDM  2-0 (0-0)   @ Kehrwegstadion › Eupen
+    18:15     AS Eupen v RWDM  2-0 (0-0)   @ Kehrwegstadion › Eupen
               Charleroi v Kortrijk  3-1 (2-0)   @ Stade du Pays de Charleroi › Charleroi
-» Championship Round - 8
+▪ Championship Round - 8
   Sat May 11
-    20.45     Anderlecht v Genk  2-1 (1-0)   @ Lotto Park › Brussel
-» Conference League Play-off Group - 8
+    20:45     Anderlecht v Genk  2-1 (1-0)   @ Lotto Park › Brussel
+▪ Conference League Play-off Group - 8
   Sun May 12
-    13.30     Gent v OH Leuven  0-1 (0-1)   @ Planet Group Arena › Gent
-    16.00     St. Truiden v KV Mechelen  2-1 (2-1)   @ Daio Wasabi Stayen Stadium › St.-Trond
-» Championship Round - 8
+    13:30     Gent v OH Leuven  0-1 (0-1)   @ Planet Group Arena › Gent
+    16:00     St. Truiden v KV Mechelen  2-1 (2-1)   @ Daio Wasabi Stayen Stadium › St.-Trond
+▪ Championship Round - 8
   Sun May 12
-    18.30     Antwerp v Cercle Brugge  1-2 (0-2)   @ Bosuilstadion › Deurne
+    18:30     Antwerp v Cercle Brugge  1-2 (0-2)   @ Bosuilstadion › Deurne
   Mon May 13
-    20.30     Club Brugge KV v Union St. Gilloise  2-2 (0-0)   @ Jan Breydelstadion › Brugge
-» Conference League Play-off Group - 9
+    20:30     Club Brugge KV v Union St. Gilloise  2-2 (0-0)   @ Jan Breydelstadion › Brugge
+▪ Conference League Play-off Group - 9
   Fri May 17
-    20.45     St. Truiden v OH Leuven  1-1 (0-0)   @ Daio Wasabi Stayen Stadium › St.-Trond
+    20:45     St. Truiden v OH Leuven  1-1 (0-0)   @ Daio Wasabi Stayen Stadium › St.-Trond
   Sat May 18
-    18.15     KVC Westerlo v KV Mechelen  0-2 (0-1)   @ Het Kuipje › Westerlo
-    20.45     Standard Liege v Gent  1-4 (1-1)   @ Stade Maurice Dufrasne › Luik
-» Championship Round - 9
+    18:15     KVC Westerlo v KV Mechelen  0-2 (0-1)   @ Het Kuipje › Westerlo
+    20:45     Standard Liege v Gent  1-4 (1-1)   @ Stade Maurice Dufrasne › Luik
+▪ Championship Round - 9
   Sun May 19
-    13.30     Cercle Brugge v Union St. Gilloise  1-2 (1-1)   @ Jan Breydelstadion › Brugge
-    18.30     Anderlecht v Club Brugge KV  0-1 (0-1)   @ Lotto Park › Brussel
-» Relegation Round
+    13:30     Cercle Brugge v Union St. Gilloise  1-2 (1-1)   @ Jan Breydelstadion › Brugge
+    18:30     Anderlecht v Club Brugge KV  0-1 (0-1)   @ Lotto Park › Brussel
+▪ Relegation Round
   Sun May 19
-    19.15     Lommel United v Kortrijk  0-1 (0-1)   @ Soeverein Stadion › Lommel
-» Championship Round - 9
+    19:15     Lommel United v Kortrijk  0-1 (0-1)   @ Soeverein Stadion › Lommel
+▪ Championship Round - 9
   Mon May 20
-    18.30     Genk v Antwerp  1-0 (1-0)   @ Cegeka Arena › Genk
-» Conference League Play-off Group - 10
+    18:30     Genk v Antwerp  1-0 (1-0)   @ Cegeka Arena › Genk
+▪ Conference League Play-off Group - 10
   Sat May 25
-    20.30     KV Mechelen v Standard Liege  3-2 (2-0)   @ AFAS Stadion › Malines
+    20:30     KV Mechelen v Standard Liege  3-2 (2-0)   @ AFAS Stadion › Malines
               Gent v St. Truiden  2-0 (0-0)   @ Planet Group Arena › Gent
               OH Leuven v KVC Westerlo  1-2 (0-2)   @ King Power at Den Dreef Stadion › Heverlee
-» Relegation Round
+▪ Relegation Round
   Sun May 26
-    13.30     Kortrijk v Lommel United  4-2 aet (0-1, 0-1)   @ Guldensporenstadion › Kortrijk
-» Championship Round - 10
+    13:30     Kortrijk v Lommel United  4-2 aet (0-1, 0-1)   @ Guldensporenstadion › Kortrijk
+▪ Championship Round - 10
   Sun May 26
-    18.30     Antwerp v Anderlecht  3-1 (0-1)   @ Bosuilstadion › Deurne
+    18:30     Antwerp v Anderlecht  3-1 (0-1)   @ Bosuilstadion › Deurne
               Union St. Gilloise v Genk  2-0 (1-0)   @ Stade Joseph Mariën › Brussels
               Club Brugge KV v Cercle Brugge  0-0 (0-0)   @ Jan Breydelstadion › Brugge
-» Conference League Play-offs - Final
+▪ Conference League Play-offs - Final
   Sun Jun 2
-    13.30     Genk v Gent  0-1 (0-0)   @ Cegeka Arena › Genk
+    13:30     Genk v Gent  0-1 (0-0)   @ Cegeka Arena › Genk

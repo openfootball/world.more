@@ -1,342 +1,342 @@
 = Czech-Republic | Czech Liga 2022/23
 
-  # Date       Sat Jul/30 2022 - Sun Jun/4 2023 (309d)
+  # Date       Sat Jul 30 2022 - Sun Jun 4 2023 (309d)
   # Teams      18
   # Matches    280
 
   # Note - All times in Europe/Prague
 
-» Regular Season - 1
+▪ Regular Season - 1
   Sat Jul 30 2022
-    16.00     Baník Ostrava v Sigma Olomouc  0-3 (0-1)   @ Městský stadion-Vítkovice Aréna › Ostrava
+    16:00     Baník Ostrava v Sigma Olomouc  0-3 (0-1)   @ Městský stadion-Vítkovice Aréna › Ostrava
   Sat Jul 30
-    16.00     Zbrojovka Brno v Slovácko  2-2 (2-1)   @ ADAX INVEST Arena › Brno
+    16:00     Zbrojovka Brno v Slovácko  2-2 (2-1)   @ ADAX INVEST Arena › Brno
               Zlin v Mlada Boleslav  0-0 (0-0)   @ Stadion Letná › Zlín
-    19.00     Teplice v Plzen  2-2 (1-0)   @ AGC Aréna Na Stínadlech › Teplice
+    19:00     Teplice v Plzen  2-2 (1-0)   @ AGC Aréna Na Stínadlech › Teplice
   Sun Jul 31
-    16.00     Hradec Králové v Slavia Praha  1-0 (0-0)   @ Lokotrans Aréna › Mladá Boleslav
+    16:00     Hradec Králové v Slavia Praha  1-0 (0-0)   @ Lokotrans Aréna › Mladá Boleslav
               Pardubice v České Budějovice  0-2 (0-1)   @ Stadion Ďolíček › Praha
               FK Jablonec v Bohemians 1905  0-3 (0-1)   @ Stadion Střelnice › Jablonec nad Nisou
-    19.00     Sparta Praha v Slovan Liberec  1-2 (0-2)   @ Generali Česká pojišťovna Arena › Praha
-» Regular Season - 2
+    19:00     Sparta Praha v Slovan Liberec  1-2 (0-2)   @ Generali Česká pojišťovna Arena › Praha
+▪ Regular Season - 2
   Sat Aug 6
-    16.00     Plzen v Pardubice  2-1 (1-0)   @ Doosan Aréna › Plzeň
+    16:00     Plzen v Pardubice  2-1 (1-0)   @ Doosan Aréna › Plzeň
               Slovan Liberec v Teplice  5-1 (3-1)   @ Stadion u Nisy › Liberec
               Sigma Olomouc v Zbrojovka Brno  0-2 (0-1)   @ Andrův stadion › Olomouc
-    19.00     Bohemians 1905 v Baník Ostrava  3-3 (3-1)   @ Stadion Ďolíček › Praha
+    19:00     Bohemians 1905 v Baník Ostrava  3-3 (3-1)   @ Stadion Ďolíček › Praha
   Sun Aug 7
-    16.00     Slovácko v Hradec Králové  1-0 (0-0)   @ Městský fotbalový stadion Miroslava Valenty › Uherské Hradiště
+    16:00     Slovácko v Hradec Králové  1-0 (0-0)   @ Městský fotbalový stadion Miroslava Valenty › Uherské Hradiště
               České Budějovice v Sparta Praha  0-2 (0-2)   @ Fotbalový stadion Střelecký ostrov › Ceské Budejovice
               Mlada Boleslav v FK Jablonec  2-2 (1-2)   @ Lokotrans Aréna › Mladá Boleslav
-    19.00     Slavia Praha v Zlin  4-1 (2-0)   @ Fortuna Arena › Praha
-» Regular Season - 3
+    19:00     Slavia Praha v Zlin  4-1 (2-0)   @ Fortuna Arena › Praha
+▪ Regular Season - 3
   Sat Aug 13
-    16.00     Baník Ostrava v Zlin  3-1 (3-0)   @ Městský stadion-Vítkovice Aréna › Ostrava
+    16:00     Baník Ostrava v Zlin  3-1 (3-0)   @ Městský stadion-Vítkovice Aréna › Ostrava
               Teplice v Bohemians 1905  0-1 (0-0)   @ AGC Aréna Na Stínadlech › Teplice
               Zbrojovka Brno v Mlada Boleslav  3-1 (0-1)   @ ADAX INVEST Arena › Brno
-    19.00     Hradec Králové v Plzen  1-2 (1-1)   @ Lokotrans Aréna › Mladá Boleslav
+    19:00     Hradec Králové v Plzen  1-2 (1-1)   @ Lokotrans Aréna › Mladá Boleslav
   Sun Aug 14
-    16.00     Pardubice v Slovan Liberec  2-1 (2-0)   @ Stadion Ďolíček › Praha
+    16:00     Pardubice v Slovan Liberec  2-1 (2-0)   @ Stadion Ďolíček › Praha
               České Budějovice v Slovácko  2-2 (1-1)   @ Fotbalový stadion Střelecký ostrov › Ceské Budejovice
               FK Jablonec v Slavia Praha  2-3 (0-1)   @ Stadion Střelnice › Jablonec nad Nisou
-    19.00     Sparta Praha v Sigma Olomouc  2-0 (1-0)   @ Generali Česká pojišťovna Arena › Praha
-» Regular Season - 4
+    19:00     Sparta Praha v Sigma Olomouc  2-0 (1-0)   @ Generali Česká pojišťovna Arena › Praha
+▪ Regular Season - 4
   Sat Aug 20
-    16.00     Baník Ostrava v Teplice  1-2 (1-1)   @ Městský stadion-Vítkovice Aréna › Ostrava
-    19.00     Mlada Boleslav v Sparta Praha  1-3 (1-0)   @ Lokotrans Aréna › Mladá Boleslav
+    16:00     Baník Ostrava v Teplice  1-2 (1-1)   @ Městský stadion-Vítkovice Aréna › Ostrava
+    19:00     Mlada Boleslav v Sparta Praha  1-3 (1-0)   @ Lokotrans Aréna › Mladá Boleslav
   Sun Aug 21
-    16.00     Zlin v FK Jablonec  2-2 (1-1)   @ Stadion Letná › Zlín
+    16:00     Zlin v FK Jablonec  2-2 (1-1)   @ Stadion Letná › Zlín
               Slovan Liberec v České Budějovice  1-1 (1-0)   @ Stadion u Nisy › Liberec
               Sigma Olomouc v Slovácko  1-2 (1-0)   @ Andrův stadion › Olomouc
-    19.00     Slavia Praha v Pardubice  7-0 (2-0)   @ Fortuna Arena › Praha
+    19:00     Slavia Praha v Pardubice  7-0 (2-0)   @ Fortuna Arena › Praha
   Mon Aug 22
-    19.00     Bohemians 1905 v Hradec Králové  1-2 (1-2)   @ Stadion Ďolíček › Praha
-» Regular Season - 5
+    19:00     Bohemians 1905 v Hradec Králové  1-2 (1-2)   @ Stadion Ďolíček › Praha
+▪ Regular Season - 5
   Sat Aug 27
-    16.00     Teplice v Zlin  0-0 (0-0)   @ AGC Aréna Na Stínadlech › Teplice
+    16:00     Teplice v Zlin  0-0 (0-0)   @ AGC Aréna Na Stínadlech › Teplice
               Pardubice v Mlada Boleslav  0-3 (0-3)   @ Stadion Ďolíček › Praha
               České Budějovice v Plzen  0-1 (0-0)   @ Fotbalový stadion Střelecký ostrov › Ceské Budejovice
               FK Jablonec v Baník Ostrava  1-1 (0-0)   @ Stadion Střelnice › Jablonec nad Nisou
-    19.00     Sparta Praha v Bohemians 1905  1-1 (0-1)   @ Generali Česká pojišťovna Arena › Praha
+    19:00     Sparta Praha v Bohemians 1905  1-1 (0-1)   @ Generali Česká pojišťovna Arena › Praha
   Sun Aug 28
-    16.00     Hradec Králové v Sigma Olomouc  1-0 (0-0)   @ Lokotrans Aréna › Mladá Boleslav
+    16:00     Hradec Králové v Sigma Olomouc  1-0 (0-0)   @ Lokotrans Aréna › Mladá Boleslav
               Slovácko v Slovan Liberec  1-2 (0-1)   @ Městský fotbalový stadion Miroslava Valenty › Uherské Hradiště
-    19.00     Zbrojovka Brno v Slavia Praha  0-4 (0-3)   @ ADAX INVEST Arena › Brno
-» Regular Season - 6
+    19:00     Zbrojovka Brno v Slavia Praha  0-4 (0-3)   @ ADAX INVEST Arena › Brno
+▪ Regular Season - 6
   Tue Aug 30
-    17.30     Bohemians 1905 v České Budějovice  1-2 (0-1)   @ Stadion Ďolíček › Praha
+    17:30     Bohemians 1905 v České Budějovice  1-2 (0-1)   @ Stadion Ďolíček › Praha
               Zlin v Pardubice  2-1 (1-0)   @ Stadion Letná › Zlín
-    20.00     FK Jablonec v Sparta Praha  1-1 (1-1)   @ Stadion Střelnice › Jablonec nad Nisou
+    20:00     FK Jablonec v Sparta Praha  1-1 (1-1)   @ Stadion Střelnice › Jablonec nad Nisou
   Wed Aug 31
-    17.30     Plzen v Slovácko  3-0 (2-0)   @ Doosan Aréna › Plzeň
+    17:30     Plzen v Slovácko  3-0 (2-0)   @ Doosan Aréna › Plzeň
               Mlada Boleslav v Hradec Králové  1-2 (0-1)   @ Lokotrans Aréna › Mladá Boleslav
               Sigma Olomouc v Slovan Liberec  1-1 (1-0)   @ Andrův stadion › Olomouc
               Baník Ostrava v Zbrojovka Brno  1-2 (0-0)   @ Městský stadion-Vítkovice Aréna › Ostrava
-    20.00     Slavia Praha v Teplice  6-0 (2-0)   @ Fortuna Arena › Praha
-» Regular Season - 7
+    20:00     Slavia Praha v Teplice  6-0 (2-0)   @ Fortuna Arena › Praha
+▪ Regular Season - 7
   Sat Sep 3
-    16.00     Teplice v FK Jablonec  3-2 (1-2)   @ AGC Aréna Na Stínadlech › Teplice
+    16:00     Teplice v FK Jablonec  3-2 (1-2)   @ AGC Aréna Na Stínadlech › Teplice
               České Budějovice v Mlada Boleslav  0-2 (0-0)   @ Fotbalový stadion Střelecký ostrov › Ceské Budejovice
               Slovan Liberec v Plzen  0-1 (0-1)   @ Stadion u Nisy › Liberec
-    19.00     Sparta Praha v Zlin  0-0 (0-0)   @ Generali Česká pojišťovna Arena › Praha
+    19:00     Sparta Praha v Zlin  0-0 (0-0)   @ Generali Česká pojišťovna Arena › Praha
   Sun Sep 4
-    16.00     Hradec Králové v Baník Ostrava  0-0 (0-0)   @ Lokotrans Aréna › Mladá Boleslav
+    16:00     Hradec Králové v Baník Ostrava  0-0 (0-0)   @ Lokotrans Aréna › Mladá Boleslav
               Pardubice v Sigma Olomouc  0-2 (0-1)   @ Stadion Ďolíček › Praha
               Zbrojovka Brno v Bohemians 1905  1-2 (0-2)   @ ADAX INVEST Arena › Brno
-    19.00     Slovácko v Slavia Praha  1-1 (1-0)   @ Městský fotbalový stadion Miroslava Valenty › Uherské Hradiště
-» Regular Season - 8
+    19:00     Slovácko v Slavia Praha  1-1 (1-0)   @ Městský fotbalový stadion Miroslava Valenty › Uherské Hradiště
+▪ Regular Season - 8
   Sat Sep 10
-    16.00     Sigma Olomouc v Plzen  2-3 (1-2)   @ Andrův stadion › Olomouc
+    16:00     Sigma Olomouc v Plzen  2-3 (1-2)   @ Andrův stadion › Olomouc
               Zlin v Zbrojovka Brno  2-3 (0-1)   @ Stadion Letná › Zlín
-    19.00     Teplice v Sparta Praha  2-2 (1-2)   @ AGC Aréna Na Stínadlech › Teplice
+    19:00     Teplice v Sparta Praha  2-2 (1-2)   @ AGC Aréna Na Stínadlech › Teplice
   Sun Sep 11
-    16.00     FK Jablonec v Hradec Králové  3-0 (0-0)   @ Stadion Střelnice › Jablonec nad Nisou
+    16:00     FK Jablonec v Hradec Králové  3-0 (0-0)   @ Stadion Střelnice › Jablonec nad Nisou
               Baník Ostrava v Pardubice  3-0 (1-0)   @ Městský stadion-Vítkovice Aréna › Ostrava
               Bohemians 1905 v Slovan Liberec  0-2 (0-1)   @ Stadion Ďolíček › Praha
               Mlada Boleslav v Slovácko  1-1 (0-1)   @ Lokotrans Aréna › Mladá Boleslav
-    19.00     Slavia Praha v České Budějovice  6-1 (3-0)   @ Fortuna Arena › Praha
-» Regular Season - 9
+    19:00     Slavia Praha v České Budějovice  6-1 (3-0)   @ Fortuna Arena › Praha
+▪ Regular Season - 9
   Sat Sep 17
-    16.00     Zbrojovka Brno v Teplice  2-2 (2-2)   @ ADAX INVEST Arena › Brno
+    16:00     Zbrojovka Brno v Teplice  2-2 (2-2)   @ ADAX INVEST Arena › Brno
               České Budějovice v Sigma Olomouc  0-3 (0-2)   @ Fotbalový stadion Střelecký ostrov › Ceské Budejovice
               Slovan Liberec v Mlada Boleslav  1-3 (1-0)   @ Stadion u Nisy › Liberec
-    19.00     Sparta Praha v Baník Ostrava  1-1 (1-0)   @ Generali Česká pojišťovna Arena › Praha
+    19:00     Sparta Praha v Baník Ostrava  1-1 (1-0)   @ Generali Česká pojišťovna Arena › Praha
   Sun Sep 18
-    16.00     Hradec Králové v Zlin  0-0 (0-0)   @ Lokotrans Aréna › Mladá Boleslav
+    16:00     Hradec Králové v Zlin  0-0 (0-0)   @ Lokotrans Aréna › Mladá Boleslav
               Pardubice v Bohemians 1905  0-1 (0-0)   @ Stadion Ďolíček › Praha
               Slovácko v FK Jablonec  0-2 (0-0)   @ Městský fotbalový stadion Miroslava Valenty › Uherské Hradiště
-    19.00     Plzen v Slavia Praha  3-0 (2-0)   @ Doosan Aréna › Plzeň
-» Regular Season - 10
+    19:00     Plzen v Slavia Praha  3-0 (2-0)   @ Doosan Aréna › Plzeň
+▪ Regular Season - 10
   Sat Oct 1
-    16.00     Baník Ostrava v České Budějovice  1-2 (0-1)   @ Městský stadion-Vítkovice Aréna › Ostrava
+    16:00     Baník Ostrava v České Budějovice  1-2 (0-1)   @ Městský stadion-Vítkovice Aréna › Ostrava
               Bohemians 1905 v Plzen  1-1 (0-1)   @ Stadion Ďolíček › Praha
               Mlada Boleslav v Sigma Olomouc  1-1 (1-0)   @ Lokotrans Aréna › Mladá Boleslav
-    19.00     Sparta Praha v Hradec Králové  2-1 (0-1)   @ Generali Česká pojišťovna Arena › Praha
+    19:00     Sparta Praha v Hradec Králové  2-1 (0-1)   @ Generali Česká pojišťovna Arena › Praha
   Sun Oct 2
-    16.00     FK Jablonec v Zbrojovka Brno  3-1 (1-0)   @ Stadion Střelnice › Jablonec nad Nisou
+    16:00     FK Jablonec v Zbrojovka Brno  3-1 (1-0)   @ Stadion Střelnice › Jablonec nad Nisou
               Teplice v Pardubice  5-1 (2-0)   @ AGC Aréna Na Stínadlech › Teplice
               Zlin v Slovácko  0-2 (0-0)   @ Stadion Letná › Zlín
-    19.00     Slavia Praha v Slovan Liberec  3-0 (3-0)   @ Fortuna Arena › Praha
-» Regular Season - 11
+    19:00     Slavia Praha v Slovan Liberec  3-0 (3-0)   @ Fortuna Arena › Praha
+▪ Regular Season - 11
   Sat Oct 8
-    16.00     Hradec Králové v Teplice  4-1 (1-1)   @ Lokotrans Aréna › Mladá Boleslav
+    16:00     Hradec Králové v Teplice  4-1 (1-1)   @ Lokotrans Aréna › Mladá Boleslav
               Pardubice v FK Jablonec  1-0 (0-0)   @ Stadion Ďolíček › Praha
               Zbrojovka Brno v Sparta Praha  0-4 (0-2)   @ ADAX INVEST Arena › Brno
-    19.00     Plzen v Mlada Boleslav  2-0 (0-0)   @ Doosan Aréna › Plzeň
+    19:00     Plzen v Mlada Boleslav  2-0 (0-0)   @ Doosan Aréna › Plzeň
   Sun Oct 9
-    16.00     Slovácko v Bohemians 1905  2-4 (0-2)   @ Městský fotbalový stadion Miroslava Valenty › Uherské Hradiště
+    16:00     Slovácko v Bohemians 1905  2-4 (0-2)   @ Městský fotbalový stadion Miroslava Valenty › Uherské Hradiště
               České Budějovice v Zlin  2-2 (2-1)   @ Fotbalový stadion Střelecký ostrov › Ceské Budejovice
               Slovan Liberec v Baník Ostrava  0-0 (0-0)   @ Stadion u Nisy › Liberec
-    19.00     Sigma Olomouc v Slavia Praha  2-0 (1-0)   @ Andrův stadion › Olomouc
-» Regular Season - 12
+    19:00     Sigma Olomouc v Slavia Praha  2-0 (1-0)   @ Andrův stadion › Olomouc
+▪ Regular Season - 12
   Sat Oct 15
-    16.00     Bohemians 1905 v Sigma Olomouc  1-1 (0-1)   @ Stadion Ďolíček › Praha
+    16:00     Bohemians 1905 v Sigma Olomouc  1-1 (0-1)   @ Stadion Ďolíček › Praha
               Teplice v České Budějovice  0-2 (0-0)   @ AGC Aréna Na Stínadlech › Teplice
               Hradec Králové v Zbrojovka Brno  2-1 (1-1)   @ Lokotrans Aréna › Mladá Boleslav
-    19.00     Sparta Praha v Pardubice  5-2 (2-1)   @ Generali Česká pojišťovna Arena › Praha
+    19:00     Sparta Praha v Pardubice  5-2 (2-1)   @ Generali Česká pojišťovna Arena › Praha
   Sun Oct 16
-    15.00     Baník Ostrava v Slovácko  3-1 (2-0)   @ Městský stadion-Vítkovice Aréna › Ostrava
-    16.00     FK Jablonec v Plzen  0-3 (0-1)   @ Stadion Střelnice › Jablonec nad Nisou
+    15:00     Baník Ostrava v Slovácko  3-1 (2-0)   @ Městský stadion-Vítkovice Aréna › Ostrava
+    16:00     FK Jablonec v Plzen  0-3 (0-1)   @ Stadion Střelnice › Jablonec nad Nisou
               Zlin v Slovan Liberec  2-1 (1-0)   @ Stadion Letná › Zlín
-    19.00     Slavia Praha v Mlada Boleslav  2-1 (2-1)   @ Fortuna Arena › Praha
-» Regular Season - 13
+    19:00     Slavia Praha v Mlada Boleslav  2-1 (2-1)   @ Fortuna Arena › Praha
+▪ Regular Season - 13
   Sat Oct 22
-    16.00     Slovan Liberec v FK Jablonec  2-0 (1-0)   @ Stadion u Nisy › Liberec
+    16:00     Slovan Liberec v FK Jablonec  2-0 (1-0)   @ Stadion u Nisy › Liberec
               Sigma Olomouc v Zlin  2-1 (0-1)   @ Andrův stadion › Olomouc
               Pardubice v Zbrojovka Brno  1-3 (0-1)   @ Stadion Ďolíček › Praha
-    19.00     Plzen v Baník Ostrava  3-1 (2-0)   @ Doosan Aréna › Plzeň
+    19:00     Plzen v Baník Ostrava  3-1 (2-0)   @ Doosan Aréna › Plzeň
   Sun Oct 23
-    15.00     České Budějovice v Hradec Králové  0-3 (0-0)   @ Fotbalový stadion Střelecký ostrov › Ceské Budejovice
-    16.00     Slovácko v Teplice  2-1 (0-1)   @ Městský fotbalový stadion Miroslava Valenty › Uherské Hradiště
+    15:00     České Budějovice v Hradec Králové  0-3 (0-0)   @ Fotbalový stadion Střelecký ostrov › Ceské Budejovice
+    16:00     Slovácko v Teplice  2-1 (0-1)   @ Městský fotbalový stadion Miroslava Valenty › Uherské Hradiště
               Mlada Boleslav v Bohemians 1905  4-3 (1-1)   @ Lokotrans Aréna › Mladá Boleslav
-    19.00     Slavia Praha v Sparta Praha  4-0 (4-0)   @ Fortuna Arena › Praha
-» Regular Season - 14
+    19:00     Slavia Praha v Sparta Praha  4-0 (4-0)   @ Fortuna Arena › Praha
+▪ Regular Season - 14
   Sat Oct 29
-    15.00     FK Jablonec v České Budějovice  3-0 (1-0)   @ Stadion Střelnice › Jablonec nad Nisou
+    15:00     FK Jablonec v České Budějovice  3-0 (1-0)   @ Stadion Střelnice › Jablonec nad Nisou
               Baník Ostrava v Mlada Boleslav  3-1 (1-0)   @ Městský stadion-Vítkovice Aréna › Ostrava
               Hradec Králové v Pardubice  1-3 (0-0)   @ Lokotrans Aréna › Mladá Boleslav
-    18.00     Zlin v Plzen  0-3 (0-1)   @ Stadion Letná › Zlín
+    18:00     Zlin v Plzen  0-3 (0-1)   @ Stadion Letná › Zlín
   Sun Oct 30
-    15.00     Teplice v Sigma Olomouc  2-1 (1-1)   @ AGC Aréna Na Stínadlech › Teplice
+    15:00     Teplice v Sigma Olomouc  2-1 (1-1)   @ AGC Aréna Na Stínadlech › Teplice
               Zbrojovka Brno v Slovan Liberec  3-0 (0-0)   @ ADAX INVEST Arena › Brno
               Bohemians 1905 v Slavia Praha  1-4 (1-2)   @ Stadion Ďolíček › Praha
-» Regular Season - 15
+▪ Regular Season - 15
   Sat Nov 5
-    15.00     Bohemians 1905 v Zlin  3-2 (0-2)   @ Stadion Ďolíček › Praha
+    15:00     Bohemians 1905 v Zlin  3-2 (0-2)   @ Stadion Ďolíček › Praha
               České Budějovice v Zbrojovka Brno  3-2 (1-0)   @ Fotbalový stadion Střelecký ostrov › Ceské Budejovice
               Sigma Olomouc v FK Jablonec  3-0 (1-0)   @ Andrův stadion › Olomouc
-    18.00     Plzen v Sparta Praha  0-1 (0-0)   @ Doosan Aréna › Plzeň
+    18:00     Plzen v Sparta Praha  0-1 (0-0)   @ Doosan Aréna › Plzeň
   Sun Nov 6
-    15.00     Mlada Boleslav v Teplice  3-0 (1-0)   @ Lokotrans Aréna › Mladá Boleslav
+    15:00     Mlada Boleslav v Teplice  3-0 (1-0)   @ Lokotrans Aréna › Mladá Boleslav
               Slovan Liberec v Hradec Králové  2-0 (1-0)   @ Stadion u Nisy › Liberec
               Slovácko v Pardubice  1-0 (0-0)   @ Městský fotbalový stadion Miroslava Valenty › Uherské Hradiště
-    18.00     Slavia Praha v Baník Ostrava  3-1 (0-0)   @ Fortuna Arena › Praha
-» Regular Season - 4
+    18:00     Slavia Praha v Baník Ostrava  3-1 (0-0)   @ Fortuna Arena › Praha
+▪ Regular Season - 4
   Wed Nov 9
-    17.00     Plzen v Zbrojovka Brno  4-0 (1-0)   @ Doosan Aréna › Plzeň
-» Regular Season - 14
+    17:00     Plzen v Zbrojovka Brno  4-0 (1-0)   @ Doosan Aréna › Plzeň
+▪ Regular Season - 14
   Wed Nov 9
-    19.30     Sparta Praha v Slovácko  4-0 (2-0)   @ Stadion Letná › Praha
-» Regular Season - 16
+    19:30     Sparta Praha v Slovácko  4-0 (2-0)   @ Stadion Letná › Praha
+▪ Regular Season - 16
   Sat Nov 12
-    15.00     Baník Ostrava v Bohemians 1905  4-1 (2-0)   @ Městský stadion-Vítkovice Aréna › Ostrava
+    15:00     Baník Ostrava v Bohemians 1905  4-1 (2-0)   @ Městský stadion-Vítkovice Aréna › Ostrava
               Teplice v Slovan Liberec  2-1 (1-1)   @ AGC Aréna Na Stínadlech › Teplice
               FK Jablonec v Mlada Boleslav  1-2 (1-1)   @ Stadion Střelnice › Jablonec nad Nisou
-    18.00     Sparta Praha v České Budějovice  1-0 (1-0)   @ Stadion Letná › Praha
+    18:00     Sparta Praha v České Budějovice  1-0 (1-0)   @ Stadion Letná › Praha
   Sun Nov 13
-    15.00     Pardubice v Plzen  1-1 (0-0)   @ Stadion Ďolíček › Praha
+    15:00     Pardubice v Plzen  1-1 (0-0)   @ Stadion Ďolíček › Praha
               Zbrojovka Brno v Sigma Olomouc  2-3 (1-2)   @ ADAX INVEST Arena › Brno
               Hradec Králové v Slovácko  1-2 (1-0)   @ Lokotrans Aréna › Mladá Boleslav
-    18.00     Zlin v Slavia Praha  0-4 (0-3)   @ Stadion Letná › Zlín
-» Regular Season - 17
+    18:00     Zlin v Slavia Praha  0-4 (0-3)   @ Stadion Letná › Zlín
+▪ Regular Season - 17
   Sat Jan 28 2023
-    15.00     Bohemians 1905 v Teplice  2-0 (0-0)   @ Stadion Ďolíček › Praha
+    15:00     Bohemians 1905 v Teplice  2-0 (0-0)   @ Stadion Ďolíček › Praha
   Sat Jan 28
-    15.00     Slovácko v České Budějovice  1-0 (0-0)   @ Městský fotbalový stadion Miroslava Valenty › Uherské Hradiště
+    15:00     Slovácko v České Budějovice  1-0 (0-0)   @ Městský fotbalový stadion Miroslava Valenty › Uherské Hradiště
               Plzen v Hradec Králové  1-2 (1-1)   @ Doosan Aréna › Plzeň
-    18.00     Sigma Olomouc v Sparta Praha  1-1 (1-1)   @ Andrův stadion › Olomouc
+    18:00     Sigma Olomouc v Sparta Praha  1-1 (1-1)   @ Andrův stadion › Olomouc
   Sun Jan 29
-    15.00     Slavia Praha v FK Jablonec  5-1 (1-1)   @ Fortuna Arena › Praha
+    15:00     Slavia Praha v FK Jablonec  5-1 (1-1)   @ Fortuna Arena › Praha
               Mlada Boleslav v Zbrojovka Brno  0-0 (0-0)   @ Lokotrans Aréna › Mladá Boleslav
               Slovan Liberec v Pardubice  1-1 (1-0)   @ Stadion u Nisy › Liberec
-    18.00     Zlin v Baník Ostrava  1-1 (0-1)   @ Stadion Letná › Zlín
-» Regular Season - 18
+    18:00     Zlin v Baník Ostrava  1-1 (0-1)   @ Stadion Letná › Zlín
+▪ Regular Season - 18
   Sat Feb 4
-    15.00     Slovácko v Sigma Olomouc  0-0 (0-0)   @ Městský fotbalový stadion Miroslava Valenty › Uherské Hradiště
+    15:00     Slovácko v Sigma Olomouc  0-0 (0-0)   @ Městský fotbalový stadion Miroslava Valenty › Uherské Hradiště
               Teplice v Baník Ostrava  0-5 (0-0)   @ AGC Aréna Na Stínadlech › Teplice
               FK Jablonec v Zlin  2-2 (0-1)   @ Stadion Střelnice › Jablonec nad Nisou
-    18.00     Pardubice v Slavia Praha  0-2 (0-1)   @ CFIG Arena › Pardubice
+    18:00     Pardubice v Slavia Praha  0-2 (0-1)   @ CFIG Arena › Pardubice
   Sun Feb 5
-    15.00     Hradec Králové v Bohemians 1905  0-2 (0-2)   @ Lokotrans Aréna › Mladá Boleslav
+    15:00     Hradec Králové v Bohemians 1905  0-2 (0-2)   @ Lokotrans Aréna › Mladá Boleslav
               Zbrojovka Brno v Plzen  1-3 (1-0)   @ ADAX INVEST Arena › Brno
               České Budějovice v Slovan Liberec  0-2 (0-1)   @ Fotbalový stadion Střelecký ostrov › Ceské Budejovice
-    18.00     Sparta Praha v Mlada Boleslav  4-1 (2-1)   @ epet ARENA › Praha
-» Regular Season - 19
+    18:00     Sparta Praha v Mlada Boleslav  4-1 (2-1)   @ epet ARENA › Praha
+▪ Regular Season - 19
   Sat Feb 11
-    15.00     Slovan Liberec v Slovácko  0-1 (0-0)   @ Stadion u Nisy › Liberec
+    15:00     Slovan Liberec v Slovácko  0-1 (0-0)   @ Stadion u Nisy › Liberec
               Baník Ostrava v FK Jablonec  1-2 (0-1)   @ Městský stadion-Vítkovice Aréna › Ostrava
               Zlin v Teplice  2-1 (2-0)   @ Stadion Letná › Zlín
-    18.00     Slavia Praha v Zbrojovka Brno  2-0 (0-0)   @ Fortuna Arena › Praha
+    18:00     Slavia Praha v Zbrojovka Brno  2-0 (0-0)   @ Fortuna Arena › Praha
   Sun Feb 12
-    15.00     Mlada Boleslav v Pardubice  0-1 (0-1)   @ Lokotrans Aréna › Mladá Boleslav
+    15:00     Mlada Boleslav v Pardubice  0-1 (0-1)   @ Lokotrans Aréna › Mladá Boleslav
               Sigma Olomouc v Hradec Králové  2-2 (1-1)   @ Andrův stadion › Olomouc
               Plzen v České Budějovice  2-1 (1-0)   @ Doosan Aréna › Plzeň
-    18.00     Bohemians 1905 v Sparta Praha  2-6 (0-1)   @ Stadion Ďolíček › Praha
-» Regular Season - 20
+    18:00     Bohemians 1905 v Sparta Praha  2-6 (0-1)   @ Stadion Ďolíček › Praha
+▪ Regular Season - 20
   Sat Feb 18
-    15.00     Hradec Králové v Mlada Boleslav  0-1 (0-0)   @ Lokotrans Aréna › Mladá Boleslav
+    15:00     Hradec Králové v Mlada Boleslav  0-1 (0-0)   @ Lokotrans Aréna › Mladá Boleslav
               Zbrojovka Brno v Baník Ostrava  2-1 (1-0)   @ ADAX INVEST Arena › Brno
               Slovan Liberec v Sigma Olomouc  2-2 (1-1)   @ Stadion u Nisy › Liberec
-    18.00     Teplice v Slavia Praha  1-1 (1-0)   @ AGC Aréna Na Stínadlech › Teplice
+    18:00     Teplice v Slavia Praha  1-1 (1-0)   @ AGC Aréna Na Stínadlech › Teplice
   Sun Feb 19
-    15.00     Pardubice v Zlin  2-1 (1-0)   @ CFIG Arena › Pardubice
+    15:00     Pardubice v Zlin  2-1 (1-0)   @ CFIG Arena › Pardubice
               České Budějovice v Bohemians 1905  1-0 (0-0)   @ Fotbalový stadion Střelecký ostrov › Ceské Budejovice
               Slovácko v Plzen  2-0 (1-0)   @ Městský fotbalový stadion Miroslava Valenty › Uherské Hradiště
-    18.00     Sparta Praha v FK Jablonec  3-0 (1-0)   @ epet ARENA › Praha
-» Regular Season - 21
+    18:00     Sparta Praha v FK Jablonec  3-0 (1-0)   @ epet ARENA › Praha
+▪ Regular Season - 21
   Sat Feb 25
-    15.00     Mlada Boleslav v České Budějovice  2-2 (1-1)   @ Lokotrans Aréna › Mladá Boleslav
+    15:00     Mlada Boleslav v České Budějovice  2-2 (1-1)   @ Lokotrans Aréna › Mladá Boleslav
               Bohemians 1905 v Zbrojovka Brno  1-1 (0-0)   @ Stadion Ďolíček › Praha
               Zlin v Sparta Praha  2-3 (0-2)   @ Stadion Letná › Zlín
-    18.00     Plzen v Slovan Liberec  2-1 (1-0)   @ Doosan Aréna › Plzeň
+    18:00     Plzen v Slovan Liberec  2-1 (1-0)   @ Doosan Aréna › Plzeň
   Sun Feb 26
-    15.00     FK Jablonec v Teplice  4-1 (2-0)   @ Stadion Střelnice › Jablonec nad Nisou
+    15:00     FK Jablonec v Teplice  4-1 (2-0)   @ Stadion Střelnice › Jablonec nad Nisou
               Sigma Olomouc v Pardubice  2-2 (0-0)   @ Andrův stadion › Olomouc
               Slavia Praha v Slovácko  2-0 (1-0)   @ Fortuna Arena › Praha
-    18.00     Baník Ostrava v Hradec Králové  0-2 (0-1)   @ Městský stadion-Vítkovice Aréna › Ostrava
-» Regular Season - 22
+    18:00     Baník Ostrava v Hradec Králové  0-2 (0-1)   @ Městský stadion-Vítkovice Aréna › Ostrava
+▪ Regular Season - 22
   Sat Mar 4
-    15.00     Plzen v Sigma Olomouc  1-1 (0-0)   @ Doosan Aréna › Plzeň
+    15:00     Plzen v Sigma Olomouc  1-1 (0-0)   @ Doosan Aréna › Plzeň
               Hradec Králové v FK Jablonec  1-4 (1-0)   @ Lokotrans Aréna › Mladá Boleslav
               Pardubice v Baník Ostrava  1-1 (1-1)   @ CFIG Arena › Pardubice
               Zbrojovka Brno v Zlin  1-1 (0-1)   @ ADAX INVEST Arena › Brno
-    18.00     Sparta Praha v Teplice  4-1 (2-0)   @ epet ARENA › Praha
+    18:00     Sparta Praha v Teplice  4-1 (2-0)   @ epet ARENA › Praha
   Sun Mar 5
-    14.00     Slovan Liberec v Bohemians 1905  1-3 (0-2)   @ Stadion u Nisy › Liberec
-    15.00     Slovácko v Mlada Boleslav  2-1 (1-1)   @ Městský fotbalový stadion Miroslava Valenty › Uherské Hradiště
-    17.00     České Budějovice v Slavia Praha  1-0 (0-0)   @ Fotbalový stadion Střelecký ostrov › Ceské Budejovice
-» Regular Season - 23
+    14:00     Slovan Liberec v Bohemians 1905  1-3 (0-2)   @ Stadion u Nisy › Liberec
+    15:00     Slovácko v Mlada Boleslav  2-1 (1-1)   @ Městský fotbalový stadion Miroslava Valenty › Uherské Hradiště
+    17:00     České Budějovice v Slavia Praha  1-0 (0-0)   @ Fotbalový stadion Střelecký ostrov › Ceské Budejovice
+▪ Regular Season - 23
   Sat Mar 11
-    15.00     Zlin v Hradec Králové  2-2 (2-1)   @ Stadion Letná › Zlín
+    15:00     Zlin v Hradec Králové  2-2 (2-1)   @ Stadion Letná › Zlín
               Sigma Olomouc v České Budějovice  3-0 (0-0)   @ Andrův stadion › Olomouc
               Baník Ostrava v Sparta Praha  0-3 (0-2)   @ Městský stadion-Vítkovice Aréna › Ostrava
-    18.00     Slavia Praha v Plzen  2-1 (0-1)   @ Fortuna Arena › Praha
+    18:00     Slavia Praha v Plzen  2-1 (0-1)   @ Fortuna Arena › Praha
   Sun Mar 12
-    15.00     Teplice v Zbrojovka Brno  1-1 (0-0)   @ AGC Aréna Na Stínadlech › Teplice
+    15:00     Teplice v Zbrojovka Brno  1-1 (0-0)   @ AGC Aréna Na Stínadlech › Teplice
               Mlada Boleslav v Slovan Liberec  4-0 (3-0)   @ Lokotrans Aréna › Mladá Boleslav
-    18.00     Bohemians 1905 v Pardubice  2-0 (1-0)   @ Stadion Ďolíček › Praha
-» Regular Season - 24
+    18:00     Bohemians 1905 v Pardubice  2-0 (1-0)   @ Stadion Ďolíček › Praha
+▪ Regular Season - 24
   Sat Mar 18
-    15.00     Hradec Králové v Sparta Praha  0-2 (0-1)   @ Lokotrans Aréna › Mladá Boleslav
+    15:00     Hradec Králové v Sparta Praha  0-2 (0-1)   @ Lokotrans Aréna › Mladá Boleslav
               České Budějovice v Baník Ostrava  2-1 (1-1)   @ Fotbalový stadion Střelecký ostrov › Ceské Budejovice
               Sigma Olomouc v Mlada Boleslav  2-0 (1-0)   @ Andrův stadion › Olomouc
-    18.00     Slovan Liberec v Slavia Praha  2-2 (1-1)   @ Stadion u Nisy › Liberec
+    18:00     Slovan Liberec v Slavia Praha  2-2 (1-1)   @ Stadion u Nisy › Liberec
   Sun Mar 19
-    15.00     Slovácko v Zlin  3-0 (1-0)   @ Městský fotbalový stadion Miroslava Valenty › Uherské Hradiště
+    15:00     Slovácko v Zlin  3-0 (1-0)   @ Městský fotbalový stadion Miroslava Valenty › Uherské Hradiště
               Pardubice v Teplice  3-1 (2-1)   @ CFIG Arena › Pardubice
               Zbrojovka Brno v FK Jablonec  1-2 (1-0)   @ ADAX INVEST Arena › Brno
-    18.00     Plzen v Bohemians 1905  1-2 (1-0)   @ Doosan Aréna › Plzeň
-» Regular Season - 25
+    18:00     Plzen v Bohemians 1905  1-2 (1-0)   @ Doosan Aréna › Plzeň
+▪ Regular Season - 25
   Sat Apr 1
-    16.00     Mlada Boleslav v Plzen  0-0 (0-0)   @ Lokotrans Aréna › Mladá Boleslav
+    16:00     Mlada Boleslav v Plzen  0-0 (0-0)   @ Lokotrans Aréna › Mladá Boleslav
               Baník Ostrava v Slovan Liberec  0-0 (0-0)   @ Městský stadion-Vítkovice Aréna › Ostrava
               Zlin v České Budějovice  5-1 (2-0)   @ Stadion Letná › Zlín
-    19.00     Slavia Praha v Sigma Olomouc  4-0 (1-0)   @ Fortuna Arena › Praha
+    19:00     Slavia Praha v Sigma Olomouc  4-0 (1-0)   @ Fortuna Arena › Praha
   Sun Apr 2
-    16.00     Sparta Praha v Zbrojovka Brno  3-1 (2-1)   @ epet ARENA › Praha
+    16:00     Sparta Praha v Zbrojovka Brno  3-1 (2-1)   @ epet ARENA › Praha
               FK Jablonec v Pardubice  1-0 (0-0)   @ Stadion Střelnice › Jablonec nad Nisou
               Teplice v Hradec Králové  1-0 (1-0)   @ AGC Aréna Na Stínadlech › Teplice
-    19.00     Bohemians 1905 v Slovácko  1-0 (0-0)   @ Stadion Ďolíček › Praha
-» Regular Season - 23
+    19:00     Bohemians 1905 v Slovácko  1-0 (0-0)   @ Stadion Ďolíček › Praha
+▪ Regular Season - 23
   Wed Apr 5
-    17.00     FK Jablonec v Slovácko  1-1 (0-1)   @ Stadion Střelnice › Jablonec nad Nisou
-» Regular Season - 26
+    17:00     FK Jablonec v Slovácko  1-1 (0-1)   @ Stadion Střelnice › Jablonec nad Nisou
+▪ Regular Season - 26
   Sat Apr 8
-    16.00     Slovácko v Baník Ostrava  0-1 (0-1)   @ Městský fotbalový stadion Miroslava Valenty › Uherské Hradiště
+    16:00     Slovácko v Baník Ostrava  0-1 (0-1)   @ Městský fotbalový stadion Miroslava Valenty › Uherské Hradiště
               Zbrojovka Brno v Hradec Králové  1-2 (1-1)   @ ADAX INVEST Arena › Brno
               Slovan Liberec v Zlin  2-1 (0-0)   @ Stadion u Nisy › Liberec
-    19.00     Plzen v FK Jablonec  3-2 (1-0)   @ Doosan Aréna › Plzeň
+    19:00     Plzen v FK Jablonec  3-2 (1-0)   @ Doosan Aréna › Plzeň
   Sun Apr 9
-    16.00     Mlada Boleslav v Slavia Praha  1-1 (1-1)   @ Lokotrans Aréna › Mladá Boleslav
+    16:00     Mlada Boleslav v Slavia Praha  1-1 (1-1)   @ Lokotrans Aréna › Mladá Boleslav
               Sigma Olomouc v Bohemians 1905  2-2 (1-1)   @ Andrův stadion › Olomouc
               České Budějovice v Teplice  0-3 (0-1)   @ Fotbalový stadion Střelecký ostrov › Ceské Budejovice
-    19.00     Pardubice v Sparta Praha  0-2 (0-2)   @ CFIG Arena › Pardubice
-» Regular Season - 27
+    19:00     Pardubice v Sparta Praha  0-2 (0-2)   @ CFIG Arena › Pardubice
+▪ Regular Season - 27
   Sat Apr 15
-    16.00     FK Jablonec v Slovan Liberec  1-1 (0-0)   @ Stadion Střelnice › Jablonec nad Nisou
+    16:00     FK Jablonec v Slovan Liberec  1-1 (0-0)   @ Stadion Střelnice › Jablonec nad Nisou
               Teplice v Slovácko  1-3 (0-1)   @ AGC Aréna Na Stínadlech › Teplice
               Zlin v Sigma Olomouc  0-1 (0-1)   @ Stadion Letná › Zlín
-    19.00     Sparta Praha v Slavia Praha  3-3 (0-1)   @ epet ARENA › Praha
+    19:00     Sparta Praha v Slavia Praha  3-3 (0-1)   @ epet ARENA › Praha
   Sun Apr 16
-    16.00     Hradec Králové v České Budějovice  2-1 (2-0)   @ Lokotrans Aréna › Mladá Boleslav
+    16:00     Hradec Králové v České Budějovice  2-1 (2-0)   @ Lokotrans Aréna › Mladá Boleslav
               Zbrojovka Brno v Pardubice  2-1 (0-0)   @ ADAX INVEST Arena › Brno
               Bohemians 1905 v Mlada Boleslav  4-0 (1-0)   @ Stadion Ďolíček › Praha
-    19.00     Baník Ostrava v Plzen  2-1 (1-0)   @ Městský stadion-Vítkovice Aréna › Ostrava
-» Regular Season - 28
+    19:00     Baník Ostrava v Plzen  2-1 (1-0)   @ Městský stadion-Vítkovice Aréna › Ostrava
+▪ Regular Season - 28
   Sat Apr 22
-    16.00     Mlada Boleslav v Baník Ostrava  1-0 (1-0)   @ Lokotrans Aréna › Mladá Boleslav
+    16:00     Mlada Boleslav v Baník Ostrava  1-0 (1-0)   @ Lokotrans Aréna › Mladá Boleslav
               Sigma Olomouc v Teplice  1-2 (0-1)   @ Andrův stadion › Olomouc
               Slovácko v Sparta Praha  1-1 (1-0)   @ Městský fotbalový stadion Miroslava Valenty › Uherské Hradiště
               Pardubice v Hradec Králové  1-0 (0-0)   @ CFIG Arena › Pardubice
-    19.00     Slavia Praha v Bohemians 1905  3-0 (3-0)   @ Fortuna Arena › Praha
+    19:00     Slavia Praha v Bohemians 1905  3-0 (3-0)   @ Fortuna Arena › Praha
   Sun Apr 23
-    16.00     České Budějovice v FK Jablonec  5-1 (3-0)   @ Fotbalový stadion Střelecký ostrov › Ceské Budejovice
+    16:00     České Budějovice v FK Jablonec  5-1 (3-0)   @ Fotbalový stadion Střelecký ostrov › Ceské Budejovice
               Slovan Liberec v Zbrojovka Brno  3-1 (3-0)   @ Stadion u Nisy › Liberec
-    19.00     Plzen v Zlin  4-0 (1-0)   @ Doosan Aréna › Plzeň
-» Regular Season - 29
+    19:00     Plzen v Zlin  4-0 (1-0)   @ Doosan Aréna › Plzeň
+▪ Regular Season - 29
   Tue Apr 25
-    17.30     Pardubice v Slovácko  3-1 (0-1)   @ CFIG Arena › Pardubice
+    17:30     Pardubice v Slovácko  3-1 (0-1)   @ CFIG Arena › Pardubice
               Teplice v Mlada Boleslav  1-1 (1-0)   @ AGC Aréna Na Stínadlech › Teplice
-    19.30     Baník Ostrava v Slavia Praha  0-2 (0-0)   @ Městský stadion-Vítkovice Aréna › Ostrava
+    19:30     Baník Ostrava v Slavia Praha  0-2 (0-0)   @ Městský stadion-Vítkovice Aréna › Ostrava
   Wed Apr 26
-    17.30     Zlin v Bohemians 1905  4-1 (1-0)   @ Stadion Letná › Zlín
+    17:30     Zlin v Bohemians 1905  4-1 (1-0)   @ Stadion Letná › Zlín
               FK Jablonec v Sigma Olomouc  2-2 (2-0)   @ Stadion Střelnice › Jablonec nad Nisou
               Hradec Králové v Slovan Liberec  1-2 (0-0)   @ Lokotrans Aréna › Mladá Boleslav
               Zbrojovka Brno v České Budějovice  1-1 (1-0)   @ ADAX INVEST Arena › Brno
-    19.30     Sparta Praha v Plzen  2-1 (1-1)   @ epet ARENA › Praha
-» Regular Season - 30
+    19:30     Sparta Praha v Plzen  2-1 (1-1)   @ epet ARENA › Praha
+▪ Regular Season - 30
   Sun Apr 30
-    15.00     Slavia Praha v Hradec Králové  1-1 (1-1)   @ Fortuna Arena › Praha
+    15:00     Slavia Praha v Hradec Králové  1-1 (1-1)   @ Fortuna Arena › Praha
               Plzen v Teplice  1-1 (0-0)   @ Doosan Aréna › Plzeň
               Mlada Boleslav v Zlin  1-1 (1-0)   @ Lokotrans Aréna › Mladá Boleslav
               Slovan Liberec v Sparta Praha  1-3 (1-0)   @ Stadion u Nisy › Liberec
@@ -344,75 +344,75 @@
               Bohemians 1905 v FK Jablonec  4-1 (2-0)   @ Stadion Ďolíček › Praha
               Slovácko v Zbrojovka Brno  1-0 (1-0)   @ Městský fotbalový stadion Miroslava Valenty › Uherské Hradiště
               České Budějovice v Pardubice  3-1 (1-0)   @ Fotbalový stadion Střelecký ostrov › Ceské Budejovice
-» Relegation Round - 1
+▪ Relegation Round - 1
   Sat May 6
-    15.00     Baník Ostrava v Zbrojovka Brno  4-0 (3-0)   @ Městský stadion-Vítkovice Aréna › Ostrava
+    15:00     Baník Ostrava v Zbrojovka Brno  4-0 (3-0)   @ Městský stadion-Vítkovice Aréna › Ostrava
               Teplice v Pardubice  1-0 (1-0)   @ AGC Aréna Na Stínadlech › Teplice
               Zlin v FK Jablonec  1-1 (0-0)   @ Stadion Letná › Zlín
-» Championship Round - 1
+▪ Championship Round - 1
   Sat May 6
-    18.00     Plzen v Slovácko  2-2 (0-0)   @ Doosan Aréna › Plzeň
+    18:00     Plzen v Slovácko  2-2 (0-0)   @ Doosan Aréna › Plzeň
   Sun May 7
-    15.00     Sigma Olomouc v Sparta Praha  0-1 (0-1)   @ Andrův stadion › Olomouc
-    18.00     Slavia Praha v Bohemians 1905  6-0 (1-0)   @ Fortuna Arena › Praha
-» Middle Play-offs - Semi-finals
+    15:00     Sigma Olomouc v Sparta Praha  0-1 (0-1)   @ Andrův stadion › Olomouc
+    18:00     Slavia Praha v Bohemians 1905  6-0 (1-0)   @ Fortuna Arena › Praha
+▪ Middle Play-offs - Semi-finals
   Sun May 7
-    15.00     České Budějovice v Slovan Liberec  3-2 (2-2)   @ Fotbalový stadion Střelecký ostrov › Ceské Budejovice
+    15:00     České Budějovice v Slovan Liberec  3-2 (2-2)   @ Fotbalový stadion Střelecký ostrov › Ceské Budejovice
               Mlada Boleslav v Hradec Králové  0-0 (0-0)   @ Lokotrans Aréna › Mladá Boleslav
   Sat May 13
-    15.00     Slovan Liberec v České Budějovice  4-0 (1-0)   @ Stadion u Nisy › Liberec
+    15:00     Slovan Liberec v České Budějovice  4-0 (1-0)   @ Stadion u Nisy › Liberec
               Hradec Králové v Mlada Boleslav  2-0 (2-0)   @ Lokotrans Aréna › Mladá Boleslav
-» Championship Round - 2
+▪ Championship Round - 2
   Sat May 13
-    15.00     Plzen v Sigma Olomouc  1-3 (1-1)   @ Doosan Aréna › Plzeň
-    18.00     Sparta Praha v Slavia Praha  3-2 (1-1)   @ epet ARENA › Praha
+    15:00     Plzen v Sigma Olomouc  1-3 (1-1)   @ Doosan Aréna › Plzeň
+    18:00     Sparta Praha v Slavia Praha  3-2 (1-1)   @ epet ARENA › Praha
   Sun May 14
-    18.00     Bohemians 1905 v Slovácko  0-0 (0-0)   @ Stadion Ďolíček › Praha
-» Relegation Round - 2
+    18:00     Bohemians 1905 v Slovácko  0-0 (0-0)   @ Stadion Ďolíček › Praha
+▪ Relegation Round - 2
   Sun May 14
-    15.00     Zbrojovka Brno v Pardubice  0-2 (0-1)   @ ADAX INVEST Arena › Brno
+    15:00     Zbrojovka Brno v Pardubice  0-2 (0-1)   @ ADAX INVEST Arena › Brno
               FK Jablonec v Baník Ostrava  1-1 (1-0)   @ Stadion Střelnice › Jablonec nad Nisou
               Teplice v Zlin  2-1 (1-0)   @ AGC Aréna Na Stínadlech › Teplice
-» Championship Round - 3
+▪ Championship Round - 3
   Sat May 20
-    15.00     Slovácko v Sigma Olomouc  2-2 (1-0)   @ Městský fotbalový stadion Miroslava Valenty › Uherské Hradiště
+    15:00     Slovácko v Sigma Olomouc  2-2 (1-0)   @ Městský fotbalový stadion Miroslava Valenty › Uherské Hradiště
               Sparta Praha v Bohemians 1905  2-1 (0-0)   @ epet ARENA › Praha
-    18.00     Slavia Praha v Plzen  2-1 (1-0)   @ Fortuna Arena › Praha
-» Relegation Round - 3
+    18:00     Slavia Praha v Plzen  2-1 (1-0)   @ Fortuna Arena › Praha
+▪ Relegation Round - 3
   Sun May 21
-    15.00     Baník Ostrava v Teplice  2-1 (0-0)   @ Městský stadion-Vítkovice Aréna › Ostrava
+    15:00     Baník Ostrava v Teplice  2-1 (0-0)   @ Městský stadion-Vítkovice Aréna › Ostrava
               Pardubice v Zlin  1-2 (1-1)   @ CFIG Arena › Pardubice
               FK Jablonec v Zbrojovka Brno  1-0 (1-0)   @ Stadion Střelnice › Jablonec nad Nisou
-» Middle Play-offs - Final
+▪ Middle Play-offs - Final
   Sun May 21
-    15.00     Hradec Králové v Slovan Liberec  0-4 (0-3)   @ Stadion u Nisy › Liberec
-» Championship Round - 4
+    15:00     Hradec Králové v Slovan Liberec  0-4 (0-3)   @ Stadion u Nisy › Liberec
+▪ Championship Round - 4
   Tue May 23
-    19.00     Plzen v Bohemians 1905  0-2 (0-2)   @ Doosan Aréna › Plzeň
+    19:00     Plzen v Bohemians 1905  0-2 (0-2)   @ Doosan Aréna › Plzeň
               Sigma Olomouc v Slavia Praha  2-3 (2-2)   @ Andrův stadion › Olomouc
               Slovácko v Sparta Praha  0-0 (0-0)   @ Městský fotbalový stadion Miroslava Valenty › Uherské Hradiště
-» Relegation Round - 4
+▪ Relegation Round - 4
   Wed May 24
-    19.00     Teplice v Zbrojovka Brno  1-1 (0-1)   @ AGC Aréna Na Stínadlech › Teplice
+    19:00     Teplice v Zbrojovka Brno  1-1 (0-1)   @ AGC Aréna Na Stínadlech › Teplice
               Pardubice v FK Jablonec  2-0 (2-0)   @ CFIG Arena › Pardubice
               Zlin v Baník Ostrava  2-1 (0-0)   @ Stadion Letná › Zlín
-» Middle Play-offs - Final
+▪ Middle Play-offs - Final
   Fri May 26
-    18.00     Slovan Liberec v Hradec Králové  2-3 (1-0)   @ Stadion u Nisy › Liberec
-» Championship Round - 5
+    18:00     Slovan Liberec v Hradec Králové  2-3 (1-0)   @ Stadion u Nisy › Liberec
+▪ Championship Round - 5
   Sat May 27
-    16.00     Sparta Praha v Plzen  0-1 (0-0)   @ epet ARENA › Praha
+    16:00     Sparta Praha v Plzen  0-1 (0-0)   @ epet ARENA › Praha
               Bohemians 1905 v Sigma Olomouc  0-1 (0-0)   @ Stadion Ďolíček › Praha
               Slavia Praha v Slovácko  4-0 (2-0)   @ Fortuna Arena › Praha
-» Relegation Round - 5
+▪ Relegation Round - 5
   Sun May 28
-    17.00     FK Jablonec v Teplice  0-2 (0-1)   @ Stadion Střelnice › Jablonec nad Nisou
+    17:00     FK Jablonec v Teplice  0-2 (0-1)   @ Stadion Střelnice › Jablonec nad Nisou
               Baník Ostrava v Pardubice  2-4 (1-1)   @ Městský stadion-Vítkovice Aréna › Ostrava
               Zbrojovka Brno v Zlin  0-0 (0-0)   @ ADAX INVEST Arena › Brno
-» Relegation Round
+▪ Relegation Round
   Thu Jun 1
-    17.30     Příbram v Pardubice  0-2 (0-0)   @ Stadion Na Litavce › Příbram
+    17:30     Příbram v Pardubice  0-2 (0-0)   @ Stadion Na Litavce › Příbram
               Zlin v Vyškov  1-0 (0-0)   @ Stadion Letná › Zlín
   Sun Jun 4
-    17.00     Vyškov v Zlin  0-0 (0-0)   @ Sportovní areál Drnovice › Drnovice
+    17:00     Vyškov v Zlin  0-0 (0-0)   @ Sportovní areál Drnovice › Drnovice
               Pardubice v Příbram  0-0 (0-0)   @ CFIG Arena › Pardubice

@@ -1,486 +1,486 @@
 = Friendlies 2021
 
-  # Date       Sat Jan/9 - Thu Dec/30 2021 (355d)
+  # Date       Sat Jan 9 - Thu Dec 30 2021 (355d)
   # Teams      142
   # Matches    235
 
   # Note - All times in Europe/London
 
-» Friendlies 3
+▪ Friendlies 3
   Sat Jan 9 2021
-    16.45     Kuwait v Lebanon  [cancelled]
-» Friendlies 2
+    16:45     Kuwait v Lebanon  [cancelled]
+▪ Friendlies 2
   Tue Jan 12
-    15.30     United Arab Emirates v Iraq  0-0 (0-0)   @ Zabeel Stadium › Dubai
-» Friendlies 3
+    15:30     United Arab Emirates v Iraq  0-0 (0-0)   @ Zabeel Stadium › Dubai
+▪ Friendlies 3
   Mon Jan 18
-    14.45     Kuwait v Palestine  0-1   @ Jaber Al-Ahmad International Stadium › Kuwait City
-» Friendlies 2
+    14:45     Kuwait v Palestine  0-1   @ Jaber Al-Ahmad International Stadium › Kuwait City
+▪ Friendlies 2
   Tue Jan 19
-    21.00     Dominican Republic v Puerto Rico  0-1 (0-1)   @ Estadio Olímpico Félix Sánchez › Santo Domingo
+    21:00     Dominican Republic v Puerto Rico  0-1 (0-1)   @ Estadio Olímpico Félix Sánchez › Santo Domingo
   Sat Jan 23
-    00.00     Guatemala v Puerto Rico  1-0 (0-0)   @ Estadio Nacional Mateo Flores › Ciudad de Guatemala
-» Friendlies 1
+    00:00     Guatemala v Puerto Rico  1-0 (0-0)   @ Estadio Nacional Mateo Flores › Ciudad de Guatemala
+▪ Friendlies 1
   Mon Jan 25
-    21.00     Dominican Republic v Serbia  0-0 (0-0)   @ Estadio Olímpico Félix Sánchez › Santo Domingo
-» Friendlies 2
+    21:00     Dominican Republic v Serbia  0-0 (0-0)   @ Estadio Olímpico Félix Sánchez › Santo Domingo
+▪ Friendlies 2
   Tue Jan 26
-    21.00     Guatemala v Puerto Rico  [cancelled]   @ Estadio Nacional Mateo Flores › Ciudad de Guatemala
-» Friendlies 3
+    21:00     Guatemala v Puerto Rico  [cancelled]   @ Estadio Nacional Mateo Flores › Ciudad de Guatemala
+▪ Friendlies 3
   Wed Jan 27
-    15.00     Iraq v Kuwait  2-1   @ Basra Sport City Stadium › Basra
-» Friendlies 1
+    15:00     Iraq v Kuwait  2-1   @ Basra Sport City Stadium › Basra
+▪ Friendlies 1
   Fri Jan 29
-    00.00     Panama v Serbia  0-0 (0-0)   @ Estadio Rommel Fernández Gutiérrez › Ciudad de Panamá
+    00:00     Panama v Serbia  0-0 (0-0)   @ Estadio Rommel Fernández Gutiérrez › Ciudad de Panamá
   Sun Jan 31
-    00.00     USA v Serbia  [postponed]
-» Friendlies 3
+    00:00     USA v Serbia  [postponed]
+▪ Friendlies 3
   Mon Feb 1
-    14.00     Jordan v Tajikistan  2-0   @ Theyab Awana Stadium › Dubai
-» Friendlies 1
+    14:00     Jordan v Tajikistan  2-0   @ Theyab Awana Stadium › Dubai
+▪ Friendlies 1
   Mon Feb 1
-    00.00     USA v Trinidad and Tobago  7-0 (4-0)   @ Exploria Stadium › Orlando, Florida
-» Friendlies 3
+    00:00     USA v Trinidad and Tobago  7-0 (4-0)   @ Exploria Stadium › Orlando, Florida
+▪ Friendlies 3
   Fri Feb 5
-    14.00     Jordan v Tajikistan  0-1   @ Theyab Awana Stadium › Dubai
+    14:00     Jordan v Tajikistan  0-1   @ Theyab Awana Stadium › Dubai
   Mon Feb 15
-    13.00     Uzbekistan v Jordan  2-0   @ Theyab Awana Stadium › Dubai
-» Friendlies 2
+    13:00     Uzbekistan v Jordan  2-0   @ Theyab Awana Stadium › Dubai
+▪ Friendlies 2
   Wed Feb 24
-    21.00     Guatemala v Nicaragua  1-0 (0-0)   @ Centro de Alto Rendimiento de Guatemala › Ciudad de Guatemala
-» Friendlies 3
+    21:00     Guatemala v Nicaragua  1-0 (0-0)   @ Centro de Alto Rendimiento de Guatemala › Ciudad de Guatemala
+▪ Friendlies 3
   Thu Feb 25
-    16.00     Palestine v Kuwait  [cancelled]   @ Faisal Al-Husseini International Stadium › Al-Ram
-» Friendlies 1
+    16:00     Palestine v Kuwait  [cancelled]   @ Faisal Al-Husseini International Stadium › Al-Ram
+▪ Friendlies 1
   Sat Mar 13
-    12.00     Kenya v South Sudan  1-0 (0-0)   @ Nyayo National Stadium › Nairobi
+    12:00     Kenya v South Sudan  1-0 (0-0)   @ Nyayo National Stadium › Nairobi
   Mon Mar 15
-    12.00     Kenya v Tanzania  2-1 (1-1)   @ Nyayo National Stadium › Nairobi
-» Friendlies 3
+    12:00     Kenya v Tanzania  2-1 (1-1)   @ Nyayo National Stadium › Nairobi
+▪ Friendlies 3
   Wed Mar 17
-    12.00     Ethiopia v Malawi  4-0   @ Bahir Dar Stadium › Bahir Dar
-» Friendlies 1
+    12:00     Ethiopia v Malawi  4-0   @ Bahir Dar Stadium › Bahir Dar
+▪ Friendlies 1
   Thu Mar 18
-    12.00     Kenya v Tanzania  [cancelled]   @ Moi International Sports Centre › Nairobi
-» Friendlies 3
+    12:00     Kenya v Tanzania  [cancelled]   @ Moi International Sports Centre › Nairobi
+▪ Friendlies 3
   Sat Mar 20
-    13.45     Oman v Jordan  0-0   @ Maktoum Bin Rashid al Maktoum Stadium › Dubai
-» Friendlies 2
+    13:45     Oman v Jordan  0-0   @ Maktoum Bin Rashid al Maktoum Stadium › Dubai
+▪ Friendlies 2
   Wed Mar 24
-    19.45     Kosovo v Lithuania  4-0 (1-0)   @ Stadiumi Fadil Vokrri › Pristina
-» Friendlies 3
+    19:45     Kosovo v Lithuania  4-0 (1-0)   @ Stadiumi Fadil Vokrri › Pristina
+▪ Friendlies 3
   Wed Mar 24
-    13.45     Jordan v Lebanon  1-0   @ Theyab Awana Stadium › Dubai
-» Friendlies 1
+    13:45     Jordan v Lebanon  1-0   @ Theyab Awana Stadium › Dubai
+▪ Friendlies 1
   Wed Mar 24
-    17.00     Qatar v Luxembourg  1-0 (1-0)   @ Nagyerdei Stadion › Debrecen
+    17:00     Qatar v Luxembourg  1-0 (1-0)   @ Nagyerdei Stadion › Debrecen
               Belarus v Honduras  1-1 (1-1)   @ Stadyen Tarpeda › Zhodino
-» Friendlies 2
+▪ Friendlies 2
   Thu Mar 25
-    00.00     Kazakhstan v Kyrgyzstan  [cancelled]   @ Astana Arena › Nur-Sultan
-    13.45     Oman v India  1-1 (1-0)   @ Maktoum Bin Rashid al Maktoum Stadium › Dubai
-» Friendlies 1
+    00:00     Kazakhstan v Kyrgyzstan  [cancelled]   @ Astana Arena › Nur-Sultan
+    13:45     Oman v India  1-1 (1-0)   @ Maktoum Bin Rashid al Maktoum Stadium › Dubai
+▪ Friendlies 1
   Thu Mar 25
-    10.20     Japan v South Korea  3-0 (2-0)   @ Nissan Stadium › Yokohama
-    17.20     USA v Jamaica  4-1 (1-0)   @ Wiener Neustädter Stadion › Wiener Neustadt
-    17.30     Saudi Arabia v Kuwait  1-0 (0-0)   @ Mrsool Park › Riyadh
+    10:20     Japan v South Korea  3-0 (2-0)   @ Nissan Stadium › Yokohama
+    17:20     USA v Jamaica  4-1 (1-0)   @ Wiener Neustädter Stadion › Wiener Neustadt
+    17:30     Saudi Arabia v Kuwait  1-0 (0-0)   @ Mrsool Park › Riyadh
   Fri Mar 26
-    13.00     Uzbekistan v Ghana  2-1   @ Markaziy Stadion › Namangan
+    13:00     Uzbekistan v Ghana  2-1   @ Markaziy Stadion › Namangan
   Sat Mar 27
-    01.00     Chile v Bolivia  2-1 (2-1)   @ Estadio El Teniente › Rancagua
-    17.00     Qatar v Azerbaijan  2-1 (0-1)   @ Nagyerdei Stadion › Debrecen
+    01:00     Chile v Bolivia  2-1 (2-1)   @ Estadio El Teniente › Rancagua
+    17:00     Qatar v Azerbaijan  2-1 (0-1)   @ Nagyerdei Stadion › Debrecen
               Bosnia & Herzegovina v Costa Rica  0-0 (0-0)   @ Stadion Bilino Polje › Zenica
-    20.00     Wales v Mexico  1-0 (1-0)   @ Cardiff City Stadium › Caerdydd
+    20:00     Wales v Mexico  1-0 (1-0)   @ Cardiff City Stadium › Caerdydd
   Sun Mar 28
-    15.00     Greece v Honduras  2-1 (1-1)   @ Stadio Toumbas › Thessaloníki
-    17.05     Northern Ireland v USA  1-2 (0-1)   @ Windsor Park › Belfast
-» Friendlies 2
+    15:00     Greece v Honduras  2-1 (1-1)   @ Stadio Toumbas › Thessaloníki
+    17:05     Northern Ireland v USA  1-2 (0-1)   @ Windsor Park › Belfast
+▪ Friendlies 2
   Mon Mar 29
-    16.00     United Arab Emirates v India  6-0 (2-0)   @ Zabeel Stadium › Dubai
-» Friendlies 3
+    16:00     United Arab Emirates v India  6-0 (2-0)   @ Zabeel Stadium › Dubai
+▪ Friendlies 3
   Mon Mar 29
-    14.00     Uzbekistan v Iraq  0-1   @ Milliy Stadion › Tashkent
-    14.45     Kuwait v Lebanon  1-1   @ Theyab Awana Stadium › Dubai
-» Friendlies 1
+    14:00     Uzbekistan v Iraq  0-1   @ Milliy Stadion › Tashkent
+    14:45     Kuwait v Lebanon  1-1   @ Theyab Awana Stadium › Dubai
+▪ Friendlies 1
   Mon Mar 29
-    21.30     Ecuador v Bolivia  2-1 (1-0)   @ Estadio Banco Guayaquil › Sangolquí
-» Friendlies 3
+    21:30     Ecuador v Bolivia  2-1 (1-0)   @ Estadio Banco Guayaquil › Sangolquí
+▪ Friendlies 3
   Tue Mar 30
-    17.00     Jordan v Bahrain  2-1   @ Stād al-Bahrayn al-Watanī › Riffa
-» Friendlies 1
+    17:00     Jordan v Bahrain  2-1   @ Stād al-Bahrayn al-Watanī › Riffa
+▪ Friendlies 1
   Tue Mar 30
-    14.00     Iran v Syria  3-0 (2-0)   @ Azadi Stadium › Teheran
-    19.45     Qatar v Rep. Of Ireland  1-1 (0-1)   @ Nagyerdei Stadion › Debrecen
-    21.00     Costa Rica v Mexico  0-1 (0-0)   @ Wiener Neustädter Stadion › Wiener Neustadt
+    14:00     Iran v Syria  3-0 (2-0)   @ Azadi Stadium › Teheran
+    19:45     Qatar v Rep. Of Ireland  1-1 (0-1)   @ Nagyerdei Stadion › Debrecen
+    21:00     Costa Rica v Mexico  0-1 (0-0)   @ Wiener Neustädter Stadion › Wiener Neustadt
   Wed Mar 31
-    16.45     Sweden v Estonia  1-0 (1-0)   @ Friends Arena › Solna
-    19.45     Switzerland v Finland  3-2 (1-2)   @ Kybunpark › St. Gallen
+    16:45     Sweden v Estonia  1-0 (1-0)   @ Friends Arena › Solna
+    19:45     Switzerland v Finland  3-2 (1-2)   @ Kybunpark › St. Gallen
   Sun May 23
-    19.00     Ukraine v Bahrain  1-1 (0-0)   @ Oblasny SportKomplex Metalist › Kharkiv
-» Friendlies 2
+    19:00     Ukraine v Bahrain  1-1 (0-0)   @ Oblasny SportKomplex Metalist › Kharkiv
+▪ Friendlies 2
   Mon May 24
-    17.45     Jordan v United Arab Emirates  1-5 (0-3)   @ Zabeel Stadium › Dubai
-» Friendlies 3
+    17:45     Jordan v United Arab Emirates  1-5 (0-3)   @ Zabeel Stadium › Dubai
+▪ Friendlies 3
   Mon May 24
-    17.30     Iraq v Tajikistan  0-0   @ Al Majma'ah Sports City Stadium › Al Majma'ah
-» Friendlies 1
+    17:30     Iraq v Tajikistan  0-0   @ Al Majma'ah Sports City Stadium › Al Majma'ah
+▪ Friendlies 1
   Tue May 25
-    15.30     Indonesia v Afghanistan  2-3 (0-2)   @ Iranian Club Stadium › Dubai
-    16.00     Thailand v Oman  0-1 (0-1)   @ The Sevens Stadium › Dubai
+    15:30     Indonesia v Afghanistan  2-3 (0-2)   @ Iranian Club Stadium › Dubai
+    16:00     Thailand v Oman  0-1 (0-1)   @ The Sevens Stadium › Dubai
   Thu May 27
-    18.00     Türkiye v Azerbaijan  2-1 (2-1)   @ Bahçeşehir Okulları Stadyumu › Alanya
-» Friendlies 3
+    18:00     Türkiye v Azerbaijan  2-1 (2-1)   @ Bahçeşehir Okulları Stadyumu › Alanya
+▪ Friendlies 3
   Fri May 28
-    17.30     Bahrain v Malaysia  2-0   @ Stād al-Bahrayn al-Watanī › Riffa
-» Friendlies 1
+    17:30     Bahrain v Malaysia  2-0   @ Stād al-Bahrayn al-Watanī › Riffa
+▪ Friendlies 1
   Fri May 28
-    19.45     Italy v San Marino  7-0 (2-0)   @ Sardegna Arena › Cagliari
-» Friendlies 3
+    19:45     Italy v San Marino  7-0 (2-0)   @ Sardegna Arena › Cagliari
+▪ Friendlies 3
   Sat May 29
-    15.00     Singapore v Afghanistan  1-1   @ Jebel Ali Centre of Excellence › Dubai
-    17.30     Iraq v Nepal  6-2   @ Al Majma'ah Sports City Stadium › Al Majma'ah
-» Friendlies 1
+    15:00     Singapore v Afghanistan  1-1   @ Jebel Ali Centre of Excellence › Dubai
+    17:30     Iraq v Nepal  6-2   @ Al Majma'ah Sports City Stadium › Al Majma'ah
+▪ Friendlies 1
   Sat May 29
-    16.00     Indonesia v Oman  1-3 (0-1)   @ The Sevens Stadium › Dubai
-    17.00     Sweden v Finland  2-0 (1-0)   @ Friends Arena › Solna
-    17.45     Thailand v Tajikistan  2-2 (0-0)   @ Khalid Bin Mohammed Stadium › Sharjah
+    16:00     Indonesia v Oman  1-3 (0-1)   @ The Sevens Stadium › Dubai
+    17:00     Sweden v Finland  2-0 (1-0)   @ Friends Arena › Solna
+    17:45     Thailand v Tajikistan  2-2 (0-0)   @ Khalid Bin Mohammed Stadium › Sharjah
   Sun May 30
-    02.00     Mexico v Iceland  2-1 (0-1)   @ AT&T Stadium › Arlington, Texas
-    17.00     Malta v Northern Ireland  0-3 (0-1)   @ Wörthersee Stadion › Klagenfurt am Wörthersee
-    19.00     Switzerland v USA  2-1 (1-1)   @ Kybunpark › St. Gallen
-» Friendlies 3
+    02:00     Mexico v Iceland  2-1 (0-1)   @ AT&T Stadium › Arlington, Texas
+    17:00     Malta v Northern Ireland  0-3 (0-1)   @ Wörthersee Stadion › Klagenfurt am Wörthersee
+    19:00     Switzerland v USA  2-1 (1-1)   @ Kybunpark › St. Gallen
+▪ Friendlies 3
   Mon May 31
-    18.00     Jordan v Vietnam  1-1   @ Khalid Bin Mohammed Stadium › Sharjah
-» Friendlies 1
+    18:00     Jordan v Vietnam  1-1   @ Khalid Bin Mohammed Stadium › Sharjah
+▪ Friendlies 1
   Mon May 31
-    18.00     Türkiye v Guinea  0-0 (0-0)   @ Antalya Stadyumu › Antalya
-    19.45     Türkiye v Northern Ireland  [cancelled]   @ Antalya Atatürk Stadyumu › Antalya
-» Friendlies 2
+    18:00     Türkiye v Guinea  0-0 (0-0)   @ Antalya Stadyumu › Antalya
+    19:45     Türkiye v Northern Ireland  [cancelled]   @ Antalya Atatürk Stadyumu › Antalya
+▪ Friendlies 2
   Tue Jun 1
-    17.00     Kosovo v San Marino  4-1 (2-0)   @ Stadiumi Fadil Vokrri › Pristina
-» Friendlies 1
+    17:00     Kosovo v San Marino  4-1 (2-0)   @ Stadiumi Fadil Vokrri › Pristina
+▪ Friendlies 1
   Tue Jun 1
-    17.00     FYR Macedonia v Slovenia  1-1 (0-0)   @ Toše Proeski Arena › Skopje
+    17:00     FYR Macedonia v Slovenia  1-1 (0-0)   @ Toše Proeski Arena › Skopje
               Slovakia v Bulgaria  1-1 (1-1)   @ josko ARENA › Ried Im Innkreis
               Croatia v Armenia  1-1 (1-0)   @ ŠRC Velika Gorica › Velika Gorica
-    19.45     Poland v Russia  1-1 (1-1)   @ Stadion Miejski › Wrocław
-» Friendlies 2
+    19:45     Poland v Russia  1-1 (1-1)   @ Stadion Miejski › Wrocław
+▪ Friendlies 2
   Wed Jun 2
-    17.00     Belarus v Azerbaijan  1-2 (0-0)   @ Stadyen Dynama › Minsk
-» Friendlies 1
+    17:00     Belarus v Azerbaijan  1-2 (0-0)   @ Stadyen Dynama › Minsk
+▪ Friendlies 1
   Wed Jun 2
-    17.00     Bosnia & Herzegovina v Montenegro  0-0 (0-0)   @ Stadion Grbavica › Sarajevo
-    18.00     Norway v Luxembourg  1-0 (0-0)   @ Estadio La Rosaleda › Málaga
-    19.45     Netherlands v Scotland  2-2 (1-1)   @ Estádio Do Algarve › São João da Venda
+    17:00     Bosnia & Herzegovina v Montenegro  0-0 (0-0)   @ Stadion Grbavica › Sarajevo
+    18:00     Norway v Luxembourg  1-0 (0-0)   @ Estadio La Rosaleda › Málaga
+    19:45     Netherlands v Scotland  2-2 (1-1)   @ Estádio Do Algarve › São João da Venda
               Romania v Georgia  1-2 (0-0)   @ Stadionul Ilie Oană › Ploieşti
-    20.00     Germany v Denmark  1-1 (0-0)   @ Tivoli Stadion Tirol › Innsbruck
+    20:00     Germany v Denmark  1-1 (0-0)   @ Tivoli Stadion Tirol › Innsbruck
               England v Austria  1-0 (0-0)   @ Riverside Stadium › Middlesbrough
-    20.05     France v Wales  3-0 (1-0)   @ Allianz Riviera › Nice
+    20:05     France v Wales  3-0 (1-0)   @ Allianz Riviera › Nice
   Thu Jun 3
-    11.30     Japan v Jamaica  [cancelled]   @ Sapporo Dome › Sapporo
-    13.00     Egypt v Burundi  [cancelled]   @ TBC › TBC
-    17.00     andorra v Rep. Of Ireland  1-4 (0-0)   @ Estadi Nacional › Andorra la Vella
+    11:30     Japan v Jamaica  [cancelled]   @ Sapporo Dome › Sapporo
+    13:00     Egypt v Burundi  [cancelled]   @ TBC › TBC
+    17:00     andorra v Rep. Of Ireland  1-4 (0-0)   @ Estadi Nacional › Andorra la Vella
               Switzerland v Liechtenstein  7-0 (1-0)   @ Kybunpark › St. Gallen
-    18.00     Türkiye v Moldova  2-0 (0-0)   @ Benteler-Arena › Paderborn
-    19.00     Ukraine v Northern Ireland  1-0 (1-0)   @ Dnipro Arena › Dnipropetrovs'k
-    19.45     Belgium v Greece  1-1 (1-0)   @ Stade Roi Baudouin › Brussel
-    20.45     Algeria v Mauritania  4-1 (1-0)   @ Stade Mustapha Tchaker › Blida
-» Friendlies 2
+    18:00     Türkiye v Moldova  2-0 (0-0)   @ Benteler-Arena › Paderborn
+    19:00     Ukraine v Northern Ireland  1-0 (1-0)   @ Dnipro Arena › Dnipropetrovs'k
+    19:45     Belgium v Greece  1-1 (1-0)   @ Stade Roi Baudouin › Brussel
+    20:45     Algeria v Mauritania  4-1 (1-0)   @ Stade Mustapha Tchaker › Blida
+▪ Friendlies 2
   Fri Jun 4
-    17.00     Kosovo v Kazakhstan  [cancelled]   @ Stadiumi Fadil Vokrri › Pristina
+    17:00     Kosovo v Kazakhstan  [cancelled]   @ Stadiumi Fadil Vokrri › Pristina
               Malta v Kosovo  1-2 (1-1)   @ Wörthersee Stadion › Klagenfurt am Wörthersee
               FYR Macedonia v Kazakhstan  4-0 (1-0)   @ Toše Proeski Arena › Skopje
-» Friendlies 3
+▪ Friendlies 3
   Fri Jun 4
-    15.00     Rwanda v Central African Republic  2-0   @ Stade Amahoro › Kigali
-» Friendlies 1
+    15:00     Rwanda v Central African Republic  2-0   @ Stade Amahoro › Kigali
+▪ Friendlies 1
   Fri Jun 4
-    17.00     Finland v Estonia  0-1 (0-0)   @ Helsingin olympiastadion › Helsingfors
-    18.30     Spain v Portugal  0-0 (0-0)   @ Estadio Wanda Metropolitano › Madrid
-    19.00     Hungary v Cyprus  1-0 (1-0)   @ Szusza Ferenc Stadion › Budapest
-    19.30     Nigeria v Cameroon  0-1 (0-1)   @ Wiener Neustädter Stadion › Wiener Neustadt
-    19.45     Slovenia v Gibraltar  6-0 (4-0)   @ ŠRC Bonifika › Koper
+    17:00     Finland v Estonia  0-1 (0-0)   @ Helsingin olympiastadion › Helsingfors
+    18:30     Spain v Portugal  0-0 (0-0)   @ Estadio Wanda Metropolitano › Madrid
+    19:00     Hungary v Cyprus  1-0 (1-0)   @ Szusza Ferenc Stadion › Budapest
+    19:30     Nigeria v Cameroon  0-1 (0-1)   @ Wiener Neustädter Stadion › Wiener Neustadt
+    19:45     Slovenia v Gibraltar  6-0 (4-0)   @ ŠRC Bonifika › Koper
               Faroe Islands v Iceland  0-1 (0-0)   @ Tórsvøllur › Tórshavn, Streymoy
               Italy v Czech Republic  4-0 (2-0)   @ Stadio Renato Dall'Ara › Bologna
-» Friendlies 2
+▪ Friendlies 2
   Sat Jun 5
-    19.15     Montenegro v Israel  1-3 (0-0)   @ Stadion Pod Goricom › Podgorica
-» Friendlies 3
+    19:15     Montenegro v Israel  1-3 (0-0)   @ Stadion Pod Goricom › Podgorica
+▪ Friendlies 3
   Sat Jun 5
-    15.00     Guinea v Togo  0-2   @ Antalya Stadyumu › Antalya
-    18.00     Niger v Gambia  0-2   @ Emirhan Sport Center Stadium › Side
-» Friendlies 1
+    15:00     Guinea v Togo  0-2   @ Antalya Stadyumu › Antalya
+    18:00     Niger v Gambia  0-2   @ Emirhan Sport Center Stadium › Side
+▪ Friendlies 1
   Sat Jun 5
-    16.00     Russia v Bulgaria  1-0 (0-0)   @ VTB Arena › Moskva
-    17.00     Wales v Albania  0-0 (0-0)   @ Cardiff City Stadium › Caerdydd
-    18.00     Ivory Coast v Burkina Faso  2-1 (0-1)   @ Stade Olympique Alassane Ouattara › Abidjan
-    19.45     Sweden v Armenia  3-1 (2-0)   @ Friends Arena › Solna
-    20.00     Senegal v Zambia  3-1 (3-0)   @ Stade Lat Dior › Thiès
-    20.30     Tunisia v Congo DR  1-0 (1-0)   @ Stade Olympique de Radès › Radès
-» Friendlies 2
+    16:00     Russia v Bulgaria  1-0 (0-0)   @ VTB Arena › Moskva
+    17:00     Wales v Albania  0-0 (0-0)   @ Cardiff City Stadium › Caerdydd
+    18:00     Ivory Coast v Burkina Faso  2-1 (0-1)   @ Stade Olympique Alassane Ouattara › Abidjan
+    19:45     Sweden v Armenia  3-1 (2-0)   @ Friends Arena › Solna
+    20:00     Senegal v Zambia  3-1 (3-0)   @ Stade Lat Dior › Thiès
+    20:30     Tunisia v Congo DR  1-0 (1-0)   @ Stade Olympique de Radès › Radès
+▪ Friendlies 2
   Sun Jun 6
-    17.00     Moldova v Azerbaijan  1-0 (1-0)   @ Stadionul Zimbru › Chişinău
-» Friendlies 1
+    17:00     Moldova v Azerbaijan  1-0 (1-0)   @ Stadionul Zimbru › Chişinău
+▪ Friendlies 1
   Sun Jun 6
-    16.30     Austria v Slovakia  0-0 (0-0)   @ Ernst-Happel-Stadion › Wien
-    17.00     Denmark v Bosnia & Herzegovina  2-0 (1-0)   @ Brøndby Stadion › Brøndby
+    16:30     Austria v Slovakia  0-0 (0-0)   @ Ernst-Happel-Stadion › Wien
+    17:00     Denmark v Bosnia & Herzegovina  2-0 (1-0)   @ Brøndby Stadion › Brøndby
               Netherlands v Georgia  3-0 (1-0)   @ De Grolsch Veste › Enschede
               England v Romania  1-0 (0-0)   @ Riverside Stadium › Middlesbrough
               Luxembourg v Scotland  0-1 (0-1)   @ Stade Josy Barthel › Luxembourg
-    18.00     Norway v Greece  1-2 (0-2)   @ Estadio La Rosaleda › Málaga
-    19.45     Belgium v Croatia  1-0 (1-0)   @ Stade Roi Baudouin › Brussel
-    20.45     Algeria v Mali  1-0 (0-0)   @ Stade Mustapha Tchaker › Blida
-» Friendlies 2
+    18:00     Norway v Greece  1-2 (0-2)   @ Estadio La Rosaleda › Málaga
+    19:45     Belgium v Croatia  1-0 (1-0)   @ Stade Roi Baudouin › Brussel
+    20:45     Algeria v Mali  1-0 (0-0)   @ Stade Mustapha Tchaker › Blida
+▪ Friendlies 2
   Mon Jun 7
-    17.00     Malta v Kazakhstan  [cancelled]   @ Lavanttal Arena › Wolfsberg
+    17:00     Malta v Kazakhstan  [cancelled]   @ Lavanttal Arena › Wolfsberg
               Belarus v Sierra Leone  [cancelled]   @ Stadyen Nyoman Iskusstvennoe pole › Grodno
-    19.45     Faroe Islands v Liechtenstein  5-1 (3-1)   @ Tórsvøllur › Tórshavn, Streymoy
+    19:45     Faroe Islands v Liechtenstein  5-1 (3-1)   @ Tórsvøllur › Tórshavn, Streymoy
               andorra v Gibraltar  0-0 (0-0)   @ Estadi Nacional › Andorra la Vella
-» Friendlies 3
+▪ Friendlies 3
   Mon Jun 7
-    13.00     Togo v Niger  [cancelled]   @ TBC › TBC
-    15.00     Rwanda v Central African Republic  5-0   @ Stade Amahoro › Kigali
-» Friendlies 1
+    13:00     Togo v Niger  [cancelled]   @ TBC › TBC
+    15:00     Rwanda v Central African Republic  5-0   @ Stade Amahoro › Kigali
+▪ Friendlies 1
   Mon Jun 7
-    08.00     Serbia v Jamaica  1-1 (0-1)   @ Miki Stadium › Miki
-    17.00     Ukraine v Cyprus  4-0 (2-0)   @ Oblasny SportKomplex Metalist › Kharkiv
-    19.45     Germany v Latvia  7-1 (5-0)   @ Merkur Spiel-Arena › Düsseldorf
-» Friendlies 2
+    08:00     Serbia v Jamaica  1-1 (0-1)   @ Miki Stadium › Miki
+    17:00     Ukraine v Cyprus  4-0 (2-0)   @ Oblasny SportKomplex Metalist › Kharkiv
+    19:45     Germany v Latvia  7-1 (5-0)   @ Merkur Spiel-Arena › Düsseldorf
+▪ Friendlies 2
   Tue Jun 8
-    15.00     Kosovo v Guinea  1-2 (0-0)   @ Arslan Zeki Demirci Spor Kompleksi-Emir Hotels 2 › Manavgat
-» Friendlies 3
+    15:00     Kosovo v Guinea  1-2 (0-0)   @ Arslan Zeki Demirci Spor Kompleksi-Emir Hotels 2 › Manavgat
+▪ Friendlies 3
   Tue Jun 8
-    18.00     Gambia v Togo  1-0   @ Emirhan Sport Center Stadium › Side
-» Friendlies 1
+    18:00     Gambia v Togo  1-0   @ Emirhan Sport Center Stadium › Side
+▪ Friendlies 1
   Tue Jun 8
-    17.00     Cameroon v Nigeria  0-0 (0-0)   @ Wiener Neustädter Stadion › Wiener Neustadt
+    17:00     Cameroon v Nigeria  0-0 (0-0)   @ Wiener Neustädter Stadion › Wiener Neustadt
               Benin v Zambia  2-2 (1-2)   @ Stade de l'Amitié › Cotonou
               Poland v Iceland  2-2 (1-1)   @ INEA stadion › Poznań
-    19.00     Hungary v Rep. Of Ireland  0-0 (0-0)   @ Szusza Ferenc Stadion › Budapest
-    19.15     Czech Republic v Albania  3-1 (1-1)   @ Generali Česká pojišťovna Arena › Praha
-    19.45     Spain v Lithuania  4-0 (2-0)   @ Estadio Municipal de Butarque › Leganés
-    20.00     Senegal v Cape Verde Islands  2-0 (0-0)   @ Stade Lat Dior › Thiès
+    19:00     Hungary v Rep. Of Ireland  0-0 (0-0)   @ Szusza Ferenc Stadion › Budapest
+    19:15     Czech Republic v Albania  3-1 (1-1)   @ Generali Česká pojišťovna Arena › Praha
+    19:45     Spain v Lithuania  4-0 (2-0)   @ Estadio Municipal de Butarque › Leganés
+    20:00     Senegal v Cape Verde Islands  2-0 (0-0)   @ Stade Lat Dior › Thiès
               Morocco v Ghana  1-0 (0-0)   @ Stade Prince Moulay Abdallah › Rabat
-    20.10     France v Bulgaria  3-0 (1-0)   @ Stade de France › Saint-Denis
-» Friendlies 3
+    20:10     France v Bulgaria  3-0 (1-0)   @ Stade de France › Saint-Denis
+▪ Friendlies 3
   Wed Jun 9
-    19.00     Niger v Congo  0-1   @ Emirhan Sport Center Stadium › Side
-» Friendlies 1
+    19:00     Niger v Congo  0-1   @ Emirhan Sport Center Stadium › Side
+▪ Friendlies 1
   Wed Jun 9
-    19.45     Portugal v Israel  4-0 (2-0)   @ Estádio José Alvalade › Lisboa
+    19:45     Portugal v Israel  4-0 (2-0)   @ Estádio José Alvalade › Lisboa
   Thu Jun 10
-    00.00     USA v Costa Rica  4-0 (2-0)   @ Rio Tinto Stadium › Sandy, Utah
-    17.00     South Africa v Uganda  3-2 (0-1)   @ Orlando Stadium › Johannesburg, GA
-» Friendlies 2
+    00:00     USA v Costa Rica  4-0 (2-0)   @ Rio Tinto Stadium › Sandy, Utah
+    17:00     South Africa v Uganda  3-2 (0-1)   @ Orlando Stadium › Johannesburg, GA
+▪ Friendlies 2
   Fri Jun 11
-    18.00     Kosovo v Gambia  1-0 (0-0)   @ Emirhan Sport Center Stadium › Side
-» Friendlies 3
+    18:00     Kosovo v Gambia  1-0 (0-0)   @ Emirhan Sport Center Stadium › Side
+▪ Friendlies 3
   Fri Jun 11
-    15.00     Guinea v Niger  2-1   @ Emirhan Sport Center Stadium › Side
-    16.00     Congo DR v Mali  1-1   @ Stade Olympique de Radès › Radès
-    16.30     Mauritania v Liberia  1-0   @ Stade Chedly-Zouiten › Tunis
-    20.00     Guinea-Bissau v Cape Verde Islands  [cancelled]   @ Estádio Nacional 24 de Setembro › Bissau
-» Friendlies 1
+    15:00     Guinea v Niger  2-1   @ Emirhan Sport Center Stadium › Side
+    16:00     Congo DR v Mali  1-1   @ Stade Olympique de Radès › Radès
+    16:30     Mauritania v Liberia  1-0   @ Stade Chedly-Zouiten › Tunis
+    20:00     Guinea-Bissau v Cape Verde Islands  [cancelled]   @ Estádio Nacional 24 de Setembro › Bissau
+▪ Friendlies 1
   Fri Jun 11
-    11.25     Japan v Serbia  1-0 (0-0)   @ NOEVIR Stadium Kobe › Kobe
-    20.30     Tunisia v Algeria  0-2 (0-2)   @ Stade Olympique de Radès › Radès
+    11:25     Japan v Serbia  1-0 (0-0)   @ NOEVIR Stadium Kobe › Kobe
+    20:30     Tunisia v Algeria  0-2 (0-2)   @ Stade Olympique de Radès › Radès
   Sat Jun 12
-    18.00     Ghana v Ivory Coast  0-0 (0-0)   @ Cape Coast Sports Stadium › Cape Coast
-    20.00     Morocco v Burkina Faso  1-0 (0-0)   @ Stade Prince Moulay Abdallah › Rabat
+    18:00     Ghana v Ivory Coast  0-0 (0-0)   @ Cape Coast Sports Stadium › Cape Coast
+    20:00     Morocco v Burkina Faso  1-0 (0-0)   @ Stade Prince Moulay Abdallah › Rabat
   Sun Jun 13
-    00.30     Mexico v Honduras  0-0 (0-0)   @ Mercedes-Benz Stadium › Atlanta, Georgia
-    14.00     Tanzania v Malawi  2-0 (0-0)   @ Benjamin Mkapa National Stadium › Dar-es-Salaam
-    18.00     Sudan v Zambia  0-1 (0-0)   @ Al-Hilal Stadium › Umm Durman
-» Friendlies 3
+    00:30     Mexico v Honduras  0-0 (0-0)   @ Mercedes-Benz Stadium › Atlanta, Georgia
+    14:00     Tanzania v Malawi  2-0 (0-0)   @ Benjamin Mkapa National Stadium › Dar-es-Salaam
+    18:00     Sudan v Zambia  0-1 (0-0)   @ Al-Hilal Stadium › Umm Durman
+▪ Friendlies 3
   Mon Jun 14
-    16.30     Libya v Liberia  0-1   @ Stade Chedly-Zouiten › Tunis
+    16:30     Libya v Liberia  0-1   @ Stade Chedly-Zouiten › Tunis
   Tue Jun 15
-    17.00     Djibouti v Somalia  1-0   @ Stade El Hadj Hassan Gouled › Ville de Djibouti
-» Friendlies 1
+    17:00     Djibouti v Somalia  1-0   @ Stade El Hadj Hassan Gouled › Ville de Djibouti
+▪ Friendlies 1
   Tue Jun 15
-    20.30     Tunisia v Mali  1-0 (0-0)   @ Stade Olympique de Radès › Radès
+    20:30     Tunisia v Mali  1-0 (0-0)   @ Stade Olympique de Radès › Radès
   Wed Jun 16
-    20.45     Algeria v Burundi  [cancelled]   @ Stade Olympique d'Oran › Bir El Djir
-» Friendlies 3
+    20:45     Algeria v Burundi  [cancelled]   @ Stade Olympique d'Oran › Bir El Djir
+▪ Friendlies 3
   Thu Jun 17
-    14.00     Mauritania v Djibouti  [cancelled]   @ TBC › TBC
-» Friendlies 1
+    14:00     Mauritania v Djibouti  [cancelled]   @ TBC › TBC
+▪ Friendlies 1
   Thu Jun 17
-    20.45     Algeria v Liberia  5-1 (2-1)   @ Stade Olympique d'Oran › Bir El Djir
-» Friendlies 2
+    20:45     Algeria v Liberia  5-1 (2-1)   @ Stade Olympique d'Oran › Bir El Djir
+▪ Friendlies 2
   Sun Jun 27
-    04.00     El Salvador v Guatemala  0-0 (0-0)   @ Banc of California Stadium › Los Angeles, California
-» Friendlies 1
+    04:00     El Salvador v Guatemala  0-0 (0-0)   @ Banc of California Stadium › Los Angeles, California
+▪ Friendlies 1
   Wed Jun 30
-    01.00     Croatia v Qatar  [cancelled]   @ Stadion Aldo Drosina › Pula
+    01:00     Croatia v Qatar  [cancelled]   @ Stadion Aldo Drosina › Pula
   Thu Jul 1
-    02.00     Mexico v Panama  3-0 (1-0)   @ Nissan Stadium › Nashville, Tennessee
+    02:00     Mexico v Panama  3-0 (1-0)   @ Nissan Stadium › Nashville, Tennessee
   Sun Jul 4
-    03.30     Mexico v Nigeria  4-0 (2-0)   @ United Airlines Field at the Los Angeles Memorial Coliseum › Los Angeles, California
-    17.30     El Salvador v Qatar  0-1 (0-0)   @ Stadion Aldo Drosina › Pula
-» Friendlies 3
+    03:30     Mexico v Nigeria  4-0 (2-0)   @ United Airlines Field at the Los Angeles Memorial Coliseum › Los Angeles, California
+    17:30     El Salvador v Qatar  0-1 (0-0)   @ Stadion Aldo Drosina › Pula
+▪ Friendlies 3
   Sun Aug 22
-    17.00     Sudan v Niger  1-2   @ Al Maktoum Stadium › Dubai
-» Friendlies 1
+    17:00     Sudan v Niger  1-2   @ Al Maktoum Stadium › Dubai
+▪ Friendlies 1
   Sun Aug 22
-    04.00     El Salvador v Costa Rica  0-0 (0-0)   @ Dignity Health Sports Park › Carson, California
-» Friendlies 3
+    04:00     El Salvador v Costa Rica  0-0 (0-0)   @ Dignity Health Sports Park › Carson, California
+▪ Friendlies 3
   Mon Aug 23
-    01.00     Syria v Uganda  [cancelled]
+    01:00     Syria v Uganda  [cancelled]
   Thu Aug 26
-    13.00     Syria v Uganda  [cancelled]
-    17.00     Sudan v Niger  3-0   @ Al Maktoum Stadium › Dubai
-    19.00     Ethiopia v Sierra Leone  0-0   @ Bahir Dar Stadium › Bahir Dar
+    13:00     Syria v Uganda  [cancelled]
+    17:00     Sudan v Niger  3-0   @ Al Maktoum Stadium › Dubai
+    19:00     Ethiopia v Sierra Leone  0-0   @ Bahir Dar Stadium › Bahir Dar
   Sun Aug 29
-    13.00     Ethiopia v Uganda  2-1   @ Bahir Dar Stadium › Bahir Dar
-» Friendlies 2
+    13:00     Ethiopia v Uganda  2-1   @ Bahir Dar Stadium › Bahir Dar
+▪ Friendlies 2
   Wed Sep 1
-    17.00     Bahrain v Haiti  6-1 (5-0)   @ Stād al-Bahrayn al-Watanī › Riffa
-» Friendlies 3
+    17:00     Bahrain v Haiti  6-1 (5-0)   @ Stād al-Bahrayn al-Watanī › Riffa
+▪ Friendlies 3
   Wed Sep 1
-    15.00     Comoros v Seychelles  7-1   @ Stade Omnisports de Malouzini › Moroni
-» Friendlies 1
+    15:00     Comoros v Seychelles  7-1   @ Stade Omnisports de Malouzini › Moroni
+▪ Friendlies 1
   Wed Sep 1
-    17.00     Finland v Wales  0-0 (0-0)   @ Helsingin olympiastadion › Helsingfors
-    19.45     Qatar v Serbia  0-4 (0-2)   @ Nagyerdei Stadion › Debrecen
+    17:00     Finland v Wales  0-0 (0-0)   @ Helsingin olympiastadion › Helsingfors
+    19:45     Qatar v Serbia  0-4 (0-2)   @ Nagyerdei Stadion › Debrecen
               Switzerland v Greece  2-1 (1-1)   @ St. Jakob-Park › Basel
-» Friendlies 2
+▪ Friendlies 2
   Thu Sep 2
-    12.15     Nepal v India  1-1 (1-0)   @ Dashrath Rangasala › Kathmandu
-» Friendlies 3
+    12:15     Nepal v India  1-1 (1-0)   @ Dashrath Rangasala › Kathmandu
+▪ Friendlies 3
   Thu Sep 2
-    15.30     Kyrgyzstan v Palestine  1-0   @ Stadion im. Dolena Omurzakova › Bishkek
-» Friendlies 2
+    15:30     Kyrgyzstan v Palestine  1-0   @ Stadion im. Dolena Omurzakova › Bishkek
+▪ Friendlies 2
   Sat Sep 4
-    17.00     Haiti v Jordan  2-0 (2-0)   @ Stād al-Bahrayn al-Watanī › Riffa
-» Friendlies 3
+    17:00     Haiti v Jordan  2-0 (2-0)   @ Stād al-Bahrayn al-Watanī › Riffa
+▪ Friendlies 3
   Sat Sep 4
-    15.00     Gambia v Seychelles  8-1   @ Stade Omnisports de Malouzini › Moroni
-» Friendlies 1
+    15:00     Gambia v Seychelles  8-1   @ Stade Omnisports de Malouzini › Moroni
+▪ Friendlies 1
   Sat Sep 4
-    17.45     Qatar v Portugal  1-3 (0-2)   @ Nagyerdei Stadion › Debrecen
-    19.45     Bosnia & Herzegovina v Kuwait  1-0 (0-0)   @ Stadion Bilino Polje › Zenica
-» Friendlies 2
+    17:45     Qatar v Portugal  1-3 (0-2)   @ Nagyerdei Stadion › Debrecen
+    19:45     Bosnia & Herzegovina v Kuwait  1-0 (0-0)   @ Stadion Bilino Polje › Zenica
+▪ Friendlies 2
   Sun Sep 5
-    12.45     Nepal v India  1-2 (0-0)   @ Dashrath Rangasala › Kathmandu
-» Friendlies 3
+    12:45     Nepal v India  1-2 (0-0)   @ Dashrath Rangasala › Kathmandu
+▪ Friendlies 3
   Sun Sep 5
-    15.30     Bangladesh v Palestine  0-2   @ Stadion im. Dolena Omurzakova › Bishkek
-» Friendlies 1
+    15:30     Bangladesh v Palestine  0-2   @ Stadion im. Dolena Omurzakova › Bishkek
+▪ Friendlies 1
   Sun Sep 5
-    14.00     Sweden v Uzbekistan  2-1 (2-0)   @ Friends Arena › Solna
-    17.00     Estonia v Northern Ireland  0-1 (0-0)   @ A. Le Coq Arena › Tallinn
-» Friendlies 3
+    14:00     Sweden v Uzbekistan  2-1 (2-0)   @ Friends Arena › Solna
+    17:00     Estonia v Northern Ireland  0-1 (0-0)   @ A. Le Coq Arena › Tallinn
+▪ Friendlies 3
   Tue Sep 7
-    15.00     Comoros v Burundi  1-0   @ Stade Omnisports de Malouzini › Moroni
+    15:00     Comoros v Burundi  1-0   @ Stade Omnisports de Malouzini › Moroni
               Comoros v Gambia  [cancelled]   @ Stade Omnisports de Malouzini › Moroni
-    15.30     Kyrgyzstan v Bangladesh  4-1   @ Stadion im. Dolena Omurzakova › Bishkek
-    17.00     Bahrain v Jordan  1-2   @ Stād al-Bahrayn al-Watanī › Riffa
-» Friendlies 1
+    15:30     Kyrgyzstan v Bangladesh  4-1   @ Stadion im. Dolena Omurzakova › Bishkek
+    17:00     Bahrain v Jordan  1-2   @ Stād al-Bahrayn al-Watanī › Riffa
+▪ Friendlies 1
   Tue Sep 7
-    19.45     Luxembourg v Qatar  1-1 (1-1)   @ Stade de Luxembourg › Luxembourg
-» Friendlies 2
+    19:45     Luxembourg v Qatar  1-1 (1-1)   @ Stade de Luxembourg › Luxembourg
+▪ Friendlies 2
   Wed Sep 8
-    20.00     Guatemala v Nicaragua  2-2 (1-1)   @ Estadio Pensativo › Antigua
-» Friendlies 1
+    20:00     Guatemala v Nicaragua  2-2 (1-1)   @ Estadio Pensativo › Antigua
+▪ Friendlies 1
   Wed Sep 8
-    17.30     Bulgaria v Georgia  4-1 (3-0)   @ Stadion Vasil Levski › Sofia
-    19.45     Czech Republic v Ukraine  1-1 (0-1)   @ Doosan Aréna › Plzeň
-» Friendlies 2
+    17:30     Bulgaria v Georgia  4-1 (3-0)   @ Stadion Vasil Levski › Sofia
+    19:45     Czech Republic v Ukraine  1-1 (0-1)   @ Doosan Aréna › Plzeň
+▪ Friendlies 2
   Sat Sep 25
-    01.00     El Salvador v Guatemala  0-2 (0-2)   @ Audi Field › Washington, District of Columbia
-» Friendlies 3
+    01:00     El Salvador v Guatemala  0-2 (0-2)   @ Audi Field › Washington, District of Columbia
+▪ Friendlies 3
   Sun Sep 26
-    17.00     Nepal v Oman  2-7   @ Qatar University Field 6 › Doha
-» Friendlies 1
+    17:00     Nepal v Oman  2-7   @ Qatar University Field 6 › Doha
+▪ Friendlies 1
   Thu Sep 30
-    20.00     Egypt v Liberia  2-0 (0-0)   @ Borg El Arab Stadium › Borg El Arab
-» Friendlies 2
+    20:00     Egypt v Liberia  2-0 (0-0)   @ Borg El Arab Stadium › Borg El Arab
+▪ Friendlies 2
   Wed Oct 6
-    17.00     Bahrain v Curaçao  4-0 (0-0)   @ Stād al-Bahrayn al-Watanī › Riffa
-» Friendlies 3
+    17:00     Bahrain v Curaçao  4-0 (0-0)   @ Stād al-Bahrayn al-Watanī › Riffa
+▪ Friendlies 3
   Wed Oct 6
-    16.00     Jordan v Malaysia  4-0   @ King Abdullah International Stadium › Amman
-» Friendlies 2
+    16:00     Jordan v Malaysia  4-0   @ King Abdullah International Stadium › Amman
+▪ Friendlies 2
   Thu Oct 7
-    02.00     Nicaragua v Cuba  [cancelled]   @ Estadio Nacional de Fútbol › Managua
+    02:00     Nicaragua v Cuba  [cancelled]   @ Estadio Nacional de Fútbol › Managua
   Sat Oct 9
-    16.30     Curaçao v New Zealand  1-2 (0-2)   @ Sheikh Ali bin Mohammed Al Khalifa Stadium › Muharraq
-» Friendlies 3
+    16:30     Curaçao v New Zealand  1-2 (0-2)   @ Sheikh Ali bin Mohammed Al Khalifa Stadium › Muharraq
+▪ Friendlies 3
   Sat Oct 9
-    16.00     Uzbekistan v Malaysia  5-1   @ King Abdullah International Stadium › Amman
-» Friendlies 1
+    16:00     Uzbekistan v Malaysia  5-1   @ King Abdullah International Stadium › Amman
+▪ Friendlies 1
   Sat Oct 9
-    20.15     Portugal v Qatar  3-0 (1-0)   @ Estádio Do Algarve › São João da Venda
-» Friendlies 2
+    20:15     Portugal v Qatar  3-0 (1-0)   @ Estádio Do Algarve › São João da Venda
+▪ Friendlies 2
   Mon Oct 11
-    01.00     Nicaragua v Cuba  [cancelled]   @ Estadio Nacional de Fútbol › Managua
+    01:00     Nicaragua v Cuba  [cancelled]   @ Estadio Nacional de Fútbol › Managua
   Tue Oct 12
-    17.00     Bahrain v New Zealand  0-1 (0-0)   @ Stād al-Bahrayn al-Watanī › Riffa
-» Friendlies 3
+    17:00     Bahrain v New Zealand  0-1 (0-0)   @ Stād al-Bahrayn al-Watanī › Riffa
+▪ Friendlies 3
   Tue Oct 12
-    15.00     Jordan v Uzbekistan  3-0   @ Amman International Stadium › Amman
-» Friendlies 1
+    15:00     Jordan v Uzbekistan  3-0   @ Amman International Stadium › Amman
+▪ Friendlies 1
   Tue Oct 12
-    19.45     Rep. Of Ireland v Qatar  4-0 (2-0)   @ Aviva Stadium › Dublin
+    19:45     Rep. Of Ireland v Qatar  4-0 (2-0)   @ Aviva Stadium › Dublin
   Thu Oct 28
-    02.00     Mexico v Ecuador  2-3 (1-2)   @ Bank of America Stadium › Charlotte, North Carolina
+    02:00     Mexico v Ecuador  2-3 (1-2)   @ Bank of America Stadium › Charlotte, North Carolina
   Sat Nov 6
-    00.00     El Salvador v Bolivia  0-1 (0-0)   @ Audi Field › Washington, District of Columbia
-» Friendlies 2
+    00:00     El Salvador v Bolivia  0-1 (0-0)   @ Audi Field › Washington, District of Columbia
+▪ Friendlies 2
   Wed Nov 10
-    17.00     Kosovo v Jordan  0-2 (0-1)   @ Stadiumi Fadil Vokrri › Pristina
-» Friendlies 3
+    17:00     Kosovo v Jordan  0-2 (0-1)   @ Stadiumi Fadil Vokrri › Pristina
+▪ Friendlies 3
   Wed Nov 10
-    00.00     Palestine v Comoros  [cancelled]   @ TBC › TBC
-» Friendlies 2
+    00:00     Palestine v Comoros  [cancelled]   @ TBC › TBC
+▪ Friendlies 2
   Thu Nov 11
-    01.00     Nicaragua v Cuba  0-3 (0-2)   @ Estadio Nacional de Fútbol › Managua
-» Friendlies 3
+    01:00     Nicaragua v Cuba  0-3 (0-2)   @ Estadio Nacional de Fútbol › Managua
+▪ Friendlies 3
   Thu Nov 11
-    13.00     Kyrgyzstan v Singapore  2-1   @ Al-Hamriya Sports Club Stadium › Sharjah, Ajman
-» Friendlies 1
+    13:00     Kyrgyzstan v Singapore  2-1   @ Al-Hamriya Sports Club Stadium › Sharjah, Ajman
+▪ Friendlies 1
   Thu Nov 11
-    17.00     Serbia v Qatar  4-0 (1-0)   @ Stadion Rajko Mitić › Beograd
-    17.30     Czech Republic v Kuwait  7-0 (2-0)   @ Andrův stadion › Olomouc
+    17:00     Serbia v Qatar  4-0 (1-0)   @ Stadion Rajko Mitić › Beograd
+    17:30     Czech Republic v Kuwait  7-0 (2-0)   @ Andrův stadion › Olomouc
               Ukraine v Bulgaria  1-1 (0-1)   @ Stadion Chornomorets › Odessa
-» Friendlies 3
+▪ Friendlies 3
   Sat Nov 13
-    16.00     Sierra Leone v Comoros  0-2   @ Book Sapanca Stadyumu › Sapanca
-» Friendlies 2
+    16:00     Sierra Leone v Comoros  0-2   @ Book Sapanca Stadyumu › Sapanca
+▪ Friendlies 2
   Sun Nov 14
-    00.00     Nicaragua v Cuba  2-0 (1-0)   @ Estadio Nacional de Fútbol › Managua
-» Friendlies 1
+    00:00     Nicaragua v Cuba  2-0 (1-0)   @ Estadio Nacional de Fútbol › Managua
+▪ Friendlies 1
   Sun Nov 14
-    17.00     Azerbaijan v Qatar  2-2 (1-1)   @ Bakı Olimpiya Stadionu › Baku
-» Friendlies 2
+    17:00     Azerbaijan v Qatar  2-2 (1-1)   @ Bakı Olimpiya Stadionu › Baku
+▪ Friendlies 2
   Mon Nov 15
-    14.00     Georgia v Uzbekistan  1-0 (1-0)   @ Stadioni Tengiz Burjanadze › Gori
-    17.00     Lithuania v Kuwait  1-1 (0-1)   @ Vilniaus LFF stadionas › Vilnius
+    14:00     Georgia v Uzbekistan  1-0 (1-0)   @ Stadioni Tengiz Burjanadze › Gori
+    17:00     Lithuania v Kuwait  1-1 (0-1)   @ Vilniaus LFF stadionas › Vilnius
   Tue Nov 16
-    13.00     Belarus v Lithuania  [cancelled]   @ Stadyen Dynama › Minsk
+    13:00     Belarus v Lithuania  [cancelled]   @ Stadyen Dynama › Minsk
               Kazakhstan v Tajikistan  1-0 (1-0)   @ Astana Arena › Nur-Sultan
-    16.00     New Zealand v Gambia  2-0 (1-0)   @ Sheikh Zayed Sports City › Abu Dhabi
-    17.00     Belarus v Jordan  1-0 (1-0)   @ Stadyen Dynama › Minsk
-» Friendlies 3
+    16:00     New Zealand v Gambia  2-0 (1-0)   @ Sheikh Zayed Sports City › Abu Dhabi
+    17:00     Belarus v Jordan  1-0 (1-0)   @ Stadyen Dynama › Minsk
+▪ Friendlies 3
   Tue Nov 16
-    16.00     Bahrain v Kyrgyzstan  4-2   @ Stād al-Bahrayn al-Watanī › Riffa
-» Friendlies 1
+    16:00     Bahrain v Kyrgyzstan  4-2   @ Stād al-Bahrayn al-Watanī › Riffa
+▪ Friendlies 1
   Tue Nov 16
-    14.00     Afghanistan v Indonesia  1-0 (0-0)   @ Gloria Sports Arena › Belek
+    14:00     Afghanistan v Indonesia  1-0 (0-0)   @ Gloria Sports Arena › Belek
   Thu Nov 25
-    14.00     Indonesia v Myanmar  4-1 (3-0)   @ Emirhan Sport Center Stadium › Side
+    14:00     Indonesia v Myanmar  4-1 (3-0)   @ Emirhan Sport Center Stadium › Side
   Sun Dec 5
-    02.00     El Salvador v Ecuador  1-1 (1-1)   @ PNC Stadium › Houston, Texas
+    02:00     El Salvador v Ecuador  1-1 (1-1)   @ PNC Stadium › Houston, Texas
   Thu Dec 9
-    03.05     Mexico v Chile  2-2 (1-1)   @ Q2 Stadium › Austin, Texas
-    13.30     Tanzania v Uganda  0-2 (0-0)   @ Benjamin Mkapa National Stadium › Dar-es-Salaam
+    03:05     Mexico v Chile  2-2 (1-1)   @ Q2 Stadium › Austin, Texas
+    13:30     Tanzania v Uganda  0-2 (0-0)   @ Benjamin Mkapa National Stadium › Dar-es-Salaam
   Sun Dec 12
-    07.00     El Salvador v Chile  0-1 (0-0)   @ Banc of California Stadium › Los Angeles, California
+    07:00     El Salvador v Chile  0-1 (0-0)   @ Banc of California Stadium › Los Angeles, California
   Sun Dec 19
-    01.00     USA v Bosnia & Herzegovina  1-0 (0-0)   @ Dignity Health Sports Park › Carson, California
-» Friendlies 3
+    01:00     USA v Bosnia & Herzegovina  1-0 (0-0)   @ Dignity Health Sports Park › Carson, California
+▪ Friendlies 3
   Thu Dec 30
-    00.00     Gabon v Uganda  [cancelled]   @ TBC › TBC
-    13.00     Mauritania v Burkina Faso  0-0 (0-0)   @ TBC › TBC
-    14.30     Sudan v Ethiopia  2-3 (1-2)   @ Stade Omnisport de Limbe › Limbé
+    00:00     Gabon v Uganda  [cancelled]   @ TBC › TBC
+    13:00     Mauritania v Burkina Faso  0-0 (0-0)   @ TBC › TBC
+    14:30     Sudan v Ethiopia  2-3 (1-2)   @ Stade Omnisport de Limbe › Limbé

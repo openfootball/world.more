@@ -1,444 +1,444 @@
 = Germany | 2. Bundesliga 2023/24
 
-  # Date       Fri Jul/28 2023 - Tue May/28 2024 (305d)
+  # Date       Fri Jul 28 2023 - Tue May 28 2024 (305d)
   # Teams      19
   # Matches    308
 
   # Note - All times in Europe/Berlin
 
-» Regular Season - 1
+▪ Regular Season - 1
   Fri Jul 28 2023
-    20.30     Hamburger SV v FC Schalke 04  5-3 (1-2)   @ Volksparkstadion › Hamburg
+    20:30     Hamburger SV v FC Schalke 04  5-3 (1-2)   @ Volksparkstadion › Hamburg
   Sat Jul 29
-    13.00     Hannover 96 v SV Elversberg  2-2 (1-2)   @ Heinz von Heiden-Arena › Hannover
+    13:00     Hannover 96 v SV Elversberg  2-2 (1-2)   @ Heinz von Heiden-Arena › Hannover
               FC Kaiserslautern v FC St. Pauli  1-2 (0-0)   @ Fritz-Walter-Stadion › Kaiserslautern
               SV Wehen v FC Magdeburg  1-1 (0-1)   @ BRITA-Arena › Wiesbaden
               VfL Osnabruck v Karlsruher SC  2-3 (1-2)   @ Bremer Brücke › Osnabrück
-    20.30     Fortuna Dusseldorf v Hertha Berlin  1-0 (0-0)   @ Düsseldorf Arena › Düsseldorf
+    20:30     Fortuna Dusseldorf v Hertha Berlin  1-0 (0-0)   @ Düsseldorf Arena › Düsseldorf
   Sun Jul 30
-    13.30     Eintracht Braunschweig v Holstein Kiel  0-1 (0-0)   @ Eintracht-Stadion › Braunschweig
+    13:30     Eintracht Braunschweig v Holstein Kiel  0-1 (0-0)   @ Eintracht-Stadion › Braunschweig
               Hansa Rostock v FC Nurnberg  2-0 (1-0)   @ Ostseestadion › Rostock
               SpVgg Greuther Furth v SC Paderborn 07  5-0 (3-0)   @ Sportpark Ronhof Thomas Sommer › Fürth
-» Regular Season - 2
+▪ Regular Season - 2
   Fri Aug 4
-    18.30     Hertha Berlin v SV Wehen  0-1 (0-0)   @ Olympiastadion Berlin › Berlin
+    18:30     Hertha Berlin v SV Wehen  0-1 (0-0)   @ Olympiastadion Berlin › Berlin
               SC Paderborn 07 v VfL Osnabruck  1-1 (0-0)   @ Home Deluxe Arena › Paderborn
   Sat Aug 5
-    13.00     Holstein Kiel v SpVgg Greuther Furth  2-1 (0-0)   @ Holstein-Stadion › Kiel
+    13:00     Holstein Kiel v SpVgg Greuther Furth  2-1 (0-0)   @ Holstein-Stadion › Kiel
               SV Elversberg v Hansa Rostock  1-2 (0-0)   @ Stadion Ludwigspark › Saarbrücken
               FC St. Pauli v Fortuna Dusseldorf  0-0 (0-0)   @ Millerntor-Stadion › Hamburg
-    20.30     FC Schalke 04 v FC Kaiserslautern  3-0 (1-0)   @ Arena AufSchalke › Gelsenkirchen
+    20:30     FC Schalke 04 v FC Kaiserslautern  3-0 (1-0)   @ Arena AufSchalke › Gelsenkirchen
   Sun Aug 6
-    13.30     FC Magdeburg v Eintracht Braunschweig  2-1 (2-0)   @ MDCC-Arena › Magdeburg
+    13:30     FC Magdeburg v Eintracht Braunschweig  2-1 (2-0)   @ MDCC-Arena › Magdeburg
               Karlsruher SC v Hamburger SV  2-2 (1-0)   @ BBBank Wildpark › Karlsruhe
               FC Nurnberg v Hannover 96  2-2 (0-2)   @ Max-Morlock-Stadion › Nürnberg
-» Regular Season - 3
+▪ Regular Season - 3
   Fri Aug 18
-    18.30     FC Kaiserslautern v SV Elversberg  3-2 (1-0)   @ Fritz-Walter-Stadion › Kaiserslautern
+    18:30     FC Kaiserslautern v SV Elversberg  3-2 (1-0)   @ Fritz-Walter-Stadion › Kaiserslautern
               SV Wehen v Karlsruher SC  1-0 (1-0)   @ BRITA-Arena › Wiesbaden
   Sat Aug 19
-    13.00     SpVgg Greuther Furth v FC St. Pauli  0-0 (0-0)   @ Sportpark Ronhof Thomas Sommer › Fürth
+    13:00     SpVgg Greuther Furth v FC St. Pauli  0-0 (0-0)   @ Sportpark Ronhof Thomas Sommer › Fürth
               Hansa Rostock v Hannover 96  1-2 (0-1)   @ Ostseestadion › Rostock
               Fortuna Dusseldorf v SC Paderborn 07  1-2 (0-1)   @ Düsseldorf Arena › Düsseldorf
-    20.30     Hamburger SV v Hertha Berlin  3-0 (2-0)   @ Volksparkstadion › Hamburg
+    20:30     Hamburger SV v Hertha Berlin  3-0 (2-0)   @ Volksparkstadion › Hamburg
   Sun Aug 20
-    13.30     Eintracht Braunschweig v FC Schalke 04  1-0 (1-0)   @ Eintracht-Stadion › Braunschweig
+    13:30     Eintracht Braunschweig v FC Schalke 04  1-0 (1-0)   @ Eintracht-Stadion › Braunschweig
               VfL Osnabruck v FC Nurnberg  2-3 (0-1)   @ Bremer Brücke › Osnabrück
               Holstein Kiel v FC Magdeburg  2-4 (1-2)   @ Holstein-Stadion › Kiel
-» Regular Season - 4
+▪ Regular Season - 4
   Fri Aug 25
-    18.30     FC Schalke 04 v Holstein Kiel  0-2 (0-1)   @ Arena AufSchalke › Gelsenkirchen
+    18:30     FC Schalke 04 v Holstein Kiel  0-2 (0-1)   @ Arena AufSchalke › Gelsenkirchen
               SC Paderborn 07 v FC Kaiserslautern  1-2 (0-0)   @ Home Deluxe Arena › Paderborn
   Sat Aug 26
-    13.00     Hansa Rostock v VfL Osnabruck  2-1 (1-1)   @ Ostseestadion › Rostock
+    13:00     Hansa Rostock v VfL Osnabruck  2-1 (1-1)   @ Ostseestadion › Rostock
               SV Elversberg v Fortuna Dusseldorf  0-5 (0-3)   @ URSAPHARM-Arena an der Kaiserlinde › Spiesen-Elversberg
               Hertha Berlin v SpVgg Greuther Furth  5-0 (2-0)   @ Olympiastadion Berlin › Berlin
-    20.30     Hannover 96 v Hamburger SV  0-1 (0-0)   @ Heinz von Heiden-Arena › Hannover
+    20:30     Hannover 96 v Hamburger SV  0-1 (0-0)   @ Heinz von Heiden-Arena › Hannover
   Sun Aug 27
-    13.30     FC St. Pauli v FC Magdeburg  0-0 (0-0)   @ Millerntor-Stadion › Hamburg
+    13:30     FC St. Pauli v FC Magdeburg  0-0 (0-0)   @ Millerntor-Stadion › Hamburg
               Karlsruher SC v Eintracht Braunschweig  2-0 (1-0)   @ BBBank Wildpark › Karlsruhe
               FC Nurnberg v SV Wehen  2-1 (0-0)   @ Max-Morlock-Stadion › Nürnberg
-» Regular Season - 5
+▪ Regular Season - 5
   Fri Sep 1
-    18.30     Fortuna Dusseldorf v Karlsruher SC  3-1 (1-1)   @ Düsseldorf Arena › Düsseldorf
+    18:30     Fortuna Dusseldorf v Karlsruher SC  3-1 (1-1)   @ Düsseldorf Arena › Düsseldorf
               Eintracht Braunschweig v FC St. Pauli  1-1 (0-0)   @ Eintracht-Stadion › Braunschweig
   Sat Sep 2
-    13.00     Holstein Kiel v SC Paderborn 07  2-1 (1-1)   @ Holstein-Stadion › Kiel
+    13:00     Holstein Kiel v SC Paderborn 07  2-1 (1-1)   @ Holstein-Stadion › Kiel
               SV Wehen v FC Schalke 04  1-1 (0-0)   @ BRITA-Arena › Wiesbaden
               FC Magdeburg v Hertha Berlin  6-4 (2-3)   @ MDCC-Arena › Magdeburg
-    20.30     FC Kaiserslautern v FC Nurnberg  3-1 (3-1)   @ Fritz-Walter-Stadion › Kaiserslautern
+    20:30     FC Kaiserslautern v FC Nurnberg  3-1 (3-1)   @ Fritz-Walter-Stadion › Kaiserslautern
   Sun Sep 3
-    13.30     Hamburger SV v Hansa Rostock  2-0 (1-0)   @ Volksparkstadion › Hamburg
+    13:30     Hamburger SV v Hansa Rostock  2-0 (1-0)   @ Volksparkstadion › Hamburg
               SpVgg Greuther Furth v Hannover 96  1-3 (0-2)   @ Sportpark Ronhof Thomas Sommer › Fürth
               VfL Osnabruck v SV Elversberg  0-1 (0-0)   @ Bremer Brücke › Osnabrück
-» Regular Season - 6
+▪ Regular Season - 6
   Fri Sep 15
-    18.30     SC Paderborn 07 v SV Wehen  2-1 (0-1)   @ Home Deluxe Arena › Paderborn
+    18:30     SC Paderborn 07 v SV Wehen  2-1 (0-1)   @ Home Deluxe Arena › Paderborn
               FC Nurnberg v SpVgg Greuther Furth  1-1 (1-1)   @ Max-Morlock-Stadion › Nürnberg
   Sat Sep 16
-    13.00     Karlsruher SC v FC Kaiserslautern  1-1 (1-1)   @ BBBank Wildpark › Karlsruhe
+    13:00     Karlsruher SC v FC Kaiserslautern  1-1 (1-1)   @ BBBank Wildpark › Karlsruhe
               Hansa Rostock v Fortuna Dusseldorf  1-3 (1-2)   @ Ostseestadion › Rostock
               SV Elversberg v Hamburger SV  2-1 (1-0)   @ URSAPHARM-Arena an der Kaiserlinde › Spiesen-Elversberg
-    20.30     FC Schalke 04 v FC Magdeburg  4-3 (1-2)   @ Arena AufSchalke › Gelsenkirchen
+    20:30     FC Schalke 04 v FC Magdeburg  4-3 (1-2)   @ Arena AufSchalke › Gelsenkirchen
   Sun Sep 17
-    13.30     Hannover 96 v VfL Osnabruck  7-0 (2-0)   @ Heinz von Heiden-Arena › Hannover
+    13:30     Hannover 96 v VfL Osnabruck  7-0 (2-0)   @ Heinz von Heiden-Arena › Hannover
               FC St. Pauli v Holstein Kiel  5-1 (3-0)   @ Millerntor-Stadion › Hamburg
               Hertha Berlin v Eintracht Braunschweig  3-0 (2-0)   @ Olympiastadion Berlin › Berlin
-» Regular Season - 7
+▪ Regular Season - 7
   Fri Sep 22
-    18.30     VfL Osnabruck v Hamburger SV  2-1 (2-1)   @ Bremer Brücke › Osnabrück
+    18:30     VfL Osnabruck v Hamburger SV  2-1 (2-1)   @ Bremer Brücke › Osnabrück
               FC Magdeburg v SC Paderborn 07  1-1 (0-1)   @ MDCC-Arena › Magdeburg
   Sat Sep 23
-    13.00     SpVgg Greuther Furth v Karlsruher SC  4-3 (3-3)   @ Sportpark Ronhof Thomas Sommer › Fürth
+    13:00     SpVgg Greuther Furth v Karlsruher SC  4-3 (3-3)   @ Sportpark Ronhof Thomas Sommer › Fürth
               Eintracht Braunschweig v FC Nurnberg  2-2 (1-2)   @ Eintracht-Stadion › Braunschweig
               SV Wehen v SV Elversberg  0-2 (0-1)   @ BRITA-Arena › Wiesbaden
-    20.30     FC St. Pauli v FC Schalke 04  3-1 (1-1)   @ Millerntor-Stadion › Hamburg
+    20:30     FC St. Pauli v FC Schalke 04  3-1 (1-1)   @ Millerntor-Stadion › Hamburg
   Sun Sep 24
-    13.30     Holstein Kiel v Hertha Berlin  2-3 (0-2)   @ Holstein-Stadion › Kiel
+    13:30     Holstein Kiel v Hertha Berlin  2-3 (0-2)   @ Holstein-Stadion › Kiel
               FC Kaiserslautern v Hansa Rostock  3-1 (2-1)   @ Fritz-Walter-Stadion › Kaiserslautern
               Fortuna Dusseldorf v Hannover 96  1-1 (0-1)   @ Düsseldorf Arena › Düsseldorf
-» Regular Season - 8
+▪ Regular Season - 8
   Fri Sep 29
-    18.30     SC Paderborn 07 v FC Schalke 04  3-1 (1-0)   @ Home Deluxe Arena › Paderborn
+    18:30     SC Paderborn 07 v FC Schalke 04  3-1 (1-0)   @ Home Deluxe Arena › Paderborn
               Hamburger SV v Fortuna Dusseldorf  1-0 (0-0)   @ Volksparkstadion › Hamburg
   Sat Sep 30
-    13.00     Hannover 96 v SV Wehen  2-0 (1-0)   @ Heinz von Heiden-Arena › Hannover
+    13:00     Hannover 96 v SV Wehen  2-0 (1-0)   @ Heinz von Heiden-Arena › Hannover
               Karlsruher SC v Holstein Kiel  0-2 (0-2)   @ BBBank Wildpark › Karlsruhe
               Hansa Rostock v Eintracht Braunschweig  1-0 (0-0)   @ Ostseestadion › Rostock
-    20.30     Hertha Berlin v FC St. Pauli  1-2 (0-1)   @ Olympiastadion Berlin › Berlin
+    20:30     Hertha Berlin v FC St. Pauli  1-2 (0-1)   @ Olympiastadion Berlin › Berlin
   Sun Oct 1
-    13.30     VfL Osnabruck v FC Kaiserslautern  2-2 (2-1)   @ Bremer Brücke › Osnabrück
+    13:30     VfL Osnabruck v FC Kaiserslautern  2-2 (2-1)   @ Bremer Brücke › Osnabrück
               SV Elversberg v SpVgg Greuther Furth  1-1 (1-1)   @ URSAPHARM-Arena an der Kaiserlinde › Spiesen-Elversberg
               FC Nurnberg v FC Magdeburg  1-0 (0-0)   @ Max-Morlock-Stadion › Nürnberg
-» Regular Season - 9
+▪ Regular Season - 9
   Fri Oct 6
-    18.30     FC Kaiserslautern v Hannover 96  3-1 (1-1)   @ Fritz-Walter-Stadion › Kaiserslautern
+    18:30     FC Kaiserslautern v Hannover 96  3-1 (1-1)   @ Fritz-Walter-Stadion › Kaiserslautern
               Fortuna Dusseldorf v VfL Osnabruck  1-1 (0-0)   @ Düsseldorf Arena › Düsseldorf
   Sat Oct 7
-    13.00     SpVgg Greuther Furth v Hansa Rostock  1-0 (1-0)   @ Sportpark Ronhof Thomas Sommer › Fürth
+    13:00     SpVgg Greuther Furth v Hansa Rostock  1-0 (1-0)   @ Sportpark Ronhof Thomas Sommer › Fürth
               FC Magdeburg v Karlsruher SC  1-1 (0-1)   @ MDCC-Arena › Magdeburg
               SV Wehen v Hamburger SV  1-1 (0-0)   @ BRITA-Arena › Wiesbaden
-    20.30     FC St. Pauli v FC Nurnberg  5-1 (1-1)   @ Millerntor-Stadion › Hamburg
+    20:30     FC St. Pauli v FC Nurnberg  5-1 (1-1)   @ Millerntor-Stadion › Hamburg
   Sun Oct 8
-    13.30     Holstein Kiel v SV Elversberg  1-1 (1-0)   @ Holstein-Stadion › Kiel
+    13:30     Holstein Kiel v SV Elversberg  1-1 (1-0)   @ Holstein-Stadion › Kiel
               Eintracht Braunschweig v SC Paderborn 07  1-3 (1-2)   @ Eintracht-Stadion › Braunschweig
               FC Schalke 04 v Hertha Berlin  1-2 (0-1)   @ Arena AufSchalke › Gelsenkirchen
-» Regular Season - 10
+▪ Regular Season - 10
   Fri Oct 20
-    18.30     Hannover 96 v FC Magdeburg  2-1 (1-0)   @ Heinz von Heiden-Arena › Hannover
+    18:30     Hannover 96 v FC Magdeburg  2-1 (1-0)   @ Heinz von Heiden-Arena › Hannover
               SV Elversberg v Eintracht Braunschweig  3-0 (2-0)   @ URSAPHARM-Arena an der Kaiserlinde › Spiesen-Elversberg
   Sat Oct 21
-    13.00     SC Paderborn 07 v FC St. Pauli  2-2 (1-0)   @ Home Deluxe Arena › Paderborn
+    13:00     SC Paderborn 07 v FC St. Pauli  2-2 (1-0)   @ Home Deluxe Arena › Paderborn
               VfL Osnabruck v SV Wehen  0-2 (0-1)   @ Bremer Brücke › Osnabrück
               Hamburger SV v SpVgg Greuther Furth  2-0 (2-0)   @ Volksparkstadion › Hamburg
-    20.30     Fortuna Dusseldorf v FC Kaiserslautern  4-3 (1-3)   @ Düsseldorf Arena › Düsseldorf
+    20:30     Fortuna Dusseldorf v FC Kaiserslautern  4-3 (1-3)   @ Düsseldorf Arena › Düsseldorf
   Sun Oct 22
-    13.30     Karlsruher SC v FC Schalke 04  3-0 (2-0)   @ BBBank Wildpark › Karlsruhe
+    13:30     Karlsruher SC v FC Schalke 04  3-0 (2-0)   @ BBBank Wildpark › Karlsruhe
               Hansa Rostock v Holstein Kiel  1-3 (1-1)   @ Ostseestadion › Rostock
               FC Nurnberg v Hertha Berlin  3-1 (0-1)   @ Max-Morlock-Stadion › Nürnberg
-» Regular Season - 11
+▪ Regular Season - 11
   Fri Oct 27
-    18.30     Eintracht Braunschweig v Fortuna Dusseldorf  1-4 (0-2)   @ Eintracht-Stadion › Braunschweig
+    18:30     Eintracht Braunschweig v Fortuna Dusseldorf  1-4 (0-2)   @ Eintracht-Stadion › Braunschweig
               SpVgg Greuther Furth v VfL Osnabruck  4-0 (1-0)   @ Sportpark Ronhof Thomas Sommer › Fürth
   Sat Oct 28
-    13.00     FC Schalke 04 v Hannover 96  3-2 (1-0)   @ Arena AufSchalke › Gelsenkirchen
+    13:00     FC Schalke 04 v Hannover 96  3-2 (1-0)   @ Arena AufSchalke › Gelsenkirchen
               FC St. Pauli v Karlsruher SC  2-1 (0-1)   @ Millerntor-Stadion › Hamburg
               Hertha Berlin v SC Paderborn 07  3-1 (2-0)   @ Olympiastadion Berlin › Berlin
-    20.30     FC Kaiserslautern v Hamburger SV  3-3 (2-1)   @ Fritz-Walter-Stadion › Kaiserslautern
+    20:30     FC Kaiserslautern v Hamburger SV  3-3 (2-1)   @ Fritz-Walter-Stadion › Kaiserslautern
   Sun Oct 29
-    13.30     Holstein Kiel v FC Nurnberg  0-2 (0-0)   @ Holstein-Stadion › Kiel
+    13:30     Holstein Kiel v FC Nurnberg  0-2 (0-0)   @ Holstein-Stadion › Kiel
               SV Wehen v Hansa Rostock  1-0 (0-0)   @ BRITA-Arena › Wiesbaden
               FC Magdeburg v SV Elversberg  1-2 (0-2)   @ MDCC-Arena › Magdeburg
-» Regular Season - 12
+▪ Regular Season - 12
   Fri Nov 3
-    18.30     Fortuna Dusseldorf v SV Wehen  1-3 (0-3)   @ Düsseldorf Arena › Düsseldorf
+    18:30     Fortuna Dusseldorf v SV Wehen  1-3 (0-3)   @ Düsseldorf Arena › Düsseldorf
               SV Elversberg v FC St. Pauli  0-2 (0-2)   @ URSAPHARM-Arena an der Kaiserlinde › Spiesen-Elversberg
   Sat Nov 4
-    13.00     FC Kaiserslautern v SpVgg Greuther Furth  0-2 (0-1)   @ Fritz-Walter-Stadion › Kaiserslautern
+    13:00     FC Kaiserslautern v SpVgg Greuther Furth  0-2 (0-1)   @ Fritz-Walter-Stadion › Kaiserslautern
               VfL Osnabruck v Holstein Kiel  1-1 (0-0)   @ Bremer Brücke › Osnabrück
               FC Nurnberg v FC Schalke 04  1-2 (0-1)   @ Max-Morlock-Stadion › Nürnberg
-    20.30     Hamburger SV v FC Magdeburg  2-0 (1-0)   @ Volksparkstadion › Hamburg
+    20:30     Hamburger SV v FC Magdeburg  2-0 (1-0)   @ Volksparkstadion › Hamburg
   Sun Nov 5
-    13.30     Hannover 96 v Eintracht Braunschweig  2-0 (2-0)   @ Heinz von Heiden-Arena › Hannover
+    13:30     Hannover 96 v Eintracht Braunschweig  2-0 (2-0)   @ Heinz von Heiden-Arena › Hannover
               Karlsruher SC v SC Paderborn 07  0-3 (0-1)   @ BBBank Wildpark › Karlsruhe
               Hansa Rostock v Hertha Berlin  0-0 (0-0)   @ Ostseestadion › Rostock
-» Regular Season - 13
+▪ Regular Season - 13
   Fri Nov 10
-    18.30     FC St. Pauli v Hannover 96  0-0 (0-0)   @ Millerntor-Stadion › Hamburg
+    18:30     FC St. Pauli v Hannover 96  0-0 (0-0)   @ Millerntor-Stadion › Hamburg
               FC Schalke 04 v SV Elversberg  1-2 (1-2)   @ Arena AufSchalke › Gelsenkirchen
   Sat Nov 11
-    13.00     Holstein Kiel v Hamburger SV  4-2 (1-0)   @ Holstein-Stadion › Kiel
+    13:00     Holstein Kiel v Hamburger SV  4-2 (1-0)   @ Holstein-Stadion › Kiel
               Eintracht Braunschweig v VfL Osnabruck  3-2 (1-1)   @ Eintracht-Stadion › Braunschweig
               SC Paderborn 07 v FC Nurnberg  1-3 (0-3)   @ Home Deluxe Arena › Paderborn
-    20.30     Hertha Berlin v Karlsruher SC  2-2 (2-1)   @ Olympiastadion Berlin › Berlin
+    20:30     Hertha Berlin v Karlsruher SC  2-2 (2-1)   @ Olympiastadion Berlin › Berlin
   Sun Nov 12
-    13.30     SpVgg Greuther Furth v Fortuna Dusseldorf  1-0 (0-0)   @ Sportpark Ronhof Thomas Sommer › Fürth
+    13:30     SpVgg Greuther Furth v Fortuna Dusseldorf  1-0 (0-0)   @ Sportpark Ronhof Thomas Sommer › Fürth
               FC Magdeburg v Hansa Rostock  1-2 (1-0)   @ MDCC-Arena › Magdeburg
               SV Wehen v FC Kaiserslautern  2-1 (0-1)   @ BRITA-Arena › Wiesbaden
-» Regular Season - 14
+▪ Regular Season - 14
   Fri Nov 24
-    18.30     Hamburger SV v Eintracht Braunschweig  2-1 (2-0)   @ Volksparkstadion › Hamburg
+    18:30     Hamburger SV v Eintracht Braunschweig  2-1 (2-0)   @ Volksparkstadion › Hamburg
               Hannover 96 v Hertha Berlin  2-2 (0-2)   @ Heinz von Heiden-Arena › Hannover
   Sat Nov 25
-    13.00     Hansa Rostock v FC St. Pauli  2-3 (1-3)   @ Ostseestadion › Rostock
+    13:00     Hansa Rostock v FC St. Pauli  2-3 (1-3)   @ Ostseestadion › Rostock
               VfL Osnabruck v FC Magdeburg  0-2 (0-0)   @ Bremer Brücke › Osnabrück
               SV Elversberg v SC Paderborn 07  4-1 (1-1)   @ URSAPHARM-Arena an der Kaiserlinde › Spiesen-Elversberg
-    20.30     Fortuna Dusseldorf v FC Schalke 04  5-3 (3-0)   @ Düsseldorf Arena › Düsseldorf
+    20:30     Fortuna Dusseldorf v FC Schalke 04  5-3 (3-0)   @ Düsseldorf Arena › Düsseldorf
   Sun Nov 26
-    13.30     FC Kaiserslautern v Holstein Kiel  0-3 (0-2)   @ Fritz-Walter-Stadion › Kaiserslautern
+    13:30     FC Kaiserslautern v Holstein Kiel  0-3 (0-2)   @ Fritz-Walter-Stadion › Kaiserslautern
               Karlsruher SC v FC Nurnberg  4-1 (1-0)   @ BBBank Wildpark › Karlsruhe
               SpVgg Greuther Furth v SV Wehen  2-0 (1-0)   @ Sportpark Ronhof Thomas Sommer › Fürth
-» Regular Season - 15
+▪ Regular Season - 15
   Fri Dec 1
-    18.30     FC Schalke 04 v VfL Osnabruck  4-0 (1-0)   @ Arena AufSchalke › Gelsenkirchen
+    18:30     FC Schalke 04 v VfL Osnabruck  4-0 (1-0)   @ Arena AufSchalke › Gelsenkirchen
               FC St. Pauli v Hamburger SV  2-2 (2-0)   @ Millerntor-Stadion › Hamburg
   Sat Dec 2
-    13.00     Holstein Kiel v SV Wehen  3-2 (2-0)   @ Holstein-Stadion › Kiel
+    13:00     Holstein Kiel v SV Wehen  3-2 (2-0)   @ Holstein-Stadion › Kiel
               Eintracht Braunschweig v SpVgg Greuther Furth  0-1 (0-1)   @ Eintracht-Stadion › Braunschweig
               FC Nurnberg v Fortuna Dusseldorf  0-5 (0-3)   @ Max-Morlock-Stadion › Nürnberg
-    20.30     FC Magdeburg v FC Kaiserslautern  4-1 (1-1)   @ MDCC-Arena › Magdeburg
+    20:30     FC Magdeburg v FC Kaiserslautern  4-1 (1-1)   @ MDCC-Arena › Magdeburg
   Sun Dec 3
-    13.30     SC Paderborn 07 v Hannover 96  1-0 (0-0)   @ Home Deluxe Arena › Paderborn
+    13:30     SC Paderborn 07 v Hannover 96  1-0 (0-0)   @ Home Deluxe Arena › Paderborn
               Karlsruher SC v Hansa Rostock  2-2 (1-2)   @ BBBank Wildpark › Karlsruhe
               Hertha Berlin v SV Elversberg  5-1 (2-1)   @ Olympiastadion Berlin › Berlin
-» Regular Season - 16
+▪ Regular Season - 16
   Fri Dec 8
-    18.30     Hannover 96 v Karlsruher SC  2-2 (0-1)   @ Heinz von Heiden-Arena › Hannover
+    18:30     Hannover 96 v Karlsruher SC  2-2 (0-1)   @ Heinz von Heiden-Arena › Hannover
               SV Wehen v Eintracht Braunschweig  1-3 (1-0)   @ BRITA-Arena › Wiesbaden
   Sat Dec 9
-    13.00     SpVgg Greuther Furth v FC Magdeburg  1-1 (0-0)   @ Sportpark Ronhof Thomas Sommer › Fürth
+    13:00     SpVgg Greuther Furth v FC Magdeburg  1-1 (0-0)   @ Sportpark Ronhof Thomas Sommer › Fürth
               FC Kaiserslautern v Hertha Berlin  1-2 (1-0)   @ Fritz-Walter-Stadion › Kaiserslautern
               Hamburger SV v SC Paderborn 07  1-2 (1-1)   @ Volksparkstadion › Hamburg
-    20.30     VfL Osnabruck v FC St. Pauli  1-1 (0-1)   @ Bremer Brücke › Osnabrück
+    20:30     VfL Osnabruck v FC St. Pauli  1-1 (0-1)   @ Bremer Brücke › Osnabrück
   Sun Dec 10
-    13.30     Hansa Rostock v FC Schalke 04  0-2 (0-0)   @ Ostseestadion › Rostock
+    13:30     Hansa Rostock v FC Schalke 04  0-2 (0-0)   @ Ostseestadion › Rostock
               SV Elversberg v FC Nurnberg  0-1 (0-0)   @ URSAPHARM-Arena an der Kaiserlinde › Spiesen-Elversberg
               Fortuna Dusseldorf v Holstein Kiel  0-1 (0-1)   @ Düsseldorf Arena › Düsseldorf
-» Regular Season - 17
+▪ Regular Season - 17
   Fri Dec 15
-    18.30     FC Schalke 04 v SpVgg Greuther Furth  2-2 (1-0)   @ Arena AufSchalke › Gelsenkirchen
+    18:30     FC Schalke 04 v SpVgg Greuther Furth  2-2 (1-0)   @ Arena AufSchalke › Gelsenkirchen
               SC Paderborn 07 v Hansa Rostock  3-0 (1-0)   @ Home Deluxe Arena › Paderborn
   Sat Dec 16
-    13.00     FC Nurnberg v Hamburger SV  0-2 (0-0)   @ Max-Morlock-Stadion › Nürnberg
+    13:00     FC Nurnberg v Hamburger SV  0-2 (0-0)   @ Max-Morlock-Stadion › Nürnberg
               FC Magdeburg v Fortuna Dusseldorf  2-3 (2-0)   @ MDCC-Arena › Magdeburg
               Hertha Berlin v VfL Osnabruck  0-0 (0-0)   @ Olympiastadion Berlin › Berlin
-    20.30     Holstein Kiel v Hannover 96  3-0 (3-0)   @ Holstein-Stadion › Kiel
+    20:30     Holstein Kiel v Hannover 96  3-0 (3-0)   @ Holstein-Stadion › Kiel
   Sun Dec 17
-    13.30     Eintracht Braunschweig v FC Kaiserslautern  2-1 (1-1)   @ Eintracht-Stadion › Braunschweig
+    13:30     Eintracht Braunschweig v FC Kaiserslautern  2-1 (1-1)   @ Eintracht-Stadion › Braunschweig
               Karlsruher SC v SV Elversberg  3-2 (2-1)   @ BBBank Wildpark › Karlsruhe
               FC St. Pauli v SV Wehen  1-1 (0-0)   @ Millerntor-Stadion › Hamburg
-» Regular Season - 18
+▪ Regular Season - 18
   Fri Jan 19 2024
-    18.30     Holstein Kiel v Eintracht Braunschweig  1-2 (1-1)   @ Holstein-Stadion › Kiel
+    18:30     Holstein Kiel v Eintracht Braunschweig  1-2 (1-1)   @ Holstein-Stadion › Kiel
   Fri Jan 19
-    18.30     Karlsruher SC v VfL Osnabruck  2-1 (1-1)   @ BBBank Wildpark › Karlsruhe
+    18:30     Karlsruher SC v VfL Osnabruck  2-1 (1-1)   @ BBBank Wildpark › Karlsruhe
   Sat Jan 20
-    13.00     FC St. Pauli v FC Kaiserslautern  2-0 (1-0)   @ Millerntor-Stadion › Hamburg
+    13:00     FC St. Pauli v FC Kaiserslautern  2-0 (1-0)   @ Millerntor-Stadion › Hamburg
               SV Elversberg v Hannover 96  2-2 (0-1)   @ URSAPHARM-Arena an der Kaiserlinde › Spiesen-Elversberg
               FC Nurnberg v Hansa Rostock  3-0 (2-0)   @ Max-Morlock-Stadion › Nürnberg
-    20.30     FC Schalke 04 v Hamburger SV  0-2 (0-2)   @ Arena AufSchalke › Gelsenkirchen
+    20:30     FC Schalke 04 v Hamburger SV  0-2 (0-2)   @ Arena AufSchalke › Gelsenkirchen
   Sun Jan 21
-    13.30     Hertha Berlin v Fortuna Dusseldorf  2-2 (2-1)   @ Olympiastadion Berlin › Berlin
+    13:30     Hertha Berlin v Fortuna Dusseldorf  2-2 (2-1)   @ Olympiastadion Berlin › Berlin
               FC Magdeburg v SV Wehen  1-0 (0-0)   @ MDCC-Arena › Magdeburg
               SC Paderborn 07 v SpVgg Greuther Furth  0-1 (0-1)   @ Home Deluxe Arena › Paderborn
-» Regular Season - 19
+▪ Regular Season - 19
   Fri Jan 26
-    18.30     FC Kaiserslautern v FC Schalke 04  4-1 (1-0)   @ Fritz-Walter-Stadion › Kaiserslautern
+    18:30     FC Kaiserslautern v FC Schalke 04  4-1 (1-0)   @ Fritz-Walter-Stadion › Kaiserslautern
               Hannover 96 v FC Nurnberg  3-0 (2-0)   @ Heinz von Heiden-Arena › Hannover
   Sat Jan 27
-    13.00     SV Wehen v Hertha Berlin  3-1 (1-0)   @ BRITA-Arena › Wiesbaden
+    13:00     SV Wehen v Hertha Berlin  3-1 (1-0)   @ BRITA-Arena › Wiesbaden
               Hansa Rostock v SV Elversberg  2-1 (0-1)   @ Ostseestadion › Rostock
               VfL Osnabruck v SC Paderborn 07  0-0 (0-0)   @ Bremer Brücke › Osnabrück
-    20.30     Fortuna Dusseldorf v FC St. Pauli  1-2 (0-2)   @ Düsseldorf Arena › Düsseldorf
+    20:30     Fortuna Dusseldorf v FC St. Pauli  1-2 (0-2)   @ Düsseldorf Arena › Düsseldorf
   Sun Jan 28
-    13.30     SpVgg Greuther Furth v Holstein Kiel  2-1 (0-0)   @ Sportpark Ronhof Thomas Sommer › Fürth
+    13:30     SpVgg Greuther Furth v Holstein Kiel  2-1 (0-0)   @ Sportpark Ronhof Thomas Sommer › Fürth
               Eintracht Braunschweig v FC Magdeburg  1-0 (1-0)   @ Eintracht-Stadion › Braunschweig
               Hamburger SV v Karlsruher SC  3-4 (2-2)   @ Volksparkstadion › Hamburg
-» Regular Season - 20
+▪ Regular Season - 20
   Fri Feb 2
-    18.30     Karlsruher SC v SV Wehen  2-2 (1-0)   @ BBBank Wildpark › Karlsruhe
+    18:30     Karlsruher SC v SV Wehen  2-2 (1-0)   @ BBBank Wildpark › Karlsruhe
               FC Magdeburg v Holstein Kiel  1-1 (0-1)   @ MDCC-Arena › Magdeburg
   Sat Feb 3
-    13.00     FC Nurnberg v VfL Osnabruck  2-2 (1-1)   @ Max-Morlock-Stadion › Nürnberg
+    13:00     FC Nurnberg v VfL Osnabruck  2-2 (1-1)   @ Max-Morlock-Stadion › Nürnberg
               FC Schalke 04 v Eintracht Braunschweig  1-0 (0-0)   @ Arena AufSchalke › Gelsenkirchen
               FC St. Pauli v SpVgg Greuther Furth  3-2 (2-1)   @ Millerntor-Stadion › Hamburg
-    20.30     Hertha Berlin v Hamburger SV  1-2 (0-0)   @ Olympiastadion Berlin › Berlin
+    20:30     Hertha Berlin v Hamburger SV  1-2 (0-0)   @ Olympiastadion Berlin › Berlin
   Sun Feb 4
-    13.30     SC Paderborn 07 v Fortuna Dusseldorf  4-3 (3-0)   @ Home Deluxe Arena › Paderborn
+    13:30     SC Paderborn 07 v Fortuna Dusseldorf  4-3 (3-0)   @ Home Deluxe Arena › Paderborn
               SV Elversberg v FC Kaiserslautern  2-1 (1-1)   @ URSAPHARM-Arena an der Kaiserlinde › Spiesen-Elversberg
               Hannover 96 v Hansa Rostock  2-1 (1-1)   @ Heinz von Heiden-Arena › Hannover
-» Regular Season - 21
+▪ Regular Season - 21
   Fri Feb 9
-    18.30     SV Wehen v FC Nurnberg  1-1 (0-0)   @ BRITA-Arena › Wiesbaden
+    18:30     SV Wehen v FC Nurnberg  1-1 (0-0)   @ BRITA-Arena › Wiesbaden
               Hamburger SV v Hannover 96  3-4 (1-3)   @ Volksparkstadion › Hamburg
   Sat Feb 10
-    13.00     Fortuna Dusseldorf v SV Elversberg  1-1 (1-0)   @ Düsseldorf Arena › Düsseldorf
+    13:00     Fortuna Dusseldorf v SV Elversberg  1-1 (1-0)   @ Düsseldorf Arena › Düsseldorf
               FC Magdeburg v FC St. Pauli  1-0 (0-0)   @ MDCC-Arena › Magdeburg
               Eintracht Braunschweig v Karlsruher SC  2-0 (1-0)   @ Eintracht-Stadion › Braunschweig
-    20.30     FC Kaiserslautern v SC Paderborn 07  1-2 (1-0)   @ Fritz-Walter-Stadion › Kaiserslautern
+    20:30     FC Kaiserslautern v SC Paderborn 07  1-2 (1-0)   @ Fritz-Walter-Stadion › Kaiserslautern
   Sun Feb 11
-    13.30     Holstein Kiel v FC Schalke 04  1-0 (0-0)   @ Holstein-Stadion › Kiel
+    13:30     Holstein Kiel v FC Schalke 04  1-0 (0-0)   @ Holstein-Stadion › Kiel
               VfL Osnabruck v Hansa Rostock  0-0 (0-0)   @ Bremer Brücke › Osnabrück
               SpVgg Greuther Furth v Hertha Berlin  1-2 (0-1)   @ Sportpark Ronhof Thomas Sommer › Fürth
-» Regular Season - 22
+▪ Regular Season - 22
   Fri Feb 16
-    18.30     Hannover 96 v SpVgg Greuther Furth  2-1 (0-1)   @ Heinz von Heiden-Arena › Hannover
+    18:30     Hannover 96 v SpVgg Greuther Furth  2-1 (0-1)   @ Heinz von Heiden-Arena › Hannover
               Hertha Berlin v FC Magdeburg  3-2 (2-1)   @ Olympiastadion Berlin › Berlin
   Sat Feb 17
-    13.00     FC Schalke 04 v SV Wehen  1-0 (0-0)   @ Arena AufSchalke › Gelsenkirchen
+    13:00     FC Schalke 04 v SV Wehen  1-0 (0-0)   @ Arena AufSchalke › Gelsenkirchen
               SC Paderborn 07 v Holstein Kiel  0-4 (0-2)   @ Home Deluxe Arena › Paderborn
               Hansa Rostock v Hamburger SV  2-2 (0-1)   @ Ostseestadion › Rostock
-    20.30     Karlsruher SC v Fortuna Dusseldorf  2-2 (0-1)   @ BBBank Wildpark › Karlsruhe
+    20:30     Karlsruher SC v Fortuna Dusseldorf  2-2 (0-1)   @ BBBank Wildpark › Karlsruhe
   Sun Feb 18
-    13.30     FC St. Pauli v Eintracht Braunschweig  1-0 (1-0)   @ Millerntor-Stadion › Hamburg
+    13:30     FC St. Pauli v Eintracht Braunschweig  1-0 (1-0)   @ Millerntor-Stadion › Hamburg
               SV Elversberg v VfL Osnabruck  3-1 (3-0)   @ URSAPHARM-Arena an der Kaiserlinde › Spiesen-Elversberg
               FC Nurnberg v FC Kaiserslautern  1-1 (0-1)   @ Max-Morlock-Stadion › Nürnberg
-» Regular Season - 23
+▪ Regular Season - 23
   Fri Feb 23
-    18.30     Holstein Kiel v FC St. Pauli  3-4 (0-3)   @ Holstein-Stadion › Kiel
+    18:30     Holstein Kiel v FC St. Pauli  3-4 (0-3)   @ Holstein-Stadion › Kiel
               SV Wehen v SC Paderborn 07  1-2 (1-1)   @ BRITA-Arena › Wiesbaden
   Sat Feb 24
-    13.00     FC Kaiserslautern v Karlsruher SC  0-4 (0-0)   @ Fritz-Walter-Stadion › Kaiserslautern
+    13:00     FC Kaiserslautern v Karlsruher SC  0-4 (0-0)   @ Fritz-Walter-Stadion › Kaiserslautern
               VfL Osnabruck v Hannover 96  1-0 (0-0)   @ Bremer Brücke › Osnabrück
               Eintracht Braunschweig v Hertha Berlin  1-1 (1-0)   @ Eintracht-Stadion › Braunschweig
-    20.30     FC Magdeburg v FC Schalke 04  3-0 (3-0)   @ MDCC-Arena › Magdeburg
+    20:30     FC Magdeburg v FC Schalke 04  3-0 (3-0)   @ MDCC-Arena › Magdeburg
   Sun Feb 25
-    13.30     Hamburger SV v SV Elversberg  1-0 (0-0)   @ Volksparkstadion › Hamburg
+    13:30     Hamburger SV v SV Elversberg  1-0 (0-0)   @ Volksparkstadion › Hamburg
               SpVgg Greuther Furth v FC Nurnberg  2-1 (1-1)   @ Sportpark Ronhof Thomas Sommer › Fürth
               Fortuna Dusseldorf v Hansa Rostock  2-0 (2-0)   @ Düsseldorf Arena › Düsseldorf
-» Regular Season - 24
+▪ Regular Season - 24
   Fri Mar 1
-    18.30     FC Schalke 04 v FC St. Pauli  3-1 (1-0)   @ VELTINS-Arena › Gelsenkirchen
+    18:30     FC Schalke 04 v FC St. Pauli  3-1 (1-0)   @ VELTINS-Arena › Gelsenkirchen
               Hertha Berlin v Holstein Kiel  2-2 (2-0)   @ Olympiastadion Berlin › Berlin
   Sat Mar 2
-    13.00     FC Nurnberg v Eintracht Braunschweig  2-1 (2-0)   @ Max-Morlock-Stadion › Nürnberg
+    13:00     FC Nurnberg v Eintracht Braunschweig  2-1 (2-0)   @ Max-Morlock-Stadion › Nürnberg
               Hansa Rostock v FC Kaiserslautern  0-3 (0-1)   @ Ostseestadion › Rostock
               Hannover 96 v Fortuna Dusseldorf  2-2 (0-2)   @ Heinz von Heiden-Arena › Hannover
-    20.30     Karlsruher SC v SpVgg Greuther Furth  4-0 (1-0)   @ BBBank Wildpark › Karlsruhe
+    20:30     Karlsruher SC v SpVgg Greuther Furth  4-0 (1-0)   @ BBBank Wildpark › Karlsruhe
   Sun Mar 3
-    13.30     SC Paderborn 07 v FC Magdeburg  0-0 (0-0)   @ Home Deluxe Arena › Paderborn
+    13:30     SC Paderborn 07 v FC Magdeburg  0-0 (0-0)   @ Home Deluxe Arena › Paderborn
               SV Elversberg v SV Wehen  0-3 (0-1)   @ URSAPHARM-Arena an der Kaiserlinde › Spiesen-Elversberg
               Hamburger SV v VfL Osnabruck  1-2 (1-1)   @ Volksparkstadion › Hamburg
-» Regular Season - 25
+▪ Regular Season - 25
   Fri Mar 8
-    18.30     Fortuna Dusseldorf v Hamburger SV  2-0 (1-0)   @ Düsseldorf Arena › Düsseldorf
+    18:30     Fortuna Dusseldorf v Hamburger SV  2-0 (1-0)   @ Düsseldorf Arena › Düsseldorf
               Eintracht Braunschweig v Hansa Rostock  0-1 (0-0)   @ Eintracht-Stadion › Braunschweig
   Sat Mar 9
-    13.00     Holstein Kiel v Karlsruher SC  1-0 (0-0)   @ Holstein-Stadion › Kiel
+    13:00     Holstein Kiel v Karlsruher SC  1-0 (0-0)   @ Holstein-Stadion › Kiel
               SV Wehen v Hannover 96  1-1 (1-0)   @ BRITA-Arena › Wiesbaden
               FC Schalke 04 v SC Paderborn 07  3-3 (1-0)   @ Arena AufSchalke › Gelsenkirchen
-    20.30     FC Magdeburg v FC Nurnberg  0-1 (0-0)   @ MDCC-Arena › Magdeburg
+    20:30     FC Magdeburg v FC Nurnberg  0-1 (0-0)   @ MDCC-Arena › Magdeburg
   Sun Mar 10
-    13.30     SpVgg Greuther Furth v SV Elversberg  1-4 (0-1)   @ Sportpark Ronhof Thomas Sommer › Fürth
+    13:30     SpVgg Greuther Furth v SV Elversberg  1-4 (0-1)   @ Sportpark Ronhof Thomas Sommer › Fürth
               FC St. Pauli v Hertha Berlin  2-0 (2-0)   @ Millerntor-Stadion › Hamburg
               FC Kaiserslautern v VfL Osnabruck  3-2 (0-0)   @ Fritz-Walter-Stadion › Kaiserslautern
-» Regular Season - 26
+▪ Regular Season - 26
   Fri Mar 15
-    18.30     VfL Osnabruck v Fortuna Dusseldorf  0-4 (0-1)   @ Bremer Brücke › Osnabrück
+    18:30     VfL Osnabruck v Fortuna Dusseldorf  0-4 (0-1)   @ Bremer Brücke › Osnabrück
               SC Paderborn 07 v Eintracht Braunschweig  1-2 (0-0)   @ Home Deluxe Arena › Paderborn
   Sat Mar 16
-    13.00     Hansa Rostock v SpVgg Greuther Furth  1-0 (1-0)   @ Ostseestadion › Rostock
+    13:00     Hansa Rostock v SpVgg Greuther Furth  1-0 (1-0)   @ Ostseestadion › Rostock
               SV Elversberg v Holstein Kiel  0-2 (0-1)   @ URSAPHARM-Arena an der Kaiserlinde › Spiesen-Elversberg
               FC Nurnberg v FC St. Pauli  0-2 (0-1)   @ Max-Morlock-Stadion › Nürnberg
-    20.30     Hannover 96 v FC Kaiserslautern  1-1 (0-0)   @ Heinz von Heiden-Arena › Hannover
+    20:30     Hannover 96 v FC Kaiserslautern  1-1 (0-0)   @ Heinz von Heiden-Arena › Hannover
   Sun Mar 17
-    13.30     Hertha Berlin v FC Schalke 04  5-2 (3-2)   @ Olympiastadion Berlin › Berlin
+    13:30     Hertha Berlin v FC Schalke 04  5-2 (3-2)   @ Olympiastadion Berlin › Berlin
               Hamburger SV v SV Wehen  3-0 (1-0)   @ Volksparkstadion › Hamburg
               Karlsruher SC v FC Magdeburg  7-0 (4-0)   @ BBBank Wildpark › Karlsruhe
-» Regular Season - 27
+▪ Regular Season - 27
   Sat Mar 30
-    13.00     Eintracht Braunschweig v SV Elversberg  5-0 (2-0)   @ Eintracht-Stadion › Braunschweig
+    13:00     Eintracht Braunschweig v SV Elversberg  5-0 (2-0)   @ Eintracht-Stadion › Braunschweig
               FC Kaiserslautern v Fortuna Dusseldorf  1-3 (1-0)   @ Fritz-Walter-Stadion › Kaiserslautern
               Holstein Kiel v Hansa Rostock  2-0 (1-0)   @ Holstein-Stadion › Kiel
-    20.30     Hertha Berlin v FC Nurnberg  3-3 (1-2)   @ Olympiastadion Berlin › Berlin
+    20:30     Hertha Berlin v FC Nurnberg  3-3 (1-2)   @ Olympiastadion Berlin › Berlin
   Sun Mar 31
-    13.30     FC Schalke 04 v Karlsruher SC  0-0 (0-0)   @ Arena AufSchalke › Gelsenkirchen
+    13:30     FC Schalke 04 v Karlsruher SC  0-0 (0-0)   @ Arena AufSchalke › Gelsenkirchen
               SpVgg Greuther Furth v Hamburger SV  1-1 (0-0)   @ Sportpark Ronhof Thomas Sommer › Fürth
               FC Magdeburg v Hannover 96  0-3 (0-1)   @ MDCC-Arena › Magdeburg
               FC St. Pauli v SC Paderborn 07  2-1 (1-0)   @ Millerntor-Stadion › Hamburg
               SV Wehen v VfL Osnabruck  0-1 (0-1)   @ BRITA-Arena › Wiesbaden
-» Regular Season - 28
+▪ Regular Season - 28
   Fri Apr 5
-    18.30     SC Paderborn 07 v Hertha Berlin  2-3 (1-1)   @ Home Deluxe Arena › Paderborn
+    18:30     SC Paderborn 07 v Hertha Berlin  2-3 (1-1)   @ Home Deluxe Arena › Paderborn
               Hansa Rostock v SV Wehen  3-1 (0-0)   @ Ostseestadion › Rostock
   Sat Apr 6
-    13.00     Hamburger SV v FC Kaiserslautern  2-1 (1-1)   @ Volksparkstadion › Hamburg
+    13:00     Hamburger SV v FC Kaiserslautern  2-1 (1-1)   @ Volksparkstadion › Hamburg
               SV Elversberg v FC Magdeburg  0-0 (0-0)   @ URSAPHARM-Arena an der Kaiserlinde › Spiesen-Elversberg
               FC Nurnberg v Holstein Kiel  0-4 (0-3)   @ Max-Morlock-Stadion › Nürnberg
-    20.30     Karlsruher SC v FC St. Pauli  2-1 (1-1)   @ BBBank Wildpark › Karlsruhe
+    20:30     Karlsruher SC v FC St. Pauli  2-1 (1-1)   @ BBBank Wildpark › Karlsruhe
   Sun Apr 7
-    13.30     Hannover 96 v FC Schalke 04  1-1 (0-1)   @ Heinz von Heiden-Arena › Hannover
+    13:30     Hannover 96 v FC Schalke 04  1-1 (0-1)   @ Heinz von Heiden-Arena › Hannover
               VfL Osnabruck v SpVgg Greuther Furth  2-0 (2-0)   @ Bremer Brücke › Osnabrück
               Fortuna Dusseldorf v Eintracht Braunschweig  2-0 (1-0)   @ Düsseldorf Arena › Düsseldorf
-» Regular Season - 29
+▪ Regular Season - 29
   Fri Apr 12
-    18.30     Hertha Berlin v Hansa Rostock  4-0 (2-0)   @ Olympiastadion Berlin › Berlin
+    18:30     Hertha Berlin v Hansa Rostock  4-0 (2-0)   @ Olympiastadion Berlin › Berlin
               SpVgg Greuther Furth v FC Kaiserslautern  2-1 (0-1)   @ Sportpark Ronhof Thomas Sommer › Fürth
   Sat Apr 13
-    13.00     Holstein Kiel v VfL Osnabruck  4-0 (2-0)   @ Holstein-Stadion › Kiel
+    13:00     Holstein Kiel v VfL Osnabruck  4-0 (2-0)   @ Holstein-Stadion › Kiel
               SV Wehen v Fortuna Dusseldorf  0-2 (0-1)   @ BRITA-Arena › Wiesbaden
               SC Paderborn 07 v Karlsruher SC  1-1 (1-1)   @ Home Deluxe Arena › Paderborn
-    20.30     FC Schalke 04 v FC Nurnberg  2-0 (1-0)   @ Arena AufSchalke › Gelsenkirchen
+    20:30     FC Schalke 04 v FC Nurnberg  2-0 (1-0)   @ Arena AufSchalke › Gelsenkirchen
   Sun Apr 14
-    13.30     FC St. Pauli v SV Elversberg  3-4 (1-0)   @ Millerntor-Stadion › Hamburg
+    13:30     FC St. Pauli v SV Elversberg  3-4 (1-0)   @ Millerntor-Stadion › Hamburg
               Eintracht Braunschweig v Hannover 96  0-0 (0-0)   @ Eintracht-Stadion › Braunschweig
               FC Magdeburg v Hamburger SV  2-2 (2-0)   @ MDCC-Arena › Magdeburg
-» Regular Season - 30
+▪ Regular Season - 30
   Fri Apr 19
-    18.30     FC Nurnberg v SC Paderborn 07  0-2 (0-1)   @ Max-Morlock-Stadion › Nürnberg
+    18:30     FC Nurnberg v SC Paderborn 07  0-2 (0-1)   @ Max-Morlock-Stadion › Nürnberg
               SV Elversberg v FC Schalke 04  1-1 (1-0)   @ URSAPHARM-Arena an der Kaiserlinde › Spiesen-Elversberg
   Sat Apr 20
-    13.00     FC Kaiserslautern v SV Wehen  1-1 (1-0)   @ Fritz-Walter-Stadion › Kaiserslautern
+    13:00     FC Kaiserslautern v SV Wehen  1-1 (1-0)   @ Fritz-Walter-Stadion › Kaiserslautern
               VfL Osnabruck v Eintracht Braunschweig  0-3 (0-2)   @ Bremer Brücke › Osnabrück
               Fortuna Dusseldorf v SpVgg Greuther Furth  1-0 (0-0)   @ Düsseldorf Arena › Düsseldorf
-    20.30     Hamburger SV v Holstein Kiel  0-1 (0-0)   @ Volksparkstadion › Hamburg
+    20:30     Hamburger SV v Holstein Kiel  0-1 (0-0)   @ Volksparkstadion › Hamburg
   Sun Apr 21
-    13.30     Karlsruher SC v Hertha Berlin  3-2 (2-1)   @ BBBank Wildpark › Karlsruhe
+    13:30     Karlsruher SC v Hertha Berlin  3-2 (2-1)   @ BBBank Wildpark › Karlsruhe
               Hansa Rostock v FC Magdeburg  0-2 (0-2)   @ Ostseestadion › Rostock
               Hannover 96 v FC St. Pauli  1-2 (1-1)   @ Heinz von Heiden-Arena › Hannover
-» Regular Season - 31
+▪ Regular Season - 31
   Fri Apr 26
-    18.30     Hertha Berlin v Hannover 96  1-1 (1-0)   @ Olympiastadion Berlin › Berlin
+    18:30     Hertha Berlin v Hannover 96  1-1 (1-0)   @ Olympiastadion Berlin › Berlin
               FC St. Pauli v Hansa Rostock  1-0 (0-0)   @ Millerntor-Stadion › Hamburg
   Sat Apr 27
-    13.00     Holstein Kiel v FC Kaiserslautern  1-3 (1-2)   @ Holstein-Stadion › Kiel
+    13:00     Holstein Kiel v FC Kaiserslautern  1-3 (1-2)   @ Holstein-Stadion › Kiel
               Eintracht Braunschweig v Hamburger SV  0-4 (0-2)   @ Eintracht-Stadion › Braunschweig
               SC Paderborn 07 v SV Elversberg  3-1 (0-0)   @ Home Deluxe Arena › Paderborn
-    20.30     FC Schalke 04 v Fortuna Dusseldorf  1-1 (0-0)   @ Arena AufSchalke › Gelsenkirchen
+    20:30     FC Schalke 04 v Fortuna Dusseldorf  1-1 (0-0)   @ Arena AufSchalke › Gelsenkirchen
   Sun Apr 28
-    13.30     FC Nurnberg v Karlsruher SC  0-1 (0-1)   @ Max-Morlock-Stadion › Nürnberg
+    13:30     FC Nurnberg v Karlsruher SC  0-1 (0-1)   @ Max-Morlock-Stadion › Nürnberg
               FC Magdeburg v VfL Osnabruck  1-1 (1-1)   @ MDCC-Arena › Magdeburg
               SV Wehen v SpVgg Greuther Furth  3-5 (2-3)   @ BRITA-Arena › Wiesbaden
-» Regular Season - 32
+▪ Regular Season - 32
   Fri May 3
-    18.30     Hamburger SV v FC St. Pauli  1-0 (0-0)   @ Volksparkstadion › Hamburg
+    18:30     Hamburger SV v FC St. Pauli  1-0 (0-0)   @ Volksparkstadion › Hamburg
               Fortuna Dusseldorf v FC Nurnberg  3-1 (2-0)   @ Düsseldorf Arena › Düsseldorf
   Sat May 4
-    13.00     SpVgg Greuther Furth v Eintracht Braunschweig  3-3 (1-2)   @ Sportpark Ronhof Thomas Sommer › Fürth
+    13:00     SpVgg Greuther Furth v Eintracht Braunschweig  3-3 (1-2)   @ Sportpark Ronhof Thomas Sommer › Fürth
               Hansa Rostock v Karlsruher SC  1-2 (1-0)   @ Ostseestadion › Rostock
-    20.30     FC Kaiserslautern v FC Magdeburg  4-1 (2-0)   @ Fritz-Walter-Stadion › Kaiserslautern
+    20:30     FC Kaiserslautern v FC Magdeburg  4-1 (2-0)   @ Fritz-Walter-Stadion › Kaiserslautern
   Sun May 5
-    13.30     SV Wehen v Holstein Kiel  0-1 (0-0)   @ BRITA-Arena › Wiesbaden
+    13:30     SV Wehen v Holstein Kiel  0-1 (0-0)   @ BRITA-Arena › Wiesbaden
               SV Elversberg v Hertha Berlin  4-2 (1-1)   @ URSAPHARM-Arena an der Kaiserlinde › Spiesen-Elversberg
               Hannover 96 v SC Paderborn 07  3-2 (3-2)   @ Heinz von Heiden-Arena › Hannover
   Tue May 7
-    18.30     VfL Osnabruck v FC Schalke 04  0-4 (0-2)   @ Millerntor-Stadion › Hamburg
-» Regular Season - 33
+    18:30     VfL Osnabruck v FC Schalke 04  0-4 (0-2)   @ Millerntor-Stadion › Hamburg
+▪ Regular Season - 33
   Fri May 10
-    18.30     SC Paderborn 07 v Hamburger SV  1-0 (1-0)   @ Home Deluxe Arena › Paderborn
+    18:30     SC Paderborn 07 v Hamburger SV  1-0 (1-0)   @ Home Deluxe Arena › Paderborn
               FC Magdeburg v SpVgg Greuther Furth  0-0 (0-0)   @ MDCC-Arena › Magdeburg
   Sat May 11
-    13.00     Hertha Berlin v FC Kaiserslautern  3-1 (2-1)   @ Olympiastadion Berlin › Berlin
+    13:00     Hertha Berlin v FC Kaiserslautern  3-1 (2-1)   @ Olympiastadion Berlin › Berlin
               FC Nurnberg v SV Elversberg  3-0 (1-0)   @ Max-Morlock-Stadion › Nürnberg
               FC Schalke 04 v Hansa Rostock  2-1 (2-1)   @ Arena AufSchalke › Gelsenkirchen
-    20.30     Holstein Kiel v Fortuna Dusseldorf  1-1 (1-0)   @ Holstein-Stadion › Kiel
+    20:30     Holstein Kiel v Fortuna Dusseldorf  1-1 (1-0)   @ Holstein-Stadion › Kiel
   Sun May 12
-    13.30     Eintracht Braunschweig v SV Wehen  1-0 (1-0)   @ Eintracht-Stadion › Braunschweig
+    13:30     Eintracht Braunschweig v SV Wehen  1-0 (1-0)   @ Eintracht-Stadion › Braunschweig
               Karlsruher SC v Hannover 96  1-2 (1-1)   @ BBBank Wildpark › Karlsruhe
               FC St. Pauli v VfL Osnabruck  3-1 (1-0)   @ Millerntor-Stadion › Hamburg
-» Regular Season - 34
+▪ Regular Season - 34
   Sun May 19
-    15.30     Fortuna Dusseldorf v FC Magdeburg  3-2 (2-1)   @ Düsseldorf Arena › Düsseldorf
+    15:30     Fortuna Dusseldorf v FC Magdeburg  3-2 (2-1)   @ Düsseldorf Arena › Düsseldorf
               Hannover 96 v Holstein Kiel  1-2 (0-2)   @ Heinz von Heiden-Arena › Hannover
               Hamburger SV v FC Nurnberg  4-1 (3-1)   @ Volksparkstadion › Hamburg
               SpVgg Greuther Furth v FC Schalke 04  2-0 (0-0)   @ Sportpark Ronhof Thomas Sommer › Fürth
@@ -447,8 +447,8 @@
               Hansa Rostock v SC Paderborn 07  1-2 (0-0)   @ Ostseestadion › Rostock
               VfL Osnabruck v Hertha Berlin  2-1 (1-1)   @ Bremer Brücke › Osnabrück
               SV Elversberg v Karlsruher SC  0-3 (0-0)   @ URSAPHARM-Arena an der Kaiserlinde › Spiesen-Elversberg
-» Relegation Round
+▪ Relegation Round
   Fri May 24
-    20.30     Jahn Regensburg v SV Wehen  2-2 (1-0)   @ Jahnstadion Regensburg › Regensburg
+    20:30     Jahn Regensburg v SV Wehen  2-2 (1-0)   @ Jahnstadion Regensburg › Regensburg
   Tue May 28
-    20.30     SV Wehen v Jahn Regensburg  1-2 (0-1)   @ BRITA-Arena › Wiesbaden
+    20:30     SV Wehen v Jahn Regensburg  1-2 (0-1)   @ BRITA-Arena › Wiesbaden

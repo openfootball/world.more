@@ -1,103 +1,103 @@
 = World Cup 2022
 
-  # Date       Sun Nov/20 - Sun Dec/18 2022 (28d)
+  # Date       Sun Nov 20 - Sun Dec 18 2022 (28d)
   # Teams      32
   # Matches    64
 
   # Note - All times in Asia/Qatar
 
-» Group Stage - 1
+▪ Group Stage - 1
   Sun Nov 20 2022
-    19.00     Qatar v Ecuador  0-2 (0-2)   @ Al Bayt Stadium › Al Khor
+    19:00     Qatar v Ecuador  0-2 (0-2)   @ Al Bayt Stadium › Al Khor
   Mon Nov 21
-    16.00     England v Iran  6-2 (3-0)   @ Khalifa International Stadium › Ar-Rayyan
-    19.00     Senegal v Netherlands  0-2 (0-0)   @ Al Thumama Stadium › Doha
-    22.00     USA v Wales  1-1 (1-0)   @ Ahmad bin Ali Stadium › Al-Rayyan
+    16:00     England v Iran  6-2 (3-0)   @ Khalifa International Stadium › Ar-Rayyan
+    19:00     Senegal v Netherlands  0-2 (0-0)   @ Al Thumama Stadium › Doha
+    22:00     USA v Wales  1-1 (1-0)   @ Ahmad bin Ali Stadium › Al-Rayyan
   Tue Nov 22
-    13.00     Argentina v Saudi Arabia  1-2 (1-0)   @ Lusail Iconic Stadium › Lusail
-    16.00     Denmark v Tunisia  0-0 (0-0)   @ Education City Stadium › Ar-Rayyan
-    19.00     Mexico v Poland  0-0 (0-0)   @ Stadium 974 › Doha
-    22.00     France v Australia  4-1 (2-1)   @ Al Janoub Stadium › Al Wakrah
+    13:00     Argentina v Saudi Arabia  1-2 (1-0)   @ Lusail Iconic Stadium › Lusail
+    16:00     Denmark v Tunisia  0-0 (0-0)   @ Education City Stadium › Ar-Rayyan
+    19:00     Mexico v Poland  0-0 (0-0)   @ Stadium 974 › Doha
+    22:00     France v Australia  4-1 (2-1)   @ Al Janoub Stadium › Al Wakrah
   Wed Nov 23
-    13.00     Morocco v Croatia  0-0 (0-0)   @ Al Bayt Stadium › Al Khor
-    16.00     Germany v Japan  1-2 (1-0)   @ Khalifa International Stadium › Ar-Rayyan
-    19.00     Spain v Costa Rica  7-0 (3-0)   @ Al Thumama Stadium › Doha
-    22.00     Belgium v Canada  1-0 (1-0)   @ Ahmad bin Ali Stadium › Al-Rayyan
+    13:00     Morocco v Croatia  0-0 (0-0)   @ Al Bayt Stadium › Al Khor
+    16:00     Germany v Japan  1-2 (1-0)   @ Khalifa International Stadium › Ar-Rayyan
+    19:00     Spain v Costa Rica  7-0 (3-0)   @ Al Thumama Stadium › Doha
+    22:00     Belgium v Canada  1-0 (1-0)   @ Ahmad bin Ali Stadium › Al-Rayyan
   Thu Nov 24
-    13.00     Switzerland v Cameroon  1-0 (0-0)   @ Al Janoub Stadium › Al Wakrah
-    16.00     Uruguay v South Korea  0-0 (0-0)   @ Education City Stadium › Ar-Rayyan
-    19.00     Portugal v Ghana  3-2 (0-0)   @ Stadium 974 › Doha
-    22.00     Brazil v Serbia  2-0 (0-0)   @ Lusail Iconic Stadium › Lusail
-» Group Stage - 2
+    13:00     Switzerland v Cameroon  1-0 (0-0)   @ Al Janoub Stadium › Al Wakrah
+    16:00     Uruguay v South Korea  0-0 (0-0)   @ Education City Stadium › Ar-Rayyan
+    19:00     Portugal v Ghana  3-2 (0-0)   @ Stadium 974 › Doha
+    22:00     Brazil v Serbia  2-0 (0-0)   @ Lusail Iconic Stadium › Lusail
+▪ Group Stage - 2
   Fri Nov 25
-    13.00     Wales v Iran  0-2 (0-0)   @ Ahmad bin Ali Stadium › Al-Rayyan
-    16.00     Qatar v Senegal  1-3 (0-1)   @ Al Thumama Stadium › Doha
-    19.00     Netherlands v Ecuador  1-1 (1-0)   @ Khalifa International Stadium › Ar-Rayyan
-    22.00     England v USA  0-0 (0-0)   @ Al Bayt Stadium › Al Khor
+    13:00     Wales v Iran  0-2 (0-0)   @ Ahmad bin Ali Stadium › Al-Rayyan
+    16:00     Qatar v Senegal  1-3 (0-1)   @ Al Thumama Stadium › Doha
+    19:00     Netherlands v Ecuador  1-1 (1-0)   @ Khalifa International Stadium › Ar-Rayyan
+    22:00     England v USA  0-0 (0-0)   @ Al Bayt Stadium › Al Khor
   Sat Nov 26
-    13.00     Tunisia v Australia  0-1 (0-1)   @ Al Janoub Stadium › Al Wakrah
-    16.00     Poland v Saudi Arabia  2-0 (1-0)   @ Education City Stadium › Ar-Rayyan
-    19.00     France v Denmark  2-1 (0-0)   @ Stadium 974 › Doha
-    22.00     Argentina v Mexico  2-0 (0-0)   @ Lusail Iconic Stadium › Lusail
+    13:00     Tunisia v Australia  0-1 (0-1)   @ Al Janoub Stadium › Al Wakrah
+    16:00     Poland v Saudi Arabia  2-0 (1-0)   @ Education City Stadium › Ar-Rayyan
+    19:00     France v Denmark  2-1 (0-0)   @ Stadium 974 › Doha
+    22:00     Argentina v Mexico  2-0 (0-0)   @ Lusail Iconic Stadium › Lusail
   Sun Nov 27
-    13.00     Japan v Costa Rica  0-1 (0-0)   @ Ahmad bin Ali Stadium › Al-Rayyan
-    16.00     Belgium v Morocco  0-2 (0-0)   @ Al Thumama Stadium › Doha
-    19.00     Croatia v Canada  4-1 (2-1)   @ Khalifa International Stadium › Ar-Rayyan
-    22.00     Spain v Germany  1-1 (0-0)   @ Al Bayt Stadium › Al Khor
+    13:00     Japan v Costa Rica  0-1 (0-0)   @ Ahmad bin Ali Stadium › Al-Rayyan
+    16:00     Belgium v Morocco  0-2 (0-0)   @ Al Thumama Stadium › Doha
+    19:00     Croatia v Canada  4-1 (2-1)   @ Khalifa International Stadium › Ar-Rayyan
+    22:00     Spain v Germany  1-1 (0-0)   @ Al Bayt Stadium › Al Khor
   Mon Nov 28
-    13.00     Cameroon v Serbia  3-3 (1-2)   @ Al Janoub Stadium › Al Wakrah
-    16.00     South Korea v Ghana  2-3 (0-2)   @ Education City Stadium › Ar-Rayyan
-    19.00     Brazil v Switzerland  1-0 (0-0)   @ Stadium 974 › Doha
-    22.00     Portugal v Uruguay  2-0 (0-0)   @ Lusail Iconic Stadium › Lusail
-» Group Stage - 3
+    13:00     Cameroon v Serbia  3-3 (1-2)   @ Al Janoub Stadium › Al Wakrah
+    16:00     South Korea v Ghana  2-3 (0-2)   @ Education City Stadium › Ar-Rayyan
+    19:00     Brazil v Switzerland  1-0 (0-0)   @ Stadium 974 › Doha
+    22:00     Portugal v Uruguay  2-0 (0-0)   @ Lusail Iconic Stadium › Lusail
+▪ Group Stage - 3
   Tue Nov 29
-    18.00     Netherlands v Qatar  2-0 (1-0)   @ Al Bayt Stadium › Al Khor
+    18:00     Netherlands v Qatar  2-0 (1-0)   @ Al Bayt Stadium › Al Khor
               Ecuador v Senegal  1-2 (0-1)   @ Khalifa International Stadium › Ar-Rayyan
-    22.00     Wales v England  0-3 (0-0)   @ Ahmad bin Ali Stadium › Al-Rayyan
+    22:00     Wales v England  0-3 (0-0)   @ Ahmad bin Ali Stadium › Al-Rayyan
               Iran v USA  0-1 (0-1)   @ Al Thumama Stadium › Doha
   Wed Nov 30
-    18.00     Tunisia v France  1-0 (0-0)   @ Education City Stadium › Ar-Rayyan
+    18:00     Tunisia v France  1-0 (0-0)   @ Education City Stadium › Ar-Rayyan
               Australia v Denmark  1-0 (0-0)   @ Al Janoub Stadium › Al Wakrah
-    22.00     Poland v Argentina  0-2 (0-0)   @ Stadium 974 › Doha
+    22:00     Poland v Argentina  0-2 (0-0)   @ Stadium 974 › Doha
               Saudi Arabia v Mexico  1-2 (0-0)   @ Lusail Iconic Stadium › Lusail
   Thu Dec 1
-    18.00     Croatia v Belgium  0-0 (0-0)   @ Ahmad bin Ali Stadium › Al-Rayyan
+    18:00     Croatia v Belgium  0-0 (0-0)   @ Ahmad bin Ali Stadium › Al-Rayyan
               Canada v Morocco  1-2 (1-2)   @ Al Thumama Stadium › Doha
-    22.00     Costa Rica v Germany  2-4 (0-1)   @ Al Bayt Stadium › Al Khor
+    22:00     Costa Rica v Germany  2-4 (0-1)   @ Al Bayt Stadium › Al Khor
               Japan v Spain  2-1 (0-1)   @ Khalifa International Stadium › Ar-Rayyan
   Fri Dec 2
-    18.00     Ghana v Uruguay  0-2 (0-2)   @ Al Janoub Stadium › Al Wakrah
+    18:00     Ghana v Uruguay  0-2 (0-2)   @ Al Janoub Stadium › Al Wakrah
               South Korea v Portugal  2-1 (1-1)   @ Education City Stadium › Ar-Rayyan
-    22.00     Cameroon v Brazil  1-0 (0-0)   @ Lusail Iconic Stadium › Lusail
+    22:00     Cameroon v Brazil  1-0 (0-0)   @ Lusail Iconic Stadium › Lusail
               Serbia v Switzerland  2-3 (2-2)   @ Stadium 974 › Doha
-» Round of 16
+▪ Round of 16
   Sat Dec 3
-    18.00     Netherlands v USA  3-1 (2-0)   @ Khalifa International Stadium › Ar-Rayyan
-    22.00     Argentina v Australia  2-1 (1-0)   @ Ahmad bin Ali Stadium › Al-Rayyan
+    18:00     Netherlands v USA  3-1 (2-0)   @ Khalifa International Stadium › Ar-Rayyan
+    22:00     Argentina v Australia  2-1 (1-0)   @ Ahmad bin Ali Stadium › Al-Rayyan
   Sun Dec 4
-    18.00     France v Poland  3-1 (1-0)   @ Al Thumama Stadium › Doha
-    22.00     England v Senegal  3-0 (2-0)   @ Al Bayt Stadium › Al Khor
+    18:00     France v Poland  3-1 (1-0)   @ Al Thumama Stadium › Doha
+    22:00     England v Senegal  3-0 (2-0)   @ Al Bayt Stadium › Al Khor
   Mon Dec 5
-    18.00     Japan v Croatia  1-3 pen (1-1, 1-1, 1-0)   @ Al Janoub Stadium › Al Wakrah
-    22.00     Brazil v South Korea  4-1 (4-0)   @ Stadium 974 › Doha
+    18:00     Japan v Croatia  1-3 pen (1-1, 1-1, 1-0)   @ Al Janoub Stadium › Al Wakrah
+    22:00     Brazil v South Korea  4-1 (4-0)   @ Stadium 974 › Doha
   Tue Dec 6
-    18.00     Morocco v Spain  3-0 pen (0-0, 0-0, 0-0)   @ Education City Stadium › Ar-Rayyan
-    22.00     Portugal v Switzerland  6-1 (2-0)   @ Lusail Iconic Stadium › Lusail
-» Quarter-finals
+    18:00     Morocco v Spain  3-0 pen (0-0, 0-0, 0-0)   @ Education City Stadium › Ar-Rayyan
+    22:00     Portugal v Switzerland  6-1 (2-0)   @ Lusail Iconic Stadium › Lusail
+▪ Quarter-finals
   Fri Dec 9
-    18.00     Croatia v Brazil  4-2 pen (1-1, 0-0, 0-0)   @ Education City Stadium › Ar-Rayyan
-    22.00     Netherlands v Argentina  3-4 pen (2-2, 2-2, 0-1)   @ Lusail Iconic Stadium › Lusail
+    18:00     Croatia v Brazil  4-2 pen (1-1, 0-0, 0-0)   @ Education City Stadium › Ar-Rayyan
+    22:00     Netherlands v Argentina  3-4 pen (2-2, 2-2, 0-1)   @ Lusail Iconic Stadium › Lusail
   Sat Dec 10
-    18.00     Morocco v Portugal  1-0 (1-0)   @ Al Thumama Stadium › Doha
-    22.00     England v France  1-2 (0-1)   @ Al Bayt Stadium › Al Khor
-» Semi-finals
+    18:00     Morocco v Portugal  1-0 (1-0)   @ Al Thumama Stadium › Doha
+    22:00     England v France  1-2 (0-1)   @ Al Bayt Stadium › Al Khor
+▪ Semi-finals
   Tue Dec 13
-    22.00     Argentina v Croatia  3-0 (2-0)   @ Lusail Iconic Stadium › Lusail
+    22:00     Argentina v Croatia  3-0 (2-0)   @ Lusail Iconic Stadium › Lusail
   Wed Dec 14
-    22.00     France v Morocco  2-0 (1-0)   @ Al Bayt Stadium › Al Khor
-» 3rd Place Final
+    22:00     France v Morocco  2-0 (1-0)   @ Al Bayt Stadium › Al Khor
+▪ 3rd Place Final
   Sat Dec 17
-    18.00     Croatia v Morocco  2-1 (2-1)   @ Khalifa International Stadium › Ar-Rayyan
-» Final
+    18:00     Croatia v Morocco  2-1 (2-1)   @ Khalifa International Stadium › Ar-Rayyan
+▪ Final
   Sun Dec 18
-    18.00     Argentina v France  4-2 pen (3-3, 2-2, 2-0)   @ Lusail Iconic Stadium › Lusail
+    18:00     Argentina v France  4-2 pen (3-3, 2-2, 2-0)   @ Lusail Iconic Stadium › Lusail

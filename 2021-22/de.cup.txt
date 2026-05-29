@@ -1,18 +1,18 @@
 = Germany | DFB Pokal 2021/22
 
-  # Date       Fri Aug/6 2021 - Sat May/21 2022 (288d)
+  # Date       Fri Aug 6 2021 - Sat May 21 2022 (288d)
   # Teams      64
   # Matches    63
 
   # Note - All times in Europe/Berlin
 
-» 1st Round
+▪ 1st Round
   Fri Aug 6 2021
-    20.45     TSV 1860 Munich v SV Darmstadt 98  5-4 pen (1-1, 1-1, 0-0)   @ Städtisches Stadion an der Grünwalder Straße › München
+    20:45     TSV 1860 Munich v SV Darmstadt 98  5-4 pen (1-1, 1-1, 0-0)   @ Städtisches Stadion an der Grünwalder Straße › München
   Fri Aug 6
-    20.45     Dynamo Dresden v SC Paderborn 07  2-1 (0-0)   @ Rudolf-Harbig-Stadion › Dresden
+    20:45     Dynamo Dresden v SC Paderborn 07  2-1 (0-0)   @ Rudolf-Harbig-Stadion › Dresden
   Sat Aug 7
-    15.30     SV Sandhausen v RB Leipzig  0-4 (0-2)   @ BWT-Stadion am Hardtwald › Sandhausen
+    15:30     SV Sandhausen v RB Leipzig  0-4 (0-2)   @ BWT-Stadion am Hardtwald › Sandhausen
               VfL Osnabruck v Werder Bremen  2-0 (1-0)   @ Bremer Brücke › Osnabrück
               Eintracht Norderstedt v Hannover 96  0-4 (0-2)   @ Edmund-Plambeck-Stadion › Norderstedt
               BFC Dynamo v VfB Stuttgart  0-6 (0-2)   @ Sportforum Hohenschönhausen › Berlin
@@ -21,12 +21,12 @@
               Lokomotive Leipzig v Bayer Leverkusen  0-3 (0-2)   @ Bruno-Plache-Stadion › Leipzig
               Wuppertaler SV v Vfl Bochum  1-2 aet (1-1, 1-0)   @ Stadion am Zoo › Wuppertal
               Greifswalder FC v FC Augsburg  2-4 (1-1)   @ Volksstadion Greifswald › Greifswald
-    18.30     SV Babelsberg 03 v SpVgg Greuther Furth  5-4 pen (2-2, 2-2, 1-1)   @ Karl-Liebknecht-Stadion › Potsdam
+    18:30     SV Babelsberg 03 v SpVgg Greuther Furth  5-4 pen (2-2, 2-2, 1-1)   @ Karl-Liebknecht-Stadion › Potsdam
               SSV ULM 1846 v FC Nurnberg  0-1 (0-0)   @ Donaustadion › Ulm
               FC Magdeburg v FC St. Pauli  2-3 (1-2)   @ MDCC-Arena › Magdeburg
-    20.45     SV Wehen v Borussia Dortmund  0-3 (0-2)   @ BRITA-Arena › Wiesbaden
+    20:45     SV Wehen v Borussia Dortmund  0-3 (0-2)   @ BRITA-Arena › Wiesbaden
   Sun Aug 8
-    15.30     Preussen Munster v VfL Wolfsburg  1-3 aet (1-1, 0-0)   @ Preußen-Stadion › Münster
+    15:30     Preussen Munster v VfL Wolfsburg  1-3 aet (1-1, 0-0)   @ Preußen-Stadion › Münster
               SV Meppen v Hertha Berlin  0-1 (0-0)   @ Hänsch-Arena › Meppen
               Carl Zeiss Jena v 1.FC Köln  2-4 pen (1-1, 1-1, 1-0)   @ Ernst-Abbe-Sportfeld › Jena
               FC 08 Villingen v FC Schalke 04  1-4 (1-1)   @ MS Technologie Arena › Villingen-Schwenningen
@@ -35,59 +35,59 @@
               Waldhof Mannheim v Eintracht Frankfurt  2-0 (0-0)   @ Carl-Benz-Stadion › Mannheim
               Türkgücü-Ataspor v Union Berlin  0-1 (0-1)   @ Städtisches Stadion an der Grünwalder Straße › München
               VfL Oldenburg v Fortuna Dusseldorf  0-5 (0-3)   @ Marschwegstadion › Oldenburg
-    18.30     FC Wurzburger Kickers v SC Freiburg  0-1 (0-1)   @ flyeralarm-Arena › Würzburg
+    18:30     FC Wurzburger Kickers v SC Freiburg  0-1 (0-1)   @ flyeralarm-Arena › Würzburg
               Hansa Rostock v FC Heidenheim  3-2 aet (1-1, 0-1)   @ Ostseestadion › Rostock
               Eintracht Braunschweig v Hamburger SV  1-2 (1-1)   @ Eintracht-Stadion › Braunschweig
   Mon Aug 9
-    18.30     Sportfreunde Lotte v Karlsruher SC  1-4 (0-1)   @ Stadion am Lotter Kreuz › Lotte
+    18:30     Sportfreunde Lotte v Karlsruher SC  1-4 (0-1)   @ Stadion am Lotter Kreuz › Lotte
               FC Viktoria Koln v 1899 Hoffenheim  2-3 aet (1-1, 1-1)   @ Sportpark Höhenberg › Köln
               FC Ingolstadt 04 v Erzgebirge AUE  2-1 (1-0)   @ Audi-Sportpark › Ingolstadt
-    20.45     FC Kaiserslautern v Borussia Monchengladbach  0-1 (0-1)   @ Fritz-Walter-Stadion › Kaiserslautern
+    20:45     FC Kaiserslautern v Borussia Monchengladbach  0-1 (0-1)   @ Fritz-Walter-Stadion › Kaiserslautern
   Wed Aug 25
-    20.15     Bremer Sv v Bayern Munich  0-12 (0-5)   @ wohninvest WESERSTADION › Bremen
-» 2nd Round
+    20:15     Bremer Sv v Bayern Munich  0-12 (0-5)   @ wohninvest WESERSTADION › Bremen
+▪ 2nd Round
   Tue Oct 26
-    18.30     TSV 1860 Munich v FC Schalke 04  1-0 (1-0)   @ Städtisches Stadion an der Grünwalder Straße › München
+    18:30     TSV 1860 Munich v FC Schalke 04  1-0 (1-0)   @ Städtisches Stadion an der Grünwalder Straße › München
               Preussen Munster v Hertha Berlin  1-3 (1-1)   @ Preußen-Stadion › Münster
               SV Babelsberg 03 v RB Leipzig  0-1 (0-1)   @ Karl-Liebknecht-Stadion › Potsdam
               1899 Hoffenheim v Holstein Kiel  5-1 (2-0)   @ PreZero Arena › Sinsheim
-    20.00     Borussia Dortmund v FC Ingolstadt 04  2-0 (0-0)   @ Signal-Iduna-Park › Dortmund
-    20.45     FSV Mainz 05 v Arminia Bielefeld  3-2 aet (2-2, 0-1)   @ MEWA ARENA › Mainz
+    20:00     Borussia Dortmund v FC Ingolstadt 04  2-0 (0-0)   @ Signal-Iduna-Park › Dortmund
+    20:45     FSV Mainz 05 v Arminia Bielefeld  3-2 aet (2-2, 0-1)   @ MEWA ARENA › Mainz
               FC Nurnberg v Hamburger SV  2-4 pen (1-1, 1-1, 0-1)   @ Max-Morlock-Stadion › Nürnberg
               VfL Osnabruck v SC Freiburg  2-3 pen (2-2, 1-1, 0-1)   @ Bremer Brücke › Osnabrück
   Wed Oct 27
-    18.30     Vfl Bochum v FC Augsburg  5-4 pen (2-2, 2-2, 1-0)   @ Vonovia Ruhrstadion › Bochum
+    18:30     Vfl Bochum v FC Augsburg  5-4 pen (2-2, 2-2, 1-0)   @ Vonovia Ruhrstadion › Bochum
               Dynamo Dresden v FC St. Pauli  2-3 aet (2-2, 0-0)   @ Rudolf-Harbig-Stadion › Dresden
               Waldhof Mannheim v Union Berlin  1-3 aet (1-1, 1-1)   @ Carl-Benz-Stadion › Mannheim
               Bayer Leverkusen v Karlsruher SC  1-2 (0-1)   @ BayArena › Leverkusen
-    20.45     Borussia Monchengladbach v Bayern Munich  5-0 (3-0)   @ Stadion im BORUSSIA-PARK › Mönchengladbach
+    20:45     Borussia Monchengladbach v Bayern Munich  5-0 (3-0)   @ Stadion im BORUSSIA-PARK › Mönchengladbach
               Hannover 96 v Fortuna Dusseldorf  3-0 (1-0)   @ HDI-Arena › Hannover
               VfB Stuttgart v 1.FC Köln  0-2 (0-0)   @ Mercedes-Benz-Arena › Stuttgart
               Jahn Regensburg v Hansa Rostock  2-4 pen (3-3, 2-2, 0-1)   @ Jahnstadion Regensburg › Regensburg
-» Round of 16
+▪ Round of 16
   Tue Jan 18 2022
-    18.30     TSV 1860 Munich v Karlsruher SC  0-1 (0-0)   @ Städtisches Stadion an der Grünwalder Straße › München
+    18:30     TSV 1860 Munich v Karlsruher SC  0-1 (0-0)   @ Städtisches Stadion an der Grünwalder Straße › München
   Tue Jan 18
-    18.30     1.FC Köln v Hamburger SV  3-4 pen (1-1, 0-0, 0-0)   @ RheinEnergieStadion › Köln
-    20.45     FC St. Pauli v Borussia Dortmund  2-1 (2-0)   @ Millerntor-Stadion › Hamburg
+    18:30     1.FC Köln v Hamburger SV  3-4 pen (1-1, 0-0, 0-0)   @ RheinEnergieStadion › Köln
+    20:45     FC St. Pauli v Borussia Dortmund  2-1 (2-0)   @ Millerntor-Stadion › Hamburg
               Vfl Bochum v FSV Mainz 05  3-1 (0-1)   @ Vonovia Ruhrstadion › Bochum
   Wed Jan 19
-    18.30     RB Leipzig v Hansa Rostock  2-0 (1-0)   @ Red Bull Arena › Leipzig
+    18:30     RB Leipzig v Hansa Rostock  2-0 (1-0)   @ Red Bull Arena › Leipzig
               Hannover 96 v Borussia Monchengladbach  3-0 (2-0)   @ HDI-Arena › Hannover
-    20.45     Hertha Berlin v Union Berlin  2-3 (0-1)   @ Olympiastadion Berlin › Berlin
+    20:45     Hertha Berlin v Union Berlin  2-3 (0-1)   @ Olympiastadion Berlin › Berlin
               1899 Hoffenheim v SC Freiburg  1-4 (0-2)   @ PreZero Arena › Sinsheim
-» Quarter-finals
+▪ Quarter-finals
   Tue Mar 1
-    20.45     Union Berlin v FC St. Pauli  2-1 (1-1)   @ Stadion An der Alten Försterei › Berlin
+    20:45     Union Berlin v FC St. Pauli  2-1 (1-1)   @ Stadion An der Alten Försterei › Berlin
   Wed Mar 2
-    18.30     Hamburger SV v Karlsruher SC  3-2 pen (2-2, 2-2, 0-1)   @ Volksparkstadion › Hamburg
+    18:30     Hamburger SV v Karlsruher SC  3-2 pen (2-2, 2-2, 0-1)   @ Volksparkstadion › Hamburg
               Hannover 96 v RB Leipzig  0-4 (0-2)   @ HDI-Arena › Hannover
-    20.45     Vfl Bochum v SC Freiburg  1-2 aet (1-1, 0-0)   @ Vonovia Ruhrstadion › Bochum
-» Semi-finals
+    20:45     Vfl Bochum v SC Freiburg  1-2 aet (1-1, 0-0)   @ Vonovia Ruhrstadion › Bochum
+▪ Semi-finals
   Tue Apr 19
-    20.45     Hamburger SV v SC Freiburg  1-3 (0-3)   @ Volksparkstadion › Hamburg
+    20:45     Hamburger SV v SC Freiburg  1-3 (0-3)   @ Volksparkstadion › Hamburg
   Wed Apr 20
-    20.45     RB Leipzig v Union Berlin  2-1 (0-1)   @ Red Bull Arena › Leipzig
-» Final
+    20:45     RB Leipzig v Union Berlin  2-1 (0-1)   @ Red Bull Arena › Leipzig
+▪ Final
   Sat May 21
-    20.00     SC Freiburg v RB Leipzig  2-4 pen (1-1, 1-1, 1-0)   @ Olympiastadion Berlin › Berlin
+    20:00     SC Freiburg v RB Leipzig  2-4 pen (1-1, 1-1, 1-0)   @ Olympiastadion Berlin › Berlin

@@ -1,96 +1,96 @@
 = Germany | DFB Pokal 2022/23
 
-  # Date       Fri Jul/29 2022 - Sat Jun/3 2023 (309d)
+  # Date       Fri Jul 29 2022 - Sat Jun 3 2023 (309d)
   # Teams      64
   # Matches    63
 
   # Note - All times in Europe/Berlin
 
-» 1st Round
+▪ 1st Round
   Fri Jul 29 2022
-    18.00     Kaan-Marienborn v FC Nurnberg  0-2 (0-1)   @ Leimbachstadion › Siegen
+    18:00     Kaan-Marienborn v FC Nurnberg  0-2 (0-1)   @ Leimbachstadion › Siegen
   Fri Jul 29
-    18.00     Neustrelitz v Karlsruher SC  0-8 (0-3)   @ Parkstadion › Neustrelitz
+    18:00     Neustrelitz v Karlsruher SC  0-8 (0-3)   @ Parkstadion › Neustrelitz
               Dynamo Dresden v VfB Stuttgart  0-1 (0-1)   @ Rudolf-Harbig-Stadion › Dresden
-    20.45     TSV 1860 Munich v Borussia Dortmund  0-3 (0-3)   @ Städtisches Stadion an der Grünwalder Straße › München
+    20:45     TSV 1860 Munich v Borussia Dortmund  0-3 (0-3)   @ Städtisches Stadion an der Grünwalder Straße › München
   Sat Jul 30
-    13.01     Straelen v FC St. Pauli  3-4 (2-2)   @ Schauinsland-Reisen-Arena › Duisburg
+    13:01     Straelen v FC St. Pauli  3-4 (2-2)   @ Schauinsland-Reisen-Arena › Duisburg
               Viktoria Berlin v Vfl Bochum  0-3 (0-2)   @ Friedrich-Ludwig-Jahn-Sportpark › Berlin
-    15.31     Jahn Regensburg v 1.FC Köln  4-3 pen (2-2, 2-2, 2-1)   @ Jahnstadion Regensburg › Regensburg
+    15:31     Jahn Regensburg v 1.FC Köln  4-3 pen (2-2, 2-2, 2-1)   @ Jahnstadion Regensburg › Regensburg
               VfB Lubeck v Hansa Rostock  1-0 (0-0)   @ Dietmar-Scholze-Stadion an der Lohmühle › Lübeck
               SV Elversberg v Bayer Leverkusen  4-3 (3-2)   @ URSAPHARM-Arena an der Kaiserlinde › Spiesen-Elversberg
               Bayreuth v Hamburger SV  1-3 aet (1-1, 1-0)   @ Hans-Walter-Wild-Stadion › Bayreuth
               Illertissen v FC Heidenheim  0-2 (0-0)   @ Vöhlin-Stadion › Illertissen
               Einheit Wernigerode v SC Paderborn 07  0-10 (0-3)   @ Stadion im Sportforum Kohlgarten › Wernigerode
-    18.01     Kickers Offenbach v Fortuna Dusseldorf  1-4 (0-1)   @ Sparda-Bank-Hessen-Stadion › Offenbach
+    18:01     Kickers Offenbach v Fortuna Dusseldorf  1-4 (0-1)   @ Sparda-Bank-Hessen-Stadion › Offenbach
               Stuttgarter Kickers v SpVgg Greuther Furth  2-0 (1-0)   @ GAZİ-Stadion auf der Waldau › Stuttgart
               Carl Zeiss Jena v VfL Wolfsburg  0-1 (0-0)   @ Ernst-Abbe-Sportfeld › Jena
   Sun Jul 31
-    13.01     Bremer Sv v FC Schalke 04  0-5 (0-4)   @ Marschwegstadion › Oldenburg
+    13:01     Bremer Sv v FC Schalke 04  0-5 (0-4)   @ Marschwegstadion › Oldenburg
               Schwarz-Weiß Rehden v SV Sandhausen  0-4 (0-3)   @ Sportplatz Waldsportstätten › Rehden
-    15.31     SV Rodinghausen v 1899 Hoffenheim  0-2 (0-0)   @ Häcker Wiehenstadion › Rödinghausen
+    15:31     SV Rodinghausen v 1899 Hoffenheim  0-2 (0-0)   @ Häcker Wiehenstadion › Rödinghausen
               FV Engers 07 v Arminia Bielefeld  1-7 (0-2)   @ Stadion Oberwerth › Koblenz
               Oberachern v Borussia Monchengladbach  1-9 (0-6)   @ Dreisamstadion › Freiburg im Breisgau
               Schott Mainz v Hannover 96  0-3 (0-2)   @ Stadion am Bruchweg › Mainz
               BW Lohne v FC Augsburg  0-4 (0-0)   @ Heinz-Dettmer-Stadion › Lohne
               FC Kaiserslautern v SC Freiburg  1-2 aet (1-1, 1-0)   @ Fritz-Walter-Stadion › Kaiserslautern
-    18.01     Erzgebirge AUE v FSV Mainz 05  0-3 (0-1)   @ Erzgebirgsstadion › Aue
+    18:01     Erzgebirge AUE v FSV Mainz 05  0-3 (0-1)   @ Erzgebirgsstadion › Aue
               Eintracht Braunschweig v Hertha Berlin  6-5 pen (4-4, 2-2, 0-2)   @ Eintracht-Stadion › Braunschweig
               Waldhof Mannheim v Holstein Kiel  5-3 pen (0-0, 0-0, 0-0)   @ Carl-Benz-Stadion › Mannheim
   Mon Aug 1
-    18.01     Energie Cottbus v Werder Bremen  1-2 (0-1)   @ Stadion der Freundschaft › Cottbus
+    18:01     Energie Cottbus v Werder Bremen  1-2 (0-1)   @ Stadion der Freundschaft › Cottbus
               Chemnitzer FC v Union Berlin  1-2 aet (1-1, 0-0)   @ Stadion Chemnitz › Chemnitz
               FC Ingolstadt 04 v SV Darmstadt 98  0-3 (0-2)   @ Audi-Sportpark › Ingolstadt
-    20.46     FC Magdeburg v Eintracht Frankfurt  0-4 (0-2)   @ MDCC-Arena › Magdeburg
+    20:46     FC Magdeburg v Eintracht Frankfurt  0-4 (0-2)   @ MDCC-Arena › Magdeburg
   Tue Aug 30
-    20.46     Teutonia Ottensen v RB Leipzig  0-8 (0-4)   @ Red Bull Arena › Leipzig
+    20:46     Teutonia Ottensen v RB Leipzig  0-8 (0-4)   @ Red Bull Arena › Leipzig
   Wed Aug 31
-    20.46     FC Viktoria Koln v Bayern Munich  0-5 (0-2)   @ RheinEnergieStadion › Köln
-» 2nd Round
+    20:46     FC Viktoria Koln v Bayern Munich  0-5 (0-2)   @ RheinEnergieStadion › Köln
+▪ 2nd Round
   Tue Oct 18
-    18.00     VfB Lubeck v FSV Mainz 05  0-3 (0-2)   @ Dietmar-Scholze-Stadion an der Lohmühle › Lübeck
+    18:00     VfB Lubeck v FSV Mainz 05  0-3 (0-2)   @ Dietmar-Scholze-Stadion an der Lohmühle › Lübeck
               Waldhof Mannheim v FC Nurnberg  0-1 (0-0)   @ Carl-Benz-Stadion › Mannheim
               Stuttgarter Kickers v Eintracht Frankfurt  0-2 (0-2)   @ GAZİ-Stadion auf der Waldau › Stuttgart
               RB Leipzig v Hamburger SV  4-0 (2-0)   @ Red Bull Arena › Leipzig
-    20.45     1899 Hoffenheim v FC Schalke 04  5-1 (3-0)   @ PreZero Arena › Sinsheim
+    20:45     1899 Hoffenheim v FC Schalke 04  5-1 (3-0)   @ PreZero Arena › Sinsheim
               SV Darmstadt 98 v Borussia Monchengladbach  2-1 (1-0)   @ Merck-Stadion am Böllenfalltor › Darmstadt
               Eintracht Braunschweig v VfL Wolfsburg  1-2 (1-1)   @ Eintracht-Stadion › Braunschweig
               SV Elversberg v Vfl Bochum  0-1 (0-0)   @ URSAPHARM-Arena an der Kaiserlinde › Spiesen-Elversberg
   Wed Oct 19
-    18.00     Hannover 96 v Borussia Dortmund  0-2 (0-1)   @ Heinz von Heiden-Arena › Hannover
+    18:00     Hannover 96 v Borussia Dortmund  0-2 (0-1)   @ Heinz von Heiden-Arena › Hannover
               SC Paderborn 07 v Werder Bremen  5-4 pen (2-2, 2-2, 2-0)   @ Home Deluxe Arena › Paderborn
               SV Sandhausen v Karlsruher SC  8-7 pen (2-2, 2-2, 2-0)   @ BWT-Stadion am Hardtwald › Sandhausen
               SC Freiburg v FC St. Pauli  2-1 aet (1-1, 0-1)   @ Europa-Park Stadion › Freiburg im Breisgau
-    20.45     FC Augsburg v Bayern Munich  2-5 (1-1)   @ WWK Arena › Augsburg
+    20:45     FC Augsburg v Bayern Munich  2-5 (1-1)   @ WWK Arena › Augsburg
               VfB Stuttgart v Arminia Bielefeld  6-0 (4-0)   @ Mercedes-Benz-Arena › Stuttgart
               Jahn Regensburg v Fortuna Dusseldorf  0-3 (0-3)   @ Jahnstadion Regensburg › Regensburg
               Union Berlin v FC Heidenheim  2-0 (1-0)   @ Stadion An der Alten Försterei › Berlin
-» Round of 16
+▪ Round of 16
   Tue Jan 31 2023
-    18.00     SC Paderborn 07 v VfB Stuttgart  1-2 (1-0)   @ Home Deluxe Arena › Paderborn
+    18:00     SC Paderborn 07 v VfB Stuttgart  1-2 (1-0)   @ Home Deluxe Arena › Paderborn
   Tue Jan 31
-    20.45     Union Berlin v VfL Wolfsburg  2-1 (1-1)   @ Stadion An der Alten Försterei › Berlin
+    20:45     Union Berlin v VfL Wolfsburg  2-1 (1-1)   @ Stadion An der Alten Försterei › Berlin
   Wed Feb 1
-    18.00     RB Leipzig v 1899 Hoffenheim  3-1 (2-0)   @ Red Bull Arena › Leipzig
-    20.45     FSV Mainz 05 v Bayern Munich  0-4 (0-3)   @ MEWA ARENA › Mainz
+    18:00     RB Leipzig v 1899 Hoffenheim  3-1 (2-0)   @ Red Bull Arena › Leipzig
+    20:45     FSV Mainz 05 v Bayern Munich  0-4 (0-3)   @ MEWA ARENA › Mainz
   Tue Feb 7
-    18.00     SV Sandhausen v SC Freiburg  0-2 (0-0)   @ BWT-Stadion am Hardtwald › Sandhausen
-    20.45     Eintracht Frankfurt v SV Darmstadt 98  4-2 (2-2)   @ Deutsche Bank Park › Frankfurt am Main
+    18:00     SV Sandhausen v SC Freiburg  0-2 (0-0)   @ BWT-Stadion am Hardtwald › Sandhausen
+    20:45     Eintracht Frankfurt v SV Darmstadt 98  4-2 (2-2)   @ Deutsche Bank Park › Frankfurt am Main
   Wed Feb 8
-    18.00     FC Nurnberg v Fortuna Dusseldorf  5-3 pen (1-1, 1-1, 0-1)   @ Max-Morlock-Stadion › Nürnberg
-    20.45     Vfl Bochum v Borussia Dortmund  1-2 (0-1)   @ Vonovia Ruhrstadion › Bochum
-» Quarter-finals
+    18:00     FC Nurnberg v Fortuna Dusseldorf  5-3 pen (1-1, 1-1, 0-1)   @ Max-Morlock-Stadion › Nürnberg
+    20:45     Vfl Bochum v Borussia Dortmund  1-2 (0-1)   @ Vonovia Ruhrstadion › Bochum
+▪ Quarter-finals
   Tue Apr 4
-    18.00     Eintracht Frankfurt v Union Berlin  2-0 (2-0)   @ Deutsche Bank Park › Frankfurt am Main
-    20.45     Bayern Munich v SC Freiburg  1-2 (1-1)   @ Allianz Arena › München
+    18:00     Eintracht Frankfurt v Union Berlin  2-0 (2-0)   @ Deutsche Bank Park › Frankfurt am Main
+    20:45     Bayern Munich v SC Freiburg  1-2 (1-1)   @ Allianz Arena › München
   Wed Apr 5
-    18.00     FC Nurnberg v VfB Stuttgart  0-1 (0-0)   @ Max-Morlock-Stadion › Nürnberg
-    20.45     RB Leipzig v Borussia Dortmund  2-0 (1-0)   @ Red Bull Arena › Leipzig
-» Semi-finals
+    18:00     FC Nurnberg v VfB Stuttgart  0-1 (0-0)   @ Max-Morlock-Stadion › Nürnberg
+    20:45     RB Leipzig v Borussia Dortmund  2-0 (1-0)   @ Red Bull Arena › Leipzig
+▪ Semi-finals
   Tue May 2
-    20.45     SC Freiburg v RB Leipzig  1-5 (0-4)   @ Europa-Park Stadion › Freiburg im Breisgau
+    20:45     SC Freiburg v RB Leipzig  1-5 (0-4)   @ Europa-Park Stadion › Freiburg im Breisgau
   Wed May 3
-    20.45     VfB Stuttgart v Eintracht Frankfurt  2-3 (1-0)   @ Mercedes-Benz-Arena › Stuttgart
-» Final
+    20:45     VfB Stuttgart v Eintracht Frankfurt  2-3 (1-0)   @ Mercedes-Benz-Arena › Stuttgart
+▪ Final
   Sat Jun 3
-    20.00     RB Leipzig v Eintracht Frankfurt  2-0 (0-0)   @ Olympiastadion Berlin › Berlin
+    20:00     RB Leipzig v Eintracht Frankfurt  2-0 (0-0)   @ Olympiastadion Berlin › Berlin

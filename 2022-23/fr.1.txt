@@ -1,511 +1,511 @@
 = France | Ligue 1 2022/23
 
-  # Date       Fri Aug/5 2022 - Sat Jun/3 2023 (302d)
+  # Date       Fri Aug 5 2022 - Sat Jun 3 2023 (302d)
   # Teams      20
   # Matches    380
 
   # Note - All times in Europe/Paris
 
-» Regular Season - 1
+▪ Regular Season - 1
   Fri Aug 5 2022
-    21.00     Lyon v Ajaccio  2-1 (2-1)   @ Groupama Stadium › Décines-Charpieu
+    21:00     Lyon v Ajaccio  2-1 (2-1)   @ Groupama Stadium › Décines-Charpieu
   Sat Aug 6
-    17.00     Strasbourg v Monaco  1-2 (0-1)   @ Stade de la Meinau › Strasbourg
-    21.00     Clermont Foot v Paris Saint Germain  0-5 (0-3)   @ Stade Gabriel Montpied › Clermont-Ferrand
+    17:00     Strasbourg v Monaco  1-2 (0-1)   @ Stade de la Meinau › Strasbourg
+    21:00     Clermont Foot v Paris Saint Germain  0-5 (0-3)   @ Stade Gabriel Montpied › Clermont-Ferrand
   Sun Aug 7
-    13.00     Toulouse v Nice  1-1 (1-0)   @ Stadium de Toulouse › Toulouse
-    15.00     Angers v Nantes  0-0 (0-0)   @ Stade Raymond-Kopa › Angers
+    13:00     Toulouse v Nice  1-1 (1-0)   @ Stadium de Toulouse › Toulouse
+    15:00     Angers v Nantes  0-0 (0-0)   @ Stade Raymond-Kopa › Angers
               Lille v Auxerre  4-1 (3-0)   @ Stade Pierre-Mauroy › Villeneuve d'Ascq
               Montpellier v Estac Troyes  3-2 (2-2)   @ Stade de la Mosson › Montpellier
               Lens v Stade Brestois 29  3-2 (1-0)   @ Stade Bollaert-Delelis › Lens
-    17.05     Rennes v Lorient  0-1 (0-0)   @ Roazhon Park › Rennes
-    20.45     Marseille v Reims  4-1 (2-0)   @ Stade Orange Vélodrome › Marseille
-» Regular Season - 2
+    17:05     Rennes v Lorient  0-1 (0-0)   @ Roazhon Park › Rennes
+    20:45     Marseille v Reims  4-1 (2-0)   @ Stade Orange Vélodrome › Marseille
+▪ Regular Season - 2
   Fri Aug 12
-    21.00     Nantes v Lille  1-1 (1-0)   @ Stade de la Beaujoire-Louis Fonteneau › Nantes
+    21:00     Nantes v Lille  1-1 (1-0)   @ Stade de la Beaujoire-Louis Fonteneau › Nantes
   Sat Aug 13
-    17.00     Monaco v Rennes  1-1 (0-0)   @ Stade Louis II › Monaco
-    21.00     Paris Saint Germain v Montpellier  5-2 (2-0)   @ Parc des Princes › Paris
+    17:00     Monaco v Rennes  1-1 (0-0)   @ Stade Louis II › Monaco
+    21:00     Paris Saint Germain v Montpellier  5-2 (2-0)   @ Parc des Princes › Paris
   Sun Aug 14
-    15.00     Ajaccio v Lens  0-0 (0-0)   @ Stade François Coty › Ajaccio
+    15:00     Ajaccio v Lens  0-0 (0-0)   @ Stade François Coty › Ajaccio
               Auxerre v Angers  2-2 (2-1)   @ Stade de l'Abbé Deschamps › Auxerre
               Estac Troyes v Toulouse  0-3 (0-1)   @ Stade de l'Aube › Troyes
               Reims v Clermont Foot  2-4 (2-0)   @ Stade Auguste-Delaune II › Reims
-    17.05     Nice v Strasbourg  1-1 (1-0)   @ Allianz Riviera › Nice
-    20.45     Stade Brestois 29 v Marseille  1-1 (0-1)   @ Stade Francis-Le Blé › Brest
-» Regular Season - 3
+    17:05     Nice v Strasbourg  1-1 (1-0)   @ Allianz Riviera › Nice
+    20:45     Stade Brestois 29 v Marseille  1-1 (0-1)   @ Stade Francis-Le Blé › Brest
+▪ Regular Season - 3
   Fri Aug 19
-    21.00     Lyon v Estac Troyes  4-1 (1-1)   @ Groupama Stadium › Décines-Charpieu
+    21:00     Lyon v Estac Troyes  4-1 (1-1)   @ Groupama Stadium › Décines-Charpieu
   Sat Aug 20
-    17.00     Monaco v Lens  1-4 (1-2)   @ Stade Louis II › Monaco
-    21.00     Marseille v Nantes  2-1 (0-0)   @ Stade Orange Vélodrome › Marseille
+    17:00     Monaco v Lens  1-4 (1-2)   @ Stade Louis II › Monaco
+    21:00     Marseille v Nantes  2-1 (0-0)   @ Stade Orange Vélodrome › Marseille
   Sun Aug 21
-    13.00     Strasbourg v Reims  1-1 (1-0)   @ Stade de la Meinau › Strasbourg
-    15.00     Montpellier v Auxerre  1-2 (1-0)   @ Stade de la Mosson › Montpellier
+    13:00     Strasbourg v Reims  1-1 (1-0)   @ Stade de la Meinau › Strasbourg
+    15:00     Montpellier v Auxerre  1-2 (1-0)   @ Stade de la Mosson › Montpellier
               Toulouse v Lorient  2-2 (1-1)   @ Stadium de Toulouse › Toulouse
               Clermont Foot v Nice  1-0 (1-0)   @ Stade Gabriel Montpied › Clermont-Ferrand
               Angers v Stade Brestois 29  1-3 (0-2)   @ Stade Raymond-Kopa › Angers
-    17.05     Rennes v Ajaccio  2-1 (1-0)   @ Roazhon Park › Rennes
-    20.45     Lille v Paris Saint Germain  1-7 (0-4)   @ Stade Pierre-Mauroy › Villeneuve d'Ascq
-» Regular Season - 4
+    17:05     Rennes v Ajaccio  2-1 (1-0)   @ Roazhon Park › Rennes
+    20:45     Lille v Paris Saint Germain  1-7 (0-4)   @ Stade Pierre-Mauroy › Villeneuve d'Ascq
+▪ Regular Season - 4
   Fri Aug 26
-    21.00     Ajaccio v Lille  1-3 (0-2)   @ Stade François Coty › Ajaccio
+    21:00     Ajaccio v Lille  1-3 (0-2)   @ Stade François Coty › Ajaccio
   Sat Aug 27
-    17.00     Auxerre v Strasbourg  1-0 (1-0)   @ Stade de l'Abbé Deschamps › Auxerre
-    21.00     Lens v Rennes  2-1 (0-0)   @ Stade Bollaert-Delelis › Lens
+    17:00     Auxerre v Strasbourg  1-0 (1-0)   @ Stade de l'Abbé Deschamps › Auxerre
+    21:00     Lens v Rennes  2-1 (0-0)   @ Stade Bollaert-Delelis › Lens
   Sun Aug 28
-    13.00     Nantes v Toulouse  3-1 (0-1)   @ Stade de la Beaujoire-Louis Fonteneau › Nantes
-    15.00     Nice v Marseille  0-3 (0-3)   @ Allianz Riviera › Nice
+    13:00     Nantes v Toulouse  3-1 (0-1)   @ Stade de la Beaujoire-Louis Fonteneau › Nantes
+    15:00     Nice v Marseille  0-3 (0-3)   @ Allianz Riviera › Nice
               Lorient v Clermont Foot  2-1 (2-0)   @ Stade Yves Allainmat-Le Moustoir › Lorient
               Stade Brestois 29 v Montpellier  0-7 (0-5)   @ Stade Francis-Le Blé › Brest
               Estac Troyes v Angers  3-1 (1-0)   @ Stade de l'Aube › Troyes
-    17.05     Reims v Lyon  1-1 (1-0)   @ Stade Auguste-Delaune II › Reims
-    20.45     Paris Saint Germain v Monaco  1-1 (0-1)   @ Parc des Princes › Paris
-» Regular Season - 5
+    17:05     Reims v Lyon  1-1 (1-0)   @ Stade Auguste-Delaune II › Reims
+    20:45     Paris Saint Germain v Monaco  1-1 (0-1)   @ Parc des Princes › Paris
+▪ Regular Season - 5
   Wed Aug 31
-    19.00     Lyon v Auxerre  2-1 (1-0)   @ Groupama Stadium › Décines-Charpieu
+    19:00     Lyon v Auxerre  2-1 (1-0)   @ Groupama Stadium › Décines-Charpieu
               Montpellier v Ajaccio  2-0 (1-0)   @ Stade de la Mosson › Montpellier
               Monaco v Estac Troyes  2-4 (1-2)   @ Stade Louis II › Monaco
               Strasbourg v Nantes  1-1 (1-0)   @ Stade de la Meinau › Strasbourg
               Angers v Reims  2-4 (0-2)   @ Stade Raymond-Kopa › Angers
-    21.00     Lille v Nice  1-2 (1-2)   @ Decathlon Arena-Stade Pierre-Mauroy › Villeneuve d'Ascq
+    21:00     Lille v Nice  1-2 (1-2)   @ Decathlon Arena-Stade Pierre-Mauroy › Villeneuve d'Ascq
               Marseille v Clermont Foot  1-0 (0-0)   @ Stade Orange Vélodrome › Marseille
               Rennes v Stade Brestois 29  3-1 (0-0)   @ Roazhon Park › Rennes
               Toulouse v Paris Saint Germain  0-3 (0-1)   @ Stadium de Toulouse › Toulouse
               Lens v Lorient  5-2 (2-1)   @ Stade Bollaert-Delelis › Lens
-» Regular Season - 6
+▪ Regular Season - 6
   Sat Sep 3
-    17.00     Auxerre v Marseille  0-2 (0-1)   @ Stade de l'Abbé Deschamps › Auxerre
-    19.00     Lyon v Angers  5-0 (2-0)   @ Groupama Stadium › Décines-Charpieu
-    21.00     Nantes v Paris Saint Germain  0-3 (0-1)   @ Stade de la Beaujoire-Louis Fonteneau › Nantes
+    17:00     Auxerre v Marseille  0-2 (0-1)   @ Stade de l'Abbé Deschamps › Auxerre
+    19:00     Lyon v Angers  5-0 (2-0)   @ Groupama Stadium › Décines-Charpieu
+    21:00     Nantes v Paris Saint Germain  0-3 (0-1)   @ Stade de la Beaujoire-Louis Fonteneau › Nantes
   Sun Sep 4
-    13.00     Montpellier v Lille  1-3 (1-1)   @ Stade de la Mosson › Montpellier
-    15.00     Reims v Lens  1-1 (0-0)   @ Stade Auguste-Delaune II › Reims
+    13:00     Montpellier v Lille  1-3 (1-1)   @ Stade de la Mosson › Montpellier
+    15:00     Reims v Lens  1-1 (0-0)   @ Stade Auguste-Delaune II › Reims
               Ajaccio v Lorient  0-1 (0-0)   @ Stade François Coty › Ajaccio
               Clermont Foot v Toulouse  2-0 (0-0)   @ Stade Gabriel Montpied › Clermont-Ferrand
               Stade Brestois 29 v Strasbourg  1-1 (1-1)   @ Stade Francis-Le Blé › Brest
-    17.05     Estac Troyes v Rennes  1-1 (1-0)   @ Stade de l'Aube › Troyes
-    20.45     Nice v Monaco  0-1 (0-0)   @ Allianz Riviera › Nice
-» Regular Season - 2
+    17:05     Estac Troyes v Rennes  1-1 (1-0)   @ Stade de l'Aube › Troyes
+    20:45     Nice v Monaco  0-1 (0-0)   @ Allianz Riviera › Nice
+▪ Regular Season - 2
   Wed Sep 7
-    19.00     Lorient v Lyon  3-1 (2-1)   @ Stade Yves Allainmat-Le Moustoir › Lorient
-» Regular Season - 7
+    19:00     Lorient v Lyon  3-1 (2-1)   @ Stade Yves Allainmat-Le Moustoir › Lorient
+▪ Regular Season - 7
   Fri Sep 9
-    21.00     Lens v Estac Troyes  1-0 (1-0)   @ Stade Bollaert-Delelis › Lens
+    21:00     Lens v Estac Troyes  1-0 (1-0)   @ Stade Bollaert-Delelis › Lens
   Sat Sep 10
-    17.00     Paris Saint Germain v Stade Brestois 29  1-0 (1-0)   @ Parc des Princes › Paris
-    21.00     Marseille v Lille  2-1 (1-1)   @ Stade Orange Vélodrome › Marseille
+    17:00     Paris Saint Germain v Stade Brestois 29  1-0 (1-0)   @ Parc des Princes › Paris
+    21:00     Marseille v Lille  2-1 (1-1)   @ Stade Orange Vélodrome › Marseille
   Sun Sep 11
-    13.00     Strasbourg v Clermont Foot  0-0 (0-0)   @ Stade de la Meinau › Strasbourg
-    15.00     Angers v Montpellier  2-1 (1-1)   @ Stade Raymond-Kopa › Angers
+    13:00     Strasbourg v Clermont Foot  0-0 (0-0)   @ Stade de la Meinau › Strasbourg
+    15:00     Angers v Montpellier  2-1 (1-1)   @ Stade Raymond-Kopa › Angers
               Toulouse v Reims  1-0 (1-0)   @ Stadium de Toulouse › Toulouse
               Lorient v Nantes  3-2 (1-1)   @ Stade Yves Allainmat-Le Moustoir › Lorient
               Ajaccio v Nice  0-1 (0-0)   @ Stade François Coty › Ajaccio
-    17.05     Rennes v Auxerre  5-0 (1-0)   @ Roazhon Park › Rennes
-    20.45     Monaco v Lyon  2-1 (0-0)   @ Stade Louis II › Monaco
-» Regular Season - 8
+    17:05     Rennes v Auxerre  5-0 (1-0)   @ Roazhon Park › Rennes
+    20:45     Monaco v Lyon  2-1 (0-0)   @ Stade Louis II › Monaco
+▪ Regular Season - 8
   Fri Sep 16
-    21.00     Auxerre v Lorient  1-3 (0-3)   @ Stade de l'Abbé Deschamps › Auxerre
+    21:00     Auxerre v Lorient  1-3 (0-3)   @ Stade de l'Abbé Deschamps › Auxerre
   Sat Sep 17
-    17.00     Montpellier v Strasbourg  2-1 (1-0)   @ Stade de la Mosson › Montpellier
-    21.00     Lille v Toulouse  2-1 (1-0)   @ Decathlon Arena-Stade Pierre-Mauroy › Villeneuve d'Ascq
+    17:00     Montpellier v Strasbourg  2-1 (1-0)   @ Stade de la Mosson › Montpellier
+    21:00     Lille v Toulouse  2-1 (1-0)   @ Decathlon Arena-Stade Pierre-Mauroy › Villeneuve d'Ascq
   Sun Sep 18
-    13.00     Reims v Monaco  0-3 (0-0)   @ Stade Auguste-Delaune II › Reims
-    15.00     Marseille v Rennes  1-1 (0-1)   @ Stade Orange Vélodrome › Marseille
+    13:00     Reims v Monaco  0-3 (0-0)   @ Stade Auguste-Delaune II › Reims
+    15:00     Marseille v Rennes  1-1 (0-1)   @ Stade Orange Vélodrome › Marseille
               Nice v Angers  0-1 (0-1)   @ Allianz Riviera › Nice
               Clermont Foot v Estac Troyes  1-3 (1-1)   @ Stade Gabriel Montpied › Clermont-Ferrand
               Stade Brestois 29 v Ajaccio  0-1 (0-0)   @ Stade Francis-Le Blé › Brest
-    17.05     Nantes v Lens  0-0 (0-0)   @ Stade de la Beaujoire-Louis Fonteneau › Nantes
-    20.45     Lyon v Paris Saint Germain  0-1 (0-1)   @ Groupama Stadium › Décines-Charpieu
-» Regular Season - 9
+    17:05     Nantes v Lens  0-0 (0-0)   @ Stade de la Beaujoire-Louis Fonteneau › Nantes
+    20:45     Lyon v Paris Saint Germain  0-1 (0-1)   @ Groupama Stadium › Décines-Charpieu
+▪ Regular Season - 9
   Fri Sep 30
-    21.00     Angers v Marseille  0-3 (0-1)   @ Stade Raymond-Kopa › Angers
+    21:00     Angers v Marseille  0-3 (0-1)   @ Stade Raymond-Kopa › Angers
   Sat Oct 1
-    17.00     Strasbourg v Rennes  1-3 (0-1)   @ Stade de la Meinau › Strasbourg
-    21.00     Paris Saint Germain v Nice  2-1 (1-0)   @ Parc des Princes › Paris
+    17:00     Strasbourg v Rennes  1-3 (0-1)   @ Stade de la Meinau › Strasbourg
+    21:00     Paris Saint Germain v Nice  2-1 (1-0)   @ Parc des Princes › Paris
   Sun Oct 2
-    13.00     Lorient v Lille  2-1 (1-0)   @ Stade Yves Allainmat-Le Moustoir › Lorient
-    15.00     Ajaccio v Clermont Foot  1-3 (0-1)   @ Stade François Coty › Ajaccio
+    13:00     Lorient v Lille  2-1 (1-0)   @ Stade Yves Allainmat-Le Moustoir › Lorient
+    15:00     Ajaccio v Clermont Foot  1-3 (0-1)   @ Stade François Coty › Ajaccio
               Auxerre v Stade Brestois 29  1-1 (0-0)   @ Stade de l'Abbé Deschamps › Auxerre
               Estac Troyes v Reims  2-2 (0-1)   @ Stade de l'Aube › Troyes
               Toulouse v Montpellier  4-2 (3-1)   @ Stadium de Toulouse › Toulouse
-    17.05     Monaco v Nantes  4-1 (3-0)   @ Stade Louis II › Monaco
-    20.45     Lens v Lyon  1-0 (0-0)   @ Stade Bollaert-Delelis › Lens
-» Regular Season - 10
+    17:05     Monaco v Nantes  4-1 (3-0)   @ Stade Louis II › Monaco
+    20:45     Lens v Lyon  1-0 (0-0)   @ Stade Bollaert-Delelis › Lens
+▪ Regular Season - 10
   Fri Oct 7
-    21.00     Lyon v Toulouse  1-1 (1-0)   @ Groupama Stadium › Décines-Charpieu
+    21:00     Lyon v Toulouse  1-1 (1-0)   @ Groupama Stadium › Décines-Charpieu
   Sat Oct 8
-    17.00     Marseille v Ajaccio  1-2 (1-1)   @ Stade Orange Vélodrome › Marseille
-    21.00     Reims v Paris Saint Germain  0-0 (0-0)   @ Stade Auguste-Delaune II › Reims
+    17:00     Marseille v Ajaccio  1-2 (1-1)   @ Stade Orange Vélodrome › Marseille
+    21:00     Reims v Paris Saint Germain  0-0 (0-0)   @ Stade Auguste-Delaune II › Reims
   Sun Oct 9
-    13.00     Montpellier v Monaco  0-2 (0-1)   @ Stade de la Mosson › Montpellier
-    15.00     Angers v Strasbourg  2-3 (1-2)   @ Stade Raymond-Kopa › Angers
+    13:00     Montpellier v Monaco  0-2 (0-1)   @ Stade de la Mosson › Montpellier
+    15:00     Angers v Strasbourg  2-3 (1-2)   @ Stade Raymond-Kopa › Angers
               Nice v Estac Troyes  3-2 (2-0)   @ Allianz Riviera › Nice
               Clermont Foot v Auxerre  2-1 (0-0)   @ Stade Gabriel Montpied › Clermont-Ferrand
               Stade Brestois 29 v Lorient  1-2 (1-1)   @ Stade Francis-Le Blé › Brest
-    17.05     Rennes v Nantes  3-0 (1-0)   @ Roazhon Park › Rennes
-    20.45     Lille v Lens  1-0 (1-0)   @ Decathlon Arena-Stade Pierre-Mauroy › Villeneuve d'Ascq
-» Regular Season - 11
+    17:05     Rennes v Nantes  3-0 (1-0)   @ Roazhon Park › Rennes
+    20:45     Lille v Lens  1-0 (1-0)   @ Decathlon Arena-Stade Pierre-Mauroy › Villeneuve d'Ascq
+▪ Regular Season - 11
   Fri Oct 14
-    21.00     Strasbourg v Lille  0-3 (0-1)   @ Stade de la Meinau › Strasbourg
+    21:00     Strasbourg v Lille  0-3 (0-1)   @ Stade de la Meinau › Strasbourg
   Sat Oct 15
-    17.00     Lorient v Reims  0-0 (0-0)   @ Stade Yves Allainmat-Le Moustoir › Lorient
-    21.00     Lens v Montpellier  1-0 (0-0)   @ Stade Bollaert-Delelis › Lens
+    17:00     Lorient v Reims  0-0 (0-0)   @ Stade Yves Allainmat-Le Moustoir › Lorient
+    21:00     Lens v Montpellier  1-0 (0-0)   @ Stade Bollaert-Delelis › Lens
   Sun Oct 16
-    13.00     Toulouse v Angers  3-2 (2-1)   @ Stadium de Toulouse › Toulouse
-    15.00     Rennes v Lyon  3-2 (1-1)   @ Roazhon Park › Rennes
+    13:00     Toulouse v Angers  3-2 (2-1)   @ Stadium de Toulouse › Toulouse
+    15:00     Rennes v Lyon  3-2 (1-1)   @ Roazhon Park › Rennes
               Auxerre v Nice  1-1 (1-1)   @ Stade de l'Abbé Deschamps › Auxerre
               Estac Troyes v Ajaccio  1-1 (0-0)   @ Stade de l'Aube › Troyes
               Nantes v Stade Brestois 29  4-1 (2-1)   @ Stade de la Beaujoire-Louis Fonteneau › Nantes
-    17.05     Monaco v Clermont Foot  1-1 (1-0)   @ Stade Louis II › Monaco
-    20.45     Paris Saint Germain v Marseille  1-0 (1-0)   @ Parc des Princes › Paris
-» Regular Season - 12
+    17:05     Monaco v Clermont Foot  1-1 (1-0)   @ Stade Louis II › Monaco
+    20:45     Paris Saint Germain v Marseille  1-0 (1-0)   @ Parc des Princes › Paris
+▪ Regular Season - 12
   Fri Oct 21
-    21.00     Ajaccio v Paris Saint Germain  0-3 (0-1)   @ Stade François Coty › Ajaccio
+    21:00     Ajaccio v Paris Saint Germain  0-3 (0-1)   @ Stade François Coty › Ajaccio
   Sat Oct 22
-    17.00     Montpellier v Lyon  1-2 (0-1)   @ Stade de la Mosson › Montpellier
-    21.00     Marseille v Lens  0-1 (0-0)   @ Stade Orange Vélodrome › Marseille
+    17:00     Montpellier v Lyon  1-2 (0-1)   @ Stade de la Mosson › Montpellier
+    21:00     Marseille v Lens  0-1 (0-0)   @ Stade Orange Vélodrome › Marseille
   Sun Oct 23
-    13.00     Angers v Rennes  1-2 (0-1)   @ Stade Raymond-Kopa › Angers
-    15.00     Reims v Auxerre  2-1 (1-1)   @ Stade Auguste-Delaune II › Reims
+    13:00     Angers v Rennes  1-2 (0-1)   @ Stade Raymond-Kopa › Angers
+    15:00     Reims v Auxerre  2-1 (1-1)   @ Stade Auguste-Delaune II › Reims
               Toulouse v Strasbourg  2-2 (1-0)   @ Stadium de Toulouse › Toulouse
               Clermont Foot v Stade Brestois 29  1-3 (0-1)   @ Stade Gabriel Montpied › Clermont-Ferrand
               Estac Troyes v Lorient  2-2 (1-0)   @ Stade de l'Aube › Troyes
-    17.05     Nice v Nantes  1-1 (0-0)   @ Allianz Riviera › Nice
-    20.45     Lille v Monaco  4-3 (2-2)   @ Decathlon Arena-Stade Pierre-Mauroy › Villeneuve d'Ascq
-» Regular Season - 13
+    17:05     Nice v Nantes  1-1 (0-0)   @ Allianz Riviera › Nice
+    20:45     Lille v Monaco  4-3 (2-2)   @ Decathlon Arena-Stade Pierre-Mauroy › Villeneuve d'Ascq
+▪ Regular Season - 13
   Fri Oct 28
-    21.00     Lens v Toulouse  3-0 (0-0)   @ Stade Bollaert-Delelis › Lens
+    21:00     Lens v Toulouse  3-0 (0-0)   @ Stade Bollaert-Delelis › Lens
   Sat Oct 29
-    17.00     Paris Saint Germain v Estac Troyes  4-3 (1-1)   @ Parc des Princes › Paris
-    21.00     Strasbourg v Marseille  2-2 (0-2)   @ Stade de la Meinau › Strasbourg
+    17:00     Paris Saint Germain v Estac Troyes  4-3 (1-1)   @ Parc des Princes › Paris
+    21:00     Strasbourg v Marseille  2-2 (0-2)   @ Stade de la Meinau › Strasbourg
   Sun Oct 30
-    13.00     Auxerre v Ajaccio  1-0 (1-0)   @ Stade de l'Abbé Deschamps › Auxerre
-    15.00     Nantes v Clermont Foot  1-1 (0-0)   @ Stade de la Beaujoire-Louis Fonteneau › Nantes
+    13:00     Auxerre v Ajaccio  1-0 (1-0)   @ Stade de l'Abbé Deschamps › Auxerre
+    15:00     Nantes v Clermont Foot  1-1 (0-0)   @ Stade de la Beaujoire-Louis Fonteneau › Nantes
               Monaco v Angers  2-0 (0-0)   @ Stade Louis II › Monaco
               Rennes v Montpellier  3-0 (2-0)   @ Roazhon Park › Rennes
               Stade Brestois 29 v Reims  0-0 (0-0)   @ Stade Francis-Le Blé › Brest
-    17.05     Lorient v Nice  1-2 (1-0)   @ Stade Yves Allainmat-Le Moustoir › Lorient
-    20.45     Lyon v Lille  1-0 (0-0)   @ Groupama Stadium › Décines-Charpieu
-» Regular Season - 14
+    17:05     Lorient v Nice  1-2 (1-0)   @ Stade Yves Allainmat-Le Moustoir › Lorient
+    20:45     Lyon v Lille  1-0 (0-0)   @ Groupama Stadium › Décines-Charpieu
+▪ Regular Season - 14
   Fri Nov 4
-    21.00     Estac Troyes v Auxerre  1-1 (1-0)   @ Stade de l'Aube › Troyes
+    21:00     Estac Troyes v Auxerre  1-1 (1-0)   @ Stade de l'Aube › Troyes
   Sat Nov 5
-    17.00     Ajaccio v Strasbourg  4-2 (4-2)   @ Stade François Coty › Ajaccio
-    21.00     Angers v Lens  1-2 (0-1)   @ Stade Raymond-Kopa › Angers
+    17:00     Ajaccio v Strasbourg  4-2 (4-2)   @ Stade François Coty › Ajaccio
+    21:00     Angers v Lens  1-2 (0-1)   @ Stade Raymond-Kopa › Angers
   Sun Nov 6
-    13.00     Lorient v Paris Saint Germain  1-2 (0-1)   @ Stade Yves Allainmat-Le Moustoir › Lorient
-    15.00     Reims v Nantes  1-0 (0-0)   @ Stade Auguste-Delaune II › Reims
+    13:00     Lorient v Paris Saint Germain  1-2 (0-1)   @ Stade Yves Allainmat-Le Moustoir › Lorient
+    15:00     Reims v Nantes  1-0 (0-0)   @ Stade Auguste-Delaune II › Reims
               Toulouse v Monaco  0-2 (0-0)   @ Stadium de Toulouse › Toulouse
               Clermont Foot v Montpellier  1-1 (0-1)   @ Stade Gabriel Montpied › Clermont-Ferrand
               Nice v Stade Brestois 29  1-0 (0-0)   @ Allianz Riviera › Nice
-    17.05     Lille v Rennes  1-1 (1-0)   @ Decathlon Arena-Stade Pierre-Mauroy › Villeneuve d'Ascq
-    20.45     Marseille v Lyon  1-0 (1-0)   @ Stade Orange Vélodrome › Marseille
-» Regular Season - 15
+    17:05     Lille v Rennes  1-1 (1-0)   @ Decathlon Arena-Stade Pierre-Mauroy › Villeneuve d'Ascq
+    20:45     Marseille v Lyon  1-0 (1-0)   @ Stade Orange Vélodrome › Marseille
+▪ Regular Season - 15
   Fri Nov 11
-    21.00     Lyon v Nice  1-1 (0-1)   @ Groupama Stadium › Décines-Charpieu
+    21:00     Lyon v Nice  1-1 (0-1)   @ Groupama Stadium › Décines-Charpieu
   Sat Nov 12
-    17.00     Lens v Clermont Foot  2-1 (0-1)   @ Stade Bollaert-Delelis › Lens
-    21.00     Rennes v Toulouse  2-1 (1-0)   @ Roazhon Park › Rennes
+    17:00     Lens v Clermont Foot  2-1 (0-1)   @ Stade Bollaert-Delelis › Lens
+    21:00     Rennes v Toulouse  2-1 (1-0)   @ Roazhon Park › Rennes
   Sun Nov 13
-    13.00     Paris Saint Germain v Auxerre  5-0 (1-0)   @ Parc des Princes › Paris
-    15.00     Lille v Angers  1-0 (1-0)   @ Decathlon Arena-Stade Pierre-Mauroy › Villeneuve d'Ascq
+    13:00     Paris Saint Germain v Auxerre  5-0 (1-0)   @ Parc des Princes › Paris
+    15:00     Lille v Angers  1-0 (1-0)   @ Decathlon Arena-Stade Pierre-Mauroy › Villeneuve d'Ascq
               Montpellier v Reims  1-1 (0-0)   @ Stade de la Mosson › Montpellier
               Nantes v Ajaccio  2-2 (0-0)   @ Stade de la Beaujoire-Louis Fonteneau › Nantes
               Stade Brestois 29 v Estac Troyes  2-1 (0-0)   @ Stade Francis-Le Blé › Brest
-    17.05     Strasbourg v Lorient  1-1 (0-1)   @ Stade de la Meinau › Strasbourg
-    20.45     Monaco v Marseille  2-3 (1-1)   @ Stade Louis II › Monaco
-» Regular Season - 16
+    17:05     Strasbourg v Lorient  1-1 (0-1)   @ Stade de la Meinau › Strasbourg
+    20:45     Monaco v Marseille  2-3 (1-1)   @ Stade Louis II › Monaco
+▪ Regular Season - 16
   Wed Dec 28
-    15.00     Estac Troyes v Nantes  0-0 (0-0)   @ Stade de l'Aube › Troyes
+    15:00     Estac Troyes v Nantes  0-0 (0-0)   @ Stade de l'Aube › Troyes
               Ajaccio v Angers  1-0 (1-0)   @ Stade François Coty › Ajaccio
-    17.00     Auxerre v Monaco  2-3 (1-1)   @ Stade de l'Abbé Deschamps › Auxerre
-    19.00     Clermont Foot v Lille  0-2 (0-0)   @ Stade Gabriel Montpied › Clermont-Ferrand
-    21.00     Stade Brestois 29 v Lyon  2-4 (1-3)   @ Stade Francis-Le Blé › Brest
+    17:00     Auxerre v Monaco  2-3 (1-1)   @ Stade de l'Abbé Deschamps › Auxerre
+    19:00     Clermont Foot v Lille  0-2 (0-0)   @ Stade Gabriel Montpied › Clermont-Ferrand
+    21:00     Stade Brestois 29 v Lyon  2-4 (1-3)   @ Stade Francis-Le Blé › Brest
               Paris Saint Germain v Strasbourg  2-1 (1-0)   @ Parc des Princes › Paris
   Thu Dec 29
-    17.00     Lorient v Montpellier  0-2 (0-2)   @ Stade Yves Allainmat-Le Moustoir › Lorient
-    19.00     Reims v Rennes  3-1 (2-1)   @ Stade Auguste-Delaune II › Reims
-    21.00     Marseille v Toulouse  6-1 (2-0)   @ Stade Orange Vélodrome › Marseille
+    17:00     Lorient v Montpellier  0-2 (0-2)   @ Stade Yves Allainmat-Le Moustoir › Lorient
+    19:00     Reims v Rennes  3-1 (2-1)   @ Stade Auguste-Delaune II › Reims
+    21:00     Marseille v Toulouse  6-1 (2-0)   @ Stade Orange Vélodrome › Marseille
               Nice v Lens  0-0 (0-0)   @ Allianz Riviera › Nice
-» Regular Season - 17
+▪ Regular Season - 17
   Sun Jan 1 2023
-    15.00     Nantes v Auxerre  1-0 (0-0)   @ Stade de la Beaujoire-Louis Fonteneau › Nantes
+    15:00     Nantes v Auxerre  1-0 (0-0)   @ Stade de la Beaujoire-Louis Fonteneau › Nantes
   Sun Jan 1
-    15.00     Monaco v Stade Brestois 29  1-0 (0-0)   @ Stade Louis II › Monaco
+    15:00     Monaco v Stade Brestois 29  1-0 (0-0)   @ Stade Louis II › Monaco
               Toulouse v Ajaccio  2-0 (0-0)   @ Stadium de Toulouse › Toulouse
               Angers v Lorient  1-2 (1-0)   @ Stade Raymond-Kopa › Angers
-    17.00     Lyon v Clermont Foot  0-1 (0-0)   @ Groupama Stadium › Décines-Charpieu
-    20.45     Lens v Paris Saint Germain  3-1 (2-1)   @ Stade Bollaert-Delelis › Lens
+    17:00     Lyon v Clermont Foot  0-1 (0-0)   @ Groupama Stadium › Décines-Charpieu
+    20:45     Lens v Paris Saint Germain  3-1 (2-1)   @ Stade Bollaert-Delelis › Lens
   Mon Jan 2
-    15.00     Strasbourg v Estac Troyes  2-3 (1-2)   @ Stade de la Meinau › Strasbourg
-    17.00     Lille v Reims  1-1 (1-0)   @ Decathlon Arena-Stade Pierre-Mauroy › Villeneuve d'Ascq
-    19.00     Montpellier v Marseille  1-2 (0-0)   @ Stade de la Mosson › Montpellier
-    21.00     Rennes v Nice  2-1 (1-1)   @ Roazhon Park › Rennes
-» Regular Season - 18
+    15:00     Strasbourg v Estac Troyes  2-3 (1-2)   @ Stade de la Meinau › Strasbourg
+    17:00     Lille v Reims  1-1 (1-0)   @ Decathlon Arena-Stade Pierre-Mauroy › Villeneuve d'Ascq
+    19:00     Montpellier v Marseille  1-2 (0-0)   @ Stade de la Mosson › Montpellier
+    21:00     Rennes v Nice  2-1 (1-1)   @ Roazhon Park › Rennes
+▪ Regular Season - 18
   Wed Jan 11
-    19.00     Ajaccio v Reims  0-1 (0-1)   @ Stade François Coty › Ajaccio
+    19:00     Ajaccio v Reims  0-1 (0-1)   @ Stade François Coty › Ajaccio
               Clermont Foot v Rennes  2-1 (1-0)   @ Stade Gabriel Montpied › Clermont-Ferrand
               Stade Brestois 29 v Lille  0-0 (0-0)   @ Stade Francis-Le Blé › Brest
               Auxerre v Toulouse  0-5 (0-3)   @ Stade de l'Abbé Deschamps › Auxerre
               Nantes v Lyon  0-0 (0-0)   @ Stade de la Beaujoire-Louis Fonteneau › Nantes
-    21.00     Nice v Montpellier  6-1 (2-0)   @ Allianz Riviera › Nice
+    21:00     Nice v Montpellier  6-1 (2-0)   @ Allianz Riviera › Nice
               Paris Saint Germain v Angers  2-0 (1-0)   @ Parc des Princes › Paris
               Strasbourg v Lens  2-2 (2-2)   @ Stade de la Meinau › Strasbourg
               Lorient v Monaco  2-2 (0-0)   @ Stade Yves Allainmat-Le Moustoir › Lorient
               Estac Troyes v Marseille  0-2 (0-1)   @ Stade de l'Aube › Troyes
-» Regular Season - 19
+▪ Regular Season - 19
   Sat Jan 14
-    17.00     Lens v Auxerre  1-0 (0-0)   @ Stade Bollaert-Delelis › Lens
-    19.00     Marseille v Lorient  3-1 (1-1)   @ Stade Orange Vélodrome › Marseille
-    21.00     Lyon v Strasbourg  1-2 (1-2)   @ Groupama Stadium › Décines-Charpieu
+    17:00     Lens v Auxerre  1-0 (0-0)   @ Stade Bollaert-Delelis › Lens
+    19:00     Marseille v Lorient  3-1 (1-1)   @ Stade Orange Vélodrome › Marseille
+    21:00     Lyon v Strasbourg  1-2 (1-2)   @ Groupama Stadium › Décines-Charpieu
   Sun Jan 15
-    13.00     Lille v Estac Troyes  5-1 (2-0)   @ Decathlon Arena-Stade Pierre-Mauroy › Villeneuve d'Ascq
-    15.00     Angers v Clermont Foot  1-2 (0-1)   @ Stade Raymond-Kopa › Angers
+    13:00     Lille v Estac Troyes  5-1 (2-0)   @ Decathlon Arena-Stade Pierre-Mauroy › Villeneuve d'Ascq
+    15:00     Angers v Clermont Foot  1-2 (0-1)   @ Stade Raymond-Kopa › Angers
               Montpellier v Nantes  0-3 (0-1)   @ Stade de la Mosson › Montpellier
               Reims v Nice  0-0 (0-0)   @ Stade Auguste-Delaune II › Reims
               Toulouse v Stade Brestois 29  1-1 (0-1)   @ Stadium de Toulouse › Toulouse
-    17.05     Monaco v Ajaccio  7-1 (5-1)   @ Stade Louis II › Monaco
-    20.45     Rennes v Paris Saint Germain  1-0 (0-0)   @ Roazhon Park › Rennes
-» Regular Season - 20
+    17:05     Monaco v Ajaccio  7-1 (5-1)   @ Stade Louis II › Monaco
+    20:45     Rennes v Paris Saint Germain  1-0 (0-0)   @ Roazhon Park › Rennes
+▪ Regular Season - 20
   Fri Jan 27
-    21.00     Lorient v Rennes  2-1 (2-0)   @ Stade Yves Allainmat-Le Moustoir › Lorient
+    21:00     Lorient v Rennes  2-1 (2-0)   @ Stade Yves Allainmat-Le Moustoir › Lorient
   Sat Jan 28
-    17.00     Estac Troyes v Lens  1-1 (0-0)   @ Stade de l'Aube › Troyes
-    21.00     Marseille v Monaco  1-1 (0-1)   @ Stade Orange Vélodrome › Marseille
+    17:00     Estac Troyes v Lens  1-1 (0-0)   @ Stade de l'Aube › Troyes
+    21:00     Marseille v Monaco  1-1 (0-1)   @ Stade Orange Vélodrome › Marseille
   Sun Jan 29
-    13.00     Nice v Lille  1-0 (1-0)   @ Allianz Riviera › Nice
-    15.00     Strasbourg v Toulouse  1-2 (1-1)   @ Stade de la Meinau › Strasbourg
+    13:00     Nice v Lille  1-0 (1-0)   @ Allianz Riviera › Nice
+    15:00     Strasbourg v Toulouse  1-2 (1-1)   @ Stade de la Meinau › Strasbourg
               Clermont Foot v Nantes  0-0 (0-0)   @ Stade Gabriel Montpied › Clermont-Ferrand
               Stade Brestois 29 v Angers  4-0 (2-0)   @ Stade Francis-Le Blé › Brest
               Auxerre v Montpellier  0-2 (0-0)   @ Stade de l'Abbé Deschamps › Auxerre
-    17.05     Ajaccio v Lyon  0-2 (0-1)   @ Stade François Coty › Ajaccio
-    20.45     Paris Saint Germain v Reims  1-1 (0-0)   @ Parc des Princes › Paris
-» Regular Season - 21
+    17:05     Ajaccio v Lyon  0-2 (0-1)   @ Stade François Coty › Ajaccio
+    20:45     Paris Saint Germain v Reims  1-1 (0-0)   @ Parc des Princes › Paris
+▪ Regular Season - 21
   Wed Feb 1
-    19.00     Angers v Ajaccio  1-2 (1-0)   @ Stade Raymond-Kopa › Angers
+    19:00     Angers v Ajaccio  1-2 (1-0)   @ Stade Raymond-Kopa › Angers
               Lille v Clermont Foot  0-0 (0-0)   @ Decathlon Arena-Stade Pierre-Mauroy › Villeneuve d'Ascq
               Nantes v Marseille  0-2 (0-0)   @ Stade de la Beaujoire-Louis Fonteneau › Nantes
               Reims v Lorient  4-2 (1-2)   @ Stade Auguste-Delaune II › Reims
               Toulouse v Estac Troyes  4-1 (2-1)   @ Stadium de Toulouse › Toulouse
-    21.00     Montpellier v Paris Saint Germain  1-3 (0-0)   @ Stade de la Mosson › Montpellier
+    21:00     Montpellier v Paris Saint Germain  1-3 (0-0)   @ Stade de la Mosson › Montpellier
               Monaco v Auxerre  3-2 (2-0)   @ Stade Louis II › Monaco
               Rennes v Strasbourg  3-0 (2-0)   @ Roazhon Park › Rennes
               Lens v Nice  0-1 (0-0)   @ Stade Bollaert-Delelis › Lens
               Lyon v Stade Brestois 29  0-0 (0-0)   @ Groupama Stadium › Décines-Charpieu
-» Regular Season - 22
+▪ Regular Season - 22
   Sat Feb 4
-    17.00     Paris Saint Germain v Toulouse  2-1 (1-1)   @ Parc des Princes › Paris
-    19.00     Estac Troyes v Lyon  1-3 (0-1)   @ Stade de l'Aube › Troyes
-    21.00     Rennes v Lille  1-3 (1-0)   @ Roazhon Park › Rennes
+    17:00     Paris Saint Germain v Toulouse  2-1 (1-1)   @ Parc des Princes › Paris
+    19:00     Estac Troyes v Lyon  1-3 (0-1)   @ Stade de l'Aube › Troyes
+    21:00     Rennes v Lille  1-3 (1-0)   @ Roazhon Park › Rennes
   Sun Feb 5
-    13.00     Clermont Foot v Monaco  0-2 (0-2)   @ Stade Gabriel Montpied › Clermont-Ferrand
-    15.00     Lorient v Angers  0-0 (0-0)   @ Stade Yves Allainmat-Le Moustoir › Lorient
+    13:00     Clermont Foot v Monaco  0-2 (0-2)   @ Stade Gabriel Montpied › Clermont-Ferrand
+    15:00     Lorient v Angers  0-0 (0-0)   @ Stade Yves Allainmat-Le Moustoir › Lorient
               Ajaccio v Nantes  0-2 (0-0)   @ Stade François Coty › Ajaccio
               Auxerre v Reims  0-0 (0-0)   @ Stade de l'Abbé Deschamps › Auxerre
               Strasbourg v Montpellier  2-0 (2-0)   @ Stade de la Meinau › Strasbourg
-    17.05     Stade Brestois 29 v Lens  1-1 (0-0)   @ Stade Francis-Le Blé › Brest
-    20.45     Marseille v Nice  1-3 (0-2)   @ Stade Orange Vélodrome › Marseille
-» Regular Season - 23
+    17:05     Stade Brestois 29 v Lens  1-1 (0-0)   @ Stade Francis-Le Blé › Brest
+    20:45     Marseille v Nice  1-3 (0-2)   @ Stade Orange Vélodrome › Marseille
+▪ Regular Season - 23
   Fri Feb 10
-    21.00     Nice v Ajaccio  3-0 (1-0)   @ Allianz Riviera › Nice
+    21:00     Nice v Ajaccio  3-0 (1-0)   @ Allianz Riviera › Nice
   Sat Feb 11
-    17.00     Monaco v Paris Saint Germain  3-1 (3-1)   @ Stade Louis II › Monaco
-    21.00     Clermont Foot v Marseille  0-2 (0-1)   @ Stade Gabriel Montpied › Clermont-Ferrand
+    17:00     Monaco v Paris Saint Germain  3-1 (3-1)   @ Stade Louis II › Monaco
+    21:00     Clermont Foot v Marseille  0-2 (0-1)   @ Stade Gabriel Montpied › Clermont-Ferrand
   Sun Feb 12
-    13.00     Toulouse v Rennes  3-1 (3-0)   @ Stadium de Toulouse › Toulouse
-    15.00     Lille v Strasbourg  2-0 (2-0)   @ Decathlon Arena-Stade Pierre-Mauroy › Villeneuve d'Ascq
+    13:00     Toulouse v Rennes  3-1 (3-0)   @ Stadium de Toulouse › Toulouse
+    15:00     Lille v Strasbourg  2-0 (2-0)   @ Decathlon Arena-Stade Pierre-Mauroy › Villeneuve d'Ascq
               Montpellier v Stade Brestois 29  3-0 (2-0)   @ Stade de la Mosson › Montpellier
               Reims v Estac Troyes  4-0 (2-0)   @ Stade Auguste-Delaune II › Reims
               Angers v Auxerre  1-1 (1-1)   @ Stade Raymond-Kopa › Angers
-    17.05     Nantes v Lorient  1-0 (0-0)   @ Stade de la Beaujoire-Louis Fonteneau › Nantes
-    20.45     Lyon v Lens  2-1 (1-1)   @ Groupama Stadium › Décines-Charpieu
-» Regular Season - 24
+    17:05     Nantes v Lorient  1-0 (0-0)   @ Stade de la Beaujoire-Louis Fonteneau › Nantes
+    20:45     Lyon v Lens  2-1 (1-1)   @ Groupama Stadium › Décines-Charpieu
+▪ Regular Season - 24
   Fri Feb 17
-    21.00     Auxerre v Lyon  2-1 (0-1)   @ Stade de l'Abbé Deschamps › Auxerre
+    21:00     Auxerre v Lyon  2-1 (0-1)   @ Stade de l'Abbé Deschamps › Auxerre
   Sat Feb 18
-    17.00     Nice v Reims  0-0 (0-0)   @ Allianz Riviera › Nice
-    21.00     Strasbourg v Angers  2-1 (2-0)   @ Stade de la Meinau › Strasbourg
+    17:00     Nice v Reims  0-0 (0-0)   @ Allianz Riviera › Nice
+    21:00     Strasbourg v Angers  2-1 (2-0)   @ Stade de la Meinau › Strasbourg
   Sun Feb 19
-    13.00     Paris Saint Germain v Lille  4-3 (2-1)   @ Parc des Princes › Paris
-    15.00     Rennes v Clermont Foot  2-0 (1-0)   @ Roazhon Park › Rennes
+    13:00     Paris Saint Germain v Lille  4-3 (2-1)   @ Parc des Princes › Paris
+    15:00     Rennes v Clermont Foot  2-0 (1-0)   @ Roazhon Park › Rennes
               Lorient v Ajaccio  3-0 (2-0)   @ Stade Yves Allainmat-Le Moustoir › Lorient
               Stade Brestois 29 v Monaco  1-2 (0-1)   @ Stade Francis-Le Blé › Brest
               Estac Troyes v Montpellier  0-1 (0-0)   @ Stade de l'Aube › Troyes
-    17.05     Lens v Nantes  3-1 (2-1)   @ Stade Bollaert-Delelis › Lens
-    20.45     Toulouse v Marseille  2-3 (1-0)   @ Stadium de Toulouse › Toulouse
-» Regular Season - 25
+    17:05     Lens v Nantes  3-1 (2-1)   @ Stade Bollaert-Delelis › Lens
+    20:45     Toulouse v Marseille  2-3 (1-0)   @ Stadium de Toulouse › Toulouse
+▪ Regular Season - 25
   Fri Feb 24
-    21.00     Lille v Stade Brestois 29  2-1 (0-1)   @ Decathlon Arena-Stade Pierre-Mauroy › Villeneuve d'Ascq
+    21:00     Lille v Stade Brestois 29  2-1 (0-1)   @ Decathlon Arena-Stade Pierre-Mauroy › Villeneuve d'Ascq
   Sat Feb 25
-    17.00     Angers v Lyon  1-3 (0-1)   @ Stade Raymond-Kopa › Angers
-    21.00     Montpellier v Lens  1-1 (0-1)   @ Stade de la Mosson › Montpellier
+    17:00     Angers v Lyon  1-3 (0-1)   @ Stade Raymond-Kopa › Angers
+    21:00     Montpellier v Lens  1-1 (0-1)   @ Stade de la Mosson › Montpellier
   Sun Feb 26
-    13.00     Lorient v Auxerre  0-1 (0-0)   @ Stade Yves Allainmat-Le Moustoir › Lorient
-    15.00     Reims v Toulouse  3-0 (2-0)   @ Stade Auguste-Delaune II › Reims
+    13:00     Lorient v Auxerre  0-1 (0-0)   @ Stade Yves Allainmat-Le Moustoir › Lorient
+    15:00     Reims v Toulouse  3-0 (2-0)   @ Stade Auguste-Delaune II › Reims
               Ajaccio v Estac Troyes  2-1 (0-1)   @ Stade François Coty › Ajaccio
               Clermont Foot v Strasbourg  1-1 (0-1)   @ Stade Gabriel Montpied › Clermont-Ferrand
               Nantes v Rennes  0-1 (0-1)   @ Stade de la Beaujoire-Louis Fonteneau › Nantes
-    17.05     Monaco v Nice  0-3 (0-3)   @ Stade Louis II › Monaco
-    20.45     Marseille v Paris Saint Germain  0-3 (0-2)   @ Stade Orange Vélodrome › Marseille
-» Regular Season - 26
+    17:05     Monaco v Nice  0-3 (0-3)   @ Stade Louis II › Monaco
+    20:45     Marseille v Paris Saint Germain  0-3 (0-2)   @ Stade Orange Vélodrome › Marseille
+▪ Regular Season - 26
   Fri Mar 3
-    21.00     Nice v Auxerre  1-1 (1-1)   @ Allianz Riviera › Nice
+    21:00     Nice v Auxerre  1-1 (1-1)   @ Allianz Riviera › Nice
   Sat Mar 4
-    17.00     Lens v Lille  1-1 (1-0)   @ Stade Bollaert-Delelis › Lens
-    21.00     Paris Saint Germain v Nantes  4-2 (2-2)   @ Parc des Princes › Paris
+    17:00     Lens v Lille  1-1 (1-0)   @ Stade Bollaert-Delelis › Lens
+    21:00     Paris Saint Germain v Nantes  4-2 (2-2)   @ Parc des Princes › Paris
   Sun Mar 5
-    13.00     Estac Troyes v Monaco  2-2 (1-0)   @ Stade de l'Aube › Troyes
-    15.00     Montpellier v Angers  5-0 (3-0)   @ Stade de la Mosson › Montpellier
+    13:00     Estac Troyes v Monaco  2-2 (1-0)   @ Stade de l'Aube › Troyes
+    15:00     Montpellier v Angers  5-0 (3-0)   @ Stade de la Mosson › Montpellier
               Reims v Ajaccio  1-0 (0-0)   @ Stade Auguste-Delaune II › Reims
               Strasbourg v Stade Brestois 29  0-1 (0-1)   @ Stade de la Meinau › Strasbourg
               Toulouse v Clermont Foot  0-1 (0-0)   @ Stadium de Toulouse › Toulouse
-    17.05     Lyon v Lorient  0-0 (0-0)   @ Groupama Stadium › Décines-Charpieu
-    20.45     Rennes v Marseille  0-1 (0-0)   @ Roazhon Park › Rennes
-» Regular Season - 27
+    17:05     Lyon v Lorient  0-0 (0-0)   @ Groupama Stadium › Décines-Charpieu
+    20:45     Rennes v Marseille  0-1 (0-0)   @ Roazhon Park › Rennes
+▪ Regular Season - 27
   Fri Mar 10
-    21.00     Lille v Lyon  3-3 (0-0)   @ Decathlon Arena-Stade Pierre-Mauroy › Villeneuve d'Ascq
+    21:00     Lille v Lyon  3-3 (0-0)   @ Decathlon Arena-Stade Pierre-Mauroy › Villeneuve d'Ascq
   Sat Mar 11
-    17.00     Auxerre v Rennes  0-0 (0-0)   @ Stade de l'Abbé Deschamps › Auxerre
-    21.00     Stade Brestois 29 v Paris Saint Germain  1-2 (1-1)   @ Stade Francis-Le Blé › Brest
+    17:00     Auxerre v Rennes  0-0 (0-0)   @ Stade de l'Abbé Deschamps › Auxerre
+    21:00     Stade Brestois 29 v Paris Saint Germain  1-2 (1-1)   @ Stade Francis-Le Blé › Brest
   Sun Mar 12
-    13.00     Clermont Foot v Lens  0-4 (0-3)   @ Stade Gabriel Montpied › Clermont-Ferrand
-    15.00     Angers v Toulouse  0-2 (0-1)   @ Stade Raymond-Kopa › Angers
+    13:00     Clermont Foot v Lens  0-4 (0-3)   @ Stade Gabriel Montpied › Clermont-Ferrand
+    15:00     Angers v Toulouse  0-2 (0-1)   @ Stade Raymond-Kopa › Angers
               Nantes v Nice  2-2 (1-1)   @ Stade de la Beaujoire-Louis Fonteneau › Nantes
               Lorient v Estac Troyes  2-0 (1-0)   @ Stade Yves Allainmat-Le Moustoir › Lorient
               Ajaccio v Montpellier  0-1 (0-0)   @ Stade François Coty › Ajaccio
-    17.05     Monaco v Reims  0-1 (0-0)   @ Stade Louis II › Monaco
-    20.45     Marseille v Strasbourg  2-2 (0-0)   @ Stade Orange Vélodrome › Marseille
-» Regular Season - 28
+    17:05     Monaco v Reims  0-1 (0-0)   @ Stade Louis II › Monaco
+    20:45     Marseille v Strasbourg  2-2 (0-0)   @ Stade Orange Vélodrome › Marseille
+▪ Regular Season - 28
   Fri Mar 17
-    21.00     Lyon v Nantes  1-1 (1-1)   @ Groupama Stadium › Décines-Charpieu
+    21:00     Lyon v Nantes  1-1 (1-1)   @ Groupama Stadium › Décines-Charpieu
   Sat Mar 18
-    17.00     Toulouse v Lille  0-2 (0-0)   @ Stadium de Toulouse › Toulouse
-    21.00     Lens v Angers  3-0 (2-0)   @ Stade Bollaert-Delelis › Lens
+    17:00     Toulouse v Lille  0-2 (0-0)   @ Stadium de Toulouse › Toulouse
+    21:00     Lens v Angers  3-0 (2-0)   @ Stade Bollaert-Delelis › Lens
   Sun Mar 19
-    13.00     Ajaccio v Monaco  0-2 (0-1)   @ Stade François Coty › Ajaccio
-    15.00     Nice v Lorient  1-1 (0-1)   @ Allianz Riviera › Nice
+    13:00     Ajaccio v Monaco  0-2 (0-1)   @ Stade François Coty › Ajaccio
+    15:00     Nice v Lorient  1-1 (0-1)   @ Allianz Riviera › Nice
               Strasbourg v Auxerre  2-0 (1-0)   @ Stade de la Meinau › Strasbourg
               Estac Troyes v Stade Brestois 29  2-2 (2-1)   @ Stade de l'Aube › Troyes
               Montpellier v Clermont Foot  2-1 (0-1)   @ Stade de la Mosson › Montpellier
-    17.05     Paris Saint Germain v Rennes  0-2 (0-1)   @ Parc des Princes › Paris
-    20.45     Reims v Marseille  1-2 (1-2)   @ Stade Auguste-Delaune II › Reims
-» Regular Season - 29
+    17:05     Paris Saint Germain v Rennes  0-2 (0-1)   @ Parc des Princes › Paris
+    20:45     Reims v Marseille  1-2 (1-2)   @ Stade Auguste-Delaune II › Reims
+▪ Regular Season - 29
   Fri Mar 31
-    21.00     Marseille v Montpellier  1-1 (1-1)   @ Stade Orange Vélodrome › Marseille
+    21:00     Marseille v Montpellier  1-1 (1-1)   @ Stade Orange Vélodrome › Marseille
   Sat Apr 1
-    17.00     Auxerre v Estac Troyes  1-0 (0-0)   @ Stade de l'Abbé Deschamps › Auxerre
-    21.00     Rennes v Lens  0-1 (0-1)   @ Roazhon Park › Rennes
+    17:00     Auxerre v Estac Troyes  1-0 (0-0)   @ Stade de l'Abbé Deschamps › Auxerre
+    21:00     Rennes v Lens  0-1 (0-1)   @ Roazhon Park › Rennes
   Sun Apr 2
-    13.00     Lille v Lorient  3-1 (1-0)   @ Decathlon Arena-Stade Pierre-Mauroy › Villeneuve d'Ascq
-    15.00     Angers v Nice  1-1 (1-1)   @ Stade Raymond-Kopa › Angers
+    13:00     Lille v Lorient  3-1 (1-0)   @ Decathlon Arena-Stade Pierre-Mauroy › Villeneuve d'Ascq
+    15:00     Angers v Nice  1-1 (1-1)   @ Stade Raymond-Kopa › Angers
               Nantes v Reims  0-3 (0-2)   @ Stade de la Beaujoire-Louis Fonteneau › Nantes
               Clermont Foot v Ajaccio  2-1 (0-1)   @ Stade Gabriel Montpied › Clermont-Ferrand
               Stade Brestois 29 v Toulouse  3-1 (1-1)   @ Stade Francis-Le Blé › Brest
-    17.05     Monaco v Strasbourg  4-3 (1-2)   @ Stade Louis II › Monaco
-    20.45     Paris Saint Germain v Lyon  0-1 (0-0)   @ Parc des Princes › Paris
-» Regular Season - 30
+    17:05     Monaco v Strasbourg  4-3 (1-2)   @ Stade Louis II › Monaco
+    20:45     Paris Saint Germain v Lyon  0-1 (0-0)   @ Parc des Princes › Paris
+▪ Regular Season - 30
   Fri Apr 7
-    21.00     Lens v Strasbourg  2-1 (1-0)   @ Stade Bollaert-Delelis › Lens
+    21:00     Lens v Strasbourg  2-1 (1-0)   @ Stade Bollaert-Delelis › Lens
   Sat Apr 8
-    17.00     Angers v Lille  1-0 (0-0)   @ Stade Raymond-Kopa › Angers
-    21.00     Nice v Paris Saint Germain  0-2 (0-1)   @ Allianz Riviera › Nice
+    17:00     Angers v Lille  1-0 (0-0)   @ Stade Raymond-Kopa › Angers
+    21:00     Nice v Paris Saint Germain  0-2 (0-1)   @ Allianz Riviera › Nice
   Sun Apr 9
-    13.00     Lyon v Rennes  3-1 (0-1)   @ Groupama Stadium › Décines-Charpieu
-    15.00     Reims v Stade Brestois 29  1-1 (0-1)   @ Stade Auguste-Delaune II › Reims
+    13:00     Lyon v Rennes  3-1 (0-1)   @ Groupama Stadium › Décines-Charpieu
+    15:00     Reims v Stade Brestois 29  1-1 (0-1)   @ Stade Auguste-Delaune II › Reims
               Ajaccio v Auxerre  0-3 (0-3)   @ Stade François Coty › Ajaccio
               Estac Troyes v Clermont Foot  0-2 (0-2)   @ Stade de l'Aube › Troyes
               Montpellier v Toulouse  1-2 (0-1)   @ Stade de la Mosson › Montpellier
-    17.05     Nantes v Monaco  2-2 (0-2)   @ Stade de la Beaujoire-Louis Fonteneau › Nantes
-    20.45     Lorient v Marseille  0-0 (0-0)   @ Stade Yves Allainmat-Le Moustoir › Lorient
-» Regular Season - 31
+    17:05     Nantes v Monaco  2-2 (0-2)   @ Stade de la Beaujoire-Louis Fonteneau › Nantes
+    20:45     Lorient v Marseille  0-0 (0-0)   @ Stade Yves Allainmat-Le Moustoir › Lorient
+▪ Regular Season - 31
   Fri Apr 14
-    21.00     Toulouse v Lyon  1-2 (1-1)   @ Stadium de Toulouse › Toulouse
+    21:00     Toulouse v Lyon  1-2 (1-1)   @ Stadium de Toulouse › Toulouse
   Sat Apr 15
-    17.00     Rennes v Reims  3-0 (2-0)   @ Roazhon Park › Rennes
-    21.00     Paris Saint Germain v Lens  3-1 (3-0)   @ Parc des Princes › Paris
+    17:00     Rennes v Reims  3-0 (2-0)   @ Roazhon Park › Rennes
+    21:00     Paris Saint Germain v Lens  3-1 (3-0)   @ Parc des Princes › Paris
   Sun Apr 16
-    13.00     Lille v Montpellier  2-1 (0-1)   @ Decathlon Arena-Stade Pierre-Mauroy › Villeneuve d'Ascq
-    15.00     Strasbourg v Ajaccio  3-1 (1-0)   @ Stade de la Meinau › Strasbourg
+    13:00     Lille v Montpellier  2-1 (0-1)   @ Decathlon Arena-Stade Pierre-Mauroy › Villeneuve d'Ascq
+    15:00     Strasbourg v Ajaccio  3-1 (1-0)   @ Stade de la Meinau › Strasbourg
               Clermont Foot v Angers  2-1 (2-1)   @ Stade Gabriel Montpied › Clermont-Ferrand
               Stade Brestois 29 v Nice  1-0 (1-0)   @ Stade Francis-Le Blé › Brest
               Auxerre v Nantes  2-1 (2-0)   @ Stade de l'Abbé Deschamps › Auxerre
-    17.05     Monaco v Lorient  3-1 (2-0)   @ Stade Louis II › Monaco
-    20.45     Marseille v Estac Troyes  3-1 (2-0)   @ Stade Orange Vélodrome › Marseille
-» Regular Season - 32
+    17:05     Monaco v Lorient  3-1 (2-0)   @ Stade Louis II › Monaco
+    20:45     Marseille v Estac Troyes  3-1 (2-0)   @ Stade Orange Vélodrome › Marseille
+▪ Regular Season - 32
   Fri Apr 21
-    21.00     Angers v Paris Saint Germain  1-2 (0-2)   @ Stade Raymond-Kopa › Angers
+    21:00     Angers v Paris Saint Germain  1-2 (0-2)   @ Stade Raymond-Kopa › Angers
   Sat Apr 22
-    17.00     Auxerre v Lille  1-1 (0-1)   @ Stade de l'Abbé Deschamps › Auxerre
-    21.00     Lens v Monaco  3-0 (2-0)   @ Stade Bollaert-Delelis › Lens
+    17:00     Auxerre v Lille  1-1 (0-1)   @ Stade de l'Abbé Deschamps › Auxerre
+    21:00     Lens v Monaco  3-0 (2-0)   @ Stade Bollaert-Delelis › Lens
   Sun Apr 23
-    13.00     Reims v Strasbourg  0-2 (0-2)   @ Stade Auguste-Delaune II › Reims
-    15.00     Nantes v Estac Troyes  2-2 (1-0)   @ Stade de la Beaujoire-Louis Fonteneau › Nantes
+    13:00     Reims v Strasbourg  0-2 (0-2)   @ Stade Auguste-Delaune II › Reims
+    15:00     Nantes v Estac Troyes  2-2 (1-0)   @ Stade de la Beaujoire-Louis Fonteneau › Nantes
               Nice v Clermont Foot  1-2 (1-1)   @ Allianz Riviera › Nice
               Lorient v Toulouse  0-1 (0-0)   @ Stade Yves Allainmat-Le Moustoir › Lorient
               Ajaccio v Stade Brestois 29  0-0 (0-0)   @ Stade François Coty › Ajaccio
-    17.05     Montpellier v Rennes  1-0 (0-0)   @ Stade de la Mosson › Montpellier
-    20.45     Lyon v Marseille  1-2 (0-1)   @ Groupama Stadium › Décines-Charpieu
-» Regular Season - 33
+    17:05     Montpellier v Rennes  1-0 (0-0)   @ Stade de la Mosson › Montpellier
+    20:45     Lyon v Marseille  1-2 (0-1)   @ Groupama Stadium › Décines-Charpieu
+▪ Regular Season - 33
   Fri Apr 28
-    21.00     Strasbourg v Lyon  1-2 (1-2)   @ Stade de la Meinau › Strasbourg
+    21:00     Strasbourg v Lyon  1-2 (1-2)   @ Stade de la Meinau › Strasbourg
   Sat Apr 29
-    17.00     Lille v Ajaccio  3-0 (3-0)   @ Decathlon Arena-Stade Pierre-Mauroy › Villeneuve d'Ascq
+    17:00     Lille v Ajaccio  3-0 (3-0)   @ Decathlon Arena-Stade Pierre-Mauroy › Villeneuve d'Ascq
   Sun Apr 30
-    13.00     Monaco v Montpellier  0-4 (0-1)   @ Stade Louis II › Monaco
-    15.00     Rennes v Angers  4-2 (2-2)   @ Roazhon Park › Rennes
+    13:00     Monaco v Montpellier  0-4 (0-1)   @ Stade Louis II › Monaco
+    15:00     Rennes v Angers  4-2 (2-2)   @ Roazhon Park › Rennes
               Clermont Foot v Reims  1-0 (1-0)   @ Stade Gabriel Montpied › Clermont-Ferrand
               Estac Troyes v Nice  0-1 (0-1)   @ Stade de l'Aube › Troyes
-    17.05     Paris Saint Germain v Lorient  1-3 (1-2)   @ Parc des Princes › Paris
-    20.45     Marseille v Auxerre  2-1 (0-1)   @ Stade Orange Vélodrome › Marseille
+    17:05     Paris Saint Germain v Lorient  1-3 (1-2)   @ Parc des Princes › Paris
+    20:45     Marseille v Auxerre  2-1 (0-1)   @ Stade Orange Vélodrome › Marseille
   Tue May 2
-    21.00     Toulouse v Lens  0-1 (0-1)   @ Stadium de Toulouse › Toulouse
+    21:00     Toulouse v Lens  0-1 (0-1)   @ Stadium de Toulouse › Toulouse
   Wed May 3
-    21.00     Stade Brestois 29 v Nantes  2-0 (2-0)   @ Stade Francis-Le Blé › Brest
-» Regular Season - 34
+    21:00     Stade Brestois 29 v Nantes  2-0 (2-0)   @ Stade Francis-Le Blé › Brest
+▪ Regular Season - 34
   Sat May 6
-    17.00     Nice v Rennes  2-1 (0-0)   @ Allianz Riviera › Nice
-    19.00     Reims v Lille  1-0 (1-0)   @ Stade Auguste-Delaune II › Reims
-    21.00     Lens v Marseille  2-1 (1-0)   @ Stade Bollaert-Delelis › Lens
+    17:00     Nice v Rennes  2-1 (0-0)   @ Allianz Riviera › Nice
+    19:00     Reims v Lille  1-0 (1-0)   @ Stade Auguste-Delaune II › Reims
+    21:00     Lens v Marseille  2-1 (1-0)   @ Stade Bollaert-Delelis › Lens
   Sun May 7
-    13.00     Angers v Monaco  1-2 (0-1)   @ Stade Raymond-Kopa › Angers
-    15.00     Nantes v Strasbourg  0-2 (0-1)   @ Stade de la Beaujoire-Louis Fonteneau › Nantes
+    13:00     Angers v Monaco  1-2 (0-1)   @ Stade Raymond-Kopa › Angers
+    15:00     Nantes v Strasbourg  0-2 (0-1)   @ Stade de la Beaujoire-Louis Fonteneau › Nantes
               Lorient v Stade Brestois 29  2-1 (1-0)   @ Stade Yves Allainmat-Le Moustoir › Lorient
               Ajaccio v Toulouse  0-0 (0-0)   @ Stade François Coty › Ajaccio
               Auxerre v Clermont Foot  1-1 (1-0)   @ Stade de l'Abbé Deschamps › Auxerre
-    17.05     Lyon v Montpellier  5-4 (1-2)   @ Groupama Stadium › Décines-Charpieu
-    20.45     Estac Troyes v Paris Saint Germain  1-3 (0-1)   @ Stade de l'Aube › Troyes
-» Regular Season - 35
+    17:05     Lyon v Montpellier  5-4 (1-2)   @ Groupama Stadium › Décines-Charpieu
+    20:45     Estac Troyes v Paris Saint Germain  1-3 (0-1)   @ Stade de l'Aube › Troyes
+▪ Regular Season - 35
   Fri May 12
-    21.00     Lens v Reims  2-1 (1-1)   @ Stade Bollaert-Delelis › Lens
+    21:00     Lens v Reims  2-1 (1-1)   @ Stade Bollaert-Delelis › Lens
   Sat May 13
-    17.00     Strasbourg v Nice  2-0 (1-0)   @ Stade de la Meinau › Strasbourg
-    21.00     Paris Saint Germain v Ajaccio  5-0 (2-0)   @ Parc des Princes › Paris
+    17:00     Strasbourg v Nice  2-0 (1-0)   @ Stade de la Meinau › Strasbourg
+    21:00     Paris Saint Germain v Ajaccio  5-0 (2-0)   @ Parc des Princes › Paris
   Sun May 14
-    13.00     Clermont Foot v Lyon  2-1 (1-1)   @ Stade Gabriel Montpied › Clermont-Ferrand
-    15.00     Rennes v Estac Troyes  4-0 (1-0)   @ Roazhon Park › Rennes
+    13:00     Clermont Foot v Lyon  2-1 (1-1)   @ Stade Gabriel Montpied › Clermont-Ferrand
+    15:00     Rennes v Estac Troyes  4-0 (1-0)   @ Roazhon Park › Rennes
               Stade Brestois 29 v Auxerre  1-0 (0-0)   @ Stade Francis-Le Blé › Brest
               Montpellier v Lorient  1-1 (0-0)   @ Stade de la Mosson › Montpellier
-    16.30     Toulouse v Nantes  0-0 (0-0)   @ Stadium de Toulouse › Toulouse
-    17.05     Monaco v Lille  0-0 (0-0)   @ Stade Louis II › Monaco
-    20.45     Marseille v Angers  3-1 (1-1)   @ Stade Orange Vélodrome › Marseille
-» Regular Season - 36
+    16:30     Toulouse v Nantes  0-0 (0-0)   @ Stadium de Toulouse › Toulouse
+    17:05     Monaco v Lille  0-0 (0-0)   @ Stade Louis II › Monaco
+    20:45     Marseille v Angers  3-1 (1-1)   @ Stade Orange Vélodrome › Marseille
+▪ Regular Season - 36
   Fri May 19
-    21.00     Lyon v Monaco  3-1 (1-1)   @ Groupama Stadium › Décines-Charpieu
+    21:00     Lyon v Monaco  3-1 (1-1)   @ Groupama Stadium › Décines-Charpieu
   Sat May 20
-    17.00     Nantes v Montpellier  0-3 (0-1)   @ Stade de la Beaujoire-Louis Fonteneau › Nantes
-    21.00     Lille v Marseille  2-1 (0-1)   @ Decathlon Arena-Stade Pierre-Mauroy › Villeneuve d'Ascq
+    17:00     Nantes v Montpellier  0-3 (0-1)   @ Stade de la Beaujoire-Louis Fonteneau › Nantes
+    21:00     Lille v Marseille  2-1 (0-1)   @ Decathlon Arena-Stade Pierre-Mauroy › Villeneuve d'Ascq
   Sun May 21
-    13.00     Ajaccio v Rennes  0-5 (0-4)   @ Stade François Coty › Ajaccio
-    15.00     Nice v Toulouse  0-0 (0-0)   @ Allianz Riviera › Nice
+    13:00     Ajaccio v Rennes  0-5 (0-4)   @ Stade François Coty › Ajaccio
+    15:00     Nice v Toulouse  0-0 (0-0)   @ Allianz Riviera › Nice
               Reims v Angers  2-2 (1-0)   @ Stade Auguste-Delaune II › Reims
               Stade Brestois 29 v Clermont Foot  2-1 (1-1)   @ Stade Francis-Le Blé › Brest
               Estac Troyes v Strasbourg  1-1 (0-1)   @ Stade de l'Aube › Troyes
-    17.05     Lorient v Lens  1-3 (1-2)   @ Stade Yves Allainmat-Le Moustoir › Lorient
-    20.45     Auxerre v Paris Saint Germain  1-2 (0-2)   @ Stade de l'Abbé Deschamps › Auxerre
-» Regular Season - 37
+    17:05     Lorient v Lens  1-3 (1-2)   @ Stade Yves Allainmat-Le Moustoir › Lorient
+    20:45     Auxerre v Paris Saint Germain  1-2 (0-2)   @ Stade de l'Abbé Deschamps › Auxerre
+▪ Regular Season - 37
   Sat May 27
-    21.00     Angers v Estac Troyes  2-1 (1-1)   @ Stade Raymond-Kopa › Angers
+    21:00     Angers v Estac Troyes  2-1 (1-1)   @ Stade Raymond-Kopa › Angers
               Lille v Nantes  2-1 (0-1)   @ Decathlon Arena-Stade Pierre-Mauroy › Villeneuve d'Ascq
               Lyon v Reims  3-0 (2-0)   @ Groupama Stadium › Décines-Charpieu
               Marseille v Stade Brestois 29  1-2 (0-0)   @ Stade Orange Vélodrome › Marseille
@@ -515,9 +515,9 @@
               Toulouse v Auxerre  1-1 (1-1)   @ Stadium de Toulouse › Toulouse
               Clermont Foot v Lorient  2-0 (1-0)   @ Stade Gabriel Montpied › Clermont-Ferrand
               Lens v Ajaccio  3-0 (3-0)   @ Stade Bollaert-Delelis › Lens
-» Regular Season - 38
+▪ Regular Season - 38
   Sat Jun 3
-    21.00     Nantes v Angers  1-0 (1-0)   @ Stade de la Beaujoire-Louis Fonteneau › Nantes
+    21:00     Nantes v Angers  1-0 (1-0)   @ Stade de la Beaujoire-Louis Fonteneau › Nantes
               Nice v Lyon  3-1 (3-1)   @ Allianz Riviera › Nice
               Paris Saint Germain v Clermont Foot  2-3 (2-2)   @ Parc des Princes › Paris
               Monaco v Toulouse  1-2 (0-0)   @ Stade Louis II › Monaco

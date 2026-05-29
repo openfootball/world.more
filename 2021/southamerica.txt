@@ -1,67 +1,67 @@
 = Copa America 2021
 
-  # Date       Sun Jun/13 - Sat Jul/10 2021 (27d)
+  # Date       Sun Jun 13 - Sat Jul 10 2021 (27d)
   # Teams      10
   # Matches    28
 
   # Note - All times in America/Sao_Paulo
 
-» Group B - 1
+▪ Group B - 1
   Sun Jun 13 2021
-    18.00     Brazil v Venezuela  3-0 (1-0)   @ Estádio Nacional de Brasília › Brasília, Distrito Federal
+    18:00     Brazil v Venezuela  3-0 (1-0)   @ Estádio Nacional de Brasília › Brasília, Distrito Federal
   Sun Jun 13
-    21.00     Colombia v Ecuador  1-0 (1-0)   @ Arena Pantanal › Cuiabá, Mato Grosso
-» Group A - 1
+    21:00     Colombia v Ecuador  1-0 (1-0)   @ Arena Pantanal › Cuiabá, Mato Grosso
+▪ Group A - 1
   Mon Jun 14
-    18.00     Argentina v Chile  1-1 (1-0)   @ Estádio Nilton Santos › Rio de Janeiro
-    21.00     Paraguay v Bolivia  3-1 (0-1)   @ Estádio Olímpico Pedro Ludovico Teixeira › Goiânia, Goiás
-» Group B - 2
+    18:00     Argentina v Chile  1-1 (1-0)   @ Estádio Nilton Santos › Rio de Janeiro
+    21:00     Paraguay v Bolivia  3-1 (0-1)   @ Estádio Olímpico Pedro Ludovico Teixeira › Goiânia, Goiás
+▪ Group B - 2
   Thu Jun 17
-    18.00     Colombia v Venezuela  0-0 (0-0)   @ Estádio Olímpico Pedro Ludovico Teixeira › Goiânia, Goiás
-    21.00     Brazil v Peru  4-0 (1-0)   @ Estádio Nilton Santos › Rio de Janeiro
-» Group A - 2
+    18:00     Colombia v Venezuela  0-0 (0-0)   @ Estádio Olímpico Pedro Ludovico Teixeira › Goiânia, Goiás
+    21:00     Brazil v Peru  4-0 (1-0)   @ Estádio Nilton Santos › Rio de Janeiro
+▪ Group A - 2
   Fri Jun 18
-    18.00     Chile v Bolivia  1-0 (1-0)   @ Arena Pantanal › Cuiabá, Mato Grosso
-    21.00     Argentina v Uruguay  1-0 (1-0)   @ Estádio Nacional de Brasília › Brasília, Distrito Federal
-» Group B - 3
+    18:00     Chile v Bolivia  1-0 (1-0)   @ Arena Pantanal › Cuiabá, Mato Grosso
+    21:00     Argentina v Uruguay  1-0 (1-0)   @ Estádio Nacional de Brasília › Brasília, Distrito Federal
+▪ Group B - 3
   Sun Jun 20
-    18.00     Venezuela v Ecuador  2-2 (0-1)   @ Estádio Nilton Santos › Rio de Janeiro
-    21.00     Colombia v Peru  1-2 (0-1)   @ Estádio Olímpico Pedro Ludovico Teixeira › Goiânia, Goiás
-» Group A - 3
+    18:00     Venezuela v Ecuador  2-2 (0-1)   @ Estádio Nilton Santos › Rio de Janeiro
+    21:00     Colombia v Peru  1-2 (0-1)   @ Estádio Olímpico Pedro Ludovico Teixeira › Goiânia, Goiás
+▪ Group A - 3
   Mon Jun 21
-    18.00     Uruguay v Chile  1-1 (0-1)   @ Arena Pantanal › Cuiabá, Mato Grosso
-    21.00     Argentina v Paraguay  1-0 (1-0)   @ Estádio Nacional de Brasília › Brasília, Distrito Federal
-» Group B - 4
+    18:00     Uruguay v Chile  1-1 (0-1)   @ Arena Pantanal › Cuiabá, Mato Grosso
+    21:00     Argentina v Paraguay  1-0 (1-0)   @ Estádio Nacional de Brasília › Brasília, Distrito Federal
+▪ Group B - 4
   Wed Jun 23
-    18.00     Ecuador v Peru  2-2 (2-0)   @ Estádio Olímpico Pedro Ludovico Teixeira › Goiânia, Goiás
-    21.00     Brazil v Colombia  2-1 (0-1)   @ Estádio Nilton Santos › Rio de Janeiro
-» Group A - 4
+    18:00     Ecuador v Peru  2-2 (2-0)   @ Estádio Olímpico Pedro Ludovico Teixeira › Goiânia, Goiás
+    21:00     Brazil v Colombia  2-1 (0-1)   @ Estádio Nilton Santos › Rio de Janeiro
+▪ Group A - 4
   Thu Jun 24
-    18.00     Bolivia v Uruguay  0-2 (0-1)   @ Arena Pantanal › Cuiabá, Mato Grosso
-    21.00     Chile v Paraguay  0-2 (0-1)   @ Estádio Nacional de Brasília › Brasília, Distrito Federal
-» Group B - 5
+    18:00     Bolivia v Uruguay  0-2 (0-1)   @ Arena Pantanal › Cuiabá, Mato Grosso
+    21:00     Chile v Paraguay  0-2 (0-1)   @ Estádio Nacional de Brasília › Brasília, Distrito Federal
+▪ Group B - 5
   Sun Jun 27
-    18.00     Venezuela v Peru  0-1 (0-0)   @ Estádio Nacional de Brasília › Brasília, Distrito Federal
+    18:00     Venezuela v Peru  0-1 (0-0)   @ Estádio Nacional de Brasília › Brasília, Distrito Federal
               Brazil v Ecuador  1-1 (1-0)   @ Estádio Olímpico Pedro Ludovico Teixeira › Goiânia, Goiás
-» Group A - 5
+▪ Group A - 5
   Mon Jun 28
-    21.00     Bolivia v Argentina  1-4 (0-3)   @ Arena Pantanal › Cuiabá, Mato Grosso
+    21:00     Bolivia v Argentina  1-4 (0-3)   @ Arena Pantanal › Cuiabá, Mato Grosso
               Uruguay v Paraguay  1-0 (1-0)   @ Estádio Nilton Santos › Rio de Janeiro
-» Quarter-finals
+▪ Quarter-finals
   Fri Jul 2
-    18.00     Peru v Paraguay  4-3 pen (3-3, 3-3, 2-1)   @ Estádio Olímpico Pedro Ludovico Teixeira › Goiânia, Goiás
-    21.00     Brazil v Chile  1-0 (0-0)   @ Estádio Nilton Santos › Rio de Janeiro
+    18:00     Peru v Paraguay  4-3 pen (3-3, 3-3, 2-1)   @ Estádio Olímpico Pedro Ludovico Teixeira › Goiânia, Goiás
+    21:00     Brazil v Chile  1-0 (0-0)   @ Estádio Nilton Santos › Rio de Janeiro
   Sat Jul 3
-    19.00     Uruguay v Colombia  2-4 pen (0-0, 0-0, 0-0)   @ Estádio Nacional de Brasília › Brasília, Distrito Federal
-    22.00     Argentina v Ecuador  3-0 (1-0)   @ Estádio Olímpico Pedro Ludovico Teixeira › Goiânia, Goiás
-» Semi-finals
+    19:00     Uruguay v Colombia  2-4 pen (0-0, 0-0, 0-0)   @ Estádio Nacional de Brasília › Brasília, Distrito Federal
+    22:00     Argentina v Ecuador  3-0 (1-0)   @ Estádio Olímpico Pedro Ludovico Teixeira › Goiânia, Goiás
+▪ Semi-finals
   Mon Jul 5
-    20.00     Brazil v Peru  1-0 (1-0)   @ Estádio Nilton Santos › Rio de Janeiro
+    20:00     Brazil v Peru  1-0 (1-0)   @ Estádio Nilton Santos › Rio de Janeiro
   Tue Jul 6
-    22.00     Argentina v Colombia  3-2 pen (1-1, 1-1, 1-0)   @ Estádio Nacional de Brasília › Brasília, Distrito Federal
-» 3rd Place Final
+    22:00     Argentina v Colombia  3-2 pen (1-1, 1-1, 1-0)   @ Estádio Nacional de Brasília › Brasília, Distrito Federal
+▪ 3rd Place Final
   Fri Jul 9
-    21.00     Colombia v Peru  3-2 (0-1)   @ Estádio Nacional de Brasília › Brasília, Distrito Federal
-» Final
+    21:00     Colombia v Peru  3-2 (0-1)   @ Estádio Nacional de Brasília › Brasília, Distrito Federal
+▪ Final
   Sat Jul 10
-    21.00     Argentina v Brazil  1-0 (1-0)   @ Estadio Jornalista Mário Filho › Rio de Janeiro, Rio de Janeiro
+    21:00     Argentina v Brazil  1-0 (1-0)   @ Estadio Jornalista Mário Filho › Rio de Janeiro, Rio de Janeiro

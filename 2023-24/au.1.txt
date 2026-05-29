@@ -1,322 +1,322 @@
 = Australia | A-League 2023/24
 
-  # Date       Fri Oct/20 2023 - Sat May/25 2024 (218d)
+  # Date       Fri Oct 20 2023 - Sat May 25 2024 (218d)
   # Teams      12
   # Matches    169
 
   # Note - All times in Australia/Sydney
 
-» Regular Season - 1
+▪ Regular Season - 1
   Fri Oct 20 2023
-    19.45     Adelaide United v Central Coast Mariners  3-0 (1-0)   @ Coopers Stadium › Adelaide
+    19:45     Adelaide United v Central Coast Mariners  3-0 (1-0)   @ Coopers Stadium › Adelaide
   Sat Oct 21
-    15.30     Macarthur v Brisbane Roar  1-1 (0-0)   @ Campbelltown Sports Stadium › Sydney
-    17.30     Melbourne City v Western United  1-2 (0-0)   @ AAMI Park › Melbourne
-    19.45     Sydney v Melbourne Victory  0-2 (0-0)   @ Allianz Stadium › Sydney
+    15:30     Macarthur v Brisbane Roar  1-1 (0-0)   @ Campbelltown Sports Stadium › Sydney
+    17:30     Melbourne City v Western United  1-2 (0-0)   @ AAMI Park › Melbourne
+    19:45     Sydney v Melbourne Victory  0-2 (0-0)   @ Allianz Stadium › Sydney
   Sun Oct 22
-    15.00     Western Sydney Wanderers v Wellington Phoenix  0-0 (0-0)   @ CommBank Stadium › Sydney
-    19.45     Perth Glory v Newcastle Jets  2-2 (1-1)   @ HBF Park › Perth
-» Regular Season - 2
+    15:00     Western Sydney Wanderers v Wellington Phoenix  0-0 (0-0)   @ CommBank Stadium › Sydney
+    19:45     Perth Glory v Newcastle Jets  2-2 (1-1)   @ HBF Park › Perth
+▪ Regular Season - 2
   Fri Oct 27
-    19.45     Brisbane Roar v Sydney  3-0 (2-0)   @ Suncorp Stadium › Brisbane
+    19:45     Brisbane Roar v Sydney  3-0 (2-0)   @ Suncorp Stadium › Brisbane
   Sat Oct 28
-    15.30     Wellington Phoenix v Perth Glory  2-1 (1-0)   @ Sky Stadium › Wellington
-    19.45     Western Sydney Wanderers v Western United  5-0 (5-0)   @ CommBank Stadium › Sydney
+    15:30     Wellington Phoenix v Perth Glory  2-1 (1-0)   @ Sky Stadium › Wellington
+    19:45     Western Sydney Wanderers v Western United  5-0 (5-0)   @ CommBank Stadium › Sydney
   Sun Oct 29
-    15.00     Central Coast Mariners v Macarthur  1-2 (0-0)   @ Industree Group Stadium › Gosford
-    17.00     Melbourne Victory v Newcastle Jets  5-3 (4-1)   @ AAMI Park › Melbourne
-    19.00     Adelaide United v Melbourne City  6-0 (2-0)   @ Coopers Stadium › Adelaide
-» Regular Season - 3
+    15:00     Central Coast Mariners v Macarthur  1-2 (0-0)   @ Industree Group Stadium › Gosford
+    17:00     Melbourne Victory v Newcastle Jets  5-3 (4-1)   @ AAMI Park › Melbourne
+    19:00     Adelaide United v Melbourne City  6-0 (2-0)   @ Coopers Stadium › Adelaide
+▪ Regular Season - 3
   Fri Nov 3
-    19.45     Melbourne City v Sydney  2-0 (1-0)   @ AAMI Park › Melbourne
+    19:45     Melbourne City v Sydney  2-0 (1-0)   @ AAMI Park › Melbourne
   Sat Nov 4
-    15.30     Wellington Phoenix v Brisbane Roar  5-2 (2-1)   @ Sky Stadium › Wellington
-    17.30     Macarthur v Western United  1-0 (0-0)   @ Campbelltown Sports Stadium › Sydney
-    19.45     Melbourne Victory v Adelaide United  1-1 (1-0)   @ AAMI Park › Melbourne
-    21.45     Perth Glory v Central Coast Mariners  2-0 (0-0)   @ HBF Park › Perth
+    15:30     Wellington Phoenix v Brisbane Roar  5-2 (2-1)   @ Sky Stadium › Wellington
+    17:30     Macarthur v Western United  1-0 (0-0)   @ Campbelltown Sports Stadium › Sydney
+    19:45     Melbourne Victory v Adelaide United  1-1 (1-0)   @ AAMI Park › Melbourne
+    21:45     Perth Glory v Central Coast Mariners  2-0 (0-0)   @ HBF Park › Perth
   Sun Nov 5
-    15.00     Newcastle Jets v Western Sydney Wanderers  2-2 (2-0)   @ McDonald Jones Stadium › Newcastle
-» Regular Season - 4
+    15:00     Newcastle Jets v Western Sydney Wanderers  2-2 (2-0)   @ McDonald Jones Stadium › Newcastle
+▪ Regular Season - 4
   Fri Nov 10
-    19.45     Melbourne Victory v Wellington Phoenix  1-1 (1-1)   @ AAMI Park › Melbourne
+    19:45     Melbourne Victory v Wellington Phoenix  1-1 (1-1)   @ AAMI Park › Melbourne
   Sat Nov 11
-    15.30     Western United v Newcastle Jets  0-1 (0-1)   @ Mars Stadium › Ballarat
-    17.30     Western Sydney Wanderers v Perth Glory  2-0 (0-0)   @ CommBank Stadium › Sydney
-    19.45     Adelaide United v Sydney  1-5 (0-4)   @ Coopers Stadium › Adelaide
+    15:30     Western United v Newcastle Jets  0-1 (0-1)   @ Mars Stadium › Ballarat
+    17:30     Western Sydney Wanderers v Perth Glory  2-0 (0-0)   @ CommBank Stadium › Sydney
+    19:45     Adelaide United v Sydney  1-5 (0-4)   @ Coopers Stadium › Adelaide
   Sun Nov 12
-    15.00     Melbourne City v Macarthur  3-3 (0-0)   @ AAMI Park › Melbourne
-    17.00     Central Coast Mariners v Brisbane Roar  1-2 (1-2)   @ Industree Group Stadium › Gosford
-» Regular Season - 5
+    15:00     Melbourne City v Macarthur  3-3 (0-0)   @ AAMI Park › Melbourne
+    17:00     Central Coast Mariners v Brisbane Roar  1-2 (1-2)   @ Industree Group Stadium › Gosford
+▪ Regular Season - 5
   Fri Nov 24
-    19.45     Macarthur v Melbourne Victory  1-1 (1-0)   @ Campbelltown Sports Stadium › Sydney
+    19:45     Macarthur v Melbourne Victory  1-1 (1-0)   @ Campbelltown Sports Stadium › Sydney
   Sat Nov 25
-    14.30     Wellington Phoenix v Melbourne City  1-0 (0-0)   @ Go Media Stadium › Auckland
-    19.45     Sydney v Western Sydney Wanderers  0-1 (0-0)   @ Allianz Stadium › Sydney
-» Regular Season - 19
+    14:30     Wellington Phoenix v Melbourne City  1-0 (0-0)   @ Go Media Stadium › Auckland
+    19:45     Sydney v Western Sydney Wanderers  0-1 (0-0)   @ Allianz Stadium › Sydney
+▪ Regular Season - 19
   Sat Nov 25
-    17.30     Central Coast Mariners v Newcastle Jets  3-1 (1-0)   @ Industree Group Stadium › Gosford
-» Regular Season - 5
+    17:30     Central Coast Mariners v Newcastle Jets  3-1 (1-0)   @ Industree Group Stadium › Gosford
+▪ Regular Season - 5
   Sun Nov 26
-    15.00     Brisbane Roar v Perth Glory  2-1 (0-0)   @ Suncorp Stadium › Brisbane
-    17.00     Western United v Adelaide United  1-3 (0-1)   @ Mars Stadium › Ballarat
-» Regular Season - 6
+    15:00     Brisbane Roar v Perth Glory  2-1 (0-0)   @ Suncorp Stadium › Brisbane
+    17:00     Western United v Adelaide United  1-3 (0-1)   @ Mars Stadium › Ballarat
+▪ Regular Season - 6
   Fri Dec 1
-    19.45     Brisbane Roar v Western Sydney Wanderers  2-2 (2-0)   @ Suncorp Stadium › Brisbane
+    19:45     Brisbane Roar v Western Sydney Wanderers  2-2 (2-0)   @ Suncorp Stadium › Brisbane
   Sat Dec 2
-    17.30     Western United v Wellington Phoenix  0-1 (0-0)   @ Mars Stadium › Ballarat
-    19.45     Sydney v Perth Glory  3-2 (2-0)   @ Allianz Stadium › Sydney
+    17:30     Western United v Wellington Phoenix  0-1 (0-0)   @ Mars Stadium › Ballarat
+    19:45     Sydney v Perth Glory  3-2 (2-0)   @ Allianz Stadium › Sydney
   Sun Dec 3
-    15.00     Central Coast Mariners v Melbourne Victory  2-2 (1-1)   @ Industree Group Stadium › Gosford
-    17.00     Newcastle Jets v Melbourne City  0-2 (0-1)   @ McDonald Jones Stadium › Newcastle
+    15:00     Central Coast Mariners v Melbourne Victory  2-2 (1-1)   @ Industree Group Stadium › Gosford
+    17:00     Newcastle Jets v Melbourne City  0-2 (0-1)   @ McDonald Jones Stadium › Newcastle
   Mon Dec 4
-    19.00     Macarthur v Adelaide United  4-3 (2-2)   @ Campbelltown Sports Stadium › Sydney
-» Regular Season - 7
+    19:00     Macarthur v Adelaide United  4-3 (2-2)   @ Campbelltown Sports Stadium › Sydney
+▪ Regular Season - 7
   Fri Dec 8
-    19.45     Central Coast Mariners v Western United  4-0 (3-0)   @ Industree Group Stadium › Gosford
-    21.45     Perth Glory v Melbourne City  1-2 (1-1)   @ HBF Park › Perth
+    19:45     Central Coast Mariners v Western United  4-0 (3-0)   @ Industree Group Stadium › Gosford
+    21:45     Perth Glory v Melbourne City  1-2 (1-1)   @ HBF Park › Perth
   Sat Dec 9
-    17.30     Wellington Phoenix v Newcastle Jets  0-3 (0-2)   @ Sky Stadium › Wellington
-    19.45     Sydney v Macarthur  0-2 (0-1)   @ Allianz Stadium › Sydney
+    17:30     Wellington Phoenix v Newcastle Jets  0-3 (0-2)   @ Sky Stadium › Wellington
+    19:45     Sydney v Macarthur  0-2 (0-1)   @ Allianz Stadium › Sydney
   Sun Dec 10
-    15.00     Adelaide United v Brisbane Roar  0-2 (0-0)   @ Coopers Stadium › Adelaide
-    17.00     Western Sydney Wanderers v Melbourne Victory  3-4 (0-2)   @ CommBank Stadium › Sydney
-» Regular Season - 8
+    15:00     Adelaide United v Brisbane Roar  0-2 (0-0)   @ Coopers Stadium › Adelaide
+    17:00     Western Sydney Wanderers v Melbourne Victory  3-4 (0-2)   @ CommBank Stadium › Sydney
+▪ Regular Season - 8
   Fri Dec 15
-    18.00     Western United v Brisbane Roar  2-1 (0-0)   @ AAMI Park › Melbourne
-    19.45     Western Sydney Wanderers v Adelaide United  1-0 (1-0)   @ CommBank Stadium › Sydney
+    18:00     Western United v Brisbane Roar  2-1 (0-0)   @ AAMI Park › Melbourne
+    19:45     Western Sydney Wanderers v Adelaide United  1-0 (1-0)   @ CommBank Stadium › Sydney
   Sat Dec 16
-    18.00     Newcastle Jets v Perth Glory  2-2 (1-0)   @ McDonald Jones Stadium › Newcastle
-    19.45     Melbourne Victory v Sydney  3-0 (2-0)   @ AAMI Park › Melbourne
+    18:00     Newcastle Jets v Perth Glory  2-2 (1-0)   @ McDonald Jones Stadium › Newcastle
+    19:45     Melbourne Victory v Sydney  3-0 (2-0)   @ AAMI Park › Melbourne
   Sun Dec 17
-    17.00     Melbourne City v Central Coast Mariners  3-3 (1-0)   @ AAMI Park › Melbourne
+    17:00     Melbourne City v Central Coast Mariners  3-3 (1-0)   @ AAMI Park › Melbourne
   Mon Dec 18
-    19.00     Macarthur v Wellington Phoenix  0-3 (0-1)   @ Campbelltown Sports Stadium › Sydney
-» Regular Season - 9
+    19:00     Macarthur v Wellington Phoenix  0-3 (0-1)   @ Campbelltown Sports Stadium › Sydney
+▪ Regular Season - 9
   Thu Dec 21
-    19.45     Brisbane Roar v Central Coast Mariners  0-3 (0-1)   @ Suncorp Stadium › Brisbane
+    19:45     Brisbane Roar v Central Coast Mariners  0-3 (0-1)   @ Suncorp Stadium › Brisbane
   Fri Dec 22
-    19.45     Adelaide United v Newcastle Jets  3-1 (1-0)   @ Coopers Stadium › Adelaide
+    19:45     Adelaide United v Newcastle Jets  3-1 (1-0)   @ Coopers Stadium › Adelaide
   Sat Dec 23
-    15.30     Wellington Phoenix v Western Sydney Wanderers  2-0 (0-0)   @ Sky Stadium › Wellington
-    17.30     Sydney v Western United  4-2 (2-1)   @ Allianz Stadium › Sydney
-    19.45     Melbourne City v Melbourne Victory  0-0 (0-0)   @ AAMI Park › Melbourne
-    22.30     Perth Glory v Macarthur  3-2 (0-2)   @ HBF Park › Perth
-» Regular Season - 10
+    15:30     Wellington Phoenix v Western Sydney Wanderers  2-0 (0-0)   @ Sky Stadium › Wellington
+    17:30     Sydney v Western United  4-2 (2-1)   @ Allianz Stadium › Sydney
+    19:45     Melbourne City v Melbourne Victory  0-0 (0-0)   @ AAMI Park › Melbourne
+    22:30     Perth Glory v Macarthur  3-2 (0-2)   @ HBF Park › Perth
+▪ Regular Season - 10
   Thu Dec 28
-    19.45     Melbourne City v Brisbane Roar  8-1 (3-0)   @ AAMI Park › Melbourne
+    19:45     Melbourne City v Brisbane Roar  8-1 (3-0)   @ AAMI Park › Melbourne
   Fri Dec 29
-    19.45     Sydney v Wellington Phoenix  3-1 (1-0)   @ Allianz Stadium › Sydney
+    19:45     Sydney v Wellington Phoenix  3-1 (1-0)   @ Allianz Stadium › Sydney
   Sat Dec 30
-    17.30     Newcastle Jets v Western United  2-0 (2-0)   @ McDonald Jones Stadium › Newcastle
-    19.45     Melbourne Victory v Adelaide United  2-0 (0-0)   @ AAMI Park › Melbourne
+    17:30     Newcastle Jets v Western United  2-0 (2-0)   @ McDonald Jones Stadium › Newcastle
+    19:45     Melbourne Victory v Adelaide United  2-0 (0-0)   @ AAMI Park › Melbourne
   Sun Dec 31
-    19.00     Central Coast Mariners v Perth Glory  4-2 (3-1)   @ Industree Group Stadium › Gosford
+    19:00     Central Coast Mariners v Perth Glory  4-2 (3-1)   @ Industree Group Stadium › Gosford
   Mon Jan 1 2024
-    17.00     Western Sydney Wanderers v Macarthur  3-1 (2-1)   @ CommBank Stadium › Sydney
-» Regular Season - 11
+    17:00     Western Sydney Wanderers v Macarthur  3-1 (2-1)   @ CommBank Stadium › Sydney
+▪ Regular Season - 11
   Thu Jan 4
-    19.45     Adelaide United v Wellington Phoenix  2-2 (1-1)   @ Coopers Stadium › Adelaide
+    19:45     Adelaide United v Wellington Phoenix  2-2 (1-1)   @ Coopers Stadium › Adelaide
   Fri Jan 5
-    19.45     Macarthur v Newcastle Jets  1-1 (0-1)   @ Campbelltown Sports Stadium › Sydney
+    19:45     Macarthur v Newcastle Jets  1-1 (0-1)   @ Campbelltown Sports Stadium › Sydney
   Sat Jan 6
-    17.30     Western Sydney Wanderers v Central Coast Mariners  0-1 (0-1)   @ CommBank Stadium › Sydney
-    19.45     Brisbane Roar v Sydney  1-2 (1-2)   @ Suncorp Stadium › Brisbane
-    21.45     Perth Glory v Melbourne Victory  2-3 (1-1)   @ HBF Park › Perth
+    17:30     Western Sydney Wanderers v Central Coast Mariners  0-1 (0-1)   @ CommBank Stadium › Sydney
+    19:45     Brisbane Roar v Sydney  1-2 (1-2)   @ Suncorp Stadium › Brisbane
+    21:45     Perth Glory v Melbourne Victory  2-3 (1-1)   @ HBF Park › Perth
   Sun Jan 7
-    17.00     Western United v Melbourne City  1-2 (1-0)   @ AAMI Park › Melbourne
-» Regular Season - 12
+    17:00     Western United v Melbourne City  1-2 (1-0)   @ AAMI Park › Melbourne
+▪ Regular Season - 12
   Mon Jan 8
-    19.45     Adelaide United v Macarthur  1-1 (1-1)   @ Coopers Stadium › Adelaide
-» Regular Season - 27
+    19:45     Adelaide United v Macarthur  1-1 (1-1)   @ Coopers Stadium › Adelaide
+▪ Regular Season - 27
   Fri Jan 12
-    17.30     Macarthur v Western United  3-3 (1-1)   @ CommBank Stadium › Sydney
-    20.15     Melbourne City v Western Sydney Wanderers  0-1 (0-1)   @ CommBank Stadium › Sydney
+    17:30     Macarthur v Western United  3-3 (1-1)   @ CommBank Stadium › Sydney
+    20:15     Melbourne City v Western Sydney Wanderers  0-1 (0-1)   @ CommBank Stadium › Sydney
   Sat Jan 13
-    17.15     Central Coast Mariners v Melbourne Victory  1-1 (0-1)   @ Allianz Stadium › Sydney
-    20.00     Adelaide United v Sydney  4-3 (3-1)   @ Allianz Stadium › Sydney
+    17:15     Central Coast Mariners v Melbourne Victory  1-1 (0-1)   @ Allianz Stadium › Sydney
+    20:00     Adelaide United v Sydney  4-3 (3-1)   @ Allianz Stadium › Sydney
   Sun Jan 14
-    19.45     Brisbane Roar v Newcastle Jets  3-2 (0-1)   @ Allianz Stadium › Sydney
+    19:45     Brisbane Roar v Newcastle Jets  3-2 (0-1)   @ Allianz Stadium › Sydney
               Perth Glory v Wellington Phoenix  3-4 (1-2)   @ CommBank Stadium › Sydney
-» Regular Season - 13
+▪ Regular Season - 13
   Thu Jan 18
-    19.45     Brisbane Roar v Macarthur  1-3 (0-1)   @ Suncorp Stadium › Brisbane
+    19:45     Brisbane Roar v Macarthur  1-3 (0-1)   @ Suncorp Stadium › Brisbane
   Fri Jan 19
-    17.00     Wellington Phoenix v Melbourne Victory  1-1 (0-0)   @ Sky Stadium › Wellington
-    19.45     Sydney v Newcastle Jets  4-0 (1-0)   @ Allianz Stadium › Sydney
+    17:00     Wellington Phoenix v Melbourne Victory  1-1 (0-0)   @ Sky Stadium › Wellington
+    19:45     Sydney v Newcastle Jets  4-0 (1-0)   @ Allianz Stadium › Sydney
   Sat Jan 20
-    19.45     Western Sydney Wanderers v Perth Glory  1-2 (0-1)   @ CommBank Stadium › Sydney
+    19:45     Western Sydney Wanderers v Perth Glory  1-2 (0-1)   @ CommBank Stadium › Sydney
   Sun Jan 21
-    17.00     Central Coast Mariners v Melbourne City  2-1 (0-0)   @ Industree Group Stadium › Gosford
-» Regular Season - 12
+    17:00     Central Coast Mariners v Melbourne City  2-1 (0-0)   @ Industree Group Stadium › Gosford
+▪ Regular Season - 12
   Tue Jan 23
-    19.00     Newcastle Jets v Brisbane Roar  3-1 (1-0)   @ McDonald Jones Stadium › Newcastle
-» Regular Season - 14
+    19:00     Newcastle Jets v Brisbane Roar  3-1 (1-0)   @ McDonald Jones Stadium › Newcastle
+▪ Regular Season - 14
   Thu Jan 25
-    19.45     Melbourne City v Adelaide United  1-0 (1-0)   @ AAMI Park › Melbourne
+    19:45     Melbourne City v Adelaide United  1-0 (1-0)   @ AAMI Park › Melbourne
   Fri Jan 26
-    19.45     Melbourne Victory v Sydney  1-1 (1-1)   @ AAMI Park › Melbourne
+    19:45     Melbourne Victory v Sydney  1-1 (1-1)   @ AAMI Park › Melbourne
   Sat Jan 27
-    17.00     Western United v Western Sydney Wanderers  0-1 (0-1)   @ North Hobart Oval › Hobart
-    18.00     Newcastle Jets v Wellington Phoenix  1-2 (0-1)   @ McDonald Jones Stadium › Newcastle
-    19.45     Central Coast Mariners v Brisbane Roar  2-0 (1-0)   @ Industree Group Stadium › Gosford
+    17:00     Western United v Western Sydney Wanderers  0-1 (0-1)   @ North Hobart Oval › Hobart
+    18:00     Newcastle Jets v Wellington Phoenix  1-2 (0-1)   @ McDonald Jones Stadium › Newcastle
+    19:45     Central Coast Mariners v Brisbane Roar  2-0 (1-0)   @ Industree Group Stadium › Gosford
   Sun Jan 28
-    17.00     Macarthur v Perth Glory  2-2 (1-0)   @ Campbelltown Sports Stadium › Sydney
-» Regular Season - 15
+    17:00     Macarthur v Perth Glory  2-2 (1-0)   @ Campbelltown Sports Stadium › Sydney
+▪ Regular Season - 15
   Fri Feb 2
-    19.45     Brisbane Roar v Wellington Phoenix  1-1 (0-0)   @ Suncorp Stadium › Brisbane
-    21.45     Perth Glory v Melbourne City  4-2 (1-1)   @ HBF Park › Perth
+    19:45     Brisbane Roar v Wellington Phoenix  1-1 (0-0)   @ Suncorp Stadium › Brisbane
+    21:45     Perth Glory v Melbourne City  4-2 (1-1)   @ HBF Park › Perth
   Sat Feb 3
-    17.00     Western United v Sydney  2-2 (1-2)   @ North Hobart Oval › Hobart
-    18.00     Newcastle Jets v Melbourne Victory  1-1 (0-1)   @ McDonald Jones Stadium › Newcastle
-    19.45     Adelaide United v Central Coast Mariners  0-4 (0-3)   @ Coopers Stadium › Adelaide
+    17:00     Western United v Sydney  2-2 (1-2)   @ North Hobart Oval › Hobart
+    18:00     Newcastle Jets v Melbourne Victory  1-1 (0-1)   @ McDonald Jones Stadium › Newcastle
+    19:45     Adelaide United v Central Coast Mariners  0-4 (0-3)   @ Coopers Stadium › Adelaide
   Sun Feb 4
-    19.00     Macarthur v Western Sydney Wanderers  4-3 (3-3)   @ Campbelltown Sports Stadium › Sydney
-» Regular Season - 12
+    19:00     Macarthur v Western Sydney Wanderers  4-3 (3-3)   @ Campbelltown Sports Stadium › Sydney
+▪ Regular Season - 12
   Tue Feb 6
-    14.00     Wellington Phoenix v Central Coast Mariners  0-0 (0-0)   @ Sky Stadium › Wellington
-» Regular Season - 16
+    14:00     Wellington Phoenix v Central Coast Mariners  0-0 (0-0)   @ Sky Stadium › Wellington
+▪ Regular Season - 16
   Fri Feb 9
-    19.45     Adelaide United v Perth Glory  3-3 (2-1)   @ Coopers Stadium › Adelaide
+    19:45     Adelaide United v Perth Glory  3-3 (2-1)   @ Coopers Stadium › Adelaide
   Sat Feb 10
-    15.30     Wellington Phoenix v Western United  2-0 (1-0)   @ Sky Stadium › Wellington
-    17.30     Melbourne Victory v Macarthur  0-1 (0-1)   @ AAMI Park › Melbourne
-    18.00     Brisbane Roar v Melbourne City  5-1 (4-0)   @ Suncorp Stadium › Brisbane
-    19.45     Central Coast Mariners v Sydney  1-3 (0-3)   @ Industree Group Stadium › Gosford
+    15:30     Wellington Phoenix v Western United  2-0 (1-0)   @ Sky Stadium › Wellington
+    17:30     Melbourne Victory v Macarthur  0-1 (0-1)   @ AAMI Park › Melbourne
+    18:00     Brisbane Roar v Melbourne City  5-1 (4-0)   @ Suncorp Stadium › Brisbane
+    19:45     Central Coast Mariners v Sydney  1-3 (0-3)   @ Industree Group Stadium › Gosford
   Sun Feb 11
-    17.00     Western Sydney Wanderers v Newcastle Jets  3-3 (2-1)   @ CommBank Stadium › Sydney
-» Regular Season - 17
+    17:00     Western Sydney Wanderers v Newcastle Jets  3-3 (2-1)   @ CommBank Stadium › Sydney
+▪ Regular Season - 17
   Fri Feb 16
-    19.45     Western United v Newcastle Jets  2-0 (1-0)   @ AAMI Park › Melbourne
+    19:45     Western United v Newcastle Jets  2-0 (1-0)   @ AAMI Park › Melbourne
   Sat Feb 17
-    18.00     Sydney v Adelaide United  2-1 (1-0)   @ Allianz Stadium › Sydney
-    19.45     Melbourne City v Melbourne Victory  0-0 (0-0)   @ AAMI Park › Melbourne
-    21.45     Perth Glory v Brisbane Roar  3-2 (1-2)   @ HBF Park › Perth
+    18:00     Sydney v Adelaide United  2-1 (1-0)   @ Allianz Stadium › Sydney
+    19:45     Melbourne City v Melbourne Victory  0-0 (0-0)   @ AAMI Park › Melbourne
+    21:45     Perth Glory v Brisbane Roar  3-2 (1-2)   @ HBF Park › Perth
   Sun Feb 18
-    17.00     Macarthur v Wellington Phoenix  1-2 (0-1)   @ Campbelltown Sports Stadium › Sydney
+    17:00     Macarthur v Wellington Phoenix  1-2 (0-1)   @ Campbelltown Sports Stadium › Sydney
               Central Coast Mariners v Western Sydney Wanderers  1-0 (0-0)   @ Industree Group Stadium › Gosford
-» Regular Season - 12
+▪ Regular Season - 12
   Tue Feb 20
-    19.00     Melbourne Victory v Western United  2-1 (0-0)   @ AAMI Park › Melbourne
-» Regular Season - 18
+    19:00     Melbourne Victory v Western United  2-1 (0-0)   @ AAMI Park › Melbourne
+▪ Regular Season - 18
   Fri Feb 23
-    19.45     Brisbane Roar v Western United  2-2 (0-1)   @ Suncorp Stadium › Brisbane
+    19:45     Brisbane Roar v Western United  2-2 (0-1)   @ Suncorp Stadium › Brisbane
   Sat Feb 24
-    17.30     Sydney v Melbourne City  1-1 (1-0)   @ Allianz Stadium › Sydney
-    19.45     Adelaide United v Western Sydney Wanderers  1-2 (0-2)   @ Coopers Stadium › Adelaide
-    21.45     Perth Glory v Wellington Phoenix  0-0 (0-0)   @ HBF Park › Perth
+    17:30     Sydney v Melbourne City  1-1 (1-0)   @ Allianz Stadium › Sydney
+    19:45     Adelaide United v Western Sydney Wanderers  1-2 (0-2)   @ Coopers Stadium › Adelaide
+    21:45     Perth Glory v Wellington Phoenix  0-0 (0-0)   @ HBF Park › Perth
   Sun Feb 25
-    17.00     Newcastle Jets v Macarthur  2-2 (0-0)   @ McDonald Jones Stadium › Newcastle
+    17:00     Newcastle Jets v Macarthur  2-2 (0-0)   @ McDonald Jones Stadium › Newcastle
               Melbourne Victory v Central Coast Mariners  0-1 (0-0)   @ AAMI Park › Melbourne
-» Regular Season - 19
+▪ Regular Season - 19
   Fri Mar 1
-    19.45     Macarthur v Melbourne City  2-0 (0-0)   @ Campbelltown Sports Stadium › Sydney
-» Regular Season - 5
+    19:45     Macarthur v Melbourne City  2-0 (0-0)   @ Campbelltown Sports Stadium › Sydney
+▪ Regular Season - 5
   Sat Mar 2
-    18.00     Newcastle Jets v Central Coast Mariners  0-1 (0-0)   @ McDonald Jones Stadium › Newcastle
-» Regular Season - 19
+    18:00     Newcastle Jets v Central Coast Mariners  0-1 (0-0)   @ McDonald Jones Stadium › Newcastle
+▪ Regular Season - 19
   Sat Mar 2
-    17.00     Western United v Perth Glory  1-0 (0-0)   @ Mars Stadium › Ballarat
-    19.45     Western Sydney Wanderers v Sydney  1-4 (0-2)   @ CommBank Stadium › Sydney
+    17:00     Western United v Perth Glory  1-0 (0-0)   @ Mars Stadium › Ballarat
+    19:45     Western Sydney Wanderers v Sydney  1-4 (0-2)   @ CommBank Stadium › Sydney
   Sun Mar 3
-    15.00     Wellington Phoenix v Adelaide United  3-2 (1-0)   @ Sky Stadium › Wellington
-    17.00     Brisbane Roar v Melbourne Victory  3-2 (1-1)   @ Suncorp Stadium › Brisbane
-» Regular Season - 20
+    15:00     Wellington Phoenix v Adelaide United  3-2 (1-0)   @ Sky Stadium › Wellington
+    17:00     Brisbane Roar v Melbourne Victory  3-2 (1-1)   @ Suncorp Stadium › Brisbane
+▪ Regular Season - 20
   Fri Mar 8
-    19.45     Western Sydney Wanderers v Western United  1-3 (0-0)   @ CommBank Stadium › Sydney
+    19:45     Western Sydney Wanderers v Western United  1-3 (0-0)   @ CommBank Stadium › Sydney
   Sat Mar 9
-    19.00     Melbourne City v Wellington Phoenix  1-0 (0-0)   @ AAMI Park › Melbourne
-    20.15     Adelaide United v Melbourne Victory  1-2 (0-1)   @ Coopers Stadium › Adelaide
-    21.45     Perth Glory v Newcastle Jets  2-2 (0-1)   @ HBF Park › Perth
+    19:00     Melbourne City v Wellington Phoenix  1-0 (0-0)   @ AAMI Park › Melbourne
+    20:15     Adelaide United v Melbourne Victory  1-2 (0-1)   @ Coopers Stadium › Adelaide
+    21:45     Perth Glory v Newcastle Jets  2-2 (0-1)   @ HBF Park › Perth
   Sun Mar 10
-    17.00     Sydney v Brisbane Roar  1-1 (0-0)   @ Allianz Stadium › Sydney
+    17:00     Sydney v Brisbane Roar  1-1 (0-0)   @ Allianz Stadium › Sydney
               Macarthur v Central Coast Mariners  0-3 (0-2)   @ Campbelltown Sports Stadium › Sydney
-» Regular Season - 12
+▪ Regular Season - 12
   Tue Mar 12
-    19.00     Melbourne City v Western Sydney Wanderers  7-0 (4-0)   @ AAMI Park › Melbourne
-» Regular Season - 21
+    19:00     Melbourne City v Western Sydney Wanderers  7-0 (4-0)   @ AAMI Park › Melbourne
+▪ Regular Season - 21
   Thu Mar 14
-    19.00     Western United v Melbourne Victory  2-2 (1-0)   @ AAMI Park › Melbourne
+    19:00     Western United v Melbourne Victory  2-2 (1-0)   @ AAMI Park › Melbourne
   Fri Mar 15
-    19.45     Newcastle Jets v Adelaide United  0-1 (0-0)   @ McDonald Jones Stadium › Newcastle
+    19:45     Newcastle Jets v Adelaide United  0-1 (0-0)   @ McDonald Jones Stadium › Newcastle
   Sat Mar 16
-    15.30     Wellington Phoenix v Sydney  2-1 (0-1)   @ Eden Park › Auckland
-    16.00     Brisbane Roar v Macarthur  1-2 (1-2)   @ Ballymore Stadium › Brisbane
-    19.45     Perth Glory v Western Sydney Wanderers  1-2 (1-1)   @ HBF Park › Perth
-» Regular Season - 22
+    15:30     Wellington Phoenix v Sydney  2-1 (0-1)   @ Eden Park › Auckland
+    16:00     Brisbane Roar v Macarthur  1-2 (1-2)   @ Ballymore Stadium › Brisbane
+    19:45     Perth Glory v Western Sydney Wanderers  1-2 (1-1)   @ HBF Park › Perth
+▪ Regular Season - 22
   Fri Mar 29
-    19.45     Adelaide United v Western United  4-1 (1-0)   @ Coopers Stadium › Adelaide
+    19:45     Adelaide United v Western United  4-1 (1-0)   @ Coopers Stadium › Adelaide
   Sat Mar 30
-    17.30     Melbourne City v Newcastle Jets  0-0 (0-0)   @ AAMI Park › Melbourne
-    19.45     Sydney v Central Coast Mariners  2-0 (0-0)   @ Allianz Stadium › Sydney
+    17:30     Melbourne City v Newcastle Jets  0-0 (0-0)   @ AAMI Park › Melbourne
+    19:45     Sydney v Central Coast Mariners  2-0 (0-0)   @ Allianz Stadium › Sydney
   Sun Mar 31
-    10.00     Wellington Phoenix v Brisbane Roar  1-0 (1-0)   @ Sky Stadium › Wellington
-    15.00     Melbourne Victory v Perth Glory  2-1 (1-0)   @ AAMI Park › Melbourne
+    10:00     Wellington Phoenix v Brisbane Roar  1-0 (1-0)   @ Sky Stadium › Wellington
+    15:00     Melbourne Victory v Perth Glory  2-1 (1-0)   @ AAMI Park › Melbourne
   Mon Apr 1
-    15.00     Macarthur v Western Sydney Wanderers  1-3 (0-0)   @ Campbelltown Sports Stadium › Sydney
-» Regular Season - 21
+    15:00     Macarthur v Western Sydney Wanderers  1-3 (0-0)   @ Campbelltown Sports Stadium › Sydney
+▪ Regular Season - 21
   Tue Apr 2
-    19.00     Central Coast Mariners v Melbourne City  2-1 (0-0)   @ Industree Group Stadium › Gosford
-» Regular Season - 12
+    19:00     Central Coast Mariners v Melbourne City  2-1 (0-0)   @ Industree Group Stadium › Gosford
+▪ Regular Season - 12
   Wed Apr 3
-    21.45     Perth Glory v Sydney  1-1 (0-1)   @ HBF Park › Perth
-» Regular Season - 23
+    21:45     Perth Glory v Sydney  1-1 (0-1)   @ HBF Park › Perth
+▪ Regular Season - 23
   Fri Apr 5
-    19.45     Western Sydney Wanderers v Brisbane Roar  1-2 (0-1)   @ CommBank Stadium › Sydney
+    19:45     Western Sydney Wanderers v Brisbane Roar  1-2 (0-1)   @ CommBank Stadium › Sydney
   Sat Apr 6
-    15.30     Western United v Macarthur  4-2 (0-2)   @ Regional Football Facility Tarneit › Melbourne
-    17.30     Central Coast Mariners v Wellington Phoenix  2-1 (0-0)   @ Industree Group Stadium › Gosford
-    19.45     Melbourne Victory v Melbourne City  2-1 (1-1)   @ AAMI Park › Melbourne
+    15:30     Western United v Macarthur  4-2 (0-2)   @ Regional Football Facility Tarneit › Melbourne
+    17:30     Central Coast Mariners v Wellington Phoenix  2-1 (0-0)   @ Industree Group Stadium › Gosford
+    19:45     Melbourne Victory v Melbourne City  2-1 (1-1)   @ AAMI Park › Melbourne
   Sun Apr 7
-    15.00     Newcastle Jets v Sydney  3-1 (2-1)   @ McDonald Jones Stadium › Newcastle
-    17.00     Perth Glory v Adelaide United  2-4 (2-3)   @ HBF Park › Perth
-» Regular Season - 24
+    15:00     Newcastle Jets v Sydney  3-1 (2-1)   @ McDonald Jones Stadium › Newcastle
+    17:00     Perth Glory v Adelaide United  2-4 (2-3)   @ HBF Park › Perth
+▪ Regular Season - 24
   Fri Apr 12
-    17.00     Wellington Phoenix v Melbourne Victory  1-0 (0-0)   @ Sky Stadium › Wellington
-    19.45     Adelaide United v Macarthur  1-2 (1-0)   @ Coopers Stadium › Adelaide
+    17:00     Wellington Phoenix v Melbourne Victory  1-0 (0-0)   @ Sky Stadium › Wellington
+    19:45     Adelaide United v Macarthur  1-2 (1-0)   @ Coopers Stadium › Adelaide
   Sat Apr 13
-    15.30     Western United v Central Coast Mariners  0-2 (0-0)   @ Regional Football Facility Tarneit › Melbourne
-    17.30     Brisbane Roar v Newcastle Jets  0-2 (0-0)   @ Suncorp Stadium › Brisbane
-    19.45     Sydney v Western Sydney Wanderers  2-1 (0-0)   @ Allianz Stadium › Sydney
+    15:30     Western United v Central Coast Mariners  0-2 (0-0)   @ Regional Football Facility Tarneit › Melbourne
+    17:30     Brisbane Roar v Newcastle Jets  0-2 (0-0)   @ Suncorp Stadium › Brisbane
+    19:45     Sydney v Western Sydney Wanderers  2-1 (0-0)   @ Allianz Stadium › Sydney
   Sun Apr 14
-    15.00     Melbourne City v Perth Glory  8-0 (5-0)   @ AAMI Park › Melbourne
-» Regular Season - 13
+    15:00     Melbourne City v Perth Glory  8-0 (5-0)   @ AAMI Park › Melbourne
+▪ Regular Season - 13
   Tue Apr 16
-    19.00     Western United v Adelaide United  3-3 (2-1)   @ Regional Football Facility Tarneit › Melbourne
-» Regular Season - 25
+    19:00     Western United v Adelaide United  3-3 (2-1)   @ Regional Football Facility Tarneit › Melbourne
+▪ Regular Season - 25
   Fri Apr 19
-    19.45     Newcastle Jets v Wellington Phoenix  1-1 (1-0)   @ McDonald Jones Stadium › Newcastle
+    19:45     Newcastle Jets v Wellington Phoenix  1-1 (1-0)   @ McDonald Jones Stadium › Newcastle
   Sat Apr 20
-    15.30     Western Sydney Wanderers v Melbourne City  1-2 (0-2)   @ CommBank Stadium › Sydney
-    17.30     Melbourne Victory v Brisbane Roar  0-0 (0-0)   @ AAMI Park › Melbourne
-    19.45     Macarthur v Sydney  1-0 (1-0)   @ Campbelltown Sports Stadium › Sydney
+    15:30     Western Sydney Wanderers v Melbourne City  1-2 (0-2)   @ CommBank Stadium › Sydney
+    17:30     Melbourne Victory v Brisbane Roar  0-0 (0-0)   @ AAMI Park › Melbourne
+    19:45     Macarthur v Sydney  1-0 (1-0)   @ Campbelltown Sports Stadium › Sydney
   Sun Apr 21
-    17.00     Perth Glory v Western United  3-4 (1-1)   @ HBF Park › Perth
-» Regular Season - 26
+    17:00     Perth Glory v Western United  3-4 (1-1)   @ HBF Park › Perth
+▪ Regular Season - 26
   Fri Apr 26
-    19.45     Brisbane Roar v Adelaide United  3-4 (1-1)   @ Suncorp Stadium › Brisbane
+    19:45     Brisbane Roar v Adelaide United  3-4 (1-1)   @ Suncorp Stadium › Brisbane
   Sat Apr 27
-    17.15     Newcastle Jets v Central Coast Mariners  1-3 (0-1)   @ McDonald Jones Stadium › Newcastle
+    17:15     Newcastle Jets v Central Coast Mariners  1-3 (0-1)   @ McDonald Jones Stadium › Newcastle
               Wellington Phoenix v Macarthur  3-0 (2-0)   @ Sky Stadium › Wellington
-    19.45     Melbourne Victory v Western Sydney Wanderers  3-4 (2-2)   @ AAMI Park › Melbourne
+    19:45     Melbourne Victory v Western Sydney Wanderers  3-4 (2-2)   @ AAMI Park › Melbourne
   Sun Apr 28
-    15.00     Sydney v Perth Glory  7-1 (3-0)   @ Allianz Stadium › Sydney
-    17.00     Melbourne City v Western United  1-0 (1-0)   @ AAMI Park › Melbourne
-» Regular Season - 25
+    15:00     Sydney v Perth Glory  7-1 (3-0)   @ Allianz Stadium › Sydney
+    17:00     Melbourne City v Western United  1-0 (1-0)   @ AAMI Park › Melbourne
+▪ Regular Season - 25
   Wed May 1
-    19.00     Central Coast Mariners v Adelaide United  2-0 (1-0)   @ Industree Group Stadium › Gosford
-» Elimination Finals
+    19:00     Central Coast Mariners v Adelaide United  2-0 (1-0)   @ Industree Group Stadium › Gosford
+▪ Elimination Finals
   Sat May 4
-    19.45     Sydney v Macarthur  4-0 (1-0)   @ Allianz Stadium › Sydney
+    19:45     Sydney v Macarthur  4-0 (1-0)   @ Allianz Stadium › Sydney
   Sun May 5
-    17.00     Melbourne Victory v Melbourne City  3-2 pen (1-1, 1-1, 0-1)   @ AAMI Park › Melbourne
-» Semi-finals
+    17:00     Melbourne Victory v Melbourne City  3-2 pen (1-1, 1-1, 0-1)   @ AAMI Park › Melbourne
+▪ Semi-finals
   Fri May 10
-    19.45     Sydney v Central Coast Mariners  1-2 (1-1)   @ Allianz Stadium › Sydney
+    19:45     Sydney v Central Coast Mariners  1-2 (1-1)   @ Allianz Stadium › Sydney
   Sun May 12
-    16.00     Melbourne Victory v Wellington Phoenix  0-0 (0-0)   @ AAMI Park › Melbourne
+    16:00     Melbourne Victory v Wellington Phoenix  0-0 (0-0)   @ AAMI Park › Melbourne
   Sat May 18
-    16.30     Wellington Phoenix v Melbourne Victory  1-2 aet (1-1, 0-0)   @ Sky Stadium › Wellington
-    19.45     Central Coast Mariners v Sydney  0-0 (0-0)   @ Industree Group Stadium › Gosford
-» Grand Final
+    16:30     Wellington Phoenix v Melbourne Victory  1-2 aet (1-1, 0-0)   @ Sky Stadium › Wellington
+    19:45     Central Coast Mariners v Sydney  0-0 (0-0)   @ Industree Group Stadium › Gosford
+▪ Grand Final
   Sat May 25
-    19.45     Central Coast Mariners v Melbourne Victory  3-1 aet (1-1, 0-0)   @ Industree Group Stadium › Gosford
+    19:45     Central Coast Mariners v Melbourne Victory  3-1 aet (1-1, 0-0)   @ Industree Group Stadium › Gosford

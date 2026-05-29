@@ -1,313 +1,313 @@
 = UEFA Europa League 2021/22
 
-  # Date       Tue Aug/3 2021 - Wed May/18 2022 (288d)
+  # Date       Tue Aug 3 2021 - Wed May 18 2022 (288d)
   # Teams      58
   # Matches    177
 
   # Note - All times in Europe/Paris
 
-» 3rd Qualifying Round
+▪ 3rd Qualifying Round
   Tue Aug 3 2021
-    19.00     Neftchi Baku (AZE) v HJK helsinki (FIN)  2-2 (0-0)   @ Bakcell Arena › Baku
+    19:00     Neftchi Baku (AZE) v HJK helsinki (FIN)  2-2 (0-0)   @ Bakcell Arena › Baku
   Thu Aug 5
-    16.00     Kairat Almaty (KAZ) v Alashkert (ARM)  0-0 (0-0)   @ Ortalıq Stadion › Almaty
-    17.45     FK Jablonec (CZE) v Celtic (SCO)  2-4 (1-2)   @ Stadion Střelnice › Jablonec nad Nisou
-    18.00     Omonia Nicosia (CYP) v Flora Tallinn (EST)  1-0 (1-0)   @ Neo GSP › Levkosía
+    16:00     Kairat Almaty (KAZ) v Alashkert (ARM)  0-0 (0-0)   @ Ortalıq Stadion › Almaty
+    17:45     FK Jablonec (CZE) v Celtic (SCO)  2-4 (1-2)   @ Stadion Střelnice › Jablonec nad Nisou
+    18:00     Omonia Nicosia (CYP) v Flora Tallinn (EST)  1-0 (1-0)   @ Neo GSP › Levkosía
               Lincoln Red Imps FC (GIB) v Slovan Bratislava (SVK)  1-3 (0-1)   @ Victoria Stadium › Gibraltar
-    20.00     Galatasaray (TUR) v ST Johnstone (SCO)  1-1 (0-0)   @ Başakşehir Fatih Terim Stadyumu › İstanbul
+    20:00     Galatasaray (TUR) v ST Johnstone (SCO)  1-1 (0-0)   @ Başakşehir Fatih Terim Stadyumu › İstanbul
               Mura (SVN) v FK Zalgiris Vilnius (LTU)  0-0 (0-0)   @ Mestni Štadion Fazanerija › Murska Sobota
-    20.30     Rapid Vienna (AUT) v Anorthosis (CYP)  3-0 (1-0)   @ Allianz Stadion › Wien
+    20:30     Rapid Vienna (AUT) v Anorthosis (CYP)  3-0 (1-0)   @ Allianz Stadion › Wien
   Tue Aug 10
-    18.00     Flora Tallinn (EST) v Omonia Nicosia (CYP)  4-5 pen (2-1, 2-1, 0-1)   @ A. Le Coq Arena › Tallinn
-    20.30     Slovan Bratislava (SVK) v Lincoln Red Imps FC (GIB)  1-1 (1-0)   @ Štadión Tehelné pole › Bratislava
+    18:00     Flora Tallinn (EST) v Omonia Nicosia (CYP)  4-5 pen (2-1, 2-1, 0-1)   @ A. Le Coq Arena › Tallinn
+    20:30     Slovan Bratislava (SVK) v Lincoln Red Imps FC (GIB)  1-1 (1-0)   @ Štadión Tehelné pole › Bratislava
   Thu Aug 12
-    17.00     Alashkert (ARM) v Kairat Almaty (KAZ)  3-2 aet (2-2, 1-1)   @ Vazgen Sargsyan anvan Hanrapetakan Marzadasht › Yerevan
-    18.00     HJK helsinki (FIN) v Neftchi Baku (AZE)  3-0 (0-0)   @ Bolt Arena › Helsinki
-    19.00     Anorthosis (CYP) v Rapid Vienna (AUT)  2-1 (1-0)   @ Stadio Antonis Papadopoulos › Larnaca
+    17:00     Alashkert (ARM) v Kairat Almaty (KAZ)  3-2 aet (2-2, 1-1)   @ Vazgen Sargsyan anvan Hanrapetakan Marzadasht › Yerevan
+    18:00     HJK helsinki (FIN) v Neftchi Baku (AZE)  3-0 (0-0)   @ Bolt Arena › Helsinki
+    19:00     Anorthosis (CYP) v Rapid Vienna (AUT)  2-1 (1-0)   @ Stadio Antonis Papadopoulos › Larnaca
               FK Zalgiris Vilnius (LTU) v Mura (SVN)  0-1 (0-1)   @ Vilniaus LFF stadionas › Vilnius
-    20.00     ST Johnstone (SCO) v Galatasaray (TUR)  2-4 (1-1)   @ McDiarmid Park › Perth
-    20.45     Celtic (SCO) v FK Jablonec (CZE)  3-0 (1-0)   @ Celtic Park › Glasgow
-» Play-offs
+    20:00     ST Johnstone (SCO) v Galatasaray (TUR)  2-4 (1-1)   @ McDiarmid Park › Perth
+    20:45     Celtic (SCO) v FK Jablonec (CZE)  3-0 (1-0)   @ Celtic Park › Glasgow
+▪ Play-offs
   Tue Aug 17
-    21.00     FK Crvena Zvezda (SRB) v CFR 1907 Cluj (ROU)  4-0 (2-0)   @ Stadion Rajko Mitić › Beograd
+    21:00     FK Crvena Zvezda (SRB) v CFR 1907 Cluj (ROU)  4-0 (2-0)   @ Stadion Rajko Mitić › Beograd
   Wed Aug 18
-    20.45     Celtic (SCO) v AZ Alkmaar (NED)  2-0 (1-0)   @ Celtic Park › Glasgow
+    20:45     Celtic (SCO) v AZ Alkmaar (NED)  2-0 (1-0)   @ Celtic Park › Glasgow
   Thu Aug 19
-    19.00     Slavia Praha (CZE) v Legia Warszawa (POL)  2-2 (2-2)   @ Sinobo Stadium › Praha
+    19:00     Slavia Praha (CZE) v Legia Warszawa (POL)  2-2 (2-2)   @ Sinobo Stadium › Praha
               Omonia Nicosia (CYP) v Antwerp (BEL)  4-2 (1-1)   @ Neo GSP › Levkosía
               Randers FC (DEN) v Galatasaray (TUR)  1-1 (0-1)   @ Cepheus Park Randers › Randers
-    20.00     Mura (SVN) v Sturm Graz (AUT)  1-3 (1-1)   @ Mestni Štadion Fazanerija › Murska Sobota
-    20.45     Fenerbahce (TUR) v HJK helsinki (FIN)  1-0 (0-0)   @ Ülker Stadyumu Fenerbahçe Şükrü Saracoğlu Spor Kompleksi › İstanbul
-    21.00     Rangers (SCO) v Alashkert (ARM)  1-0 (0-0)   @ Ibrox Stadium › Glasgow
+    20:00     Mura (SVN) v Sturm Graz (AUT)  1-3 (1-1)   @ Mestni Štadion Fazanerija › Murska Sobota
+    20:45     Fenerbahce (TUR) v HJK helsinki (FIN)  1-0 (0-0)   @ Ülker Stadyumu Fenerbahçe Şükrü Saracoğlu Spor Kompleksi › İstanbul
+    21:00     Rangers (SCO) v Alashkert (ARM)  1-0 (0-0)   @ Ibrox Stadium › Glasgow
               Olympiakos Piraeus (GRE) v Slovan Bratislava (SVK)  3-0 (1-0)   @ Stadio Georgios Karaiskáki › Piraeus
               Rapid Vienna (AUT) v Zorya Luhansk (UKR)  3-0 (1-0)   @ Allianz Stadion › Wien
   Thu Aug 26
-    17.00     Alashkert (ARM) v Rangers (SCO)  0-0 (0-0)   @ Vazgen Sargsyan anvan Hanrapetakan Marzadasht › Yerevan
-    18.00     HJK helsinki (FIN) v Fenerbahce (TUR)  2-5 (1-2)   @ Bolt Arena › Helsinki
-    18.30     Zorya Luhansk (UKR) v Rapid Vienna (AUT)  2-3 (1-2)   @ Slavutych-Arena › Zaporozh'ye
-    20.00     Galatasaray (TUR) v Randers FC (DEN)  2-1 (0-1)   @ Recep Tayyip Erdoğan Stadyumu › İstanbul
-    20.15     AZ Alkmaar (NED) v Celtic (SCO)  2-1 (2-1)   @ AFAS Stadion › Alkmaar
-    20.30     CFR 1907 Cluj (ROU) v FK Crvena Zvezda (SRB)  1-2 (1-1)   @ Stadionul Dr. Constantin Rădulescu › Cluj-Napoca
-    20.45     Slovan Bratislava (SVK) v Olympiakos Piraeus (GRE)  2-2 (1-1)   @ Štadión Tehelné pole › Bratislava
-    21.00     Sturm Graz (AUT) v Mura (SVN)  2-0 (1-0)   @ Merkur Arena › Graz
+    17:00     Alashkert (ARM) v Rangers (SCO)  0-0 (0-0)   @ Vazgen Sargsyan anvan Hanrapetakan Marzadasht › Yerevan
+    18:00     HJK helsinki (FIN) v Fenerbahce (TUR)  2-5 (1-2)   @ Bolt Arena › Helsinki
+    18:30     Zorya Luhansk (UKR) v Rapid Vienna (AUT)  2-3 (1-2)   @ Slavutych-Arena › Zaporozh'ye
+    20:00     Galatasaray (TUR) v Randers FC (DEN)  2-1 (0-1)   @ Recep Tayyip Erdoğan Stadyumu › İstanbul
+    20:15     AZ Alkmaar (NED) v Celtic (SCO)  2-1 (2-1)   @ AFAS Stadion › Alkmaar
+    20:30     CFR 1907 Cluj (ROU) v FK Crvena Zvezda (SRB)  1-2 (1-1)   @ Stadionul Dr. Constantin Rădulescu › Cluj-Napoca
+    20:45     Slovan Bratislava (SVK) v Olympiakos Piraeus (GRE)  2-2 (1-1)   @ Štadión Tehelné pole › Bratislava
+    21:00     Sturm Graz (AUT) v Mura (SVN)  2-0 (1-0)   @ Merkur Arena › Graz
               Antwerp (BEL) v Omonia Nicosia (CYP)  3-2 pen (2-0, 2-0, 1-0)   @ Bosuilstadion › Deurne
               Legia Warszawa (POL) v Slavia Praha (CZE)  2-1 (0-1)   @ Stadion Miejski Legii Warszawa im. Marszałka Józefa Piłsudskiego › Warszawa
-» Group C - 1
+▪ Group C - 1
   Wed Sep 15
-    16.30     Spartak Moscow (RUS) v Legia Warszawa (POL)  0-1 (0-0)   @ Otkrytiye Arena › Moskva
+    16:30     Spartak Moscow (RUS) v Legia Warszawa (POL)  0-1 (0-0)   @ Otkrytiye Arena › Moskva
   Thu Sep 16
-    21.00     Leicester (ENG) v Napoli (ITA)  2-2 (1-0)   @ King Power Stadium › Leicester, Leicestershire
-» Group G - 1
+    21:00     Leicester (ENG) v Napoli (ITA)  2-2 (1-0)   @ King Power Stadium › Leicester, Leicestershire
+▪ Group G - 1
   Thu Sep 16
-    18.45     Bayer Leverkusen (GER) v Ferencvarosi TC (HUN)  2-1 (1-1)   @ BayArena › Leverkusen
+    18:45     Bayer Leverkusen (GER) v Ferencvarosi TC (HUN)  2-1 (1-1)   @ BayArena › Leverkusen
               Real Betis (ESP) v Celtic (SCO)  4-3 (2-2)   @ Estadio Benito Villamarín › Sevilla
-» Group F - 1
+▪ Group F - 1
   Thu Sep 16
-    18.45     FC Midtjylland (DEN) v Ludogorets (BUL)  1-1 (1-1)   @ MCH Arena › Herning
+    18:45     FC Midtjylland (DEN) v Ludogorets (BUL)  1-1 (1-1)   @ MCH Arena › Herning
               FK Crvena Zvezda (SRB) v SC Braga (POR)  2-1 (0-0)   @ Stadion Rajko Mitić › Beograd
-» Group E - 1
+▪ Group E - 1
   Thu Sep 16
-    18.45     Galatasaray (TUR) v Lazio (ITA)  1-0 (0-0)   @ Türk Telekom Stadyumu › İstanbul
+    18:45     Galatasaray (TUR) v Lazio (ITA)  1-0 (0-0)   @ Türk Telekom Stadyumu › İstanbul
               Lokomotiv Moscow (RUS) v Marseille (FRA)  1-1 (0-0)   @ RZD Arena › Moskva
-» Group H - 1
+▪ Group H - 1
   Thu Sep 16
-    18.45     Rapid Vienna (AUT) v Genk (BEL)  0-1 (0-0)   @ Allianz Stadion › Wien
+    18:45     Rapid Vienna (AUT) v Genk (BEL)  0-1 (0-0)   @ Allianz Stadion › Wien
               Dinamo Zagreb (CRO) v West Ham (ENG)  0-2 (0-1)   @ Stadion Maksimir › Zagreb
-» Group B - 1
+▪ Group B - 1
   Thu Sep 16
-    21.00     PSV Eindhoven (NED) v Real Sociedad (ESP)  2-2 (1-2)   @ Philips Stadion › Eindhoven
+    21:00     PSV Eindhoven (NED) v Real Sociedad (ESP)  2-2 (1-2)   @ Philips Stadion › Eindhoven
               Monaco (FRA) v Sturm Graz (AUT)  1-0 (0-0)   @ Stade Louis II › Monaco
-» Group D - 1
+▪ Group D - 1
   Thu Sep 16
-    21.00     Eintracht Frankfurt (GER) v Fenerbahce (TUR)  1-1 (1-1)   @ Deutsche Bank Park › Frankfurt am Main
+    21:00     Eintracht Frankfurt (GER) v Fenerbahce (TUR)  1-1 (1-1)   @ Deutsche Bank Park › Frankfurt am Main
               Olympiakos Piraeus (GRE) v Antwerp (BEL)  2-1 (0-0)   @ Stadio Georgios Karaiskáki › Piraeus
-» Group A - 1
+▪ Group A - 1
   Thu Sep 16
-    21.00     Rangers (SCO) v Lyon (FRA)  0-2 (0-1)   @ Ibrox Stadium › Glasgow
+    21:00     Rangers (SCO) v Lyon (FRA)  0-2 (0-1)   @ Ibrox Stadium › Glasgow
               Brondby (DEN) v Sparta Praha (CZE)  0-0 (0-0)   @ Brøndby Stadion › Brøndby
-» Group A - 2
+▪ Group A - 2
   Thu Sep 30
-    18.45     Sparta Praha (CZE) v Rangers (SCO)  1-0 (1-0)   @ Generali Česká pojišťovna Arena › Praha
+    18:45     Sparta Praha (CZE) v Rangers (SCO)  1-0 (1-0)   @ Generali Česká pojišťovna Arena › Praha
               Lyon (FRA) v Brondby (DEN)  3-0 (0-0)   @ Groupama Stadium › Décines-Charpieu
-» Group C - 2
+▪ Group C - 2
   Thu Sep 30
-    18.45     Napoli (ITA) v Spartak Moscow (RUS)  2-3 (1-0)   @ Stadio Diego Armando Maradona › Napoli
+    18:45     Napoli (ITA) v Spartak Moscow (RUS)  2-3 (1-0)   @ Stadio Diego Armando Maradona › Napoli
               Legia Warszawa (POL) v Leicester (ENG)  1-0 (1-0)   @ Stadion Miejski Legii Warszawa im. Marszałka Józefa Piłsudskiego › Warszawa
-» Group B - 2
+▪ Group B - 2
   Thu Sep 30
-    18.45     Real Sociedad (ESP) v Monaco (FRA)  1-1 (0-1)   @ Reale Arena › Donostia-San Sebastián
+    18:45     Real Sociedad (ESP) v Monaco (FRA)  1-1 (0-1)   @ Reale Arena › Donostia-San Sebastián
               Sturm Graz (AUT) v PSV Eindhoven (NED)  1-4 (0-1)   @ Merkur Arena › Graz
-» Group D - 2
+▪ Group D - 2
   Thu Sep 30
-    18.45     Antwerp (BEL) v Eintracht Frankfurt (GER)  0-1 (0-0)   @ Bosuilstadion › Deurne
+    18:45     Antwerp (BEL) v Eintracht Frankfurt (GER)  0-1 (0-0)   @ Bosuilstadion › Deurne
               Fenerbahce (TUR) v Olympiakos Piraeus (GRE)  0-3 (0-1)   @ Ülker Stadyumu Fenerbahçe Şükrü Saracoğlu Spor Kompleksi › İstanbul
-» Group H - 2
+▪ Group H - 2
   Thu Sep 30
-    21.00     West Ham (ENG) v Rapid Vienna (AUT)  2-0 (1-0)   @ London Stadium › London
+    21:00     West Ham (ENG) v Rapid Vienna (AUT)  2-0 (1-0)   @ London Stadium › London
               Genk (BEL) v Dinamo Zagreb (CRO)  0-3 (0-2)   @ Cegeka Arena › Genk
-» Group E - 2
+▪ Group E - 2
   Thu Sep 30
-    21.00     Lazio (ITA) v Lokomotiv Moscow (RUS)  2-0 (2-0)   @ Stadio Olimpico › Roma
+    21:00     Lazio (ITA) v Lokomotiv Moscow (RUS)  2-0 (2-0)   @ Stadio Olimpico › Roma
               Marseille (FRA) v Galatasaray (TUR)  0-0 (0-0)   @ Orange Vélodrome › Marseille
-» Group F - 2
+▪ Group F - 2
   Thu Sep 30
-    21.00     SC Braga (POR) v FC Midtjylland (DEN)  3-1 (0-1)   @ Estádio Municipal de Braga › Braga
+    21:00     SC Braga (POR) v FC Midtjylland (DEN)  3-1 (0-1)   @ Estádio Municipal de Braga › Braga
               Ludogorets (BUL) v FK Crvena Zvezda (SRB)  0-1 (0-0)   @ Huvepharma Arena › Razgrad
-» Group G - 2
+▪ Group G - 2
   Thu Sep 30
-    21.00     Celtic (SCO) v Bayer Leverkusen (GER)  0-4 (0-2)   @ Celtic Park › Glasgow
+    21:00     Celtic (SCO) v Bayer Leverkusen (GER)  0-4 (0-2)   @ Celtic Park › Glasgow
               Ferencvarosi TC (HUN) v Real Betis (ESP)  1-3 (1-1)   @ Groupama Aréna › Budapest
-» Group G - 3
+▪ Group G - 3
   Tue Oct 19
-    16.30     Celtic (SCO) v Ferencvarosi TC (HUN)  2-0 (0-0)   @ Celtic Park › Glasgow
-» Group C - 3
+    16:30     Celtic (SCO) v Ferencvarosi TC (HUN)  2-0 (0-0)   @ Celtic Park › Glasgow
+▪ Group C - 3
   Wed Oct 20
-    16.30     Spartak Moscow (RUS) v Leicester (ENG)  3-4 (2-1)   @ Otkrytiye Arena › Moskva
-» Group G - 3
+    16:30     Spartak Moscow (RUS) v Leicester (ENG)  3-4 (2-1)   @ Otkrytiye Arena › Moskva
+▪ Group G - 3
   Thu Oct 21
-    18.45     Real Betis (ESP) v Bayer Leverkusen (GER)  1-1 (0-0)   @ Estadio Benito Villamarín › Sevilla
-» Group C - 3
+    18:45     Real Betis (ESP) v Bayer Leverkusen (GER)  1-1 (0-0)   @ Estadio Benito Villamarín › Sevilla
+▪ Group C - 3
   Thu Oct 21
-    21.00     Napoli (ITA) v Legia Warszawa (POL)  3-0 (0-0)   @ Stadio Diego Armando Maradona › Napoli
-» Group F - 3
+    21:00     Napoli (ITA) v Legia Warszawa (POL)  3-0 (0-0)   @ Stadio Diego Armando Maradona › Napoli
+▪ Group F - 3
   Thu Oct 21
-    18.45     Ludogorets (BUL) v SC Braga (POR)  0-1 (0-1)   @ Huvepharma Arena › Razgrad
+    18:45     Ludogorets (BUL) v SC Braga (POR)  0-1 (0-1)   @ Huvepharma Arena › Razgrad
               FC Midtjylland (DEN) v FK Crvena Zvezda (SRB)  1-1 (0-0)   @ MCH Arena › Herning
-» Group E - 3
+▪ Group E - 3
   Thu Oct 21
-    18.45     Lazio (ITA) v Marseille (FRA)  0-0 (0-0)   @ Stadio Olimpico › Roma
-    21.00     Lokomotiv Moscow (RUS) v Galatasaray (TUR)  0-1 (0-0)   @ RZD Arena › Moskva
-» Group D - 3
+    18:45     Lazio (ITA) v Marseille (FRA)  0-0 (0-0)   @ Stadio Olimpico › Roma
+    21:00     Lokomotiv Moscow (RUS) v Galatasaray (TUR)  0-1 (0-0)   @ RZD Arena › Moskva
+▪ Group D - 3
   Thu Oct 21
-    18.45     Fenerbahce (TUR) v Antwerp (BEL)  2-2 (2-1)   @ Ülker Stadyumu Fenerbahçe Şükrü Saracoğlu Spor Kompleksi › İstanbul
-    21.00     Eintracht Frankfurt (GER) v Olympiakos Piraeus (GRE)  3-1 (2-1)   @ Deutsche Bank Park › Frankfurt am Main
-» Group H - 3
+    18:45     Fenerbahce (TUR) v Antwerp (BEL)  2-2 (2-1)   @ Ülker Stadyumu Fenerbahçe Şükrü Saracoğlu Spor Kompleksi › İstanbul
+    21:00     Eintracht Frankfurt (GER) v Olympiakos Piraeus (GRE)  3-1 (2-1)   @ Deutsche Bank Park › Frankfurt am Main
+▪ Group H - 3
   Thu Oct 21
-    18.45     Rapid Vienna (AUT) v Dinamo Zagreb (CRO)  2-1 (2-1)   @ Allianz Stadion › Wien
-    21.00     West Ham (ENG) v Genk (BEL)  3-0 (1-0)   @ London Stadium › London
-» Group B - 3
+    18:45     Rapid Vienna (AUT) v Dinamo Zagreb (CRO)  2-1 (2-1)   @ Allianz Stadion › Wien
+    21:00     West Ham (ENG) v Genk (BEL)  3-0 (1-0)   @ London Stadium › London
+▪ Group B - 3
   Thu Oct 21
-    21.00     PSV Eindhoven (NED) v Monaco (FRA)  1-2 (0-1)   @ Philips Stadion › Eindhoven
+    21:00     PSV Eindhoven (NED) v Monaco (FRA)  1-2 (0-1)   @ Philips Stadion › Eindhoven
               Sturm Graz (AUT) v Real Sociedad (ESP)  0-1 (0-0)   @ Merkur Arena › Graz
-» Group A - 3
+▪ Group A - 3
   Thu Oct 21
-    21.00     Sparta Praha (CZE) v Lyon (FRA)  3-4 (2-1)   @ Generali Česká pojišťovna Arena › Praha
+    21:00     Sparta Praha (CZE) v Lyon (FRA)  3-4 (2-1)   @ Generali Česká pojišťovna Arena › Praha
               Rangers (SCO) v Brondby (DEN)  2-0 (2-0)   @ Ibrox Stadium › Glasgow
-» Group A - 4
+▪ Group A - 4
   Thu Nov 4
-    18.45     Brondby (DEN) v Rangers (SCO)  1-1 (1-0)   @ Brøndby Stadion › Brøndby
+    18:45     Brondby (DEN) v Rangers (SCO)  1-1 (1-0)   @ Brøndby Stadion › Brøndby
               Lyon (FRA) v Sparta Praha (CZE)  3-0 (0-0)   @ Groupama Stadium › Décines-Charpieu
-» Group B - 4
+▪ Group B - 4
   Thu Nov 4
-    18.45     Real Sociedad (ESP) v Sturm Graz (AUT)  1-1 (0-1)   @ Reale Arena › Donostia-San Sebastián
+    18:45     Real Sociedad (ESP) v Sturm Graz (AUT)  1-1 (0-1)   @ Reale Arena › Donostia-San Sebastián
               Monaco (FRA) v PSV Eindhoven (NED)  0-0 (0-0)   @ Stade Louis II › Monaco
-» Group C - 4
+▪ Group C - 4
   Thu Nov 4
-    18.45     Legia Warszawa (POL) v Napoli (ITA)  1-4 (1-0)   @ Stadion Miejski Legii Warszawa im. Marszałka Józefa Piłsudskiego › Warszawa
-    21.00     Leicester (ENG) v Spartak Moscow (RUS)  1-1 (0-0)   @ King Power Stadium › Leicester, Leicestershire
-» Group D - 4
+    18:45     Legia Warszawa (POL) v Napoli (ITA)  1-4 (1-0)   @ Stadion Miejski Legii Warszawa im. Marszałka Józefa Piłsudskiego › Warszawa
+    21:00     Leicester (ENG) v Spartak Moscow (RUS)  1-1 (0-0)   @ King Power Stadium › Leicester, Leicestershire
+▪ Group D - 4
   Thu Nov 4
-    18.45     Olympiakos Piraeus (GRE) v Eintracht Frankfurt (GER)  1-2 (1-1)   @ Stadio Georgios Karaiskáki › Piraeus
-    21.00     Antwerp (BEL) v Fenerbahce (TUR)  0-3 (0-3)   @ Bosuilstadion › Deurne
-» Group E - 4
+    18:45     Olympiakos Piraeus (GRE) v Eintracht Frankfurt (GER)  1-2 (1-1)   @ Stadio Georgios Karaiskáki › Piraeus
+    21:00     Antwerp (BEL) v Fenerbahce (TUR)  0-3 (0-3)   @ Bosuilstadion › Deurne
+▪ Group E - 4
   Thu Nov 4
-    18.45     Galatasaray (TUR) v Lokomotiv Moscow (RUS)  1-1 (1-0)   @ NEF Stadyumu › İstanbul
-    21.00     Marseille (FRA) v Lazio (ITA)  2-2 (1-1)   @ Orange Vélodrome › Marseille
-» Group H - 4
+    18:45     Galatasaray (TUR) v Lokomotiv Moscow (RUS)  1-1 (1-0)   @ NEF Stadyumu › İstanbul
+    21:00     Marseille (FRA) v Lazio (ITA)  2-2 (1-1)   @ Orange Vélodrome › Marseille
+▪ Group H - 4
   Thu Nov 4
-    18.45     Genk (BEL) v West Ham (ENG)  2-2 (1-0)   @ Cegeka Arena › Genk
-    21.00     Dinamo Zagreb (CRO) v Rapid Vienna (AUT)  3-1 (2-1)   @ Stadion Maksimir › Zagreb
-» Group G - 4
+    18:45     Genk (BEL) v West Ham (ENG)  2-2 (1-0)   @ Cegeka Arena › Genk
+    21:00     Dinamo Zagreb (CRO) v Rapid Vienna (AUT)  3-1 (2-1)   @ Stadion Maksimir › Zagreb
+▪ Group G - 4
   Thu Nov 4
-    21.00     Ferencvarosi TC (HUN) v Celtic (SCO)  2-3 (1-2)   @ Groupama Aréna › Budapest
+    21:00     Ferencvarosi TC (HUN) v Celtic (SCO)  2-3 (1-2)   @ Groupama Aréna › Budapest
               Bayer Leverkusen (GER) v Real Betis (ESP)  4-0 (1-0)   @ BayArena › Leverkusen
-» Group F - 4
+▪ Group F - 4
   Thu Nov 4
-    21.00     FK Crvena Zvezda (SRB) v FC Midtjylland (DEN)  0-1 (0-0)   @ Stadion Rajko Mitić › Beograd
+    21:00     FK Crvena Zvezda (SRB) v FC Midtjylland (DEN)  0-1 (0-0)   @ Stadion Rajko Mitić › Beograd
               SC Braga (POR) v Ludogorets (BUL)  4-2 (3-1)   @ Estádio Municipal de Braga › Braga
-» Group C - 5
+▪ Group C - 5
   Wed Nov 24
-    16.30     Spartak Moscow (RUS) v Napoli (ITA)  2-1 (2-0)   @ Otkrytiye Arena › Moskva
+    16:30     Spartak Moscow (RUS) v Napoli (ITA)  2-1 (2-0)   @ Otkrytiye Arena › Moskva
   Thu Nov 25
-    21.00     Leicester (ENG) v Legia Warszawa (POL)  3-1 (3-1)   @ King Power Stadium › Leicester, Leicestershire
-» Group G - 5
+    21:00     Leicester (ENG) v Legia Warszawa (POL)  3-1 (3-1)   @ King Power Stadium › Leicester, Leicestershire
+▪ Group G - 5
   Thu Nov 25
-    18.45     Real Betis (ESP) v Ferencvarosi TC (HUN)  2-0 (1-0)   @ Estadio Benito Villamarín › Sevilla
+    18:45     Real Betis (ESP) v Ferencvarosi TC (HUN)  2-0 (1-0)   @ Estadio Benito Villamarín › Sevilla
               Bayer Leverkusen (GER) v Celtic (SCO)  3-2 (1-1)   @ BayArena › Leverkusen
-» Group F - 5
+▪ Group F - 5
   Thu Nov 25
-    18.45     FK Crvena Zvezda (SRB) v Ludogorets (BUL)  1-0 (0-0)   @ Stadion Rajko Mitić › Beograd
+    18:45     FK Crvena Zvezda (SRB) v Ludogorets (BUL)  1-0 (0-0)   @ Stadion Rajko Mitić › Beograd
               FC Midtjylland (DEN) v SC Braga (POR)  3-2 (1-1)   @ MCH Arena › Herning
-» Group E - 5
+▪ Group E - 5
   Thu Nov 25
-    18.45     Galatasaray (TUR) v Marseille (FRA)  4-2 (2-0)   @ NEF Stadyumu › İstanbul
+    18:45     Galatasaray (TUR) v Marseille (FRA)  4-2 (2-0)   @ NEF Stadyumu › İstanbul
               Lokomotiv Moscow (RUS) v Lazio (ITA)  0-3 (0-0)   @ RZD Arena › Moskva
-» Group H - 5
+▪ Group H - 5
   Thu Nov 25
-    18.45     Rapid Vienna (AUT) v West Ham (ENG)  0-2 (0-2)   @ Allianz Stadion › Wien
+    18:45     Rapid Vienna (AUT) v West Ham (ENG)  0-2 (0-2)   @ Allianz Stadion › Wien
               Dinamo Zagreb (CRO) v Genk (BEL)  1-1 (1-1)   @ Stadion Maksimir › Zagreb
-» Group B - 5
+▪ Group B - 5
   Thu Nov 25
-    21.00     Monaco (FRA) v Real Sociedad (ESP)  2-1 (2-1)   @ Stade Louis II › Monaco
+    21:00     Monaco (FRA) v Real Sociedad (ESP)  2-1 (2-1)   @ Stade Louis II › Monaco
               PSV Eindhoven (NED) v Sturm Graz (AUT)  2-0 (1-0)   @ Philips Stadion › Eindhoven
-» Group D - 5
+▪ Group D - 5
   Thu Nov 25
-    21.00     Olympiakos Piraeus (GRE) v Fenerbahce (TUR)  1-0 (0-0)   @ Stadio Georgios Karaiskáki › Piraeus
+    21:00     Olympiakos Piraeus (GRE) v Fenerbahce (TUR)  1-0 (0-0)   @ Stadio Georgios Karaiskáki › Piraeus
               Eintracht Frankfurt (GER) v Antwerp (BEL)  2-2 (1-1)   @ Deutsche Bank Park › Frankfurt am Main
-» Group A - 5
+▪ Group A - 5
   Thu Nov 25
-    21.00     Brondby (DEN) v Lyon (FRA)  1-3 (0-0)   @ Brøndby Stadion › Brøndby
+    21:00     Brondby (DEN) v Lyon (FRA)  1-3 (0-0)   @ Brøndby Stadion › Brøndby
               Rangers (SCO) v Sparta Praha (CZE)  2-0 (1-0)   @ Ibrox Stadium › Glasgow
-» Group A - 6
+▪ Group A - 6
   Thu Dec 9
-    18.45     Lyon (FRA) v Rangers (SCO)  1-1 (0-1)   @ Groupama Stadium › Décines-Charpieu
+    18:45     Lyon (FRA) v Rangers (SCO)  1-1 (0-1)   @ Groupama Stadium › Décines-Charpieu
               Sparta Praha (CZE) v Brondby (DEN)  2-0 (1-0)   @ Generali Česká pojišťovna Arena › Praha
-» Group C - 6
+▪ Group C - 6
   Thu Dec 9
-    18.45     Legia Warszawa (POL) v Spartak Moscow (RUS)  0-1 (0-1)   @ Stadion Miejski Legii Warszawa im. Marszałka Józefa Piłsudskiego › Warszawa
+    18:45     Legia Warszawa (POL) v Spartak Moscow (RUS)  0-1 (0-1)   @ Stadion Miejski Legii Warszawa im. Marszałka Józefa Piłsudskiego › Warszawa
               Napoli (ITA) v Leicester (ENG)  3-2 (2-2)   @ Stadio Diego Armando Maradona › Napoli
-» Group B - 6
+▪ Group B - 6
   Thu Dec 9
-    18.45     Sturm Graz (AUT) v Monaco (FRA)  1-1 (1-1)   @ Merkur Arena › Graz
+    18:45     Sturm Graz (AUT) v Monaco (FRA)  1-1 (1-1)   @ Merkur Arena › Graz
               Real Sociedad (ESP) v PSV Eindhoven (NED)  3-0 (1-0)   @ Reale Arena › Donostia-San Sebastián
-» Group D - 6
+▪ Group D - 6
   Thu Dec 9
-    18.45     Antwerp (BEL) v Olympiakos Piraeus (GRE)  1-0 (1-0)   @ Bosuilstadion › Deurne
+    18:45     Antwerp (BEL) v Olympiakos Piraeus (GRE)  1-0 (1-0)   @ Bosuilstadion › Deurne
               Fenerbahce (TUR) v Eintracht Frankfurt (GER)  1-1 (1-1)   @ Ülker Stadyumu Fenerbahçe Şükrü Saracoğlu Spor Kompleksi › İstanbul
-» Group H - 6
+▪ Group H - 6
   Thu Dec 9
-    21.00     West Ham (ENG) v Dinamo Zagreb (CRO)  0-1 (0-1)   @ London Stadium › London
+    21:00     West Ham (ENG) v Dinamo Zagreb (CRO)  0-1 (0-1)   @ London Stadium › London
               Genk (BEL) v Rapid Vienna (AUT)  0-1 (0-1)   @ Cegeka Arena › Genk
-» Group E - 6
+▪ Group E - 6
   Thu Dec 9
-    21.00     Marseille (FRA) v Lokomotiv Moscow (RUS)  1-0 (1-0)   @ Stade Orange Vélodrome › Marseille
+    21:00     Marseille (FRA) v Lokomotiv Moscow (RUS)  1-0 (1-0)   @ Stade Orange Vélodrome › Marseille
               Lazio (ITA) v Galatasaray (TUR)  0-0 (0-0)   @ Stadio Olimpico › Roma
-» Group F - 6
+▪ Group F - 6
   Thu Dec 9
-    21.00     Ludogorets (BUL) v FC Midtjylland (DEN)  0-0 (0-0)   @ Huvepharma Arena › Razgrad
+    21:00     Ludogorets (BUL) v FC Midtjylland (DEN)  0-0 (0-0)   @ Huvepharma Arena › Razgrad
               SC Braga (POR) v FK Crvena Zvezda (SRB)  1-1 (0-0)   @ Estádio Municipal de Braga › Braga
-» Group G - 6
+▪ Group G - 6
   Thu Dec 9
-    21.00     Celtic (SCO) v Real Betis (ESP)  3-2 (1-0)   @ Celtic Park › Glasgow
+    21:00     Celtic (SCO) v Real Betis (ESP)  3-2 (1-0)   @ Celtic Park › Glasgow
               Ferencvarosi TC (HUN) v Bayer Leverkusen (GER)  1-0 (0-0)   @ Groupama Aréna › Budapest
-» Knockout Round Play-offs
+▪ Knockout Round Play-offs
   Thu Feb 17 2022
-    18.45     Borussia Dortmund (GER) v Rangers (SCO)  2-4 (0-2)   @ Signal-Iduna-Park › Dortmund
+    18:45     Borussia Dortmund (GER) v Rangers (SCO)  2-4 (0-2)   @ Signal-Iduna-Park › Dortmund
   Thu Feb 17
-    18.45     Barcelona (ESP) v Napoli (ITA)  1-1 (0-1)   @ Camp Nou › Barcelona
+    18:45     Barcelona (ESP) v Napoli (ITA)  1-1 (0-1)   @ Camp Nou › Barcelona
               Sheriff Tiraspol (MDA) v SC Braga (POR)  2-0 (1-0)   @ Bolshaya Sportivnaya Arena › Tiraspol
               Zenit Saint Petersburg (RUS) v Real Betis (ESP)  2-3 (2-3)   @ Saint-Petersburg Stadium › St. Petersburg
-    21.00     FC Porto (POR) v Lazio (ITA)  2-1 (1-1)   @ Estádio Do Dragão › Porto
+    21:00     FC Porto (POR) v Lazio (ITA)  2-1 (1-1)   @ Estádio Do Dragão › Porto
               Atalanta (ITA) v Olympiakos Piraeus (GRE)  2-1 (0-1)   @ Gewiss Stadium › Bergamo
               Sevilla (ESP) v Dinamo Zagreb (CRO)  3-1 (3-1)   @ Estadio Ramón Sánchez Pizjuán › Sevilla
               RB Leipzig (GER) v Real Sociedad (ESP)  2-2 (1-1)   @ Red Bull Arena › Leipzig
   Thu Feb 24
-    18.45     Lazio (ITA) v FC Porto (POR)  2-2 (1-1)   @ Stadio Olimpico › Roma
+    18:45     Lazio (ITA) v FC Porto (POR)  2-2 (1-1)   @ Stadio Olimpico › Roma
               Real Sociedad (ESP) v RB Leipzig (GER)  1-3 (0-1)   @ Reale Arena › Donostia-San Sebastián
               Olympiakos Piraeus (GRE) v Atalanta (ITA)  0-3 (0-1)   @ Stadio Georgios Karaiskáki › Piraeus
               Dinamo Zagreb (CRO) v Sevilla (ESP)  1-0 (0-0)   @ Stadion Maksimir › Zagreb
-    21.00     Rangers (SCO) v Borussia Dortmund (GER)  2-2 (1-2)   @ Ibrox Stadium › Glasgow
+    21:00     Rangers (SCO) v Borussia Dortmund (GER)  2-2 (1-2)   @ Ibrox Stadium › Glasgow
               Napoli (ITA) v Barcelona (ESP)  2-4 (1-3)   @ Stadio Diego Armando Maradona › Napoli
               Real Betis (ESP) v Zenit Saint Petersburg (RUS)  0-0 (0-0)   @ Estadio Benito Villamarín › Sevilla
               SC Braga (POR) v Sheriff Tiraspol (MDA)  3-2 pen (2-0, 2-0, 2-0)   @ Estádio Municipal de Braga › Braga
-» Round of 16
+▪ Round of 16
   Wed Mar 9
-    18.45     FC Porto (POR) v Lyon (FRA)  0-1 (0-0)   @ Estádio Do Dragão › Porto
+    18:45     FC Porto (POR) v Lyon (FRA)  0-1 (0-0)   @ Estádio Do Dragão › Porto
               Real Betis (ESP) v Eintracht Frankfurt (GER)  1-2 (1-2)   @ Estadio Benito Villamarín › Sevilla
   Thu Mar 10
-    18.45     Sevilla (ESP) v West Ham (ENG)  1-0 (0-0)   @ Estadio Ramón Sánchez Pizjuán › Sevilla
+    18:45     Sevilla (ESP) v West Ham (ENG)  1-0 (0-0)   @ Estadio Ramón Sánchez Pizjuán › Sevilla
               RB Leipzig (GER) v Spartak Moscow (RUS)  [w/o]   @ Red Bull Arena › Leipzig
-    21.00     Atalanta (ITA) v Bayer Leverkusen (GER)  3-2 (2-1)   @ Gewiss Stadium › Bergamo
+    21:00     Atalanta (ITA) v Bayer Leverkusen (GER)  3-2 (2-1)   @ Gewiss Stadium › Bergamo
               Barcelona (ESP) v Galatasaray (TUR)  0-0 (0-0)   @ Camp Nou › Barcelona
               SC Braga (POR) v Monaco (FRA)  2-0 (1-0)   @ Estádio Municipal de Braga › Braga
               Rangers (SCO) v FK Crvena Zvezda (SRB)  3-0 (2-0)   @ Ibrox Stadium › Glasgow
   Thu Mar 17
-    18.45     FK Crvena Zvezda (SRB) v Rangers (SCO)  2-1 (1-0)   @ Stadion Rajko Mitić › Beograd
+    18:45     FK Crvena Zvezda (SRB) v Rangers (SCO)  2-1 (1-0)   @ Stadion Rajko Mitić › Beograd
               Galatasaray (TUR) v Barcelona (ESP)  1-2 (1-1)   @ NEF Stadyumu › İstanbul
               Monaco (FRA) v SC Braga (POR)  1-1 (0-1)   @ Stade Louis II › Monaco
               Bayer Leverkusen (GER) v Atalanta (ITA)  0-1 (0-0)   @ BayArena › Leverkusen
-    21.00     Lyon (FRA) v FC Porto (POR)  1-1 (1-1)   @ Groupama Stadium › Décines-Charpieu
+    21:00     Lyon (FRA) v FC Porto (POR)  1-1 (1-1)   @ Groupama Stadium › Décines-Charpieu
               Eintracht Frankfurt (GER) v Real Betis (ESP)  1-1 aet (0-1, 0-0)   @ Deutsche Bank Park › Frankfurt am Main
               West Ham (ENG) v Sevilla (ESP)  2-0 aet (1-0, 1-0)   @ London Stadium › London
               Spartak Moscow (RUS) v RB Leipzig (GER)  [w/o]
-» Quarter-finals
+▪ Quarter-finals
   Thu Apr 7
-    18.45     RB Leipzig (GER) v Atalanta (ITA)  1-1 (0-1)   @ Red Bull Arena › Leipzig
-    21.00     West Ham (ENG) v Lyon (FRA)  1-1 (0-0)   @ London Stadium › London
+    18:45     RB Leipzig (GER) v Atalanta (ITA)  1-1 (0-1)   @ Red Bull Arena › Leipzig
+    21:00     West Ham (ENG) v Lyon (FRA)  1-1 (0-0)   @ London Stadium › London
               SC Braga (POR) v Rangers (SCO)  1-0 (1-0)   @ Estádio Municipal de Braga › Braga
               Eintracht Frankfurt (GER) v Barcelona (ESP)  1-1 (0-0)   @ Deutsche Bank Park › Frankfurt am Main
   Thu Apr 14
-    18.45     Atalanta (ITA) v RB Leipzig (GER)  0-2 (0-1)   @ Gewiss Stadium › Bergamo
-    21.00     Rangers (SCO) v SC Braga (POR)  3-1 aet (2-1, 2-0)   @ Ibrox Stadium › Glasgow
+    18:45     Atalanta (ITA) v RB Leipzig (GER)  0-2 (0-1)   @ Gewiss Stadium › Bergamo
+    21:00     Rangers (SCO) v SC Braga (POR)  3-1 aet (2-1, 2-0)   @ Ibrox Stadium › Glasgow
               Barcelona (ESP) v Eintracht Frankfurt (GER)  2-3 (0-2)   @ Camp Nou › Barcelona
               Lyon (FRA) v West Ham (ENG)  0-3 (0-2)   @ Groupama Stadium › Décines-Charpieu
-» Semi-finals
+▪ Semi-finals
   Thu Apr 28
-    21.00     West Ham (ENG) v Eintracht Frankfurt (GER)  1-2 (1-1)   @ London Stadium › London
+    21:00     West Ham (ENG) v Eintracht Frankfurt (GER)  1-2 (1-1)   @ London Stadium › London
               RB Leipzig (GER) v Rangers (SCO)  1-0 (0-0)   @ Red Bull Arena › Leipzig
   Thu May 5
-    21.00     Rangers (SCO) v RB Leipzig (GER)  3-1 (2-0)   @ Ibrox Stadium › Glasgow
+    21:00     Rangers (SCO) v RB Leipzig (GER)  3-1 (2-0)   @ Ibrox Stadium › Glasgow
               Eintracht Frankfurt (GER) v West Ham (ENG)  1-0 (1-0)   @ Deutsche Bank Park › Frankfurt am Main
-» Final
+▪ Final
   Wed May 18
-    21.00     Eintracht Frankfurt (GER) v Rangers (SCO)  5-4 pen (1-1, 1-1, 0-0)   @ Estadio Ramón Sánchez Pizjuán › Sevilla
+    21:00     Eintracht Frankfurt (GER) v Rangers (SCO)  5-4 pen (1-1, 1-1, 0-0)   @ Estadio Ramón Sánchez Pizjuán › Sevilla

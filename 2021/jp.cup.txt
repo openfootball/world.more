@@ -1,17 +1,17 @@
 = Japan | Emperor Cup 2021
 
-  # Date       Sat May/22 - Sun Dec/19 2021 (211d)
+  # Date       Sat May 22 - Sun Dec 19 2021 (211d)
   # Teams      90
   # Matches    89
 
   # Note - All times in Asia/Tokyo
 
-» 1st Round
+▪ 1st Round
   Sat May 22 2021
-    11.00     Roasso Kumamoto v Nippon Bunri University  3-0   @ Egao Kenko Stadium › Kumamoto
+    11:00     Roasso Kumamoto v Nippon Bunri University  3-0   @ Egao Kenko Stadium › Kumamoto
   Sat May 22
-    12.00     Ehime FC v Imabari  1-2   @ Ningineer Stadium › Matsuyama
-    13.00     FC Gifu v Honda  0-2   @ Nagaragawa Ball Field Meadow › Gifu
+    12:00     Ehime FC v Imabari  1-2   @ Ningineer Stadium › Matsuyama
+    13:00     FC Gifu v Honda  0-2   @ Nagaragawa Ball Field Meadow › Gifu
               Parceiro Nagano v Niigata University  3-1 aet   @ Minami Nagano Sports Park Stadium › Nagano
               Sagamihara v Komazawa University  3-1   @ Lemon Gas Stadium Hiratsuka › Hiratsuka
               Arterivo Wakayama v Ococias Kyoto  3-3 aet   @ Kimiidera Athletic Stadium › Wakayama
@@ -19,9 +19,9 @@
               Iwaki v Sony Sendai  2-2 aet   @ Iwaki Greenfield › Iwaki
               Ryutsu Keizai University v YSCC  2-3   @ Hitachinaka Stadium › Hitachinaka
               Mizushima v Baleine Shimonoseki  3-1   @ City Light Stadium › Okayama
-    15.00     Renofa Yamaguchi v Verspah Oita  1-1 aet   @ Ishin Me-Life Stadium › Yamaguchi
+    15:00     Renofa Yamaguchi v Verspah Oita  1-1 aet   @ Ishin Me-Life Stadium › Yamaguchi
   Sun May 23
-    13.00     Kagoshima United v MD Nagasaki  4-0   @ OSAKO YUYA stadium › Minamisatsuma
+    13:00     Kagoshima United v MD Nagasaki  4-0   @ OSAKO YUYA stadium › Minamisatsuma
               Blaublitz Akita v Hokkaido Tokachi  1-1 aet   @ Soyu Stadium › Akita
               Gainare Tottori v FC Tokushima  4-1   @ Axis Bird Stadium › Tottori
               Grulla Morioka v Oyama  13-0   @ Iwagin Stadium › Morioka
@@ -33,14 +33,14 @@
               Biwako Seikei College v Kwansei Gakuin  0-2   @ Nunobiki Higashiomi Stadium › Higashiomi
               Fukuyama City v Matsue City  2-1   @ Hiroshima Ball Games Stadium 1 › Hiroshima
               Porvenir Asuka v Osaka  0-2   @ Konoike Athletic Stadium › Nara, Nara Prefecture
-    14.00     Kochi United v Kamatamare Sanuki  1-0   @ Sukumoshi Sports Park Field › Sukumo
+    14:00     Kochi United v Kamatamare Sanuki  1-0   @ Sukumoshi Sports Park Field › Sukumo
   Wed May 26
-    19.00     Tochigi City v Yamanashi Gakuin  9-0   @ Tochigi Green Stadium › Utsunomiya
+    19:00     Tochigi City v Yamanashi Gakuin  9-0   @ Tochigi Green Stadium › Utsunomiya
   Sat Jun 5
-    13.00     Tonan Maebashi v Juntendo Uinversity  1-6   @ Gunma Shikishima Park › Maebashi
-» 2nd Round
+    13:00     Tonan Maebashi v Juntendo Uinversity  1-6   @ Gunma Shikishima Park › Maebashi
+▪ 2nd Round
   Wed Jun 9
-    18.00     Consadole Sapporo v Sony Sendai  5-3 (4-2)   @ Sapporo Atsubetsu Park Stadium › Sapporo
+    18:00     Consadole Sapporo v Sony Sendai  5-3 (4-2)   @ Sapporo Atsubetsu Park Stadium › Sapporo
               Kashiwa Reysol v Tochigi City  3-0 (2-0)   @ SANKYO FRONTIER Kashiwa Stadium › Kashiwa
               Nagoya Grampus v Mizushima  5-0 (2-0)   @ Nagaragawa Stadium › Gifu
               Cerezo Osaka v Gainare Tottori  2-0 (2-0)   @ Yodoko Sakura Stadium › Osaka
@@ -51,7 +51,7 @@
               Kyoto Sanga v Imabari  3-1 (1-0)   @ Takebishi Stadium Kyōto › Kyoto
               Avispa Fukuoka v Kagoshima United  6-0 (1-0)   @ Best Denki Stadium › Fukuoka
               Kitakyushu v Sagamihara  0-1 (0-1)   @ Mikuni World Stadium › Kitakyushu
-    19.00     Jubilo Iwata v Hokkaido Tokachi  3-0 (0-0)   @ Yamaha Stadium › Iwata
+    19:00     Jubilo Iwata v Hokkaido Tokachi  3-0 (0-0)   @ Yamaha Stadium › Iwata
               Shimizu S-pulse v Fukuyama City  1-0 (0-0)   @ IAI Stadium Nihondaira › Shizuoka
               Shonan Bellmare v Osaka  1-0 pen (0-0, 0-0)   @ Lemon Gas Stadium Hiratsuka › Hiratsuka
               V-varen Nagasaki v Okinawa SV  2-0 (1-0)   @ Transcosmos Stadium › Isahaya
@@ -67,20 +67,20 @@
               Montedio Yamagata v Verspah Oita  1-2 (1-1)   @ ND Soft Stadium › Tendo
               Tochigi SC v Machida Zelvia  2-0 (2-0)   @ Tochigi Green Stadium › Utsunomiya
   Wed Jun 16
-    18.00     Sanfrecce Hiroshima v Ococias Kyoto  1-5 (1-2)   @ EDION Stadium › Hiroshima
+    18:00     Sanfrecce Hiroshima v Ococias Kyoto  1-5 (1-2)   @ EDION Stadium › Hiroshima
               Vissel Kobe v Suzuka Unlimited  4-0 (1-0)   @ NOEVIR Stadium Kobe › Kobe
               Gamba Osaka v Kwansei Gakuin  3-1 (2-0)   @ Panasonic Stadium Suita › Suita
               Tokyo Verdy v Fagiano Okayama  0-1 (0-0)   @ Ajinomoto Field Nishigaoka › Tokyo
               Yokohama FC v Vanraure Hachinohe  1-2 (0-0)   @ NHK Spring Mitsuzawa Football Stadium › Yokohama
-    19.00     Kashima v YSCC  8-1 (4-0)   @ K's Denki Stadium › Mito
-» 3rd Round
+    19:00     Kashima v YSCC  8-1 (4-0)   @ K's Denki Stadium › Mito
+▪ 3rd Round
   Wed Jul 7
-    18.00     Kashiwa Reysol v Kyoto Sanga  1-2 (1-1)   @ SANKYO FRONTIER Kashiwa Stadium › Kashiwa
+    18:00     Kashiwa Reysol v Kyoto Sanga  1-2 (1-1)   @ SANKYO FRONTIER Kashiwa Stadium › Kashiwa
               Vissel Kobe v Tokushima Vortis  1-0 (1-0)   @ NOEVIR Stadium Kobe › Kobe
               Consadole Sapporo v V-varen Nagasaki  1-2 (0-2)   @ Transcosmos Stadium › Isahaya
-    18.30     Shimizu S-pulse v Grulla Morioka  2-1 (0-1)   @ Iwagin Stadium › Morioka
+    18:30     Shimizu S-pulse v Grulla Morioka  2-1 (0-1)   @ Iwagin Stadium › Morioka
               Honda v Jubilo Iwata  1-4 (0-3)   @ Yamaha Stadium › Iwata
-    19.00     Kashima v Tochigi SC  3-0 (0-0)   @ Kanseki Stadium › Utsunomiya
+    19:00     Kashima v Tochigi SC  3-0 (0-0)   @ Kanseki Stadium › Utsunomiya
               Sagan Tosu v Avispa Fukuoka  1-0 (0-0)   @ Ekimae Real Estate Stadium › Tosu
               Oita Trinita v Fukui United  2-0 (2-0)   @ Techno-Port Fukui Stadium › Sakai
               Vanraure Hachinohe v Shonan Bellmare  1-2 aet (1-1, 0-0)   @ Lemon Gas Stadium Hiratsuka › Hiratsuka
@@ -88,34 +88,34 @@
               Juntendo Uinversity v Thespakusatsu Gunma  2-3 aet (2-2, 1-0)   @ Shoda Shoyu Stadium › Maebashi
               Urawa v Sagamihara  1-0 (0-0)   @ Urawa Komaba Stadium › Saitama
   Wed Jul 21
-    18.00     Kawasaki Frontale v JEF United Chiba  1-1 aet   @ Fukuda Denshi Arena › Chiba
+    18:00     Kawasaki Frontale v JEF United Chiba  1-1 aet   @ Fukuda Denshi Arena › Chiba
   Mon Aug 2
-    18.00     Nagoya Grampus v Fagiano Okayama  1-0 (1-0)   @ Minato Soccer Stadium › Nagoya
+    18:00     Nagoya Grampus v Fagiano Okayama  1-0 (1-0)   @ Minato Soccer Stadium › Nagoya
   Wed Aug 4
-    18.00     Cerezo Osaka v Albirex Niigata  3-2 (2-0)   @ Yodoko Sakura Stadium › Osaka
+    18:00     Cerezo Osaka v Albirex Niigata  3-2 (2-0)   @ Yodoko Sakura Stadium › Osaka
   Wed Aug 18
-    18.00     Gamba Osaka v Matsumoto Yamaga  2-0 aet (0-0, 0-0)   @ Panasonic Stadium Suita › Suita
-» 4th Round
+    18:00     Gamba Osaka v Matsumoto Yamaga  2-0 aet (0-0, 0-0)   @ Panasonic Stadium Suita › Suita
+▪ 4th Round
   Wed Aug 18
-    18.00     Cerezo Osaka v Sagan Tosu  1-0 (1-0)   @ Yodoko Sakura Stadium › Osaka
+    18:00     Cerezo Osaka v Sagan Tosu  1-0 (1-0)   @ Yodoko Sakura Stadium › Osaka
               Kyoto Sanga v Urawa  0-1 (0-1)   @ Takebishi Stadium Kyōto › Kyoto
               Thespakusatsu Gunma v Oita Trinita  1-2 aet (1-1, 1-1)   @ Shoda Shoyu Stadium › Maebashi
               Nagoya Grampus v Vissel Kobe  1-0 (0-0)   @ Toyota Stadium › Toyota
-    19.00     Kashima v V-varen Nagasaki  3-1 (0-1)   @ Transcosmos Stadium › Isahaya
+    19:00     Kashima v V-varen Nagasaki  3-1 (0-1)   @ Transcosmos Stadium › Isahaya
               Kawasaki Frontale v Shimizu S-pulse  2-1 (0-0)   @ IAI Stadium Nihondaira › Shizuoka
               Verspah Oita v Jubilo Iwata  0-1 (0-0)   @ Showa Denko Dome Ōita › Oita
   Wed Sep 22
-    18.00     Gamba Osaka v Shonan Bellmare  4-1 (3-0)   @ Panasonic Stadium Suita › Suita
-» Quarter-finals
+    18:00     Gamba Osaka v Shonan Bellmare  4-1 (3-0)   @ Panasonic Stadium Suita › Suita
+▪ Quarter-finals
   Wed Oct 27
-    18.00     Kawasaki Frontale v Kashima  3-1 (1-0)   @ Kawasaki Todoroki Stadium › Kawasaki
+    18:00     Kawasaki Frontale v Kashima  3-1 (1-0)   @ Kawasaki Todoroki Stadium › Kawasaki
               Nagoya Grampus v Cerezo Osaka  0-3 (0-2)   @ Toyota Stadium › Toyota
-    18.30     Gamba Osaka v Urawa  0-2 (0-2)   @ Panasonic Stadium Suita › Suita
-    19.00     Jubilo Iwata v Oita Trinita  0-2 (0-0)   @ Shizuoka Stadium Ecopa › Fukuroi
-» Semi-finals
+    18:30     Gamba Osaka v Urawa  0-2 (0-2)   @ Panasonic Stadium Suita › Suita
+    19:00     Jubilo Iwata v Oita Trinita  0-2 (0-0)   @ Shizuoka Stadium Ecopa › Fukuroi
+▪ Semi-finals
   Sun Dec 12
-    14.00     Kawasaki Frontale v Oita Trinita  1-1 aet (0-0, 0-0)   @ Kawasaki Todoroki Stadium › Kawasaki
-    16.00     Urawa v Cerezo Osaka  2-0 (1-0)   @ Saitama Stadium 2002 › Saitama
-» Final
+    14:00     Kawasaki Frontale v Oita Trinita  1-1 aet (0-0, 0-0)   @ Kawasaki Todoroki Stadium › Kawasaki
+    16:00     Urawa v Cerezo Osaka  2-0 (1-0)   @ Saitama Stadium 2002 › Saitama
+▪ Final
   Sun Dec 19
-    14.00     Urawa v Oita Trinita  2-1 (1-0)   @ Japan National Stadium › Tokyo
+    14:00     Urawa v Oita Trinita  2-1 (1-0)   @ Japan National Stadium › Tokyo

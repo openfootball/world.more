@@ -1,467 +1,467 @@
 = Cyprus | 1. Division 2023/24
 
-  # Date       Fri Aug/18 2023 - Sun May/12 2024 (268d)
+  # Date       Fri Aug 18 2023 - Sun May 12 2024 (268d)
   # Teams      14
   # Matches    268
 
   # Note - All times in Asia/Nicosia
 
-» Regular Season - 1
+▪ Regular Season - 1
   Fri Aug 18 2023
-    20.00     Pafos v Karmiotissa  3-0 (1-0)   @ Stadio Stelios Kyriakides › Paphos
+    20:00     Pafos v Karmiotissa  3-0 (1-0)   @ Stadio Stelios Kyriakides › Paphos
   Sat Aug 19
-    20.00     Anorthosis v Ethnikos Achna  3-1 (0-0)   @ Stadio Antonis Papadopoulos › Larnaca
+    20:00     Anorthosis v Ethnikos Achna  3-1 (0-0)   @ Stadio Antonis Papadopoulos › Larnaca
               Apollon Limassol v Othellos  1-1 (1-1)   @ Alphamega Stadium › Kolossi
   Sun Aug 20
-    20.00     AE Zakakiou v Apoel Nicosia  0-2 (0-0)   @ Stadio Vitex Ammochostos Epistrofi › Larnaca
+    20:00     AE Zakakiou v Apoel Nicosia  0-2 (0-0)   @ Stadio Vitex Ammochostos Epistrofi › Larnaca
   Mon Aug 21
-    20.00     Omonia Nicosia v Nea Salamis  4-0 (1-0)   @ Neo GSP › Levkosía
+    20:00     Omonia Nicosia v Nea Salamis  4-0 (1-0)   @ Neo GSP › Levkosía
               Aris v AEK Larnaca  2-0 (1-0)   @ Alphamega Stadium › Kolossi
               Doxa v AEL  0-1 (0-1)   @ Stadio Peristerona › Peristerona
-» Regular Season - 2
+▪ Regular Season - 2
   Sat Aug 26
-    20.00     Karmiotissa v Omonia Nicosia  3-3 (1-1)   @ Stadio Stelios Kyriakides › Paphos
+    20:00     Karmiotissa v Omonia Nicosia  3-3 (1-1)   @ Stadio Stelios Kyriakides › Paphos
               Othellos v Anorthosis  0-2 (0-1)   @ Stadio Vitex Ammochostos Epistrofi › Larnaca
   Sun Aug 27
-    20.00     Nea Salamis v Apollon Limassol  1-1 (0-1)   @ Stadio Vitex Ammochostos Epistrofi › Larnaca
+    20:00     Nea Salamis v Apollon Limassol  1-1 (0-1)   @ Stadio Vitex Ammochostos Epistrofi › Larnaca
               AEL v AE Zakakiou  4-3 (1-2)   @ Alphamega Stadium › Kolossi
   Mon Aug 28
-    20.00     Aris v Doxa  2-1 (0-0)   @ Alphamega Stadium › Kolossi
+    20:00     Aris v Doxa  2-1 (0-0)   @ Alphamega Stadium › Kolossi
               AEK Larnaca v Ethnikos Achna  5-5 (4-4)   @ AEK Arena-George Karapatakis › Larnaca
-» Regular Season - 3
+▪ Regular Season - 3
   Fri Sep 1
-    20.00     Anorthosis v Nea Salamis  2-2 (1-0)   @ Stadio Antonis Papadopoulos › Larnaca
+    20:00     Anorthosis v Nea Salamis  2-2 (1-0)   @ Stadio Antonis Papadopoulos › Larnaca
   Sat Sep 2
-    20.00     Doxa v AEK Larnaca  0-2 (0-1)   @ Stadio Peristerona › Peristerona
+    20:00     Doxa v AEK Larnaca  0-2 (0-1)   @ Stadio Peristerona › Peristerona
               Pafos v AEL  3-1 (0-1)   @ Stadio Stelios Kyriakides › Paphos
               Ethnikos Achna v Othellos  1-1 (1-0)   @ Stadio Dasaki Achnas › Dasaki Achnas
   Sun Sep 3
-    20.00     AE Zakakiou v Aris  0-5 (0-3)   @ Stadio Vitex Ammochostos Epistrofi › Larnaca
+    20:00     AE Zakakiou v Aris  0-5 (0-3)   @ Stadio Vitex Ammochostos Epistrofi › Larnaca
               Apollon Limassol v Karmiotissa  1-0 (1-0)   @ Alphamega Stadium › Kolossi
-    21.00     Omonia Nicosia v Apoel Nicosia  2-1 (2-1)   @ Neo GSP › Levkosía
-» Regular Season - 4
+    21:00     Omonia Nicosia v Apoel Nicosia  2-1 (2-1)   @ Neo GSP › Levkosía
+▪ Regular Season - 4
   Sat Sep 16
-    19.00     Doxa v AE Zakakiou  1-3 (0-2)   @ Stadio Peristerona › Peristerona
+    19:00     Doxa v AE Zakakiou  1-3 (0-2)   @ Stadio Peristerona › Peristerona
               AEK Larnaca v Othellos  3-2 (3-1)   @ AEK Arena-George Karapatakis › Larnaca
-    20.00     AEL v Omonia Nicosia  0-0 (0-0)   @ Alphamega Stadium › Kolossi
+    20:00     AEL v Omonia Nicosia  0-0 (0-0)   @ Alphamega Stadium › Kolossi
   Sun Sep 17
-    18.00     Karmiotissa v Anorthosis  1-3 (0-1)   @ Stadio Stelios Kyriakides › Paphos
-    19.00     Aris v Pafos  1-1 (0-0)   @ Alphamega Stadium › Kolossi
-    20.30     Apoel Nicosia v Apollon Limassol  1-1 (1-1)   @ Neo GSP › Levkosía
-» Regular Season - 5
+    18:00     Karmiotissa v Anorthosis  1-3 (0-1)   @ Stadio Stelios Kyriakides › Paphos
+    19:00     Aris v Pafos  1-1 (0-0)   @ Alphamega Stadium › Kolossi
+    20:30     Apoel Nicosia v Apollon Limassol  1-1 (1-1)   @ Neo GSP › Levkosía
+▪ Regular Season - 5
   Fri Sep 22
-    19.00     AE Zakakiou v AEK Larnaca  3-1 (1-1)   @ Stadio Vitex Ammochostos Epistrofi › Larnaca
+    19:00     AE Zakakiou v AEK Larnaca  3-1 (1-1)   @ Stadio Vitex Ammochostos Epistrofi › Larnaca
   Sat Sep 23
-    18.00     Pafos v Doxa  4-0 (3-0)   @ Stadio Stelios Kyriakides › Paphos
-    19.00     Ethnikos Achna v Karmiotissa  3-0 (2-0)   @ Stadio Dasaki Achnas › Dasaki Achnas
-    20.30     Anorthosis v Apoel Nicosia  1-1 (1-1)   @ Stadio Antonis Papadopoulos › Larnaca
+    18:00     Pafos v Doxa  4-0 (3-0)   @ Stadio Stelios Kyriakides › Paphos
+    19:00     Ethnikos Achna v Karmiotissa  3-0 (2-0)   @ Stadio Dasaki Achnas › Dasaki Achnas
+    20:30     Anorthosis v Apoel Nicosia  1-1 (1-1)   @ Stadio Antonis Papadopoulos › Larnaca
   Sun Sep 24
-    19.00     Othellos v Nea Salamis  2-3 (1-2)   @ Stadio Vitex Ammochostos Epistrofi › Larnaca
+    19:00     Othellos v Nea Salamis  2-3 (1-2)   @ Stadio Vitex Ammochostos Epistrofi › Larnaca
               Apollon Limassol v AEL  2-0 (0-0)   @ Alphamega Stadium › Kolossi
   Mon Sep 25
-    19.00     Omonia Nicosia v Aris  2-2 (1-1)   @ Neo GSP › Levkosía
-» Regular Season - 2
+    19:00     Omonia Nicosia v Aris  2-2 (1-1)   @ Neo GSP › Levkosía
+▪ Regular Season - 2
   Wed Sep 27
-    19.00     Apoel Nicosia v Pafos  1-0 (0-0)   @ Neo GSP › Levkosía
-» Regular Season - 6
+    19:00     Apoel Nicosia v Pafos  1-0 (0-0)   @ Neo GSP › Levkosía
+▪ Regular Season - 6
   Sat Sep 30
-    18.00     AEK Larnaca v Nea Salamis  1-1 (1-1)   @ AEK Arena-George Karapatakis › Larnaca
-    19.00     Karmiotissa v Othellos  0-0 (0-0)   @ Stadio Stelios Kyriakides › Paphos
+    18:00     AEK Larnaca v Nea Salamis  1-1 (1-1)   @ AEK Arena-George Karapatakis › Larnaca
+    19:00     Karmiotissa v Othellos  0-0 (0-0)   @ Stadio Stelios Kyriakides › Paphos
               Aris v Apollon Limassol  0-1 (0-1)   @ Alphamega Stadium › Kolossi
   Sun Oct 1
-    19.00     Doxa v Omonia Nicosia  1-3 (1-0)   @ Stadio Peristerona › Peristerona
+    19:00     Doxa v Omonia Nicosia  1-3 (1-0)   @ Stadio Peristerona › Peristerona
               AEL v Anorthosis  1-3 (0-2)   @ Alphamega Stadium › Kolossi
   Mon Oct 2
-    19.00     AE Zakakiou v Pafos  1-4 (1-3)   @ Stadio Vitex Ammochostos Epistrofi › Larnaca
+    19:00     AE Zakakiou v Pafos  1-4 (1-3)   @ Stadio Vitex Ammochostos Epistrofi › Larnaca
               Apoel Nicosia v Ethnikos Achna  5-1 (2-1)   @ Neo GSP › Levkosía
-» Regular Season - 7
+▪ Regular Season - 7
   Fri Oct 6
-    19.00     Nea Salamis v Karmiotissa  2-0 (0-0)   @ Stadio Vitex Ammochostos Epistrofi › Larnaca
+    19:00     Nea Salamis v Karmiotissa  2-0 (0-0)   @ Stadio Vitex Ammochostos Epistrofi › Larnaca
   Sat Oct 7
-    19.00     Pafos v AEK Larnaca  0-0 (0-0)   @ Stadio Stelios Kyriakides › Paphos
+    19:00     Pafos v AEK Larnaca  0-0 (0-0)   @ Stadio Stelios Kyriakides › Paphos
               Othellos v Apoel Nicosia  0-1 (0-0)   @ Stadio Vitex Ammochostos Epistrofi › Larnaca
               Omonia Nicosia v AE Zakakiou  3-3 (1-1)   @ Neo GSP › Levkosía
   Sun Oct 8
-    19.00     Anorthosis v Aris  2-3 (1-2)   @ Stadio Antonis Papadopoulos › Larnaca
+    19:00     Anorthosis v Aris  2-3 (1-2)   @ Stadio Antonis Papadopoulos › Larnaca
               Ethnikos Achna v AEL  1-0 (1-0)   @ Stadio Dasaki Achnas › Dasaki Achnas
               Apollon Limassol v Doxa  4-0 (1-0)   @ Alphamega Stadium › Kolossi
-» Regular Season - 8
+▪ Regular Season - 8
   Sat Oct 21
-    19.00     AEK Larnaca v Karmiotissa  5-0 (2-0)   @ AEK Arena-George Karapatakis › Larnaca
+    19:00     AEK Larnaca v Karmiotissa  5-0 (2-0)   @ AEK Arena-George Karapatakis › Larnaca
               Apoel Nicosia v Nea Salamis  1-0 (1-0)   @ Neo GSP › Levkosía
               Aris v Ethnikos Achna  2-0 (2-0)   @ Alphamega Stadium › Kolossi
   Sun Oct 22
-    17.00     AEL v Othellos  2-1 (1-0)   @ Alphamega Stadium › Kolossi
-    19.00     AE Zakakiou v Apollon Limassol  0-5 (0-1)   @ Stadio Vitex Ammochostos Epistrofi › Larnaca
+    17:00     AEL v Othellos  2-1 (1-0)   @ Alphamega Stadium › Kolossi
+    19:00     AE Zakakiou v Apollon Limassol  0-5 (0-1)   @ Stadio Vitex Ammochostos Epistrofi › Larnaca
               Doxa v Anorthosis  0-2 (0-2)   @ Stadio Peristerona › Peristerona
   Mon Oct 23
-    19.00     Pafos v Omonia Nicosia  0-2 (0-2)   @ Stadio Stelios Kyriakides › Paphos
-» Regular Season - 4
+    19:00     Pafos v Omonia Nicosia  0-2 (0-2)   @ Stadio Stelios Kyriakides › Paphos
+▪ Regular Season - 4
   Wed Oct 25
-    19.00     Nea Salamis v Ethnikos Achna  4-0 (2-0)   @ Stadio Vitex Ammochostos Epistrofi › Larnaca
-» Regular Season - 9
+    19:00     Nea Salamis v Ethnikos Achna  4-0 (2-0)   @ Stadio Vitex Ammochostos Epistrofi › Larnaca
+▪ Regular Season - 9
   Sat Oct 28
-    18.00     Ethnikos Achna v Doxa  2-0 (1-0)   @ Stadio Dasaki Achnas › Dasaki Achnas
-    19.00     Karmiotissa v Apoel Nicosia  1-2 (0-1)   @ Stadio Stelios Kyriakides › Paphos
+    18:00     Ethnikos Achna v Doxa  2-0 (1-0)   @ Stadio Dasaki Achnas › Dasaki Achnas
+    19:00     Karmiotissa v Apoel Nicosia  1-2 (0-1)   @ Stadio Stelios Kyriakides › Paphos
               Nea Salamis v AEL  2-1 (1-0)   @ Stadio Vitex Ammochostos Epistrofi › Larnaca
   Sun Oct 29
-    18.00     Omonia Nicosia v AEK Larnaca  0-0 (0-0)   @ Neo GSP › Levkosía
-    19.00     Anorthosis v AE Zakakiou  1-1 (0-0)   @ Stadio Antonis Papadopoulos › Larnaca
+    18:00     Omonia Nicosia v AEK Larnaca  0-0 (0-0)   @ Neo GSP › Levkosía
+    19:00     Anorthosis v AE Zakakiou  1-1 (0-0)   @ Stadio Antonis Papadopoulos › Larnaca
               Apollon Limassol v Pafos  0-3 (0-2)   @ Alphamega Stadium › Kolossi
   Mon Oct 30
-    19.00     Othellos v Aris  0-1 (0-1)   @ Stadio Vitex Ammochostos Epistrofi › Larnaca
-» Regular Season - 10
+    19:00     Othellos v Aris  0-1 (0-1)   @ Stadio Vitex Ammochostos Epistrofi › Larnaca
+▪ Regular Season - 10
   Fri Nov 3
-    19.00     AE Zakakiou v Ethnikos Achna  1-1 (0-0)   @ Stadio Vitex Ammochostos Epistrofi › Larnaca
+    19:00     AE Zakakiou v Ethnikos Achna  1-1 (0-0)   @ Stadio Vitex Ammochostos Epistrofi › Larnaca
   Sat Nov 4
-    18.00     Doxa v Othellos  0-2 (0-0)   @ Stadio Peristerona › Peristerona
-    19.00     Aris v Nea Salamis  2-1 (0-0)   @ Alphamega Stadium › Kolossi
+    18:00     Doxa v Othellos  0-2 (0-0)   @ Stadio Peristerona › Peristerona
+    19:00     Aris v Nea Salamis  2-1 (0-0)   @ Alphamega Stadium › Kolossi
               Omonia Nicosia v Apollon Limassol  2-0 (1-0)   @ Neo GSP › Levkosía
   Sun Nov 5
-    18.00     AEK Larnaca v Apoel Nicosia  0-3 (0-1)   @ AEK Arena-George Karapatakis › Larnaca
+    18:00     AEK Larnaca v Apoel Nicosia  0-3 (0-1)   @ AEK Arena-George Karapatakis › Larnaca
               Pafos v Anorthosis  1-0 (1-0)   @ Stadio Stelios Kyriakides › Paphos
-    19.00     AEL v Karmiotissa  2-1 (2-0)   @ Alphamega Stadium › Kolossi
-» Regular Season - 11
+    19:00     AEL v Karmiotissa  2-1 (2-0)   @ Alphamega Stadium › Kolossi
+▪ Regular Season - 11
   Fri Nov 10
-    20.00     Anorthosis v Omonia Nicosia  2-0 (0-0)   @ Stadio Antonis Papadopoulos › Larnaca
+    20:00     Anorthosis v Omonia Nicosia  2-0 (0-0)   @ Stadio Antonis Papadopoulos › Larnaca
   Sat Nov 11
-    18.00     Nea Salamis v Doxa  2-0 (0-0)   @ Stadio Vitex Ammochostos Epistrofi › Larnaca
-    19.00     Ethnikos Achna v Pafos  1-4 (1-2)   @ Stadio Dasaki Achnas › Dasaki Achnas
+    18:00     Nea Salamis v Doxa  2-0 (0-0)   @ Stadio Vitex Ammochostos Epistrofi › Larnaca
+    19:00     Ethnikos Achna v Pafos  1-4 (1-2)   @ Stadio Dasaki Achnas › Dasaki Achnas
               Apoel Nicosia v AEL  1-0 (1-0)   @ Neo GSP › Levkosía
   Sun Nov 12
-    17.00     Othellos v AE Zakakiou  2-1 (0-1)   @ Stadio Vitex Ammochostos Epistrofi › Larnaca
-    19.00     Karmiotissa v Aris  4-1 (0-0)   @ Stadio Stelios Kyriakides › Paphos
+    17:00     Othellos v AE Zakakiou  2-1 (0-1)   @ Stadio Vitex Ammochostos Epistrofi › Larnaca
+    19:00     Karmiotissa v Aris  4-1 (0-0)   @ Stadio Stelios Kyriakides › Paphos
               Apollon Limassol v AEK Larnaca  0-1 (0-1)   @ Alphamega Stadium › Kolossi
-» Regular Season - 12
+▪ Regular Season - 12
   Sat Nov 25
-    19.00     Pafos v Othellos  3-0 (0-0)   @ Stadio Stelios Kyriakides › Paphos
+    19:00     Pafos v Othellos  3-0 (0-0)   @ Stadio Stelios Kyriakides › Paphos
               Aris v Apoel Nicosia  1-0 (0-0)   @ Alphamega Stadium › Kolossi
   Sun Nov 26
-    18.00     AE Zakakiou v Nea Salamis  2-2 (1-1)   @ Stadio Vitex Ammochostos Epistrofi › Larnaca
+    18:00     AE Zakakiou v Nea Salamis  2-2 (1-1)   @ Stadio Vitex Ammochostos Epistrofi › Larnaca
               Omonia Nicosia v Ethnikos Achna  4-1 (2-1)   @ Neo GSP › Levkosía
-    19.00     Apollon Limassol v Anorthosis  0-1 (0-0)   @ Alphamega Stadium › Kolossi
+    19:00     Apollon Limassol v Anorthosis  0-1 (0-0)   @ Alphamega Stadium › Kolossi
   Mon Nov 27
-    19.00     Doxa v Karmiotissa  2-2 (2-2)   @ Stadio Peristerona › Peristerona
+    19:00     Doxa v Karmiotissa  2-2 (2-2)   @ Stadio Peristerona › Peristerona
               AEK Larnaca v AEL  3-0 (1-0)   @ AEK Arena-George Karapatakis › Larnaca
-» Regular Season - 13
+▪ Regular Season - 13
   Fri Dec 1
-    19.00     Othellos v Omonia Nicosia  1-2 (1-1)   @ Stadio Vitex Ammochostos Epistrofi › Larnaca
+    19:00     Othellos v Omonia Nicosia  1-2 (1-1)   @ Stadio Vitex Ammochostos Epistrofi › Larnaca
   Sat Dec 2
-    19.00     Anorthosis v AEK Larnaca  0-0 (0-0)   @ Stadio Antonis Papadopoulos › Larnaca
+    19:00     Anorthosis v AEK Larnaca  0-0 (0-0)   @ Stadio Antonis Papadopoulos › Larnaca
               Ethnikos Achna v Apollon Limassol  2-2 (1-1)   @ Stadio Dasaki Achnas › Dasaki Achnas
   Sun Dec 3
-    16.30     Karmiotissa v AE Zakakiou  1-1 (1-0)   @ Stadio Stelios Kyriakides › Paphos
-    19.00     Nea Salamis v Pafos  0-2 (0-0)   @ Stadio Vitex Ammochostos Epistrofi › Larnaca
+    16:30     Karmiotissa v AE Zakakiou  1-1 (1-0)   @ Stadio Stelios Kyriakides › Paphos
+    19:00     Nea Salamis v Pafos  0-2 (0-0)   @ Stadio Vitex Ammochostos Epistrofi › Larnaca
               Apoel Nicosia v Doxa  5-0 (1-0)   @ Neo GSP › Levkosía
   Mon Dec 4
-    19.00     AEL v Aris  0-4 (0-2)   @ Alphamega Stadium › Kolossi
-» Regular Season - 14
+    19:00     AEL v Aris  0-4 (0-2)   @ Alphamega Stadium › Kolossi
+▪ Regular Season - 14
   Fri Dec 8
-    19.00     Othellos v Apollon Limassol  0-3 (0-1)   @ Stadio Vitex Ammochostos Epistrofi › Larnaca
+    19:00     Othellos v Apollon Limassol  0-3 (0-1)   @ Stadio Vitex Ammochostos Epistrofi › Larnaca
   Sat Dec 9
-    17.00     AEK Larnaca v Aris  2-1 (0-1)   @ AEK Arena-George Karapatakis › Larnaca
-    19.00     Apoel Nicosia v AE Zakakiou  3-1 (1-1)   @ Neo GSP › Levkosía
+    17:00     AEK Larnaca v Aris  2-1 (0-1)   @ AEK Arena-George Karapatakis › Larnaca
+    19:00     Apoel Nicosia v AE Zakakiou  3-1 (1-1)   @ Neo GSP › Levkosía
               AEL v Doxa  2-0 (1-0)   @ Alphamega Stadium › Kolossi
   Sun Dec 10
-    17.00     Ethnikos Achna v Anorthosis  0-1 (0-0)   @ Stadio Dasaki Achnas › Dasaki Achnas
-    18.00     Karmiotissa v Pafos  2-1 (2-0)   @ Stadio Stelios Kyriakides › Paphos
-    19.00     Nea Salamis v Omonia Nicosia  0-2 (0-0)   @ Stadio Vitex Ammochostos Epistrofi › Larnaca
-» Regular Season - 15
+    17:00     Ethnikos Achna v Anorthosis  0-1 (0-0)   @ Stadio Dasaki Achnas › Dasaki Achnas
+    18:00     Karmiotissa v Pafos  2-1 (2-0)   @ Stadio Stelios Kyriakides › Paphos
+    19:00     Nea Salamis v Omonia Nicosia  0-2 (0-0)   @ Stadio Vitex Ammochostos Epistrofi › Larnaca
+▪ Regular Season - 15
   Sat Dec 16
-    18.00     Ethnikos Achna v AEK Larnaca  0-3 (0-1)   @ Stadio Dasaki Achnas › Dasaki Achnas
+    18:00     Ethnikos Achna v AEK Larnaca  0-3 (0-1)   @ Stadio Dasaki Achnas › Dasaki Achnas
               Omonia Nicosia v Karmiotissa  2-1 (1-1)   @ Neo GSP › Levkosía
-    19.00     Anorthosis v Othellos  2-1 (0-1)   @ Stadio Antonis Papadopoulos › Larnaca
+    19:00     Anorthosis v Othellos  2-1 (0-1)   @ Stadio Antonis Papadopoulos › Larnaca
   Sun Dec 17
-    17.00     AE Zakakiou v AEL  1-4 (1-2)   @ Stadio Vitex Ammochostos Epistrofi › Larnaca
-    18.00     Pafos v Apoel Nicosia  0-1 (0-0)   @ Stadio Stelios Kyriakides › Paphos
-    19.00     Apollon Limassol v Nea Salamis  0-2 (0-2)   @ Alphamega Stadium › Kolossi
+    17:00     AE Zakakiou v AEL  1-4 (1-2)   @ Stadio Vitex Ammochostos Epistrofi › Larnaca
+    18:00     Pafos v Apoel Nicosia  0-1 (0-0)   @ Stadio Stelios Kyriakides › Paphos
+    19:00     Apollon Limassol v Nea Salamis  0-2 (0-2)   @ Alphamega Stadium › Kolossi
   Mon Dec 18
-    19.00     Doxa v Aris  2-0 (2-0)   @ Stadio Peristerona › Peristerona
-» Regular Season - 16
+    19:00     Doxa v Aris  2-0 (2-0)   @ Stadio Peristerona › Peristerona
+▪ Regular Season - 16
   Thu Dec 21
-    19.00     Othellos v Ethnikos Achna  2-1 (1-1)   @ Stadio Vitex Ammochostos Epistrofi › Larnaca
+    19:00     Othellos v Ethnikos Achna  2-1 (1-1)   @ Stadio Vitex Ammochostos Epistrofi › Larnaca
   Fri Dec 22
-    19.00     Aris v AE Zakakiou  1-0 (1-0)   @ Alphamega Stadium › Kolossi
+    19:00     Aris v AE Zakakiou  1-0 (1-0)   @ Alphamega Stadium › Kolossi
               Karmiotissa v Apollon Limassol  3-4 (1-2)   @ Stadio Stelios Kyriakides › Paphos
               AEK Larnaca v Doxa  2-1 (0-1)   @ AEK Arena-George Karapatakis › Larnaca
   Sat Dec 23
-    17.00     Apoel Nicosia v Omonia Nicosia  3-0 (1-0)   @ Neo GSP › Levkosía
+    17:00     Apoel Nicosia v Omonia Nicosia  3-0 (1-0)   @ Neo GSP › Levkosía
               AEL v Pafos  1-2 (0-1)   @ Alphamega Stadium › Kolossi
-    19.00     Nea Salamis v Anorthosis  0-3 (0-1)   @ Stadio Vitex Ammochostos Epistrofi › Larnaca
-» Regular Season - 17
+    19:00     Nea Salamis v Anorthosis  0-3 (0-1)   @ Stadio Vitex Ammochostos Epistrofi › Larnaca
+▪ Regular Season - 17
   Tue Jan 2 2024
-    17.00     Apollon Limassol v Apoel Nicosia  2-2 (2-0)   @ Alphamega Stadium › Kolossi
+    17:00     Apollon Limassol v Apoel Nicosia  2-2 (2-0)   @ Alphamega Stadium › Kolossi
   Tue Jan 2
-    19.00     Omonia Nicosia v AEL  3-1 (2-0)   @ Neo GSP › Levkosía
+    19:00     Omonia Nicosia v AEL  3-1 (2-0)   @ Neo GSP › Levkosía
               Anorthosis v Karmiotissa  1-0 (1-0)   @ Stadio Antonis Papadopoulos › Larnaca
   Wed Jan 3
-    19.00     Ethnikos Achna v Nea Salamis  2-3 (1-2)   @ Stadio Dasaki Achnas › Dasaki Achnas
+    19:00     Ethnikos Achna v Nea Salamis  2-3 (1-2)   @ Stadio Dasaki Achnas › Dasaki Achnas
               Othellos v AEK Larnaca  0-0 (0-0)   @ Stadio Vitex Ammochostos Epistrofi › Larnaca
               Pafos v Aris  1-0 (0-0)   @ Stadio Stelios Kyriakides › Paphos
   Thu Jan 4
-    19.00     AE Zakakiou v Doxa  1-1 (1-0)   @ Stadio Vitex Ammochostos Epistrofi › Larnaca
-» Regular Season - 18
+    19:00     AE Zakakiou v Doxa  1-1 (1-0)   @ Stadio Vitex Ammochostos Epistrofi › Larnaca
+▪ Regular Season - 18
   Sat Jan 6
-    17.00     Apoel Nicosia v Anorthosis  1-0 (0-0)   @ Neo GSP › Levkosía
-    19.00     AEL v Apollon Limassol  1-3 (1-2)   @ Alphamega Stadium › Kolossi
+    17:00     Apoel Nicosia v Anorthosis  1-0 (0-0)   @ Neo GSP › Levkosía
+    19:00     AEL v Apollon Limassol  1-3 (1-2)   @ Alphamega Stadium › Kolossi
   Sun Jan 7
-    17.00     Karmiotissa v Ethnikos Achna  1-1 (0-0)   @ Stadio Stelios Kyriakides › Paphos
+    17:00     Karmiotissa v Ethnikos Achna  1-1 (0-0)   @ Stadio Stelios Kyriakides › Paphos
               Nea Salamis v Othellos  3-2 (1-0)   @ Stadio Vitex Ammochostos Epistrofi › Larnaca
-    19.00     Aris v Omonia Nicosia  2-0 (2-0)   @ Alphamega Stadium › Kolossi
+    19:00     Aris v Omonia Nicosia  2-0 (2-0)   @ Alphamega Stadium › Kolossi
   Mon Jan 8
-    19.00     Doxa v Pafos  1-0 (0-0)   @ Stadio Peristerona › Peristerona
+    19:00     Doxa v Pafos  1-0 (0-0)   @ Stadio Peristerona › Peristerona
               AEK Larnaca v AE Zakakiou  2-0 (1-0)   @ AEK Arena-George Karapatakis › Larnaca
-» Regular Season - 19
+▪ Regular Season - 19
   Fri Jan 12
-    19.00     Nea Salamis v AEK Larnaca  0-1 (0-0)   @ Stadio Vitex Ammochostos Epistrofi › Larnaca
+    19:00     Nea Salamis v AEK Larnaca  0-1 (0-0)   @ Stadio Vitex Ammochostos Epistrofi › Larnaca
               Ethnikos Achna v Apoel Nicosia  2-1 (0-0)   @ Stadio Dasaki Achnas › Dasaki Achnas
   Sat Jan 13
-    17.00     Othellos v Karmiotissa  0-3 (0-3)   @ Stadio Vitex Ammochostos Epistrofi › Larnaca
-    18.00     Omonia Nicosia v Doxa  5-1 (4-1)   @ Neo GSP › Levkosía
-    19.00     Anorthosis v AEL  1-0 (0-0)   @ Stadio Antonis Papadopoulos › Larnaca
+    17:00     Othellos v Karmiotissa  0-3 (0-3)   @ Stadio Vitex Ammochostos Epistrofi › Larnaca
+    18:00     Omonia Nicosia v Doxa  5-1 (4-1)   @ Neo GSP › Levkosía
+    19:00     Anorthosis v AEL  1-0 (0-0)   @ Stadio Antonis Papadopoulos › Larnaca
   Sun Jan 14
-    16.00     Pafos v AE Zakakiou  4-0 (0-0)   @ Stadio Stelios Kyriakides › Paphos
-    19.00     Apollon Limassol v Aris  0-1 (0-1)   @ Alphamega Stadium › Kolossi
-» Regular Season - 20
+    16:00     Pafos v AE Zakakiou  4-0 (0-0)   @ Stadio Stelios Kyriakides › Paphos
+    19:00     Apollon Limassol v Aris  0-1 (0-1)   @ Alphamega Stadium › Kolossi
+▪ Regular Season - 20
   Sat Jan 20
-    17.00     Doxa v Apollon Limassol  0-3 (0-2)   @ Stadio Peristerona › Peristerona
-    19.00     AEL v Ethnikos Achna  1-1 (1-1)   @ Alphamega Stadium › Kolossi
+    17:00     Doxa v Apollon Limassol  0-3 (0-2)   @ Stadio Peristerona › Peristerona
+    19:00     AEL v Ethnikos Achna  1-1 (1-1)   @ Alphamega Stadium › Kolossi
   Sun Jan 21
-    16.00     Apoel Nicosia v Othellos  6-0 (4-0)   @ Neo GSP › Levkosía
-    19.00     Karmiotissa v Nea Salamis  0-1 (0-0)   @ Stadio Stelios Kyriakides › Paphos
+    16:00     Apoel Nicosia v Othellos  6-0 (4-0)   @ Neo GSP › Levkosía
+    19:00     Karmiotissa v Nea Salamis  0-1 (0-0)   @ Stadio Stelios Kyriakides › Paphos
               AE Zakakiou v Omonia Nicosia  0-0 (0-0)   @ Stadio Vitex Ammochostos Epistrofi › Larnaca
   Mon Jan 22
-    19.00     Aris v Anorthosis  2-1 (1-0)   @ Alphamega Stadium › Kolossi
+    19:00     Aris v Anorthosis  2-1 (1-0)   @ Alphamega Stadium › Kolossi
               AEK Larnaca v Pafos  1-0 (0-0)   @ AEK Arena-George Karapatakis › Larnaca
-» Regular Season - 21
+▪ Regular Season - 21
   Fri Jan 26
-    19.00     Karmiotissa v AEK Larnaca  1-3 (1-1)   @ Stadio Stelios Kyriakides › Paphos
+    19:00     Karmiotissa v AEK Larnaca  1-3 (1-1)   @ Stadio Stelios Kyriakides › Paphos
               Nea Salamis v Apoel Nicosia  0-4 (0-2)   @ Stadio Vitex Ammochostos Epistrofi › Larnaca
   Sat Jan 27
-    17.00     Omonia Nicosia v Pafos  1-2 (1-1)   @ Neo GSP › Levkosía
-    18.00     Anorthosis v Doxa  0-2 (0-1)   @ Stadio Antonis Papadopoulos › Larnaca
-    19.00     Apollon Limassol v AE Zakakiou  0-0 (0-0)   @ Alphamega Stadium › Kolossi
+    17:00     Omonia Nicosia v Pafos  1-2 (1-1)   @ Neo GSP › Levkosía
+    18:00     Anorthosis v Doxa  0-2 (0-1)   @ Stadio Antonis Papadopoulos › Larnaca
+    19:00     Apollon Limassol v AE Zakakiou  0-0 (0-0)   @ Alphamega Stadium › Kolossi
   Sun Jan 28
-    17.00     Othellos v AEL  0-3   @ Stadio Vitex Ammochostos Epistrofi › Larnaca
-    19.00     Ethnikos Achna v Aris  2-6 (0-2)   @ Stadio Dasaki Achnas › Dasaki Achnas
-» Regular Season - 22
+    17:00     Othellos v AEL  0-3   @ Stadio Vitex Ammochostos Epistrofi › Larnaca
+    19:00     Ethnikos Achna v Aris  2-6 (0-2)   @ Stadio Dasaki Achnas › Dasaki Achnas
+▪ Regular Season - 22
   Wed Jan 31
-    19.00     Pafos v Apollon Limassol  1-1 (0-1)   @ Stadio Stelios Kyriakides › Paphos
+    19:00     Pafos v Apollon Limassol  1-1 (0-1)   @ Stadio Stelios Kyriakides › Paphos
               Aris v Othellos  4-0 (0-0)   @ Alphamega Stadium › Kolossi
               AEK Larnaca v Omonia Nicosia  2-1 (1-1)   @ AEK Arena-George Karapatakis › Larnaca
   Thu Feb 1
-    16.00     Apoel Nicosia v Karmiotissa  4-1 (1-1)   @ Neo GSP › Levkosía
-    19.00     AEL v Nea Salamis  3-1 (3-1)   @ Alphamega Stadium › Kolossi
+    16:00     Apoel Nicosia v Karmiotissa  4-1 (1-1)   @ Neo GSP › Levkosía
+    19:00     AEL v Nea Salamis  3-1 (3-1)   @ Alphamega Stadium › Kolossi
               Doxa v Ethnikos Achna  0-2 (0-2)   @ Stadio Peristerona › Peristerona
-» Regular Season - 23
+▪ Regular Season - 23
   Sun Feb 4
-    16.00     Anorthosis v Pafos  2-2 (1-1)   @ Stadio Antonis Papadopoulos › Larnaca
-    19.00     Apollon Limassol v Omonia Nicosia  1-2 (0-1)   @ Alphamega Stadium › Kolossi
+    16:00     Anorthosis v Pafos  2-2 (1-1)   @ Stadio Antonis Papadopoulos › Larnaca
+    19:00     Apollon Limassol v Omonia Nicosia  1-2 (0-1)   @ Alphamega Stadium › Kolossi
   Mon Feb 5
-    19.00     Ethnikos Achna v AE Zakakiou  4-1 (2-1)   @ Stadio Dasaki Achnas › Dasaki Achnas
+    19:00     Ethnikos Achna v AE Zakakiou  4-1 (2-1)   @ Stadio Dasaki Achnas › Dasaki Achnas
               Othellos v Doxa  0-0 (0-0)   @ Stadio Vitex Ammochostos Epistrofi › Larnaca
               Apoel Nicosia v AEK Larnaca  2-2 (1-0)   @ Neo GSP › Levkosía
   Tue Feb 6
-    19.00     Karmiotissa v AEL  1-3 (1-2)   @ Stadio Stelios Kyriakides › Paphos
+    19:00     Karmiotissa v AEL  1-3 (1-2)   @ Stadio Stelios Kyriakides › Paphos
               Nea Salamis v Aris  0-3 (0-0)   @ Stadio Vitex Ammochostos Epistrofi › Larnaca
-» Regular Season - 24
+▪ Regular Season - 24
   Fri Feb 9
-    19.00     Omonia Nicosia v Anorthosis  3-1 (0-1)   @ Neo GSP › Levkosía
+    19:00     Omonia Nicosia v Anorthosis  3-1 (0-1)   @ Neo GSP › Levkosía
               AE Zakakiou v Othellos  3-3 (2-1)   @ Stadio Vitex Ammochostos Epistrofi › Larnaca
   Sat Feb 10
-    17.00     Pafos v Ethnikos Achna  4-3 (2-2)   @ Stadio Stelios Kyriakides › Paphos
-    18.00     Aris v Karmiotissa  3-0 (0-0)   @ Alphamega Stadium › Kolossi
-    19.00     AEK Larnaca v Apollon Limassol  1-2 (1-2)   @ AEK Arena-George Karapatakis › Larnaca
+    17:00     Pafos v Ethnikos Achna  4-3 (2-2)   @ Stadio Stelios Kyriakides › Paphos
+    18:00     Aris v Karmiotissa  3-0 (0-0)   @ Alphamega Stadium › Kolossi
+    19:00     AEK Larnaca v Apollon Limassol  1-2 (1-2)   @ AEK Arena-George Karapatakis › Larnaca
   Sun Feb 11
-    17.00     Doxa v Nea Salamis  0-3 (0-3)   @ Stadio Peristerona › Peristerona
-    19.00     AEL v Apoel Nicosia  1-1 (0-1)   @ Alphamega Stadium › Kolossi
-» Regular Season - 25
+    17:00     Doxa v Nea Salamis  0-3 (0-3)   @ Stadio Peristerona › Peristerona
+    19:00     AEL v Apoel Nicosia  1-1 (0-1)   @ Alphamega Stadium › Kolossi
+▪ Regular Season - 25
   Tue Feb 13
-    19.00     Othellos v Pafos  0-3 (0-1)   @ Stadio Vitex Ammochostos Epistrofi › Larnaca
+    19:00     Othellos v Pafos  0-3 (0-1)   @ Stadio Vitex Ammochostos Epistrofi › Larnaca
   Wed Feb 14
-    19.00     Anorthosis v Apollon Limassol  2-0 (1-0)   @ Stadio Antonis Papadopoulos › Larnaca
+    19:00     Anorthosis v Apollon Limassol  2-0 (1-0)   @ Stadio Antonis Papadopoulos › Larnaca
               AEL v AEK Larnaca  2-3 (0-1)   @ Alphamega Stadium › Kolossi
               Ethnikos Achna v Omonia Nicosia  2-2 (0-2)   @ Stadio Dasaki Achnas › Dasaki Achnas
   Thu Feb 15
-    17.00     Karmiotissa v Doxa  3-1 (0-0)   @ Stadio Stelios Kyriakides › Paphos
-    19.00     Nea Salamis v AE Zakakiou  1-1 (0-0)   @ Stadio Vitex Ammochostos Epistrofi › Larnaca
-    20.00     Apoel Nicosia v Aris  1-0 (1-0)   @ Neo GSP › Levkosía
-» Regular Season - 26
+    17:00     Karmiotissa v Doxa  3-1 (0-0)   @ Stadio Stelios Kyriakides › Paphos
+    19:00     Nea Salamis v AE Zakakiou  1-1 (0-0)   @ Stadio Vitex Ammochostos Epistrofi › Larnaca
+    20:00     Apoel Nicosia v Aris  1-0 (1-0)   @ Neo GSP › Levkosía
+▪ Regular Season - 26
   Sat Feb 17
-    16.30     Omonia Nicosia v Othellos  1-0 (0-0)   @ Neo GSP › Levkosía
-    19.00     AEK Larnaca v Anorthosis  1-0 (0-0)   @ AEK Arena-George Karapatakis › Larnaca
+    16:30     Omonia Nicosia v Othellos  1-0 (0-0)   @ Neo GSP › Levkosía
+    19:00     AEK Larnaca v Anorthosis  1-0 (0-0)   @ AEK Arena-George Karapatakis › Larnaca
               Apollon Limassol v Ethnikos Achna  0-0 (0-0)   @ Alphamega Stadium › Kolossi
   Sun Feb 18
-    16.00     AE Zakakiou v Karmiotissa  1-2 (1-0)   @ Stadio Vitex Ammochostos Epistrofi › Larnaca
-    19.00     Doxa v Apoel Nicosia  0-1 (0-0)   @ Stadio Peristerona › Peristerona
+    16:00     AE Zakakiou v Karmiotissa  1-2 (1-0)   @ Stadio Vitex Ammochostos Epistrofi › Larnaca
+    19:00     Doxa v Apoel Nicosia  0-1 (0-0)   @ Stadio Peristerona › Peristerona
               Aris v AEL  4-0 (4-0)   @ Alphamega Stadium › Kolossi
   Mon Feb 19
-    19.00     Pafos v Nea Salamis  0-0 (0-0)   @ Stadio Stelios Kyriakides › Paphos
-» Regular Season - 22
+    19:00     Pafos v Nea Salamis  0-0 (0-0)   @ Stadio Stelios Kyriakides › Paphos
+▪ Regular Season - 22
   Wed Feb 21
-    19.00     AE Zakakiou v Anorthosis  0-2 (0-2)   @ Stadio Vitex Ammochostos Epistrofi › Larnaca
-» Relegation Round - 1
+    19:00     AE Zakakiou v Anorthosis  0-2 (0-2)   @ Stadio Vitex Ammochostos Epistrofi › Larnaca
+▪ Relegation Round - 1
   Sat Feb 24
-    16.30     Ethnikos Achna v Karmiotissa  2-1 (1-1)   @ Stadio Dasaki Achnas › Dasaki Achnas
-    18.00     AEL v AE Zakakiou  2-1 (0-1)   @ Alphamega Stadium › Kolossi
-    19.00     Nea Salamis v Othellos  1-1 (0-0)   @ Stadio Vitex Ammochostos Epistrofi › Larnaca
-» Championship Round - 1
+    16:30     Ethnikos Achna v Karmiotissa  2-1 (1-1)   @ Stadio Dasaki Achnas › Dasaki Achnas
+    18:00     AEL v AE Zakakiou  2-1 (0-1)   @ Alphamega Stadium › Kolossi
+    19:00     Nea Salamis v Othellos  1-1 (0-0)   @ Stadio Vitex Ammochostos Epistrofi › Larnaca
+▪ Championship Round - 1
   Sun Feb 25
-    16.00     Anorthosis v Apoel Nicosia  0-0 (0-0)   @ Stadio Antonis Papadopoulos › Larnaca
-    19.00     Pafos v AEK Larnaca  0-1 (0-1)   @ Stadio Stelios Kyriakides › Paphos
+    16:00     Anorthosis v Apoel Nicosia  0-0 (0-0)   @ Stadio Antonis Papadopoulos › Larnaca
+    19:00     Pafos v AEK Larnaca  0-1 (0-1)   @ Stadio Stelios Kyriakides › Paphos
               Aris v Omonia Nicosia  1-2 (1-2)   @ Alphamega Stadium › Kolossi
-» Relegation Round - 1
+▪ Relegation Round - 1
   Mon Feb 26
-    19.00     Apollon Limassol v Doxa  0-1 (0-0)   @ Alphamega Stadium › Kolossi
-» Relegation Round - 2
+    19:00     Apollon Limassol v Doxa  0-1 (0-0)   @ Alphamega Stadium › Kolossi
+▪ Relegation Round - 2
   Sat Mar 2
-    18.00     Doxa v Karmiotissa  1-4 (1-0)   @ Stadio Peristerona › Peristerona
-    19.00     Othellos v AEL  1-1 (1-1)   @ Stadio Vitex Ammochostos Epistrofi › Larnaca
+    18:00     Doxa v Karmiotissa  1-4 (1-0)   @ Stadio Peristerona › Peristerona
+    19:00     Othellos v AEL  1-1 (1-1)   @ Stadio Vitex Ammochostos Epistrofi › Larnaca
   Sun Mar 3
-    19.00     AE Zakakiou v Ethnikos Achna  0-1 (0-0)   @ Stadio Vitex Ammochostos Epistrofi › Larnaca
-» Championship Round - 2
+    19:00     AE Zakakiou v Ethnikos Achna  0-1 (0-0)   @ Stadio Vitex Ammochostos Epistrofi › Larnaca
+▪ Championship Round - 2
   Sun Mar 3
-    17.00     Apoel Nicosia v Pafos  1-0 (1-0)   @ Neo GSP › Levkosía
-» Relegation Round - 2
+    17:00     Apoel Nicosia v Pafos  1-0 (1-0)   @ Neo GSP › Levkosía
+▪ Relegation Round - 2
   Mon Mar 4
-    19.00     Apollon Limassol v Nea Salamis  2-0 (1-0)   @ Alphamega Stadium › Kolossi
-» Championship Round - 2
+    19:00     Apollon Limassol v Nea Salamis  2-0 (1-0)   @ Alphamega Stadium › Kolossi
+▪ Championship Round - 2
   Mon Mar 4
-    18.00     AEK Larnaca v Aris  1-1 (1-0)   @ AEK Arena-George Karapatakis › Larnaca
-    20.30     Omonia Nicosia v Anorthosis  2-1 (1-0)   @ Neo GSP › Levkosía
-» Relegation Round - 3
+    18:00     AEK Larnaca v Aris  1-1 (1-0)   @ AEK Arena-George Karapatakis › Larnaca
+    20:30     Omonia Nicosia v Anorthosis  2-1 (1-0)   @ Neo GSP › Levkosía
+▪ Relegation Round - 3
   Wed Mar 6
-    19.00     Karmiotissa v AE Zakakiou  0-0 (0-0)   @ Stadio Stelios Kyriakides › Paphos
+    19:00     Karmiotissa v AE Zakakiou  0-0 (0-0)   @ Stadio Stelios Kyriakides › Paphos
               Ethnikos Achna v Othellos  2-1 (1-1)   @ Stadio Dasaki Achnas › Dasaki Achnas
   Thu Mar 7
-    19.00     Nea Salamis v Doxa  0-1 (0-0)   @ Stadio Vitex Ammochostos Epistrofi › Larnaca
+    19:00     Nea Salamis v Doxa  0-1 (0-0)   @ Stadio Vitex Ammochostos Epistrofi › Larnaca
   Fri Mar 8
-    19.00     AEL v Apollon Limassol  2-1 (0-1)   @ Alphamega Stadium › Kolossi
-» Championship Round - 3
+    19:00     AEL v Apollon Limassol  2-1 (0-1)   @ Alphamega Stadium › Kolossi
+▪ Championship Round - 3
   Sat Mar 9
-    17.00     Omonia Nicosia v AEK Larnaca  0-1 (0-0)   @ Neo GSP › Levkosía
+    17:00     Omonia Nicosia v AEK Larnaca  0-1 (0-0)   @ Neo GSP › Levkosía
   Sun Mar 10
-    17.00     Anorthosis v Pafos  2-3 (0-1)   @ Stadio Antonis Papadopoulos › Larnaca
-    19.00     Aris v Apoel Nicosia  2-1 (2-0)   @ Alphamega Stadium › Kolossi
-» Relegation Round - 4
+    17:00     Anorthosis v Pafos  2-3 (0-1)   @ Stadio Antonis Papadopoulos › Larnaca
+    19:00     Aris v Apoel Nicosia  2-1 (2-0)   @ Alphamega Stadium › Kolossi
+▪ Relegation Round - 4
   Sun Mar 10
-    18.00     Othellos v Karmiotissa  1-2 (0-1)   @ Stadio Vitex Ammochostos Epistrofi › Larnaca
+    18:00     Othellos v Karmiotissa  1-2 (0-1)   @ Stadio Vitex Ammochostos Epistrofi › Larnaca
   Mon Mar 11
-    17.00     Doxa v AE Zakakiou  2-1 (1-1)   @ Stadio Peristerona › Peristerona
-    19.00     Apollon Limassol v Ethnikos Achna  2-2 (2-2)   @ Alphamega Stadium › Kolossi
-    19.30     Nea Salamis v AEL  1-1 (1-0)   @ Stadio Vitex Ammochostos Epistrofi › Larnaca
-» Relegation Round - 5
+    17:00     Doxa v AE Zakakiou  2-1 (1-1)   @ Stadio Peristerona › Peristerona
+    19:00     Apollon Limassol v Ethnikos Achna  2-2 (2-2)   @ Alphamega Stadium › Kolossi
+    19:30     Nea Salamis v AEL  1-1 (1-0)   @ Stadio Vitex Ammochostos Epistrofi › Larnaca
+▪ Relegation Round - 5
   Fri Mar 15
-    19.00     AEL v Doxa  0-0 (0-0)   @ Alphamega Stadium › Kolossi
+    19:00     AEL v Doxa  0-0 (0-0)   @ Alphamega Stadium › Kolossi
               Karmiotissa v Apollon Limassol  0-0 (0-0)   @ Stadio Stelios Kyriakides › Paphos
   Sat Mar 16
-    19.00     AE Zakakiou v Othellos  0-4 (0-3)   @ Stadio Vitex Ammochostos Epistrofi › Larnaca
-» Championship Round - 4
+    19:00     AE Zakakiou v Othellos  0-4 (0-3)   @ Stadio Vitex Ammochostos Epistrofi › Larnaca
+▪ Championship Round - 4
   Sat Mar 16
-    16.00     Apoel Nicosia v Omonia Nicosia  0-1 (0-1)   @ Neo GSP › Levkosía
-    19.00     Pafos v Aris  1-0 (0-0)   @ Stadio Stelios Kyriakides › Paphos
-» Relegation Round - 5
+    16:00     Apoel Nicosia v Omonia Nicosia  0-1 (0-1)   @ Neo GSP › Levkosía
+    19:00     Pafos v Aris  1-0 (0-0)   @ Stadio Stelios Kyriakides › Paphos
+▪ Relegation Round - 5
   Sun Mar 17
-    17.00     Ethnikos Achna v Nea Salamis  2-0 (1-0)   @ Stadio Dasaki Achnas › Dasaki Achnas
-» Championship Round - 4
+    17:00     Ethnikos Achna v Nea Salamis  2-0 (1-0)   @ Stadio Dasaki Achnas › Dasaki Achnas
+▪ Championship Round - 4
   Sun Mar 17
-    17.00     Anorthosis v AEK Larnaca  0-1 (0-0)   @ Stadio Antonis Papadopoulos › Larnaca
-» Relegation Round - 6
+    17:00     Anorthosis v AEK Larnaca  0-1 (0-0)   @ Stadio Antonis Papadopoulos › Larnaca
+▪ Relegation Round - 6
   Fri Mar 29
-    19.00     Doxa v Othellos  0-1 (0-1)   @ Stadio Peristerona › Peristerona
+    19:00     Doxa v Othellos  0-1 (0-1)   @ Stadio Peristerona › Peristerona
               Apollon Limassol v AE Zakakiou  1-0 (0-0)   @ Alphamega Stadium › Kolossi
   Sat Mar 30
-    19.00     Nea Salamis v Karmiotissa  0-2 (0-1)   @ Stadio Vitex Ammochostos Epistrofi › Larnaca
+    19:00     Nea Salamis v Karmiotissa  0-2 (0-1)   @ Stadio Vitex Ammochostos Epistrofi › Larnaca
               AEL v Ethnikos Achna  1-1 (0-0)   @ Alphamega Stadium › Kolossi
-» Championship Round - 5
+▪ Championship Round - 5
   Sun Mar 31
-    17.00     AEK Larnaca v Apoel Nicosia  1-2 (1-0)   @ AEK Arena-George Karapatakis › Larnaca
-    19.00     Aris v Anorthosis  1-1 (0-1)   @ Alphamega Stadium › Kolossi
-    19.30     Omonia Nicosia v Pafos  1-1 (1-0)   @ Neo GSP › Levkosía
-» Relegation Round - 7
+    17:00     AEK Larnaca v Apoel Nicosia  1-2 (1-0)   @ AEK Arena-George Karapatakis › Larnaca
+    19:00     Aris v Anorthosis  1-1 (0-1)   @ Alphamega Stadium › Kolossi
+    19:30     Omonia Nicosia v Pafos  1-1 (1-0)   @ Neo GSP › Levkosía
+▪ Relegation Round - 7
   Wed Apr 3
-    17.00     Ethnikos Achna v Doxa  1-2 (1-1)   @ Stadio Dasaki Achnas › Dasaki Achnas
-    19.00     Othellos v Apollon Limassol  0-1 (0-1)   @ Stadio Vitex Ammochostos Epistrofi › Larnaca
+    17:00     Ethnikos Achna v Doxa  1-2 (1-1)   @ Stadio Dasaki Achnas › Dasaki Achnas
+    19:00     Othellos v Apollon Limassol  0-1 (0-1)   @ Stadio Vitex Ammochostos Epistrofi › Larnaca
               Karmiotissa v AEL  0-0 (0-0)   @ Stadio Stelios Kyriakides › Paphos
   Thu Apr 4
-    19.00     AE Zakakiou v Nea Salamis  0-3 (0-1)   @ Stadio Vitex Ammochostos Epistrofi › Larnaca
-» Championship Round - 6
+    19:00     AE Zakakiou v Nea Salamis  0-3 (0-1)   @ Stadio Vitex Ammochostos Epistrofi › Larnaca
+▪ Championship Round - 6
   Sat Apr 6
-    17.00     Omonia Nicosia v Aris  3-0 (0-0)   @ Neo GSP › Levkosía
-    19.30     AEK Larnaca v Pafos  3-0 (3-0)   @ AEK Arena-George Karapatakis › Larnaca
-» Relegation Round - 8
+    17:00     Omonia Nicosia v Aris  3-0 (0-0)   @ Neo GSP › Levkosía
+    19:30     AEK Larnaca v Pafos  3-0 (3-0)   @ AEK Arena-George Karapatakis › Larnaca
+▪ Relegation Round - 8
   Sat Apr 6
-    18.00     Doxa v Apollon Limassol  0-2 (0-1)   @ Stadio Peristerona › Peristerona
-» Championship Round - 6
+    18:00     Doxa v Apollon Limassol  0-2 (0-1)   @ Stadio Peristerona › Peristerona
+▪ Championship Round - 6
   Sun Apr 7
-    17.00     Apoel Nicosia v Anorthosis  0-2 (0-1)   @ Neo GSP › Levkosía
-» Relegation Round - 8
+    17:00     Apoel Nicosia v Anorthosis  0-2 (0-1)   @ Neo GSP › Levkosía
+▪ Relegation Round - 8
   Sun Apr 7
-    19.00     Othellos v Nea Salamis  2-3 (1-2)   @ Stadio Vitex Ammochostos Epistrofi › Larnaca
-    19.30     Karmiotissa v Ethnikos Achna  1-4 (1-0)   @ Stadio Stelios Kyriakides › Paphos
+    19:00     Othellos v Nea Salamis  2-3 (1-2)   @ Stadio Vitex Ammochostos Epistrofi › Larnaca
+    19:30     Karmiotissa v Ethnikos Achna  1-4 (1-0)   @ Stadio Stelios Kyriakides › Paphos
   Mon Apr 8
-    19.00     AE Zakakiou v AEL  1-5 (0-3)   @ Stadio Vitex Ammochostos Epistrofi › Larnaca
-» Relegation Round - 9
+    19:00     AE Zakakiou v AEL  1-5 (0-3)   @ Stadio Vitex Ammochostos Epistrofi › Larnaca
+▪ Relegation Round - 9
   Fri Apr 12
-    19.00     AEL v Othellos  3-2 (3-0)   @ Alphamega Stadium › Kolossi
+    19:00     AEL v Othellos  3-2 (3-0)   @ Alphamega Stadium › Kolossi
   Sat Apr 13
-    17.00     Nea Salamis v Apollon Limassol  0-2 (0-1)   @ Stadio Vitex Ammochostos Epistrofi › Larnaca
-    18.00     Karmiotissa v Doxa  2-1 (1-0)   @ Stadio Stelios Kyriakides › Paphos
-    19.00     Ethnikos Achna v AE Zakakiou  6-2 (2-1)   @ Stadio Dasaki Achnas › Dasaki Achnas
-» Championship Round - 7
+    17:00     Nea Salamis v Apollon Limassol  0-2 (0-1)   @ Stadio Vitex Ammochostos Epistrofi › Larnaca
+    18:00     Karmiotissa v Doxa  2-1 (1-0)   @ Stadio Stelios Kyriakides › Paphos
+    19:00     Ethnikos Achna v AE Zakakiou  6-2 (2-1)   @ Stadio Dasaki Achnas › Dasaki Achnas
+▪ Championship Round - 7
   Sun Apr 14
-    17.00     Pafos v Apoel Nicosia  0-2 (0-0)   @ Stadio Stelios Kyriakides › Paphos
-    19.00     Aris v AEK Larnaca  0-1 (0-0)   @ Alphamega Stadium › Kolossi
-    19.30     Anorthosis v Omonia Nicosia  0-2 (0-0)   @ Stadio Antonis Papadopoulos › Larnaca
-» Relegation Round - 10
+    17:00     Pafos v Apoel Nicosia  0-2 (0-0)   @ Stadio Stelios Kyriakides › Paphos
+    19:00     Aris v AEK Larnaca  0-1 (0-0)   @ Alphamega Stadium › Kolossi
+    19:30     Anorthosis v Omonia Nicosia  0-2 (0-0)   @ Stadio Antonis Papadopoulos › Larnaca
+▪ Relegation Round - 10
   Fri Apr 19
-    19.00     Othellos v Ethnikos Achna  2-1 (2-0)   @ Stadio Vitex Ammochostos Epistrofi › Larnaca
+    19:00     Othellos v Ethnikos Achna  2-1 (2-0)   @ Stadio Vitex Ammochostos Epistrofi › Larnaca
               Doxa v Nea Salamis  1-0 (0-0)   @ Stadio Peristerona › Peristerona
   Sat Apr 20
-    19.00     AE Zakakiou v Karmiotissa  2-5 (2-1)   @ Stadio Vitex Ammochostos Epistrofi › Larnaca
-    19.30     Apollon Limassol v AEL  4-1 (3-0)   @ Alphamega Stadium › Kolossi
-» Championship Round - 8
+    19:00     AE Zakakiou v Karmiotissa  2-5 (2-1)   @ Stadio Vitex Ammochostos Epistrofi › Larnaca
+    19:30     Apollon Limassol v AEL  4-1 (3-0)   @ Alphamega Stadium › Kolossi
+▪ Championship Round - 8
   Sun Apr 21
-    17.00     Pafos v Anorthosis  5-1 (4-1)   @ Stadio Stelios Kyriakides › Paphos
-    19.00     AEK Larnaca v Omonia Nicosia  2-0 (0-0)   @ AEK Arena-George Karapatakis › Larnaca
-    19.30     Apoel Nicosia v Aris  2-0 (2-0)   @ Neo GSP › Levkosía
-» Relegation Round - 11
+    17:00     Pafos v Anorthosis  5-1 (4-1)   @ Stadio Stelios Kyriakides › Paphos
+    19:00     AEK Larnaca v Omonia Nicosia  2-0 (0-0)   @ AEK Arena-George Karapatakis › Larnaca
+    19:30     Apoel Nicosia v Aris  2-0 (2-0)   @ Neo GSP › Levkosía
+▪ Relegation Round - 11
   Tue Apr 23
-    17.00     Ethnikos Achna v Apollon Limassol  3-3 (2-0)   @ Stadio Dasaki Achnas › Dasaki Achnas
-    19.00     AE Zakakiou v Doxa  2-3 (1-0)   @ Stadio Vitex Ammochostos Epistrofi › Larnaca
+    17:00     Ethnikos Achna v Apollon Limassol  3-3 (2-0)   @ Stadio Dasaki Achnas › Dasaki Achnas
+    19:00     AE Zakakiou v Doxa  2-3 (1-0)   @ Stadio Vitex Ammochostos Epistrofi › Larnaca
   Wed Apr 24
-    18.00     Karmiotissa v Othellos  6-6 (1-4)   @ Stadio Stelios Kyriakides › Paphos
-    19.00     AEL v Nea Salamis  5-4 (2-0)   @ Alphamega Stadium › Kolossi
-» Relegation Round - 12
+    18:00     Karmiotissa v Othellos  6-6 (1-4)   @ Stadio Stelios Kyriakides › Paphos
+    19:00     AEL v Nea Salamis  5-4 (2-0)   @ Alphamega Stadium › Kolossi
+▪ Relegation Round - 12
   Sat Apr 27
-    19.00     Nea Salamis v Ethnikos Achna  2-1 (0-1)   @ Stadio Vitex Ammochostos Epistrofi › Larnaca
-» Championship Round - 9
+    19:00     Nea Salamis v Ethnikos Achna  2-1 (0-1)   @ Stadio Vitex Ammochostos Epistrofi › Larnaca
+▪ Championship Round - 9
   Sun Apr 28
-    19.00     AEK Larnaca v Anorthosis  1-1 (1-0)   @ AEK Arena-George Karapatakis › Larnaca
+    19:00     AEK Larnaca v Anorthosis  1-1 (1-0)   @ AEK Arena-George Karapatakis › Larnaca
               Omonia Nicosia v Apoel Nicosia  1-0 (0-0)   @ Neo GSP › Levkosía
               Aris v Pafos  1-1 (1-1)   @ Alphamega Stadium › Kolossi
-» Relegation Round - 12
+▪ Relegation Round - 12
   Mon Apr 29
-    17.00     Othellos v AE Zakakiou  3-1 (1-1)   @ Stadio Vitex Ammochostos Epistrofi › Larnaca
-    19.30     Doxa v AEL  2-2 (0-0)   @ Stadio Peristerona › Peristerona
+    17:00     Othellos v AE Zakakiou  3-1 (1-1)   @ Stadio Vitex Ammochostos Epistrofi › Larnaca
+    19:30     Doxa v AEL  2-2 (0-0)   @ Stadio Peristerona › Peristerona
               Apollon Limassol v Karmiotissa  0-0 (0-0)   @ Alphamega Stadium › Kolossi
-» Relegation Round - 13
+▪ Relegation Round - 13
   Tue May 7
-    19.00     Karmiotissa v Nea Salamis  1-3 (1-2)   @ Stadio Stelios Kyriakides › Paphos
+    19:00     Karmiotissa v Nea Salamis  1-3 (1-2)   @ Stadio Stelios Kyriakides › Paphos
               Othellos v Doxa  3-0 (2-0)   @ Stadio Vitex Ammochostos Epistrofi › Larnaca
               Ethnikos Achna v AEL  2-0 (1-0)   @ Stadio Dasaki Achnas › Dasaki Achnas
   Wed May 8
-    18.00     AE Zakakiou v Apollon Limassol  1-5 (1-3)   @ Stadio Vitex Ammochostos Epistrofi › Larnaca
-» Relegation Round - 14
+    18:00     AE Zakakiou v Apollon Limassol  1-5 (1-3)   @ Stadio Vitex Ammochostos Epistrofi › Larnaca
+▪ Relegation Round - 14
   Fri May 10
-    17.00     Doxa v Ethnikos Achna  6-3 (2-1)   @ Stadio Peristerona › Peristerona
-    19.00     AEL v Karmiotissa  4-3 (2-1)   @ Alphamega Stadium › Kolossi
-» Championship Round - 10
+    17:00     Doxa v Ethnikos Achna  6-3 (2-1)   @ Stadio Peristerona › Peristerona
+    19:00     AEL v Karmiotissa  4-3 (2-1)   @ Alphamega Stadium › Kolossi
+▪ Championship Round - 10
   Sat May 11
-    19.00     Anorthosis v Aris  0-4 (0-2)   @ Stadio Antonis Papadopoulos › Larnaca
+    19:00     Anorthosis v Aris  0-4 (0-2)   @ Stadio Antonis Papadopoulos › Larnaca
               Pafos v Omonia Nicosia  1-1 (0-1)   @ Stadio Stelios Kyriakides › Paphos
               Apoel Nicosia v AEK Larnaca  1-1 (1-1)   @ Neo GSP › Levkosía
-» Relegation Round - 14
+▪ Relegation Round - 14
   Sun May 12
-    19.00     Nea Salamis v AE Zakakiou  1-1 (1-0)   @ Stadio Vitex Ammochostos Epistrofi › Larnaca
+    19:00     Nea Salamis v AE Zakakiou  1-1 (1-0)   @ Stadio Vitex Ammochostos Epistrofi › Larnaca
               Apollon Limassol v Othellos  4-1 (1-0)   @ Alphamega Stadium › Kolossi

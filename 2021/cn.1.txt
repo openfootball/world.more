@@ -1,280 +1,280 @@
 = China | Super League 2021
 
-  # Date       Tue Apr/20 2021 - Wed Jan/12 2022 (267d)
+  # Date       Tue Apr 20 2021 - Wed Jan 12 2022 (267d)
   # Teams      18
   # Matches    180
 
   # Note - All times in Asia/Shanghai
 
-» Regular Season - 1
+▪ Regular Season - 1
   Tue Apr 20 2021
-    20.00     Chongqing Lifan v Shandong Luneng  0-2 (0-0)   @ Guangzhou Higher Education Mega Center Central Stadium › Guangzhou
+    20:00     Chongqing Lifan v Shandong Luneng  0-2 (0-0)   @ Guangzhou Higher Education Mega Center Central Stadium › Guangzhou
   Tue Apr 20
-    20.00     Guangzhou Evergrande FC v Guangzhou R&F  2-2 (1-1)   @ Tianhe Stadium › Canton
+    20:00     Guangzhou Evergrande FC v Guangzhou R&F  2-2 (1-1)   @ Tianhe Stadium › Canton
   Wed Apr 21
-    18.00     Qingdao Huanghai v Shijiazhuang Y. J.  2-1 (1-0)   @ Yuexiushan Stadium › Canton
-    20.00     Henan Jianye v Shenzhen Ruby FC  1-2 (1-1)   @ Huadu Stadium › Guongzhou
+    18:00     Qingdao Huanghai v Shijiazhuang Y. J.  2-1 (1-0)   @ Yuexiushan Stadium › Canton
+    20:00     Henan Jianye v Shenzhen Ruby FC  1-2 (1-1)   @ Huadu Stadium › Guongzhou
   Thu Apr 22
-    18.00     Dalian Aerbin v Changchun Yatai  1-2 (0-1)   @ Jiangyin Sports Park Stadium › Jiangyin
-    20.00     Tianjin Teda v SHANGHAI SIPG  1-6 (0-2)   @ Kunshan Sports Center Stadium › Kunshan
+    18:00     Dalian Aerbin v Changchun Yatai  1-2 (0-1)   @ Jiangyin Sports Park Stadium › Jiangyin
+    20:00     Tianjin Teda v SHANGHAI SIPG  1-6 (0-2)   @ Kunshan Sports Center Stadium › Kunshan
   Fri Apr 23
-    18.00     Hebei Zhongji v Wuhan Zall  1-1 (0-0)   @ Suzhou City Sports Centre › Suzhou
-    20.00     Shanghai Shenhua v Beijing Guoan  2-1 (0-0)   @ Kunshan Sports Center Stadium › Kunshan
-» Regular Season - 2
+    18:00     Hebei Zhongji v Wuhan Zall  1-1 (0-0)   @ Suzhou City Sports Centre › Suzhou
+    20:00     Shanghai Shenhua v Beijing Guoan  2-1 (0-0)   @ Kunshan Sports Center Stadium › Kunshan
+▪ Regular Season - 2
   Mon Apr 26
-    18.00     Shenzhen Ruby FC v Qingdao Huanghai  0-0 (0-0)   @ Guangzhou Higher Education Mega Center Central Stadium › Guangzhou
-    20.00     Guangzhou R&F v Chongqing Lifan  3-1 (0-0)   @ Yuexiushan Stadium › Canton
+    18:00     Shenzhen Ruby FC v Qingdao Huanghai  0-0 (0-0)   @ Guangzhou Higher Education Mega Center Central Stadium › Guangzhou
+    20:00     Guangzhou R&F v Chongqing Lifan  3-1 (0-0)   @ Yuexiushan Stadium › Canton
   Tue Apr 27
-    15.35     Shandong Luneng v Guangzhou Evergrande FC  1-0 (0-0)   @ Huadu Stadium › Guongzhou
-    20.00     Shijiazhuang Y. J. v Henan Jianye  0-0 (0-0)   @ Tianhe Stadium › Canton
+    15:35     Shandong Luneng v Guangzhou Evergrande FC  1-0 (0-0)   @ Huadu Stadium › Guongzhou
+    20:00     Shijiazhuang Y. J. v Henan Jianye  0-0 (0-0)   @ Tianhe Stadium › Canton
   Wed Apr 28
-    18.00     SHANGHAI SIPG v Beijing Guoan  3-1 (2-1)   @ Jiangyin Sports Park Stadium › Jiangyin
-    20.00     Dalian Aerbin v Hebei Zhongji  0-1 (0-0)   @ Kunshan Sports Center Stadium › Kunshan
+    18:00     SHANGHAI SIPG v Beijing Guoan  3-1 (2-1)   @ Jiangyin Sports Park Stadium › Jiangyin
+    20:00     Dalian Aerbin v Hebei Zhongji  0-1 (0-0)   @ Kunshan Sports Center Stadium › Kunshan
   Thu Apr 29
-    18.00     Wuhan Zall v Shanghai Shenhua  1-3 (1-1)   @ Jiangyin Sports Park Stadium › Jiangyin
-    20.00     Changchun Yatai v Tianjin Teda  0-0 (0-0)   @ Suzhou City Sports Centre › Suzhou
-» Regular Season - 3
+    18:00     Wuhan Zall v Shanghai Shenhua  1-3 (1-1)   @ Jiangyin Sports Park Stadium › Jiangyin
+    20:00     Changchun Yatai v Tianjin Teda  0-0 (0-0)   @ Suzhou City Sports Centre › Suzhou
+▪ Regular Season - 3
   Sun May 2
-    18.00     Henan Jianye v Shandong Luneng  1-1 (1-1)   @ Yuexiushan Stadium › Canton
-    20.00     Guangzhou Evergrande FC v Shenzhen Ruby FC  2-0 (1-0)   @ Tianhe Stadium › Canton
+    18:00     Henan Jianye v Shandong Luneng  1-1 (1-1)   @ Yuexiushan Stadium › Canton
+    20:00     Guangzhou Evergrande FC v Shenzhen Ruby FC  2-0 (1-0)   @ Tianhe Stadium › Canton
   Mon May 3
-    18.00     Qingdao Huanghai v Guangzhou R&F  0-1 (0-0)   @ Tianhe Stadium › Canton
-    20.00     Chongqing Lifan v Shijiazhuang Y. J.  2-2 (2-2)   @ Guangzhou Higher Education Mega Center Central Stadium › Guangzhou
+    18:00     Qingdao Huanghai v Guangzhou R&F  0-1 (0-0)   @ Tianhe Stadium › Canton
+    20:00     Chongqing Lifan v Shijiazhuang Y. J.  2-2 (2-2)   @ Guangzhou Higher Education Mega Center Central Stadium › Guangzhou
   Tue May 4
-    18.00     Changchun Yatai v Wuhan Zall  0-0 (0-0)   @ Kunshan Sports Center Stadium › Kunshan
-    20.00     Beijing Guoan v Dalian Aerbin  2-0 (0-0)   @ Jiangyin Sports Park Stadium › Jiangyin
+    18:00     Changchun Yatai v Wuhan Zall  0-0 (0-0)   @ Kunshan Sports Center Stadium › Kunshan
+    20:00     Beijing Guoan v Dalian Aerbin  2-0 (0-0)   @ Jiangyin Sports Park Stadium › Jiangyin
   Wed May 5
-    18.00     Tianjin Teda v Hebei Zhongji  0-1 (0-1)   @ Jiangyin Sports Park Stadium › Jiangyin
-    20.00     Shanghai Shenhua v SHANGHAI SIPG  1-1 (0-0)   @ Suzhou City Sports Centre › Suzhou
-» Regular Season - 4
+    18:00     Tianjin Teda v Hebei Zhongji  0-1 (0-1)   @ Jiangyin Sports Park Stadium › Jiangyin
+    20:00     Shanghai Shenhua v SHANGHAI SIPG  1-1 (0-0)   @ Suzhou City Sports Centre › Suzhou
+▪ Regular Season - 4
   Sat May 8
-    18.00     Shandong Luneng v Qingdao Huanghai  2-0 (2-0)   @ Tianhe Stadium › Canton
-    20.00     Guangzhou R&F v Shenzhen Ruby FC  2-4 (0-3)   @ Yuexiushan Stadium › Canton
+    18:00     Shandong Luneng v Qingdao Huanghai  2-0 (2-0)   @ Tianhe Stadium › Canton
+    20:00     Guangzhou R&F v Shenzhen Ruby FC  2-4 (0-3)   @ Yuexiushan Stadium › Canton
   Sun May 9
-    18.00     Chongqing Lifan v Henan Jianye  3-2 (0-1)   @ Guangzhou Higher Education Mega Center Central Stadium › Guangzhou
-    20.00     Shijiazhuang Y. J. v Guangzhou Evergrande FC  0-2 (0-1)   @ Yuexiushan Stadium › Canton
+    18:00     Chongqing Lifan v Henan Jianye  3-2 (0-1)   @ Guangzhou Higher Education Mega Center Central Stadium › Guangzhou
+    20:00     Shijiazhuang Y. J. v Guangzhou Evergrande FC  0-2 (0-1)   @ Yuexiushan Stadium › Canton
   Mon May 10
-    18.00     Hebei Zhongji v Shanghai Shenhua  1-1 (1-0)   @ Jiangyin Sports Park Stadium › Jiangyin
-    20.00     Wuhan Zall v Beijing Guoan  0-2 (0-1)   @ Suzhou City Sports Centre › Suzhou
+    18:00     Hebei Zhongji v Shanghai Shenhua  1-1 (1-0)   @ Jiangyin Sports Park Stadium › Jiangyin
+    20:00     Wuhan Zall v Beijing Guoan  0-2 (0-1)   @ Suzhou City Sports Centre › Suzhou
   Tue May 11
-    18.00     Dalian Aerbin v Tianjin Teda  1-0 (0-0)   @ Kunshan Sports Center Stadium › Kunshan
-    20.00     SHANGHAI SIPG v Changchun Yatai  0-0 (0-0)   @ Jiangyin Sports Park Stadium › Jiangyin
-» Regular Season - 5
+    18:00     Dalian Aerbin v Tianjin Teda  1-0 (0-0)   @ Kunshan Sports Center Stadium › Kunshan
+    20:00     SHANGHAI SIPG v Changchun Yatai  0-0 (0-0)   @ Jiangyin Sports Park Stadium › Jiangyin
+▪ Regular Season - 5
   Fri May 14
-    18.00     Shenzhen Ruby FC v Shandong Luneng  2-2 (0-1)   @ Guangzhou Higher Education Mega Center Central Stadium › Guangzhou
-    20.00     Guangzhou R&F v Shijiazhuang Y. J.  0-0 (0-0)   @ Yuexiushan Stadium › Canton
+    18:00     Shenzhen Ruby FC v Shandong Luneng  2-2 (0-1)   @ Guangzhou Higher Education Mega Center Central Stadium › Guangzhou
+    20:00     Guangzhou R&F v Shijiazhuang Y. J.  0-0 (0-0)   @ Yuexiushan Stadium › Canton
   Sat May 15
-    18.00     Qingdao Huanghai v Chongqing Lifan  1-0 (0-0)   @ Tianhe Stadium › Canton
+    18:00     Qingdao Huanghai v Chongqing Lifan  1-0 (0-0)   @ Tianhe Stadium › Canton
   Sun May 16
-    18.00     SHANGHAI SIPG v Dalian Aerbin  3-0 (2-0)   @ Suzhou City Sports Centre › Suzhou
+    18:00     SHANGHAI SIPG v Dalian Aerbin  3-0 (2-0)   @ Suzhou City Sports Centre › Suzhou
   Mon May 17
-    18.00     Tianjin Teda v Wuhan Zall  2-1 (1-0)   @ Jiangyin Sports Park Stadium › Jiangyin
-    20.00     Changchun Yatai v Shanghai Shenhua  1-0 (0-0)   @ Kunshan Sports Center Stadium › Kunshan
+    18:00     Tianjin Teda v Wuhan Zall  2-1 (1-0)   @ Jiangyin Sports Park Stadium › Jiangyin
+    20:00     Changchun Yatai v Shanghai Shenhua  1-0 (0-0)   @ Kunshan Sports Center Stadium › Kunshan
   Thu Jul 15
-    19.30     Henan Jianye v Guangzhou Evergrande FC  1-1 (0-1)   @ Huadu Stadium › Guongzhou
+    19:30     Henan Jianye v Guangzhou Evergrande FC  1-1 (0-1)   @ Huadu Stadium › Guongzhou
   Fri Jul 16
-    19.30     Beijing Guoan v Hebei Zhongji  2-1 (0-0)   @ Jiangyin Sports Park Stadium › Jiangyin
-» Regular Season - 6
+    19:30     Beijing Guoan v Hebei Zhongji  2-1 (0-0)   @ Jiangyin Sports Park Stadium › Jiangyin
+▪ Regular Season - 6
   Sun Jul 18
-    18.00     Henan Jianye v Qingdao Huanghai  2-0 (0-0)   @ Yuexiushan Stadium › Canton
+    18:00     Henan Jianye v Qingdao Huanghai  2-0 (0-0)   @ Yuexiushan Stadium › Canton
               Guangzhou Evergrande FC v Chongqing Lifan  3-1 (2-1)   @ Tianhe Stadium › Canton
-    20.00     Shenzhen Ruby FC v Shijiazhuang Y. J.  2-1 (0-1)   @ Shenzhen Universiade Sports Centre › Shenzhen
+    20:00     Shenzhen Ruby FC v Shijiazhuang Y. J.  2-1 (0-1)   @ Shenzhen Universiade Sports Centre › Shenzhen
               Shandong Luneng v Guangzhou R&F  0-0 (0-0)   @ Huadu Stadium › Guongzhou
   Mon Jul 19
-    16.30     Beijing Guoan v Tianjin Teda  0-0 (0-0)   @ Suzhou Olympic Sports Centre Stadium › Suzhou
+    16:30     Beijing Guoan v Tianjin Teda  0-0 (0-0)   @ Suzhou Olympic Sports Centre Stadium › Suzhou
               Wuhan Zall v SHANGHAI SIPG  0-0 (0-0)   @ Jiangyin Sports Park Stadium › Jiangyin
-    18.30     Shanghai Shenhua v Dalian Aerbin  3-2 (0-0)   @ Kunshan Sports Center Stadium › Kunshan
-    20.30     Hebei Zhongji v Changchun Yatai  2-1 (2-1)   @ Jiangyin Sports Park Stadium › Jiangyin
-» Regular Season - 7
+    18:30     Shanghai Shenhua v Dalian Aerbin  3-2 (0-0)   @ Kunshan Sports Center Stadium › Kunshan
+    20:30     Hebei Zhongji v Changchun Yatai  2-1 (2-1)   @ Jiangyin Sports Park Stadium › Jiangyin
+▪ Regular Season - 7
   Wed Jul 21
-    18.00     Qingdao Huanghai v Guangzhou Evergrande FC  0-6 (0-4)   @ Guangzhou Higher Education Mega Center Central Stadium › Guangzhou
+    18:00     Qingdao Huanghai v Guangzhou Evergrande FC  0-6 (0-4)   @ Guangzhou Higher Education Mega Center Central Stadium › Guangzhou
               Shijiazhuang Y. J. v Shandong Luneng  0-2 (0-1)   @ Tianhe Stadium › Canton
-    20.00     Guangzhou R&F v Henan Jianye  1-1 (0-1)   @ Yuexiushan Stadium › Canton
+    20:00     Guangzhou R&F v Henan Jianye  1-1 (0-1)   @ Yuexiushan Stadium › Canton
               Chongqing Lifan v Shenzhen Ruby FC  0-3 (0-3)   @ Huadu Stadium › Guongzhou
   Thu Jul 22
-    16.30     Tianjin Teda v Shanghai Shenhua  1-3 (1-2)   @ Kunshan Sports Center Stadium › Kunshan
+    16:30     Tianjin Teda v Shanghai Shenhua  1-3 (1-2)   @ Kunshan Sports Center Stadium › Kunshan
               Changchun Yatai v Beijing Guoan  2-0 (1-0)   @ Suzhou Olympic Sports Centre Stadium › Suzhou
-    18.30     SHANGHAI SIPG v Hebei Zhongji  1-0 (1-0)   @ Jiangyin Sports Park Stadium › Jiangyin
-    20.30     Dalian Aerbin v Wuhan Zall  1-1 (1-1)   @ Kunshan Sports Center Stadium › Kunshan
-» Regular Season - 8
+    18:30     SHANGHAI SIPG v Hebei Zhongji  1-0 (1-0)   @ Jiangyin Sports Park Stadium › Jiangyin
+    20:30     Dalian Aerbin v Wuhan Zall  1-1 (1-1)   @ Kunshan Sports Center Stadium › Kunshan
+▪ Regular Season - 8
   Sat Jul 24
-    18.00     Shandong Luneng v Chongqing Lifan  3-1 (2-0)   @ Guangzhou Higher Education Mega Center Central Stadium › Guangzhou
+    18:00     Shandong Luneng v Chongqing Lifan  3-1 (2-0)   @ Guangzhou Higher Education Mega Center Central Stadium › Guangzhou
               Shenzhen Ruby FC v Henan Jianye  0-0 (0-0)   @ Tianhe Stadium › Canton
-    20.00     Shijiazhuang Y. J. v Qingdao Huanghai  2-0 (2-0)   @ Huadu Stadium › Guongzhou
+    20:00     Shijiazhuang Y. J. v Qingdao Huanghai  2-0 (2-0)   @ Huadu Stadium › Guongzhou
               Guangzhou R&F v Guangzhou Evergrande FC  3-3 (2-2)   @ Yuexiushan Stadium › Canton
-» Regular Season - 9
+▪ Regular Season - 9
   Tue Jul 27
-    18.00     Qingdao Huanghai v Shenzhen Ruby FC  1-4 (0-3)   @ Guangzhou Higher Education Mega Center Central Stadium › Guangzhou
+    18:00     Qingdao Huanghai v Shenzhen Ruby FC  1-4 (0-3)   @ Guangzhou Higher Education Mega Center Central Stadium › Guangzhou
               Chongqing Lifan v Guangzhou R&F  4-0 (2-0)   @ Huadu Stadium › Guongzhou
-    20.00     Guangzhou Evergrande FC v Shandong Luneng  2-1 (1-0)   @ Tianhe Stadium › Canton
+    20:00     Guangzhou Evergrande FC v Shandong Luneng  2-1 (1-0)   @ Tianhe Stadium › Canton
               Henan Jianye v Shijiazhuang Y. J.  2-1 (0-0)   @ Yuexiushan Stadium › Canton
   Wed Jul 28
-    16.30     Hebei Zhongji v Dalian Aerbin  1-0 (1-0)   @ Suzhou Olympic Sports Centre Stadium › Suzhou
+    16:30     Hebei Zhongji v Dalian Aerbin  1-0 (1-0)   @ Suzhou Olympic Sports Centre Stadium › Suzhou
               Beijing Guoan v SHANGHAI SIPG  1-1 (0-0)   @ Jiangyin Sports Park Stadium › Jiangyin
-    18.30     Tianjin Teda v Changchun Yatai  1-4 (0-3)   @ Kunshan Sports Center Stadium › Kunshan
-    20.30     Shanghai Shenhua v Wuhan Zall  0-0 (0-0)   @ Jiangyin Sports Park Stadium › Jiangyin
-» Regular Season - 10
+    18:30     Tianjin Teda v Changchun Yatai  1-4 (0-3)   @ Kunshan Sports Center Stadium › Kunshan
+    20:30     Shanghai Shenhua v Wuhan Zall  0-0 (0-0)   @ Jiangyin Sports Park Stadium › Jiangyin
+▪ Regular Season - 10
   Fri Jul 30
-    18.00     Guangzhou R&F v Qingdao Huanghai  4-2 (2-0)   @ Yuexiushan Stadium › Canton
+    18:00     Guangzhou R&F v Qingdao Huanghai  4-2 (2-0)   @ Yuexiushan Stadium › Canton
               Shandong Luneng v Henan Jianye  2-0 (1-0)   @ Guangzhou Higher Education Mega Center Central Stadium › Guangzhou
-    20.00     Shenzhen Ruby FC v Guangzhou Evergrande FC  2-1 (1-1)   @ Huadu Stadium › Guongzhou
+    20:00     Shenzhen Ruby FC v Guangzhou Evergrande FC  2-1 (1-1)   @ Huadu Stadium › Guongzhou
               Shijiazhuang Y. J. v Chongqing Lifan  1-1 (1-0)   @ Tianhe Stadium › Canton
   Sat Jul 31
-    16.30     Wuhan Zall v Changchun Yatai  2-2 (1-1)   @ Suzhou Olympic Sports Centre Stadium › Suzhou
-    18.30     Dalian Aerbin v Beijing Guoan  0-1 (0-0)   @ Jiangyin Sports Park Stadium › Jiangyin
-    20.30     SHANGHAI SIPG v Shanghai Shenhua  1-0 (1-0)   @ Suzhou Olympic Sports Centre Stadium › Suzhou
+    16:30     Wuhan Zall v Changchun Yatai  2-2 (1-1)   @ Suzhou Olympic Sports Centre Stadium › Suzhou
+    18:30     Dalian Aerbin v Beijing Guoan  0-1 (0-0)   @ Jiangyin Sports Park Stadium › Jiangyin
+    20:30     SHANGHAI SIPG v Shanghai Shenhua  1-0 (1-0)   @ Suzhou Olympic Sports Centre Stadium › Suzhou
               Hebei Zhongji v Tianjin Teda  2-1 (2-1)   @ Kunshan Sports Center Stadium › Kunshan
-» Regular Season - 11
+▪ Regular Season - 11
   Mon Aug 2
-    18.00     Henan Jianye v Chongqing Lifan  1-0 (1-0)   @ Yuexiushan Stadium › Canton
+    18:00     Henan Jianye v Chongqing Lifan  1-0 (1-0)   @ Yuexiushan Stadium › Canton
               Guangzhou Evergrande FC v Shijiazhuang Y. J.  5-2 (4-2)   @ Tianhe Stadium › Canton
-    20.00     Qingdao Huanghai v Shandong Luneng  0-5 (0-3)   @ Huadu Stadium › Guongzhou
+    20:00     Qingdao Huanghai v Shandong Luneng  0-5 (0-3)   @ Huadu Stadium › Guongzhou
               Shenzhen Ruby FC v Guangzhou R&F  0-1 (0-0)   @ Guangzhou Higher Education Mega Center Central Stadium › Guangzhou
   Tue Aug 3
-    16.30     Shanghai Shenhua v Hebei Zhongji  0-0 (0-0)   @ Suzhou Olympic Sports Centre Stadium › Suzhou
-    18.30     Changchun Yatai v SHANGHAI SIPG  2-1 (0-0)   @ Kunshan Sports Center Stadium › Kunshan
-    20.30     Tianjin Teda v Dalian Aerbin  1-3 (0-1)   @ Jiangyin Sports Park Stadium › Jiangyin
+    16:30     Shanghai Shenhua v Hebei Zhongji  0-0 (0-0)   @ Suzhou Olympic Sports Centre Stadium › Suzhou
+    18:30     Changchun Yatai v SHANGHAI SIPG  2-1 (0-0)   @ Kunshan Sports Center Stadium › Kunshan
+    20:30     Tianjin Teda v Dalian Aerbin  1-3 (0-1)   @ Jiangyin Sports Park Stadium › Jiangyin
               Beijing Guoan v Wuhan Zall  2-1 (2-0)   @ Suzhou Olympic Sports Centre Stadium › Suzhou
-» Regular Season - 12
+▪ Regular Season - 12
   Thu Aug 5
-    18.00     Shandong Luneng v Shenzhen Ruby FC  4-2 (4-2)   @ Yuexiushan Stadium › Canton
+    18:00     Shandong Luneng v Shenzhen Ruby FC  4-2 (4-2)   @ Yuexiushan Stadium › Canton
               Shijiazhuang Y. J. v Guangzhou R&F  0-2 (0-1)   @ Huadu Stadium › Guongzhou
-    20.00     Chongqing Lifan v Qingdao Huanghai  1-0 (0-0)   @ Guangzhou Higher Education Mega Center Central Stadium › Guangzhou
+    20:00     Chongqing Lifan v Qingdao Huanghai  1-0 (0-0)   @ Guangzhou Higher Education Mega Center Central Stadium › Guangzhou
               Guangzhou Evergrande FC v Henan Jianye  2-0 (0-0)   @ Tianhe Stadium › Canton
   Fri Aug 6
-    16.30     Wuhan Zall v Tianjin Teda  1-1 (1-1)   @ Suzhou Olympic Sports Centre Stadium › Suzhou
-    18.30     Shanghai Shenhua v Changchun Yatai  1-2 (1-0)   @ Jiangyin Sports Park Stadium › Jiangyin
-    20.30     Dalian Aerbin v SHANGHAI SIPG  0-5 (0-2)   @ Suzhou Olympic Sports Centre Stadium › Suzhou
+    16:30     Wuhan Zall v Tianjin Teda  1-1 (1-1)   @ Suzhou Olympic Sports Centre Stadium › Suzhou
+    18:30     Shanghai Shenhua v Changchun Yatai  1-2 (1-0)   @ Jiangyin Sports Park Stadium › Jiangyin
+    20:30     Dalian Aerbin v SHANGHAI SIPG  0-5 (0-2)   @ Suzhou Olympic Sports Centre Stadium › Suzhou
               Hebei Zhongji v Beijing Guoan  0-0 (0-0)   @ Kunshan Sports Center Stadium › Kunshan
-» Regular Season - 13
+▪ Regular Season - 13
   Sun Aug 8
-    18.00     Shijiazhuang Y. J. v Shenzhen Ruby FC  2-1 (1-0)   @ Tianhe Stadium › Canton
+    18:00     Shijiazhuang Y. J. v Shenzhen Ruby FC  2-1 (1-0)   @ Tianhe Stadium › Canton
               Guangzhou R&F v Shandong Luneng  1-3 (0-1)   @ Yuexiushan Stadium › Canton
-    20.00     Qingdao Huanghai v Henan Jianye  0-1 (0-1)   @ Guangzhou Higher Education Mega Center Central Stadium › Guangzhou
+    20:00     Qingdao Huanghai v Henan Jianye  0-1 (0-1)   @ Guangzhou Higher Education Mega Center Central Stadium › Guangzhou
               Chongqing Lifan v Guangzhou Evergrande FC  1-5 (1-3)   @ Huadu Stadium › Guongzhou
   Mon Aug 9
-    16.30     Dalian Aerbin v Shanghai Shenhua  2-4 (2-3)   @ Suzhou Olympic Sports Centre Stadium › Suzhou
-    18.30     Tianjin Teda v Beijing Guoan  3-1 (1-0)   @ Jiangyin Sports Park Stadium › Jiangyin
-    20.30     SHANGHAI SIPG v Wuhan Zall  3-0 (1-0)   @ Kunshan Sports Center Stadium › Kunshan
+    16:30     Dalian Aerbin v Shanghai Shenhua  2-4 (2-3)   @ Suzhou Olympic Sports Centre Stadium › Suzhou
+    18:30     Tianjin Teda v Beijing Guoan  3-1 (1-0)   @ Jiangyin Sports Park Stadium › Jiangyin
+    20:30     SHANGHAI SIPG v Wuhan Zall  3-0 (1-0)   @ Kunshan Sports Center Stadium › Kunshan
               Changchun Yatai v Hebei Zhongji  3-0 (2-0)   @ Suzhou Olympic Sports Centre Stadium › Suzhou
-» Regular Season - 14
+▪ Regular Season - 14
   Wed Aug 11
-    18.00     Shenzhen Ruby FC v Chongqing Lifan  2-1 (1-1)   @ Yuexiushan Stadium › Canton
+    18:00     Shenzhen Ruby FC v Chongqing Lifan  2-1 (1-1)   @ Yuexiushan Stadium › Canton
               Guangzhou Evergrande FC v Qingdao Huanghai  5-0 (2-0)   @ Tianhe Stadium › Canton
-    20.00     Henan Jianye v Guangzhou R&F  1-1 (0-0)   @ Huadu Stadium › Guongzhou
+    20:00     Henan Jianye v Guangzhou R&F  1-1 (0-0)   @ Huadu Stadium › Guongzhou
               Shandong Luneng v Shijiazhuang Y. J.  2-1 (2-0)   @ Guangzhou Higher Education Mega Center Central Stadium › Guangzhou
   Thu Aug 12
-    16.30     Hebei Zhongji v SHANGHAI SIPG  1-0 (1-0)   @ Suzhou Olympic Sports Centre Stadium › Suzhou
-    18.30     Wuhan Zall v Dalian Aerbin  2-1 (2-1)   @ Jiangyin Sports Park Stadium › Jiangyin
-    20.30     Shanghai Shenhua v Tianjin Teda  1-0 (0-0)   @ Suzhou Olympic Sports Centre Stadium › Suzhou
+    16:30     Hebei Zhongji v SHANGHAI SIPG  1-0 (1-0)   @ Suzhou Olympic Sports Centre Stadium › Suzhou
+    18:30     Wuhan Zall v Dalian Aerbin  2-1 (2-1)   @ Jiangyin Sports Park Stadium › Jiangyin
+    20:30     Shanghai Shenhua v Tianjin Teda  1-0 (0-0)   @ Suzhou Olympic Sports Centre Stadium › Suzhou
               Beijing Guoan v Changchun Yatai  2-1 (0-0)   @ Kunshan Sports Center Stadium › Kunshan
-» Regular Season - 8
+▪ Regular Season - 8
   Sun Aug 15
-    16.30     Changchun Yatai v Dalian Aerbin  3-1 (2-0)   @ Suzhou Olympic Sports Centre Stadium › Suzhou
-    19.30     Beijing Guoan v Shanghai Shenhua  4-2 (3-1)   @ Jiangyin Sports Park Stadium › Jiangyin
+    16:30     Changchun Yatai v Dalian Aerbin  3-1 (2-0)   @ Suzhou Olympic Sports Centre Stadium › Suzhou
+    19:30     Beijing Guoan v Shanghai Shenhua  4-2 (3-1)   @ Jiangyin Sports Park Stadium › Jiangyin
               SHANGHAI SIPG v Tianjin Teda  5-0 (2-0)   @ Suzhou Olympic Sports Centre Stadium › Suzhou
               Wuhan Zall v Hebei Zhongji  1-1 (1-1)   @ Suzhou City Sports Centre › Suzhou
-» Relegation Round - 1
+▪ Relegation Round - 1
   Sun Dec 12
-    15.30     Wuhan Zall v Shijiazhuang Y. J.  4-2 (2-1)   @ Suzhou Olympic Sports Centre Stadium › Suzhou
+    15:30     Wuhan Zall v Shijiazhuang Y. J.  4-2 (2-1)   @ Suzhou Olympic Sports Centre Stadium › Suzhou
               Shanghai Shenhua v Qingdao Huanghai  3-0 (1-0)   @ Kunshan Sports Center Stadium › Kunshan
-    19.30     Dalian Aerbin v Henan Jianye  1-0 (0-0)   @ Jiangyin Sports Park Stadium › Jiangyin
+    19:30     Dalian Aerbin v Henan Jianye  1-0 (0-0)   @ Jiangyin Sports Park Stadium › Jiangyin
               Tianjin Teda v Chongqing Lifan  1-1 (0-0)   @ Suzhou City Sports Centre › Suzhou
-» Championship Round - 1
+▪ Championship Round - 1
   Mon Dec 13
-    18.00     Shenzhen Ruby FC v SHANGHAI SIPG  1-3 (0-2)   @ Huadu Stadium › Guongzhou
+    18:00     Shenzhen Ruby FC v SHANGHAI SIPG  1-3 (0-2)   @ Huadu Stadium › Guongzhou
               Guangzhou R&F v Changchun Yatai  0-2 (0-1)   @ Yuexiushan Stadium › Canton
-    20.00     Hebei Zhongji v Shandong Luneng  0-5 (0-2)   @ Tianhe Stadium › Canton
+    20:00     Hebei Zhongji v Shandong Luneng  0-5 (0-2)   @ Tianhe Stadium › Canton
               Beijing Guoan v Guangzhou Evergrande FC  1-0 (0-0)   @ Guangzhou Higher Education Mega Center Central Stadium › Guangzhou
-» Relegation Round - 2
+▪ Relegation Round - 2
   Wed Dec 15
-    15.30     Henan Jianye v Tianjin Teda  1-1 (0-0)   @ Suzhou Olympic Sports Centre Stadium › Suzhou
+    15:30     Henan Jianye v Tianjin Teda  1-1 (0-0)   @ Suzhou Olympic Sports Centre Stadium › Suzhou
               Chongqing Lifan v Dalian Aerbin  0-1 (0-1)   @ Kunshan Sports Center Stadium › Kunshan
-    19.30     Qingdao Huanghai v Wuhan Zall  2-5 (2-1)   @ Suzhou City Sports Centre › Suzhou
+    19:30     Qingdao Huanghai v Wuhan Zall  2-5 (2-1)   @ Suzhou City Sports Centre › Suzhou
               Shijiazhuang Y. J. v Shanghai Shenhua  1-1 (0-1)   @ Jiangyin Sports Park Stadium › Jiangyin
-» Championship Round - 2
+▪ Championship Round - 2
   Thu Dec 16
-    18.00     Shandong Luneng v Beijing Guoan  2-1 (0-0)   @ Guangzhou Higher Education Mega Center Central Stadium › Guangzhou
+    18:00     Shandong Luneng v Beijing Guoan  2-1 (0-0)   @ Guangzhou Higher Education Mega Center Central Stadium › Guangzhou
               Guangzhou Evergrande FC v Hebei Zhongji  1-1 (0-0)   @ Tianhe Stadium › Canton
-    20.00     Changchun Yatai v Shenzhen Ruby FC  1-1 (1-0)   @ Yuexiushan Stadium › Canton
-    21.15     SHANGHAI SIPG v Guangzhou R&F  1-0 (1-0)   @ Guangzhou Higher Education Mega Center Central Stadium › Guangzhou
-» Relegation Round - 3
+    20:00     Changchun Yatai v Shenzhen Ruby FC  1-1 (1-0)   @ Yuexiushan Stadium › Canton
+    21:15     SHANGHAI SIPG v Guangzhou R&F  1-0 (1-0)   @ Guangzhou Higher Education Mega Center Central Stadium › Guangzhou
+▪ Relegation Round - 3
   Sat Dec 18
-    15.30     Tianjin Teda v Qingdao Huanghai  1-2 (0-1)   @ Jiangyin Sports Park Stadium › Jiangyin
+    15:30     Tianjin Teda v Qingdao Huanghai  1-2 (0-1)   @ Jiangyin Sports Park Stadium › Jiangyin
               Dalian Aerbin v Shijiazhuang Y. J.  1-2 (0-2)   @ Suzhou City Sports Centre › Suzhou
-    19.30     Shanghai Shenhua v Chongqing Lifan  4-1 (1-0)   @ Suzhou Olympic Sports Centre Stadium › Suzhou
+    19:30     Shanghai Shenhua v Chongqing Lifan  4-1 (1-0)   @ Suzhou Olympic Sports Centre Stadium › Suzhou
               Wuhan Zall v Henan Jianye  1-1 (0-0)   @ Kunshan Sports Center Stadium › Kunshan
-» Championship Round - 3
+▪ Championship Round - 3
   Sun Dec 19
-    18.00     SHANGHAI SIPG v Shandong Luneng  0-2 (0-1)   @ Tianhe Stadium › Canton
+    18:00     SHANGHAI SIPG v Shandong Luneng  0-2 (0-1)   @ Tianhe Stadium › Canton
               Changchun Yatai v Guangzhou Evergrande FC  0-2 (0-1)   @ Guangzhou Higher Education Mega Center Central Stadium › Guangzhou
-    20.00     Guangzhou R&F v Beijing Guoan  5-0 (3-0)   @ Yuexiushan Stadium › Canton
-    21.15     Shenzhen Ruby FC v Hebei Zhongji  3-0 (0-0)   @ University Town of Shenzhen Stadium › Shenzhen
-» Relegation Round - 4
+    20:00     Guangzhou R&F v Beijing Guoan  5-0 (3-0)   @ Yuexiushan Stadium › Canton
+    21:15     Shenzhen Ruby FC v Hebei Zhongji  3-0 (0-0)   @ University Town of Shenzhen Stadium › Shenzhen
+▪ Relegation Round - 4
   Tue Dec 21
-    15.30     Henan Jianye v Shanghai Shenhua  2-0 (0-0)   @ Jiangyin Sports Park Stadium › Jiangyin
+    15:30     Henan Jianye v Shanghai Shenhua  2-0 (0-0)   @ Jiangyin Sports Park Stadium › Jiangyin
               Chongqing Lifan v Wuhan Zall  0-0 (0-0)   @ Suzhou City Sports Centre › Suzhou
-    19.30     Qingdao Huanghai v Dalian Aerbin  1-2 (1-0)   @ Kunshan Sports Center Stadium › Kunshan
+    19:30     Qingdao Huanghai v Dalian Aerbin  1-2 (1-0)   @ Kunshan Sports Center Stadium › Kunshan
               Shijiazhuang Y. J. v Tianjin Teda  2-1 (1-0)   @ Suzhou Olympic Sports Centre Stadium › Suzhou
-» Championship Round - 4
+▪ Championship Round - 4
   Wed Dec 22
-    18.00     Hebei Zhongji v Guangzhou R&F  1-1 (1-1)   @ Guangzhou Higher Education Mega Center Central Stadium › Guangzhou
+    18:00     Hebei Zhongji v Guangzhou R&F  1-1 (1-1)   @ Guangzhou Higher Education Mega Center Central Stadium › Guangzhou
               Beijing Guoan v Shenzhen Ruby FC  2-2 (1-0)   @ Yuexiushan Stadium › Canton
-    20.00     Guangzhou Evergrande FC v SHANGHAI SIPG  0-0 (0-0)   @ Tianhe Stadium › Canton
+    20:00     Guangzhou Evergrande FC v SHANGHAI SIPG  0-0 (0-0)   @ Tianhe Stadium › Canton
               Shandong Luneng v Changchun Yatai  2-1 (0-0)   @ Huadu Stadium › Guongzhou
-» Relegation Round - 5
+▪ Relegation Round - 5
   Sat Dec 25
-    15.30     Qingdao Huanghai v Shanghai Shenhua  0-1 (0-1)   @ Suzhou Olympic Sports Centre Stadium › Suzhou
+    15:30     Qingdao Huanghai v Shanghai Shenhua  0-1 (0-1)   @ Suzhou Olympic Sports Centre Stadium › Suzhou
               Shijiazhuang Y. J. v Wuhan Zall  2-0 (1-0)   @ Kunshan Sports Center Stadium › Kunshan
-    19.30     Chongqing Lifan v Tianjin Teda  0-1 (0-0)   @ Jiangyin Sports Park Stadium › Jiangyin
+    19:30     Chongqing Lifan v Tianjin Teda  0-1 (0-0)   @ Jiangyin Sports Park Stadium › Jiangyin
               Henan Jianye v Dalian Aerbin  1-0 (1-0)   @ Suzhou City Sports Centre › Suzhou
-» Championship Round - 5
+▪ Championship Round - 5
   Sun Dec 26
-    18.00     Changchun Yatai v Guangzhou R&F  2-1 (1-1)   @ Huadu Stadium › Guongzhou
+    18:00     Changchun Yatai v Guangzhou R&F  2-1 (1-1)   @ Huadu Stadium › Guongzhou
               SHANGHAI SIPG v Shenzhen Ruby FC  3-1 (1-1)   @ Guangzhou Higher Education Mega Center Central Stadium › Guangzhou
-    20.00     Shandong Luneng v Hebei Zhongji  2-0 (1-0)   @ Yuexiushan Stadium › Canton
+    20:00     Shandong Luneng v Hebei Zhongji  2-0 (1-0)   @ Yuexiushan Stadium › Canton
               Guangzhou Evergrande FC v Beijing Guoan  1-0 (1-0)   @ Tianhe Stadium › Canton
-» Relegation Round - 6
+▪ Relegation Round - 6
   Tue Dec 28
-    15.30     Tianjin Teda v Henan Jianye  0-0 (0-0)   @ Kunshan Sports Center Stadium › Kunshan
+    15:30     Tianjin Teda v Henan Jianye  0-0 (0-0)   @ Kunshan Sports Center Stadium › Kunshan
               Dalian Aerbin v Chongqing Lifan  0-1 (0-0)   @ Suzhou Olympic Sports Centre Stadium › Suzhou
-    19.30     Wuhan Zall v Qingdao Huanghai  1-1 (0-0)   @ Jiangyin Sports Park Stadium › Jiangyin
+    19:30     Wuhan Zall v Qingdao Huanghai  1-1 (0-0)   @ Jiangyin Sports Park Stadium › Jiangyin
               Shanghai Shenhua v Shijiazhuang Y. J.  1-1 (0-1)   @ Suzhou City Sports Centre › Suzhou
-» Championship Round - 6
+▪ Championship Round - 6
   Wed Dec 29
-    18.00     Hebei Zhongji v Guangzhou Evergrande FC  0-2 (0-1)   @ Huadu Stadium › Guongzhou
+    18:00     Hebei Zhongji v Guangzhou Evergrande FC  0-2 (0-1)   @ Huadu Stadium › Guongzhou
               Beijing Guoan v Shandong Luneng  1-1 (1-1)   @ Guangzhou Higher Education Mega Center Central Stadium › Guangzhou
-    20.00     Guangzhou R&F v SHANGHAI SIPG  1-2 (0-2)   @ Yuexiushan Stadium › Canton
+    20:00     Guangzhou R&F v SHANGHAI SIPG  1-2 (0-2)   @ Yuexiushan Stadium › Canton
               Shenzhen Ruby FC v Changchun Yatai  0-1 (0-0)   @ Tianhe Stadium › Canton
-» Relegation Round - 7
+▪ Relegation Round - 7
   Fri Dec 31
-    15.30     Shijiazhuang Y. J. v Dalian Aerbin  2-0 (0-0)   @ Jiangyin Sports Park Stadium › Jiangyin
+    15:30     Shijiazhuang Y. J. v Dalian Aerbin  2-0 (0-0)   @ Jiangyin Sports Park Stadium › Jiangyin
               Qingdao Huanghai v Tianjin Teda  0-1 (0-0)   @ Suzhou City Sports Centre › Suzhou
               Chongqing Lifan v Shanghai Shenhua  0-0 (0-0)   @ Kunshan Sports Center Stadium › Kunshan
-    19.30     Henan Jianye v Wuhan Zall  1-0 (1-0)   @ Suzhou Olympic Sports Centre Stadium › Suzhou
-» Championship Round - 7
+    19:30     Henan Jianye v Wuhan Zall  1-0 (1-0)   @ Suzhou Olympic Sports Centre Stadium › Suzhou
+▪ Championship Round - 7
   Sat Jan 1 2022
-    15.30     Shandong Luneng v SHANGHAI SIPG  2-2 (1-0)   @ Guangzhou Higher Education Mega Center Central Stadium › Guangzhou
+    15:30     Shandong Luneng v SHANGHAI SIPG  2-2 (1-0)   @ Guangzhou Higher Education Mega Center Central Stadium › Guangzhou
   Sat Jan 1
-    15.30     Guangzhou Evergrande FC v Changchun Yatai  2-0 (0-0)   @ Tianhe Stadium › Canton
-    19.30     Hebei Zhongji v Shenzhen Ruby FC  0-1 (0-0)   @ Yuexiushan Stadium › Canton
+    15:30     Guangzhou Evergrande FC v Changchun Yatai  2-0 (0-0)   @ Tianhe Stadium › Canton
+    19:30     Hebei Zhongji v Shenzhen Ruby FC  0-1 (0-0)   @ Yuexiushan Stadium › Canton
               Beijing Guoan v Guangzhou R&F  1-1 (1-0)   @ Huadu Stadium › Guongzhou
-» Relegation Round - 8
+▪ Relegation Round - 8
   Mon Jan 3
-    15.30     Dalian Aerbin v Qingdao Huanghai  4-1 (1-0)   @ Suzhou Olympic Sports Centre Stadium › Suzhou
+    15:30     Dalian Aerbin v Qingdao Huanghai  4-1 (1-0)   @ Suzhou Olympic Sports Centre Stadium › Suzhou
               Tianjin Teda v Shijiazhuang Y. J.  1-0 (0-0)   @ Kunshan Sports Center Stadium › Kunshan
               Wuhan Zall v Chongqing Lifan  1-2 (1-0)   @ Jiangyin Sports Park Stadium › Jiangyin
-    19.30     Shanghai Shenhua v Henan Jianye  3-0 (0-0)   @ Suzhou City Sports Centre › Suzhou
-» Championship Round - 8
+    19:30     Shanghai Shenhua v Henan Jianye  3-0 (0-0)   @ Suzhou City Sports Centre › Suzhou
+▪ Championship Round - 8
   Tue Jan 4
-    15.30     Changchun Yatai v Shandong Luneng  1-1 (1-0)   @ Tianhe Stadium › Canton
+    15:30     Changchun Yatai v Shandong Luneng  1-1 (1-0)   @ Tianhe Stadium › Canton
               SHANGHAI SIPG v Guangzhou Evergrande FC  1-0 (1-0)   @ Huadu Stadium › Guongzhou
               Guangzhou R&F v Hebei Zhongji  2-1 (2-0)   @ Yuexiushan Stadium › Canton
               Shenzhen Ruby FC v Beijing Guoan  0-1 (0-1)   @ Guangzhou Higher Education Mega Center Central Stadium › Guangzhou
-» Relegation Round
+▪ Relegation Round
   Sat Jan 8
-    15.30     Chengdu Better City v Dalian Aerbin  1-1 (0-1)   @ Jiangyin Sports Park Stadium › Jiangyin
+    15:30     Chengdu Better City v Dalian Aerbin  1-1 (0-1)   @ Jiangyin Sports Park Stadium › Jiangyin
               Qingdao Huanghai v Hangzhou Greentown  0-1 (0-1)   @ Suzhou Olympic Sports Centre Stadium › Suzhou
   Wed Jan 12
-    15.30     Hangzhou Greentown v Qingdao Huanghai  0-0 (0-0)   @ Suzhou Olympic Sports Centre Stadium › Suzhou
+    15:30     Hangzhou Greentown v Qingdao Huanghai  0-0 (0-0)   @ Suzhou Olympic Sports Centre Stadium › Suzhou
               Dalian Aerbin v Chengdu Better City  0-1 (0-0)   @ Jiangyin Sports Park Stadium › Jiangyin

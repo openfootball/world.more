@@ -1,122 +1,122 @@
 = Argentina | Copa Argentina 2023
 
-  # Date       Mon Jan/23 - Wed Dec/13 2023 (324d)
+  # Date       Mon Jan 23 - Wed Dec 13 2023 (324d)
   # Teams      64
   # Matches    64
 
   # Note - All times in America/Argentina/Buenos_Aires
 
-» 1st Round
+▪ 1st Round
   Mon Jan 23 2023
-    19.40     Patronato v Gimnasia Y Tiro  2-0 (0-0)   @ Estadio Brigadier General Estanislao López › Ciudad de Santa Fe, Provincia de Santa Fe
+    19:40     Patronato v Gimnasia Y Tiro  2-0 (0-0)   @ Estadio Brigadier General Estanislao López › Ciudad de Santa Fe, Provincia de Santa Fe
   Wed Feb 1
-    19.00     Defensa Y Justicia v Ituzaingó  3-2 (2-0)   @ Estadio Juan Carmelo Zerillo › La Plata, Provincia de Buenos Aires
-    21.30     Huracan v Yupanqui  4-1 (2-1)   @ Estadio Ciudad de Caseros › Caseros, Provincia de Buenos Aires
+    19:00     Defensa Y Justicia v Ituzaingó  3-2 (2-0)   @ Estadio Juan Carmelo Zerillo › La Plata, Provincia de Buenos Aires
+    21:30     Huracan v Yupanqui  4-1 (2-1)   @ Estadio Ciudad de Caseros › Caseros, Provincia de Buenos Aires
   Wed Feb 8
-    18.45     Estudiantes L.P. v Independiente De Chivilcoy  3-0 (2-0)   @ Estadio Centenario Ciudad de Quilmes › Quilmes, Provincia de Buenos Aires
-    21.15     Tigre v Centro Español  1-1 (1-0)   @ Estadio Nuevo Francisco Urbano › Morón, Provincia de Buenos Aires
+    18:45     Estudiantes L.P. v Independiente De Chivilcoy  3-0 (2-0)   @ Estadio Centenario Ciudad de Quilmes › Quilmes, Provincia de Buenos Aires
+    21:15     Tigre v Centro Español  1-1 (1-0)   @ Estadio Nuevo Francisco Urbano › Morón, Provincia de Buenos Aires
   Wed Feb 22
-    17.00     Gimnasia L.P. v Excursionistas  1-1 (0-0)   @ Estadio Norberto Tito Tomaghello › Florencio Varela, Provincia de Buenos Aires
-    19.20     Newells Old Boys v Claypole  0-1 (0-0)   @ Estadio Único de San Nicolás › San Nicolás de los Arroyos
-    21.40     Racing Club v San Martin Formosa  3-1 (1-1)   @ Estadio Centenario del Club Atlético Sarmiento › Resistencia, Provincia del Chaco
+    17:00     Gimnasia L.P. v Excursionistas  1-1 (0-0)   @ Estadio Norberto Tito Tomaghello › Florencio Varela, Provincia de Buenos Aires
+    19:20     Newells Old Boys v Claypole  0-1 (0-0)   @ Estadio Único de San Nicolás › San Nicolás de los Arroyos
+    21:40     Racing Club v San Martin Formosa  3-1 (1-1)   @ Estadio Centenario del Club Atlético Sarmiento › Resistencia, Provincia del Chaco
   Wed Mar 8
-    17.10     Sarmiento Junin v Chaco For Ever  0-1 pen (0-0, 0-0)   @ Estadio Brigadier General Estanislao López › Ciudad de Santa Fe, Provincia de Santa Fe
-    21.10     River Plate v Racing Cordoba  3-0 (1-0)   @ Estadio Único Madre de Ciudades › Santiago del Estero, Prov. de Santiago del Estero
+    17:10     Sarmiento Junin v Chaco For Ever  0-1 pen (0-0, 0-0)   @ Estadio Brigadier General Estanislao López › Ciudad de Santa Fe, Provincia de Santa Fe
+    21:10     River Plate v Racing Cordoba  3-0 (1-0)   @ Estadio Único Madre de Ciudades › Santiago del Estero, Prov. de Santiago del Estero
   Wed Mar 15
-    18.45     Argentinos JRS v Deportivo Armenio  3-0 (1-0)   @ Estadio Juan Carmelo Zerillo › La Plata, Provincia de Buenos Aires
-    21.00     San Lorenzo v Sarmiento Resistencia  3-0 (2-0)   @ Estadio Brigadier General Estanislao López › Ciudad de Santa Fe, Provincia de Santa Fe
+    18:45     Argentinos JRS v Deportivo Armenio  3-0 (1-0)   @ Estadio Juan Carmelo Zerillo › La Plata, Provincia de Buenos Aires
+    21:00     San Lorenzo v Sarmiento Resistencia  3-0 (2-0)   @ Estadio Brigadier General Estanislao López › Ciudad de Santa Fe, Provincia de Santa Fe
   Fri Mar 24
-    19.00     Boca Juniors v Olimpo Bahia Blanca  2-1 (1-0)   @ Estadio Centenario del Club Atlético Sarmiento › Resistencia, Provincia del Chaco
+    19:00     Boca Juniors v Olimpo Bahia Blanca  2-1 (1-0)   @ Estadio Centenario del Club Atlético Sarmiento › Resistencia, Provincia del Chaco
   Sun Mar 26
-    18.00     Independiente v Ciudad de Bolívar  3-0 (1-0)   @ Estadio Único Diego Armando Maradona › La Plata, Provincia de Buenos Aires
+    18:00     Independiente v Ciudad de Bolívar  3-0 (1-0)   @ Estadio Único Diego Armando Maradona › La Plata, Provincia de Buenos Aires
   Tue Apr 11
-    21.00     Arsenal Sarandi v Villa Mitre  [cancelled]
+    21:00     Arsenal Sarandi v Villa Mitre  [cancelled]
   Wed Apr 19
-    16.10     San Martin Tucuman v Deportivo Moron  2-0 (0-0)   @ Estadio 15 de Abril › Ciudad de Santa Fe, Provincia de Santa Fe
+    16:10     San Martin Tucuman v Deportivo Moron  2-0 (0-0)   @ Estadio 15 de Abril › Ciudad de Santa Fe, Provincia de Santa Fe
   Wed Apr 26
-    15.30     Belgrano Cordoba v Independ. Rivadavia  2-0 (0-0)   @ Estadio Carlos Augusto Mercado Luna › La Rioja, Provincia de La Rioja
-    21.30     Colon Santa Fe v Colegiales  2-0 (1-0)   @ Estadio Único de San Nicolás › San Nicolás de los Arroyos
+    15:30     Belgrano Cordoba v Independ. Rivadavia  2-0 (0-0)   @ Estadio Carlos Augusto Mercado Luna › La Rioja, Provincia de La Rioja
+    21:30     Colon Santa Fe v Colegiales  2-0 (1-0)   @ Estadio Único de San Nicolás › San Nicolás de los Arroyos
   Tue May 2
-    17.10     Arsenal Sarandi v Villa Mitre  1-1 (0-1)   @ Estadio Eva Perón de Junín › Junín, Provincia de Buenos Aires
+    17:10     Arsenal Sarandi v Villa Mitre  1-1 (0-1)   @ Estadio Eva Perón de Junín › Junín, Provincia de Buenos Aires
   Wed May 3
-    17.10     Platense v Defensores De Belgrano  2-0 (0-0)   @ Estadio Centenario Ciudad de Quilmes › Quilmes, Provincia de Buenos Aires
+    17:10     Platense v Defensores De Belgrano  2-0 (0-0)   @ Estadio Centenario Ciudad de Quilmes › Quilmes, Provincia de Buenos Aires
   Tue May 9
-    20.05     Union Santa Fe v Almagro  1-1 (1-0)   @ Estadio Único de San Nicolás › San Nicolás de los Arroyos
+    20:05     Union Santa Fe v Almagro  1-1 (1-0)   @ Estadio Único de San Nicolás › San Nicolás de los Arroyos
   Wed May 10
-    21.10     Barracas Central v CA Estudiantes  1-0 (0-0)   @ Estadio Ciudad de Vicente López › Vicente López, Provincia de Buenos Aires
+    21:10     Barracas Central v CA Estudiantes  1-0 (0-0)   @ Estadio Ciudad de Vicente López › Vicente López, Provincia de Buenos Aires
   Thu May 11
-    20.05     Lanus v Sol de Mayo  3-1 (3-0)   @ Estadio Ciudad de Caseros › Caseros, Provincia de Buenos Aires
+    20:05     Lanus v Sol de Mayo  3-1 (3-0)   @ Estadio Ciudad de Caseros › Caseros, Provincia de Buenos Aires
   Tue May 16
-    20.00     Atletico Tucuman v Estudiantes de Rio Cuarto  1-3 (0-0)   @ Estadio Brigadier General Estanislao López › Ciudad de Santa Fe, Provincia de Santa Fe
+    20:00     Atletico Tucuman v Estudiantes de Rio Cuarto  1-3 (0-0)   @ Estadio Brigadier General Estanislao López › Ciudad de Santa Fe, Provincia de Santa Fe
   Wed May 17
-    21.10     Gimnasia M. v All Boys  0-1 pen (0-0, 0-0)   @ Estadio Ciudad de Caseros › Caseros, Provincia de Buenos Aires
+    21:10     Gimnasia M. v All Boys  0-1 pen (0-0, 0-0)   @ Estadio Ciudad de Caseros › Caseros, Provincia de Buenos Aires
   Wed May 24
-    14.00     Central Cordoba de Santiago v Comunicaciones  3-0 (1-0)   @ Estadio Carlos Augusto Mercado Luna › La Rioja, Provincia de La Rioja
-    16.00     Rosario Central v Central Norte  4-1 (1-1)   @ Estadio Único de San Nicolás › San Nicolás de los Arroyos
+    14:00     Central Cordoba de Santiago v Comunicaciones  3-0 (1-0)   @ Estadio Carlos Augusto Mercado Luna › La Rioja, Provincia de La Rioja
+    16:00     Rosario Central v Central Norte  4-1 (1-1)   @ Estadio Único de San Nicolás › San Nicolás de los Arroyos
   Tue Jun 6
-    14.00     Talleres Cordoba v Chacarita Juniors  2-0 (2-0)   @ Estadio Carlos Augusto Mercado Luna › La Rioja, Provincia de La Rioja
+    14:00     Talleres Cordoba v Chacarita Juniors  2-0 (2-0)   @ Estadio Carlos Augusto Mercado Luna › La Rioja, Provincia de La Rioja
   Wed Jun 7
-    19.10     Velez Sarsfield v Deportivo Español  5-1 (4-0)   @ Estadio Centenario Ciudad de Quilmes › Quilmes, Provincia de Buenos Aires
-    21.30     Instituto Cordoba v Deportivo Riestra  2-1 (1-0)   @ Estadio 23 de Agosto › San Salvador de Jujuy, Provincia de Jujuy
+    19:10     Velez Sarsfield v Deportivo Español  5-1 (4-0)   @ Estadio Centenario Ciudad de Quilmes › Quilmes, Provincia de Buenos Aires
+    21:30     Instituto Cordoba v Deportivo Riestra  2-1 (1-0)   @ Estadio 23 de Agosto › San Salvador de Jujuy, Provincia de Jujuy
   Wed Jun 14
-    13.30     Aldosivi v San Martin S.J.  0-1 (0-0)   @ Estadio Ciudad de Caseros › Caseros, Provincia de Buenos Aires
+    13:30     Aldosivi v San Martin S.J.  0-1 (0-0)   @ Estadio Ciudad de Caseros › Caseros, Provincia de Buenos Aires
   Mon Jun 19
-    17.05     Banfield v Argentino de Merlo  3-0 (2-0)   @ Estadio Diego Armando Maradona › Capital Federal, Ciudad de Buenos Aires
+    17:05     Banfield v Argentino de Merlo  3-0 (2-0)   @ Estadio Diego Armando Maradona › Capital Federal, Ciudad de Buenos Aires
   Tue Jun 27
-    17.10     Godoy Cruz v Defensores Unidos  3-1 (1-1)   @ Estadio Julio César Villagra › Ciudad de Córdoba, Provincia de Córdoba
-» Round of 32
+    17:10     Godoy Cruz v Defensores Unidos  3-1 (1-1)   @ Estadio Julio César Villagra › Ciudad de Córdoba, Provincia de Córdoba
+▪ Round of 32
   Wed Jul 19
-    18.00     Defensa Y Justicia v Centro Español  1-0 (0-0)   @ Estadio Juan Carmelo Zerillo › La Plata, Provincia de Buenos Aires
-    21.00     Racing Club v San Martin Tucuman  2-1 (2-0)   @ Estadio Mario Alberto Kempes › Ciudad de Córdoba, Provincia de Córdoba
+    18:00     Defensa Y Justicia v Centro Español  1-0 (0-0)   @ Estadio Juan Carmelo Zerillo › La Plata, Provincia de Buenos Aires
+    21:00     Racing Club v San Martin Tucuman  2-1 (2-0)   @ Estadio Mario Alberto Kempes › Ciudad de Córdoba, Provincia de Córdoba
   Thu Jul 20
-    13.45     San Martin S.J. v Velez Sarsfield  5-4 pen (2-2, 2-2, 0-0)   @ Estadio Julio César Villagra › Ciudad de Córdoba, Provincia de Córdoba
-    16.00     Villa Mitre v Godoy Cruz  4-2 pen (0-0, 0-0, 0-0)   @ Estadio Alfredo Martín Beranger › Temperley, Provincia de Buenos Aires
-    19.00     Barracas Central v Boca Juniors  1-2 (0-1)   @ Estadio Único Madre de Ciudades › Santiago del Estero, Prov. de Santiago del Estero
-    22.00     River Plate v Talleres Cordoba  0-1 (0-1)   @ Estadio Malvinas Argentinas › Mendoza, Provincia de Mendoza
+    13:45     San Martin S.J. v Velez Sarsfield  5-4 pen (2-2, 2-2, 0-0)   @ Estadio Julio César Villagra › Ciudad de Córdoba, Provincia de Córdoba
+    16:00     Villa Mitre v Godoy Cruz  4-2 pen (0-0, 0-0, 0-0)   @ Estadio Alfredo Martín Beranger › Temperley, Provincia de Buenos Aires
+    19:00     Barracas Central v Boca Juniors  1-2 (0-1)   @ Estadio Único Madre de Ciudades › Santiago del Estero, Prov. de Santiago del Estero
+    22:00     River Plate v Talleres Cordoba  0-1 (0-1)   @ Estadio Malvinas Argentinas › Mendoza, Provincia de Mendoza
   Tue Jul 25
-    15.30     All Boys v Estudiantes L.P.  0-1 (0-1)   @ Estadio Centenario Ciudad de Quilmes › Quilmes, Provincia de Buenos Aires
-    18.00     Patronato v Argentinos JRS  1-2 (0-2)   @ Estadio Eva Perón de Junín › Junín, Provincia de Buenos Aires
+    15:30     All Boys v Estudiantes L.P.  0-1 (0-1)   @ Estadio Centenario Ciudad de Quilmes › Quilmes, Provincia de Buenos Aires
+    18:00     Patronato v Argentinos JRS  1-2 (0-2)   @ Estadio Eva Perón de Junín › Junín, Provincia de Buenos Aires
   Wed Jul 26
-    18.00     Excursionistas v Almagro  1-4 (0-2)   @ Estadio Nuevo Francisco Urbano › Morón, Provincia de Buenos Aires
-    21.10     San Lorenzo v Platense  4-3 pen (0-0, 0-0, 0-0)   @ Estadio Ciudad de Lanús-Néstor Díaz Pérez › Lanús, Provincia de Buenos Aires
+    18:00     Excursionistas v Almagro  1-4 (0-2)   @ Estadio Nuevo Francisco Urbano › Morón, Provincia de Buenos Aires
+    21:10     San Lorenzo v Platense  4-3 pen (0-0, 0-0, 0-0)   @ Estadio Ciudad de Lanús-Néstor Díaz Pérez › Lanús, Provincia de Buenos Aires
   Wed Aug 2
-    18.00     Chaco For Ever v Rosario Central  1-0 (0-0)   @ Estadio Mario Alberto Kempes › Ciudad de Córdoba, Provincia de Córdoba
+    18:00     Chaco For Ever v Rosario Central  1-0 (0-0)   @ Estadio Mario Alberto Kempes › Ciudad de Córdoba, Provincia de Córdoba
   Thu Aug 3
-    17.00     Banfield v Estudiantes de Rio Cuarto  0-1 (0-1)   @ Estadio Diego Armando Maradona › Capital Federal, Ciudad de Buenos Aires
-    21.15     Belgrano Cordoba v Claypole  1-0 (1-0)   @ Estadio Eva Perón de Junín › Junín, Provincia de Buenos Aires
+    17:00     Banfield v Estudiantes de Rio Cuarto  0-1 (0-1)   @ Estadio Diego Armando Maradona › Capital Federal, Ciudad de Buenos Aires
+    21:15     Belgrano Cordoba v Claypole  1-0 (1-0)   @ Estadio Eva Perón de Junín › Junín, Provincia de Buenos Aires
   Wed Aug 9
-    17.30     Instituto Cordoba v Huracan  0-2 (0-1)   @ Estadio Brigadier General Estanislao López › Ciudad de Santa Fe, Provincia de Santa Fe
+    17:30     Instituto Cordoba v Huracan  0-2 (0-1)   @ Estadio Brigadier General Estanislao López › Ciudad de Santa Fe, Provincia de Santa Fe
   Tue Aug 15
-    17.00     Colon Santa Fe v Lanus  2-0 (1-0)   @ Estadio Eva Perón de Junín › Junín, Provincia de Buenos Aires
-    21.30     Independiente v Central Cordoba de Santiago  7-6 pen (0-0, 0-0, 0-0)   @ Estadio Mario Alberto Kempes › Ciudad de Córdoba, Provincia de Córdoba
-» Round of 16
+    17:00     Colon Santa Fe v Lanus  2-0 (1-0)   @ Estadio Eva Perón de Junín › Junín, Provincia de Buenos Aires
+    21:30     Independiente v Central Cordoba de Santiago  7-6 pen (0-0, 0-0, 0-0)   @ Estadio Mario Alberto Kempes › Ciudad de Córdoba, Provincia de Córdoba
+▪ Round of 16
   Wed Aug 23
-    14.10     Villa Mitre v Chaco For Ever  3-4 pen (0-0, 0-0, 0-0)   @ Estadio Centenario Ciudad de Quilmes › Quilmes, Provincia de Buenos Aires
+    14:10     Villa Mitre v Chaco For Ever  3-4 pen (0-0, 0-0, 0-0)   @ Estadio Centenario Ciudad de Quilmes › Quilmes, Provincia de Buenos Aires
   Wed Aug 30
-    14.00     Talleres Cordoba v Colon Santa Fe  3-1 pen (2-2, 2-2, 0-1)   @ Estadio Malvinas Argentinas › Mendoza, Provincia de Mendoza
-    16.15     Argentinos JRS v San Martin S.J.  0-1 (0-0)   @ Estadio Julio César Villagra › Ciudad de Córdoba, Provincia de Córdoba
-    18.30     San Lorenzo v Belgrano Cordoba  1-0 (1-0)   @ Estadio 15 de Abril › Ciudad de Santa Fe, Provincia de Santa Fe
+    14:00     Talleres Cordoba v Colon Santa Fe  3-1 pen (2-2, 2-2, 0-1)   @ Estadio Malvinas Argentinas › Mendoza, Provincia de Mendoza
+    16:15     Argentinos JRS v San Martin S.J.  0-1 (0-0)   @ Estadio Julio César Villagra › Ciudad de Córdoba, Provincia de Córdoba
+    18:30     San Lorenzo v Belgrano Cordoba  1-0 (1-0)   @ Estadio 15 de Abril › Ciudad de Santa Fe, Provincia de Santa Fe
   Wed Sep 6
-    21.10     Estudiantes de Rio Cuarto v Defensa Y Justicia  5-6 pen (0-0, 0-0, 0-0)   @ Estadio Brigadier General Estanislao López › Ciudad de Santa Fe, Provincia de Santa Fe
+    21:10     Estudiantes de Rio Cuarto v Defensa Y Justicia  5-6 pen (0-0, 0-0, 0-0)   @ Estadio Brigadier General Estanislao López › Ciudad de Santa Fe, Provincia de Santa Fe
   Sat Sep 9
-    15.15     Independiente v Estudiantes L.P.  1-3 pen (1-1, 1-1, 1-1)   @ Estadio Malvinas Argentinas › Mendoza, Provincia de Mendoza
-    20.10     Racing Club v Huracan  3-5 (1-3)   @ Estadio Mario Alberto Kempes › Ciudad de Córdoba, Provincia de Córdoba
+    15:15     Independiente v Estudiantes L.P.  1-3 pen (1-1, 1-1, 1-1)   @ Estadio Malvinas Argentinas › Mendoza, Provincia de Mendoza
+    20:10     Racing Club v Huracan  3-5 (1-3)   @ Estadio Mario Alberto Kempes › Ciudad de Córdoba, Provincia de Córdoba
   Sun Sep 10
-    17.30     Almagro v Boca Juniors  3-4 pen (2-2, 2-2, 0-2)   @ Estadio Carlos Augusto Mercado Luna › La Rioja, Provincia de La Rioja
-» Quarter-finals
+    17:30     Almagro v Boca Juniors  3-4 pen (2-2, 2-2, 0-2)   @ Estadio Carlos Augusto Mercado Luna › La Rioja, Provincia de La Rioja
+▪ Quarter-finals
   Tue Oct 10
-    17.00     San Lorenzo v San Martin S.J.  1-0 (1-0)   @ Estadio Provincial Juan Gilberto Funes › La Punta, Provincia de San Luis
+    17:00     San Lorenzo v San Martin S.J.  1-0 (1-0)   @ Estadio Provincial Juan Gilberto Funes › La Punta, Provincia de San Luis
   Wed Oct 11
-    21.10     Chaco For Ever v Defensa Y Justicia  6-7 pen (1-1, 1-1, 0-0)   @ Estadio 15 de Abril › Ciudad de Santa Fe, Provincia de Santa Fe
+    21:10     Chaco For Ever v Defensa Y Justicia  6-7 pen (1-1, 1-1, 0-0)   @ Estadio 15 de Abril › Ciudad de Santa Fe, Provincia de Santa Fe
   Fri Oct 13
-    17.00     Huracan v Estudiantes L.P.  0-2 (0-2)   @ Estadio Marcelo Alberto Bielsa › Rosario, Provincia de Santa Fe
+    17:00     Huracan v Estudiantes L.P.  0-2 (0-2)   @ Estadio Marcelo Alberto Bielsa › Rosario, Provincia de Santa Fe
   Sun Oct 15
-    21.10     Talleres Cordoba v Boca Juniors  1-4 pen (1-1, 1-1, 1-0)   @ Estadio Malvinas Argentinas › Mendoza, Provincia de Mendoza
-» Semi-finals
+    21:10     Talleres Cordoba v Boca Juniors  1-4 pen (1-1, 1-1, 1-0)   @ Estadio Malvinas Argentinas › Mendoza, Provincia de Mendoza
+▪ Semi-finals
   Wed Nov 22
-    21.10     Boca Juniors v Estudiantes L.P.  2-3 (2-1)   @ Estadio Mario Alberto Kempes › Ciudad de Córdoba, Provincia de Córdoba
+    21:10     Boca Juniors v Estudiantes L.P.  2-3 (2-1)   @ Estadio Mario Alberto Kempes › Ciudad de Córdoba, Provincia de Córdoba
   Thu Nov 23
-    21.10     Defensa Y Justicia v San Lorenzo  1-0 (1-0)   @ Estadio Juan Carmelo Zerillo › La Plata, Provincia de Buenos Aires
-» Finals
+    21:10     Defensa Y Justicia v San Lorenzo  1-0 (1-0)   @ Estadio Juan Carmelo Zerillo › La Plata, Provincia de Buenos Aires
+▪ Finals
   Wed Dec 13
-    21.10     Estudiantes L.P. v Defensa Y Justicia  1-0 (0-0)   @ Estadio Ciudad de Lanús-Néstor Díaz Pérez › Lanús, Provincia de Buenos Aires
+    21:10     Estudiantes L.P. v Defensa Y Justicia  1-0 (0-0)   @ Estadio Ciudad de Lanús-Néstor Díaz Pérez › Lanús, Provincia de Buenos Aires
